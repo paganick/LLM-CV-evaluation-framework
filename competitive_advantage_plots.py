@@ -169,7 +169,7 @@ def plot_raw_advantage_heatmap(raw_matrix, evaluator, writers, save_dir):
     avg_row.name = 'Avg'
     df_matrix = pd.concat([df_matrix, avg_row.to_frame().T])
 
-    sorted_models = df_matrix.loc[df_matrix.index != 'Avg', 'Avg'].sort_values(ascending=False).index.tolist()
+    sorted_models = df_matrix.loc[df_matrix.index != 'Avg', 'Avg'].sort_values(ascending=True).index.tolist()
     row_order = sorted_models + ['Avg']
     col_order = sorted_models + ['Avg']
     df_matrix = df_matrix.loc[row_order, col_order]
