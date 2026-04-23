@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant full-stack and testing experience but is primarily a Java/Spring backend engineer with dated frontend exposure (AngularJS, ReactJS). They lack explicit, recent experience with the core stack (TypeScript, modern React) and key tools (Jest, Cypress, ESLint, Prettier, CircleCI, Ramda) specified in the job description. Their test automation experience is Selenium/Java-based, not aligned with modern frontend testing frameworks.

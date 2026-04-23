@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary expertise is in Drupal and PHP backend development, with only peripheral mentions of the required modern frontend stack like React. The resume lacks direct experience with key job requirements such as React, TypeScript, modern testing frameworks (Jest, Cypress), and specific tools like Styled Components or Ramda. While they have general web development experience and mention some overlapping skills, their profile is not a strong match for a focused modern frontend engineering role.

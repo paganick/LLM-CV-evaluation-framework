@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, hands-on expertise required by the job description. While they mention JavaScript and CSS, their primary experience is in PHP, and there is no demonstrable, recent experience with React, TypeScript, modern testing frameworks, or the specific tools listed (e.g., Jest, Cypress, Styled Components). The resume shows dated experience and a skillset that is not aligned with the modern frontend and full-stack stack described.

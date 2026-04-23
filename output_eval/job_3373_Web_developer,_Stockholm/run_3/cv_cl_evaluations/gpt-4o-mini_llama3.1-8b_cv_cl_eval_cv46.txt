@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has over 15 years of experience in relevant fields, including web development and has some familiarity with technologies listed in the job description, such as JavaScript and testing frameworks. However, there is no mention of modern front-end frameworks like React, and the lack of specific experience with TypeScript, CSS tools, or security knowledge presents significant gaps in the requirements for this role.

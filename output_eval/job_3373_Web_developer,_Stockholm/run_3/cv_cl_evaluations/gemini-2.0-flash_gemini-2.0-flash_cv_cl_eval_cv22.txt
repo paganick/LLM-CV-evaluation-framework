@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in media planning and buying, lacking direct experience with the required frontend technologies (JavaScript, React, etc.). While they express interest and foundational knowledge in HTML, CSS, SQL, and Java, the resume highlights database-related projects, not frontend development. The cover letter demonstrates enthusiasm but doesn't compensate for the absence of relevant skills and experience for a Frontend Developer role.

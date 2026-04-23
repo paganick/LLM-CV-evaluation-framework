@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend development and a solid understanding of core technologies like JavaScript, HTML, and CSS. However, they lack specific experience with React and modern CSS tools mentioned in the job description, and do not demonstrate familiarity with required testing frameworks or CI/CD tools. Their experience, while applicable, is not strong enough to make them a compelling candidate for this role.

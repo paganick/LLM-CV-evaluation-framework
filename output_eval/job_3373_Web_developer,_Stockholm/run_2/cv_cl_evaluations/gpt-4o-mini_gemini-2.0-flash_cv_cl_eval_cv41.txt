@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in information technology and system administration but lacks direct experience with front-end development frameworks and tools specified in the job description, such as React, TypeScript, and modern CSS tools. While they possess familiarity with HTML, CSS, and JavaScript, their knowledge appears insufficient for the role, making them a relevant candidate but not specifically qualified for this position.

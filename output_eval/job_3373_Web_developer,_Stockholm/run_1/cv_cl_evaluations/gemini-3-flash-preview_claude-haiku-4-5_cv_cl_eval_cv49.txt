@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a data analyst whose professional experience and technical skills are entirely focused on statistics, data science, and industrial engineering rather than software development. The resume contains no professional experience or documented projects involving JavaScript, React, TypeScript, or modern frontend testing frameworks. While the cover letter expresses a desire to transition careers, the candidate currently lacks the fundamental technical qualifications and industry-specific experience required for this role.

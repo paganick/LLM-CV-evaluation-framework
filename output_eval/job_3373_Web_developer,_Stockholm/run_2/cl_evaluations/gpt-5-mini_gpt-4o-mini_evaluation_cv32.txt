@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills (communication, Agile experience, analytical mindset) and some foundational knowledge (OWASP, CORS, OAuth, mentions of Jest/ESLint/Prettier), but provides no concrete, hands-on experience with React/TypeScript, testing/test automation, Git/npm/Node, modern CSS tools, CI/CD, or AWS/Terraform as required. The application reads as a career pivot with intent to learn rather than an applicant who currently meets the technical requirements, so it is not a strong technical match.

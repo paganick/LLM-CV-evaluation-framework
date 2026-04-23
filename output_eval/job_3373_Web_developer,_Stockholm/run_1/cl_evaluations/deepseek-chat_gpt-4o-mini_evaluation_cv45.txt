@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, testing, Git, security concepts, and Agile. However, the cover letter lacks specific mention of several key tools from the job description, such as modern CSS tools (Styled Components/SASS), linters/formatters, and specific Node.js tools like Express.js. The background in IT management is impressive but less directly relevant than hands-on frontend development experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, and CSS, and mentions React in the cover letter, aligning with the job description's core requirements. However, the resume focuses heavily on .NET development (C#, ASP.NET), lacking substantial evidence of hands-on experience with modern frontend frameworks and testing practices emphasized in the job description. The candidate also lacks experience with many of the "nice to have" technologies.

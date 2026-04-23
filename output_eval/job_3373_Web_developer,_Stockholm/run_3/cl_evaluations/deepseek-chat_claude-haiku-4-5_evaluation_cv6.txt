@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core technical requirements, including React, modern CSS tools, testing, Git, Agile collaboration, and security fundamentals. However, they lack explicit, hands-on experience with TypeScript, Node.js/npm ecosystem, and the specific CI/CD tools mentioned, which are important for the role. Their full-stack background is a positive, but the absence of these key technologies prevents a higher score.

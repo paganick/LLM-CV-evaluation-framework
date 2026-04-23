@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in software development, their technical background is heavily focused on the Microsoft .NET stack and legacy technologies like AngularJS and jQuery. The resume lacks evidence of professional experience with the required modern ecosystem, specifically TypeScript, React, and contemporary testing frameworks like Jest or Cypress. Furthermore, there is no demonstrated proficiency in functional programming, CI/CD pipelines, or cloud infrastructure tools such as AWS and Terraform.

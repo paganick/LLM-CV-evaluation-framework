@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant project management experience and skills in JavaScript, HTML, and CSS, but lacks specific experience with modern front-end frameworks like React, as required by the job description. While they express a willingness to learn and adapt, their current familiarity with React is mentioned as "growing," which may not meet the immediate needs for the position. Additionally, their experience with testing and automation tools is not highlighted, which is an important aspect of the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web and front-end exposure (JavaScript, HTML/CSS, Angular) and strong project management and agile experience, which aligns with collaboration and process requirements. However, they lack demonstrable, hands‑on experience with the employer's core stack—React and TypeScript—and the resume does not provide concrete evidence of modern tooling (Node/npm, Jest/Cypress, CI/CD, AWS/Terraform) or sustained front‑end development work. This yields a relevant but insufficient technical match for the role.

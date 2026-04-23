@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has notable experience in test engineering and a strong background in hardware and system-level testing. However, they lack specific front-end development experience with JavaScript frameworks (e.g., React), which is critical for this role. While they demonstrate familiarity with testing frameworks and security principles, they do not fully meet the required technical expertise outlined in the job description.

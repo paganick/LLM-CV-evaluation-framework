@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a Mainframe developer with over seven years of experience in COBOL, JCL, and DB2, which is entirely outside the required modern frontend ecosystem. While the cover letter mentions a desire to transition, the resume provides no evidence of professional experience with React, TypeScript, modern testing frameworks, or CI/CD tools. The candidate lacks the specific technical skills and industry experience necessary to perform the duties of a Frontend Developer.

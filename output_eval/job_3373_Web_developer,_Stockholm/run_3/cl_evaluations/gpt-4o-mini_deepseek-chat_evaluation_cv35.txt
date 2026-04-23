@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web technologies and front-end principles but lacks direct experience with specific frameworks mentioned in the job description, such as React, as well as exposure to modern CSS tools and testing frameworks. While their background in marketing automation and collaboration in Agile environments is beneficial, they do not demonstrate sufficient hands-on experience with the exact tools and methodologies required for this front-end developer role.

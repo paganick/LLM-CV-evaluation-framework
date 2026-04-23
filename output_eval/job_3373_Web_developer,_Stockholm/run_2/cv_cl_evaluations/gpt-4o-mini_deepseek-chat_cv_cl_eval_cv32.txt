@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some foundational knowledge in web development technologies such as JavaScript, TypeScript, HTML, and CSS, as well as practical experience with React and testing frameworks. However, they lack formal experience in a development role and do not demonstrate familiarity with essential tools and practices mentioned in the job description, such as CI/CD processes and modern CSS tools. Their background heavily leans towards customer service rather than software development, making them a less suitable fit for the role.

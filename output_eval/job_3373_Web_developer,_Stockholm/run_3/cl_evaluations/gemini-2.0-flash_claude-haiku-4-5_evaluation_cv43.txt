@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is not directly in frontend development, requiring a significant transition. While analytical skills and program management experience are valuable, the cover letter lacks demonstrable hands-on experience with the specific technologies (React, Jest, testing frameworks) outlined in the job description. The candidate expresses interest in learning these technologies, but lacks proven proficiency.

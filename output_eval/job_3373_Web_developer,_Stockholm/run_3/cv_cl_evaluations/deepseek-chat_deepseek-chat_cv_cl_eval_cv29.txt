@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in business development and sales, not software development, which is a fundamental mismatch for a hands-on front-end developer role. While the cover letter claims self-taught proficiency in key technologies like React and TypeScript, the resume provides zero evidence of professional development experience, projects, or technical deliverables. The required experience with testing frameworks, modern FE frameworks in a production setting, and Agile development is not substantiated by their work history.

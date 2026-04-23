@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for a modern Front-End Developer role, lacking essential experience in JavaScript, TypeScript, and React. Their background is almost exclusively in data analytics, research, and semiconductor quality engineering rather than web development. They fail to meet the requirements for testing frameworks, CI/CD tools, and modern CSS methodologies specified in the job description.

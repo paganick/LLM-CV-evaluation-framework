@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid fundamentals in HTML, CSS and JavaScript and relevant academic projects, but lacks hands-on experience with key requirements such as React, TypeScript, modern Node tooling, Git/GitHub workflows, testing frameworks (Jest/Cypress) and CSS-in-JS/SASS. Their background and motivation to learn are positives, but they do not currently meet several core technical and toolchain expectations for this role. This profile is better suited for an entry-level position with strong mentorship rather than the role as described.

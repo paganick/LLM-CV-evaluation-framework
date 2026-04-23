@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design, which is relevant to aesthetics in front-end development, but lacks substantial experience with JavaScript, modern front-end frameworks like React, testing frameworks, and other technical skills specified in the job description. While they express a willingness to learn and adapt, their current qualifications do not meet the specific requirements needed for the role.

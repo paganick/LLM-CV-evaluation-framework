@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions the required front-end technologies (JavaScript, TypeScript, HTML, CSS), and some relevant tooling (Jest, TestCafe, ESLint, Prettier, CircleCI) which are good. However, the cover letter focuses heavily on database administration and older technologies (Java, EJB, XML) not directly related to the job description. The cover letter lacks specific evidence of React experience, despite the job description explicitly mentioning it, and doesn't address other desired skills like modern CSS tools or the NodeJS ecosystem.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not front-end development, and they explicitly lack direct experience with the core technologies of JavaScript and TypeScript. While they demonstrate some relevant foundational knowledge (HTML, CSS, security concepts) and a strong willingness to learn, they do not meet the essential, hands-on technical requirements listed in the job description. Their transferable skills are insufficient to compensate for the absence of professional experience in the required tech stack.

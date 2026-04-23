@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT and MDM architecture, but lacks specific experience in user experience design and the tools mentioned in the job description, particularly Figma. While they have exposure to HTML, CSS, and JavaScript, their focus has been on technical architecture rather than user-centered design, which makes them relevant but not properly qualified for this UX role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, explicitly stating a need to "immerse" themselves in these technologies rather than possessing professional experience. Furthermore, there is no evidence of experience with testing frameworks, Git, or the modern NodeJS ecosystem required by the job description. While the applicant has a strong background in creative design and collaboration, they are essentially a career-changer who does not meet the core engineering requirements for this senior-level tech stack.

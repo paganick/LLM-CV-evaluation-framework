@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is overwhelmingly in marketing, communications, public relations, and legal administration with no demonstrated hands-on experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git, NodeJS, or cloud/CI tooling required for the Front-End Engineer role. While they show strong communication and project-management skills, they do not meet the core technical qualifications or provide evidence of relevant engineering experience or tooling knowledge. Therefore they are not qualified for this position.

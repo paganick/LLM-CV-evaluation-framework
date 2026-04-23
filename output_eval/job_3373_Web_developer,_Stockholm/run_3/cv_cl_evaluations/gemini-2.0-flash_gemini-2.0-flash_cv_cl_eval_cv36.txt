@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in microbiology and consulting, lacking any of the technical skills (JavaScript, React, HTML, CSS, etc.) listed in the job description. While the cover letter mentions transferable skills, the resume provides no evidence of front-end development experience or relevant technical knowledge. The candidate is completely unqualified for this Frontend Developer position.

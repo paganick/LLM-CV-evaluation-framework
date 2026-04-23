@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in mainframe development (COBOL, CICS, DB2), which is a completely different technology stack and industry segment from the required modern web development role. They possess none of the mandatory skills listed (JavaScript, TypeScript, React, testing frameworks, Git, web security). While they express a willingness to learn, their professional experience provides no relevant foundation for this position.

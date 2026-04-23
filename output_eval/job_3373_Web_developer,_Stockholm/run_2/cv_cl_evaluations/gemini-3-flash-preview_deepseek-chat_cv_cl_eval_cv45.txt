@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is strictly limited to cybersecurity management, government IT policy, and high-level infrastructure oversight, with no documented professional history in front-end development. There is zero evidence of hands-on experience with the required technical stack, such as JavaScript, TypeScript, React, or modern testing frameworks. While the candidate expresses a desire to transition roles, they do not currently possess the specific engineering skills or industry experience required for this position.

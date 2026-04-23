@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed towards manual and automation testing with a focus on QA processes, not modern front-end development. While they mention JavaScript and Agile, they lack demonstrable hands-on experience with React, TypeScript, modern CSS tools, and the specific testing frameworks (Jest, Cypress) listed in the job description. Their experience is in a supporting test role, not in the core development and engineering responsibilities the position requires.

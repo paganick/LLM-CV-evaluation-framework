@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance specialist with no professional experience as a Frontend Developer, specifically lacking the required expertise in React and TypeScript. While they possess strong testing skills and a background in JavaScript and HTML, their career history is centered on manual and automation testing rather than building and maintaining modern frontend applications. Consequently, they fail to meet the core technical development and framework-specific requirements of the role.

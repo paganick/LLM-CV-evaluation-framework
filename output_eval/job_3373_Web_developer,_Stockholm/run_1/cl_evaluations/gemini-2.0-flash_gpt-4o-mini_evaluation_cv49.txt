@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background in Industrial and Systems Engineering with a focus on data analysis is not a direct fit for a Software Engineer role emphasizing frontend technologies. While the candidate expresses a willingness to learn, the limited experience with core technologies like JavaScript, TypeScript, HTML, and CSS, as well as frontend frameworks (React), is a significant drawback. The letter highlights analytical skills and collaboration, but lacks demonstrable experience in the specific technologies and practices outlined in the job description.

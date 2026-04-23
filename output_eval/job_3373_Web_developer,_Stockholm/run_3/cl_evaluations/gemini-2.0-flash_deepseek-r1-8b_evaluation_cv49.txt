@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis and engineering, lacking direct experience in front-end development. While the candidate expresses interest in web development and possesses some overlapping skills like Git, they lack hands-on experience with key requirements such as TypeScript, modern CSS tools, testing frameworks, and the NodeJS ecosystem. Their skills don't fully align with the job description's emphasis on React and related technologies.

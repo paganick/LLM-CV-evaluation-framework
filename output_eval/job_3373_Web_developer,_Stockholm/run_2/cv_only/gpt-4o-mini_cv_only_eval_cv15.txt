@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT management and web development but lacks specific experience with modern front-end frameworks like React, VueJS, Angular, or Svelte, which are essential for the role. They also do not demonstrate hands-on experience with testing or CI/CD tools, which are critical components outlined in the job description.

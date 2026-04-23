@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is significantly outdated, with no relevant work history recorded since 2017. While they possess a background in IT, they lack demonstrated professional experience with React, TypeScript, and modern frontend testing frameworks required for the role. The resume's focus is primarily on Java backend and database administration rather than the modern web ecosystem specified in the job description.

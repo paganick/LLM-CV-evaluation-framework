@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in front-end development and testing methodologies, particularly with JavaScript and familiarity with React. However, they lack specific experience with TypeScript and several testing frameworks mentioned in the job description, such as Jest and Cypress. Furthermore, the candidate's familiarity with CI/CD tools and security principles is basic, which may not fully align with the position's requirements.

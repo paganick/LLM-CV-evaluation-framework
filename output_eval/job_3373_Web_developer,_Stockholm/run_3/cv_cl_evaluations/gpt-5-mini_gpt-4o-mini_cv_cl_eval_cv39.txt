@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design and HTML/CSS experience but lacks the core front-end engineering skills required: no demonstrable JavaScript/TypeScript proficiency, no experience with React or other modern frameworks, and no explicit evidence of Git/GitHub, testing frameworks, or CI/CD. They note limited familiarity with SASS, linting tools, Node/AWS and an interest in testing, but this is insufficient for the hands-on engineering expectations of the role without significant upskilling.

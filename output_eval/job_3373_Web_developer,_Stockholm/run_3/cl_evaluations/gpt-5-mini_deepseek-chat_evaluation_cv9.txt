@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate has a strong software engineering background with relevant front-end fundamentals (JavaScript, HTML, Git), a quality-driven mindset, and Agile/collaboration experience. However, they do not demonstrate hands-on experience with key items in the job description—React, TypeScript, modern CSS tools (Styled Components/SASS), front-end testing frameworks (Jest/Cypress/TestCafe), and the Node/npm ecosystem/CI-CD—making them a relevant but incomplete match.

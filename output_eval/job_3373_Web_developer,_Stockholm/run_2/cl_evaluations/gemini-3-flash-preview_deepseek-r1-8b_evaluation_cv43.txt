@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this technical role, as they explicitly state their experience lies outside of software development. While they possess transferable soft skills in project management and Agile, they lack the mandatory proficiency in JavaScript, React, and testing frameworks required by the job description. This application represents a fundamental mismatch between the candidate's career background and the specialized technical requirements of the position.

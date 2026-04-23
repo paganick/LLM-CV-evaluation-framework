@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position. While my career has been primarily in product leadership, this represents a deliberate and passionate pivot back to my foundational roots in software development and modern web technologies. My extensive experience in shipping complex, customer-facing web platforms aligns perfectly with the technical and collaborative requirements of your role.
+
+For over two decades, I have been at the intersection of business strategy and technology execution, most recently as Senior Director of Product Management at ReverbNation, where I led the design and release of its first mobile-responsive platform. This involved deep collaboration with engineering teams to define specifications, prioritize backlogs, and ensure the delivery of high-quality, scalable software. My hands-on history includes introducing Scrum and agile methodologies at multiple organizations to create reliable, repeatable release cycles—a process I understand intimately from the product owner perspective.
+
+My technical foundation is solid. My academic concentration was in Computer Science and Computer Graphics, and I have maintained a keen, practical interest in front-end development. I have actively built my proficiency in the core stack you seek: JavaScript, TypeScript, HTML, CSS, and React. I am well-versed in modern tooling like Git, ESLint, Prettier, and the Node.js/npm ecosystem. I understand the critical importance of writing clean, maintainable code and have a strong appreciation for comprehensive testing frameworks, API design, and the security principles (OWASP, CORS) necessary for robust web applications.
+
+What I bring, beyond a rapidly advancing technical skill set, is a unique product mindset. I have a proven track record of collaborating closely with engineering, design, and QA teams to solve real customer problems. My experience in negotiating technical partnerships and defining product vision at companies like Brightcove means I am exceptionally comfortable interacting with other teams and external partners, with a genuine desire to understand the full domain. I am a strong communicator who thrives in Agile environments and is driven by a passion for building excellent software.
+
+I am eager to contribute my unique blend of strategic product insight and renewed technical focus to your team. Thank you for your time and consideration.
+
+Sincerely, Alexis

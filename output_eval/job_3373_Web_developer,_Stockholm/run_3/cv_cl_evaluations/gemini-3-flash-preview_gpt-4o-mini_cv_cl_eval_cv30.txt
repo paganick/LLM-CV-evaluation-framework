@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a data analyst and quality technician with no professional experience in JavaScript, TypeScript, or modern React-based front-end development as required. While the cover letter mentions these skills, the resume focuses almost entirely on data science, Python, and legacy ASP.NET, failing to demonstrate the specific technical proficiency or testing framework experience requested. The profile reflects a career pivot that lacks the practical engineering depth needed for a front-end specialist role.

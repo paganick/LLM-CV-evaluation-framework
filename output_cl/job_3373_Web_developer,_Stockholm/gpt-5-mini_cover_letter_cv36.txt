@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Engineer position. As a consultant and microbiologist with over a decade of experience in regulated, test-driven environments, I bring a rigorous approach to validation, documentation, and cross-functional collaboration that maps directly to high-quality front-end development. Throughout my consulting and training career I have led validation efforts, developed and executed IQ/OQ protocols, and created robust standard operating procedures to ensure reproducibility and compliance.
+
+My background centers on testing, training and process controls. I designed and executed validation documents and protocols for equipment and systems, conducted environmental monitoring and out-of-specification investigations, and supported regulatory audit responses. Those responsibilities demanded meticulous test planning, repeatable test cases, clear failure diagnostics, and comprehensive reporting—skills that translate naturally to writing unit, integration and E2E tests and to maintaining strong test automation practices.
+
+I am an experienced trainer and collaborator. I have created online training courses used in video conferences, organized and instructed large cohorts, and aligned training plans with functional managers to meet regulatory requirements. I lead cross-functional teams during commissioning, qualification and validation activities and regularly communicated with production, QA, QC and R&D stakeholders. I value agile, iterative workflows and continuous improvement, and I am comfortable interacting with other teams and external partners to define scope, implement changes and resolve issues.
+
+My strengths include an obsessive attention to detail, disciplined documentation, and a genuine commitment to reproducibility and cleanliness—qualities I apply to code, processes and systems alike. I have built inventory systems, maintained laboratory information systems, and programmed computers to store, process and analyze data. I am adept at using tools such as FTP clients, Citrix servers, LIMS and SAP, and I bring strong project management and change-control experience from highly regulated environments.
+
+Although my formal training is in microbiology and validation, I am highly motivated to transition into front-end engineering. I am eager to learn React, modern JavaScript toolchains, testing frameworks, and CI/CD practices, and I will apply my proven discipline for testing, documentation and cross-team collaboration to deliver reliable, maintainable user interfaces.
+
+As a Certified Training Specialist and charismatic public speaker, I excel at translating complex requirements into clear specifications and actionable tasks, which supports collaboration with designers, product managers and backend engineers to ensure APIs and interactions meet user and business needs while maintaining strict documentation, traceability and quality standards and compliance.
+
+Sincerely, Alexis

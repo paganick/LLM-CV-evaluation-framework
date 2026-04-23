@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the core technical stack, specifically highlighting experience with React, TypeScript, and functional programming via Ramda. However, the application fails to address several critical requirements from the job description, including web security protocols (OWASP, CORS, OAuth) and infrastructure tools like AWS, Terraform, and CI/CD. Given these missing technical competencies and the relatively junior two-year experience level, the candidate is a strong match but falls short of being a perfect fit.

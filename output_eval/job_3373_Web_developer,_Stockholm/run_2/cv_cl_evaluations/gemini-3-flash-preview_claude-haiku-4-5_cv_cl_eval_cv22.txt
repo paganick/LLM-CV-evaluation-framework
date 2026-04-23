@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from the marketing and media industry and lacks any professional experience in frontend development or the required tech stack. Their resume shows no evidence of proficiency in JavaScript, TypeScript, React, or modern testing frameworks, which are core requirements for this role. While they possess academic exposure to basic HTML and SQL, their background is entirely mismatched with the level of technical expertise requested.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience with the core requirements of the role, including JavaScript, TypeScript, and React. While they possess a strong background in hardware test engineering and automation, these skills do not translate to the specific web-based stack and front-end architecture requested. As a career pivoter with zero hands-on experience in modern CSS or web security, they do not meet the minimum technical threshold for a Front-End Engineer position.

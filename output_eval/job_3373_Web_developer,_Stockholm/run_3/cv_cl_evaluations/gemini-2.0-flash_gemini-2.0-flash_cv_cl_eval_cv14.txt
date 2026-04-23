@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end experience with HTML, CSS, and JavaScript, but the resume is heavily focused on ASP.NET and C#. There's a stated interest in React, but limited evidence of hands-on experience. The cover letter attempts to bridge the gap, but the resume doesn't strongly support the claims.

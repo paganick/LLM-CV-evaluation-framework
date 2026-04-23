@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is a mix of IT education and construction experience, which is not a direct match for the job description. They lack formal experience in modern FE frameworks like React as required, and testing/test automation experience is also limited. Although there is some understanding of Git and web security, the cover letter doesn't demonstrate in-depth knowledge of the required technologies.

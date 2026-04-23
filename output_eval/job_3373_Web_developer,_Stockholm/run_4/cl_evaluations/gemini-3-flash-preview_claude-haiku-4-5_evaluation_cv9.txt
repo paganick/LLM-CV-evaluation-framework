@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a backend developer attempting to pivot into a frontend role and lacks professional experience with React and TypeScript, which are central requirements of the position. While they demonstrate strong expertise in testing and security protocols, they provide no evidence of working with modern frontend tools such as Styled Components, Jest, or Cypress. As a strict recruiter, I find their "passion for learning" insufficient to offset the lack of demonstrated technical proficiency in the specific frontend stack required.

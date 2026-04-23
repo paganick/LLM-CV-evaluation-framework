@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical software engineering role, lacking experience in JavaScript, TypeScript, React, and all other required development tools. Their professional background is rooted in administrative management and the performing arts, which does not align with the technical demands of the position. There is no evidence of the required proficiency in web security, testing automation, or CI/CD pipelines.

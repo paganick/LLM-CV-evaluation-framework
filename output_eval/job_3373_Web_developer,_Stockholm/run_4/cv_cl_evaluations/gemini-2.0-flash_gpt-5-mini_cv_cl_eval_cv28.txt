@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials analysis, which is entirely different from front-end engineering. The resume and cover letter lack any mention of the required technologies like JavaScript, React, or even basic HTML/CSS. While the candidate expresses interest in learning these technologies, they currently possess none of the necessary skills.

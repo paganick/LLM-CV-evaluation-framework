@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight system administration and IT support experience, which does not align with the front-end development focus of the job description. There's no mention of JavaScript, modern FE frameworks, or related web development skills. The candidate's experience appears to be primarily in infrastructure and system maintenance, not software development.

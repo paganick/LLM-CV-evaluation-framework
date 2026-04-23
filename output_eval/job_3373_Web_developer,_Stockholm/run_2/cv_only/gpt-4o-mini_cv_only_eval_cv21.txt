@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in web development with skills in JavaScript, HTML, CSS, and AngularJS, which is relevant to the front-end tech stack. However, they lack experience with modern frameworks like React and specific expertise in test automation and CI/CD tools mentioned in the job description. Overall, the candidate possesses some relevant industry experience but falls short in key areas outlined in the job requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend-heavy Java developer whose frontend experience is limited to legacy technologies like jQuery and JSP, failing to meet the core requirement for modern React and TypeScript expertise. There is no professional evidence of experience with the modern JavaScript ecosystem, including testing frameworks like Jest or Cypress, functional programming, or modern CSS tools. While the candidate has a strong foundation in software engineering and Agile, they lack the specific technical skills required for this frontend-focused role.

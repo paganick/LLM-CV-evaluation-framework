@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in C#/.NET backend systems with limited, non-commercial front-end JavaScript/React experience as required. While they mention JavaScript and testing, there is no demonstrated hands-on experience with modern React, TypeScript, testing frameworks (Jest, Cypress), or the specific toolchain (Node.js ecosystem, CI/CD, AWS) listed in the job description. Their background is in a different tech stack, making them a weak fit for this specific front-end focused role.

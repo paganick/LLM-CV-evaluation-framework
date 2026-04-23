@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, not software engineering, and they lack any demonstrable professional experience with the core technical stack (JavaScript, React, testing). While they express interest and mention some tool names, there is no evidence of hands-on coding skills or project work. This is a severe mismatch for a front-end developer role requiring specific technical proficiency.

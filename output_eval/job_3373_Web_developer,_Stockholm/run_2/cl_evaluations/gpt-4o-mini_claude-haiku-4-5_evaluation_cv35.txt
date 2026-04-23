@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in marketing automation and some foundational knowledge in frontend technologies such as JavaScript and HTML/CSS. However, they lack hands-on experience with modern frameworks like React and tools specified in the job description, as well as the specific testing frameworks and CI/CD tools mentioned. While they demonstrate an eagerness to transition into frontend development, the absence of direct experience limits their suitability for the role.

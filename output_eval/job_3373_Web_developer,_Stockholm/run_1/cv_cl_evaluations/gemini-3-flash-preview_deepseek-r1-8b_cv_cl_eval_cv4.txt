@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of software development experience, their professional history is heavily concentrated in C#, .NET, and Python rather than the modern React/TypeScript stack required. There is a significant disconnect between the skills claimed in the cover letter and the actual work history, which lacks any mention of React, TypeScript, or specific testing frameworks like Jest or Cypress. Furthermore, the candidate lacks documented experience with essential secondary requirements such as CI/CD, AWS, and modern CSS tooling.

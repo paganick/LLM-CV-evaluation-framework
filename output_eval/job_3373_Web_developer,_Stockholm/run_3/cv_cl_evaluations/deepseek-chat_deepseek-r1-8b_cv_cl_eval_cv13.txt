@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on development, which is the core of the role. While they mention familiarity with some required technologies (JavaScript, React, Agile), the resume and cover letter lack concrete evidence of recent, deep technical implementation, testing automation, or specific experience with the modern toolchain listed. The profile indicates relevant industry exposure but a significant lack of the specific, current engineering skills and experience required for the position.

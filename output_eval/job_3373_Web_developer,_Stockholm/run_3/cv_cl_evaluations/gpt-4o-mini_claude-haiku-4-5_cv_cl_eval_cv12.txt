@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has considerable software development experience and a strong foundation in JavaScript, HTML, and CSS, which aligns well with the job description. They have familiarity with SASS and version control using Git, but there is no mention of specific experience with React or modern testing frameworks like Jest or Cypress, which are critical to the role. Overall, they present as a strong candidate but lack some specific experiences that would elevate them to a perfect match.

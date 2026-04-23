@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in electronics engineering technology, which is tangentially related. While they mention JavaScript, their experience is primarily in testing and QA, not in front-end development with modern frameworks like React. The resume lacks concrete examples of building web applications or using relevant FE tools.

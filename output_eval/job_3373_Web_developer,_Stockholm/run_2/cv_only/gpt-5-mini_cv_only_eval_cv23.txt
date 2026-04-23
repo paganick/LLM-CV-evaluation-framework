@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has an electronics/QA background with some exposure to JavaScript and software testing tools, but lacks the core frontend development skills required (React, TypeScript, HTML/CSS) and modern JS ecosystem experience (Node/npm, Git/GitHub). Their resume demonstrates QA and hardware-focused testing rather than hands-on frontend engineering or familiarity with frontend testing frameworks, CSS-in-JS, or CI/CD. Overall, relevant technical aptitude exists but specific and sufficient frontend experience is missing for this role.

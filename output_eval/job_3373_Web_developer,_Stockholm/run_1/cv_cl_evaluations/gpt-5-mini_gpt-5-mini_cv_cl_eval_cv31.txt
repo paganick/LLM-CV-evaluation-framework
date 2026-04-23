@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in sales leadership with no demonstrated professional front-end engineering experience and lacks core technical skills required (JavaScript/TypeScript, React, modern CSS practices, testing frameworks, Git, Node, and web security). While they have basic HTML and design-tool familiarity and express willingness to transition, this does not meet the immediate technical requirements for the role and would require significant training before being productive.

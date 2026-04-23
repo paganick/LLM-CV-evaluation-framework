@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest and aptitude, the resume primarily highlights experience in IT, cybersecurity, and management, not frontend development. The cover letter claims proficiency in HTML, CSS, and JavaScript but lacks concrete examples. There is a disconnect between the job requirements and the candidate's proven experience, indicating a lack of hands-on experience with modern FE frameworks and testing frameworks.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software development, and they lack any production-level experience in the core technologies required (JavaScript, TypeScript, React). While they demonstrate soft skills and a willingness to learn, they do not meet the essential technical qualifications for a Frontend Developer role. Their experience with outdated tools like Dreamweaver and Adobe Flash is not relevant to the modern tech stack specified.

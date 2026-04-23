@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid foundation in software testing and Agile workflows, they lack professional experience as a developer and do not demonstrate proficiency in TypeScript or React. The letter acknowledges an interest in learning these technologies rather than proven expertise, and it fails to address advanced requirements such as CI/CD, AWS, or functional programming. Consequently, the candidate does not meet the technical seniority required for a developer role but remains in the relevant industry.

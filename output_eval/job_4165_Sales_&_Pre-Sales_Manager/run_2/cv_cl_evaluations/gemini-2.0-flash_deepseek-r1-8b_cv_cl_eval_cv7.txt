@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has sales and account management experience but lacks specific experience in the digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). While the candidate has experience with Salesforce and data analysis, the role requires a deeper understanding of digital solutions and technology stacks. The cover letter highlights relevant sales experience but doesn't showcase expertise in the specific areas outlined in the job description.

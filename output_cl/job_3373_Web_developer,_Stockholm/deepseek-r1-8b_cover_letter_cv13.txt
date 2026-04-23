@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the JavaScript/TypeScript role at your company, as advertised on [Platform/Website, if applicable]. With my background as a Technical Project Manager and hands-on experience in web development, I am confident I possess the skills and mindset to excel in this position.
+
+My technical expertise is rooted in building and managing web solutions. I have extensive experience leading projects involving JavaScript, TypeScript, HTML, and CSS, including frameworks like React (which we utilize) and others such as Angular. My background includes overseeing the development of client-facing web services and internal tools, ensuring the technical execution aligns with project goals. While my primary focus has been project management, my understanding of frontend development stems from direct involvement in the process, including requirements gathering, sprint planning, and collaborating with developers to deliver clean, functional code.
+
+My experience extends beyond pure development into project management and technical leadership. As a Technical Project Manager at PMA Media Group, I led diverse projects ranging from web development and UX design to SEO and analytics implementation. This required deep collaboration with technical teams, ensuring adherence to best practices, including version control using Git and testing methodologies. My project management role inherently involves understanding technical specifications and processes, including testing automation principles to ensure quality delivery.
+
+Furthermore, my passion for clear communication and technical writing aligns well with the need for clean code and documentation. I am a certified PMP and actively pursuing Agile PM certification, honing my skills in fostering collaborative environments and driving projects using Agile principles, such as Scrum.
+
+I am a strong collaborator, adept at working within Agile frameworks and interacting effectively with cross-functional teams and partners. I am keen to understand the broader domain and learn about other technologies, even those outside my primary development focus. My interest in staying current with the latest technologies is genuine, and I believe my project management experience provides a solid foundation for understanding complex systems and contributing effectively to your team.
+
+I am highly impressed by the technologies and practices mentioned in the job description and eager to apply my skills and collaborative approach to your projects. Thank you for considering my application.
+
+Sincerely,
+Alexis

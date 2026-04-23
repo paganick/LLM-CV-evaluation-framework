@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong analytical skills, cross-functional collaboration, and some familiarity with relevant tooling (NodeJS ecosystem, CircleCI) and web security concepts, which align with the role's cultural and process expectations. However, they lack demonstrated hands-on experience with core technical requirements — production React and TypeScript work, testing automation (Jest/Cypress), modern CSS tools, linters, and explicit Git/GitHub usage — making them not yet fully qualified for this front-end position.

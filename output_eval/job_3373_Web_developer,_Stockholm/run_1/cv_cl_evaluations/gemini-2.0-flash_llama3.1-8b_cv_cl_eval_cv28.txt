@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely irrelevant to the job description. The resume and cover letter highlight materials analysis, quality control, and manufacturing, none of which align with the software development skills required. There is no mention of JavaScript, React, or any other front-end technologies.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings extensive visual design and HTML/CSS experience and a strong track record translating designs to production-ready pages, which is relevant to front-end work. However, they lack demonstrated proficiency in core requirements—JavaScript/TypeScript, React, testing and test automation, Git, Node tooling, and web security—so they are not currently qualified for the engineering role. Their stated willingness to learn is positive but insufficient for immediate contribution without substantial upskilling.

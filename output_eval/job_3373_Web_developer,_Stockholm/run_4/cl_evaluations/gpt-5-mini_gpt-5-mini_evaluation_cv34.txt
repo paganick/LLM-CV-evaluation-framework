@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant client-facing implementation, HTML/CSS, QA, and documentation experience and expresses eagerness to learn front-end technologies, but provides no demonstrated hands-on experience with JavaScript/TypeScript, React, modern testing frameworks/automation, Git/GitHub, Node.js/npm, or the security/CI/CD/AWS aspects listed in the job. Given the role’s explicit requirements for practical experience with React, testing tools, Node ecosystem, and modern front-end tooling, this profile does not meet the core technical qualifications.

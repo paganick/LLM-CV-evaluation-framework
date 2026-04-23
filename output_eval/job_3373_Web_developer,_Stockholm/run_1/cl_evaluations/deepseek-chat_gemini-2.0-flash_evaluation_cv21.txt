@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific technical skills required. The job description emphasizes React, TypeScript, and modern testing frameworks, which are not mentioned, and the candidate's experience with AngularJS is outdated. While they have Agile experience and some testing knowledge, the absence of the core, specified technologies makes them a weak match.

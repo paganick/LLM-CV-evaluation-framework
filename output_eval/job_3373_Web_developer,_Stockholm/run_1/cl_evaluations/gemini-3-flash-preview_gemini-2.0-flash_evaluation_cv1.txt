@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses three years of experience and demonstrates proficiency in React and general testing methodologies, they fail to mention mandatory requirements such as TypeScript and web security (OWASP, CORS, OAuth). Furthermore, the application lacks any reference to the specified modern CSS tools, linters, or the Node.js ecosystem requested in the job description. As a strict recruiter, these omissions regarding core technical stack requirements prevent a higher rating despite the relevant industry background.

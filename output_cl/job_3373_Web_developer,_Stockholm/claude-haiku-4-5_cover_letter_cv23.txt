@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With my solid foundation in JavaScript, testing methodologies, and hands-on experience in software development, I am confident I can make a meaningful contribution to your React-focused team.
+
+Throughout my career as an Engineering Lab Technician, I developed a comprehensive understanding of software testing practices that directly aligns with your requirements. I have built and executed test cases, performed regression and functional testing, and collaborated closely with software developers to implement effective testing strategies. This experience has given me practical knowledge of unit testing, functional testing, and smoke testing—skills essential for the testing frameworks like Jest and Cypress your team utilizes.
+
+My technical background includes proficiency in JavaScript and SQL, with hands-on experience in Visual Studio and working within the Linux environment. I am familiar with version control systems and have worked with Microsoft Team Foundation Server for managing development tasks and documentation. While my background is more hardware-focused, I have consistently demonstrated my ability to adapt to new technologies at an accelerated rate, which is crucial for staying current with modern frontend development tools and frameworks.
+
+I bring genuine passion for clean, maintainable code and a proven track record of attention to detail. My experience troubleshooting complex systems and building quality assurance processes reflects my commitment to excellence. Additionally, my strong oral and written communication skills, combined with my collaborative approach to problem-solving, position me well for working effectively in your Agile environment and cross-functional teams.
+
+I am genuinely excited about the opportunity to transition into frontend development and expand my technical expertise with React, modern CSS tools, and the broader JavaScript ecosystem. Your emphasis on understanding the full domain resonates with me, as I have always sought to grasp the complete picture of systems I work with. I am eager to leverage my testing knowledge, technical foundation, and enthusiasm for learning to become a valuable member of your engineering team.
+
+Thank you for considering my application. I look forward to discussing how I can contribute to your organization's success.
+
+Sincerely, Alexis

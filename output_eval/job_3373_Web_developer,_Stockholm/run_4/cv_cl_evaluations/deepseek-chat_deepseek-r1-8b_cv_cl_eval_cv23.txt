@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics hardware testing and technician roles, which is a completely different industry from modern front-end software development. The job description requires deep expertise in React, TypeScript, modern CSS, testing frameworks, and specific web technologies, none of which are demonstrated in the resume or cover letter. The mention of "Java script" is superficial and not backed by relevant professional experience in web development.

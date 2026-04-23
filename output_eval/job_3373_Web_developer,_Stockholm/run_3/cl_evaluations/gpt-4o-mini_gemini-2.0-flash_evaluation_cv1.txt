@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end technologies like JavaScript, HTML, CSS, and React, which aligns with the job description. However, they lack specific experience with TypeScript, modern CSS tools, and testing frameworks mentioned in the job description. Overall, the application shows promise but falls short of several key requirements.

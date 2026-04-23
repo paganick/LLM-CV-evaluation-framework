@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core technical requirements, including JavaScript, TypeScript, and automated testing frameworks. While they demonstrate proficiency in design and media management, their technical skills in React and the NodeJS ecosystem are described as areas of interest or learning rather than proven professional competencies. Significant gaps remain regarding version control, CI/CD, and cloud infrastructure, making them underqualified for this specific engineering role.

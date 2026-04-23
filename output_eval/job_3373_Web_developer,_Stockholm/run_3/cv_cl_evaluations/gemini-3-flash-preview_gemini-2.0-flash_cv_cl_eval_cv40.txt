@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level product executive with no professional experience in software engineering or hands-on front-end development. They fail to demonstrate any proficiency in the required technical stack, including JavaScript, TypeScript, React, or automated testing tools. While they possess extensive experience in the technology sector, their background is entirely focused on management and product strategy rather than the technical requirements of an individual contributor developer role.

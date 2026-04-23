@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of frontend technologies and testing practices, aligning well with the job description's core requirements. They mention React, testing frameworks, and Agile experience. While they lack explicit mention of TypeScript and some specific tooling like Jest or Cypress, their willingness to learn and overall experience makes them a strong candidate.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience (HTML, CSS, JavaScript, jQuery, Bootstrap), .NET backend skills, Agile exposure, and some GitHub use, but lacks the core required modern frontend expertise. There is no evidence of React or other modern frameworks, TypeScript, testing frameworks/automation, modern CSS tooling, Node/npm ecosystem experience, or CI/CD and cloud/infra knowledge. Overall, they are in the correct industry but do not meet the specific technical requirements for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates a strong desire to transition to frontend development. However, they lack direct, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, and modern CSS/testing tools, admitting their skills in these areas are "still developing." While their backend foundation and soft skills are assets, the significant gap in required, current frontend technical proficiency makes them a moderate, not strong, match for the role.

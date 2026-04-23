@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required front-end experience (JavaScript, React, CSS) outlined in the job description. While they express enthusiasm for learning React, their current skills are primarily in data analysis and back-end technologies. The resume does not demonstrate sufficient experience with modern front-end frameworks.

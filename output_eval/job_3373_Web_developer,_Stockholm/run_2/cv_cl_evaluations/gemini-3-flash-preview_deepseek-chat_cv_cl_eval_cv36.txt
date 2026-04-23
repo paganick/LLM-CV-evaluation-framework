@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional background is entirely in microbiology and quality systems, which is unrelated to the required industry and technical domain. While the cover letter mentions self-directed study in React and TypeScript, the resume lacks any professional software development experience, technical projects, or evidence of having worked in an Agile engineering environment. The candidate fails to meet the fundamental requirements for hands-on experience in front-end frameworks, testing automation, and CI/CD tools.

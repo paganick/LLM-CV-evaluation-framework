@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in legacy .NET stack (C#, ASP.NET, SQL Server) with only basic, outdated front-end skills (jQuery, Bootstrap). The resume shows no experience with the required modern technologies like React, TypeScript, modern CSS tools, testing frameworks, or the Node.js ecosystem. While they have Agile experience, their technical profile is a poor fit for a role centered on a modern JavaScript/React tech stack.

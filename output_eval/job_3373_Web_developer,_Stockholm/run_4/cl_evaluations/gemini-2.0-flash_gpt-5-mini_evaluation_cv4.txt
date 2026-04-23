@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of frontend technologies and backend integration. They mention React readiness, but lack explicit React project experience. They express eagerness to learn the specific stack and show familiarity with Agile and collaboration.

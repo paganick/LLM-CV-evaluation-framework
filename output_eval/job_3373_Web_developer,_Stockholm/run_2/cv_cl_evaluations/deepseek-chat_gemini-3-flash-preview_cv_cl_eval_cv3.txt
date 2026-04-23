@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in the correct industry but lacks nearly all specific technical requirements from the job description. While showing foundational web knowledge and a strong work ethic, there is no demonstrated experience with React, TypeScript, modern testing frameworks, Git, security concepts, or the other listed tools. The resume and cover letter indicate an entry-level, career-transition candidate whose skills are significantly below the required level for this role.

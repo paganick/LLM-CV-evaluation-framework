@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate meets the educational and experience duration requirements, their technical stack is severely outdated, specifically citing Photoshop CS6 and failing to mention modern industry-standard tools like Figma or InVision. The cover letter mirrors the job description's soft skills well, but the reliance on Microsoft Word and Excel as primary tools indicates a lack of specialized UI/UX technical proficiency. As a strict recruiter, the absence of up-to-date design software knowledge is a critical failure for a role in a dynamic scale-up.

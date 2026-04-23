@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant industry experience and some of the required skills, such as JavaScript, HTML, and CSS. However, there is a lack of explicit mention of modern FE frameworks like React (the company's framework), TypeScript, testing frameworks (Jest, Cypress), and other desired skills like CI/CD or cloud experience. While the cover letter mentions testing, the resume doesn't showcase extensive experience in test automation, a crucial aspect of the job description.

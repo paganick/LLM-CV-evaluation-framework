@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a .NET background with limited React experience, which is a core requirement. While they express enthusiasm for learning, the cover letter highlights ASP.NET experience more prominently than the requested JavaScript frameworks. The candidate's experience in testing and security is relevant but not directly aligned with the specific tools mentioned in the job description.

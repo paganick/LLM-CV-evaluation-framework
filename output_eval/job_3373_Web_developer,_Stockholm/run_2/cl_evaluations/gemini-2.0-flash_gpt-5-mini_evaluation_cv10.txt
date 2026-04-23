@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and React-adjacent frameworks. They also highlight testing and Agile experience and familiarity with Git. While they don't explicitly mention TypeScript or specific testing frameworks like Jest or Cypress, their eagerness to learn and foundational skills make them a strong candidate.

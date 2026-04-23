@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in web development and possesses relevant skills in JavaScript, HTML, CSS, and frameworks like React. They demonstrate experience with testing frameworks and version control tools, as well as a solid understanding of security practices. However, they lack specific mentions of modern CSS tools and CI/CD experience, which slightly impacts their overall fit for the position.

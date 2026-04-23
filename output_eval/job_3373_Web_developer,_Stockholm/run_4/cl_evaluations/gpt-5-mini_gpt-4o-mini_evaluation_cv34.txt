@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web fundamentals (HTML/CSS), security awareness, Agile experience and an eagerness to learn modern tools, but provides no concrete evidence of substantive JavaScript/TypeScript or React development, testing/test-automation experience, or familiarity with Git/Node ecosystem and CI/CD. Their background is primarily implementation consulting/Salesforce Marketing Cloud rather than front-end engineering, so significant upskilling would be required to meet this role's core technical requirements.

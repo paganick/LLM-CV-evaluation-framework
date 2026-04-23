@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web knowledge (HTML, CSS, JavaScript) and academic project experience, but lacks direct, demonstrable experience with the modern React/TypeScript ecosystem, testing frameworks, Node/npm tooling, functional libraries (Ramda), CI/CD, and cloud/infra tools listed in the job description. Most professional experience is in construction and the technical work cited is academic or legacy (ActionScript/Flash), so they are not yet qualified to perform the role without significant upskilling and hands-on experience.

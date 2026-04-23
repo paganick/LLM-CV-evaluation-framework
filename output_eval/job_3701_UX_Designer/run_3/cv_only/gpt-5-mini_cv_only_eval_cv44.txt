@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates a career in media planning and digital ad operations rather than user experience design; there is no evidence of UX-specific experience (user research, journey mapping, UX roadmaps) or tools like Figma and design systems. The candidate also lacks Agile product team experience and technical exposure to HTML/CSS/JS which the role specifies. While strong in stakeholder communication and project coordination, these transferable skills are insufficient to meet the core UX requirements.

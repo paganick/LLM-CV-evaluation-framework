@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate emphasizes design and UX experience, which is tangentially related but not a direct match for a Frontend Developer role. While they express interest in learning JavaScript and TypeScript, the letter lacks demonstrable experience with React, a key requirement in the job description. The candidate's testing experience is mentioned but not strongly emphasized in the context of unit, integration, and E2E testing required for the role.

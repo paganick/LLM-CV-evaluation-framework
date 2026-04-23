@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in banking, sales, training and operations with no evidence of front-end development skills (JavaScript, TypeScript, HTML/CSS), frameworks like React, testing/tooling, Git, NodeJS, or cloud/CI experience required by the role. While it highlights strong soft skills and leadership, there are no technical projects, tools, or languages listed that demonstrate competence for this engineering position. The candidate is in a different industry and is therefore not qualified for the described front-end developer role.

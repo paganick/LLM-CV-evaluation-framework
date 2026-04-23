@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only foundational HTML/CSS, which is a relevant but adjacent field. They lack the required hands-on experience with JavaScript, TypeScript, React, testing frameworks, and the other core technical skills listed. While they show enthusiasm for learning, their current professional experience does not align with the specific technical demands of the role.

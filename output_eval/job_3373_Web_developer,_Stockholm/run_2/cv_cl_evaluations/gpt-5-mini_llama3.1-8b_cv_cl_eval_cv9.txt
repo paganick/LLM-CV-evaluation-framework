@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid backend Java experience, TDD/BDD knowledge, and basic JavaScript/HTML familiarity, so they are in the relevant industry. However they lack demonstrated hands-on experience with React (the team's stack), TypeScript, modern CSS tooling, Node/npm ecosystem, front-end testing frameworks (Jest/Cypress) and CI/Cloud tooling required by the role. Claims in the cover letter about front-end and testing tools are not substantiated on the resume, so they do not meet the specific front-end requirements.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in data analysis and quality assurance, which is relevant to the sought position. However, they lack direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and specific testing frameworks mentioned in the job description. While they demonstrate good analytical and collaborative skills, the absence of hands-on experience with the required programming languages and technologies limits their suitability for the role.

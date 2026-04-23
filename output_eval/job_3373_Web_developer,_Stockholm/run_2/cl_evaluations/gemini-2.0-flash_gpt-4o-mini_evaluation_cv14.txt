@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate showcases relevant experience with web development and mentions React, aligning with the job description. However, the cover letter focuses heavily on ASP.NET and lacks concrete examples of advanced React skills or the other desired technologies like TypeScript or specific testing automation experience. The candidate demonstrates potential, but falls short of a strong match without further evidence of the required front-end expertise.

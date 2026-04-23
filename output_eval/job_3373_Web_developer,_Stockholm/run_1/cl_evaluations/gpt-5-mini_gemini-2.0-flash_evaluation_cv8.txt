@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong test-engineering, automation, networking and security knowledge and experience in Agile environments, which are partially relevant. However the cover letter shows no demonstrable experience with core front-end technologies required (JavaScript/TypeScript, HTML/CSS, React, modern CSS tooling) nor with front-end testing frameworks, NodeJS/npm or Git usage. Given the role requires hands-on front-end development skills, this is insufficient despite transferable strengths.

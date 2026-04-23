@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT project management and infrastructure, not front-end development. The resume and cover letter show no hands-on experience with the required technologies like React, TypeScript, or modern testing frameworks. The application attempts to map general project management experience to a highly technical developer role, resulting in a severe skills mismatch.

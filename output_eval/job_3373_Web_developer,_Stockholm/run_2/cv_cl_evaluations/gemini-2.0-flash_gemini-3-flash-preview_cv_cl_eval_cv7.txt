@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate attempts to bridge a gap between graphic design and frontend development, but the resume is heavily weighted towards graphic design. While the cover letter mentions React, Jest, Cypress, Git, and other relevant technologies, the resume lacks concrete experience. There's a potential skills gap in practical application and depth of knowledge required for the role.

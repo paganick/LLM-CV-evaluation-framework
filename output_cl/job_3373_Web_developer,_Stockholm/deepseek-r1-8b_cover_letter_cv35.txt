@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the JavaScript/TypeScript/HTML/CSS Developer position listed on your website. My background, while focused on marketing technology, aligns closely with the requirements of this role, particularly in systems integration, testing, and collaborative project delivery.
+
+My current role as a Senior Marketing Automation Consultant involves extensive work with complex, integrated technology platforms like Eloqua and Salesforce. This includes developing custom solutions, managing data integrations, and implementing robust testing strategies to ensure reliability and performance. While my primary focus has been on marketing automation, the underlying principles of API design, system integration, and QA processes are highly relevant to this position. My experience managing complex program logic and ensuring data integrity across multiple systems demonstrates a solid understanding of the technical aspects required.
+
+I am proficient in managing Git repositories and understand the importance of version control in collaborative development. Although my direct experience is with marketing technology platforms, my background in configuring and integrating various systems (including third-party vendors) has provided me with a practical understanding of security fundamentals like OWASP, CORS, and data handling principles. My focus on developing detailed QA processes and testing strategies within the marketing technology context translates directly to the need for testing automation expertise mentioned in the job description.
+
+The collaborative nature of this role resonates with my experience leading cross-functional teams and working effectively with development, marketing, and sales stakeholders. My passion for clean code and systematic processes aligns well with the requirements of this position. I am eager to apply my systems integration skills, testing mindset, and collaborative approach to contribute to your development projects.
+
+I am confident that my technical understanding, combined with my experience in managing complex technology implementations, makes me a strong candidate for this position. I am particularly interested in applying my skills to modern web development and look forward to the possibility of contributing to your team.
+
+Sincerely,
+Alexis

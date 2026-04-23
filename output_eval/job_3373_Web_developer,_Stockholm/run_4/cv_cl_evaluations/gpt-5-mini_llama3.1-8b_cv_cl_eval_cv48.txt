@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive IT support, field service, and systems administration experience but shows no demonstrable frontend development skills (JavaScript/TypeScript, React, HTML/CSS), testing automation, Git/GitHub, or Node/ecosystem experience required for this role. The cover letter lists interest in frontend tools but provides no evidence of hands-on experience, projects, or relevant measurable outcomes. Given the mismatch in core technical requirements, the candidate is not qualified for this position.

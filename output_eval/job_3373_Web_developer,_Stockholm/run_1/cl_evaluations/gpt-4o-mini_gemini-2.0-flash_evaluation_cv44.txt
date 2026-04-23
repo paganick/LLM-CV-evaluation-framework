@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in multimedia design and user experience but lacks specific front-end development skills such as JavaScript, TypeScript, and modern frameworks beyond basic HTML and CSS. Their interest in learning React is noted, but they do not demonstrate hands-on experience with necessary testing, collaboration tools, or knowledge of web security, which are crucial for the position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and a solid background in programming languages such as JavaScript, HTML, and CSS. However, their skills in modern front-end frameworks like React, along with specific experience in testing frameworks and automation tools, are not strongly established in their resume. While they demonstrate a good understanding of Agile environments and other relevant tools, they lack hands-on experience specifically in React and the modern CSS tools requested, limiting their overall fit for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in project management and media production, but lacks significant technical skills in JavaScript, TypeScript, and modern front-end frameworks such as React. While they demonstrate strong collaboration and communication skills, they do not seem to have hands-on experience with testing, CI/CD tools, or any specific front-end development technologies that are critical for the role.

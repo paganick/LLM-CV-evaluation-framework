@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong project management and curriculum development experience, but lacks direct technical experience in the required programming languages and frameworks, particularly JavaScript, TypeScript, React, and testing methodologies. Their ability to learn quickly and adapt may be an asset, but without a foundational knowledge in the required tech stack, they do not meet the core qualifications for the front-end developer role.

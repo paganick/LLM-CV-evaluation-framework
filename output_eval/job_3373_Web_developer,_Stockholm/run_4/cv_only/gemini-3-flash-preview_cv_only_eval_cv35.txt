@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation professional and lacks the required software engineering background, specifically in JavaScript, React, and modern front-end development. While they possess experience with CRM integrations and marketing technology, they do not demonstrate any of the mandatory technical skills such as TypeScript, testing frameworks, or cloud infrastructure. Consequently, the applicant is completely unqualified for this technical engineering position.

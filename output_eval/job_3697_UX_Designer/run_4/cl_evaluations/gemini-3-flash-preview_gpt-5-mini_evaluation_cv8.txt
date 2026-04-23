@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate fails to meet the preferred educational requirement of a Bachelor’s or Master’s degree, providing only an Associate degree and a vocational certificate. Although they possess relevant design experience, it is primarily freelance and graphic-focused rather than dedicated UI/UX experience within a corporate scale-up environment. Additionally, the application lacks explicit mention of required industry-standard prototyping tools such as InVision or Wireframe.cc.

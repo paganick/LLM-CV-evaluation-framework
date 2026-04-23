@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an ASP.NET and C# developer whose experience lacks the required proficiency in modern frontend frameworks like React and TypeScript. There is no evidence of experience with testing automation frameworks (Jest, Cypress), modern CSS tools, or the NodeJS ecosystem specified in the job description. While they possess general web development knowledge and a relevant academic background, they are missing nearly all the specific technical requirements for this particular stack.

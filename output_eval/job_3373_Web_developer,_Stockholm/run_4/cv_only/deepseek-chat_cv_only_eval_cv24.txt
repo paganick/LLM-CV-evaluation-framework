@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in digital communications and content management, not software development. The resume shows no experience with the required technical skills like JavaScript, TypeScript, React, testing frameworks, or modern web development tools. This profile is from a completely different industry and does not meet any of the core technical requirements for the front-end engineering role.

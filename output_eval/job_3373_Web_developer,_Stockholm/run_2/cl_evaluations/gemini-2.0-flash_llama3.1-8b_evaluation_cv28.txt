@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter focuses on materials analysis, process improvement, and data analysis, which are not relevant to the software engineering skills (React, JavaScript, testing, etc.) outlined in the job description. The candidate's experience is in an unrelated field. There is no mention of any programming or web development experience.

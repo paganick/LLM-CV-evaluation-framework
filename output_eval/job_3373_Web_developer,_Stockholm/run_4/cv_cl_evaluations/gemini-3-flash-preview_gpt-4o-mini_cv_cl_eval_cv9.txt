@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced IT professional with strong backend Java expertise and a solid grasp of Agile and TDD, they lack professional experience with the core requirements of this frontend role, specifically React and TypeScript. Their frontend skills are limited to legacy technologies like JSP and basic JavaScript, which does not align with the modern stack requested. Consequently, the candidate would require significant upskilling to meet the technical demands of the position.

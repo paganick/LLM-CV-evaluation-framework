@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and digital marketing, not hands-on front-end development. While they list some relevant technologies (JavaScript, HTML, CSS, Angular), the job requires deep, current expertise in React, modern testing, and specific tools (e.g., Jest, Cypress, Styled Components) which are not demonstrated. Their experience is outdated and managerial, lacking the specific, recent technical skills required for a developer role.

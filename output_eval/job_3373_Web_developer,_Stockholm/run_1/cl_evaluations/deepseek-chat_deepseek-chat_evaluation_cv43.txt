@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly matching the core stack, testing, tools, and security knowledge. Their non-traditional background is framed as a unique strength that addresses the soft skills and domain curiosity sought. The score is not a 9 because, while their self-study and project work are compelling, the cover letter does not provide concrete evidence of professional, production-level experience in a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive leadership and project management experience in IT, but the cover letter lacks direct, recent, hands-on experience with the specific frontend technologies listed in the job description (React, TypeScript, modern toolchains). While they demonstrate strong soft skills and a foundational background, they position themselves as a "quick study" rather than a current practitioner, indicating a significant skills gap for the immediate technical requirements of the role.

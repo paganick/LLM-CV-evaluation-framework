@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and project management, along with a computer science background that supports their transition to frontend development. However, they do not explicitly mention experience with the key technologies highlighted in the job description, such as modern JavaScript frameworks (React, VueJS, Angular), testing frameworks (Jest, TestCafe, Cypress), or CSS tools. This leaves a gap in specific experience for the role being applied for.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in web development with a strong background in JavaScript, HTML, CSS, and front-end frameworks like AngularJS. However, they lack specific experience with React, which is emphasized in the job description. While they demonstrate familiarity with Agile environments and testing automation, they do not mention knowledge of modern CSS tools, testing frameworks, or CI/CD tools which are also key aspects of the role. Overall, the candidate is strong but does not completely meet all the requirements.

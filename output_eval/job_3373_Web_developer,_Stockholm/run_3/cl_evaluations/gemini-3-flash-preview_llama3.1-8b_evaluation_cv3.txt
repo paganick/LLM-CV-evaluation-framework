@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a relevant degree, they lack practical experience with critical requirements such as TypeScript, modern testing frameworks (Jest/Cypress), and CI/CD tools. Their profile focuses heavily on legacy or irrelevant technologies like Flash, ActionScript, and Java Applets, demonstrating a significant gap in current industry standards. Furthermore, there is no evidence of experience with Web security, Git, or the NodeJS ecosystem required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses strong general engineering discipline and leadership experience, they lack professional proficiency in the core technologies required, specifically React, TypeScript, and modern CSS tools. Their background is heavily focused on legacy mainframe and back-end systems rather than modern front-end development, necessitating significant upskilling. Furthermore, the absence of experience with essential tools like Git and modern testing frameworks makes them a poor match for this specific technical stack.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant design and UX experience but lacks direct, demonstrable experience with core technical requirements like JavaScript, TypeScript, and React. While they express eagerness to learn and have tangential experience with testing and collaboration, the cover letter does not provide concrete evidence of hands-on development with the specified technologies, frameworks, or tools listed in the job description.

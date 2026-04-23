@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in testing, not frontend development. While they mention relevant technologies, their experience seems peripheral rather than central to frontend development. The letter highlights testing frameworks more than core frontend frameworks like React.

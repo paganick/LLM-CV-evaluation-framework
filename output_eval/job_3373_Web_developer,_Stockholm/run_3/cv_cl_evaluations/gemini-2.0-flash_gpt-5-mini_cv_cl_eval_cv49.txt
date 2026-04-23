@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core technologies listed in the job description (JavaScript, TypeScript, React, HTML, CSS). While they express interest in learning these technologies and possess related skills like Python, SQL, and data analysis, the resume and cover letter do not demonstrate practical application of front-end development. The candidate's background is primarily in data analysis and statistical modeling, making them a weak fit for a Frontend Engineer role.

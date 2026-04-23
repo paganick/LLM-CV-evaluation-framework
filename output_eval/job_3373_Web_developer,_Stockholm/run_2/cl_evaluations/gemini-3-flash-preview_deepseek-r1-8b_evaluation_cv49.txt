@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience or demonstrated proficiency in the required frontend stack, including JavaScript, TypeScript, and React. While they possess transferable analytical skills and experience with Git, they explicitly state a need to learn the core technical requirements and testing frameworks. This profile does not meet the minimum technical criteria for a role that mandates hands-on experience in web development and security.

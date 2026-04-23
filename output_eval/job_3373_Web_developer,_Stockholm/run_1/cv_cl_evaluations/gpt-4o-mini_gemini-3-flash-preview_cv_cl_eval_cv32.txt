@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in customer service and team management but lacks the required technical skills and experience directly related to front-end development. While they mention proficiency in React, TypeScript, HTML, and CSS, there is no clear evidence of hands-on experience or specific projects demonstrating this expertise. Additionally, their experience with testing frameworks and modern CSS tools is not substantiated, and overall, the technical fit is insufficient for the role.

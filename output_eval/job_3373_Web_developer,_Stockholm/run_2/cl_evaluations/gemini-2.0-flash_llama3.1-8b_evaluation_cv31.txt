@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a mix of sales and front-end development skills, which isn't a direct match for a front-end role. While the letter highlights relevant technical skills and tools mentioned in the job description (React, Git, Styled Components, CI/CD), the prominent sales background overshadows the technical experience. The candidate lacks mentioning security knowledge which is listed in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with web design and HTML but lacks essential front-end development skills, including proficiency in JavaScript, TypeScript, and modern frameworks like React. Additionally, there is no mention of testing automation experience or knowledge of security practices required for the position. The candidate's previous administrative roles do not align closely with the technical requirements of the role, making them underqualified despite some relevant background.

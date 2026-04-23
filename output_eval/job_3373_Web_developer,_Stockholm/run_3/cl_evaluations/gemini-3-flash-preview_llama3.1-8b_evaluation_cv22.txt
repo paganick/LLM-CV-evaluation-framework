@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses several required technical keywords like TypeScript, Jest, and CI/CD, their professional background is fragmented across Media Planning and SAP rather than dedicated modern web development. The letter fails to mention critical requirements such as Git, Web Security (OWASP/CORS), and API design, and expresses "interest" in React rather than demonstrating professional mastery. This suggests a career-shifter profile that lacks the specialized depth and specific industry experience required for a seamless fit.

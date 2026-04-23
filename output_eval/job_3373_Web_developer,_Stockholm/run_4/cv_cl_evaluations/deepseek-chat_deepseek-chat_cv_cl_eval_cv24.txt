@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in digital communications and content management, which is a different industry from software engineering. While the cover letter claims self-directed study in the required technologies (React, TypeScript, etc.), the resume provides no verifiable, professional experience to substantiate these claims for a front-end developer role. The core technical requirements, hands-on experience with modern frameworks, testing, and tools are not demonstrated in their work history.

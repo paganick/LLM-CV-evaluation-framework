@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development, but their expertise is primarily in ASP.NET and C#, which doesn't align with the JavaScript/React focus of the job description. While they mention JavaScript, HTML, and CSS, the resume and cover letter highlight .NET development, indicating a potential gap in modern front-end frameworks and tooling. They demonstrate some related skills like Git and collaboration, but lack experience with the specific technologies mentioned (e.g., TypeScript, Jest, CI/CD tools).

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has 18 years of general IT experience, the letter fails to demonstrate specific expertise in TypeScript, React, or automated testing frameworks, which are core requirements for this role. The applicant acknowledges that their primary focus has been systems administration, leaving a significant gap in the specialized front-end engineering and modern development workflow experience requested.

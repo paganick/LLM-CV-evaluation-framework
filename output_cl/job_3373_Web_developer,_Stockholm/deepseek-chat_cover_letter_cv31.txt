@@ -1,0 +1,11 @@
+Dear Hiring Manager,
+
+I am writing with enthusiasm to express my interest in the Front End Developer position. While my resume details a successful career in sales leadership, it represents a foundational set of transferable skills I am now passionately applying to software development. My transition is driven by a deep and genuine passion for writing clean, efficient code and building exceptional user experiences, aligning perfectly with the values outlined in your job description.
+
+My technical proficiency is built on a solid foundation in JavaScript, TypeScript, HTML, and CSS, with dedicated expertise in React and its modern ecosystem. I have hands-on experience developing with tools like Styled Components and SASS, and I am rigorous in my approach to testing, utilizing frameworks such as Jest and Cypress to ensure code quality and reliability. I am well-versed in using Git for version control, adhere to code standards with ESLint and Prettier, and have a functional programming mindset. Furthermore, I possess a foundational understanding of web security principles (OWASP, CORS), the Node.js ecosystem, and CI/CD workflows.
+
+My previous career as a Sales Director required more than negotiation; it demanded meticulous planning, analytical problem-solving, and the ability to understand complex domains quickly—skills directly applicable to understanding system architecture and business logic. Leading a team and collaborating with diverse external partners honed my communication and Agile collaboration skills. My accomplishment in driving 115% revenue growth was rooted in strategic analysis, goal-setting, and a relentless focus on results, a disciplined mindset I now apply to developing robust, scalable applications.
+
+I am keenly interested in your tech stack, including React, Ramda, and your modern toolchain, and I am confident my unique background in client-focused problem-solving, combined with my dedicated technical skills, would allow me to contribute effectively from day one. I am eager for the opportunity to discuss how my perspective and commitment to clean code can benefit your team.
+
+Sincerely, Alexis

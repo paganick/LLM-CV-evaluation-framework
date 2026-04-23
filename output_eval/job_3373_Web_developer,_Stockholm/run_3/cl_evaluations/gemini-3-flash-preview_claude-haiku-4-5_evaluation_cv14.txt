@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a .NET developer who lacks professional experience with the mandatory React framework and TypeScript language specified in the requirements. While they possess strong general web fundamentals and a collaborative mindset, they explicitly state a need to learn core requested tools like Ramda and Styled Components. As a strict recruiter, I find the candidate currently lacks the specific technical seniority in the modern frontend ecosystem required for this position.

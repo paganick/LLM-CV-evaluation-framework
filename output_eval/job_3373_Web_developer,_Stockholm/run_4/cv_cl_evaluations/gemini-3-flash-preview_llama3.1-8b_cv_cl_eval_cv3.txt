@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to meet almost all primary requirements, lacking experience in React, TypeScript, and modern testing frameworks like Jest or Cypress. Their technical knowledge is significantly outdated, focusing on obsolete technologies such as Flash and ActionScript, with no professional experience in the software industry. Despite having a degree, the candidate’s profile lacks the modern ecosystem knowledge, version control proficiency, and cloud infrastructure experience required for this role.

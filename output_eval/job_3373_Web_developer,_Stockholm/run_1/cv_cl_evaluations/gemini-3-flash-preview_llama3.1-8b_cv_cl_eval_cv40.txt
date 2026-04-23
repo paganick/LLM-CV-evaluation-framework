@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior-level Product Management executive whose professional history is focused on leadership, strategy, and business development rather than hands-on software engineering. While the cover letter claims familiarity with the required technical stack, the resume provides no evidence of professional experience with React, TypeScript, or automated testing. This represents a fundamental mismatch in job function and required technical expertise.

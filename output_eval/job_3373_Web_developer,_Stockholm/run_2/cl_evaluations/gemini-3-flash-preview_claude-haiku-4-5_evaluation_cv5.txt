@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive software development experience and strong leadership background, their primary expertise is in mainframe technologies rather than modern frontend development. They lack professional, hands-on experience with the specific tech stack required, including React, TypeScript, and modern CSS/testing frameworks. Consequently, the candidate does not meet the technical requirements for a role demanding immediate proficiency in the frontend ecosystem.

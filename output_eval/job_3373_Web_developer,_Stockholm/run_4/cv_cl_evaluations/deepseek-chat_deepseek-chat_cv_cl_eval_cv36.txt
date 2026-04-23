@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in microbiology and pharmaceutical quality control, which is the wrong industry for a front-end developer role. While the cover letter claims self-taught technical skills, the resume provides zero evidence of professional experience with JavaScript, React, TypeScript, or any other technologies listed in the job description. The core requirements for hands-on development experience, a modern framework, and test automation are not met.

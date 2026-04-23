@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume highlights experience in administrative, artistic, and educational roles, with minimal overlap with the technical skills listed in the job description. While the candidate mentions HTML and web design, there's a significant absence of the core requirements like JavaScript, TypeScript, React, and testing frameworks. The cover letter attempts to bridge the gap, but the lack of concrete evidence of relevant FE skills is a major concern.

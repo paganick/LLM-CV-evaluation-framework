@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical experience and mentions some required tools, but the core experience is in software engineering and infrastructure, not UI/UX design. The cover letter fails to demonstrate a portfolio or specific UI/UX projects, and the described work (designing SCOM/SCCM systems) does not align with the customer-centric, product-focused design work outlined in the job description. The background is adjacent but lacks the direct, proven design experience required for the role.

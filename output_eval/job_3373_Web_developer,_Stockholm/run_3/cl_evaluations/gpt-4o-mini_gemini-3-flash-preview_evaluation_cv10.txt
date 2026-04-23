@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in frontend technologies and relevant experience with AngularJS, which is a positive. However, while they express adaptability towards React, they lack hands-on experience with modern testing frameworks specified in the job description, such as Jest or Cypress. Overall, they are a solid candidate with applicable skills but missing some specific requirements.

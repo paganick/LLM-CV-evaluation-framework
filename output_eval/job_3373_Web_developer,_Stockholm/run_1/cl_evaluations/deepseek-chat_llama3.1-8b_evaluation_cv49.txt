@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter is for a Data Analyst role and focuses heavily on statistical analysis and data science tools, which is a completely different skillset from the Front-End Developer job description provided. The candidate mentions React once but demonstrates no understanding of the core required technologies like JavaScript, TypeScript, CSS, testing frameworks, or modern front-end tooling. This application is for the wrong role and industry.

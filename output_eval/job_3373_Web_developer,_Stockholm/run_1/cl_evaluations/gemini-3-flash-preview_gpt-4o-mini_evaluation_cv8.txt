@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Test Engineer transitioning to development and lacks professional experience as a dedicated Frontend Developer. While they possess strong testing expertise and familiarity with the tech stack, their "basic understanding" of web security and ongoing learning of React do not meet the requirements for a developer expected to have hands-on mastery of modern frameworks. The 10-year background in QA, while valuable, does not substitute for the required professional experience in frontend architecture and TypeScript.

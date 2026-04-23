@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong program design, project management, and UX-related experience but lacks concrete evidence of core front-end technical skills required by the role (no explicit JavaScript/TypeScript/HTML/CSS or React experience provided) and omits testing, Git, NodeJS, modern CSS tools, and web security knowledge. Their transferable strengths and willingness to learn are positives, but they do not meet the specific technical requirements to be considered a strong match for this Front-End Developer position.

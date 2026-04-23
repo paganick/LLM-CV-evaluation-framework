@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in Information Technology and relevant experience with JavaScript, HTML, and CSS; however, they do not mention experience with TypeScript or modern frontend frameworks like React, which are explicitly required. Additionally, while they are familiar with testing frameworks, they lack concrete hands-on experience with specific tools and methodologies mentioned in the job description, such as unit tests and test automation practices.

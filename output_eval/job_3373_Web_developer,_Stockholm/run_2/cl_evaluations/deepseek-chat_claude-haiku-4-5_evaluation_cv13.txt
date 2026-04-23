@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates a foundational understanding of many required technical areas. However, the cover letter reveals significant gaps: it explicitly states limited formal testing framework experience, lacks mention of TypeScript and key modern tools like React (only expressing eagerness to learn it), and over-relies on adjacent project management experience rather than hands-on development expertise for the specific tech stack listed.

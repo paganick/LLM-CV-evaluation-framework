@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional history is entirely centered on business development, sales, and marketing, with no documented professional experience in front-end engineering. While the cover letter claims a recent pivot, the resume lacks any evidence of professional proficiency in JavaScript, React, or automated testing frameworks. As a strict recruiter, I find the candidate fundamentally unqualified for a technical role requiring hands-on development experience.

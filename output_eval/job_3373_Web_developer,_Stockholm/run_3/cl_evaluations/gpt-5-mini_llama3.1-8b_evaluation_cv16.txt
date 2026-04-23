@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates core front-end skills required (JavaScript/TypeScript, React/Vue/Angular, modern CSS tools, Jest/Cypress, Node ecosystem, Ramda) and strong Agile collaboration experience. However, they do not explicitly state experience with Git/repo hosting, web security (OWASP/CSP/CORS/OAuth), linters/formatters, CI/CD (CircleCI), API design or cloud/infra (AWS/Terraform), which are listed in the JD. With only 2 years of experience and those notable omissions, this is a good but not outstanding fit.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant experience in web development and CMS architecture, they lack professional experience with the required modern frontend stack, specifically React and TypeScript. Their background is heavily centered on Drupal and PHP, which does not align with the core technical requirements of this role. Furthermore, their testing experience is focused on Selenium and Behat rather than the requested modern JavaScript testing frameworks like Jest or Cypress.

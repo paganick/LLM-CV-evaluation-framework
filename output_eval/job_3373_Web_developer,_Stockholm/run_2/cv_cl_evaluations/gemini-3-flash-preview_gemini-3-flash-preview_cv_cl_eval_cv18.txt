@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general IT and project management experience, their resume lacks professional evidence of working with the core required technologies, specifically React and TypeScript. Most of their web development experience appears centered on legacy technologies, PHP, and general CMS administration rather than modern frontend frameworks and automated testing suites. The profile is more suited to IT consulting or systems administration than a specialized senior frontend engineering role.

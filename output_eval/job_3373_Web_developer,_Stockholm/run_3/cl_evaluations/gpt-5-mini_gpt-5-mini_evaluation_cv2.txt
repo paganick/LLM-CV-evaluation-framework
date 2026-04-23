@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong backend Java experience, solid engineering fundamentals, API/integration experience, Git and Agile exposure which are relevant. However they lack demonstrated, hands‑on experience with core requirements—React, TypeScript, modern CSS tooling, Node/npm, JS testing frameworks (Jest/Cypress/TestCafe), Ramda, CircleCI and web security practices—stating intent to learn rather than proven delivery. As written, they are not yet qualified for an immediate front‑end role that requires those specific skills.

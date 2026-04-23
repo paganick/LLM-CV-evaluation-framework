@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required hands-on experience with JavaScript, TypeScript, React, testing, Git, and modern frontend tools specified in the job description. While they demonstrate foundational HTML/CSS knowledge, transferable skills, and a strong desire to learn, their technical background is primarily academic and project-based, not professional. Their experience is more aligned with backend/database work, making them underqualified for a frontend developer role requiring specific, current technical proficiencies.

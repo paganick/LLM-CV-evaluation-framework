@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks hands-on front-end engineering experience (no JavaScript/TypeScript, React, testing automation, Git, or NodeJS experience is demonstrated). Their customer-service and management background shows transferable collaboration and process skills but does not meet the role's core technical requirements. Without significant upskilling or demonstrable technical projects, they are not qualified for this position.

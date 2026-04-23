@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a solid educational background and strong experience in testing and Agile methodologies, they fail to demonstrate professional proficiency in the required tech stack, specifically React and TypeScript. The candidate’s primary experience is in legacy AngularJS, and the application fails to address mandatory requirements regarding web security (OWASP/CORS) and modern CSS tooling. As a strict recruiter, the lack of hands-on React experience and TypeScript knowledge makes this candidate a significant training liability.

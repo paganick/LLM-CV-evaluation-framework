@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience and hits several key requirements, including React, testing, Git, and Agile. However, the cover letter lacks mention of critical, specified technologies like TypeScript, modern CSS tools, specific testing frameworks, and web security fundamentals. While a solid generalist, the absence of these explicit skills against a strict checklist prevents a higher score.

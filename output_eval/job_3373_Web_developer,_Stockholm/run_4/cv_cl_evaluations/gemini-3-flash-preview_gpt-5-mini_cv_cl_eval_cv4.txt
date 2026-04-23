@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core mandatory technologies, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. Their primary background is in C#, .NET, and Machine Learning, which does not align with the specialized frontend requirements of this role. While they possess general software engineering knowledge, they fail to demonstrate hands-on proficiency with the modern CSS tools, functional programming, or CI/CD pipelines specified in the job description.

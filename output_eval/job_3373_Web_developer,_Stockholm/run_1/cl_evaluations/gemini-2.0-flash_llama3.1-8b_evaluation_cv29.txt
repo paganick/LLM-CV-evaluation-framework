@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's cover letter focuses on business development and technical content creation, which is not relevant to the software development skills required in the job description. The job description is heavily focused on front-end technologies such as JavaScript, React, and testing frameworks, none of which are mentioned in the candidate's experience. The candidate's skills are not aligned with the role.

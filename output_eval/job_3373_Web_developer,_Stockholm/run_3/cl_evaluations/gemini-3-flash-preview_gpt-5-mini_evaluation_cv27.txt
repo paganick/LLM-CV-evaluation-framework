@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to demonstrate professional proficiency in any of the mandatory technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. Their background in media production and arts education is outside the software engineering industry, and they explicitly state they are currently "motivated to gain expertise" in the core stack rather than possessing it. Consequently, the applicant does not meet the minimum technical threshold for this position.

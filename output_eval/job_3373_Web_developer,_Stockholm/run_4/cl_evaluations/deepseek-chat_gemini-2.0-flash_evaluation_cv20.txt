@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in the correct industry but lacks the specific, required technologies. They mention .NET and generic front-end skills but do not address the job's core requirements: React, TypeScript, modern CSS tools, or specific testing frameworks. Their background is misaligned with the tech stack, and they fail to demonstrate knowledge of key areas like security, Node.js, or functional programming.

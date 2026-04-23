@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong technical alignment by explicitly mentioning the required tech stack, including React, TypeScript, and security standards like OWASP and CSP. Their experience with CI/CD tools, testing frameworks, and AWS matches the preferred qualifications almost perfectly. While their recent background as a Branch Chief suggests a pivot from management back to hands-on engineering, their comprehensive understanding of the full development lifecycle makes them a high-value candidate.

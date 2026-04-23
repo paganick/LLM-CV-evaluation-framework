@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the core technical stack, specifically React, TypeScript, and functional programming with Ramda. However, the application fails to address several critical requirements listed in the job description, including web security protocols (OWASP/CORS), CI/CD tools, and cloud infrastructure (AWS/Terraform). Additionally, labeling two years of experience as "seasoned" is an overstatement that suggests a lack of professional self-awareness.

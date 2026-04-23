@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate has experience with JavaScript, HTML, CSS, and Git, which are relevant. However, they lack experience with modern FE frameworks like React (the company's preferred framework) or other listed tools like Styled Components, SASS, and testing frameworks mentioned in the job description. The resume focuses heavily on .NET development rather than modern front-end practices.

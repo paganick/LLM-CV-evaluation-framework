@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering, automation, and cross-functional collaboration, which are relevant to the testing aspects of the role. However, they lack direct, hands-on experience with the core front-end technologies (React, TypeScript, modern CSS) and the specific ecosystem tools (Jest, Cypress, Node.js, etc.) listed as requirements. Their background is in electronics and firmware testing, not web development, making this a significant skills gap for the specified Front-End Engineer position.

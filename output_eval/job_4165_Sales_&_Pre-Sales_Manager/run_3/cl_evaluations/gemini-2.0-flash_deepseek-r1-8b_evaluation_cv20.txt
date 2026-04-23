@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant sales experience and a Master's in Data Analytics, aligning with the job requirements. However, the cover letter lacks specific examples demonstrating experience with the digital solutions (API, Cloud, DevOps, Microservices, Big Data, Data Science, or Design Consulting) mentioned in the job description. While Salesforce and Tableau are mentioned, they are not directly tied to generating sales within the specified digital solution areas, limiting the strength of the application.

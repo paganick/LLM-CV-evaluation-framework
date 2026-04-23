@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s background is primarily in hardware maintenance, networking, and legacy server administration, which does not align with the software engineering requirements of this role. While they mention an interest in the modern web stack, they provide no evidence of professional experience with JavaScript, TypeScript, or React, and mention outdated technologies like Windows Server 2003. The application lacks the necessary technical depth in frontend development, API design, and cloud infrastructure required by the job description.

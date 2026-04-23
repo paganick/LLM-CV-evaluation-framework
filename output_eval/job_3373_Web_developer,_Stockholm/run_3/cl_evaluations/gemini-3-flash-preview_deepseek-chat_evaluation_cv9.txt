@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a seasoned software engineer with strong backend and architectural experience but lacks the professional-level frontend proficiency required for this role. While they possess transferable skills in TDD and Agile, their experience with React, TypeScript, and modern CSS is self-described as "expanding" rather than established. For a specialized Frontend Developer position, the candidate’s heavy reliance on a Java/Spring background represents a significant skills gap.

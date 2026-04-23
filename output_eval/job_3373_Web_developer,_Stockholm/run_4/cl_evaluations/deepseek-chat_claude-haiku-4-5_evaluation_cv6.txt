@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, modern CSS tools, testing, Git, and functional programming with Ramda. However, they lack explicit, direct experience with TypeScript and the Node.js ecosystem (npm/Yarn/Express), which are key components of the tech stack. Their experience with testing frameworks like Selenium and Behat is noted, but hands-on experience with the specified tools (Jest, Cypress, TestCafe) is presented as an area for growth rather than proven expertise.

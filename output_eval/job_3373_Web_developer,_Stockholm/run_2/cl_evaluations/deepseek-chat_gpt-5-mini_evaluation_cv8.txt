@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in electronics test engineering, not front-end development, which is a significant mismatch for the role's primary requirements. While they demonstrate strong testing principles and a willingness to learn, they lack direct, hands-on experience with the specified technologies (React, TypeScript, modern CSS, Jest/Cypress). Their background is relevant to the testing aspect but insufficient to compensate for the absence of professional front-end engineering skills.

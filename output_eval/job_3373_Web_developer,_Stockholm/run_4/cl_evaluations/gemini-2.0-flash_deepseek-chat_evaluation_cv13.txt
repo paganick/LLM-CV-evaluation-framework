@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses relevant experience in front-end development and project management, the cover letter highlights familiarity with Angular instead of React, the company's primary framework. The candidate expresses interest in learning React but lacks demonstrable hands-on experience. The letter also lacks specific examples of testing, security knowledge, and other skills listed in the job description.

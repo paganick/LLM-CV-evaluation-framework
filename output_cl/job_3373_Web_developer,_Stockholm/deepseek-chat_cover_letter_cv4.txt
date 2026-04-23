@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Software Developer position, which I believe aligns perfectly with my five years of professional experience and my passion for building modern, scalable web applications. Your requirement for expertise in React, TypeScript, and a comprehensive approach to testing and clean code deeply resonates with my professional trajectory and aspirations.
+
+In my current role, I have been responsible for the full software development lifecycle of a high-availability internal marketing system. This involved integrating complex marketplace APIs (including Amazon and Shopify), revising legacy code to modern standards, and architecting a scalable system that directly contributed to 30% company growth. My hands-on experience with JavaScript, HTML, CSS, and Node.js, combined with my work in RESTful API design, provides a strong foundation for your tech stack. I am particularly drawn to your use of React and am keen to apply my solid front-end skills within this framework.
+
+Your emphasis on testing automation, clean code, and Agile collaboration is a perfect match for my approach. I have a proven track record of authoring code fixes and enhancements for future releases, with a meticulous attention to detail honed through performance and UI testing. My experience working on cross-functional, global teams has made me a strong collaborator, comfortable interacting with various stakeholders to understand the full domain—a quality you highlighted as essential.
+
+Furthermore, I am continuously expanding my skill set to stay current. My project work, such as developing a Question Answering system with Python and TensorFlow, demonstrates my ability to quickly learn and apply new technologies and paradigms, including functional concepts. I am confident I can rapidly contribute to your ecosystem involving modern CSS tools, Jest, ESLint, and the Node.js environment.
+
+I am excited by the opportunity to bring my blend of practical development experience, commitment to quality, and collaborative spirit to your team. Thank you for considering my application. I look forward to discussing how I can contribute to your projects.
+
+Sincerely,
+Alexis

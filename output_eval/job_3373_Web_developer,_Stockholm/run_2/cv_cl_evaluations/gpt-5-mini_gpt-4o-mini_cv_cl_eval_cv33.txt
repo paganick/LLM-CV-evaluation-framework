@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows some basic familiarity with HTML, CSS, JavaScript and an interest in React and testing tools, but their resume contains no verifiable professional front-end development experience, coding projects, or technical accomplishments. They lack demonstrated hands-on experience with TypeScript, modern React development, test automation, NodeJS/CI/CD workflows, and cloud/infra tooling required for the role. Given the gap between their sales/training background and the technical requirements, they are not currently qualified for this position.

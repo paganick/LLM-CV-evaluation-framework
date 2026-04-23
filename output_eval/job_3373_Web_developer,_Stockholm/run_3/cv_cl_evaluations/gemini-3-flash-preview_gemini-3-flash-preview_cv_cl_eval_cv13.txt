@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Technical Project Manager whose recent professional experience focuses on leadership and marketing rather than hands-on software engineering. They lack the required expertise in React, TypeScript, and automated testing frameworks (Jest/Cypress), with their technical background consisting largely of legacy tools like jQuery and PHP. While they are a strong match for the Agile and collaborative requirements, they do not meet the core technical proficiency standards for a modern front-end developer.

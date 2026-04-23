@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience with modern front-end frameworks, TypeScript, or modern CSS methodologies, as their background is primarily in legacy Java development and database administration. There is a significant gap in professional technical experience since 2017, and the applicant admits to needing to learn the core technologies required for the role. This profile does not meet the mandatory technical requirements for a modern front-end developer.

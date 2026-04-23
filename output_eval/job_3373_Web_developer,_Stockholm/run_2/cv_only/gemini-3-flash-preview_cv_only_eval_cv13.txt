@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager rather than a dedicated Front-End Engineer, with professional experience focused on management, marketing, and UX rather than modern software development. They lack the required expertise in TypeScript, React, and automated testing frameworks like Jest or Cypress. Furthermore, their technical skills appear dated, with their most recent engineering-centric roles occurring over a decade ago.

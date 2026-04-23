@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant transferable skills (academic full-stack projects, Git, HTML/CSS/JS, Agile collaboration) and is actively upskilling, but lacks demonstrated hands-on experience with core requirements such as React and TypeScript, modern CSS tools (Styled Components/SASS), and testing/test automation. Significant gaps remain around CI/CD, AWS/Terraform, security best practices, and the specific NodeJS/Express/Ramda toolchain required for the role.

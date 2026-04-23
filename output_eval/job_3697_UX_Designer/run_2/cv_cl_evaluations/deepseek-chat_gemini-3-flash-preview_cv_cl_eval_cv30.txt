@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant software engineering experience but lacks the specific UI/UX design experience required. The job description demands 3+ years as a UI/UX Designer with proficiency in tools like Figma, InVision, and Adobe Creative Suite, which are not demonstrated in the resume or cover letter. The experience described is heavily focused on game development implementation, not on user-centered design processes, wireframing, or prototyping for web/mobile applications.

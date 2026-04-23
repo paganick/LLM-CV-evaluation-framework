@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer whose professional experience is entirely in IT management, project coordination, and infrastructure rather than software development. They lack any demonstrated professional experience with the required technical stack, including JavaScript, React, TypeScript, or modern testing frameworks. While the candidate possesses a relevant degree, their background does not satisfy the core requirements for a mid-to-senior level front-end engineering role.

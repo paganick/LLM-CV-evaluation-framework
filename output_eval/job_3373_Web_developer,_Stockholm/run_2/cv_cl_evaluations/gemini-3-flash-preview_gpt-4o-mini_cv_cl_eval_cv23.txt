@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an electronics and hardware technician with no professional experience in front-end web development or software engineering roles. While the cover letter claims familiarity with React and modern tools, the resume is focused on hardware testing, soldering, and lab maintenance, lacking any record of building or maintaining web applications. The applicant fails to demonstrate the required proficiency in TypeScript, modern CSS frameworks, or professional web security practices.

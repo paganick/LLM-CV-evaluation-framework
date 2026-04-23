@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is focused on data analysis, statistical modeling, and tools like R, SAS, Python and SQL, with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS, NodeJS, frontend testing frameworks, or frontend tooling required by the role. The cover letter expresses willingness to learn but provides no concrete frontend projects, Git/CI/CD, or web security knowledge, indicating an industry/skill mismatch. As a result, they are not qualified for this hands-on frontend engineering position.

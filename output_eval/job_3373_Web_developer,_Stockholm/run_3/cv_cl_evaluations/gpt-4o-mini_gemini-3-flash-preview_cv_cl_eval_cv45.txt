@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and cybersecurity management but lacks hands-on experience with frontend development technologies, specifically JavaScript, TypeScript, and modern frontend frameworks like React. While they address some relevant skills such as web security and collaboration in Agile environments, their primary experience does not align closely with the requirements and expectations of a frontend engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings relevant analytical experience, Agile teamwork, and a demonstrated interest in front-end development, but provides no concrete evidence of hands-on experience with core requirements (JavaScript/TypeScript, HTML/CSS, React), testing/automation, Git, or modern frontend tooling. The application lacks examples of projects, repositories, or specific technologies listed in the job description, so they are not yet qualified for this role. With focused upskilling and demonstrable front-end work, they could become a stronger match.

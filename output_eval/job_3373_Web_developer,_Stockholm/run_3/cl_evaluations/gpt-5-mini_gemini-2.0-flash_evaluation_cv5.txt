@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong software engineering experience and transferable skills from Mainframe development, but lacks demonstrated hands-on experience with key frontend requirements (React, TypeScript/modern JavaScript, CSS tooling, testing frameworks, Node/npm, Git, and web security). The cover letter provides no concrete frontend projects or toolchain experience, meaning significant upskilling would be required. Collaboration and Agile experience are positives but do not compensate for the missing core frontend expertise.

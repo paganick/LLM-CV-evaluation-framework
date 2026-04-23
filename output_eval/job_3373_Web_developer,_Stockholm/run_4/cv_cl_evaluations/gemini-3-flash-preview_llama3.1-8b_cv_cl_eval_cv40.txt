@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level executive with twenty years of experience in Product Management and business leadership, which does not align with the requirements for a hands-on Software Engineer. The resume lacks any professional evidence of coding in JavaScript, TypeScript, or React, focusing instead on strategy, marketing, and team oversight. While the candidate operates within the tech industry, they are fundamentally unqualified for a role requiring deep technical implementation and test automation.

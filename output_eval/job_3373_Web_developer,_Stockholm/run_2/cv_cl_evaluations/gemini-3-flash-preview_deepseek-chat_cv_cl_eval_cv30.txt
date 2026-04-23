@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for a modern Front End Developer role, as their professional background and resume focus almost exclusively on data analytics, machine learning, and semiconductor engineering. They lack the required professional experience in JavaScript, TypeScript, React, and modern CSS/testing tooling, with their only web-related skill being legacy ASP.NET and basic HTML. Despite the cover letter expressing interest in pivoting, the candidate currently possesses none of the core competencies requested in the job description.

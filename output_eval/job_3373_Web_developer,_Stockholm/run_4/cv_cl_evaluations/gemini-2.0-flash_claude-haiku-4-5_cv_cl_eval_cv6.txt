@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant frontend experience (JavaScript, HTML, CSS) and mentions testing tools. However, the resume is heavily Drupal-focused and lacks explicit examples of modern FE frameworks like React as required. The cover letter attempts to bridge this gap, but the resume doesn't provide enough concrete evidence to demonstrate proficiency in the specific technologies listed in the job description.

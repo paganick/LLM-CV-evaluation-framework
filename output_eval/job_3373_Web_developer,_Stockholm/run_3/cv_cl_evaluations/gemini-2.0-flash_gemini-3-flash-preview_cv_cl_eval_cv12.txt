@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a mix of relevant and outdated skills. While they demonstrate experience with JavaScript, HTML, CSS, and Git, their experience leans heavily towards PHP and older technologies. The resume lacks concrete evidence of in-depth experience with modern FE frameworks like React, despite claiming alignment in the cover letter, and lacks experience in testing frameworks, NodeJS, and CI/CD tools as mentioned in the job description.

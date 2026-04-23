@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has business analyst experience in banking and some pre-sales involvement. However, the resume lacks explicit evidence of digital sales experience, experience with the specific technology stacks mentioned (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI), and driving deals from lead generation to implementation. The experience seems more focused on technical implementation and support rather than strategic digital sales leadership.

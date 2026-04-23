@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer whose background is entirely focused on visual arts and print media rather than software engineering. They lack almost all core technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. While they mention basic HTML/CSS, their experience does not align with the functional programming or cloud infrastructure needs of this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in ASP.NET and C#, which doesn't align well with the JavaScript/React focus of the job. While they mention HTML, CSS, and JavaScript, their experience seems geared towards backend development rather than modern frontend frameworks. The resume lacks explicit experience with testing frameworks, CI/CD tools, and other technologies mentioned in the job description, indicating a skills gap.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media production, which is the wrong industry for a front-end developer role. The resume shows no professional experience with the required technologies (JavaScript, React, testing, Git, etc.), and the cover letter only claims self-study without verifiable project or work history. The core job requirements are not met.

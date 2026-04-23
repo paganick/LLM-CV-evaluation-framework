@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in web development and familiarity with JavaScript, HTML, and CSS, they lack specific hands-on experience with React, which is a critical requirement for this position. Additionally, their experience with testing automation and modern CSS tools is not well-demonstrated. Though they exhibit a strong collaborative spirit and some knowledge of web security, the overall fit is limited due to the gaps in required skills and technologies.

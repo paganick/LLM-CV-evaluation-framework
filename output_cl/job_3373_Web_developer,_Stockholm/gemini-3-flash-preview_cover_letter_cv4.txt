@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Developer position. With a Bachelor’s degree in Computer Engineering, an advanced degree from Rowan University, and over five years of professional experience, I bring a robust technical foundation in JavaScript, HTML, and CSS. My background aligns with your team’s focus on React and modern front-end standards, and I am eager to contribute to your evolving tech stack.
+
+In my current role as a Software Developer, I have spent over five years developing scalable system architectures and high-availability internal applications. I was specifically tasked with revising, modularizing, and updating legacy code bases to meet modern development standards. This experience has fostered a genuine passion for writing clean, efficient code and a deep understanding of the entire software development life cycle. My work on integrating marketplace APIs for platforms such as Amazon, Shopify, and eBay led to a 30% growth for the company, demonstrating my ability to deliver high-impact results through technical excellence.
+
+I am highly comfortable within the Node.js ecosystem and have significant experience in API design and database development using SQL and MongoDB. Testing and quality assurance are also integral to my process. My early career included dedicated roles in UI and performance testing, where I documented results and maintained logs to improve site mappings and user satisfaction. I am prepared to apply this rigorous approach to your testing suite, utilizing unit, integration, and E2E testing to ensure the reliability of every release.
+
+Beyond my core technical skills, I am a strong collaborator who thrives in Agile environments. I hold a certification in "Agile Meets Design Thinking" from the University of Virginia, which has refined my ability to work across teams and interact with external partners. Having worked with a diverse range of languages and frameworks—including C#, Python, and Flask—I possess the "full domain" perspective required to understand platforms outside my immediate area of expertise.
+
+I am a respectful self-motivator who stays current with the latest technologies, from security standards like OWASP to CI/CD pipelines. I am confident that my experience in modularizing code bases and my commitment to technical excellence make me an ideal fit for your team.
+
+Sincerely, Alexis

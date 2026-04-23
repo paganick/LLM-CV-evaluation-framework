@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter is too generic and doesn't demonstrate sufficient expertise in the specific technologies mentioned in the job description, particularly React, testing, and modern CSS tools. While the candidate mentions JavaScript, HTML, and CSS, they lack detailed examples of how they've used these technologies in a modern front-end context. The letter also fails to address key requirements such as testing experience and familiarity with Git.

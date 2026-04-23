@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in construction and project management with no demonstrated hands-on experience in the core technical skills required (JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm, CI/CD, AWS/Terraform). Their Agile and collaboration experience is noted but insufficient for a front-end engineering role that requires specific technical proficiencies. Without concrete evidence of relevant coding, testing, or toolchain experience, they are not qualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant industry experience with HTML, CSS, JavaScript, AngularJS, Git and exposure to testing and Agile, but lacks core required skills for this role such as React and TypeScript, modern testing frameworks (Jest/Cypress), Node/npm ecosystem, modern CSS tooling (Styled Components/SASS), CI/CD experience and web security knowledge. The resume shows mostly legacy/back-end Java and performance testing experience rather than the modern front-end stack and toolchain this role requires, so they are not a strong fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML/CSS knowledge and strong collaboration skills, but the cover letter lacks any evidence of hands-on JavaScript/TypeScript, React experience, or practical testing and automation experience required by the role. There is also no mention of Git/GitHub, Node/npm, modern CSS tooling, security fundamentals, or CI/CD/AWS familiarity. While motivated to learn, the current skillset does not meet the core technical requirements for this position.

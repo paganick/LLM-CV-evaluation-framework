@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a systems administrator applying for a frontend developer role, demonstrating a complete lack of the required technical stack including JavaScript, React, and automated testing. The letter reveals a fundamental misunderstanding of the position by equating "clean code" with server reboots and maintenance tasks. While the applicant works in the broader IT industry, they lack every specific programming and web security skill mandated by the job description.

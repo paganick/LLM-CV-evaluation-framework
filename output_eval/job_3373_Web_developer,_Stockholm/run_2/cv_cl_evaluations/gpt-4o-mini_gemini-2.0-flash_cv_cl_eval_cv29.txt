@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in business development within the cloud software industry, they lack specific technical skills in JavaScript, TypeScript, and modern front-end frameworks like React. Their experience in liaising with technical teams and understanding complex concepts is a strength, but the absence of direct front-end development experience limits their suitability for the role.

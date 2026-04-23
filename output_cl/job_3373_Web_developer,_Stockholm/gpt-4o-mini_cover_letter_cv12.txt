@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the software engineering position advertised. With over seven years of experience in software development, coupled with my specific expertise in programming languages and frameworks, I am excited about the opportunity to contribute to your team.
+
+My background includes extensive hands-on experience with JavaScript, CSS, HTML, and PHP, reinforced by modern front-end frameworks including React. I have a deep understanding of the importance of clean, well-organized code and have consistently prioritized writing maintainable software throughout my career. My experience with testing and test automation is robust, having utilized various frameworks like Jest and TestCafe to ensure code reliability through unit, integration, and end-to-end tests.
+
+Additionally, I am proficient in using Git and repository hosting services such as GitHub to manage and collaborate on code effectively. My work has required an understanding of web security principles, including OWASP guidelines and authentication protocols like OAuth, ensuring that the applications I develop are both functional and secure.
+
+Collaboration in an Agile environment is a strength of mine. My role as a Project Manager involved leading a team of students to successfully implement projects, fostering effective communication among cross-functional teams. I enjoy keeping up with the latest technologies and approaches, always looking for ways to improve productivity and adapt to evolving business needs.
+
+My experience also extends to utilizing CSS tools like SASS and understanding modern CSS practices. Familiarity with the Node.js ecosystem, including npm and Express.js, rounds out my technical skill set, while my knowledge of AWS and Terraform enhances my understanding of cloud-based architecture.
+
+I am eager to bring my unique blend of skills in software development, project management, and collaboration to your organization. I would appreciate the opportunity to discuss how I can contribute to your team and help drive innovative solutions.
+
+Sincerely,  
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and some experience with HTML and ASP.NET. However, they lack the required depth in modern front-end frameworks like React, and their experience doesn't showcase the testing, CI/CD, and security knowledge mentioned in the job description. The cover letter makes unsupported claims about experience with React and other modern tools.

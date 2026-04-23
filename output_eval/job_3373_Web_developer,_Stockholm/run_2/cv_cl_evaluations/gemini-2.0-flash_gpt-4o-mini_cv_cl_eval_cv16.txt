@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, including JavaScript, HTML, CSS, and experience with React and Git. However, the resume highlights .NET development more prominently, and the candidate's experience with modern FE frameworks and testing tools is limited. The candidate also lacks explicit experience with TypeScript and some of the preferred technologies listed in the job description.

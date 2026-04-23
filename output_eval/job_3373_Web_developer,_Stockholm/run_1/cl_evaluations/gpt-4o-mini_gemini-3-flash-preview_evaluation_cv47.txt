@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background relevant to the Front-End Engineer position, particularly in JavaScript, React, and testing frameworks. Their experience in business development adds a unique perspective, as well as familiarity with Agile environments. However, while they meet most requirements, their knowledge of Ruby and AWS could be improved, which slightly limits their match for the role.

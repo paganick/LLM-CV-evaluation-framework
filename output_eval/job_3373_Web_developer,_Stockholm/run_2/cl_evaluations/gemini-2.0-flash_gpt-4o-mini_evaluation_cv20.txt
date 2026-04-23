@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in core frontend technologies like JavaScript, HTML, CSS, and React, aligning well with the job requirements. They also possess experience with Agile methodologies, Git, and basic web security principles. Although they come from a Database Programmer/Analyst background, they appear to have touched on many FE points in the job description.

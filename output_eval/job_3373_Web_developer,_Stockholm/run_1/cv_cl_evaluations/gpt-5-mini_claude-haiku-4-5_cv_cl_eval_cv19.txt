@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design with only basic HTML/CSS coursework and no demonstrated hands-on experience in JavaScript, TypeScript, React, modern frontend frameworks, testing/automation, NodeJS, CI/CD or cloud/infrastructure tooling required by the role. While they show transferable strengths (attention to detail, collaboration, and a willingness to learn), those do not meet the technical depth and specific toolset the position demands. This makes them largely unqualified for the frontend developer role as described.

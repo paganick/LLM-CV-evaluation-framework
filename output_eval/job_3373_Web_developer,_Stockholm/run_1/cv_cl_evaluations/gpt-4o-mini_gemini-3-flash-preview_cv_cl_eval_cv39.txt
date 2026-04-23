@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and web maintenance but lacks the essential skills and experience with modern frontend frameworks, specifically React, as required by the job description. Additionally, there is no mention of hands-on testing, automation, or knowledge of JavaScript and TypeScript, which are critical for the role. Overall, while there is relevant experience in the arts and design fields, the lack of specific frontend development skills and tools significantly hampers their fit for this position.

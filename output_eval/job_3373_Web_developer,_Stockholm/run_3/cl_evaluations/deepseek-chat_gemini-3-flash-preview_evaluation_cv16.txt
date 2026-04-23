@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant industry experience and a strong alignment with many technical requirements, including JavaScript, React interest, Agile/Scrum, Git, and security basics. However, the cover letter lacks explicit, hands-on experience with key technologies from the job description such as TypeScript, modern testing frameworks (Jest, Cypress), and specific CI/CD tools, and it over-relies on .NET/backend experience. The expressed eagerness to learn is positive but does not fully substitute for demonstrated proficiency in the listed stack.

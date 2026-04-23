@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE backend experience, some legacy frontend exposure (jQuery/Bootstrap), and familiarity with Git and Agile, but lacks core required frontend skills such as React, TypeScript, modern CSS tooling, frontend testing frameworks, Node/npm ecosystem experience, and demonstrated web security/CI/CD/AWS knowledge. They express willingness to transition to frontend work, but currently do not meet the technical requirements for this role.

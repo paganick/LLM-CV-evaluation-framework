@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and project management but lacks specific experience in front-end development technologies such as JavaScript, React, and other mentioned frameworks. Their technical skills are limited to basic HTML and CSS, and they do not demonstrate hands-on experience with testing frameworks or CI/CD tools. While they show a keen interest in developing their coding skills, they currently do not meet the technical requirements of the role.

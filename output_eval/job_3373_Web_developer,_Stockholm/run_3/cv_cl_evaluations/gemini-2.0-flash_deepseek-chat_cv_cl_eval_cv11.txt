@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they mention JavaScript, HTML, and CSS, their experience seems limited to test automation. They express interest in learning React and other relevant technologies, but lack hands-on experience.

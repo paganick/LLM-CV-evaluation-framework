@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to meet the primary requirement of 2-3 years of commercial experience in a UX Designer role, with a background exclusively in instructional and program design. They lack the necessary technical proficiency in Figma and UI design systems, and their coding experience in R Studio does not align with the requested HTML/CSS/JS skills for software development. While the candidate understands design thinking, they do not possess the digital prototyping or Agile software environment experience required for this specific position.

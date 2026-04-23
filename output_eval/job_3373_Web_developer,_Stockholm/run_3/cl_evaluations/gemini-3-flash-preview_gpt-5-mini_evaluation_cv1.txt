@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience in React and Agile environments, but lacks professional proficiency in TypeScript, which is a primary requirement for the role. Furthermore, their automation expertise is focused on Java-based Selenium frameworks rather than the modern JavaScript testing tools like Jest or Cypress requested in the job description. While the candidate has a strong engineering foundation, the gaps in the specific frontend tech stack and functional programming paradigms necessitate significant upskilling.

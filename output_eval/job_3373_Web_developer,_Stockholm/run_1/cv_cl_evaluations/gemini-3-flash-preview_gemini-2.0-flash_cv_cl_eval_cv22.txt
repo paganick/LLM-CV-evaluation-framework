@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career switcher with a background in media planning who lacks nearly all the core technical requirements, including professional experience with JavaScript, TypeScript, and the React framework. Beyond basic HTML/CSS, the profile focuses on database management and Java, providing no evidence of the required expertise in modern frontend testing, CI/CD tools, or web security protocols. This applicant is completely unqualified for a mid-to-senior level frontend engineering position.

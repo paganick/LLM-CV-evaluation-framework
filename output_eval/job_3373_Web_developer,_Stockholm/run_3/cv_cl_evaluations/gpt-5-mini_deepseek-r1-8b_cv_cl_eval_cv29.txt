@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is strictly sales, marketing, and business development with no demonstrated experience in front-end engineering technologies required by the role (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, NodeJS, CI/CD, AWS/Terraform). There is only superficial mention of "API" and no evidence of hands‑on coding, automated testing, or relevant toolchain familiarity. This is a complete mismatch to the technical requirements and responsibilities of the position.

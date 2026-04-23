@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong legacy/mainframe banking experience, leadership and testing exposure, but their resume shows only incidental JavaScript/HTML and no demonstrable experience with React, TypeScript, modern frontend frameworks, Node/npm, Git-based workflows, frontend testing tools, or web security practices required for this role. Given the significant and specific gaps in core frontend skills and tooling, they would not be immediately productive in this position without substantial retraining.

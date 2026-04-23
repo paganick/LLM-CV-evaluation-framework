@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and basic web development, but the resume lacks any evidence of experience with the modern tech stack required, specifically React, TypeScript, and automated testing frameworks. Professional experience listed is over a decade old and primarily focused on hardware troubleshooting and general IT management rather than modern front-end engineering. The claims made in the cover letter regarding React, Jest, and CI/CD tools are not substantiated by the professional history or skill set listed in the resume.

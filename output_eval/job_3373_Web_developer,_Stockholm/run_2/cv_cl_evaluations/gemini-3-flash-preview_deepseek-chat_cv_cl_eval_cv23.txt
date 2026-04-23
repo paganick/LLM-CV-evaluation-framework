@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an engineering technician with a background in hardware validation and electronics, which does not align with the requirements for a modern Front-End Developer. They lack professional experience and core proficiency in the mandatory tech stack, including React, TypeScript, CSS preprocessors, and modern web testing frameworks. While the candidate expresses a desire to transition into software, their current profile represents a different industry and lacks the practical software engineering experience required for this position.

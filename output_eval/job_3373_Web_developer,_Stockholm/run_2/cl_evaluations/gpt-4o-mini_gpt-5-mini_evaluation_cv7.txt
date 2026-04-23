@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in graphic design and strong skills in visual communication, but lacks specific front-end development experience with tools such as JavaScript, TypeScript, and modern frameworks like React. While there is a willingness to learn and apply design skills to a front-end role, the absence of hands-on experience with essential technologies and practices such as testing frameworks and Git diminishes their suitability for this position.

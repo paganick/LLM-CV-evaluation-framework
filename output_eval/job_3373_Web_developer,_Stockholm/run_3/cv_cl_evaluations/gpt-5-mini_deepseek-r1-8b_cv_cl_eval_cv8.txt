@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume demonstrates a long history in hardware and electronics test engineering but shows no demonstrated experience with the core front-end technologies required (JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, Node/npm). The cover letter asserts familiarity with web testing tools and Git, but these claims are unsupported by concrete front-end or web-development experience on the resume. Substantial retraining and proven hands-on experience in the specified web stack would be required to meet this role's core requirements.

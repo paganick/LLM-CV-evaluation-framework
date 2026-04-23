@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements, including professional experience with JavaScript, TypeScript, React, and automated testing frameworks. Their background is almost entirely in administrative operations and the performing arts, with no evidence of professional software development experience. While the candidate mentions a basic knowledge of HTML and web design, they do not meet the standards for a modern front-end engineering role.

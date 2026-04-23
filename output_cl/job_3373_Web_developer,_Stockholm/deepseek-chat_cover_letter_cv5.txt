@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Frontend Developer position. While my resume details over seven years of specialized experience in mainframe technologies within the banking and financial sectors, it also reveals a foundational and growing expertise in modern web development that aligns directly with your requirements. My career has been built on a deep commitment to clean code, rigorous testing, and collaborative problem-solving—principles I am eager to apply within your React and Agile environment.
+
+My technical foundation includes hands-on work with JavaScript, HTML, and CSS, which I have utilized in past projects. I am keenly interested in modern frameworks and am actively expanding my proficiency in React. My extensive background in analysis, design, and end-to-end testing of complex financial systems has ingrained in me a meticulous approach to quality. I have direct experience with unit and integration testing in a mainframe context and am familiar with Git for version control. Furthermore, my work involved critical production systems, giving me a fundamental appreciation for security and robust architecture, which I am excited to deepen in the web domain with concepts like OWASP and CORS.
+
+What truly drives me is the challenge of mastering new domains. My success in leading teams for HSBC Core Banking was predicated on understanding the full business flow—from product parameters to fees and reporting—not just my immediate technical stack. This keen interest in understanding the full platform and collaborating across teams is a strength I will bring to your projects. I am a proven strong collaborator, having managed resources, coordinated releases, and mentored colleagues to ensure timely, high-quality deliveries in a high-pressure environment.
+
+My experience with database administration, performance tuning, and creating detailed technical specifications demonstrates an analytical mindset suited to modern tools like Node.js, AWS, and CI/CD pipelines. I am passionate about writing clean, maintainable code and am highly motivated to transition my deep-rooted software engineering principles into your modern tech stack. I am confident that my unique blend of rigorous backend discipline and growing frontend skills would make me a valuable and adaptable contributor to your team.
+
+Thank you for considering my application. I look forward to discussing how my background in mission-critical systems and my dedication to modern web development can benefit your projects.
+
+Sincerely,
+Alexis

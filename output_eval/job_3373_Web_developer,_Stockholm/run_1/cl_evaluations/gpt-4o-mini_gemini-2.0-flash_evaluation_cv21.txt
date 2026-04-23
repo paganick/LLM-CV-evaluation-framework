@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in front-end technologies such as HTML, CSS, and JavaScript, they do not mention experience with React, which is specifically noted in the job description. Additionally, the lack of detail regarding testing frameworks and CI/CD tools indicates a gap in the required skill set. Overall, the candidate demonstrates some relevant experience but lacks several key competencies and industry-specific knowledge.

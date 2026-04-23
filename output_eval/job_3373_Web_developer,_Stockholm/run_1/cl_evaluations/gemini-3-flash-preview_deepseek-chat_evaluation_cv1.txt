@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong academic background and relevant experience with React and CSS, meeting the core requirements of the position. However, their professional history is primarily focused on Java backend development and QA automation, lacking direct professional tenure as a specialized Frontend Developer. Furthermore, they do not demonstrate current proficiency in TypeScript or specific JavaScript testing frameworks, which are prioritized in the job description.

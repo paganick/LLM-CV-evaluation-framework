@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in business development and sales leadership but lacks direct experience in the technical skills specified in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. While there are transferable skills mentioned, the lack of relevant technical experience and understanding of web security, testing frameworks, and CI/CD tools significantly hinders their suitability for this technical role.

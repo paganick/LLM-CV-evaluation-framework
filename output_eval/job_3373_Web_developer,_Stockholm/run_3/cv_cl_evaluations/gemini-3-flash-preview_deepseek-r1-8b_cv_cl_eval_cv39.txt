@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer and fine artist who lacks the technical engineering foundation required for this software development role. They possess no experience with JavaScript frameworks, TypeScript, automated testing, or cloud infrastructure, listing only "some HTML" and Dreamweaver as technical web skills. Their profile is entirely centered on visual arts and print media, making them completely unqualified for a senior frontend engineering position.

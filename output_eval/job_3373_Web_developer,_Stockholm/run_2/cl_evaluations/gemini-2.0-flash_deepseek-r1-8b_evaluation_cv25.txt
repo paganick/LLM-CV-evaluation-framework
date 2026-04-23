@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is only tangentially related to the JavaScript-focused front-end role. While they mention HTML, CSS, and SASS, the letter lacks specific examples of using JavaScript frameworks like React (explicitly mentioned in the job description). The letter highlights design-related skills more than the coding and testing skills essential for the role.

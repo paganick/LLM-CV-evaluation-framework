@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a background in web development through academic projects, but lacks professional experience with modern front-end frameworks like React, TypeScript, or relevant testing frameworks. While the candidate demonstrates knowledge of HTML, CSS, and JavaScript, the resume does not showcase experience with crucial tools and practices mentioned in the job description like Git, CI/CD, or modern CSS tools. The candidate's experience is also outdated.

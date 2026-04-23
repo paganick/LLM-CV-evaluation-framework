@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all mandatory technical requirements, including professional experience with React, TypeScript, and modern testing frameworks like Jest or Cypress. Their work history is significantly outdated, focusing on legacy technologies and general IT support from over a decade ago rather than modern front-end development. Furthermore, there is no evidence of experience with essential tools such as Git, CI/CD pipelines, or modern CSS methodologies.

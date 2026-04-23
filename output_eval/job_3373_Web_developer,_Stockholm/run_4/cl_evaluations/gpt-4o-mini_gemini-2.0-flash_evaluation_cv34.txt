@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web technologies such as HTML, CSS, and SQL, but lacks specific experience in JavaScript frameworks that are critical for the role, notably React. Additionally, there is no mention of experience with testing frameworks, version control systems like Git, or modern CSS tools. While the candidate has soft skills suitable for collaboration, they do not fully meet the technical requirements outlined in the job description.

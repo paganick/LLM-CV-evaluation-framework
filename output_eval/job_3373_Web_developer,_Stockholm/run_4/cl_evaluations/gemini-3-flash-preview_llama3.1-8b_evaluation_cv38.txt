@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is transitioning from a completely unrelated industry and lacks all core technical competencies required for the role, including JavaScript, TypeScript, and React. While they mention a background in Ruby, the job description explicitly states the company is moving away from that language, and the candidate admits to having no experience with the necessary front-end frameworks. The application fails to demonstrate any hands-on experience with web development, testing, or the modern engineering ecosystem mentioned in the requirements.

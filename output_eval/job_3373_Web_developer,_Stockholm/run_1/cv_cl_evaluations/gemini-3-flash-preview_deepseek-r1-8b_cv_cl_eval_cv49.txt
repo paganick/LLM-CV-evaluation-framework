@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for this role, as their professional experience and education are rooted in Data Analysis and Industrial Engineering rather than Frontend Development. They lack all mandatory technical skills, including JavaScript, TypeScript, React, and modern CSS tools, which are essential for the position. While the cover letter expresses a desire to learn, the resume shows no evidence of relevant web development experience or proficiency in the required tech stack.

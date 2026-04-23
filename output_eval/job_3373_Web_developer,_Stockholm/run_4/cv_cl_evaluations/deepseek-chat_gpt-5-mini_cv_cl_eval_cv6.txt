@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and mentions some required skills like JavaScript, HTML, CSS, and Git. However, they lack direct experience with the core technologies listed in the job description, specifically React, TypeScript, modern testing frameworks (Jest, Cypress), and modern CSS tools. Their background is heavily centered on Drupal and traditional front-end development, which does not align with the role's focus on modern React-based frameworks and specific tooling.

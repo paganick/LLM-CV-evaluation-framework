@@ -1,0 +1,2 @@
+Score: 4
+        Reasoning: The candidate fails to demonstrate proficiency in core required technologies, specifically omitting any mention of JavaScript, TypeScript, or professional experience with React. Their technical background is heavily focused on database management and Java, which does not align with the specialized frontend toolset or testing frameworks required for this role. While the candidate is in a relevant field of study, they currently lack the specific hands-on experience and technical maturity necessitated by the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong visual design, HTML/CSS and cross-team collaboration experience, which is relevant to front-end work. However, there is no evidence of required modern engineering skills—no JavaScript/TypeScript, React experience, testing/automation, Git/GitHub usage, Node/npm, CI/CD, or web security knowledge—so they are not currently qualified for this role without substantial upskilling.

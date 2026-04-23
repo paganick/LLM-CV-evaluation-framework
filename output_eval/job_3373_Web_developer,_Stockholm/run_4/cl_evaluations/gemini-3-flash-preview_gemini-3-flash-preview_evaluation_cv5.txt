@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Mainframe specialist attempting to transition into modern frontend development, meaning they lack the requisite professional tenure with React, TypeScript, and modern CSS tools. While they demonstrate strong domain knowledge in banking and have leadership experience, their actual hands-on application of the modern web stack is not yet proven at an enterprise frontend level. Strict adherence to the requirements reveals a significant gap between their legacy background and the specific technical expertise demanded by the role.

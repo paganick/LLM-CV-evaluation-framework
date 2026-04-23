@@ -1,0 +1,2 @@
+Score: [2]
+Reasoning: This candidate's resume focuses on film and video production, lacking any mention of the required front-end development skills such as JavaScript, TypeScript, HTML, CSS, or experience with modern FE frameworks like React. The resume also doesn't show experience with testing frameworks, CI/CD tools, or cloud platforms like AWS. The candidate's skills are primarily related to media production software like Final Cut Pro and Adobe Creative Suite, which are not relevant to the job description.

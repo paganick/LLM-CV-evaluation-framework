@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a different industry with no professional web development experience. While they have academic projects and foundational knowledge in HTML, CSS, and JavaScript, they lack hands-on experience with React, modern testing frameworks, and the other specific tools and practices listed as requirements. Their background shows transferable soft skills, but they do not meet the core technical qualifications for the role.

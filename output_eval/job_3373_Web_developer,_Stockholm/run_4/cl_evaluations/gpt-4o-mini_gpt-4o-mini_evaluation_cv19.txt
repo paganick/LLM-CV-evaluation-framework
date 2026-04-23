@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in Graphic Design and foundational knowledge in HTML, CSS, and basic web security concepts. However, their limited experience with JavaScript and TypeScript, as well as the absence of modern testing frameworks and other specified technologies, detracts from their overall qualifications for the role.

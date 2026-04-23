@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights project management experience with some front-end development skills (JavaScript, HTML/CSS, Angular, PHP). However, the resume lacks depth in modern FE frameworks like React (the company's primary framework), TypeScript, testing frameworks, and other technologies listed in the job description, making them a weak fit for a front-end developer role. Their skills seem more geared toward management than development.

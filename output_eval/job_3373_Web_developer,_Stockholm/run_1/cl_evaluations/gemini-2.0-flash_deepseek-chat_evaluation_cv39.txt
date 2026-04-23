@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses enthusiasm and transferable skills, the cover letter heavily relies on design experience rather than demonstrable front-end development skills. The candidate admits to foundational knowledge of HTML and interest in learning required technologies, but lacks the hands-on experience with JavaScript, React, testing frameworks, and Git specified in the job description. This indicates a significant skills gap and limited direct relevance.

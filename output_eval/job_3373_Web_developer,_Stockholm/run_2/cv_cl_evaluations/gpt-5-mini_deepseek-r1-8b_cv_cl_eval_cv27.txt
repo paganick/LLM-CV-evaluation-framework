@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is primarily in administrative, arts, and media roles with no demonstrated experience in JavaScript, TypeScript, React (or other modern frontend frameworks), testing frameworks, Git, Node.js, or related tooling required for this position. While they note some HTML and web-design exposure, there is no evidence of professional software engineering, coding projects, or familiarity with security, CI/CD, or cloud infrastructure. This profile is therefore completely unqualified for the frontend developer role.

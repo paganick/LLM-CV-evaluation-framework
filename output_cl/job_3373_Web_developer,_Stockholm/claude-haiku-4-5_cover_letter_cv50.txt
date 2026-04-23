@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my professional background has primarily focused on business development and IT project management, my foundational computer science education and demonstrated technical aptitude position me as a committed candidate ready to transition into frontend development.
+
+My Bachelor of Science in Computer Science from Southern Adventist University provides the technical foundation necessary for this role. Throughout my career, I have developed a deep understanding of systems architecture, network infrastructure, and information security—knowledge that directly applies to web security concepts including OWASP, CORS, and OAuth that your position requires. My experience managing complex IT projects across multiple platforms and coordinating with diverse technical teams has instilled in me the collaborative mindset essential for thriving in your Agile environment.
+
+What attracts me most to this opportunity is the challenge of mastering modern frontend technologies and frameworks. I am genuinely passionate about transitioning into development and am committed to rapidly acquiring proficiency in JavaScript, TypeScript, React, and the comprehensive testing frameworks your team employs. My career demonstrates a consistent pattern of quickly learning complex technical systems—from managing distributed computer systems supporting 200 workstations to implementing enterprise software solutions for international clients.
+
+My quality engineering background has ingrained in me a genuine passion for clean, maintainable code. During my tenure leading Six Sigma initiatives, I drove process improvements across twenty departments by identifying inefficiencies and implementing systematic solutions—skills that translate directly to writing quality code and understanding the full development domain. My experience consulting with clients to assess technology requirements has taught me to approach problems comprehensively, considering broader business implications—exactly the perspective you seek in team members who understand platforms beyond their immediate expertise.
+
+I recognize that my background is non-traditional for a frontend developer role. However, my demonstrated ability to master new technical domains, combined with my strong foundation in computer science, commitment to continuous learning, and proven collaborative approach, positions me to make meaningful contributions to your team. I am eager to deepen my technical expertise in React, testing frameworks like Jest and Cypress, and the broader JavaScript ecosystem while bringing my project management experience and attention to detail to your development process.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my unique background and genuine enthusiasm for frontend development can contribute to your team's success.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all core technical requirements, including professional experience with JavaScript, TypeScript, and the mandatory React framework. While the applicant has a relevant background in design and basic HTML/CSS, they provide no evidence of proficiency in testing, Git, security, or modern development toolchains. This profile is significantly underqualified for an engineering role that requires advanced skills in functional programming and CI/CD.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software development, and they lack the required professional experience with JavaScript, TypeScript, React, testing frameworks, and other core technical skills listed in the job description. While they show enthusiasm and mention foundational HTML/CSS, this represents a complete career transition with no demonstrated proficiency in the key technologies. The application is for a different industry role, making them unqualified for this specific frontend developer position.

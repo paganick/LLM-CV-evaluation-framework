@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in film/television production and they do not demonstrate hands-on experience with core requirements: JavaScript/TypeScript, HTML/CSS, React, Node.js, Git, testing frameworks, or web security. Mentioning Ruby and being a quick learner does not substitute for the extensive front-end toolchain, testing, and CI/CD experience listed. Transferable skills in project management and communication are noted but insufficient for this technically demanding role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks demonstrable experience in core requirements—no JavaScript/TypeScript, React, modern CSS frameworks, front-end testing, Node/npm, Git, or CI/CD are shown on the resume. Their background is primarily business development and chemistry with only basic HTML and C/C++ exposure; while they have strong transferable leadership and communication skills, they do not meet the technical baseline to be productive in this front-end engineering role without substantial retraining.

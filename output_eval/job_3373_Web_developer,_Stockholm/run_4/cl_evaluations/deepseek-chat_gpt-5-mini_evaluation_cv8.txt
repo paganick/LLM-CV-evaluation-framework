@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive test engineering experience and a strong quality mindset, which is partially relevant. However, they lack direct, hands-on experience with the core front-end technologies (React, TypeScript, modern CSS) and frameworks listed in the job description. Their background is in electronics and firmware test automation, not web development, representing a significant skills gap for the specific role.

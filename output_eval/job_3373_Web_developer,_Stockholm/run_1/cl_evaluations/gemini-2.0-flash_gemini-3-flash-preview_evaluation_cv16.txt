@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in several key areas, including JavaScript, HTML, CSS, Agile methodologies, and Git. They express eagerness to learn React and TypeScript which are crucial for the job. However, they lack direct experience with testing frameworks, CI/CD tools, and AWS/Terraform, indicating areas for growth.

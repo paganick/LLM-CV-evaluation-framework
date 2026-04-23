@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive experience is in hardware and electronics test engineering, not front-end software development. They lack any demonstrated proficiency in the core technologies listed in the job description, such as JavaScript, React, TypeScript, or modern web development. While they show a willingness to learn, their background is a fundamental mismatch for a Front-End Engineer role.

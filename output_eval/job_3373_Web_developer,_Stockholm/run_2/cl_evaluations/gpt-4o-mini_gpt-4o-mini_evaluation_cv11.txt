@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and knowledge of key technologies like JavaScript, HTML, and CSS, which are essential for the frontend developer role. However, they lack specific experience with modern frontend frameworks such as React, and there is no mention of familiarity with tools like SASS or linters. Overall, while they demonstrate a foundation in related skills, they do not fully meet the requirements for the position.

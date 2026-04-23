@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience with the required modern front-end stack, including React, TypeScript, and automated testing frameworks. Their background is almost exclusively in systems administration, network monitoring, and hardware troubleshooting, which does not align with the technical demands of a front-end developer role. While the candidate expresses a desire to transition careers, they do not currently possess the necessary skills or relevant industry experience to meet the job requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary technologies required, specifically React and TypeScript, and relies on a legacy stack of .NET, ASP.NET, and AngularJS. While they demonstrate strong soft skills and general web development knowledge, they possess no documented experience with modern testing frameworks, NodeJS, CI/CD tools, or cloud infrastructure like AWS. Their background does not align with the modern front-end requirements specified in the job description.

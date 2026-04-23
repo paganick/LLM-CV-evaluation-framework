@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web experience with HTML/CSS, SQL, and strong collaboration/documentation skills, but lacks nearly all required frontend technical skills (no JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, or modern CSS/tooling demonstrated). Their cover letter expresses willingness to learn, but the resume does not show the practical experience or tooling knowledge needed for this role. This is a relevant-industry applicant who falls short on essential, job-critical technologies and practices.

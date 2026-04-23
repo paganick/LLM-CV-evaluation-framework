@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong systems administration, UNIX/Linux, and infrastructure experience with security clearance, but there is no demonstrable experience with JavaScript/TypeScript, React, HTML/CSS, modern front-end tooling, testing frameworks, or Node/npm which are core requirements for this role. The resume and cover letter emphasize ops and backend/system skills rather than hands-on front-end development, testing, or CI/CD/AWS/Terraform experience, so they would not meet the immediate needs of the position without substantial retraining.

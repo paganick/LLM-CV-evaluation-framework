@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal and PHP backend development, which is not aligned with the job's focus on modern frontend frameworks like React and TypeScript. While they list foundational skills like JavaScript, HTML, and CSS, there is no demonstrated experience with React, testing frameworks, or the specific modern tools (e.g., Styled Components, Jest, Cypress) required. Their background is in a different tech stack, making them a poor fit for this specific frontend engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and strong transferable skills in client advocacy and requirements translation, which align with the 'voice of the user' aspect. However, they lack direct commercial UX design experience, have no demonstrable experience with core tools like Figma for prototyping, and their technical skills (VBA, SQL) are not the front-end web technologies (HTML, CSS, JS) specified for managing the UI Design System. This results in a significant gap against the job's specific requirements.

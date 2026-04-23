@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a broad technical background, the resume lacks evidence of professional experience with the required modern front-end stack, specifically React and TypeScript. The work history is heavily centered on legacy technologies like PHP and Perl, and the resume fails to mention the mandatory testing frameworks or web security protocols specified in the job description. The candidate qualifies as a general software engineer, but does not meet the specialized front-end requirements for this role.

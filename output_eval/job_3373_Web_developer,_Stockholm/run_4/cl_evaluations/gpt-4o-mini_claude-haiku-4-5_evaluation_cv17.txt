@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant project management experience and demonstrates a genuine interest in transitioning to frontend development. However, they lack advanced proficiency in specific technologies and frameworks mentioned in the job description, such as modern CSS tools, CI/CD tools, and familiarity with the NodeJS ecosystem. Their skills do align with a portion of the requirements, but they do not meet the level of specific experience expected for the role.

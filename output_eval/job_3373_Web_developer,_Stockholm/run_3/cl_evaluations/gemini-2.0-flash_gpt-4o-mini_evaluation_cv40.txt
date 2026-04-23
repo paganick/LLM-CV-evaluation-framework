@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in product management, not front-end development, which is a significant mismatch for the role. While they claim familiarity with web technologies and testing frameworks, the cover letter lacks specific examples of hands-on coding experience. The listed skills are foundational, rather than demonstrating the required expertise in React and other modern front-end tools.

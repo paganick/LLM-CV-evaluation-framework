@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in C# and ASP.NET, which directly conflicts with the requirement for hands-on experience in React, TypeScript, and the modern JavaScript ecosystem. While they demonstrate foundational knowledge of Git and security, they fail to provide evidence of proficiency in the specific frontend frameworks and testing tools essential to this role. The application expresses an interest in learning the required technologies rather than demonstrating the mastery necessary to fulfill the job description's technical demands.

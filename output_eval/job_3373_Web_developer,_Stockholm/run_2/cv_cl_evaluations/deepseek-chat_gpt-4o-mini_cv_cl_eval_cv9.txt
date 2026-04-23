@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core professional experience is over 7 years in Java/JEE backend development, not modern frontend engineering. While they mention JavaScript, HTML, and CSS, there is no demonstrable, recent experience with React or other required frameworks, nor with key tools like Jest, Cypress, or Node.js. Their testing and Agile experience is valuable, but the fundamental skillset is a mismatch for a frontend-focused role.

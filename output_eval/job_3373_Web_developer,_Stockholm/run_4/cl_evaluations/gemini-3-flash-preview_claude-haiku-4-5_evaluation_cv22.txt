@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-transitioning applicant who lacks professional experience with the core technical requirements, specifically TypeScript, React, and automated testing. While they possess a foundational academic background in MIS, they explicitly state a need to acquire expertise in essential areas like Git, OWASP security standards, and modern testing frameworks. Their background is primarily in marketing and databases, making them unqualified for a role requiring hands-on frontend development experience.

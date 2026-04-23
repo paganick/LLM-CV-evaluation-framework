@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in marketing and communications, which is a completely different field from front-end development. The cover letter explicitly states a lack of required technical skills like JavaScript, TypeScript, HTML, CSS, and React. While they mention transferable skills, the core technical requirements of the job are not met, making them unqualified for this specific role.

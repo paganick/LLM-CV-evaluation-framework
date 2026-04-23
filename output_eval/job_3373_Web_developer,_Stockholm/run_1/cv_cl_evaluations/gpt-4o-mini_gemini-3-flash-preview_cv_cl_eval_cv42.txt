@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in operations and finance but lacks direct experience in frontend development and the specific technical skills required for the position, such as JavaScript, TypeScript, modern frontend frameworks (particularly React), and testing automation. While they demonstrate an understanding of web technologies and a passion for clean code, their overall background does not align closely with the role’s expectations.

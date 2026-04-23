@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses foundational skills like HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks (React, VueJS, Angular, Svelte) as specified in the job description. While they express eagerness to learn, their experience is primarily in older technologies (ASP.NET, Flash, Java Applets). The resume demonstrates skills in multiple programming languages, but not the specific technologies the job requires, such as Typescript, Node.js, or testing frameworks like Jest or Cypress.

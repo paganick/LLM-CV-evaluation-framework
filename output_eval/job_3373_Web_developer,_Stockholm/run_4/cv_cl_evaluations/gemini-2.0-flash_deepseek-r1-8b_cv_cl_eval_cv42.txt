@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in finance and operations, with no demonstrable experience in software development or web technologies. The resume and cover letter highlight project management and budgeting skills, which are irrelevant to the required technical skills in the job description. The candidate lacks the necessary expertise in JavaScript, React, or any other front-end technologies mentioned.

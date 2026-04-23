@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses the required years of experience and core technical stack, including TypeScript, React, and automated testing. However, the application fails to address specific technical requirements such as web security (OWASP), functional programming, and modern CSS tools like Styled Components. Additionally, a significant portion of the letter focuses on irrelevant skills like PHP and Bash scripting rather than the specialized modern front-end ecosystem requested.

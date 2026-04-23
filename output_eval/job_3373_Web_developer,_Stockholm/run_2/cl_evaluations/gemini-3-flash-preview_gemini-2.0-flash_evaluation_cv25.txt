@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is fundamentally unqualified for a developer role as they lack experience with JavaScript, TypeScript, and React, which are the primary requirements for this position. Their background is centered in graphic design and basic styling, with no evidence of skills in testing, version control, or the modern software development lifecycle. While the candidate is in a relevant industry, they do not possess the technical engineering foundation required to function in an Agile development environment.

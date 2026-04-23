@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in administration, arts, and media production with only incidental HTML and web-design listed; there is no demonstrated experience with JavaScript/TypeScript, React, modern frontend frameworks, testing automation, NodeJS, Git, CI/CD, or cloud/infra tools. This is a fundamental mismatch with the technical requirements of the role. The resume indicates a different industry and skill set, making the candidate unqualified for the position.

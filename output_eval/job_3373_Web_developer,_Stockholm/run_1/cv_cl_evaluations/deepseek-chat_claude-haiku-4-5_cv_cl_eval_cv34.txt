@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing implementation and project management, not professional frontend development. They lack hands-on experience with the core technologies required (JavaScript, TypeScript, React, modern testing frameworks) and their listed skills are outdated or not relevant. While they show eagerness to learn, their practical experience does not align with the technical demands of the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in testing and some listed technologies align with the job description, such as JavaScript, HTML, and CSS. However, the resume focuses heavily on manual testing and lacks explicit experience with modern FE frameworks like React, testing frameworks mentioned (Jest, Cypress), and other desired skills like CI/CD, Node.js, or cloud platforms. The cover letter expresses interest but does not provide concrete examples of relevant experience beyond general testing skills.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of the required technologies, including JavaScript, TypeScript, HTML, CSS, and React, but lacks formal experience in the field of software development. Their professional background is predominantly in customer service and sales management, which, while showcasing transferable skills, does not align closely with the technical requirements and hands-on experience needed for the front-end developer role.

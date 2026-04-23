@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks specific front-end development experience using modern frameworks like React, despite claiming familiarity. Their experience leans heavily toward data analysis and project management, not front-end engineering. While they mention HTML and CSS, the depth and practical application in a modern front-end context are not evident, and their listed skills are outdated.

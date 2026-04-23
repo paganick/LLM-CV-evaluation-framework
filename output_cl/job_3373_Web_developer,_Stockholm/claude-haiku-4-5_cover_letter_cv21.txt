@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With over two decades of software development experience and a proven track record building web applications, I am excited about the opportunity to contribute to your React-focused team.
+
+My technical foundation aligns well with your requirements. I have extensive hands-on experience with JavaScript, HTML5, and CSS3, complemented by proficiency in modern frameworks including AngularJS and MVC. Throughout my career, I have implemented testing strategies and quality assurance processes, developing unit tests and comprehensive testing frameworks to ensure code reliability. My experience with version control systems like TFS and collaborative development practices demonstrates my familiarity with Git and repository management.
+
+What particularly appeals to me about this role is your emphasis on React and functional programming principles. I am committed to staying current with evolving technologies and appreciate your team's approach to continuous learning. My background in Agile methodologies, evidenced by regular participation in scrum meetings and collaborative development environments, positions me well for seamless integration into your team structure.
+
+I have consistently demonstrated strong collaboration skills across multiple teams and departments. My experience managing vendor relationships, mentoring junior developers, and working closely with business analysts and QA teams showcases my ability to communicate effectively with diverse stakeholders. I am genuinely passionate about understanding domain expertise beyond my immediate focus, having successfully consulted with clients across mortgage, financial, and insurance sectors to translate business requirements into technical solutions.
+
+My development practices reflect a commitment to clean code principles. I have redesigned systems for improved maintainability, implemented new interfaces and features, and established code review processes that elevated team standards. Additionally, my familiarity with Adobe Design Suite provides valuable perspective on user experience and design collaboration.
+
+While my background emphasizes backend technologies like ASP.Net and C#, I am enthusiastic about transitioning my foundational web development knowledge toward modern frontend specialization. I recognize areas for growth in testing frameworks like Jest and Cypress, CSS tools like Styled Components, and CI/CD pipeline tools, and I am fully committed to rapidly developing expertise in these areas.
+
+I am energized by the prospect of joining a team that values code quality, continuous improvement, and cross-functional collaboration. I am confident my technical background, proven ability to learn quickly, and genuine passion for excellence make me an excellent fit for your organization.
+
+Thank you for considering my application. I look forward to discussing how I can contribute to your team.
+
+Sincerely, Alexis

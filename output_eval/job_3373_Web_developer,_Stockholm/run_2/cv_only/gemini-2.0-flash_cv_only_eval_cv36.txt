@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume showcases a background in microbiology, aseptic techniques, and quality control, which are completely unrelated to the software development skills required for the job. There's no mention of JavaScript, TypeScript, HTML, CSS, or any modern FE frameworks. The candidate's skills and experience do not align with the requirements outlined in the job description.

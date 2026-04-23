@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in marketing automation, not front-end development. While they express interest in learning the required technologies (React, TypeScript, etc.), they lack practical experience in these areas. Their skills in testing, QA, and collaboration are transferable, but the core technical skills are missing.

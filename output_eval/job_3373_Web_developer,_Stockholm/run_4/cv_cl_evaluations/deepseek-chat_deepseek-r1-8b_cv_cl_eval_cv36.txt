@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, quality control, and regulatory compliance for pharmaceutical/biotech industries, with zero experience in software development, web technologies, or any technical skills listed in the job description (JavaScript, React, testing, Git, etc.). The cover letter attempts to draw parallels but fails to demonstrate any relevant hard skills or industry experience. This is a completely unqualified application for a front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with over four years of experience in the advertising industry and lacks any professional background in software engineering. Their resume identifies a focus on database management and marketing analytics rather than the modern frontend development (React, TypeScript, Testing) required for this role. Furthermore, the technical proficiency claimed in the cover letter is not supported by the work history or the specific skills listed in the resume.

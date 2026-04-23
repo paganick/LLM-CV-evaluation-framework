@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience in software development, with a career history entirely focused on program management and learning design. While the cover letter claims self-taught technical skills, the resume does not demonstrate professional proficiency in JavaScript, TypeScript, or React, nor does it show experience with the required testing and CI/CD tools. This candidate does not meet the technical requirements for a developer role and belongs to a different professional industry.

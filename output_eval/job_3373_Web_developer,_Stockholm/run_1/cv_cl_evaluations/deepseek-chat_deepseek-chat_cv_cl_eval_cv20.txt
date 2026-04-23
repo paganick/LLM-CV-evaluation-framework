@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and Agile exposure but lacks the specific modern technologies required. Their professional work is entirely in the legacy .NET stack (C#, ASP.NET, jQuery) with no commercial experience in React, TypeScript, or modern testing frameworks listed in the job description. While they express eagerness to learn, they do not currently fulfill the hands-on experience requirements for the core tech stack.

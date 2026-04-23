@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight project management experience, but lack the specific front-end development skills (JavaScript, React, HTML, CSS, Testing) listed in the job description. There is no mention of modern FE frameworks or any development skills. The candidate's experience is primarily in IT infrastructure and project oversight, not hands-on software development.

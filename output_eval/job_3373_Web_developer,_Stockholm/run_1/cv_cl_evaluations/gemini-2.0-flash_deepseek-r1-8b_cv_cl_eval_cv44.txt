@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in presentation and multimedia design, with some UX/UI experience. While they mention HTML and CSS, the resume lacks the JavaScript, TypeScript, and modern FE framework experience (React, VueJS, Angular, Svelte) that the job description requires. There is also no mention of testing frameworks, CI/CD, or other backend technologies listed.

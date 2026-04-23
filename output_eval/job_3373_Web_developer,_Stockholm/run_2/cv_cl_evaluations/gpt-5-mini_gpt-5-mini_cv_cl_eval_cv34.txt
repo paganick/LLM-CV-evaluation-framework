@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid experience with HTML/CSS, QA/test plans, documentation, and client-facing implementation work in digital marketing, but lacks demonstrated hands-on experience with JavaScript/TypeScript, React (or other modern JS frameworks), testing automation tools, Git, Node.js ecosystem, and other core frontend technologies listed. They show willingness to learn and transferable skills in collaboration and QA, but do not meet the specific technical requirements for this front-end engineering role.

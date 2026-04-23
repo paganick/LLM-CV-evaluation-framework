@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the job description, particularly in React, testing frameworks, and CI/CD tools. They showcase relevant experience with Javascript, SASS, AWS and Git. The cover letter highlights their commitment to clean code and security practices (OWASP, CSP, CORS), which are highly valued.

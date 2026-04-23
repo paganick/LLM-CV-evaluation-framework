@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in graphic design and lacks relevant skills in front-end development technologies such as JavaScript, TypeScript, and modern libraries like React. There is no mention of testing frameworks, version control with Git, or any web security knowledge, which are critical for the position. Overall, the qualifications do not align with the requirements of the job description.

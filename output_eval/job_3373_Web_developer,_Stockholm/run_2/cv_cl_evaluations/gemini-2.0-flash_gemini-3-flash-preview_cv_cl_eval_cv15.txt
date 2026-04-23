@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills, like JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks such as React (the primary framework used by the company). While they express willingness to learn TypeScript and testing frameworks, their current skill set doesn't align well with the job description's emphasis on hands-on experience with these technologies. The resume focuses more on general IT and troubleshooting rather than FE development.

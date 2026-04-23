@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable skills required for the role. The resume and cover letter do not provide concrete evidence of hands-on experience with React, modern testing frameworks (Jest, Cypress), or the specific toolchain (ESLint, Prettier, Ramda) mentioned in the job description. While they have general web development experience, the application fails to prove proficiency in the core, modern frontend technologies and practices the role demands.

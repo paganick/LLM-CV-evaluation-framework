@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is predominantly project management and IT operations with no verifiable hands-on experience in JavaScript/TypeScript, React, modern frontend frameworks, or frontend testing and tooling required by the role. The cover letter asserts familiarity but the resume contains no developer roles, coding projects, repositories, or technical deliverables to demonstrate the necessary frontend expertise. Given the lack of concrete technical evidence, the candidate is not qualified for this front-end developer position.

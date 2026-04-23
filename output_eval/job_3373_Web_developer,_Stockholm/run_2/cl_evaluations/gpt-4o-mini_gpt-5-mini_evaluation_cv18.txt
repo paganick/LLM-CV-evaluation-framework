@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has extensive experience in web development and design, and demonstrates proficiency with HTML, CSS, JavaScript, and React, which aligns well with the job requirements. They also mention familiarity with testing practices and CI/CD, making them a strong fit. However, there is no mention of TypeScript, specific testing frameworks, or experience with security on the web, which are also important for the role.

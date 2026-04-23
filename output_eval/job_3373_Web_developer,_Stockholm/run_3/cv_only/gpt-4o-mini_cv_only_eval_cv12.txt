@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software development and programming languages such as JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks, testing automation, and specific tools mentioned in the job description like React, Jest, and CI/CD tools. Their background does show a degree of versatility, but it does not align closely with the specific requirements outlined in the job description.

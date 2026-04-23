@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates a comprehensive understanding of the requested tech stack, specifically highlighting React, TypeScript, and functional programming with Ramda. While their twelve years of experience are primarily in systems administration and IT infrastructure, they provide clear evidence of proficiency in web security, CI/CD, and automated testing. The score reflects a strong technical match tempered by a professional history that focuses more on operations and systems management than a long-term track record in dedicated frontend engineering.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses significant professional maturity and project leadership experience, the letter fails to demonstrate hands-on proficiency with the required technical stack, specifically JavaScript, TypeScript, and CSS. The applicant is transitioning from a 20-year career in operations and finance, providing no evidence of actual coding experience, Git version control, or specific testing frameworks required for a Frontend Developer role.

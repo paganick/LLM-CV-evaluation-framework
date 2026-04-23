@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and some web development, but lacks the specific technical skills required for the position, such as proficiency in modern JavaScript frameworks like React, VueJS, or Angular. Additionally, the candidate does not demonstrate hands-on experience with testing and test automation, API design, or CI/CD tools, suggesting a gap in the necessary qualifications for the role.

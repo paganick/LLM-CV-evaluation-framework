@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in a relevant industry but lacks almost all the specific technical requirements, including JavaScript, TypeScript, and React. Their experience is primarily in graphic design and layout, with only "some HTML knowledge" and no evidence of experience in testing, CI/CD, or modern front-end architectures. The application highlights a significant skills gap that would require extensive training to meet the role's core engineering demands.

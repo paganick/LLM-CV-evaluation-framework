@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a significant passion for frontend development and possesses transferable skills from their background in microbiology and quality control. However, they lack hands-on experience with key technologies and tools mentioned in the job description, such as modern CSS tools, specific testing frameworks, CI/CD tools, and familiarity with the Node.js ecosystem. While showing potential, the candidate does not fully meet the qualifications required for the position.

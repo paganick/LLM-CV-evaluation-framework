@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development, but their experience is primarily with ASP.NET and C#, not the JavaScript/React stack specified in the job description. While they mention familiarity with HTML, CSS, JavaScript, and Bootstrap, their resume and cover letter do not demonstrate sufficient depth with modern front-end frameworks or the listed testing and tooling. There's a stated eagerness to learn, but a significant skills gap exists.

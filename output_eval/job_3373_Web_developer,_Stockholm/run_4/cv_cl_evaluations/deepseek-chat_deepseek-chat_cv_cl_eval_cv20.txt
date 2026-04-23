@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is almost entirely in the .NET/C#/ASP.NET MVC stack with jQuery, which is a significant mismatch for a React-focused role requiring modern FE frameworks. While they demonstrate core web fundamentals and Agile experience, they lack direct, hands-on experience with the key technologies listed (React, TypeScript, modern CSS tools, specified testing frameworks, Node.js ecosystem, functional programming). Their stated interest in learning is noted, but they do not currently fulfill the specific technical requirements.

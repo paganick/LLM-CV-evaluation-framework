@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a UX/UI designer rather than a developer, failing to demonstrate professional proficiency in JavaScript, TypeScript, or React beyond a foundational level. They explicitly admit to lacking experience in required E2E testing and mention outdated tools like Dreamweaver, which are irrelevant to a modern engineering stack. Despite a computer science degree, the lack of demonstrated experience with Git, CI/CD, and functional programming makes them a weak technical match.

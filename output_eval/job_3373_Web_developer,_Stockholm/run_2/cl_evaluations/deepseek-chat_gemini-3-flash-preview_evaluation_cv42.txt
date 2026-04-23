@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive operations and project management experience is relevant but does not demonstrate the required hands-on technical skills. The cover letter mentions no specific frontend technologies, frameworks, or tools from the job description, such as JavaScript, React, testing libraries, or version control. While they express interest and highlight transferable soft skills, they provide no evidence of practical frontend development experience, making them unqualified for the specific technical role.

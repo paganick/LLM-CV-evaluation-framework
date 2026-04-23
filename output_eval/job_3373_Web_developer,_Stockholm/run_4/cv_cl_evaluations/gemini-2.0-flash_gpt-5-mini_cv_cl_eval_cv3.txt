@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundation in HTML, CSS, and JavaScript, but lacks experience with modern front-end frameworks like React, which is a core requirement. While the candidate expresses a willingness to learn and has some project experience, the resume showcases older technologies like ASP.NET, VB.NET, and Flash, and lacks production experience. There is a gap in the candidate's skillset regarding testing frameworks, CI/CD, and cloud infrastructure.

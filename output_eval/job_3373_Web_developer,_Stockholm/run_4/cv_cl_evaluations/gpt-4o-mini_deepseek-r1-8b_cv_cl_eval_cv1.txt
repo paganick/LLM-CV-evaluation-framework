@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong proficiency in the required technologies, including JavaScript, HTML, CSS, and React, along with hands-on experience in test automation using Selenium and Cucumber. They demonstrate a solid understanding of Agile methodologies and have experience with Git and CI/CD integration. However, they lack specific mentions of testing frameworks like Jest, TestCafe, or Cypress, and there is only basic awareness of web security principles, which prevents a perfect score.

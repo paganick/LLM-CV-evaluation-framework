@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is not the focus of the JavaScript/Frontend Developer role. While they mention HTML, CSS, and SASS, the cover letter lacks specific details regarding JavaScript experience and modern FE frameworks (like React, as mentioned in the job description). The candidate also doesn't highlight specific testing, Git, or security experience related to web development in enough depth.

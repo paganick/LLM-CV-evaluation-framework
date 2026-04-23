@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the core technical requirements (JavaScript, React, testing, Git, Agile, security) and highlights relevant experience with modern tools. They exceed expectations in areas like leadership, legacy system migration, and domain experience in regulated industries. The score is not a 9 because the cover letter does not explicitly mention TypeScript, Svelte, or specific tools like Ramda, which are noted in the job description.

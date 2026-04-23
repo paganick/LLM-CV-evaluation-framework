@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in software testing and Agile development but lacks specific front-end development skills, particularly in JavaScript frameworks like React, VueJS, or Angular. They also do not demonstrate hands-on experience with testing frameworks mentioned in the job description or a familiarity with the NodeJS ecosystem. Moreover, the knowledge of modern CSS tools and CI/CD tools is insufficiently addressed in their resume.

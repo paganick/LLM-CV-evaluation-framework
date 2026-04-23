@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core requirements of React and TypeScript, explicitly stating these are areas they are "eager to apply" rather than established skills. Their background is heavily rooted in legacy technology (AngularJS) and Java, failing to demonstrate the necessary proficiency in modern CSS tools, functional programming, or web security (OWASP/CORS). While the candidate shows strong testing rigor and Agile experience, they do not currently possess the specific technical stack required for this role.

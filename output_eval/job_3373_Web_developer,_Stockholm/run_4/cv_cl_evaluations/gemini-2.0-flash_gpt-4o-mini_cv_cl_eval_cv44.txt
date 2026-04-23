@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in design, UX/UI, and presentations, with limited hands-on development experience. While the cover letter mentions some familiarity with HTML, CSS, and Agile, the resume lacks concrete evidence of JavaScript, TypeScript, modern FE frameworks (React), testing, Git, or web security knowledge, all of which are essential for the role. There's a mismatch between the job requirements and the candidate's skillset.

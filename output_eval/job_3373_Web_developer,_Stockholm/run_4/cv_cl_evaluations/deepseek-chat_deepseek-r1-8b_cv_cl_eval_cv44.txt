@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design, presentation design, and UX/UI, with no demonstrated professional experience in the core required technologies like JavaScript, TypeScript, React, or modern testing frameworks. Their listed technical skills (HTML, CSS, jQuery, Dreamweaver) are outdated and do not align with the job's focus on modern front-end development, test automation, and functional programming. The application shows a fundamental mismatch with the software engineering role described.

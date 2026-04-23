@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web development and expresses a solid understanding of core technologies like JavaScript and HTML. However, they lack specific hands-on experience with React, TypeScript, and the mentioned testing frameworks, which are critical for the role. Additional familiarity with security concerns on the web and other technologies listed in the job description is also missing. Overall, the candidate appears to have potential but does not fully meet the requirements.

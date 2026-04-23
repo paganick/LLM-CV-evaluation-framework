@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational HTML/CSS, UX/UI, and a Computer Science background, which is relevant to front-end work. However, they lack hands-on experience with critical requirements including JavaScript/TypeScript, React, testing frameworks, Git/repo workflows, Node/npm tooling, modern CSS toolchains, and web security practices. Their stated willingness to learn is positive but does not compensate for the current gaps given the role's expectations.

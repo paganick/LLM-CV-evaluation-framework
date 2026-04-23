@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant analytical and testing experience from a hardware background, which provides a transferable foundation. However, they lack direct, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern CSS tools, and specific testing frameworks. Their self-described familiarity with JavaScript is insufficient for a front-end developer role requiring proficiency in a modern tech stack.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a professional Front End Developer role, lacking experience in JavaScript, TypeScript, and modern frameworks like React. Their professional background is centered on administrative management, dance instruction, and video production rather than software engineering. There is no evidence of experience with testing, Git, CI/CD, or any of the core technical requirements specified.

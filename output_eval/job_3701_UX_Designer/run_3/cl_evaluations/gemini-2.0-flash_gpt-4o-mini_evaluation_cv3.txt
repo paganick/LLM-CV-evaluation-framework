@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant design experience but lacks explicit UX Designer experience as requested. The cover letter mentions proficiency in Adobe Creative Suite rather than Figma, which is highly desirable according to the job description. While Agile experience and some HTML/CSS knowledge are mentioned, they don't fully align with the requirement for UI Design System management, nor JS exposure, which the job description states would be useful.

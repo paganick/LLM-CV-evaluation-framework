@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: Despite having 19 years of general sales and management experience, the candidate fails to meet the mandatory requirement of sales experience in Application Services, Business Analytics, or Design Consulting. The candidate’s background in retail, real estate, and fitness is irrelevant to the technical demands of selling API, Cloud, and AI/ML solutions. There is no evidence of the required technical stack knowledge or the ability to facilitate architectural and design reviews as specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET and jQuery developer whose professional experience is outdated and lacks the required expertise in modern frontend frameworks like React and TypeScript. While the cover letter claims familiarity with the requested stack, the resume provides no evidence of professional experience with automated testing frameworks, modern CSS tools, or CI/CD pipelines. As a result, the candidate fails to meet the core technical requirements for this specific frontend role.

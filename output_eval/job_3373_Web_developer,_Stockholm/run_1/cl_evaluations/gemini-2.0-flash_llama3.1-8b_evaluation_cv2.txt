@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Java/J2EE, which is not the focus of the job description. The job description emphasizes JavaScript, React, and related front-end technologies, which are not highlighted in the candidate's cover letter. While they mention Agile and communication skills, the lack of direct experience with the required technologies makes them a weak fit.

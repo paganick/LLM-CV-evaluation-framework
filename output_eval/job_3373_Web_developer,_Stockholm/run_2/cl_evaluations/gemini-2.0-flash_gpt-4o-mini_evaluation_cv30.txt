@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of front-end technologies and expresses enthusiasm for learning. However, they lack explicit experience with React, a key requirement, and show a broader, less focused skillset that includes data analysis. Their experience with ASP.NET and SQL is less relevant to the specific technologies outlined in the job description, indicating a need for further specialization.

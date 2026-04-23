@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with core frontend technologies like JavaScript, HTML, and CSS, as well as some familiarity with modern frameworks. However, the candidate lacks specific experience with React, which is a primary requirement for the position. While the applicant demonstrates a solid understanding of collaboration in Agile environments, additional exposure to testing frameworks and modern CSS tools such as Styled Components or SASS would enhance their candidacy.

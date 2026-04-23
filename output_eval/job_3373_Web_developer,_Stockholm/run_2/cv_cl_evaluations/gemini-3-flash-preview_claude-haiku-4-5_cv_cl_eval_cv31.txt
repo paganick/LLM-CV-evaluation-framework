@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a sales professional with no professional software development experience or proven technical expertise in the required stack (React, TypeScript, Node.js). While the cover letter expresses a desire to transition careers, the resume lacks the essential engineering background, testing proficiency, and hands-on coding experience required for this role. Consequently, the applicant is unqualified for a senior-level or mid-level frontend position.

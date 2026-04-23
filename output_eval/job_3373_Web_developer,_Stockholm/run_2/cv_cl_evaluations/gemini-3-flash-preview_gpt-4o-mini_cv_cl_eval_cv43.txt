@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience or foundational skills in JavaScript, TypeScript, React, or front-end development, which are core requirements for this role. Their background is entirely in program management and educational design, with their only technical skill being intermediate R studio, which is irrelevant to the specified tech stack. The application represents a total mismatch between the candidate’s qualifications and the technical engineering demands of the position.

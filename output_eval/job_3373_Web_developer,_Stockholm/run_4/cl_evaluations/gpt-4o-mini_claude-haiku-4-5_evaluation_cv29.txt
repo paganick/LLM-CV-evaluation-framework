@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and foundational knowledge in web technologies, but lacks hands-on experience with key requirements such as modern frontend libraries like React and testing frameworks mentioned in the job description. Their background in business development does not demonstrate sufficient technical proficiency directly related to frontend development. While the candidate shows eagerness to learn and adapt, they do not fully meet the specific requirements needed for this role.

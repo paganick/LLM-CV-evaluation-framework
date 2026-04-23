@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from the advertising industry and lacks any professional experience in modern front-end development or the required JavaScript ecosystem. Their resume reveals a background in media planning and database management rather than the mandatory technologies like React, TypeScript, and automated testing frameworks. Consequently, the candidate does not meet the technical or industry-specific requirements for this position.

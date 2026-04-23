@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical requirements for the role, including JavaScript, TypeScript, React, and modern CSS tools. Their professional experience is exclusively focused on systems administration, network infrastructure, and technical support rather than software development. While the candidate expresses a desire to transition into frontend development, they do not demonstrate the necessary technical proficiency or professional experience required by the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in presentation/multimedia design and UX/UI, not professional software development. While they list foundational HTML/CSS and a Computer Science degree, they lack any demonstrable, hands-on experience with the core technologies required: JavaScript, TypeScript, React, testing frameworks, Git, or modern development tools. Their experience is in a different domain and does not meet the specific technical qualifications for a front-end developer role.

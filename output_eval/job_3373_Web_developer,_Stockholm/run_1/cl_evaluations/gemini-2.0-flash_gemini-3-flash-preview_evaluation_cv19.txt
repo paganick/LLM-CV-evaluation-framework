@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a Graphic Design background with limited frontend experience. While they mention HTML, CSS, and interest in React, they lack demonstrable experience with modern FE frameworks, testing, Git, and security concepts outlined in the job description. The candidate highlights transferable skills but misses key technical requirements.

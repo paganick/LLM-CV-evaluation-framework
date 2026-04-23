@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has a strong graphic design background and basic HTML/CSS coursework, but lacks the core technical skills required for this frontend developer role—no JavaScript or TypeScript, no React experience, no testing/tooling, and no Git/Node ecosystem experience are documented. These are essential for immediate contribution to the team; while the candidate shows interest and potential to learn, they are not currently qualified for the position.

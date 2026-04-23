@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate has extensive visual and product design experience with some basic HTML/Dreamweaver exposure, but lacks virtually all required front-end engineering skills (no JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git/CI/CD, Node/npm, or cloud/infra experience). The cover letter shows motivation to learn but provides no evidence of hands-on development, automated testing, or repository workflow experience. Given the significant technical gaps, the candidate is not qualified for this role.

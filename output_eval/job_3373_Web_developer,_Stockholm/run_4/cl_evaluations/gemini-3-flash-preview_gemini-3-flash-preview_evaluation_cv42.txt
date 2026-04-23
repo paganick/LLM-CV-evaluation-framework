@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with extensive experience in operations and finance but lacks documented hands-on experience in frontend development. While they mention React and functional programming, they fail to demonstrate proficiency in core requirements such as JavaScript, TypeScript, CSS, or specific testing frameworks like Jest or Cypress. The professional history highlights project management and budget oversight rather than the technical coding skills and version control expertise required for this role.

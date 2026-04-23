@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates extensive visual and print design experience with some basic HTML/Dreamweaver usage but shows no evidence of core front-end engineering skills required (JavaScript/TypeScript, React, modern CSS tooling, testing, Git, NodeJS, CI/CD, AWS). The candidate is in the wrong industry/role for this position and lacks the technical stack and testing/DevOps experience specified. While strong as a graphic/product designer, they do not meet the job's essential software development requirements.

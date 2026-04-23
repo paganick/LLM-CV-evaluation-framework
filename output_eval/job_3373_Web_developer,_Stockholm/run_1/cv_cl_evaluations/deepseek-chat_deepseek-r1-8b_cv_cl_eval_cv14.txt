@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost exclusively in the .NET/C#/SharePoint stack, with no demonstrated professional experience in the required technologies (React, TypeScript, modern FE frameworks, Node.js). While they mention JavaScript, HTML, and CSS, it appears in a legacy context, and there is no evidence of modern testing, security, or CI/CD practices as specified. The cover letter acknowledges a gap and willingness to learn, but the resume shows no relevant skills to meet the core technical requirements of the role.

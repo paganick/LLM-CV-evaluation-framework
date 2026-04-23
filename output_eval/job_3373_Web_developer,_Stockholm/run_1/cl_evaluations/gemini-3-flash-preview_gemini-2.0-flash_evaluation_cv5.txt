@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the required technical stack, specifically modern JavaScript frameworks like React, TypeScript, and CSS-in-JS tools. While they possess strong general software engineering principles from a Mainframe background, they only demonstrate "foundational" knowledge of web technologies and have no documented experience with frontend testing or CI/CD pipelines. This profile represents a career pivot that does not meet the immediate "hands-on" requirements specified in the job description.

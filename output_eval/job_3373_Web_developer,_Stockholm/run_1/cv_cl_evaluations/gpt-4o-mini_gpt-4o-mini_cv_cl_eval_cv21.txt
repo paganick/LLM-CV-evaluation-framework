@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a background in software development and emphasizes their experience with JavaScript, HTML, and CSS, they primarily focus on older technologies such as ASP.Net and AngularJS, which may not be directly aligned with the current requirement for React and modern frontend frameworks. Additionally, their testing experience and knowledge of modern tools are less prominent, indicating a need for more specific skills related to the job description.

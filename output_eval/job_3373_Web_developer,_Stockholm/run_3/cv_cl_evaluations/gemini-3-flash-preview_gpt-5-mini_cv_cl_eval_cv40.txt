@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level product management executive with no documented professional experience as a hands-on software engineer. While they have extensive experience leading technical teams in a relevant industry, they lack the mandatory technical proficiency in JavaScript, TypeScript, React, and automated testing required for this role. Their background is entirely focused on product strategy and business development rather than code implementation.

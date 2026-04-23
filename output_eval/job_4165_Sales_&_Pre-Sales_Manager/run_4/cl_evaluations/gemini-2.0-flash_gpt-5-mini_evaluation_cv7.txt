@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has sales experience, but the cover letter doesn't explicitly demonstrate experience with the specific digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, Design Thinking, UX Research). While they mention technology stacks and articulating value propositions, there's no strong evidence of experience in those areas. The letter highlights consultative sales, presales, and commercial execution but needs more specific examples aligned with the job description's requirements.

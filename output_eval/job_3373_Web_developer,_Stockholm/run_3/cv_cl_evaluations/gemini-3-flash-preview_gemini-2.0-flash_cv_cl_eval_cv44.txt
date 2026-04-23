@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a design professional rather than a software engineer, lacking any professional experience with the required modern tech stack including React, TypeScript, and automated testing. Their technical skills are centered on presentation software and legacy web tools like Dreamweaver and jQuery, which do not align with the needs of a modern development team. Despite a degree in Computer Science, the professional trajectory demonstrates a complete absence of the necessary hands-on front-end development experience.

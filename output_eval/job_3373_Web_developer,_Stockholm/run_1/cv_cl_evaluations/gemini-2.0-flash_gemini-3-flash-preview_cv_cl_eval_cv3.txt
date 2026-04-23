@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundation in HTML, CSS, and JavaScript, but lacks direct experience with modern FE frameworks like React, which is a primary requirement. Their experience with older technologies such as ASP.NET and ActionScript is not directly transferable. The resume and cover letter do not demonstrate sufficient familiarity with testing frameworks, CI/CD tools, or cloud technologies mentioned in the job description.

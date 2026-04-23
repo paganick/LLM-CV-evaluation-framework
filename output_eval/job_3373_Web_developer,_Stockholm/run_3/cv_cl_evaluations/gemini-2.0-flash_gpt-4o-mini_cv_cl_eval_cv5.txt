@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript and HTML, but the resume is heavily focused on Mainframe technologies, which is not the focus of the job description. While the cover letter mentions React, the resume lacks substantial experience in modern front-end frameworks and related tools. The candidate's background doesn't align well with the modern front-end development requirements outlined in the job description.

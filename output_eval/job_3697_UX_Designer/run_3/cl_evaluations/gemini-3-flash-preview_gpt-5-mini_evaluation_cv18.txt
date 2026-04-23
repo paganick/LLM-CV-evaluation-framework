@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses over twenty years of experience and matches nearly all technical requirements, specifically mirroring the job description's language regarding storyboards, sitemaps, and GUI elements. However, they failed to include a portfolio with the application as explicitly required, offering it only "upon request." Additionally, while experienced, the toolkit highlights legacy design software and web development rather than the modern, specific UI/UX prototyping tools mentioned in the job description.

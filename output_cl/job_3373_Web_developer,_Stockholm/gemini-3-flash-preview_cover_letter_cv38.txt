@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Engineer position. As the Co-CEO of "The Jill-of-all-Trades" and a Magna Cum Laude graduate with a background in complex production environments, I offer a unique blend of technical versatility and project leadership. My career has been defined by bringing concepts to reality, a skill I am eager to apply to your React-focused development team.
+
+My technical foundation includes hands-on experience developing and managing professional websites for D.R.E.A.M and SpiceRack Productions. I am highly proficient in JavaScript, TypeScript, HTML, and CSS, with a deep commitment to the modern React ecosystem. I understand the importance of using styling tools like SASS and Styled Components to create cohesive visual aesthetics. My background in high-stakes media production has instilled a genuine passion for writing clean, maintainable code, mirroring the precise, non-destructive editing required in Final Cut Pro and Adobe Creative Suite.
+
+I am well-versed in Git version control and GitHub for collaborative development. Having worked in intense, deadline-driven production environments, I thrive in Agile settings that require constant interaction with cross-functional teams and external partners. I am particularly interested in your use of Ramda for functional programming and am eager to apply my analytical skills to your unit, integration, and E2E testing workflows using frameworks like Jest and Cypress. My experience training incoming interns and employees has honed my ability to communicate complex concepts clearly within a team.
+
+Beyond just the front-end, I am keen to expand my expertise into the full domain, including NodeJS, API design, and cloud infrastructure like AWS and Terraform. I am comfortable navigating the transition from legacy systems, such as Ruby, toward more modern, scalable architectures. My experience managing budgets, resources, and personnel as a producer has prepared me to approach software development with a holistic view of the product lifecycle and security best practices, including OWASP and CORS protocols.
+
+I am a strong collaborator who values the importance of teamwork and technical excellence. I am excited about the possibility of bringing my "Jill-of-all-Trades" mentality to your innovative team and am willing to relocate to ensure a seamless integration into your office environment. Thank you for your time and consideration.
+
+Sincerely, Alexis

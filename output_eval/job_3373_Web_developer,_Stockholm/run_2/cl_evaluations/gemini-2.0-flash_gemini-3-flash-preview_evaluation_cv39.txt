@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive design experience and some relevant skills like HTML, CSS, and Adobe Creative Suite, the cover letter highlights a transition to modern frontend development. The letter mentions React, JavaScript, and TypeScript, but lacks concrete examples of projects or depth of experience. The absence of hands-on experience with testing frameworks, linters, CI/CD tools, and NodeJS ecosystem is a significant gap, despite mentioning interest in API design and security principles.

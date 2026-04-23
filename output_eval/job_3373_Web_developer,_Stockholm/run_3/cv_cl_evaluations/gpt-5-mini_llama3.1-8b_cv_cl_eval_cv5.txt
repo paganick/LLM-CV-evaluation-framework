@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced mainframe developer/DBA with leadership experience but shows only minimal exposure to HTML/JavaScript and no demonstrated hands-on experience with modern front-end frameworks (React/TypeScript), frontend tooling (Styled Components/SASS), testing frameworks (Jest/Cypress), NodeJS/npm, CI/CD, or cloud/Terraform. While they have strong software fundamentals and team skills, they lack the specific, required front-end, tooling, and testing experience for this role and would require substantial retraining to be productive.

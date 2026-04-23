@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates strong React, JavaScript, HTML/CSS, Styled Components, testing mindset (TDD/BDD) and solid backend/security experience that maps well to the role. However they do not explicitly state TypeScript experience, lack concrete evidence of using the team's testing tools (Jest/Cypress) and CI (CircleCI), and only express interest in Ramda rather than proven functional FP contributions. Overall a good match but missing a few key, explicit tool/technology experiences required for a top score.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a career in IT support, field service, and systems administration with no evidence of JavaScript/TypeScript, React, modern front-end frameworks, front-end testing, NodeJS, or related web development tooling required by the role. While technically experienced in hardware, networking, and Windows server environments, the candidate lacks the core front-end development skills and relevant toolchain experience, making them completely unqualified for this position.

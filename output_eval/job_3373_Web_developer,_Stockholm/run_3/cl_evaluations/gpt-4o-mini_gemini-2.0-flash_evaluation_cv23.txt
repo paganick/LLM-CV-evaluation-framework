@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in electronics engineering technology and experience with testing, but lacks direct front-end development skills, particularly with JavaScript frameworks like React, which is crucial for the role. While they show familiarity with some relevant technologies, they do not meet many key requirements such as knowledge of TypeScript, modern CSS tools, testing frameworks, or CI/CD tools.

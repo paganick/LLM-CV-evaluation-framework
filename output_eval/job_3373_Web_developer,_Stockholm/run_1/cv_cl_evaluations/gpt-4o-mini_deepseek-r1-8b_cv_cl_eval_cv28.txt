@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a background in materials analysis and quality assurance, which is not directly related to the software development role. Although they demonstrate analytical skills and a willingness to learn, there is a significant lack of direct experience with essential technologies such as JavaScript, TypeScript, and modern frontend frameworks like React. Their familiarity with testing and version control is noted, but overall, they do not meet the majority of the technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant IT experience but lacks direct, demonstrable front-end development experience, which is the core of the role. While they list many required technologies, they are presented as familiarity or interest rather than hands-on professional application. Their background is heavily weighted in IT consulting and support, not in building and maintaining modern web applications with the specified tech stack.

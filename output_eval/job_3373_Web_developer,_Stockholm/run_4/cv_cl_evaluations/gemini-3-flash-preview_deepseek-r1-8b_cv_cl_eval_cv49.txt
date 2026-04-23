@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this frontend engineering role, as their professional background and education are exclusively in data analysis and industrial engineering. They lack the required technical proficiency in JavaScript, TypeScript, React, and web security protocols mentioned in the job description. While they possess strong analytical skills, they do not meet any of the core software development or testing requirements.

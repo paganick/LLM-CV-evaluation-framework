@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows relevant industry experience in web development but is heavily focused on legacy .NET/C# technologies, with no demonstrable hands-on experience in the core requirements of React, TypeScript, or modern front-end testing frameworks. The cover letter claims proficiency in these areas but is not substantiated by the resume, indicating a significant mismatch with the job's specific technical stack and a lack of verifiable experience.

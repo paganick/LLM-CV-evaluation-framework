@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong visual design and UX experience but presents no demonstrable experience with required front-end technologies (JavaScript/TypeScript, React), testing, Git, Node ecosystem, or modern CSS tools. While adaptable and eager to learn, the application lacks concrete evidence of the core skills listed in the job description. As a result, they are not yet qualified for this position without further training or hands-on experience.

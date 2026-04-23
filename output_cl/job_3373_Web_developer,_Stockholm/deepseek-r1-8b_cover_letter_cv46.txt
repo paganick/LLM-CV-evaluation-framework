@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position described in the job posting. Based on my skills and experience, I am confident that I am well-suited to contribute effectively to your team.
+
+My background in software development, particularly with JavaScript, TypeScript, HTML, and CSS, aligns well with your requirements. I have hands-on experience with modern frontend frameworks, including React, and I am familiar with testing methodologies and automation tools like Jest and Cypress. My proficiency extends to Git and collaboration within Agile environments, where I thrive.
+
+I also have a solid understanding of web security fundamentals, including OWASP, CSP, CORS, and OAuth. My experience with CI/CD pipelines and tools like CircleCI ensures that I can support efficient development processes.
+
+In my previous roles, I have demonstrated strong problem-solving abilities and a passion for writing clean, maintainable code. My work in designing and implementing systems, preparing test plans, and documenting solutions has provided me with a well-rounded skill set that I believe will be valuable to your team.
+
+I am eager to bring my technical expertise and collaborative spirit to your organization. Thank you for considering my application. I look forward to the possibility of discussing how my skills and experience can benefit your team.
+
+Sincerely,  
+Alexis

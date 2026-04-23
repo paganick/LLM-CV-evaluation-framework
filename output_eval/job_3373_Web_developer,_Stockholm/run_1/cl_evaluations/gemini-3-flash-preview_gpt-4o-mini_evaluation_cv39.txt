@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the essential technical requirements for this role, specifically failing to demonstrate proficiency in React, TypeScript, or functional programming. They admit to having "limited" experience with testing frameworks and only "foundational" knowledge of Node.js and AWS, which does not meet the mandatory "hands-on" criteria. While they have extensive experience in design and basic HTML/CSS, their skill set is too design-heavy and lacks the engineering depth required for a modern front-end developer position.

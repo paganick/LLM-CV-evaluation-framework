@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant full-stack experience and touches on several required areas like JavaScript, SASS, Git, and Agile. However, the cover letter lacks specific, direct experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and the specific tools mentioned (e.g., Jest, Node.js ecosystem, AWS). The experience described is adjacent but not a precise match for the modern front-end and tooling focus of the role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, and Agile collaboration. They explicitly mention relevant tools like Ramda, CircleCI, and AWS, showing good domain understanding. The score is not higher because the cover letter lacks specific, verifiable mention of key tools from the job description such as Jest/Cypress, ESLint/Prettier, and specific security knowledge (OWASP, CORS), which are required for a perfect match.

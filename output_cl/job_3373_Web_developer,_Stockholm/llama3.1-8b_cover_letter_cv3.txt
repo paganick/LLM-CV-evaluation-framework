@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for a position in your web development team, bringing with me a unique blend of construction industry expertise and technical skills acquired through my recent degree in IT - Web Multimedia and Animation. As a highly motivated individual with 15 years of experience in the construction field, I am eager to leverage my passion for building things into a career in software development.
+
+Throughout my academic journey, I gained hands-on experience with HTML, CSS, JavaScript, PHP, MySQL, Java, ASP.NET, C#, and ActionScript. My final project involved developing a fully functional database-driven e-commerce website using these technologies. Additionally, I created websites that utilized JavaScript, Flash, ASP.NET, and Java Applets for interactivity and animations.
+
+As a construction worker with experience working in team environments, I possess excellent problem-solving skills, a strong attention to detail, and the ability to see how smaller parts fit into the bigger picture. My proficiency in multiple programming languages, including Visual Basic, C#, and Java, will enable me to quickly adapt to your team's technical requirements.
+
+In the construction industry, I have developed a systematic approach to task completion, reducing job site errors and waste. This analytical mindset will serve me well in testing, debugging, and troubleshooting code. My experience with Agile environments and strong collaboration skills make me an excellent fit for your team's dynamic work environment.
+
+I am particularly drawn to this role at your company because of the emphasis on staying up-to-date with the latest technologies and the use of modern front-end frameworks like React, which aligns with my interests in functional programming. I am confident that my strong work ethic, dependability, and ability to learn quickly will make me an asset to your team.
+
+Thank you for considering my application. I look forward to discussing how my unique blend of skills and experience can contribute to the success of your web development team.
+
+Sincerely,
+Alexis

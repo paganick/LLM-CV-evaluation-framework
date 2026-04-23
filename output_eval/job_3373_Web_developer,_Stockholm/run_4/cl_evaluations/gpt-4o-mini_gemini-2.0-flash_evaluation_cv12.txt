@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development with a solid foundation in JavaScript, TypeScript, HTML, and CSS, along with exposure to React. However, they lack specific experience with modern CSS tools like Styled Components or SASS, and testing frameworks like Jest or Cypress, which are mentioned in the job description. Additionally, there's no indication of basic knowledge about web security practices that are important for the role.

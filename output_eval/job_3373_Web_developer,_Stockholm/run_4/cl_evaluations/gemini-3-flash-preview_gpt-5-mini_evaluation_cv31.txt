@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all of the core technical requirements, including professional experience with JavaScript, TypeScript, and modern frameworks like React. While they demonstrate strong leadership and professional experience in sales, they are transitioning careers and do not currently possess the necessary skills in testing, Git, or web security. Their background in desktop publishing and basic HTML is insufficient for a professional engineering role that requires a high level of technical proficiency and clean code standards.

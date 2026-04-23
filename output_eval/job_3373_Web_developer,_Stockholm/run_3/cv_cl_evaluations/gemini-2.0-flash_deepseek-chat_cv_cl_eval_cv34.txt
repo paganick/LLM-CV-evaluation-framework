@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks sufficient experience with the specific technologies required, such as React, TypeScript, and modern testing frameworks. While they have some experience with HTML, CSS, and SQL, their background is primarily in implementation consulting and digital marketing, not front-end development. The cover letter shows initiative in upskilling, but the resume doesn't demonstrate the necessary hands-on experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy Java/J2EE specialist whose experience is focused on backend technologies like Struts, EJB, and Spring 3. They lack the required expertise in modern frontend development, specifically React, TypeScript, and CSS-in-JS tools. Furthermore, the resume shows no evidence of experience with modern testing frameworks (Jest/Cypress) or CI/CD pipelines requested in the job description.

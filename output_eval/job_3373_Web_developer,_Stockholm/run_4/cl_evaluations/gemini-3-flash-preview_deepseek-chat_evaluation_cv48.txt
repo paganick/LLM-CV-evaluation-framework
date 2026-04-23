@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a systems infrastructure specialist with no professional tenure in a dedicated front-end development role, which is the primary requirement for this position. They fail to explicitly mention proficiency with Git, and their self-taught knowledge of the tech stack has not been validated in a commercial production environment. Consequently, despite their long history in the IT industry, they lack the specific professional software engineering experience required.

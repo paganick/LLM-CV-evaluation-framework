@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong understanding of front-end development principles and technologies mentioned in the job description, particularly React, JavaScript, TypeScript, Git, and testing methodologies. Their experience in IT management and project leadership offers a valuable perspective on system design and SDLC. While they may need to showcase deeper hands-on experience with specific tools like Jest or Cypress, their background aligns well with the requirements.

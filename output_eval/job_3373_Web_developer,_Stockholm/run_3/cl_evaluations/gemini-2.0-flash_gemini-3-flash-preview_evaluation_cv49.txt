@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a somewhat relevant background, highlighting analytical skills and some coding experience in Python and SQL. However, the cover letter lacks concrete examples of frontend development experience with React, TypeScript, HTML, and CSS as required in the job description. While the candidate expresses interest and understanding of certain technologies, the evidence of practical application in a frontend context is weak.

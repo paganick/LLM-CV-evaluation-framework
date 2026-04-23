@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Planning position, as advertised. While my professional background is rooted in software engineering, a closer examination of my experience reveals a core proficiency in the systematic planning, scheduling, and project coordination skills you require. My work has fundamentally been about creating logical structures, managing complex dependencies, and ensuring clear communication to deliver projects on time—a direct parallel to the demands of construction planning.
+
+In my role as a Database Programmer/Analyst at the University of Missouri, I was responsible for the complete lifecycle of application development, from initial design through to implementation and support. This required meticulous planning akin to developing project schedules. For instance, on the **AppInventory** project, I built a system for tracking application parameters, versions, and project timelines. This involved creating tools for Scrum Masters to estimate project length and cost based on team size and sprint duration, and to monitor progress through metrics like sprint burndown charts—demonstrating my ability to develop, implement, and control plans from commercial and design information.
+
+My technical proficiency with **Microsoft Project** equivalents is demonstrated through my daily use of agile project management methodologies. Participating in daily scrums and weekly sponsor meetings required rigorous time management to meet reporting deadlines and stakeholder expectations. I have consistently liaised between cross-functional teams, including QA and management, to discuss progress, solve problems, and present updates, ensuring all parties were aligned—a direct reflection of the client and contractor liaison duties in your description.
+
+Furthermore, my experience is built on a foundation of precise report writing and data manipulation using **Microsoft Office** tools and advanced database software. Developing console applications to import data and creating detailed systems for tracking project parameters has honed my analytical and reporting skills. My academic achievements, including a Master's degree with a 3.7 GPA, underscore my capacity for structured learning and complex problem-solving.
+
+I am confident that my unique blend of analytical rigor, systematic planning experience, and proven ability to manage stakeholder communication makes me a strong candidate for this role. I am eager to apply my disciplined approach to the dynamic field of construction planning.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend and test-automation experience (JavaScript, React, HTML/CSS, SASS, Git, AWS, Selenium/Cucumber) and Agile experience, but does not demonstrate key required skills such as TypeScript, modern frontend testing tools (Jest/Cypress/TestCafe), Styled Components, Ramda or familiarity with the team's CI/CD and infra stack (CircleCI, Terraform). Their cover letter expresses willingness to learn but most critical items are missing from the resume, so they are a relevant but underqualified fit for this role.

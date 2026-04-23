@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in a relevant industry but lacks proficiency in key areas specified in the job description, particularly with modern front-end frameworks like React, JavaScript, TypeScript, and testing frameworks. While they are familiar with Git and Agile environments, their primary focus has been on Java/J2EE technologies, which may not translate well to this role.

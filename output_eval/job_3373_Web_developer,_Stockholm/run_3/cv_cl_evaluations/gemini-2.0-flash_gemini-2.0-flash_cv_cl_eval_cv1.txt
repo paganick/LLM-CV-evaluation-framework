@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and ReactJS, aligning well with the required front-end technologies. They also have experience with testing, Git, and Agile methodologies, which are essential for the role. However, the resume focuses more on Java and backend experience and less on modern FE tools like Styled Components, Linters, and CI/CD.

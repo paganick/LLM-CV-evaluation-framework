@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in web development and has worked with JavaScript and CSS, but lacks specific experience with modern front-end frameworks like React, VueJS, or Angular which are critical for the role. Additionally, there is insufficient evidence of experience with testing frameworks, CI/CD tools, or the specific security knowledge outlined in the job description. Overall, while there are some relevant skills, the candidate does not meet the core requirements.

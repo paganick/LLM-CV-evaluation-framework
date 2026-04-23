@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant industry experience and project management expertise, they lack the specific technical mastery of React and TypeScript required for this role. The cover letter emphasizes management and user testing rather than hands-on experience with modern testing frameworks (Jest, Cypress) or the specialized tooling listed in the job description. The profile aligns more with a Project Manager than the high-level Front-End Engineer requested.

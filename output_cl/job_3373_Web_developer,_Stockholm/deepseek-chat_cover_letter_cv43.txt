@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my professional background is rooted in program design and learning science, a deep and ongoing passion for clean, effective code and user-centric systems has driven me to formally pivot my career into software development. My unique blend of cognitive science expertise, project management rigor, and self-driven technical upskilling aligns powerfully with your team’s need for a collaborative, Agile-minded developer who is keen to understand the full domain.
+
+My academic foundation in Brain & Cognitive Sciences informs my approach to building intuitive, human-centered applications. I understand that clean code is not just an aesthetic preference but a cognitive imperative for maintainable and scalable systems. Professionally, I have consistently designed, built, and optimized complex systems—from streamlining a 2-month onboarding process into 2 weeks, to developing and integrating a learning support platform that increased user engagement by 50%. This systems-thinking mindset, coupled with hands-on project leadership across global contexts, translates directly to managing development lifecycles and collaborating effectively within cross-functional teams.
+
+To bridge my experience to your technical stack, I have undertaken rigorous self-study and project work. I have built proficiency in the core technologies you seek: JavaScript, TypeScript, HTML, CSS, and React. I actively practice writing unit and integration tests with Jest and am familiar with the principles of E2E testing. I use Git/GitHub daily for version control and am knowledgeable about core Web security concerns including OWASP top ten and CORS. Furthermore, I have practical experience with modern CSS tools like Styled Components, utilize ESLint and Prettier to enforce code quality, and have worked within the Node.js ecosystem using npm and Express.
+
+What excites me most about this opportunity is the chance to contribute my proven skills in stakeholder management, clear communication, and meticulous project execution to a team dedicated to technical excellence. My passion for learning is not theoretical; it is demonstrated by my successful career transition and my fluency in four languages. I am particularly drawn to your use of functional programming with Ramda and your modern tech stack, and I am eager to contribute to a team that values truly clean code and a holistic understanding of the platform.
+
+I am confident that my unique perspective and demonstrated ability to master complex domains would make me a valuable asset to your engineering team. Thank you for your time and consideration.
+
+Sincerely, Alexis

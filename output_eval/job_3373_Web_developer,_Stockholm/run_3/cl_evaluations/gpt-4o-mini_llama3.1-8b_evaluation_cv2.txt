@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in Java/J2EE technologies and Agile development but lacks relevant experience with frontend frameworks like React, TypeScript, and modern CSS tools specified in the job description. While they possess valuable skills in software development, their qualifications do not fully meet the specific requirements listed for the Technical Designer role.

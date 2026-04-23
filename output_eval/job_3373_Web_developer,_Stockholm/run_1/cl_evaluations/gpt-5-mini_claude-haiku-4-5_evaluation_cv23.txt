@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant testing experience and basic JavaScript proficiency, plus strong communication and Agile experience, which align partially with the role. However they lack demonstrable hands-on experience with core frontend requirements listed (React, HTML/CSS, TypeScript, modern CSS tools, Node/npm, Git/GitHub) and other stack items (CI/CD, AWS, Ramda), so they do not meet the specific technical expectations for this position.

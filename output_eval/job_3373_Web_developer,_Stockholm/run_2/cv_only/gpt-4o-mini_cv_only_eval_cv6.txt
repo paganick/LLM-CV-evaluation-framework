@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid experience as a Drupal developer and is proficient in HTML, CSS, and JavaScript. However, they lack direct experience with modern front-end frameworks like React, VueJS, or Angular, and their testing experience is primarily with Selenium and Behat, not the specified frameworks. Additionally, while the candidate shows strong collaborative skills, they do not demonstrate familiarity with essential tools and technologies mentioned in the job description such as Git, CI/CD tools, or web security knowledge.

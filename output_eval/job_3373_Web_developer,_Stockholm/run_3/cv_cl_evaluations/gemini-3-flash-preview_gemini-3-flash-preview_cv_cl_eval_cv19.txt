@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer whose technical profile is limited to basic HTML and CSS, failing to meet any of the core requirements for JavaScript, TypeScript, or React experience. There is no evidence of proficiency in modern frontend tooling, testing frameworks, or cloud infrastructure as specified in the job description. This profile represents a career pivot rather than the experienced developer required for this technical role.

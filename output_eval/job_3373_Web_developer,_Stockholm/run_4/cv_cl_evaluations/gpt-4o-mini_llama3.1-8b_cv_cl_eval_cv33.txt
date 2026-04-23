@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in sales and team training but lacks direct experience in software development and the specific technical skills outlined in the job description, such as JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks. While they express a willingness to learn new technologies, there is insufficient evidence of relevant technical expertise or experience in web security practices, testing frameworks, and CI/CD tools required for the position.

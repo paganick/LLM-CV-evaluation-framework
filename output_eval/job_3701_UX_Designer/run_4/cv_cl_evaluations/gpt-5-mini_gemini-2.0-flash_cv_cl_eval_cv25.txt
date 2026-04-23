@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive systems analysis, SDLC and validation experience and basic HTML exposure which are transferable to product teams. However, there is no evidence of commercial UX design experience, no Agile/sprint experience, no Figma/prototyping or modern front-end (CSS/JS) skills, and no documented user research, workshops or design system work. Given these gaps the candidate is relevant to the industry but lacks the specific UX skills and practical experience required for this role.

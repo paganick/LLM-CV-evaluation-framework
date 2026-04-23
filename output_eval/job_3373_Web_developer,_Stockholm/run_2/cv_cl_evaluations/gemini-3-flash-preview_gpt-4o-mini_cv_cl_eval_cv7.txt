@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a Graphic Designer with no professional experience in modern software engineering or the required technical stack of React, TypeScript, and Node.js. Although the cover letter claims familiarity with these tools, the resume focuses almost exclusively on print media, photography, and legacy web tools like Dreamweaver. The lack of documented experience in frontend development, testing frameworks, and CI/CD makes the candidate unqualified for this engineering role.

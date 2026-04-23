@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, lacking demonstrable experience in the core technologies (JavaScript, TypeScript, React) listed in the job description. While the cover letter expresses interest and intent to learn, there's insufficient evidence of current proficiency or relevant projects. The resume focuses on sales accomplishments, rendering the candidate unqualified for a Frontend Developer role.

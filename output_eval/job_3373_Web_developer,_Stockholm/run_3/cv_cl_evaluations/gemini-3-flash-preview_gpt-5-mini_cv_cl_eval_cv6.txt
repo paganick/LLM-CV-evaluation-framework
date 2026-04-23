@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary technologies required for this role, specifically React, TypeScript, and modern CSS-in-JS tools. Their expertise is heavily centered on Drupal CMS and legacy JavaScript libraries like jQuery, which does not meet the "Modern FE" requirements listed in the job description. Additionally, the profile shows no hands-on experience with the requested testing frameworks (Jest/Cypress), Node.js ecosystem, or CI/CD and cloud infrastructure tools.

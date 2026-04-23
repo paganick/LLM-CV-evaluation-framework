@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and demonstrates knowledge of front-end technologies, including JavaScript, HTML, and CSS. However, they lack specific experience with modern front-end frameworks such as React, which is essential for the position. Additionally, the cover letter does not mention any experience with testing frameworks or modern CSS tools, which are also required by the job description.

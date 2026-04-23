@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in manual and automated testing, as well as knowledge of some required programming languages and frameworks. However, they lack specific experience with modern front-end frameworks like React and do not mention familiarity with the NodeJS ecosystem or other technologies listed in the job description. Their eagerness to learn suggests potential, but the gaps in direct experience with the key technologies prevent a higher score.

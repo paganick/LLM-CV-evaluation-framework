@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant web implementation, QA, and documentation experience (HTML/CSS, SQL, SFMC) and strong client-facing skills, but shows no demonstrated JavaScript/TypeScript or React experience. There is no evidence of familiarity with modern frontend toolchains (Node/npm/Yarn, Git/GitHub), automated testing frameworks (Jest/Cypress/TestCafe), CI/CD, or cloud/infra knowledge required by the role. Substantial upskilling would be needed before meeting this position's core technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management and education, not professional software development, which is a significant mismatch. While they express interest in the required technologies, they lack hands-on experience with JavaScript, TypeScript, React, and the specified testing frameworks. They acknowledge being new to key technical areas, making them a project-based learner rather than a contributor ready for the role.

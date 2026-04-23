@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a software tester and lacks the mandatory professional experience with React, TypeScript, and modern CSS tools required for this development-heavy position. Significant gaps exist regarding Git, CI/CD, and web security protocols, which are listed as essential criteria. While they demonstrate strong QA fundamentals and Agile experience, they do not possess the core technical stack necessary for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is in the relevant industry with seven years of experience, but explicitly lacks the core requirements of React and TypeScript. While they possess strong fundamentals in JavaScript and CSS, the absence of specific experience with modern testing frameworks and functional programming makes them a poor fit for a specialized frontend role. A strict evaluation necessitates a lower score due to the direct omission of the primary technologies listed in the job description.

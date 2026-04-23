@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in technical project management, not dedicated frontend development, which is the core requirement. While they mention some relevant technologies (JavaScript, Angular, Git), they lack proven, hands-on experience with React, modern testing frameworks, and the specific toolchain listed. Their project management and analytical skills are valuable, but they do not meet the primary technical criteria for a frontend developer role.

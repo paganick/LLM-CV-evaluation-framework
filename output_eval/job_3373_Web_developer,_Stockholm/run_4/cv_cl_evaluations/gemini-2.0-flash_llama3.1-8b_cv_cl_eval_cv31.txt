@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, with a focus on telecommunications. The resume and cover letter attempt to connect sales experience with the technical requirements, but lack sufficient evidence of practical FE development skills. The mention of HTML in skills and front-end development experience in the cover letter is insufficient to demonstrate proficiency in the required technologies.

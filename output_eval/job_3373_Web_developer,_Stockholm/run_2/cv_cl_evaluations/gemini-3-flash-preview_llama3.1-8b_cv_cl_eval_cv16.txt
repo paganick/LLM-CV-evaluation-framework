@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is focused on an outdated .NET and jQuery stack, with no evidence in the resume of professional work using React, TypeScript, or modern testing frameworks like Jest and Cypress. The work history concludes in 2016, indicating a significant gap in recent industry experience and a lack of exposure to the modern front-end ecosystem required for this role. While the cover letter claims familiarity with the requested tools, the resume fails to substantiate these claims with practical, project-based applications.

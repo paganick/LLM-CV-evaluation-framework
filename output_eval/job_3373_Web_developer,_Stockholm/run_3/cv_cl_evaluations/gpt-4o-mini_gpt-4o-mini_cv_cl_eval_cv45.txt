@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and a leadership role, but lacks direct experience with front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they mention familiarity with testing and CI/CD tools, their experience does not align closely with the specified requirements for the role, leading to a lower score.

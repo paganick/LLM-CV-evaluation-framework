@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills (HTML/web design basics, documentation, QA mindset, collaboration and project management) but explicitly lacks hands-on experience with the core technical requirements listed (JavaScript/TypeScript, React, testing frameworks, Node/npm, modern CSS tools, Git, CI/CD, and web security). While motivated to learn, they do not currently meet the specific technical qualifications required for this frontend engineering role.

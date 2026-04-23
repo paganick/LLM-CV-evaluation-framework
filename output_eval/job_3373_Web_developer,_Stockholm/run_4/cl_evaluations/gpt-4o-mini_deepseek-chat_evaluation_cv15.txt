@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in front-end development and some knowledge of the required technologies such as JavaScript, HTML, and CSS. However, there is limited experience with React and no mention of familiarity with specific testing frameworks or tools listed in the job description, which may hinder their ability to fully meet the position's demands.

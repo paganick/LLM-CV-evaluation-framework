@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required professional experience in modern front-end frameworks and TypeScript, explicitly stating they are only "pursuing knowledge" in React. While they possess strong leadership and project management skills from a background in sales operations, they do not demonstrate the hands-on technical proficiency or clean code mastery required for this engineering role. Most technical requirements are mentioned as interests or areas for future learning rather than established competencies.

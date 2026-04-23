@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal and PHP, not the modern React-based frontend stack specified. While they list foundational JavaScript, HTML, and CSS, they lack demonstrable, recent hands-on experience with React, TypeScript, or the specific testing frameworks and modern tooling required. Their background shows strong general development and collaboration skills, but the core technical fit for this specific frontend role is weak.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions key technologies like React, TypeScript, and testing frameworks, aligning with the job description. However, the cover letter heavily emphasizes business development and project management, with insufficient detail on hands-on technical implementation, specific tools (e.g., Git, CI/CD, NodeJS), and the depth of front-end development experience required. The profile suggests a career shift or a hybrid role, making them a partial but not strong match for a dedicated front-end developer position.

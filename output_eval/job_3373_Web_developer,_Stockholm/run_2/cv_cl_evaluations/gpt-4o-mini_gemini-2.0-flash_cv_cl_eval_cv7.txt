@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design, but lacks specific experience in JavaScript, TypeScript, modern front-end frameworks, and testing automation which are critical for the Front-End Developer role. While they express a willingness to learn, their experience does not align closely with the technical requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in a relevant technical industry but lacks direct, hands-on frontend development experience, which is a core requirement. They demonstrate strong transferable skills in security, analysis, and collaboration, and show awareness of the required tech stack. However, they explicitly state their experience with key technologies like JavaScript, TypeScript, and React is "still developing," making them a high-risk hire for an immediate contributor role.

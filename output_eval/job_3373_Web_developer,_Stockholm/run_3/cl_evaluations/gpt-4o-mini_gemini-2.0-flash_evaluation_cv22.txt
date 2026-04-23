@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has expressed a strong desire to transition into frontend development and possesses a foundational knowledge of web technologies, they lack direct experience with key requirements such as JavaScript, TypeScript, modern frontend frameworks like React, and testing frameworks. Their background in media planning and buying does not align closely with the technical requirements of the role, resulting in a score that acknowledges their relevant industry experience but highlights a lack of specific skills and direct applicability.

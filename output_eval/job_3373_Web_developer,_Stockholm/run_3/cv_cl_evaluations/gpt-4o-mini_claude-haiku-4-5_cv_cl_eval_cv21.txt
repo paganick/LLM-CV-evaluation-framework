@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in software development but lacks direct experience with some of the key technologies listed in the job description, such as React and modern testing frameworks like Jest and Cypress. While they have relevant skills with JavaScript, HTML, and CSS, their background leans more towards backend development with ASP.Net and C#. There is potential for growth, but the specific front-end skills and recent experience required for this role are not sufficiently demonstrated.

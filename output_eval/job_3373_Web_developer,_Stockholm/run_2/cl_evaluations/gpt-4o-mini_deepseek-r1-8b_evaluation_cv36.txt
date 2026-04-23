@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in microbiology and regulatory compliance is not relevant to the technical requirements of the job, such as proficiency in JavaScript, front-end frameworks like React, or testing automation. While they have project management and collaborative skills, they lack specific technical experience in programming, web security, and the modern development tools listed in the job description.

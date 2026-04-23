@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend development with only tangential front-end work using basic JavaScript/jQuery. They lack hands-on experience with modern front-end frameworks like React, which is explicitly required, and have no demonstrated experience with key tools like TypeScript, testing frameworks (Jest, Cypress), or modern CSS tools. While they have relevant industry experience and some overlapping concepts (Agile, Git), they are missing the core, specific technical skills listed in the job description.

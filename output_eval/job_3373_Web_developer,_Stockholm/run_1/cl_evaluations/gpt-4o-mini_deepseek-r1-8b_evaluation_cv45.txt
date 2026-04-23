@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and some familiarity with frontend development technologies, including HTML, CSS, and JavaScript. However, they lack specific experience with the modern frontend frameworks listed in the job description, such as React, VueJS, or Angular, as well as testing frameworks and tools that are preferred for the role. The absence of detailed hands-on experience with the required technologies limits their suitability for this position.

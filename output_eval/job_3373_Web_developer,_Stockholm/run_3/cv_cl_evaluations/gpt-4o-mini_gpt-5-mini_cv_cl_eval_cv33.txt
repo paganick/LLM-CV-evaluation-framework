@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business operations and customer engagement but lacks direct experience with the essential technical skills outlined in the job description, particularly regarding JavaScript, TypeScript, and modern front-end frameworks like React. While they exhibit leadership and collaborative skills, they do not demonstrate the required technical expertise or familiarity with tools such as testing frameworks, CI/CD, or web security which are critical for the position.

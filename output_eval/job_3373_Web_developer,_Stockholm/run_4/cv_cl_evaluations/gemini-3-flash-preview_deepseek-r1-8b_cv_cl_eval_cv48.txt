@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT Support and Systems Administration specialist who lacks all the mandatory technical requirements for this software engineering role, such as JavaScript, TypeScript, and React. While they have extensive experience in hardware and networking, they possess no professional background in modern frontend development, testing automation, or CI/CD workflows. Consequently, the candidate is unqualified as they do not meet the core programming and framework prerequisites defined in the job description.

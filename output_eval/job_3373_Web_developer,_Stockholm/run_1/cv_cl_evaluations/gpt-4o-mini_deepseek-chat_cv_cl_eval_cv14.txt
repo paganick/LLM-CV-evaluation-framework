@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and demonstrates proficiency in core web technologies such as JavaScript, HTML, and CSS. However, they lack direct experience with React and modern frontend frameworks, as well as a specific background in testing and test automation tools, which are crucial for this role. Their experience in ASP.NET MVC may not align closely enough with the job description's requirements for a Frontend Developer position using React.

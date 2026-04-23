@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position at your organization. While my career has primarily focused on finance operations and business management, I am currently pursuing a significant career transition into web development, driven by a genuine passion for clean code and modern technology.
+
+Throughout my 20-year career, I have developed a foundation in analytical thinking, problem-solving, and process improvement that directly translates to software development. My experience implementing ABM software solutions, automating reporting systems, and managing complex technology integrations has given me insight into how well-designed systems drive organizational success. This understanding motivates my commitment to writing truly clean code that serves end users effectively.
+
+I am actively building my technical skills in the areas your role requires. I have been developing hands-on experience with JavaScript, TypeScript, HTML, and CSS, with particular focus on React, your framework of choice. I am committed to mastering modern frontend development practices, including comprehensive testing methodologies such as unit, integration, and E2E testing frameworks like Jest and Cypress. I am also expanding my knowledge of essential development tools including Git and GitHub, ESLint, Prettier, and the npm ecosystem.
+
+My background in leading cross-functional teams and managing stakeholder relationships positions me well for your requirement of strong collaboration in an Agile environment. I have consistently demonstrated comfort working across departments and external partners, understanding that technical excellence requires appreciating broader business contexts. This collaborative mindset, combined with my track record of driving technology adoption, means I approach new frameworks and tools with both enthusiasm and pragmatism.
+
+I recognize that my traditional career path differs from typical frontend candidates. However, I bring maturity, discipline, and a proven ability to master complex systems quickly. My commitment to staying current with technology trends is genuine, and I am investing significant effort in becoming a capable React developer who understands not just syntax, but the principles underlying modern web development.
+
+I am eager to contribute my unique perspective and rapidly developing technical skills to your team. Thank you for considering my application.
+
+Sincerely,
+Alexis

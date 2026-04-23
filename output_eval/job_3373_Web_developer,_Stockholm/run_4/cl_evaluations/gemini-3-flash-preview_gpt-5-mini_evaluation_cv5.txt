@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory modern front-end stack, including React, TypeScript, and modern CSS tools, and explicitly mentions the need to learn these technologies. While they possess strong general engineering discipline and leadership experience, their background is heavily rooted in mainframe systems and legacy tools rather than the Git-based, web-centric ecosystem required. Consequently, they fail to meet the specific technical qualifications and hands-on experience levels defined in the job description.

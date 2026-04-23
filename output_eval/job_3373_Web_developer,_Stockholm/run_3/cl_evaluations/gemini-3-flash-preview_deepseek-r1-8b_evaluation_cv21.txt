@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the specific technical expertise required, most notably failing to mention React or TypeScript, which are central to the role's requirements. While they possess a relevant background in software development and Agile methodologies, their primary focus on the .NET stack and SQL does not align with the requested modern frontend frameworks and Node.js ecosystem. Furthermore, the letter lacks specific evidence of experience with the requested testing frameworks or web security protocols.

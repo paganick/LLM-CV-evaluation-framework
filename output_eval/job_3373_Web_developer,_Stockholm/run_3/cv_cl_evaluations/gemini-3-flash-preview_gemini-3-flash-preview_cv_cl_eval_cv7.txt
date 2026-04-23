@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume reflects over 15 years of experience in graphic design and print media, with no documented professional experience in modern frontend engineering. There is a total lack of verifiable evidence regarding the required technical stack, such as React, TypeScript, testing frameworks, or CI/CD pipelines, within the work history. Despite the claims in the cover letter, the candidate remains fundamentally unqualified for a senior-level technical role in software development.

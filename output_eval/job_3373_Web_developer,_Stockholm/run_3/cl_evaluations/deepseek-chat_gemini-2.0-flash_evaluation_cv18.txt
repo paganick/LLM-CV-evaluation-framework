@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but fails to address the majority of the job's specific technical requirements. The cover letter is generic, mentioning only JavaScript, HTML, and CSS broadly, and does not explicitly confirm hands-on experience with React, TypeScript, testing, modern tooling, or the other listed technologies. While they demonstrate soft skills and a long career, the lack of concrete, matching technical details makes them a weak fit for this specific role.

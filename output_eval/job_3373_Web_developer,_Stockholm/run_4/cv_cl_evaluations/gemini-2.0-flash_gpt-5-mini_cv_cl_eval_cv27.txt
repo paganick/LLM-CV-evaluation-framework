@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight experience in fields vastly different from front-end development. While the cover letter expresses interest and eagerness to learn, there's a significant lack of concrete experience with the core technologies (JavaScript, React, TypeScript, etc.) listed in the job description. The listed skills do not align with the technical requirements of the role.

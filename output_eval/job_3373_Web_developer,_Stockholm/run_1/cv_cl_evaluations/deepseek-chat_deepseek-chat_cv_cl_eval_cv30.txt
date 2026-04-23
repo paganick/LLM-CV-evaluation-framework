@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, engineering, and teaching, which is the wrong industry for a front-end developer role. While they mention HTML and a desire to learn, their resume lacks any professional experience with JavaScript, TypeScript, React, or the other core technologies listed in the job description. The cover letter attempts to bridge this gap but does not demonstrate the required hands-on skills or practical experience.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a Presentation and Multimedia Designer whose professional experience focuses on graphic design, UI/UX, and presentation software rather than modern frontend engineering. They lack mandatory experience with the required tech stack, specifically React, TypeScript, automated testing frameworks, and CI/CD pipelines. While they possess a Computer Science degree and basic HTML/CSS knowledge, their profile does not meet the technical software development requirements of the role.

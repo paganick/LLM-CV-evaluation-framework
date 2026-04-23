@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a broad IT background but is outdated and lacks specific, recent experience with the required modern frontend stack (React, TypeScript, testing frameworks). The cover letter claims relevant skills, but these are not substantiated by the resume, which lists older technologies and roles like Database Administrator and CNC Programmer. The profile indicates a relevant industry but is a weak match for the specific, modern frontend developer role described.

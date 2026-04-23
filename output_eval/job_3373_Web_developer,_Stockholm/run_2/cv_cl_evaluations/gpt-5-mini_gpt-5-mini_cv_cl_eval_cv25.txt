@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong visual design background and practical HTML/CSS experience, which is relevant to front-end work, but lacks demonstrated proficiency in core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, and web security. They would require significant upskilling to be productive in this React- and tooling-heavy role. While their collaboration and production skills are assets, they do not meet the technical baseline expected for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong backend Java background with some relevant soft skills and security exposure, but lacks the specific frontend expertise required. The job demands hands-on experience with React and modern frontend tooling, which is not demonstrated in the resume. While the cover letter attempts to bridge the gap, the core technical requirements for the role are not met.

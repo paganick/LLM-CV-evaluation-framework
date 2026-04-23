@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical stack, including React, TypeScript, testing, security, and modern tools. However, the cover letter heavily emphasizes non-development achievements like sales and event management, which dilutes the focus on hands-on frontend engineering experience. While the consulting background is relevant, direct, recent professional experience as a frontend developer is not explicitly stated, creating a minor but notable gap.

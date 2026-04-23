@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and lacks explicit frontend development experience. While they express interest in learning and have some relevant technical skills like scripting, they don't demonstrate proficiency in the core technologies mentioned in the job description (JavaScript, React, HTML, CSS). The resume focuses on hardware and system testing, not web development.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in design and front-end development, but lacks specific experience mentioned in the job description, such as testing frameworks and CI/CD tools. While they show proficiency in relevant technologies, their skills could benefit from a stronger emphasis on testing automation and modern JavaScript libraries. Overall, they are a solid candidate, but not a perfect match for the role.

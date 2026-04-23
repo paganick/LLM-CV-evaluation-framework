@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the primary tech stack, explicitly stating a need to learn React rather than demonstrating current proficiency. Crucial requirements such as TypeScript, Git, and specific testing frameworks are completely omitted, and the mention of "familiarity" with tools is too vague for a professional assessment. Furthermore, the focus on general IT support skills and Microsoft Office is irrelevant to the specialized engineering needs of this modern front-end role.

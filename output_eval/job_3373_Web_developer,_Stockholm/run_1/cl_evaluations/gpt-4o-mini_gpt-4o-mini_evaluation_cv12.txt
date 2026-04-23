@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, CSS, HTML, and PHP, and demonstrates familiarity with testing frameworks. However, they lack specific mention of TypeScript and modern CSS tools like Styled Components. While they show strong collaboration and Agile experience, they do not address their familiarity with functional programming or CI/CD tools, which are noted in the job description.

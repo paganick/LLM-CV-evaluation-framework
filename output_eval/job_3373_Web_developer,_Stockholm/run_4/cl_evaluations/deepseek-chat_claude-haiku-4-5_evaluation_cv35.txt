@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant tech-adjacent industry but lacks the required hands-on, professional frontend development experience. While they demonstrate foundational knowledge and an eagerness to learn, the cover letter does not provide concrete evidence of professional work with React, TypeScript, or the specific testing frameworks and tools listed in the job description. Their experience is largely tangential, derived from marketing technology platforms rather than dedicated software development.

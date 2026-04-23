@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant web development experience and demonstrates strong foundational skills in core web technologies and collaborative workflows. However, they lack direct, hands-on experience with the key technologies specified in the job description, particularly React, TypeScript, and modern front-end testing frameworks, which are explicitly required. Their experience is primarily in ASP.NET MVC and legacy migrations, making them a candidate with potential but a significant skills gap for this specific role.

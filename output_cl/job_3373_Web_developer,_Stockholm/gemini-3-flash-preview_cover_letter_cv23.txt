@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+With a background in Engineering and a focused transition into software development, I am excited to apply for the Frontend Engineer position. My experience as an Engineering Lab Technician has equipped me with a unique blend of technical precision and problem-solving skills that align with your requirement for React development and clean code.
+
+Throughout my career, I have developed a strong foundation in JavaScript, C++, and SQL. In my previous roles, I worked closely with software developers to implement testing strategies and validate platforms using Git. I am highly proficient in performing regression, functional, and smoke testing, which translates directly to your need for expertise in unit, integration, and E2E tests using frameworks like Jest or Cypress. My experience using Microsoft Test Manager and Team Foundation Server has given me a solid understanding of the Agile environment and the importance of collaborative development cycles.
+
+I am particularly drawn to your team’s use of React and TypeScript. While my background includes diverse engineering disciplines, my focus has shifted toward building robust web applications. I am familiar with HTML and CSS, and I have a keen interest in modern styling tools like SASS and Styled Components. My experience troubleshooting complex electromechanical systems to the component level has instilled in me a genuine passion for writing clean, maintainable code. I understand that the logic behind the software is just as critical as the hardware it runs on.
+
+Furthermore, my familiarity with Linux and serial connections via Tera Term demonstrates my comfort with platform interactions, which complements your need for developers who understand the full domain. I am eager to apply my knowledge of the NodeJS ecosystem and expand my skills in API design, AWS, and CI/CD tools like CircleCI. I thrive in environments where I can interact with various teams to ensure product stability and performance.
+
+My educational background in Electronics and Communication Engineering, combined with my hands-on experience in validation and quality assurance, makes me a versatile candidate ready to contribute to your goals. I am a dedicated professional who adapts to technology at an accelerated rate and values the impact of well-architected software.
+
+Thank you for your time and consideration. I look forward to the opportunity of discussing how my technical skills and collaborative mindset can benefit your team.
+
+Sincerely,
+Alexis

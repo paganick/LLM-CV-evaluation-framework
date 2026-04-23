@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid UI/design experience, proficiency in HTML/CSS, familiarity with testing (Jest), Git, and basic web security concepts, and expresses motivation to learn the required stack. However, they provide no concrete, hands-on evidence of key requirements such as TypeScript, React projects, modern CSS tooling (Styled Components/SASS), NodeJS/npm/Yarn, CI/CD (CircleCI), API design, or AWS/Terraform, so they lack the specific technical depth for the role.

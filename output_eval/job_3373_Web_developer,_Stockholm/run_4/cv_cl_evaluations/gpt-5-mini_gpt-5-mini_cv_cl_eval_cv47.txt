@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core front-end technical skills required (no demonstrated experience with JavaScript/TypeScript, React, modern testing frameworks, Node/npm, Git workflows, or CI/CD) and has primary experience in business development and chemistry rather than software engineering. While they show some basic HTML and C/C++ exposure and transferable leadership and communication strengths, these do not compensate for the absence of hands-on front-end development experience and tooling required for the role.

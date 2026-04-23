@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in materials analysis and quality assurance, demonstrating analytical skills and experience with data visualization tools. However, the lack of direct experience with the core technologies mentioned in the job description, such as JavaScript, TypeScript, HTML/CSS, and modern frameworks like React, significantly limits their qualifications for this role. While they express a willingness to learn, they do not meet the required technical proficiency for a strong candidate.

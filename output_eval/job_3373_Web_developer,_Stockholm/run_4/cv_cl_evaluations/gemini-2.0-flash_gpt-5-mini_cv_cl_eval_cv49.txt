@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, lacking direct experience with frontend technologies like React, JavaScript, HTML, and CSS, which are core requirements for the role. While they express interest in learning these technologies and have some adjacent skills, the resume doesn't showcase the necessary hands-on frontend development experience. The cover letter attempts to bridge the gap by highlighting transferable skills, but the lack of concrete frontend projects is a significant drawback.

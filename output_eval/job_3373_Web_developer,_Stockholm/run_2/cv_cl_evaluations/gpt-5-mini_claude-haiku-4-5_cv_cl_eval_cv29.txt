@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is predominantly in business development, sales, and marketing with no demonstrated hands-on experience in JavaScript, TypeScript, React, modern frontend frameworks, or frontend testing and automation required by the role. While they cite familiarity with APIs, Git, AWS, and design tools and show transferable communication and collaboration skills, there is insufficient evidence of the core technical competencies and practical engineering experience needed to perform this Frontend Engineer role.

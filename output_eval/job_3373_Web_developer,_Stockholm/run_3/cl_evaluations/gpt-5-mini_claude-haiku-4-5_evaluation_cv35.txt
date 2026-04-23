@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant technical foundations (JavaScript, HTML/CSS), strong QA/testing process experience, and solid collaboration/Agile experience, which indicate potential to transition into frontend development. However, they lack direct, hands-on experience with several core job requirements—most notably React, TypeScript, specific frontend testing frameworks (Jest/Cypress), Git/GitHub, modern CSS tooling, Node/npm, CI/CD, and web security/DevOps knowledge—so they are not yet a strong immediate fit for this React-focused role.

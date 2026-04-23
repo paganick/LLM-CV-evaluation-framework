@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in digital communications, writing, and content management with no demonstrated hands-on experience in JavaScript, TypeScript, React, front-end frameworks, testing frameworks, NodeJS, or CI/CD. Resume and cover letter show expertise in communications, accessibility, and social media rather than software engineering or web development. This profile is a clear mismatch for a front-end developer role requiring technical coding skills and tooling experience.

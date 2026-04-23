@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-switcher whose experience is primarily in CAD and civil engineering rather than digital product design. While they attempt to bridge the gap through transferable skills, they lack specific experience with UI elements like menus and widgets, as well as modern prototyping tools like InVision or Figma. A strict review categorizes this as relevant technical design experience that fails to meet the specific requirements for a UI/UX specialist role in a fast-paced scale-up.

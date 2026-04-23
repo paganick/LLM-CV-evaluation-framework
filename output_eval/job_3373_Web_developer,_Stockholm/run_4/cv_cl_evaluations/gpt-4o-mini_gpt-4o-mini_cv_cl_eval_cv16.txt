@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and knowledge of JavaScript, HTML, and CSS, but lacks hands-on experience with modern front-end frameworks like React, which is critical for the position. Additionally, while they show familiarity with testing and version control, their understanding of the NodeJS ecosystem and CI/CD tools is less evident, which may hinder their ability to fully integrate into the team's workflow.

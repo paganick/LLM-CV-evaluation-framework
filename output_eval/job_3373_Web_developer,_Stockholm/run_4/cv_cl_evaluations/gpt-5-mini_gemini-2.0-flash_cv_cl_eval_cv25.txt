@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong graphic design background and basic HTML/CSS experience, but there is no demonstrated JavaScript/TypeScript or React experience and no evidence of modern frontend tooling (testing frameworks, Git workflows, Node ecosystem, CI/CD, or cloud/infrastructure knowledge). The resume and cover letter show design and collaboration strengths but lack the specific technical skills required to be productive in this Front End Developer role. While they express willingness to learn, they do not currently meet the core technical requirements.

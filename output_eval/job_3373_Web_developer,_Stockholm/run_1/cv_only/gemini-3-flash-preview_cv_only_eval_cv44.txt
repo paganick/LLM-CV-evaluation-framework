@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Presentation and UX/UI Designer whose professional experience does not align with the requirements for a Senior Front-end Developer. They lack essential experience in React, TypeScript, automated testing frameworks, CI/CD, and modern JavaScript ecosystems. While they possess a Computer Science degree and basic HTML/CSS knowledge, their career focus has been on visual design and marketing materials rather than software engineering.

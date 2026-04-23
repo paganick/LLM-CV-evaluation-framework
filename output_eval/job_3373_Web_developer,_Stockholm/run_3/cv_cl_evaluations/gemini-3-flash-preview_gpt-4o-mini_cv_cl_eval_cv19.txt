@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks the essential technical qualifications for a modern Front-End Developer role, specifically professional experience with JavaScript, TypeScript, and React. Their background is centered on visual design and basic HTML/CSS, with no evidence of experience in software testing, CI/CD, API design, or web security. The profile does not meet the core engineering requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience in frontend development and is only currently learning the core technical stack, including JavaScript and React. While they possess transferable analytical skills from quality engineering, they fail to meet the specific requirements for hands-on expertise in testing frameworks, security protocols, and CI/CD tools. As a career-changer at the beginning of their technical journey, they do not satisfy the professional proficiency levels demanded by the job description.

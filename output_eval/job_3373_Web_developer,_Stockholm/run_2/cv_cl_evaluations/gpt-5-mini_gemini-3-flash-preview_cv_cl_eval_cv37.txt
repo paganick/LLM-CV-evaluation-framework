@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong IT leadership, SDLC knowledge, and claims familiarity with JavaScript/React and web security, but their resume shows no verifiable hands-on front-end development experience or examples of code, projects, or technical deliverables. Key required skills—modern JS/TypeScript framework experience, testing frameworks/automation, Node ecosystem usage, CI/CD, and specific front-end tooling—are not evidenced. This profile is in the relevant industry but lacks the specific technical qualifications for the role.

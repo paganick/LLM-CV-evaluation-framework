@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience in software development and explicitly admits to having no background in JavaScript, TypeScript, or testing frameworks, which are the primary requirements for this role. While they possess transferable soft skills from construction management, their technical profile is entirely unsuited for a position requiring mastery of a modern frontend stack. This application represents a complete industry mismatch and fails to meet any of the core technical qualifications listed in the job description.

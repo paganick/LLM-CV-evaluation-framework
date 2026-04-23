@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry but lacks the specific, hands-on experience required for the role. They explicitly state they are new to JavaScript, TypeScript, and the required testing frameworks, and their experience is in program management, not software development. While they demonstrate enthusiasm and some transferable skills, they do not meet the core technical requirements of the job description.

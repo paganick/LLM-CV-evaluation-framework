@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant design and HTML/CSS experience and strong visual skills, but lacks required hands-on experience with JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, and CI/CD. They state eagerness to learn modern stacks but provide no practical evidence of working with the core technologies listed in the job description. As a result they are relevant to the industry but currently do not meet the specific technical requirements for this front-end role.

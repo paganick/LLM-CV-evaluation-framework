@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is a seasoned IT professional with strong experience in Agile and API development, their background is predominantly in Java (JEE) rather than the specialized frontend domain required for this role. They fail to explicitly mention hands-on experience with the primary technologies requested, specifically React and TypeScript, and their testing expertise focuses on backend tools like Mockito instead of the required frontend frameworks like Jest or Cypress.

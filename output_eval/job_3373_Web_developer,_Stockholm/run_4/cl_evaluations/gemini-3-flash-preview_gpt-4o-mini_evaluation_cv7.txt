@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in graphic design, they lack demonstrated professional seniority in frontend engineering and TypeScript development. The letter indicates a reliance on "familiarity" and "interest" rather than proven hands-on expertise in the core technical stack, particularly regarding testing automation and CI/CD. As a result, the applicant appears more like a designer transitioning into a developer role than a seasoned engineer ready to meet the job's technical demands.

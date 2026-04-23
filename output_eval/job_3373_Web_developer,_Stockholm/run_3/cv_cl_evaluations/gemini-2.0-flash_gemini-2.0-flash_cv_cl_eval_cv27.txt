@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in administrative, artistic, and educational roles, lacking direct experience in software development. While the candidate mentions HTML and web design skills, these are insufficient for a Front End Developer position requiring JavaScript, React, and other modern FE technologies. The cover letter expresses interest in learning, but the gap between current skills and job requirements is too significant.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a technical engineering background and understands testing methodologies, they lack professional experience in the core requirements of React and TypeScript. Their transition from a Lab Technician role to Frontend development leaves significant gaps in commercial application of CSS tools, API design, and CI/CD pipelines. The profile is more suited for an entry-level position than a role requiring hands-on expertise in the modern frontend ecosystem.

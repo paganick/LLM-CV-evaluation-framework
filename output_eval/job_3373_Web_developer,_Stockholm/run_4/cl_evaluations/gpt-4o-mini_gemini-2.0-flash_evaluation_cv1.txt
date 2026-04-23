@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end technologies and demonstrates strong skills in JavaScript, HTML, CSS, and ReactJS. However, they do not mention experience with TypeScript, modern CSS tools, or testing frameworks specified in the job description. Additionally, familiarity with security practices and CI/CD tools is lacking, which limits their match for the position.

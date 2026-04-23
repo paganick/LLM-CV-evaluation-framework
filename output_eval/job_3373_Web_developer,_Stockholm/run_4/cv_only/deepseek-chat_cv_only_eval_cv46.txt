@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in Java-based backend systems, database administration, and outdated technologies, with no mention of the required modern front-end frameworks like React, TypeScript, or testing tools. The resume lacks evidence of key job requirements such as Agile collaboration, modern CSS tools, functional programming, or CI/CD. The skills listed are generic and outdated, showing no alignment with the specific, modern tech stack and practices demanded by the job description.

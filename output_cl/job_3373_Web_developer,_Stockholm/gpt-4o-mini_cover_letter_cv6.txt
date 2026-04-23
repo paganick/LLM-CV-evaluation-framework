@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the frontend developer position, as advertised. With five years of comprehensive experience in full-stack development and a strong proficiency in core technologies including JavaScript, HTML, CSS, and various frameworks, including Drupal, I am excited about the opportunity to contribute to your team.
+
+In my current role as an Information Technology Specialist III, I have led projects such as the NYSED.GOV redesign, where I re-architected the website's content strategy, built a custom responsive theme, and ensured seamless functionality. My hands-on experience with code quality practices includes configuring automated testing tools like Selenium and Behat to ensure robust code through unit and integration testing. I also have a fundamental understanding of security practices such as OWASP and CORS, and I prioritize writing clean and maintainable code.
+
+I am particularly drawn to your team's collaborative approach. My experience in Agile settings has equipped me with the ability to work closely with cross-functional teams, ensuring that project goals are met effectively. I appreciate the importance of staying updated on the latest technologies and trends in the industry, and I am keen to expand my knowledge in modern frameworks like React, which I understand is pivotal to your operations. 
+
+Additionally, I have utilized Git in my previous roles, managing version control of complex projects. I am familiar with CI/CD tools, such as CircleCI, and have gained experience with API design and the NodeJS ecosystem. I believe my eagerness to learn and grow, coupled with my technical skills, makes me a strong fit for your needs.
+
+I am motivated by the opportunity to contribute to creating secure and efficient web solutions. I am excited about the possibility of collaborating with your team and external partners to deliver high-quality products that enhance user experience and functionality.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background and skills align with your team’s goals.
+
+Sincerely,  
+Alexis

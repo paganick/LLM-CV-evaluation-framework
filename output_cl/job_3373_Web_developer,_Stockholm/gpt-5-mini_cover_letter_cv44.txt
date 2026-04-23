@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Engineer position. I am a Presentation and User Experience Designer with a Bachelor of Science in Computer Science and extensive experience designing web interfaces, interactive prototypes and production-ready HTML/CSS assets. My background combines visual design, prototyping and hands-on user testing, which positions me to contribute immediately to a React-focused front-end team while rapidly expanding into modern front-end toolchains.
+
+In my current roles as Presentation Designer and Multimedia Designer I produce high-quality Keynote and PowerPoint presentations, animate content, and create reusable graphic and UI assets. I regularly convert client briefs and scripts into storyboards, wireframes and interactive prototypes using Axure RP and deliver polished HTML/CSS and jQuery implementations via Adobe Dreamweaver and the Adobe Creative Suite. I have worked closely with producers and project teams to meet deadlines and ensure consistency through style guidelines and asset libraries.
+
+My experience with product lifecycle work at MTN included performing UATs and FUTs, assisting with test plans and scripts, and tracking customer feedback to improve product quality. These responsibilities gave me a practical appreciation for testing, quality assurance and iterative release practices—foundations I will apply to unit, integration and end‑to‑end testing as I adopt tools like Jest or Cypress.
+
+I am comfortable collaborating across teams and with external partners, having coordinated with marketing, systems and regional teams to deliver tutorials, awareness campaigns and portal features. I enjoy understanding full domains beyond visual design, decomposing requirements into functional specifications and ensuring deliverables meet business objectives.
+
+Throughout my career I have been recognized for producing clean, slick interfaces and for being a dependable team member who listens to stakeholders and translates their needs into practical, maintainable solutions that balance design and engineering constraints while meeting deadlines and quality.
+
+I am excited by the opportunity to bring my UI design, prototyping and testing experience to your engineering team, and to grow into modern technologies such as React, TypeScript, testing frameworks and CI/CD practices. Thank you for considering my application; I welcome the chance to discuss how my background can support your front-end initiatives.
+
+Sincerely, Alexis

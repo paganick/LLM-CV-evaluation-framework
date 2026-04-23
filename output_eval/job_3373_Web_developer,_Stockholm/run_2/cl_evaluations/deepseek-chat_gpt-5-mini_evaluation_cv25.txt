@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design industry experience and foundational front-end knowledge (HTML, CSS), but lacks the core technical skills required for the role. The job description emphasizes JavaScript, React, TypeScript, testing, and modern tooling, which are not demonstrated in the cover letter. While the candidate shows a strong desire to learn and excellent soft skills, their current technical profile is a significant mismatch for the specific engineering responsibilities.

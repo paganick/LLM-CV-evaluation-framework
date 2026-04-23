@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a foundation in HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks like React, testing frameworks, and other tools mentioned in the job description. While they express interest in learning, the resume highlights outdated technologies (ASP.NET, Java Applets, ActionScript) and the experience is purely academic. The candidate's professional background is in construction, which is not directly relevant.

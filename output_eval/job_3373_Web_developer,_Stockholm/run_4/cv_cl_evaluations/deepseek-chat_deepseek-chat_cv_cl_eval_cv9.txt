@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/JEE backend development, which is not the focus of this frontend role. While they mention JavaScript, HTML, and Git, they lack demonstrated, professional experience with the core requirements: React, TypeScript, modern CSS tools, and frontend testing frameworks. Their experience with Agile, clean code, and OAuth is relevant, but the absence of specific frontend framework and tooling experience makes them a weak fit for the position.

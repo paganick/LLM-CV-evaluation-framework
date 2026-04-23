@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's cover letter is for a Business Development Director position and contains no evidence of technical qualifications required for this Front-End Software Engineer role. The job description explicitly requires JavaScript, TypeScript, React, testing frameworks, Git, and modern development tools—none of which are mentioned or demonstrated in the candidate's application. This is a complete industry and role mismatch; the candidate is applying for a business/sales position while the job posting is for a technical engineering position.

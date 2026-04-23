@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in materials analysis, not frontend development, which is a significant mismatch for the core role. They explicitly lack direct experience with the required technologies (JavaScript, TypeScript, React, testing frameworks) and only mention a desire to learn them. While they demonstrate some transferable analytical skills and mention Git, they do not meet the specific technical requirements outlined in the job description.

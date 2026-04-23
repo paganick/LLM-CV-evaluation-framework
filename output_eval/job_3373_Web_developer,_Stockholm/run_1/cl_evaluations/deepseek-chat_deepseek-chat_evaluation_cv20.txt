@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates a good match for the core technical requirements, including JavaScript, HTML, CSS, Git, and Agile. They show initiative in learning the specific stack (React, TypeScript, testing). However, they lack direct, proven professional experience with the key technologies listed in the job description, such as React, TypeScript, and the specific testing frameworks, which are required for a higher score.

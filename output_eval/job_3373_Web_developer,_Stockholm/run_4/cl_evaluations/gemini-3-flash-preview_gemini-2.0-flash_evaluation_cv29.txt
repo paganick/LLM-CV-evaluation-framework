@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate completely lacks the mandatory technical skills required for this role, specifically failing to demonstrate any proficiency in JavaScript, TypeScript, or React. While they possess relevant experience within the cloud software industry, their background is rooted in business development rather than software engineering. As a strict recruiter, I cannot advance a candidate who has no hands-on experience with the primary tech stack and testing frameworks specified.

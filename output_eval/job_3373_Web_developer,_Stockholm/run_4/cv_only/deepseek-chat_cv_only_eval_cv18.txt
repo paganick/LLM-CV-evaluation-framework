@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is broad but heavily skewed towards IT infrastructure, systems administration, and legacy technologies, not modern front-end development. The resume lacks any mention of React, TypeScript, modern testing frameworks, or the specific tools listed in the job description (e.g., Jest, Cypress, Styled Components, Node.js ecosystem). While there is basic HTML/CSS/JavaScript experience, it is not the core, specialized focus required for this front-end engineering role.

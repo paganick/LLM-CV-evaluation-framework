@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over 20 years of general software experience, they lack professional proficiency in the core technologies required, specifically React and TypeScript. They explicitly admit to lacking experience with the requested testing frameworks (Jest/Cypress), modern CSS tools, and CI/CD pipelines. The profile describes a backend developer attempting to pivot rather than a qualified frontend specialist, failing to meet the primary technical requirements of the role.

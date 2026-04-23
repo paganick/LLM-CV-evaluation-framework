@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Presentation and UX Designer whose technical experience is focused on visual assets and wireframing rather than software engineering. They lack critical requirements including React, TypeScript, modern JavaScript, and automated testing frameworks. While they possess a Computer Science degree and basic HTML/CSS knowledge, their professional background does not align with the technical depth required for this frontend development role.

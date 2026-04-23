@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in project and IT management, not front-end development. While they claim exposure to HTML, CSS, and JavaScript, they lack demonstrable experience with modern FE frameworks like React, testing, or the NodeJS ecosystem as required by the job description. The letter highlights leadership and project management skills, which are beneficial but secondary to the core technical skills needed for this role.

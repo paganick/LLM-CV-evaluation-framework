@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates extensive IT experience and familiarity with core web technologies and Agile environments. They mention React, functional programming with Ramda, and testing, aligning with the job description. Their background in infrastructure and security adds value, although the letter focuses heavily on past experience rather than directly addressing all desired qualifications.

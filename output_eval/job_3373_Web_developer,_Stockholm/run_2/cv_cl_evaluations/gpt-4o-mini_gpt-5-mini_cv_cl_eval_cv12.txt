@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has substantial experience in software development with a solid grasp of front-end technologies such as JavaScript, HTML, and CSS. However, they lack specific expertise in modern frameworks like React and TypeScript, which are essential for this role. While they have relevant skills in Git and automation, the absence of direct experience with the required testing frameworks and knowledge of Functional Programming may hinder their effectiveness in this position.

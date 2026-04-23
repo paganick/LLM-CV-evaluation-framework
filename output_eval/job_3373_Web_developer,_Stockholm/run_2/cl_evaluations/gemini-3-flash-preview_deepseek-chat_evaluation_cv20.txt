@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong fundamental web knowledge and Agile experience but lacks professional, hands-on proficiency with the required modern stack, specifically React and TypeScript. While they show a commitment to learning, they do not currently meet the job's core requirements for experience with modern front-end frameworks and automated testing methodologies. Their background is primarily in legacy ASP.NET and jQuery environments, making them a "learning" candidate rather than an established expert for this specific role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in front-end development (JavaScript, TypeScript, React) and experience with testing and Agile environments, aligning well with the job description. They highlight collaboration and staying updated with technologies. While experience with specific testing frameworks, NodeJS ecosystem, and AWS isn't explicitly detailed, the overall skill set and enthusiasm make them a strong candidate.

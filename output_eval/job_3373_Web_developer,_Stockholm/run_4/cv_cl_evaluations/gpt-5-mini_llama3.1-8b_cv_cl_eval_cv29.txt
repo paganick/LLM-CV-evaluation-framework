@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and technical marketing with no demonstrable hands-on experience in JavaScript/TypeScript, React, modern frontend frameworks, testing frameworks, Git workflows, Node.js, or infrastructure (AWS/Terraform), all of which are core requirements. The cover letter and resume emphasize sales, CRM, and content development rather than software engineering or frontend development skills. This makes the candidate fundamentally unqualified for the technical frontend role.

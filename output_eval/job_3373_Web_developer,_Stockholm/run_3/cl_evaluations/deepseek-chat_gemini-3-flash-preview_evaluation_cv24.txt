@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry background and demonstrates strong alignment with soft skills and some technical keywords. However, the cover letter lacks concrete, hands-on development experience with React, TypeScript, and testing frameworks, instead presenting them as areas of current study. The transition from communications to frontend development is not substantiated with project examples, leaving key technical requirements from the job description unproven.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate is a graphic designer with no software development experience, which is a completely different career path from the required Frontend Engineer role. While the resume mentions basic HTML and CSS knowledge from design work, there is no evidence of JavaScript, TypeScript, React, testing frameworks, Git, or any modern development practices. The candidate lacks the fundamental programming skills, development tools experience, and software engineering background essential for this position.

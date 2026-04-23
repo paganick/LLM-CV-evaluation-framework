@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has proactively learned the required tech stack (React, TypeScript, Jest), they lack professional experience as a software developer, with their career history focused on hardware and test engineering. As a career-changer, they do not demonstrate hands-on experience in a production-grade web development environment or commercial application of front-end architectures. Their strong testing background is an asset, but it does not mitigate the absence of a professional track record in software engineering.

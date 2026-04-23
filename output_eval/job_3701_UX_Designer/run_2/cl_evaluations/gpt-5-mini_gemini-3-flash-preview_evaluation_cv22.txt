@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate clearly exceeds the basic experience requirement and demonstrates strong leadership, Agile practice, UX roadmap management, mentoring, workshop facilitation, prototyping, and design system experience. However, they do not explicitly mention Figma or exposure to HTML/CSS/JS, nor specific user research methods (customer journey mapping, interviews, field studies, user testing) called for in the brief. Overall a strong match but missing a few key technical and research specifics.

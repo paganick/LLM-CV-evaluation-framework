@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal/PHP specialist whose professional experience lacks the required mastery of React and TypeScript specified in the job description. While they possess general web development knowledge, they do not demonstrate professional-level experience with modern frontend testing suites, CI/CD pipelines, or functional programming. Most of the core technical requirements are listed as areas for future growth rather than established competencies.

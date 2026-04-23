@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant technical background and demonstrates an understanding of many required areas like React, testing, and functional programming. However, the cover letter lacks direct, hands-on experience with core frontend technologies like JavaScript, TypeScript, and modern HTML/CSS, which are explicitly listed first in the job description. The experience presented is heavily weighted toward data analysis and backend/scripting languages (Python, R, SQL), not frontend development, making the transition claim unproven for this specific role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational skills (HTML, CSS, SQL) and demonstrates strong analytical and collaborative soft skills that align with the job's requirements. However, they lack hands-on experience with the core technologies listed in the job description, specifically modern JavaScript, TypeScript, React, and testing frameworks, explicitly stating they are "newer" to these. Their background is primarily in systems analysis and media planning, not front-end engineering, resulting in a significant skills gap for the specific role.

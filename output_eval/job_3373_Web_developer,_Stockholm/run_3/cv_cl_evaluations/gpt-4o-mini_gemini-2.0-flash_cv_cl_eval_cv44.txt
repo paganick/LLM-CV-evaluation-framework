@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in design and user experience but lacks direct experience with modern front-end frameworks like React, which is critical for the role. While they list HTML and CSS proficiency, their technical skills are primarily focused on design rather than development. Additionally, there's no evidence of hands-on experience with testing frameworks or collaboration tools mentioned in the job description.

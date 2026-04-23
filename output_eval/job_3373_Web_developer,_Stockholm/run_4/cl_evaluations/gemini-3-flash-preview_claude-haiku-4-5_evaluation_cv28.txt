@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience in frontend development and is only in the early stages of learning the core technologies required, such as React and TypeScript. Their background in materials analysis and quality engineering is from a completely different industry, and they do not possess the mandatory hands-on experience in testing, web security, or modern development workflows. As a strict recruiter, this applicant is viewed as unqualified because they are currently training for the basic requirements rather than possessing them.

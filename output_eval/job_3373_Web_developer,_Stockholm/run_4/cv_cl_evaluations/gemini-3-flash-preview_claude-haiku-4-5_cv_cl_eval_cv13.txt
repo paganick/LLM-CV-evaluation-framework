@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager whose recent professional experience lacks the hands-on technical depth required for a modern React/TypeScript developer role. They lack documented experience with essential requirements such as automated testing frameworks (Jest, Cypress), functional programming (Ramda), and modern CSS-in-JS tools. While they have a foundational knowledge of web technologies, their profile does not meet the "clean code" development standards or the specific framework expertise mandated by the job description.

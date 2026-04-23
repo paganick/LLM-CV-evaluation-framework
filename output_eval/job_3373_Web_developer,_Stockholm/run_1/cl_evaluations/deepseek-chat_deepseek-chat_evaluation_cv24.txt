@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical stack (JavaScript, TypeScript, React, Git, testing) and explicitly addresses the required soft skills like Agile collaboration and a passion for clean code. The transition from communications provides a unique, valuable perspective on UX and content. Points are deducted for not explicitly mentioning several "nice-to-have" requirements from the job description, such as web security basics (OWASP, CORS), CI/CD tools, AWS/Terraform, or functional programming with Ramda.

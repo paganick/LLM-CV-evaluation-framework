@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant professional experience in web development and a strong academic background, they lack the required professional experience with React and TypeScript, which are central to the role. Their expertise is primarily in a legacy .NET/jQuery stack, and they explicitly mention needing to learn the core technologies and testing frameworks listed in the job description. The candidate does not meet the "hands-on experience" requirement for test automation or modern CSS tooling.

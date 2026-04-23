@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and project management but lacks direct experience with frontend development technologies such as JavaScript, TypeScript, React, and modern CSS tools. While they have relevant qualifications and extensive experience in system architecture and quality engineering, there is insufficient hands-on experience with the specific frontend technologies and practices mentioned in the job description.

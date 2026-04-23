@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements for this role, specifically JavaScript, TypeScript, and React. Their professional experience is centered on data analytics, quality engineering in semiconductor manufacturing, and academia rather than modern front-end software development. While they possess some web fundamentals like HTML and C#, they do not have the required experience with modern CSS, testing frameworks, or the JavaScript ecosystem.

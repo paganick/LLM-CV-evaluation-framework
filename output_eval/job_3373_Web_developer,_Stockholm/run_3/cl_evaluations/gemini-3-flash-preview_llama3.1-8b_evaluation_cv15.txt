@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical stack by specifically mentioning React, the requested testing frameworks, and web security protocols. However, the application fails to mention mandatory requirements like TypeScript and Git, while including irrelevant experience in hardware and graphic design. The background suggests a generalist IT profile rather than a specialized software engineer dedicated to clean code and functional programming.

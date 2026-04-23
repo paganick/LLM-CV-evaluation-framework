@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in software development and Agile methodologies but lacks hands-on experience with the required modern frontend frameworks such as React, VueJS, Angular, or Svelte. Their primary focus on Java and the Spring ecosystem does not align with the strong emphasis on JavaScript and TypeScript in the job description. Additionally, while they mention familiarity with web security principles, their knowledge does not appear sufficient for the role's requirements.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not professional software development. They lack any demonstrated experience with the core technologies required: JavaScript, TypeScript, React, modern testing frameworks, or any of the listed tooling. While they mention HTML/CSS and a desire to learn, their profile is a significant industry and skillset mismatch for a modern front-end developer role.

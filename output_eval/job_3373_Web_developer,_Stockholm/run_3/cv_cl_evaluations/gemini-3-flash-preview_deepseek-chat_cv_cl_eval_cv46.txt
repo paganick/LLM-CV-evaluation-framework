@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is heavily focused on Java, database administration, and legacy systems, with no documented professional experience in React, TypeScript, or modern front-end testing frameworks. Their last relevant full-time role ended in 2017, and the cover letter confirms they are still seeking to move from foundational knowledge into "daily practice" regarding the required tech stack. They lack the specific, hands-on expertise in the modern JavaScript ecosystem and CI/CD tools mandated by the job description.

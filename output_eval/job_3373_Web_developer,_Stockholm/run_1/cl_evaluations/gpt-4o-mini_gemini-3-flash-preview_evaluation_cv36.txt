@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong technical background in JavaScript, TypeScript, and React, which matches the job requirements well. Their experience with testing frameworks like Jest and Cypress, along with Git workflows and CI/CD tools such as CircleCI, demonstrates relevant skills. Additionally, their unique perspective from a scientific background adds value, although they lack specific knowledge of security concepts mentioned in the job description.

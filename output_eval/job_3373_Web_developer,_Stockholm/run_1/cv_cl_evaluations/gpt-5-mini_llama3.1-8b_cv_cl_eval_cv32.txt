@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show extensive customer service and management experience but no relevant technical skills (JavaScript/TypeScript, React, testing frameworks, Git, Node, cloud, or modern CSS tooling) required for this frontend engineering role. They explicitly acknowledge a lack of programming experience and offer only MS Office and CRM proficiency. Given the fundamental skill mismatch, they are not qualified for this position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings relevant experience in digital communications and project collaboration, which is beneficial for a front-end role. However, they lack direct experience with key technical requirements such as JavaScript, React, testing frameworks, and the Node ecosystem, making them underqualified for this specific position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a modern Frontend Developer role, lacking the required professional experience in JavaScript, TypeScript, and React. Their background is primarily in Salesforce implementation and project management, and they fail to demonstrate any hands-on experience with unit testing, CI/CD, or the modern web security protocols specified in the job description. The resume reflects a digital marketing professional rather than a software engineer, making them a poor fit for this technical position.

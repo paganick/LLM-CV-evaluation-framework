@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses significant general software development experience but fails to meet the specific requirements for modern frontend frameworks, particularly React and TypeScript. Their professional history is centered on PHP and legacy languages, lacking evidence of experience with modern testing suites, NodeJS, CI/CD pipelines, or AWS infrastructure. As a result, they do not demonstrate the specialized technical expertise necessary for this modern JavaScript-heavy role.

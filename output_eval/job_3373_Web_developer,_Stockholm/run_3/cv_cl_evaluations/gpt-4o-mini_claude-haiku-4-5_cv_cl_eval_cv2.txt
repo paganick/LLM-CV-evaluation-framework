@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in software development with 8.5 years of experience, predominantly in Java technologies, which indicates relevant industry exposure. However, they lack direct experience with key frontend technologies specified in the job description, such as React, TypeScript, HTML, and CSS, as well as modern testing frameworks relevant to frontend development. While they show enthusiasm for transitioning to frontend roles and possess some related skills, they do not fully meet the specific requirements needed for the position.

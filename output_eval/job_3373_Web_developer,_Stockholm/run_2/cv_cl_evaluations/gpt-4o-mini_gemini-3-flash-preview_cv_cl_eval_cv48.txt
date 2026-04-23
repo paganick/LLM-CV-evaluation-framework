@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT systems administration and a foundational understanding of web security, but lacks direct experience with modern frontend frameworks such as React, VueJS, or Angular. While they express a keen interest in frontend technologies and have some relevant skills, they do not meet the requirement for hands-on experience with the specific tools and practices listed in the job description.

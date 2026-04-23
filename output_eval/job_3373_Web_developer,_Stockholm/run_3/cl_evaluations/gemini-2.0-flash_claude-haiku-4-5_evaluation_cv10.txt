@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a relevant degree and some required skills like JavaScript, HTML, CSS, and Git, their primary front-end experience is with AngularJS, not React which is central to the role. The cover letter mentions eagerness to learn React but doesn't demonstrate existing practical experience with it. The candidate also lacks specific mention of TypeScript, and modern CSS tools.

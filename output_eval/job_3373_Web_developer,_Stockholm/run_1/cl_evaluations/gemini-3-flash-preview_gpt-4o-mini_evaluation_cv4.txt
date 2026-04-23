@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses relevant industry experience and core web development skills, they fail to demonstrate hands-on proficiency with TypeScript, functional programming, or specific modern CSS tools like Styled Components/SASS. Furthermore, the application lacks mention of essential requirements such as CI/CD pipelines and cloud infrastructure (AWS/Terraform), focusing instead on a legacy C# background that does not fully align with the requested modern front-end stack.

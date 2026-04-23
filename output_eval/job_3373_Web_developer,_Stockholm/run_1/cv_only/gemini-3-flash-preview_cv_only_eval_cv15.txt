@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily an IT generalist with a focus on hardware and networking rather than a modern frontend engineer. They lack any mentioned experience with React, TypeScript, automated testing, or CI/CD tools, all of which are core requirements. Furthermore, their professional web experience is significantly outdated, with the last relevant roles ending in 2012.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core frontend requirements (JavaScript/TypeScript, React, testing with Jest/Cypress, modern CSS tools, Node ecosystem, CI/CD, and Agile collaboration) and emphasizes attention to quality and testing. However, they do not explicitly address basic web security knowledge (OWASP, CSP, CORS, OAuth), claim only growing familiarity with AWS/Terraform, and do not specify experience with GitHub or production-scale frontend delivery, leaving some infrastructure and security gaps for this role.

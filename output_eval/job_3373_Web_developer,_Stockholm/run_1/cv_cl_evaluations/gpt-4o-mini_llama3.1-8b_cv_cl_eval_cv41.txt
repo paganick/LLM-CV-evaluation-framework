@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and systems administration, but lacks specific skills in JavaScript, TypeScript, modern front-end frameworks like React, and testing automation experience as outlined in the job description. Additionally, their experience does not demonstrate proficiency in the key technologies or practices relevant to the role, resulting in a mismatch despite some relevant industry experience.

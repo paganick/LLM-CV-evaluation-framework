@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a related visual/design background with demonstrable HTML/CSS and strong UX/UI sensibilities, but lacks virtually all required frontend engineering skills (no JavaScript/TypeScript, React, testing frameworks, Git/CI, Node ecosystem, or web security experience shown). They would require significant retraining and hands-on development experience before being productive in this role. While their design experience is an asset, it does not compensate for the absence of core technical qualifications essential for the position.

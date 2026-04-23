@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in broad IT program management and government systems, not in modern frontend development. The cover letter fails to mention any of the required technologies (e.g., JavaScript, React, testing frameworks) or demonstrate hands-on coding expertise. While some soft skills like collaboration are mentioned, the core technical qualifications for the role are entirely unaddressed.

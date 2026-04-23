@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong technical foundation in systems engineering and security, but lacks demonstrable professional experience with the core requirements of React and TypeScript. Their background is primarily in IT infrastructure and legacy J2EE environments, which does not align with the seniority or specific hands-on expertise required for this modern web development stack. While they show familiarity with the ecosystem, the letter indicates a career transition rather than a proven track record of delivering production-ready front-end applications.

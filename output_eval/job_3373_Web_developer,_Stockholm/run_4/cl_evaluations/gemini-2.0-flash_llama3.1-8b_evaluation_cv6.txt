@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has Drupal experience, the cover letter lacks explicit mention of React, TypeScript, or testing frameworks emphasized in the job description. The cover letter focuses more on backend and Drupal specific skills, not the modern FE skills requested. The candidate demonstrates some collaborative experience, but needs to show how they fit in an agile environment.

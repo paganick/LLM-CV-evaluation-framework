@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant design background and some proficiency in HTML and CSS but lacks specific experience with key technologies mentioned in the job description, such as JavaScript, TypeScript, React, testing frameworks, and CI/CD tools. While the applicant demonstrates enthusiasm and a willingness to learn, they do not meet several essential requirements for the role, which limits their suitability.

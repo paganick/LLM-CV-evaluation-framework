@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical stack, including React, TypeScript, and modern CSS tools, and addresses many desirable skills like Agile, Git, and CI/CD. However, the cover letter makes no mention of several key requirements from the job description, such as web security fundamentals (OWASP, CORS), AWS/Terraform, Ruby, or specific testing frameworks. The extensive sales background, while showing leadership, is not directly relevant to the technical role and does not compensate for these missing technical specifics.

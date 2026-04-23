@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant web development experience (JavaScript, HTML, CSS, Agile, Git) and backend/.NET knowledge, but the resume lacks demonstrable experience with core requirements such as React, TypeScript, modern CSS tooling (SASS/Styled Components), JS testing frameworks (Jest/Cypress), Node/npm ecosystem, and CI/CD/cloud tooling. Several key skills are only asserted in the cover letter without concrete evidence on the resume, making them insufficiently qualified for this front-end role.

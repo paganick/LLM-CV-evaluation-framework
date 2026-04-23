@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and meets some baseline requirements like JavaScript, HTML, CSS, Git, and Agile. However, they lack explicit experience with the key technologies listed, specifically React, TypeScript, modern CSS tools, and the testing frameworks mentioned. Their background in .NET is not directly relevant to the role's focus on a modern JavaScript/React stack.

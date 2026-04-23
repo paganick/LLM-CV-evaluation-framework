@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume lacks any relevant experience or skills in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React. There is no evidence of knowledge in testing automation, git, web security, or the other technical requirements outlined in the job description. The candidate appears to be from a customer service and sales background, which is not aligned with the technical nature of the role.

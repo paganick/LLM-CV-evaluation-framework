@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates familiarity with the required tech stack and mentions specific tools like React, Jest, and CircleCI, their twelve years of experience are rooted in IT support and systems administration rather than professional software development. The letter lacks evidence of previous professional roles in a development team, focusing instead on device management and end-user support. Consequently, the candidate qualifies as a career-changer who lacks the specific hands-on engineering experience required for this position.

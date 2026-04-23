@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in Computer Science and proficiency in HTML/CSS, their professional experience is primarily focused on UI/UX design and multimedia presentation rather than frontend engineering. There is no evidence of professional experience with React, TypeScript, or the testing automation frameworks specifically required for this role. The candidate lacks the necessary hands-on technical expertise in NodeJS, CI/CD pipelines, and cloud infrastructure to meet the job's core requirements.

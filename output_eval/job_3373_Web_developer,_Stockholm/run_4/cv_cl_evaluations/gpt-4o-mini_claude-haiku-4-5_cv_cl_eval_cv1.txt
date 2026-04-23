@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses relevant experience in frontend development with JavaScript, React, HTML, CSS, and SASS, aligning well with the job description. Their strong background in testing and automation demonstrates a solid understanding of quality assurance practices, which is crucial for the role. Although they have familiarity with AWS, the cover letter does not directly mention some specific modern CSS tools and functional programming aspects that could enhance their fit for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned Java/J2EE backend developer whose experience does not align with the modern front-end requirements of this role. They lack professional experience with React, TypeScript, and modern CSS-in-JS tools, relying instead on outdated libraries like jQuery and Bootstrap. While they possess strong general software engineering principles, the technical stack gap is too significant for a position requiring immediate proficiency in modern JavaScript frameworks and testing suites.

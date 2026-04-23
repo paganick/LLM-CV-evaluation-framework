@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Mainframe specialist with experience in legacy systems like COBOL and DB2, which does not align with the requirement for a modern Frontend Developer. There is no professional evidence of experience with React, TypeScript, or modern testing frameworks such as Jest and Cypress. While the candidate expresses a desire to transition, they currently lack the specific technical skills and industry-standard frontend experience mandated by the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and some familiarity with web technologies like HTML, CSS, JavaScript, and Git. However, they lack direct experience with modern front-end frameworks mentioned in the job description (React, VueJS, Angular, and Svelte) and testing methodologies specific to JavaScript frameworks. Additionally, there is minimal evidence of hands-on experience with security practices. Overall, the candidate shows potential but does not fully meet the specific skill requirements for the position.

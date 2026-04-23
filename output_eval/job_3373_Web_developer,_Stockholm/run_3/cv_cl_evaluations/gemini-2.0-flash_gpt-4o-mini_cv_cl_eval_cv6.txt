@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some overlap with the job description, with mentions of Javascript, HTML, CSS, and Git. However, the resume focuses heavily on Drupal, which isn't a core technology for the role. The cover letter mentions React, but lacks demonstrable experience with modern FE frameworks besides Drupal.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates excellent alignment with the specified industries and matches nearly every KPI requirement, including MQL to SQL conversion and proposal development. They possess over a decade of experience and the required technical breadth in analytics and UX research. However, while they have strong technical marketing and presales experience, their background leans more toward marketing automation and web operations than the high-level enterprise application sales (API/Cloud/Microservices) emphasized in the job description.

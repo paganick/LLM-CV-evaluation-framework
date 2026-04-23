@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager rather than a dedicated Front-End Engineer, lacking the required professional experience in React and TypeScript. Their technical background focuses on older libraries like jQuery and lacks evidence of proficiency in modern testing frameworks, CI/CD pipelines, or web security protocols. While they possess strong Agile and collaboration skills, they do not meet the core engineering requirements for this hands-on development role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a general understanding of frontend technologies like JavaScript, HTML, and CSS, but lacks specific experience with React, which is a core requirement. While they mention SASS, they don't showcase experience with testing frameworks or modern FE tooling like Styled Components, NodeJS, or CI/CD. The resume focuses more on full-stack and general software development, not specializing in the required frontend expertise.

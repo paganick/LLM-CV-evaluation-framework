@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required technical stack, including JavaScript, TypeScript, and React, which are fundamental to the role. While their background in banking and leadership is professional, their technical expertise is entirely in mainframe systems (COBOL, DB2) rather than modern web development. As a recruiter, their lack of hands-on experience with frontend frameworks and web security makes them a high-risk candidate who does not meet the core job requirements.

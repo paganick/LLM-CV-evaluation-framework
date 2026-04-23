@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, which is a different field. While they mention transferable skills and a willingness to learn, they lack direct experience with JavaScript, TypeScript, and modern FE frameworks, which are core requirements. Their knowledge of HTML/CSS and security concepts is a plus, but insufficient to compensate for the lack of fundamental front-end development skills.

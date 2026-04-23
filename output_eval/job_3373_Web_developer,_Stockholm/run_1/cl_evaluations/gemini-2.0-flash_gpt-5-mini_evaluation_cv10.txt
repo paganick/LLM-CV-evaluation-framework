@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in JavaScript, HTML, CSS, and Git, with a demonstrable understanding of React. They showcase experience in testing and Agile environments. However, the cover letter lacks explicit mention of TypeScript and some of the modern CSS tools, testing frameworks, and CI/CD tools mentioned in the job description.

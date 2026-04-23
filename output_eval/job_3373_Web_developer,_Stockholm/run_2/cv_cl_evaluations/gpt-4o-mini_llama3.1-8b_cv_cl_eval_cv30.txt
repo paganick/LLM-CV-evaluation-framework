@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid foundation in programming and some experience with relevant technologies such as HTML, JavaScript, and ASP.NET. However, they lack direct experience with key requirements like modern front-end frameworks (React, VueJS, Angular, Svelte), testing frameworks, and CI/CD tools. Their background primarily focuses on data analysis and engineering rather than front-end development, which weakens their fit for the role.

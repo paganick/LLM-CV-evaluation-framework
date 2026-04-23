@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions the required technologies like React, TypeScript, and Git, their professional experience is primarily in banking, indicating a recent career pivot. The cover letter highlights transferable skills and a passion for clean code, but lacks demonstrable professional experience in a front-end development role beyond personal projects. The candidate mentions interest in Node.js and Ramda, aligning with the job description, but lacks explicit experience.

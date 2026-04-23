@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong collaboration skills, aligning with the job's soft requirements. However, the cover letter lacks direct, hands-on experience with the core technologies listed, specifically React, TypeScript, and modern frontend tooling, which are critical for the role. The background is heavily weighted toward backend Java development, with frontend skills presented as a recent expansion, making the match insufficient for a strong rating.

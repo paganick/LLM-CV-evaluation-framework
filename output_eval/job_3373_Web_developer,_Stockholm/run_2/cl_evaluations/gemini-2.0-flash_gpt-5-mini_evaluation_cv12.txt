@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience but lacks explicit React or TypeScript experience, which is a key requirement. While the letter mentions familiarity with JavaScript and an eagerness to learn, the absence of hands-on experience with the primary framework used by the team is a significant gap. Other skills match some of the requirements (Git, collaboration), but key technologies mentioned in the description are not explicitly discussed.

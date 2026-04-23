@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development, particularly with ASP.NET and modern front-end frameworks like React. However, they lack some specific requirements outlined in the job description, such as hands-on experience with TypeScript, modern CSS tools, and knowledge of security protocols like OWASP. Additionally, while they mention a passion for clean code and collaborative work, there is no explicit mention of experience with certain desired technologies or tools, which slightly detracts from their overall match.

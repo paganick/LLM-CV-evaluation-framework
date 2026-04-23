@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows extensive back-end and IT support experience from 2009-2017, with no mention of modern front-end frameworks, testing libraries, or the specific tools listed in the job description. The cover letter attempts to bridge this gap with foundational knowledge and enthusiasm, but it lacks concrete, recent, hands-on experience with the required React, testing automation, and modern tooling. The core experience is outdated and misaligned with the specific front-end developer role.

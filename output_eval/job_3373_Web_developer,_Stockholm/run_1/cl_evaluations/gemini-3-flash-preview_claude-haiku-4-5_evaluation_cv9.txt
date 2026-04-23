@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has seven years of IT experience and strong engineering fundamentals in testing and security, they are primarily a backend Java developer attempting to transition into frontend work. They lack professional experience with the required React framework and TypeScript, which are central to this role. Furthermore, their testing expertise focuses on backend performance tools rather than the specific frontend testing ecosystem (Jest, Cypress) requested in the job description.

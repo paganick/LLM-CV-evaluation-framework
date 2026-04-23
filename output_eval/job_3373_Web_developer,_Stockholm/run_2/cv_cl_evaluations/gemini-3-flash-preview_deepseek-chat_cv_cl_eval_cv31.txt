@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely rooted in sales management and hospitality, with no documented professional experience in software engineering or front-end development. While the cover letter claims technical knowledge in React and TypeScript, the resume fails to substantiate these claims with relevant job titles, technical projects, or specific work history. This represents a significant industry and skill-set mismatch for a specialized developer position.

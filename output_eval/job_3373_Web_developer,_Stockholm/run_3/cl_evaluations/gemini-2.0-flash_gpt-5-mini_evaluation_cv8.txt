@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in test engineering, not front-end development. While they express interest in learning front-end technologies and possess general testing skills, they lack specific experience with JavaScript, React, and other core front-end technologies mentioned in the job description. The cover letter highlights transferrable skills, but the absence of direct front-end experience is a significant gap.

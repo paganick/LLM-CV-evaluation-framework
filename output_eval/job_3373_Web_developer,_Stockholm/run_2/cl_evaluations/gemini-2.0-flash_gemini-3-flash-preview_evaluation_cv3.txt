@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web development principles and technologies but lacks specific, demonstrable experience with React, TypeScript, and some of the other tools mentioned in the job description (Styled Components, Ramda). While they express interest and a willingness to learn, the cover letter doesn't provide concrete examples of hands-on experience with the tech stack. The candidate's previous career is not directly relevant, offering some transferable skills, but doesn't outweigh the lack of specific experience.

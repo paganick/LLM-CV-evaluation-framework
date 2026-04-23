@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Mainframe systems, which doesn't align well with the modern FE technologies required. While they express interest in React and TypeScript, there's a lack of demonstrable experience in these areas. The resume highlights skills in COBOL, CICS, and DB2, which are not relevant to the job description's focus on modern JavaScript frameworks.

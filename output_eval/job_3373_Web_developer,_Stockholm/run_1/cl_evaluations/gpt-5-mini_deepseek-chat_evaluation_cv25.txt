@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong design skills, solid HTML/CSS foundations, and proven cross-functional Agile experience which are relevant to the role. However, they lack demonstrated hands-on experience with JavaScript/TypeScript, React, testing (unit/integration/E2E), the Node/npm ecosystem, modern CSS tooling, and security/CI/CD/AWS practices explicitly required by the job. Given the gap between stated upskilling and required proven experience, this is a relevant but underqualified applicant for this position.

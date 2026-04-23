@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct alignment with the core technical requirements, including React, TypeScript, security principles, testing, and Agile. However, the cover letter heavily emphasizes high-level IT management and security leadership, which, while impressive, slightly overshadows the hands-on frontend engineering focus requested. The specific mention of tools like Jest, CircleCI, and AWS shows good breadth, but the depth of recent, daily application of modern frontend frameworks and libraries is implied rather than explicitly proven.

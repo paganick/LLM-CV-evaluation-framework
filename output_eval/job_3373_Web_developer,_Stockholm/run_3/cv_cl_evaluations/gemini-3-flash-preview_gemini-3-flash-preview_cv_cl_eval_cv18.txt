@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Despite 18 years of general IT experience, the candidate lacks professional evidence of working with the core requirements of this role, specifically React and TypeScript. Their background is primarily in systems administration and general IT consulting, with no documented experience in modern frontend testing frameworks or functional programming. The resume reflects a generalist profile rather than the specialized frontend engineering expertise required for this modern development stack.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in the core technologies and frameworks listed in the job description, especially React. They also highlight experience in testing automation and Agile collaboration. While the cover letter showcases relevant experience, it lacks explicit mention of several desired skills like specific testing frameworks (Jest, Cypress), linters, and CI/CD tools, or security knowledge, which would elevate the application further.

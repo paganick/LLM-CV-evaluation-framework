@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant technologies like JavaScript, TypeScript, HTML, CSS, and React, as well as Git and GitHub. They also mention web security best practices. However, the cover letter focuses heavily on project management experience, which isn't the primary focus of a front-end developer role and lacks demonstrable specific experience with modern CSS tools, testing frameworks, linters, and other technologies listed in the job description.

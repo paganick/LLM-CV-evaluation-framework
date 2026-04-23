@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a high level of alignment with the technical requirements, specifically mentioning TypeScript, React, and testing automation tools like Jest and Cypress. They provide strong evidence of competence in niche requirements such as security protocols and CI/CD pipelines, which are often overlooked by front-end specialists. While the candidate possesses the necessary skill set, their professional background is primarily in systems engineering rather than a dedicated track of front-end development experience.

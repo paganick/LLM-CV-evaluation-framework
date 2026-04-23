@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in full-stack and front-end development with a strong command of JavaScript, HTML, and CSS. They also show familiarity with GitHub and Agile methodologies, which align with the job requirements. However, there is no mention of experience with Testing frameworks or modern CSS tools specified in the job description, which could be critical for the position.

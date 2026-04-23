@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, which are core requirements for this position. Their professional background is centered on data analytics, environmental science, and semiconductor engineering rather than software development. There is no evidence of experience with modern frontend testing, CI/CD pipelines, or the specific web security protocols requested in the job description.

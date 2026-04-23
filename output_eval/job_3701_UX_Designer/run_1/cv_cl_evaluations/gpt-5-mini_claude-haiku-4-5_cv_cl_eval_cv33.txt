@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong technical architecture and team leadership experience but lacks demonstrated commercial UX design experience, portfolio artifacts, or proficiency with core UX tools (e.g. Figma) and methods (user research, prototyping, design system management) required for this role. While there are transferable skills (HTML/CSS/JS, stakeholder workshops, agile ceremonies and mentoring), they do not substitute for direct UX deliverables and evidence of designing user interfaces and running user research.

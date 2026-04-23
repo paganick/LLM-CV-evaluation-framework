@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and mentions some desired technologies like React, TypeScript, and NodeJS. However, the letter focuses heavily on mainframe experience and lacks concrete examples of frontend projects. While the candidate expresses interest in functional programming with Ramda, and testing tools, the depth of actual experience is unclear, making them a potential fit but not a strong one without further clarification.

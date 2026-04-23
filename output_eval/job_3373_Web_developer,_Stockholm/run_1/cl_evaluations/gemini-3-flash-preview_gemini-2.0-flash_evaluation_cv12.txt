@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate meets the core technical requirements, including seven years of experience with TypeScript, React, and various testing tiers. However, the application fails to address specific technical necessities such as web security (OWASP/CORS), functional programming (Ramda), and modern CSS tooling like SASS or Styled Components. While highly experienced, the emphasis on legacy PHP and system administration detracts from the specialized front-end focus required for this specific role.

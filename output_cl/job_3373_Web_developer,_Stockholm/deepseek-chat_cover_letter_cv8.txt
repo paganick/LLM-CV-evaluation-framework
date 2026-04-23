@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front End Developer position, as advertised. With a robust foundation in test engineering and a deep-seated passion for software quality and automation, I am confident that my unique background aligns perfectly with your team's needs for a developer who champions clean code and rigorous testing.
+
+For over a decade, my career has been centered on ensuring the reliability and performance of complex electronic systems. This has instilled in me a meticulous, detail-oriented approach to validation and a systematic methodology for root-cause analysis. While my professional history is rooted in hardware, my technical toolkit is heavily software-oriented. I have hands-on experience with **Python Scripting for test automation**, **UNIX Script & Shell Programming**, and **SQL Server Configuration**, demonstrating a strong capacity for logical programming and system interaction. My work in **Lean Six Sigma** environments has honed my ability to optimize processes and eliminate defects—a philosophy I directly apply to writing clean, efficient, and maintainable code.
+
+I have proactively built my skills in the modern web development stack to transition this expertise into software. I am proficient in **JavaScript, TypeScript, HTML, and CSS**, and I have built projects using **React** to create dynamic user interfaces. My test engineering mindset is directly applicable to your requirements; I am adept at writing comprehensive **unit and integration tests** and am eager to work with frameworks like **Jest and Cypress**. I am well-versed in **Git** for version control and understand the critical importance of **security principles** on the web. Furthermore, my experience with **Linux/Unix systems** and scripting provides a solid foundation for engaging with the **Node.js ecosystem, npm, and CI/CD pipelines**.
+
+What excites me most about this opportunity is the chance to contribute as a **strong collaborator in an Agile setting**. My career has involved direct, daily collaboration with engineering teams and acting as a **primary technical customer interface**, skills that translate seamlessly into working with cross-functional teams and external partners. I possess a **keen interest in understanding full domains** and platforms, as evidenced by my work supporting backend production and various customer NPI portfolios.
+
+I am eager to leverage my unique perspective on quality, testing, and automation to contribute to your front-end development efforts. Thank you for considering my application. I look forward to discussing how my background in test engineering and my passion for modern web development can benefit your team.
+
+Sincerely, Alexis

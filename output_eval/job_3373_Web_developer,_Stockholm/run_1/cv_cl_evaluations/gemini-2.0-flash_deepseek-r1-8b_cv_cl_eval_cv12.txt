@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript and CSS but lacks concrete experience with modern front-end frameworks like React, which is a key requirement. Their experience is primarily in PHP, which isn't the focus of the job. While they mention testing and automation, the resume doesn't showcase experience with the specified testing frameworks (Jest, TestCafe, Cypress, etc.).

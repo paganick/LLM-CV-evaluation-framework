@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience relevant to software development and mentions familiarity with JavaScript, HTML, CSS, and React, which aligns with the job requirements. However, the resume lacks specific evidence of extensive hands-on experience with the requested modern frontend frameworks, testing automation, and CI/CD tools, leading to a score in the moderate range.

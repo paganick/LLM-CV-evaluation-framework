@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. My experience in developing interactive websites, coupled with my skills in JavaScript, HTML, CSS, and modern frameworks, aligns well with your requirements.
+
+During my time as a Java intern, I gained experience in front-end development using AngularJS, creating single-page applications. My technical skills also include proficiency in HTML5, CSS, JavaScript, and related tools like JQuery and Bootstrap. I am familiar with consuming and producing RESTful web services, further enhancing my ability to integrate front-end and back-end systems.
+
+My academic background, including a Master of Science in Computer Science, has provided me with a solid foundation in software development principles and practices. I have experience working in Agile environments, as demonstrated during my time as a Test contractor, where I participated in scrum meetings and automated test processes using Java.
+
+I am eager to learn new technologies and understand the full scope of projects, even beyond my immediate area of expertise. I am confident that my skills and enthusiasm for clean code make me a strong candidate for this position.
+
+Sincerely,
+Alexis

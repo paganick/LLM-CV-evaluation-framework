@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java back-end development and performance testing, which is not the core focus of this front-end React role. While they list some relevant front-end keywords in their cover letter, their resume demonstrates no practical experience with React, TypeScript, or modern front-end tooling. Their claimed familiarity with specific tools like Styled Components and Jest appears only in the cover letter and is not substantiated by project or work history.

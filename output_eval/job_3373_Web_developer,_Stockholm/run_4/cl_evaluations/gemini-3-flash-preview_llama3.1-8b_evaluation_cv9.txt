@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate’s professional background is primarily in Java/Back-end development, which does not align with the core requirement for a modern Front-end specialist proficient in React. While they possess relevant knowledge in testing and security, their proficiency in the React framework is presented as a "transition" rather than established professional expertise. Furthermore, they fail to address several secondary requirements such as Node.js, functional programming, and cloud infrastructure.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end technologies like JavaScript, HTML, and CSS, but their experience seems more focused on project management than hands-on development, specifically in React. The letter mentions growing experience with React, which suggests a lack of deep expertise. Key requirements like testing, security, and modern CSS tools are not explicitly addressed.

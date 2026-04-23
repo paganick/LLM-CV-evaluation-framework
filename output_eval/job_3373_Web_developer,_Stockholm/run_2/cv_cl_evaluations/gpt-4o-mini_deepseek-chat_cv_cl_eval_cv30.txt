@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analytics and engineering, which is somewhat relevant but lacks direct experience with key technologies such as JavaScript, TypeScript, modern front-end frameworks like React, and hands-on testing automation. While they express enthusiasm for transitioning into web development and possess foundational skills in HTML and CSS, the overall alignment with the job requirements is insufficient for a strong match.

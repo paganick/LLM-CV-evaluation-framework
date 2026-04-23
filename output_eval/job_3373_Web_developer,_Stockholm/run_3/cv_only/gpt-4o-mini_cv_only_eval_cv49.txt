@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in data analysis and statistics, with no evident skills or experience in JavaScript, TypeScript, HTML, CSS, or any modern front-end frameworks like React. Additionally, the candidate lacks any experience with testing automation or web security knowledge mentioned in the job description, making them completely unqualified for this role.

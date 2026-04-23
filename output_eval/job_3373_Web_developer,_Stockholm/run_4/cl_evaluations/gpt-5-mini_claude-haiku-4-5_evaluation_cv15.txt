@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a solid foundation in JavaScript, HTML/CSS, Git, security fundamentals, and agile collaboration, and shows measurable impact on a past project. However, they provide no concrete hands-on experience with React (the team's primary framework), TypeScript, testing/test automation, modern CSS tooling, the Node/npm ecosystem, CI/CD, or cloud/infra tools referenced in the job description. Their stated willingness to learn is positive but insufficient for a role that requires immediate, practical experience with these modern tools.

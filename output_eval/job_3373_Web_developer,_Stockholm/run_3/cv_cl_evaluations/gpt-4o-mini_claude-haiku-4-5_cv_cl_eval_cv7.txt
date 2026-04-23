@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate comes from a graphic design background with over 15 years of experience, but lacks the necessary technical skills in JavaScript, TypeScript, HTML, CSS, and modern frontend frameworks like React. While they demonstrate strong problem-solving and collaborative skills, their limited direct experience in frontend development and testing frameworks makes them unqualified for the role.

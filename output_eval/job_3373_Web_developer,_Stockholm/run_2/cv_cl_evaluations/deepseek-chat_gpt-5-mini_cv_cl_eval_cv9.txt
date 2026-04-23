@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software development and demonstrates strong principles in testing, clean code, and Agile. However, the job description is heavily focused on modern front-end technologies like React, TypeScript, and specific CSS tools, while the candidate's 7-year background is almost exclusively in Java/JEE back-end development. Their minimal, dated exposure to JavaScript and HTML does not meet the core requirements for this front-end role, representing a significant skills gap.

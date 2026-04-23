@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core technical skills (JavaScript, TypeScript, React, etc.) listed as requirements in the job description. While they express a willingness to learn, the cover letter doesn't demonstrate any foundational knowledge or relevant personal projects in these areas. Their experience is primarily in customer service, sales, and management, which are not directly transferable to a front-end developer role.

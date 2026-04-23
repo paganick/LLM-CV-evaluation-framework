@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design, with limited explicit front-end development experience. While the candidate mentions HTML and CSS, crucial requirements like JavaScript, TypeScript, and React experience are not sufficiently demonstrated. The cover letter attempts to bridge the gap, but the resume lacks concrete evidence of the required development skills.

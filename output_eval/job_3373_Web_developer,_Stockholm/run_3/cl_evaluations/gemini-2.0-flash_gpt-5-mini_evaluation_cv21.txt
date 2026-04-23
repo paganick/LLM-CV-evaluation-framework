@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience with web development and some of the listed technologies like JavaScript, HTML, CSS, and Git. However, there is a lack of explicit experience with React (the company's primary FE framework), TypeScript, and modern CSS tools. While they express a desire to learn modern frameworks, the absence of concrete experience in the job description's core requirements lowers the overall suitability.

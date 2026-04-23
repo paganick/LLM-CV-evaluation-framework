@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks specific, hands-on experience with the core technologies listed in the job description, most critically React, TypeScript, and modern CSS/testing tools. While they demonstrate strong soft skills and a willingness to learn, their primary background is in mainframe technologies, representing a significant pivot with no proven frontend project experience. The application is from a relevant industry but fails to meet the specific technical requirements for the role.

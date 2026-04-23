@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in web development, particularly in HTML, CSS, and JavaScript, and has experience with modern frameworks. However, they lack specific experience with React, testing frameworks mentioned in the job description, and do not demonstrate familiarity with key tools and technologies like Git, modern CSS tools, or CI/CD practices. While they have transferable skills from their construction background, additional directly relevant experience is needed to fully meet the job requirements.

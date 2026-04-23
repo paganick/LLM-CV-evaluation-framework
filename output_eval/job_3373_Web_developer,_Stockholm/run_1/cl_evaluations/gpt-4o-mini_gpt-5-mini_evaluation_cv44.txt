@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web design and user interface development but lacks direct hands-on experience with key requirements such as React, TypeScript, and a deep understanding of testing frameworks like Jest and Cypress. While the candidate demonstrates skills in design and some aspects of testing and collaboration, they do not fully align with the technical requirements and responsibilities outlined in the job description.

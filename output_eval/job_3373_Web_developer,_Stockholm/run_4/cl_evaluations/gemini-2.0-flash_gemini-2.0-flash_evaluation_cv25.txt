@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background in graphic design with some HTML/CSS experience is relevant, but lacks the depth required for a Front End Developer role using React. The cover letter expresses interest in learning, but lacks demonstrable experience with JavaScript, TypeScript, testing frameworks, or other key technologies mentioned in the job description. The candidate's experience seems more geared towards web design rather than front-end development.

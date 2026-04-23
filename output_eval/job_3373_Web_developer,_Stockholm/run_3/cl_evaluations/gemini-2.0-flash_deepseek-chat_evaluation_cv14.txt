@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a reasonable foundation in web development, especially with JavaScript, HTML, and CSS. While they express enthusiasm for React and related technologies, the cover letter leans heavily on ASP.NET MVC and C# experience, which is not the primary focus of the job. The candidate acknowledges the need to learn React, TypeScript, and modern CSS tools, indicating a current skill gap.

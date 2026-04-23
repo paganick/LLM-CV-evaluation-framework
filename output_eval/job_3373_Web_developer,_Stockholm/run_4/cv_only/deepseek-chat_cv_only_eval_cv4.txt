@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and lists foundational web technologies (HTML, CSS, JavaScript, Node.js). However, the resume shows no experience with the required modern front-end frameworks (React, Vue, Angular, Svelte), testing frameworks, modern CSS tools, or the specific secondary skills like functional programming with Ramda. The candidate's primary experience is in C#/.NET and Python for backend/data science, which does not align with the job's focus on modern front-end development and specific tooling.

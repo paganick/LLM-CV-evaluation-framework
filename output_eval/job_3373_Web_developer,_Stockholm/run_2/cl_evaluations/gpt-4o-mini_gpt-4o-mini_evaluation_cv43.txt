@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in program management but lacks direct experience in the core technologies mentioned in the job description, such as JavaScript, React, and associated testing frameworks. While their willingness to learn and adapt is commendable, their current skill set does not fully meet the requirements for a JavaScript Developer role.

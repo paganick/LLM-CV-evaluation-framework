@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong foundational knowledge in JavaScript, TypeScript, and React, along with relevant practices such as testing and version control. However, there are several specific technical skills mentioned in the job description, such as modern CSS tools and CI/CD tools, that are not addressed in the cover letter. While the candidate's previous experience in a regulated industry is impressive, it does not fully align with all the requirements of the position.

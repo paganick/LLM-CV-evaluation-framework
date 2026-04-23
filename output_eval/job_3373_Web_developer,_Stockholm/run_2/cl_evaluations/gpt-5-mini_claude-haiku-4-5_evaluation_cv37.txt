@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong IT leadership, cross-functional collaboration, and a high-level understanding of frontend ecosystems, which are relevant to the role. However, the cover letter lacks concrete, hands-on evidence of required frontend skills (JavaScript/TypeScript, HTML/CSS, React, modern CSS tools, testing frameworks, Node/npm) and specific examples of coding, tests, or CI/CD work. Their experience is more managerial/operational than the practical frontend development expertise this position requires.

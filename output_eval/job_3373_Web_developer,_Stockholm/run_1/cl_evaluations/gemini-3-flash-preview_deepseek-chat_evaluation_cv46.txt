@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate professional mastery of the core technologies requested, explicitly stating a need to "deepen" their experience with React and modern testing tools like Jest and Cypress. Furthermore, the application ignores the mandatory requirement for TypeScript and functional programming, which are central to the role's technical demands. While the candidate has a strong generalist background, they lack the specific, immediate technical competencies required for this specialized Front End position.

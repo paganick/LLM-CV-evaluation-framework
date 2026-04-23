@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and artist with no professional experience in modern frontend engineering or the JavaScript ecosystem. While the cover letter mentions recent learning, the resume lacks evidence of work with React, TypeScript, testing frameworks, or CI/CD tools, showing only "some HTML knowledge" and outdated software like Dreamweaver. This profile represents a career-level mismatch for a technical role requiring deep expertise in software development and web security.

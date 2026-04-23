@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design but lacks specific experience in front-end development and the required technical skills such as JavaScript, TypeScript, React, modern CSS tools, testing frameworks, and CI/CD practices. Their enthusiasm for learning and collaboration is evident, but they do not fulfill the core technical requirements outlined in the job description.

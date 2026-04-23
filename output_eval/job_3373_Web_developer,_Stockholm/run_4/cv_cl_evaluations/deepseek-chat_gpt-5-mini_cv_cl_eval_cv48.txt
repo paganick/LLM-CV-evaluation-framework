@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT infrastructure and support, with no demonstrated professional experience in front-end development, JavaScript, React, or any of the core technologies listed in the job description. While they express motivation to learn, they lack the required hands-on experience with modern FE frameworks, testing, and the specific technical stack. Their skills are not a match for the software engineering role, placing them in the wrong industry for this position.

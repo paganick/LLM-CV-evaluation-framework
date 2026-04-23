@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer with zero professional experience in software engineering, failing to meet the requirement for hands-on technical experience in a production environment. While they demonstrate a strong theoretical understanding of the tech stack and work in a relevant industry, their background in sales does not translate to the practical proficiency required for complex tasks like API design or functional programming. Consequently, they lack the proven track record of writing clean, maintainable code necessary for this specific role.

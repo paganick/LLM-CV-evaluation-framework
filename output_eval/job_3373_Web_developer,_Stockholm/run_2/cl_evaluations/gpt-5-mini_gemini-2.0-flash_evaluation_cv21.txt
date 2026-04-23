@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience (HTML5, CSS3, JavaScript, AngularJS), Agile practice, and some unit testing and leadership, which maps partially to the role. However they do not show experience with TypeScript, React (the team's stack), modern JS testing frameworks/automation, Node/npm tooling, Git/GitHub, modern CSS tools (SASS/Styled Components), web security knowledge, or CI/CD/AWS—significant gaps for this position. Overall, relevant but missing multiple specific and required technologies and toolchains.

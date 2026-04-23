@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from an unrelated industry and is trying to transition. While they mention React, the cover letter lacks substantial evidence of front-end development experience. The skills highlighted are primarily in test engineering and process improvement, not in the core technologies listed in the job description.

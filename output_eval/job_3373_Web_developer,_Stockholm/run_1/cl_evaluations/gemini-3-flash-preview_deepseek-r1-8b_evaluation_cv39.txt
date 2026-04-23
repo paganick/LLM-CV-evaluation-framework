@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate proficiency in the core technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. While the applicant has extensive experience in graphic design and branding, the letter provides no evidence of the specific frontend engineering skills, security knowledge, or CI/CD experience mandated by the job description. The profile aligns more with a visual designer than the highly technical developer role described.

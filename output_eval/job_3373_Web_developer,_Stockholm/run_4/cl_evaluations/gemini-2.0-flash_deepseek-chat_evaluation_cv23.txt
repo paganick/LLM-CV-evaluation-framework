@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in an adjacent field, with transferable skills, but lacks direct experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools). While the candidate mentions familiarity with JavaScript and SQL, and expresses eagerness to learn, the cover letter doesn't demonstrate sufficient hands-on experience with modern front-end development practices. The experience with testing is foundational, but not at the required automation level.

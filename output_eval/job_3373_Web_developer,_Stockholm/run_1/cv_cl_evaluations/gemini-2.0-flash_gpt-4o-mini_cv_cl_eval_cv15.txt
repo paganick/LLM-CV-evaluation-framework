@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses experience in web development and mentions relevant technologies such as JavaScript, HTML, and CSS. However, the resume highlights a broad range of IT skills, and lacks the depth of experience in modern front-end frameworks (specifically React, which the job description emphasizes) and associated testing/CI/CD tools needed for the role. While the cover letter mentions these, the resume doesn't sufficiently demonstrate hands-on experience.

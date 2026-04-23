@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development and product enablement, not hands-on front-end engineering, which is the core requirement. While they demonstrate strong adjacent skills like technical writing and cross-functional collaboration, they lack proven, direct experience with the specific technologies and duties listed in the job description (e.g., React, testing frameworks, modern CSS, Git). Their enthusiasm for learning is noted, but this represents a significant career transition with unproven technical execution.

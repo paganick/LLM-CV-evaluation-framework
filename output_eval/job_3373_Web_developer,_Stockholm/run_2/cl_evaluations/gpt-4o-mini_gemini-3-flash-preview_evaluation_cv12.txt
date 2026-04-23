@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience with JavaScript, React, and CSS, aligning well with the job requirements. They have hands-on experience with testing and CI/CD processes, which is a strong asset. While they mention experience in API design and security, there is little mention of Ruby or AWS knowledge, which could be beneficial given the organization's transition away from Ruby and the general requirement for AWS familiarity.

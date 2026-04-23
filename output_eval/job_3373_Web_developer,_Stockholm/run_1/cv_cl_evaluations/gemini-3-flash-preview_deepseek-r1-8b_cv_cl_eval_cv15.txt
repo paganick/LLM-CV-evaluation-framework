@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in IT hardware, networking, and legacy system management, with professional experience appearing to conclude around 2012. They lack the required hands-on expertise in modern frontend frameworks like React, TypeScript, and contemporary testing suites such as Jest or Cypress. While they possess a general IT background, they do not meet the specific technical requirements for a modern software engineering role.

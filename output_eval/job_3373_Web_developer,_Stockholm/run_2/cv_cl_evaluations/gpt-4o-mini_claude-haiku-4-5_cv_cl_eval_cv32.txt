@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in customer service and management, but lacks direct experience with the core technical skills required for the Frontend Developer position, such as JavaScript, TypeScript, React, and testing frameworks. While they express a strong willingness to learn, there is no demonstrated hands-on experience in relevant technologies or frameworks, which is critical for the role.

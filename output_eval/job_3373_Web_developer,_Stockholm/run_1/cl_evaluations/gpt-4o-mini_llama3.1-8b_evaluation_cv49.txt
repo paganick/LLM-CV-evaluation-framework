@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in data analysis and programming languages like Python and R, but lacks the specified experience in JavaScript, TypeScript, and the modern front-end frameworks mentioned in the job description, such as React. Their background is not aligned with key technical requirements, particularly in web technologies and testing frameworks, which are critical for this role.

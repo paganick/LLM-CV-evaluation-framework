@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter indicate a background in systems administration, UNIX/Linux, network operations and infrastructure, with no evidence of JavaScript/TypeScript, React, HTML/CSS, front-end testing, or Node.js ecosystem experience required for this role. While the candidate has strong operational and security credentials (including a clearance), those skills do not match the core front-end engineering requirements. Therefore the candidate is largely unqualified for this position.

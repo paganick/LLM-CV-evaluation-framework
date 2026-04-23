@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions the correct technologies and shows a foundational understanding of web security and testing, their professional background is predominantly in media production rather than software engineering. The lack of documented professional experience with React and the full development lifecycle makes them a high-risk hire for a technical role. They demonstrate interest but fail to provide evidence of the "hands-on experience" required for the specific tools and methodologies mentioned in the job description.

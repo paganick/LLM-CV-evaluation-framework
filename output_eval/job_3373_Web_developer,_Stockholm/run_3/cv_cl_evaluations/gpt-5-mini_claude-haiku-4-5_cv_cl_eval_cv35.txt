@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in marketing automation, integrations, QA processes, and collaboration, but lacks demonstrable hands-on experience with core requirements such as React, TypeScript, modern frontend frameworks, modern CSS tooling, Node/npm, Git/GitHub, and frontend testing frameworks (Jest/Cypress). Their cover letter expresses eagerness to learn but does not provide concrete examples of shipping frontend code or using the specified toolchain, making them insufficiently qualified for this role without significant upskilling.

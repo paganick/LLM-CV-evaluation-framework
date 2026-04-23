@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in IT management which is less relevant to a frontend developer role. While they mention relevant skills like Javascript, HTML, and CSS, they lack explicit experience with Typescript which is a key requirement. They express interest in learning relevant testing frameworks, but lack demonstrable experience.

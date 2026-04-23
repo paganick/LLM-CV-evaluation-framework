@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills (JavaScript, HTML, CSS, Git) and mentions React experience in the cover letter, but the resume focuses heavily on IT management and troubleshooting rather than front-end development. While the candidate claims experience with test automation and CI/CD, the resume lacks concrete evidence of this. The candidate needs to showcase more demonstrable front-end experience to be a stronger fit.

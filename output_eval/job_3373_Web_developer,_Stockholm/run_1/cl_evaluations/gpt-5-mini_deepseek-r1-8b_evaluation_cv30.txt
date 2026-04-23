@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong backend, data analysis, and QA experience and fits the collaborative, Agile culture, but the cover letter does not demonstrate hands-on experience with core front-end technologies required (JavaScript/TypeScript, React, HTML/CSS), modern CSS tooling, JS testing frameworks, Node ecosystem, or CI/CD. Without concrete front-end projects or specific tool experience, they are not yet a strong match for this React-focused Front-End Developer role.

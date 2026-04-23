@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume demonstrates extensive senior business development, program management, and legacy IT/engineering experience but provides no verifiable, hands-on front-end development work (JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm) required for this role. The cover letter asserts front-end skills, but those claims are unsupported by the documented work history, tools, or recent technical projects. Overall, this is a senior management/engineering-quality background rather than a proven modern front-end developer fit.

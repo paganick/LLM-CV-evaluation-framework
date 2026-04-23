@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in graphic design and some coursework in HTML/CSS, but lacks hands-on experience with JavaScript, modern frontend frameworks like React, and testing frameworks. There is also no mention of familiarity with Git, security practices, or tools like CI/CD, which are critical for the role.

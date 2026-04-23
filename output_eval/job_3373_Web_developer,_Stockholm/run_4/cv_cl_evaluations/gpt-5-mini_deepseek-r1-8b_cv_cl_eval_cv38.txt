@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is rooted in media production with no demonstrable hands-on experience in JavaScript, TypeScript, React, modern CSS tooling, testing frameworks, NodeJS, or Git as required by the role. While they show strong project management, collaboration, and UX/visual sensibilities, there is no evidence of the technical competencies or security/API knowledge needed for a front-end engineering position. They may be a fit for production, project management, or design-adjacent roles, but are not qualified for this engineering role.

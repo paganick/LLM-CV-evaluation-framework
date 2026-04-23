@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, hands-on skills required for the role. Their professional background is heavily centered on ASP.NET, C#, and SharePoint, with no demonstrated experience in React, TypeScript, or modern frontend testing frameworks. While they express interest in the modern stack, their resume does not provide evidence of practical experience with the core technologies listed in the job description.

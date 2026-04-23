@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in software development and basic understanding of web technologies, notably JavaScript and HTML. However, there is a significant lack of direct experience with modern front-end frameworks like React, testing automation, and specific tools mentioned in the job description. Although they express a willingness to learn, they do not meet several critical requirements for the position.

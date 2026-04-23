@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all the mandatory technical qualifications for this specialized engineering role, explicitly admitting to having no experience with JavaScript or TypeScript. Their professional background is in sales and customer service, which is entirely irrelevant to a position requiring proficiency in React, testing frameworks, and CI/CD tools. There is a fundamental mismatch between the applicant's skill set and the specific requirements of the job description.

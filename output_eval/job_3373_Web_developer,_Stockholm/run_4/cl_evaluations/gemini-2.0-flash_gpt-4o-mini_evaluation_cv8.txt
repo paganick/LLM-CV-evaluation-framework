@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in test engineering, not frontend development, despite claiming a foundation in scripting and automation. While they mention familiarity with relevant technologies like JavaScript, HTML, CSS, Git, and React, they lack demonstrated experience in a frontend role. Their experience in testing and Agile is a plus, but overall, the letter highlights potential rather than proven skills for a Frontend Developer position.

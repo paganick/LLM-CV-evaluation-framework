@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in front-end engineering and explicitly admits to needing to gain hands-on competence in the core required technologies such as React, TypeScript, and testing frameworks. Despite a strong background in business operations and leadership, they do not possess the mandatory technical skills or professional coding history specified in the job description. The application is essentially a career-change proposal rather than a qualified technical submission.

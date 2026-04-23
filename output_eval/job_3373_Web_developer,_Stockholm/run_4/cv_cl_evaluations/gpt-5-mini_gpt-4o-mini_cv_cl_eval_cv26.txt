@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is overwhelmingly in marketing, communications, and legal support with no demonstrable hands-on experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, or Git as required for the role. While they present transferable soft skills (communication, project management) and a willingness to learn, those do not compensate for the lack of core technical competencies and practical development experience. Therefore they are not currently qualified for this front-end developer position.

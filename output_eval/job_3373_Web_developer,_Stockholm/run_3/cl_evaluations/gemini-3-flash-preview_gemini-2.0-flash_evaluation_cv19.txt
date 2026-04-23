@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically professional experience with JavaScript, TypeScript, and modern frameworks like React. While they have a background in graphic design and basic HTML/CSS, there is no evidence of experience with testing, Git, security protocols, or CI/CD tools. The profile is more suited for an entry-level design position than a specialized front-end developer role.

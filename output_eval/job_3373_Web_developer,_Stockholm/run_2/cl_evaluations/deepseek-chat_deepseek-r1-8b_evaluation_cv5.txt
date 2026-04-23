@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's industry experience is relevant, but they lack the specific, hands-on experience required for the role. They admit their core expertise is in mainframe technologies and have no demonstrable experience with the listed modern web technologies like React, TypeScript, or the associated toolchain. While they express a strong aptitude for learning, the role demands existing proficiency, making this a significant skills gap.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical skills required for the role, including JavaScript, TypeScript, React, and modern front-end testing frameworks. Their professional experience is exclusively in IT infrastructure, hardware support, and systems administration, which does not translate to software engineering. There is no evidence of professional web development experience or familiarity with the specified modern development toolchain.

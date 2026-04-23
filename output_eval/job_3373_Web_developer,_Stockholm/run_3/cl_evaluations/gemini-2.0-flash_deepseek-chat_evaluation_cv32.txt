@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a grasp of the required technologies (JavaScript, TypeScript, HTML, CSS, React) through self-study, but lacks professional experience. While transferable skills are highlighted, the absence of direct front-end development experience and limited exposure to the broader tech stack mentioned in the job description (CI/CD, deeper testing frameworks) are concerns. The candidate expresses interest in the team's technologies such as Ramda and CI/CD but without tangible experience.

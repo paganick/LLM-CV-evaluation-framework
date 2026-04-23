@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced professional within the relevant industry, but their entire twenty-year career history is in product management and leadership rather than software engineering. The resume lacks any professional experience with the required technical stack, such as React, TypeScript, and automated testing frameworks. While the cover letter mentions a career pivot, the candidate does not meet the "hands-on experience" requirements specified in the job description.

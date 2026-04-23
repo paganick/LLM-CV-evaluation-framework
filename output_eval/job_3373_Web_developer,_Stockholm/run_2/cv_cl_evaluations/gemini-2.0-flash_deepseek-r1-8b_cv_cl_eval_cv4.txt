@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has experience with JavaScript, HTML, CSS, and some backend technologies, aligning with the job description. They mention React experience in the cover letter, but it's not explicitly detailed in the resume. There's a lack of specific experience with testing frameworks and modern CSS tools mentioned in the job description.

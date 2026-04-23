@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a lengthy career in software development but lacks direct professional experience with the core requirements of React, TypeScript, and modern testing frameworks like Jest or Cypress. Their technical background is heavily focused on legacy .NET stacks and AngularJS, which does not align with the modern frontend ecosystem specified in the job description. Additionally, there is no evidence of experience with essential tools such as Git, functional programming libraries, or CI/CD pipelines.

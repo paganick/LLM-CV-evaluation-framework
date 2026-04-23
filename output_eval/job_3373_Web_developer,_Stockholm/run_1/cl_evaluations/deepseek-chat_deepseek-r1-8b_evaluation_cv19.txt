@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only coursework-level HTML/CSS, lacking the required hands-on professional experience with JavaScript, TypeScript, React, testing, Git, and modern tooling specified in the job description. While their creative background and eagerness to learn are positive, they do not meet the core technical requirements for the role. The alignment with Agile and collaboration is a good fit, but the fundamental skill gap is too significant.

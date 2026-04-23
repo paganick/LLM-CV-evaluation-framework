@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in JavaScript, TypeScript, HTML, and CSS, along with some familiarity with React, Git, and basic web security practices. However, there is a lack of hands-on experience with testing frameworks and modern CSS tools mentioned in the job description. Additionally, the candidate's background predominantly in finance operations does not demonstrate significant front-end development experience.

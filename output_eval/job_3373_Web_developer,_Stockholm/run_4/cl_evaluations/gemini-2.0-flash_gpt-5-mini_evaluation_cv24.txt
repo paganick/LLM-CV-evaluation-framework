@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in digital communications, not front-end engineering. While they express a strong interest in learning the required technical skills, the cover letter lacks demonstrable experience in the core technologies listed in the job description, such as JavaScript, React, and testing frameworks. Their experience is in an adjacent field but doesn't directly translate to the required technical expertise.

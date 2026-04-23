@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only foundational HTML/CSS skills, lacking the required hands-on experience with JavaScript, TypeScript, React, testing frameworks, and modern tooling specified in the job description. While they demonstrate a willingness to learn and have relevant soft skills, their technical experience is not aligned with the core requirements for a Front End Developer role. The mention of unrelated roles like Machine Operator further dilutes the relevance of their application.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-switcher whose primary expertise is in mainframe technologies rather than modern front-end development, and they fail to mention any experience with TypeScript, a core requirement. While they have general software experience, their React skills are "recently acquired" and they lack the specific depth in end-to-end testing, functional programming, and CI/CD tools requested. The gap between their legacy background and the modern stack requirements represents a significant disqualifier for a strict technical evaluation.

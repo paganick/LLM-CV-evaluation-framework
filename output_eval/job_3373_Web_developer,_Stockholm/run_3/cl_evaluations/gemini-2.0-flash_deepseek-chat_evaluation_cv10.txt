@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience with JavaScript, HTML, CSS, and Git. They mention working in Agile environments and express interest in clean code, matching key requirements. While they have experience with AngularJS instead of React, their stated eagerness to transition and their experience with related technologies like RESTful APIs and testing practices are positive.

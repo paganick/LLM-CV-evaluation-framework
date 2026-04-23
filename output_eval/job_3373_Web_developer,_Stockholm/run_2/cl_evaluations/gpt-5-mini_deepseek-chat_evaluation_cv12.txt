@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant full‑stack experience, solid HTML/CSS/SASS, Git, backend and database skills, and Agile/collaboration experience, which match several role expectations. However they lack demonstrated experience with React (the team's primary framework), TypeScript, modern NodeJS tooling, test automation frameworks, CI/CD/Cloud (AWS/Terraform) and web security practices—key requirements for the role. With upskilling in these specific areas they could become a strong fit, but currently they do not meet several critical technical requirements.

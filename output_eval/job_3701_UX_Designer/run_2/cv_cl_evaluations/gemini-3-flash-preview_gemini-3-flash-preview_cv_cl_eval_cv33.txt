@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level Data Architect specializing in Master Data Management (MDM), which is a fundamentally different discipline than User Experience (UX) design. They lack the mandatory 2-3 years of commercial UX design experience, proficiency in Figma, and a portfolio demonstrating user-centric design or research methodologies. While they possess strong technical leadership skills, their background in backend systems and data modeling does not align with the creative and UI-focused requirements of this role.

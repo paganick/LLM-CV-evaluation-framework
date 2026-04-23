@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight skills in program management, learning design, and curriculum development, which are not directly relevant to the software engineering skills required in the job description. While the candidate mentions "intermediate coding in R studio," this does not align with the required JavaScript, TypeScript, or modern FE frameworks. The candidate lacks the necessary technical skills and experience in web development, testing, and security.

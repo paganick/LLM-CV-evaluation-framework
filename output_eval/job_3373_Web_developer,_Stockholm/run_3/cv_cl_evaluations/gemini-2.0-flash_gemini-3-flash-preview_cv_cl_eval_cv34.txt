@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills (HTML, CSS, SQL), but lacks the required depth in modern front-end frameworks like React, and the job description's emphasis on Javascript/Typescript is not demonstrated. While the cover letter expresses interest and willingness to learn, the resume primarily highlights experience in Salesforce Marketing Cloud implementation, which isn't a core fit for the role's FE focus. There is a lack of concrete experience with testing frameworks and other development tools listed in the job description.

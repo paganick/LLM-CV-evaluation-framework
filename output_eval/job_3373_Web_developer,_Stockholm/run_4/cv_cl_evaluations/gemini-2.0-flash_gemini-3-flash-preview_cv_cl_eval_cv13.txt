@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in project management, with some front-end development skills. While they mention Javascript, HTML, and CSS, there's a lack of depth regarding modern FE frameworks like React (which the job uses). The resume focuses more on project leadership and marketing strategy rather than hands-on development expertise required for the role.

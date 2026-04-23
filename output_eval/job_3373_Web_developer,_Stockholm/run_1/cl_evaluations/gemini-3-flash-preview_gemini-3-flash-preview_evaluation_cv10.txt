@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong theoretical foundation and background in testing, but lacks professional experience with the primary tech stack, specifically TypeScript and React. While they mention an interest in functional programming and security, they explicitly admit to needing development in essential requirements like SASS, AWS, and Terraform. The profile leans more toward a Java/Generalist background rather than a specialized modern Frontend Engineer.

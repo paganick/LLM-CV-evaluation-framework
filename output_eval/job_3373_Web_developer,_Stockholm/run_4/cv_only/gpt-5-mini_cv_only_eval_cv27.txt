@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a background in administrative, arts, video/media and general web-design/html but contains no evidence of JavaScript/TypeScript, React (or other modern frameworks), testing, Git, Node.js, or CI/CD experience required for this frontend engineering role. The candidate's skills are focused on production, teaching, office management and creative tools rather than software engineering, making them completely unqualified for the technical requirements. There is insufficient technical or engineering domain experience to consider a match.

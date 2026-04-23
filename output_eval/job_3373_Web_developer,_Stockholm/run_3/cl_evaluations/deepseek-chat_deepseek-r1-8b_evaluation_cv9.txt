@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary expertise is in Java/Spring, which is not aligned with the core frontend technology stack (JavaScript/TypeScript/React) required by the job. While they demonstrate strong foundational skills, adaptability, and mention some relevant concepts (Node.js, OWASP, Agile), they lack direct, hands-on experience with the specific modern frontend frameworks, libraries, and testing tools listed. This places them in the relevant industry but lacking the specific, required experience.

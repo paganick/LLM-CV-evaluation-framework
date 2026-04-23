@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive IT experience and familiarity with modern front-end frameworks such as React, VueJS, and Angular, which aligns well with the job requirements. However, they do not explicitly mention experience with JavaScript, TypeScript, or the specific testing and CI/CD tools listed in the job description, which are critical for the role. Overall, the candidate demonstrates strong qualifications but lacks some of the specific experiences sought.

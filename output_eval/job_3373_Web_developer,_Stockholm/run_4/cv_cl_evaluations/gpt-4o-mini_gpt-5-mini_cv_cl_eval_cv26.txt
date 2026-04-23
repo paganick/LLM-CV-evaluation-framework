@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a long history in marketing, communications, and public relations, they lack the essential technical skills and hands-on experience specified in the job description, such as JavaScript, modern front-end frameworks (React), and testing automation tools. Their experience does not align with the requirements for a Front-End Engineer role, which requires a stronger technical foundation. Additionally, there is no evidence of familiarity with key technologies like AWS, CI/CD, and security principles that are critical for the position.

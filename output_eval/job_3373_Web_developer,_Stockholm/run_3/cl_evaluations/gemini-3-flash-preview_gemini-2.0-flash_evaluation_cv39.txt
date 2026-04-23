@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a graphic designer and lacks the mandatory expertise in JavaScript, TypeScript, and React specified in the job description. They explicitly state a need to learn the core technologies required for the role, indicating a total lack of hands-on experience with modern development workflows, testing, and version control. Despite their extensive industry experience in design, they do not meet the fundamental technical criteria for a front-end engineering position.

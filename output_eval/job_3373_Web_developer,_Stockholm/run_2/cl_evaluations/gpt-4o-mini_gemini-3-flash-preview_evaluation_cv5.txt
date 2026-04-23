@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has significant experience in programming and a strong foundation in modern frontend technologies, specifically mentioning React and relevant testing frameworks. They demonstrate a good understanding of both backend and frontend areas, along with Agile methodologies. However, there is no mention of specific experience with modern CSS tools or Git, which slightly detracts from a perfect score.

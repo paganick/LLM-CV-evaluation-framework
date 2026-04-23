@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in front-end development technologies including HTML, CSS, and JavaScript, along with frameworks like React. They possess experience in testing and automation, and have a commitment to security practices, aligning with several requirements of the job description. However, there is no indication of familiarity with TypeScript, modern CSS tools like CSS-in-JS, or CI/CD tools, which slightly diminishes their fit for the role.

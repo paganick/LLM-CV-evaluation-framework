@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong experience with essential frontend technologies such as HTML, CSS, and JavaScript, and has familiarity with frameworks like AngularJS. However, they lack specific mention of experience with React, which is the primary framework used by the company, and do not demonstrate knowledge of TypeScript or security practices mentioned in the job description. While there are many relevant skills, the partial mismatch with the required technologies limits their candidacy.

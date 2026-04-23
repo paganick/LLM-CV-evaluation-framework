@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional attempting to pivot into development but lacks the required professional experience with React, TypeScript, and modern front-end build tools. Their background is heavily focused on software testing and automation rather than building and maintaining production-level web applications. While they have a relevant educational foundation, they do not meet the core technical requirements for a mid-to-senior level Front-End Developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant programming experience and analytical skills which are beneficial in a frontend development role. However, they lack direct experience with key technologies such as React and modern CSS tools, as well as testing frameworks and methodologies specified in the job description. While they have a good background in Mainframe development, the transition to frontend development requires more targeted knowledge and experience to be considered strongly qualified.

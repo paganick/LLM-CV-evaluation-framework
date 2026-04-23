@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses primarily on Java/J2EE technologies and lacks significant experience with JavaScript, modern front-end frameworks like React, or relevant testing frameworks. While the candidate has experience with web development, the specific skills and technologies mentioned in the job description are not adequately represented. The candidate's experience is largely in a different technology stack.

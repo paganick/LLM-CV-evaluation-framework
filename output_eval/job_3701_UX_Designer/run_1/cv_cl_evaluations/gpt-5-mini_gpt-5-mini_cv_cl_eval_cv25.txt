@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong, transferable software development and systems-analysis experience, stakeholder collaboration, mentorship and workshop/training exposure, but lacks the required commercial UX designer background and modern UX toolset (no Figma or prototyping evidence, no explicit user research, journey mapping or usability testing examples). There is limited/no evidence of Agile experience or hands-on UI Design System work and only minimal front-end exposure (some HTML), so they do not meet key role-specific requirements.

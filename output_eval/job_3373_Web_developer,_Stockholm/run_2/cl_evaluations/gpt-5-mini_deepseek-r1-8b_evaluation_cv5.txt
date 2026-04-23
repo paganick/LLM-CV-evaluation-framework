@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong legacy/mainframe experience and technical leadership but provides no demonstrated hands-on experience with the core requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm/Yarn, CI/CD, AWS/Terraform). Their transferable skills and willingness to learn are noted, but the role requires immediate practical expertise in the modern front-end stack. Therefore they are relevant to the industry but lack the specific experience needed for this position.

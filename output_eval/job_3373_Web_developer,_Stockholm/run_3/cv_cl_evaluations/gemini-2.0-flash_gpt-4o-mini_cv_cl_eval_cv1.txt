@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in several key technologies outlined in the job description, including JavaScript, React, HTML, CSS, and Git. They also possess experience in test automation. There is a lack of explicit mention of TypeScript and specific testing frameworks used (Jest, TestCafe, Cypress etc.) in the resume and cover letter, and limited exposure to the NodeJS ecosystem or CI/CD tools as desired in the job description.

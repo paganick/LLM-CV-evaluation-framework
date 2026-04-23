@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Senior MDM Architect with no professional experience in User Experience Design, failing to meet the requirement for 2-3 years of commercial UX experience. Their background is strictly focused on backend data management, TIBCO, and system architecture, lacking any evidence of prototyping with Figma or conducting formal user research. Furthermore, they lack the specific domain expertise necessary to manage a UI Design System or mentor a Junior UX Designer as required by the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design with only basic HTML/CSS and explicitly limited JavaScript/TypeScript experience, and they do not demonstrate hands-on experience with React, testing/automation, Node/npm, or CI/CD which are core to the role. While they show strong design, collaboration skills, and a willingness to learn, they lack the specific, practical front-end development experience required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry (web development) but lacks nearly all specific, hands-on experience required by the job description. There is no demonstrated experience with React, TypeScript, modern testing frameworks, Git, security concepts, or any of the listed modern tools. While the candidate shows foundational web knowledge and a strong work ethic, this is an entry-level profile applying for a role requiring specific, practical experience with a modern tech stack.

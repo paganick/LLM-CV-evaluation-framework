@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business, sales, and training, lacking direct front-end engineering experience. While the cover letter expresses enthusiasm and a willingness to learn, it doesn't demonstrate the required hands-on skills with JavaScript, React, testing frameworks, or other listed technologies. The letter highlights transferable skills, but the absence of practical engineering experience makes them a weak fit for the job description.

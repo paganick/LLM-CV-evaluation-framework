@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses almost entirely on hardware troubleshooting, IT support, and outdated technologies (Windows 95-8, ActionScript) with professional experience that appears to have ended in 2012. While the cover letter claims proficiency in modern frontend frameworks like React and testing tools like Cypress, these skills are not supported by the resume's work history or education. The applicant lacks the required professional experience in modern software engineering, TypeScript, and CI/CD pipelines.

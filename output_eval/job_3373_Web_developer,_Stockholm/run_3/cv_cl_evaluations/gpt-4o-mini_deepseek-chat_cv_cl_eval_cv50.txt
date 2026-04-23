@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in business development and project management, which is relevant but does not meet the specific technical requirements for a Front End Developer role. While they have some experience in quality engineering and an educational background in computer science, their lack of hands-on experience with JavaScript, TypeScript, React, and modern front-end frameworks significantly limits their qualifications for this position.

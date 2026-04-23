@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and marketing, a completely different field than software engineering. While they mention some basic knowledge of HTML, CSS, Java, and SQL, it's not at the depth required for a front-end developer role, particularly with React. The cover letter attempts to bridge this gap, but the resume lacks concrete experience with the required technologies, testing frameworks, and modern development practices.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in client engagement and training but lacks hands-on experience directly related to software development and the specific technologies mentioned in the job description. While they express a willingness to learn, they do not demonstrate the required proficiency in modern front-end frameworks, specific testing frameworks, and CI/CD tools that are essential for the role.

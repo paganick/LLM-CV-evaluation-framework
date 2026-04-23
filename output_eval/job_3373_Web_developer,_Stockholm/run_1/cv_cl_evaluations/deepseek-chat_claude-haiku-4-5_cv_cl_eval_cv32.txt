@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in customer service, sales, and management, with no demonstrated experience in software development, JavaScript, React, or any other technical skills listed in the job description. While they express enthusiasm for learning, the resume shows zero relevant technical qualifications or projects. This is a complete mismatch for a frontend developer role requiring specific, hands-on technical expertise.

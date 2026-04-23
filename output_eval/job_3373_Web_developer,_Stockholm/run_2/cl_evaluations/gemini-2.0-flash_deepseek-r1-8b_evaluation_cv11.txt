@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not development. While they claim familiarity with JavaScript, HTML, and CSS, the letter lacks concrete examples of development projects or experience with React, the framework used by the company. The letter emphasizes interest in learning rather than demonstrating existing skills in the core technologies listed.

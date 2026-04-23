@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java Backend and Test Automation Engineer whose experience with the required React/TypeScript stack is secondary and lacks professional depth. Essential requirements such as Jest, Cypress, and functional programming are not supported by the resume's project history, which focuses heavily on Selenium and Spring Boot. Consequently, the candidate lacks the specific frontend-focused profile and modern JavaScript testing expertise mandated by the job description.

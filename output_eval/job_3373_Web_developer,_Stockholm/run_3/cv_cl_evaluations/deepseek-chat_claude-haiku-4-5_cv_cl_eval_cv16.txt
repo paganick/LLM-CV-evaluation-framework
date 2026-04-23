@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend and full-stack development with minimal modern frontend framework experience, lacking direct React, TypeScript, or modern CSS tool proficiency required by the job description. While they demonstrate relevant soft skills (Agile, collaboration) and foundational web knowledge (JavaScript, HTML, CSS, Git), the core technical stack mismatch is significant. The candidate expresses eagerness to learn but does not meet the specific hands-on experience requirements for the role.

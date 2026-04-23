@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several key required skills, including JavaScript, TypeScript, React, testing, and Git. However, the cover letter is generic, fails to address many specific requirements from the job description (e.g., security knowledge, modern CSS tools, specific testing frameworks, Agile, Node.js), and includes irrelevant details like electronics engineering and "Beverage QA tests." The application shows a partial match but lacks the depth and specificity required for the role.

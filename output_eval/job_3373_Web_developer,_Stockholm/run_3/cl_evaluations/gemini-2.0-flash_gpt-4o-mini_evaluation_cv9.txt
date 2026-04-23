@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid understanding of fundamental frontend technologies and Agile methodologies. However, their primary experience is in Java (JEE) programming, not frontend development, and they lack explicit experience with React, the framework used by the company. While they mention familiarity with some testing frameworks, their knowledge of the broader frontend ecosystem (NodeJS, specific testing tools like Jest/Cypress, linters) appears limited.

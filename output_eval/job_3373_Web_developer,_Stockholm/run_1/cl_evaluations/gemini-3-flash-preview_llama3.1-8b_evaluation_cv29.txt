@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical engineering position, as their background is in business development and sales rather than software development. While they mention a high-level understanding of APIs, the cover letter fails to demonstrate any proficiency in the required tech stack, including JavaScript, React, TypeScript, or modern testing frameworks. There is a complete lack of evidence regarding hands-on coding experience, which is the primary requirement for this role.

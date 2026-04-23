@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React, which is crucial for the role. Their experience leans more towards general IT management and older technologies. While they express willingness to learn, the resume doesn't showcase hands-on experience with testing frameworks or CI/CD tools mentioned in the job description.

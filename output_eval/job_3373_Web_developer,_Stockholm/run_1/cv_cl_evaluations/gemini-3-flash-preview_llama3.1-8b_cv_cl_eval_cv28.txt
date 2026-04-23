@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Materials Analyst and Metallurgical Engineer with zero experience in software engineering, JavaScript, or front-end frameworks like React. They do not possess any of the required technical skills such as TypeScript, CSS, web security, or CI/CD tools. This is a complete industry and role mismatch, as the candidate's background is in manufacturing and supply chain rather than web development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in roles related to sales, training, and client engagement, but lacks direct experience in software development and the specific technical skills required by the job such as JavaScript, TypeScript, and modern front-end frameworks. While they express a willingness to learn and adapt, the absence of relevant technical expertise and experience with testing, Git, and security concepts significantly limits their fit for the role.

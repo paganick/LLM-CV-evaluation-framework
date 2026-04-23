@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong IT project management, leadership, and SDLC/Agile experience, but provides no evidence of hands-on front-end development skills (JavaScript/TypeScript, React, HTML/CSS) or practical experience with testing frameworks, Git/GitHub, NodeJS, CI/CD, or cloud/infra tools required by the role. Their cover letter notes indirect exposure through vendor interactions rather than direct technical execution, making them an unsuitable hire for a hands-on frontend engineering position.

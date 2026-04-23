@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career changer who lacks the required professional hands-on experience with React, TypeScript, and the modern frontend ecosystem specified in the job description. While they possess academic foundations and transferable soft skills from the construction industry, they fail to demonstrate practical proficiency in testing, CI/CD, or cloud infrastructure. This profile does not meet the technical seniority level suggested by the extensive list of tool requirements.

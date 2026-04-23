@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware electronics and general software testing, failing to demonstrate necessary proficiency in the modern front-end stack (React, TypeScript, HTML/CSS). There is no mention of essential tools like Git, CI/CD, or web-specific testing frameworks such as Jest and Cypress. While they possess a software industry background, their expertise in circuit diagnostics and legacy testing tools does not align with the requirements of a modern web development role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in HTML, CSS, and SQL, and demonstrates strong collaboration skills. However, they lack experience in essential technologies such as JavaScript, TypeScript, and modern frontend frameworks like React. Additionally, there is no mention of experience with testing automation, Git, or mentioned security practices, which are crucial for the role.

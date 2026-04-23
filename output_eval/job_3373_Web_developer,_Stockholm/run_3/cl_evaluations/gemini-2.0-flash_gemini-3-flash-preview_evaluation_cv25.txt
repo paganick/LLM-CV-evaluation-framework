@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend technologies like React, HTML, CSS, and associated tooling. They also showcase familiarity with Agile methodologies and Git. While they express interest in NodeJS and Ramda, they lack direct experience, and the absence of experience with CI/CD tools is a slight drawback.

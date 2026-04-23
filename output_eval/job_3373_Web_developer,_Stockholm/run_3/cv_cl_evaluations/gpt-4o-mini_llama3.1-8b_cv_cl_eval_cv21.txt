@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in software development and has skills in JavaScript, HTML, CSS, and some familiarity with front-end frameworks, including AngularJS. However, they lack hands-on experience with React, modern testing frameworks like Jest or TestCafe, and knowledge of CI/CD tools and web security, which are critical for this position. Their background suggests potential but does not fully meet the job requirements.

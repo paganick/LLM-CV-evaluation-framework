@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in front-end technologies such as JavaScript, TypeScript, HTML, and CSS, and has hands-on experience with Git and repository management. They show familiarity with testing strategies and express an interest in web security practices. However, they do not address specific modern CSS tools or mention experience with testing frameworks mentioned in the job description, which slightly diminishes their alignment with the role.

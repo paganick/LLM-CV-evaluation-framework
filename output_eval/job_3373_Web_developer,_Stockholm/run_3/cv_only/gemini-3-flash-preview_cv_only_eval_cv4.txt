@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks mandatory professional experience with React and TypeScript, which are central requirements for this role. Their background is heavily focused on .NET, C#, and machine learning rather than modern frontend frameworks, testing libraries like Jest or Cypress, and CI/CD pipelines. While they have a relevant engineering degree and general JavaScript knowledge, they do not possess the specific technical skill set or ecosystem experience required for this position.

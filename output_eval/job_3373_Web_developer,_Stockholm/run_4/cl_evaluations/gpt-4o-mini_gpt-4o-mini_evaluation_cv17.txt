@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and some foundational knowledge of web technologies. However, they lack direct hands-on experience with several specific tools and frameworks mentioned in the job description, such as Styled Components, SASS, and testing frameworks like Jest or Cypress, limiting their suitability for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some fundamental skills mentioned in the job description (HTML, CSS, JavaScript, Git). However, the resume focuses heavily on .NET technologies rather than modern front-end frameworks like React (the primary framework used by the company). There is limited evidence of the specific testing frameworks and tools mentioned in the job description, and no mention of other desired skills like CI/CD or AWS.

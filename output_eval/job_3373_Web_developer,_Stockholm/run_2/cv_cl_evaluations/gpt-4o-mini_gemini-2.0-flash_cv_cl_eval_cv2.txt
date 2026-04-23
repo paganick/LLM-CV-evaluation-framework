@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software development and a good understanding of Java/J2EE technologies, but lacks specific frontend skills required for the role, particularly with JavaScript, TypeScript, and modern frameworks such as React. Additionally, their experience with testing frameworks, modern CSS tools, and concepts related to web security is minimal, which does not fully align with the job requirements.

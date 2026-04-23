@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in business development and sales within the cloud software industry, but lacks the necessary hands-on experience and technical skills in programming languages such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is no indication of experience with testing automation, CI/CD tools, or familiarity with security protocols relevant to the role, which significantly limits their fit for the position.

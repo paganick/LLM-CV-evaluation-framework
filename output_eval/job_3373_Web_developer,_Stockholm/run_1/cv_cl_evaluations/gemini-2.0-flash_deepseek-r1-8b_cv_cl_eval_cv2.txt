@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Java/J2EE, which is not the focus of the job description. While the candidate expresses interest in learning JavaScript, TypeScript, and React, their resume lacks concrete experience in these areas. The cover letter attempts to bridge the gap by highlighting transferable skills, but the lack of direct FE framework experience is a significant drawback.

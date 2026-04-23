@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience with JavaScript, HTML/CSS, Git, and Agile practices, but their background is primarily in jQuery/ASP.NET and lacks hands-on experience with React and TypeScript which are core requirements. They also do not demonstrate modern frontend tooling and testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem knowledge, or CI/CD and cloud infrastructure experience required for this role. Given these significant gaps in essential technologies, they are not a strong match for the position.

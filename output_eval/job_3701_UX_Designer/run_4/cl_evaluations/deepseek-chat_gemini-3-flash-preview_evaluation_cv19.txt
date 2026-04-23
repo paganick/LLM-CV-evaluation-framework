@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates strong alignment with key job requirements, including Agile experience, workshop facilitation, mentoring, and user research. However, the cover letter lacks explicit mention of the primary prototyping tool (Figma) and front-end technical exposure (HTML/CSS/JS), which are desirable for managing the UI Design System. The background is highly relevant but not a perfect, direct match for all specified technical criteria.

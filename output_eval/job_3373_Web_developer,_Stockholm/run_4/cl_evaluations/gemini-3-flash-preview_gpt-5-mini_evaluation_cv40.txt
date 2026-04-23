@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior product leader applying for a highly technical engineering role without possessing the mandatory hands-on experience in JavaScript, TypeScript, or React. While they have extensive industry experience, they explicitly admit to lacking implementation expertise and would require significant training to meet the core technical requirements. This profile is a fundamental mismatch for a position requiring established front-end engineering and testing automation skills.

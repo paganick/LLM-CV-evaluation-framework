@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, not software engineering. The resume and cover letter lack any demonstrable professional experience with the core technologies listed in the job description, such as React, TypeScript, or modern testing frameworks. While the cover letter attempts to align with the role's language, it does not provide evidence of hands-on frontend development skills, making the candidate unqualified for this technical position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid frontend fundamentals (JavaScript, HTML, CSS), Styled Components/SASS, Git, and some security awareness, but lacks explicit experience with React and TypeScript which are core to the role. Their testing experience is primarily Selenium/Behat rather than the requested modern JS testing frameworks (Jest/Cypress/TestCafe), and they only express aspirational familiarity with Ramda, NodeJS tooling, CI/CD, and AWS/Terraform. Overall relevant to the industry but missing several specific, required skills.

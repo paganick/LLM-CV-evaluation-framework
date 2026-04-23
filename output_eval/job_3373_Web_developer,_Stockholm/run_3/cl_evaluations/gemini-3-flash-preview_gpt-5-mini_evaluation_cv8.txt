@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all the core technical requirements for the role, including professional experience with JavaScript, TypeScript, React, and modern CSS. Their decade of experience is in electronics and firmware testing, which does not translate to the web development stack specified in the job description. While the candidate has a strong testing mindset, they are currently unqualified for a front-end engineering position.

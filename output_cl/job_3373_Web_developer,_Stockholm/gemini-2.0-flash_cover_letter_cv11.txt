@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. With over three years of experience in software testing and a strong foundation in front-end technologies, I am confident I possess the skills and passion to excel in this role at your company.
+
+My experience includes manual and automation testing of web and mobile applications, with a focus on ensuring quality and performance. I have hands-on experience in preparing test plans, test cases, and automated tests. I am proficient in JavaScript, HTML, and CSS, and I am eager to expand my knowledge into modern front-end frameworks like React.
+
+I have experience developing automation test cases using GoogleUIAutomator testing framework.
+
+I am familiar with Agile methodologies and am a strong collaborator. I have experience working in teams, communicating with developers and project coordinators. I am also passionate about writing clean code and staying up-to-date with the latest technologies.
+
+My previous roles as a Test Analyst and Quality Analyst have equipped me with the analytical and problem-solving skills necessary to succeed in this position. I have a proven track record of delivering high-quality software and meeting tight deadlines. My Master of Engineering degree in Software Engineering, further solidified my understanding of software development principles and practices.
+
+I am excited about the opportunity to contribute my skills and experience to your team and am particularly interested in your company's focus on React. I am confident that I can quickly learn and adapt to your technology stack and contribute to the success of your projects.
+
+Sincerely,
+Alexis

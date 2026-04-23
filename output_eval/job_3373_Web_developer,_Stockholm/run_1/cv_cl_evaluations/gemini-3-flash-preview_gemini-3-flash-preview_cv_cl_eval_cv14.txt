@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in web development, their experience is heavily centered on the .NET ecosystem and legacy technologies like jQuery and ColdFusion rather than the required modern frontend stack. They lack professional experience with React, TypeScript, and functional programming, which are core requirements for this role. Furthermore, there is no evidence of hands-on work with the specified testing frameworks or CI/CD tools mentioned in the job description.

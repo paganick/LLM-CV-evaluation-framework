@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a technical background in systems engineering and IT, the resume lacks any professional experience or demonstrable skills in JavaScript, TypeScript, React, or modern front-end development. The professional history provided ends in 2015 and focuses entirely on infrastructure and system administration rather than software engineering. Although the cover letter claims proficiency in the required stack, the resume provides no evidence of these skills in a professional or project-based capacity.

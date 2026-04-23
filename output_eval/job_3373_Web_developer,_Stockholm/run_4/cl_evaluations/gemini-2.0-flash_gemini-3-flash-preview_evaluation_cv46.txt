@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate highlights relevant skills such as JavaScript, HTML, CSS, React, testing, and Git, which align well with the job description. They also mention familiarity with security concepts like OAuth and CSP. While they don't explicitly mention TypeScript or specific tools like Styled Components or SASS, their experience with similar technologies and willingness to learn makes them a strong candidate.

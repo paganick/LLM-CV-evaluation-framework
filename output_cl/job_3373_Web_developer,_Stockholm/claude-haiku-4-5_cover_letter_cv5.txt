@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With over seven years of professional software development experience and a demonstrated commitment to writing clean, maintainable code, I am confident in my ability to contribute meaningfully to your React-focused team.
+
+Throughout my career, I have developed a solid foundation in core web technologies. My experience includes working with HTML, CSS, and JavaScript across various projects, and I have gained exposure to modern frameworks and libraries during my technical work. I am particularly drawn to your use of React and am eager to deepen my expertise in this framework and the broader frontend ecosystem.
+
+My background demonstrates strong testing sensibilities, having worked extensively with quality assurance methodologies, unit testing, and debugging across multiple platforms. I am committed to understanding and implementing comprehensive testing strategies, including unit tests, integration tests, and end-to-end testing frameworks. Additionally, I have hands-on experience with Git and version control systems, understanding their critical role in collaborative development environments.
+
+What sets me apart is my proven ability to thrive in team-oriented, agile environments. Throughout my tenure at HSBC, I managed teams of over seven members, mentored junior developers, and collaborated effectively across departments. I am genuinely passionate about understanding the complete domain and how different systems interact, not just my area of expertise. This perspective has made me an effective communicator with both technical and non-technical stakeholders.
+
+I recognize that my primary experience lies in mainframe technologies, representing a significant career pivot. However, I am deeply committed to this transition and have already begun building my frontend competencies. My strong analytical skills, proven ability to master new technologies quickly, and genuine enthusiasm for modern web development position me well for rapid skill acquisition in areas such as CSS tools, testing frameworks, and the Node.js ecosystem.
+
+I am particularly excited about the opportunity to work in an environment that values continuous learning and staying current with technology trends. My documentation expertise and knowledge-sharing background ensure I can contribute to team growth while remaining focused on writing truly clean code.
+
+Thank you for considering my application. I am eager to discuss how my strong fundamentals, collaborative spirit, and commitment to professional growth can benefit your team.
+
+Sincerely, Alexis

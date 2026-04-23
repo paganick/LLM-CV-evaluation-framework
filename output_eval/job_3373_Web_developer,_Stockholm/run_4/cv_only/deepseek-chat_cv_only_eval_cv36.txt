@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in microbiology, pharmaceutical quality control, and laboratory management, with no mention of any software development, front-end technologies, or related skills. The job description requires expertise in JavaScript, TypeScript, React, testing frameworks, and modern web development tools, for which the candidate shows zero relevant experience. This is a complete mismatch in industry and core professional competencies.

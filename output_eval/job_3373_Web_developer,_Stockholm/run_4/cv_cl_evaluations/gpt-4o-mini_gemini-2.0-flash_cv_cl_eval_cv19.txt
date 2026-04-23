@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and some experience with HTML and CSS, which shows potential for the front-end development role. However, they lack significant experience with the required JavaScript frameworks (React, VueJS, etc.), testing automation tools, and the understanding of web security practices outlined in the job description. Additionally, their overall experience does not sufficiently demonstrate the technical skills necessary for the position.

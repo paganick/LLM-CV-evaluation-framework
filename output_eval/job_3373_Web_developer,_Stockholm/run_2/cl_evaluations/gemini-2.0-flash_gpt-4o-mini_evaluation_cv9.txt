@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's experience is heavily focused on Java and JEE, which isn't the primary focus of the Frontend Developer role. While they claim adeptness in JavaScript, the letter emphasizes their Java background. They mention familiarity with some, but not all, relevant technologies, such as React, TypeScript and specific testing frameworks listed in the job description.

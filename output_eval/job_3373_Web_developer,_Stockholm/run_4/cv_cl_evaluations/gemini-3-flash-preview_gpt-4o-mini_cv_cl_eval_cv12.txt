@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses significant general software engineering experience, the resume focuses heavily on legacy technologies like PHP, C++, and Perl rather than the required modern JavaScript/TypeScript stack. There is a notable lack of professional evidence for the React, cloud infrastructure, and automated testing requirements specified in the job description. The cover letter claims proficiency in these areas, but the work history fails to substantiate these skills through specific projects or professional roles.

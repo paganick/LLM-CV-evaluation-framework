@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior graphic and product designer who lacks the fundamental technical requirements for a modern front-end engineering role, including JavaScript, TypeScript, and React. While they have extensive experience in visual design and basic HTML, they possess no professional experience with testing frameworks, version control, or modern development workflows. Their profile is suited for a creative design position rather than a high-level software engineering team.

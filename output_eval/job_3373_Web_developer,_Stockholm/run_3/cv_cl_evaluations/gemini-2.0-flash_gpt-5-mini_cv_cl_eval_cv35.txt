@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not front-end engineering. While they express interest in learning relevant technologies like React and TypeScript, they lack demonstrable experience in these areas. Their skills in QA, integrations, and collaboration are transferable, but the core technical skills required for the role are missing.

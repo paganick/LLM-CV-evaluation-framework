@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates extensive visual design and front-end development experience, a relevant BA, and a portfolio link with product work, meeting the years-of-experience requirement. However the resume is poorly formatted, lists outdated tool versions (Adobe CS6) and does not explicitly show use of required wireframing/prototyping tools (e.g., InVision, Wireframe.cc), clear UX deliverables (sitemaps, research collaboration), or consistent professional certifications, which raises concerns about specific UX process alignment and attention to detail.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrated experience with core front-end technologies required (JavaScript, TypeScript, HTML/CSS, React) nor modern tooling (testing frameworks, Git, Node ecosystem). Their background is predominantly business development, program management, and legacy IT/quality engineering, which does not satisfy the hands-on front-end engineering requirements. While they hold a historical CS degree and express willingness to learn, they do not currently meet the technical skillset for this role.

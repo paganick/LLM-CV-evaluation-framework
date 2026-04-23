@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong, long-term graphic design experience and a portfolio, but does not document the required 3+ years specifically in UI/UX or a relevant degree/equivalent. Key technical requirements are missing or unclear—no mention of wireframing/prototyping tools (InVision, Wireframe.cc, Figma/Sketch) or modern UX workflow (sitemaps, process flows, prototypes). Tooling is dated (Adobe CS5) and there is no clear evidence of collaboration with UX researchers, product managers, or engineers, so the fit is limited.

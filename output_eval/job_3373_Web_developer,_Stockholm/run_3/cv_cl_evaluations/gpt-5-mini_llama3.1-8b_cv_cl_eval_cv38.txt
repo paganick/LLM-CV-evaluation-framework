@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in film/TV production with no demonstrated experience in JavaScript/TypeScript, React (or other modern front-end frameworks), CSS, testing, Git, Node.js, or related web security and cloud tooling required by the role. The cover letter's claims of transferable project-management skills and general software familiarity do not provide the specific technical competencies this position requires. This is a wrong-industry fit and does not meet the core technical qualifications.

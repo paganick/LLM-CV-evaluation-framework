@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong software development background and highlights experience with technologies mentioned in the job description, such as React, Jest, Styled Components, SASS, ESLint, Prettier, Node.js, npm, Yarn, Express.js, Ramda, and CircleCI. They also emphasize collaboration, Agile experience, and a passion for clean code, which aligns well with the requirements. While they list many skills, the depth of experience with each skill relevant to the role is difficult to assess from the letter alone, preventing a higher score.

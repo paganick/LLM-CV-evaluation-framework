@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web experience (JavaScript, HTML/CSS, jQuery/Angular) and strong project management and Agile background, but their hands-on front-end engineering experience appears limited and dated. They lack demonstrated proficiency in core requirements: React, TypeScript, modern testing frameworks and automation, Node/npm tooling, modern CSS tooling, CI/CD, and cloud/infra familiarity. Given the gap in required technical skills and limited evidence of recent engineering depth, they are not a strong fit for this Front End Developer role.

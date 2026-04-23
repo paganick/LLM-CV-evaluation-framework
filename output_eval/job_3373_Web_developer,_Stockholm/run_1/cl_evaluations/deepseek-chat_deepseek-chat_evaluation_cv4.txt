@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements (React, TypeScript, testing, clean code, Agile) and provides relevant, quantified experience. However, the cover letter does not explicitly mention several key items from the job description, such as security knowledge (OWASP, CORS), specific modern CSS tools, CI/CD, AWS/Terraform, or functional programming with Ramda. While a strong match, the absence of these specifics prevents a higher score.

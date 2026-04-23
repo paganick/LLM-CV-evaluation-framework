@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid JavaScript/HTML/CSS fundamentals, testing awareness, Git usage, web security knowledge and strong collaborative/Agile experience, making them relevant to the role. However, they do not demonstrate required hands-on experience with React and TypeScript, modern CSS tools (Styled Components/SASS), the Node/npm ecosystem, specific testing frameworks (Jest/Cypress/TestCafe), functional tools like Ramda, or CI/CD/AWS familiarity, so they lack key, role-critical skills.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in graphic design and the arts but lacks specific qualifications in web development technologies such as JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the role. Additionally, there is no evidence of experience with testing and automation frameworks, nor familiarity with CI/CD tools or knowledge of security on the web. Overall, their background is not aligned with the job requirements.

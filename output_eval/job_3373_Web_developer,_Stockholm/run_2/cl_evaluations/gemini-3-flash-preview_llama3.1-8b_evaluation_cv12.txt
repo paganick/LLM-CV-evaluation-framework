@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has over 7 years of experience and explicitly mentions React and testing methodologies, they fail to address several core requirements, most notably TypeScript and Web Security (OWASP, CSP). The technical highlights focus on legacy or unrelated stacks like PHP and C++, suggesting a potential gap in the modern tooling and ecosystem specified in the job description.

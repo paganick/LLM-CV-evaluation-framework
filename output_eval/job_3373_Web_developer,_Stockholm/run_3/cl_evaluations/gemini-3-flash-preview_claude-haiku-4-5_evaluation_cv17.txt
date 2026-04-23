@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer from an unrelated industry and lacks any professional track record in software development. While they demonstrate strong transferable project management skills, they admit to still being in the process of "building proficiency" and "learning" core technical requirements like testing, TypeScript, and web security. Consequently, they fail to meet the "hands-on experience" criteria essential for this engineering role.

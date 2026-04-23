@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in technical project management and digital marketing, not in dedicated front-end engineering. While they mention JavaScript, HTML, CSS, and Angular, the job requires deep, hands-on expertise in React, modern testing frameworks, and specific tools like Styled Components, Jest, and CI/CD, which are not demonstrated. Their experience is managerial and broad, lacking the specific, current technical proficiencies and "genuine passion for writing (truly) clean code" in a modern FE stack that the role demands.

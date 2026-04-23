@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a strong Java backend and test automation background, but lacks the required modern frontend expertise. The job description emphasizes React, TypeScript, and modern CSS tools, while the candidate's experience with React/AngularJS is outdated and not the primary focus of their career. The cover letter overstates alignment with the frontend and testing stack, as the resume does not demonstrate recent, hands-on experience with the specific technologies listed.

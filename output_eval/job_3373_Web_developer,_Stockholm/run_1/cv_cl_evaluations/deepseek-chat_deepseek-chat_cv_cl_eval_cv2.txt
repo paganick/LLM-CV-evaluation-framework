@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is almost exclusively in Java/J2EE backend development, with no verifiable commercial experience in the required frontend technologies (React, TypeScript, modern CSS). While the cover letter claims self-study, the resume provides no evidence of projects or roles using JavaScript frameworks, testing libraries, or the specific tools listed in the job description. The candidate is in the relevant software industry but critically lacks the hands-on, professional frontend development skills required for the role.

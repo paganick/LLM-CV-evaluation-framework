@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in industrial/manufacturing engineering and quality control, which is a completely different industry from the required digital sales, application services, or business analytics. The resume and cover letter show no evidence of client-facing sales, pre-sales, or consulting experience, nor any experience in the specified technology domains (API, Cloud, DevOps, Microservices, BigData, UX/UI). The technical skills listed are not relevant to the digital solutions sales context described in the job description.

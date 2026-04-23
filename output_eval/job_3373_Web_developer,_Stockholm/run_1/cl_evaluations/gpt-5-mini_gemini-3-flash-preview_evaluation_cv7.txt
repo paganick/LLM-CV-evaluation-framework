@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate clearly meets the core frontend requirements (JavaScript/TypeScript/HTML/CSS/React), modern CSS tools, testing (Jest/Cypress), Git/GitHub, Node/npm and demonstrates Agile collaboration and security awareness. However, they do not explicitly show experience with several listed items (Yarn, Express.js, linters/formatters like ESLint/Prettier, CSP/OAuth, Terraform) and describe AWS/CI knowledge as only basic. Overall a strong frontend candidate but not a perfect match due to gaps in backend/infra and tooling specifics.

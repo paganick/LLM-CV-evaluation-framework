@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with HTML and CSS, which are required for the position, but there is no specific experience with JavaScript, TypeScript, or modern frameworks like React. Their background is primarily in digital marketing and project management rather than front-end engineering, which may limit their ability to fulfill the technical demands of the role. While they have relevant skills, they lack direct experience in the necessary programming languages and frameworks, making them a relevant but incomplete fit for the position.

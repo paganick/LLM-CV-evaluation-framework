@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match with over five years of experience and direct proficiency in the core stack, specifically React, Node.js, and API design. They successfully address specific cultural and technical requirements such as web security (OWASP), CI/CD, and the "full domain" perspective. However, the score is limited because the candidate failed to explicitly mention TypeScript or Git, both of which were highlighted as primary requirements in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background mainly in the advertising industry and lacks significant experience with key technologies listed in the job description, such as JavaScript frameworks (React, Angular, VueJS) and testing methodologies. While there are some technical skills related to databases and Java, they do not meet the core requirements for the software engineering position, particularly in front-end development and modern web technologies.

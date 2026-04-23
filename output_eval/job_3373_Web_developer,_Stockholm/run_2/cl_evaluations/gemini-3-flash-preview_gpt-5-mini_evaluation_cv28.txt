@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical qualifications, including proficiency in JavaScript, TypeScript, and React, which are central to the role. While they possess strong transferable skills in data analysis and quality assurance within the manufacturing sector, they have no professional experience in software engineering or web development. As a strict recruiter, I find the candidate entirely unqualified for a mid-to-senior level front-end engineering position.

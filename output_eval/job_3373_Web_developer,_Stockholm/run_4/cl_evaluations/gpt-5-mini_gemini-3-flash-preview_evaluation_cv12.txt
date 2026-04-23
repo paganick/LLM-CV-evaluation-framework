@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience with JavaScript, front-end technologies (HTML/CSS/SASS), testing (Jest/Cypress), Git, API design and web security, and claims functional programming and CI/CD familiarity, making them a good match. However, they do not explicitly demonstrate TypeScript, concrete React project experience, or familiarity with the Node.js ecosystem (npm/Yarn/Express), Styled Components, linters/formatters, specific CI tooling (CircleCI), or AWS/Terraform, which keeps them from scoring higher.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in IT support and field service, lacking concrete experience with modern front-end development. While the cover letter mentions familiarity with some relevant technologies, the resume doesn't reflect hands-on experience with JavaScript, TypeScript, React, or related frameworks. The experience is more tangential, not directly aligned with the core requirements of the job description.

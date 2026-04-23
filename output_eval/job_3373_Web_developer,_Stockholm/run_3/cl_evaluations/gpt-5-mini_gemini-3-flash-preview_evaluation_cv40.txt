@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong, directly relevant experience with JavaScript/TypeScript, React, modern CSS (SASS/Styled Components), testing (Jest, Cypress), Node.js/Express, Ramda, CI/CD (CircleCI), AWS/Terraform, and Agile—matching most requirements. However, they do not explicitly state basic web security knowledge (OWASP, CSP, CORS, OAuth) nor mention linters/formatters (ESLint/Prettier) or GitHub specifically, so this is not a perfect fit.

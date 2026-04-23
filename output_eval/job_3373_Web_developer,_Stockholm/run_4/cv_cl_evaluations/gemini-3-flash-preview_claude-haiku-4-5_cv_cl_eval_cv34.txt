@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and modern testing frameworks like Jest or Cypress. Their professional background is centered on marketing automation and implementation consultancy rather than software engineering. While the applicant has basic HTML/CSS knowledge, they do not possess the necessary experience with Git, CI/CD, or the Node.js ecosystem required for this role.

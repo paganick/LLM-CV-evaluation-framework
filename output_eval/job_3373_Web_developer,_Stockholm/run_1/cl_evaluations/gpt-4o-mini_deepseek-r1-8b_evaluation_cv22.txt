@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in database systems and backend development, with relevant projects demonstrated. However, their experience lacks in key requirements such as modern frontend frameworks like React, specific testing frameworks, and hands-on experience with CI/CD tools, which are crucial for the role. This limits their alignment with the job description, resulting in a score reflecting relevant industry experience but insufficient specific skills.

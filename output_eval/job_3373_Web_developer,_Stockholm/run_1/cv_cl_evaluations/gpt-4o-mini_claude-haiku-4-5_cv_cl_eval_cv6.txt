@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend technologies such as JavaScript, HTML, and CSS, as well as knowledge of modern styling tools like SASS. However, they lack direct experience with React and modern testing frameworks like Jest or Cypress, which are critical for the role. While they demonstrate a collaborative and quality-focused approach, there are gaps in specific technologies and frameworks mentioned in the job description.

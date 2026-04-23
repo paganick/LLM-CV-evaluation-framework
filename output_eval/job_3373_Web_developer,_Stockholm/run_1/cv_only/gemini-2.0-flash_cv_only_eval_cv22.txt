@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume is heavily focused on media planning and buying, with limited and outdated technical skills. While they mention HTML and CSS, there's no evidence of modern FE frameworks, testing, or other required technologies. The experience is primarily in marketing, not software development.

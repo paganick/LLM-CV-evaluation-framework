@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX experience (wireframes, prototyping with Axure, user research, usability testing and some leadership) and basic HTML/CSS skills, meeting the minimum years in UX. However they lack explicit Agile experience, do not list Figma or modern design-system tooling, and recent roles focus on presentation/multimedia rather than ongoing UX team management, sprint running or clear product delivery responsibilities. Overall, relevant background but missing several key and preferred requirements for this role.

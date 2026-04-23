@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Construction Scheduler position at your organization, bringing my unique blend of technical skills and project management experience to a new field. Although my background is in software development, I am confident that my analytical mindset, planning abilities, and attention to detail can be effectively applied to construction projects.
+
+As a skilled programmer with 2 years of experience in web development using Microsoft .Net technologies, I have honed my skills in designing, planning, developing, and implementing complex software solutions. My proficiency in project management tools such as Visual Studio, Eclipse, and NetBeans has equipped me with the ability to plan, organize, and track progress on large-scale projects. Additionally, my experience working on various projects using Agile methodologies has taught me the importance of collaboration, adaptability, and continuous improvement.
+
+In my previous roles, I have successfully designed and implemented database solutions using Entity Framework, LINQ queries, and ADO.Net data objects. My expertise in Microsoft .Net, including C#, ASP.Net, JavaScript, and jQuery, allows me to effectively analyze and manage complex project requirements. Furthermore, my experience with Red Gate SQL Compare has given me the ability to efficiently deploy databases across different servers.
+
+As a detail-oriented individual with excellent problem-solving skills, I am confident that I can create, maintain, review, and administer construction schedules and plans. My ability to work with cross-functional teams, manage competing priorities, and meet deadlines will enable me to effectively liaise with managers, engineers, and external contractors to ensure project success.
+
+I am particularly drawn to this role because of the opportunity to apply my analytical skills to a new field, leveraging my technical expertise to drive construction projects forward. I am confident that my unique blend of technical skills, project management experience, and passion for problem-solving make me an ideal candidate for this position.
+
+Thank you for considering my application. I look forward to discussing how my skills can be applied to the Construction Scheduler role.
+
+Sincerely,
+Alexis

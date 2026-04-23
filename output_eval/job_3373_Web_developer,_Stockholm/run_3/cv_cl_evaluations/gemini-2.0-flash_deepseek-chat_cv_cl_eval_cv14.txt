@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has experience in web development and mentions JavaScript, HTML, and CSS, their primary focus is on ASP.NET and C#, which are not central to the job description. The cover letter expresses interest in learning React and TypeScript, but lacks demonstrable experience with modern FE frameworks. There is also no mention of testing frameworks, CI/CD, or cloud experience, key requirements of the job.

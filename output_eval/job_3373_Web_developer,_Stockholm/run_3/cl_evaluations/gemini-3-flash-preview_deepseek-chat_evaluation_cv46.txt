@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a decade of general experience in web technologies, they lack the required hands-on professional proficiency with the specific modern stack, including React, TypeScript, and automated testing frameworks. Their admission of needing to "deepen" their experience in these core areas suggests they are not yet ready for a senior-level contribution in this specific environment. Furthermore, the application fails to address several key requirements such as functional programming and specific modern CSS methodologies.

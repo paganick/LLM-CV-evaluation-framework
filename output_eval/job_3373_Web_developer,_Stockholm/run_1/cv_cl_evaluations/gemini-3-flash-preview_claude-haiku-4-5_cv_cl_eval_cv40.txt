@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level product management executive with no professional track record as a software engineer. Despite their experience in the technology industry and leadership of engineering teams, they lack the required hands-on proficiency in JavaScript, TypeScript, React, and automated testing frameworks. Their profile is fundamentally mismatched with a role requiring technical implementation and production-level coding.

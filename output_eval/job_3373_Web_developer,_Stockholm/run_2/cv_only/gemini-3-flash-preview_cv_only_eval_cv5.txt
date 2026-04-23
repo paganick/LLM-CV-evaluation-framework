@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified as their professional experience is centered on legacy Mainframe technologies (COBOL, CICS, JCL) rather than the modern web stack required (React, TypeScript, NodeJS). There is no evidence of experience with modern frontend frameworks, CI/CD tools, or cloud infrastructure mentioned in the job description. Additionally, the candidate's listed professional experience ends in 2014, representing a significant gap in relevant industry practice.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant experience in project management and writing but lacks specific technical skills required for the role, such as proficiency in JavaScript, TypeScript, or modern front-end frameworks like React. There is no indication of familiarity with testing frameworks, CI/CD tools, or any of the mentioned web security practices, making them a less suitable candidate for the position.

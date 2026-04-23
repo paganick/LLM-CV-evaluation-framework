@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Bachelor of Science in Computer Science and some relevant experience in technology and project management, but lacks specific hands-on experience with key technologies such as JavaScript frameworks (specifically React), test automation, and web security principles. While there are some transferable skills, the candidate does not meet the core requirements of the job description in modern front-end development.

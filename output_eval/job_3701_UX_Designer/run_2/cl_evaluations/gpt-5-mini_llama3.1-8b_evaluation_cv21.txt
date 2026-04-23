@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong visual, research and design-system experience and claims UX-related responsibilities, but fails to provide clear evidence of the required commercial UX experience and hands-on prototyping tools (no mention of Figma). They only list JavaScript (no HTML/CSS) and give no concrete examples of working in Agile ceremonies, running workshops, or mentoring a junior designer. Overall relevant background but missing several specific, stated requirements for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in marketing and public relations, but lacks direct experience in frontend development and relevant technical skills required by the job description, such as specific frameworks (React) and testing automation tools. While they mention proficiency in JavaScript and familiarity with some modern CSS tools, their experience does not demonstrate the depth in frontend engineering that is needed for this role.

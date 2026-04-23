@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is completely unrelated to professional front-end development. The resume shows no experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technologies listed in the job description. While the cover letter expresses eagerness to learn, the candidate lacks the specific, hands-on technical experience required for the role.

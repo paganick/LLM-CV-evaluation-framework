@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in Java and backend development but lacks specific experience in frontend technologies like React, TypeScript, and modern CSS tools as per the job description. While they demonstrate a commitment to clean code and testing, their expertise in modern frontend frameworks and testing tools is limited, making them a relevant but not fully qualified candidate for this role.

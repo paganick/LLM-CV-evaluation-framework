@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer whose professional experience is limited to graphic design rather than dedicated software development, which is a significant gap for this role. While they demonstrate proficiency in the basic React/TypeScript stack, they completely fail to address mandatory requirements such as Web Security (OWASP, CSP), functional programming, and the NodeJS ecosystem. Their claims regarding testing and CI/CD pipelines lack the specific, hands-on evidence required to verify competency in a production environment.

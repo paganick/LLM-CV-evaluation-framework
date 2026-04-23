@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development but lacks the specific modern front-end skills required. The job description emphasizes React, TypeScript, modern CSS tools, and testing frameworks, none of which are demonstrated in the resume or cover letter. While the candidate shows experience with JavaScript, HTML, CSS, and AngularJS, the overall tech stack is heavily focused on legacy .NET and PHP, making them a poor fit for this specific role.

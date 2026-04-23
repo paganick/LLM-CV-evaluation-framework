@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer whose background and experience do not align with the requirements for a Senior Front-End Developer. They lack essential proficiency in JavaScript, TypeScript, and React, and have no professional history with testing automation, CI/CD, or cloud infrastructure. While they possess basic HTML and CSS knowledge, their career trajectory is rooted in visual arts rather than software engineering.

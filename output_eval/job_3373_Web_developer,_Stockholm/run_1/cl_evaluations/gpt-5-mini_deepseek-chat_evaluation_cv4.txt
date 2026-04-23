@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has five years of relevant experience, solid JavaScript/Node.js and API integration work, and claims testing and React front-end skills, which align with many job expectations. However, the cover letter does not explicitly demonstrate TypeScript experience, modern CSS tools (Styled Components/SASS), CI/CD/AWS/Terraform knowledge, security best practices, or clear Git/GitHub usage, meaning several specific requirements are missing or only implied rather than confirmed.

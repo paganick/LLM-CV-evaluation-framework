@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates strong foundational knowledge of core web technologies and soft skills, they lack practical experience with the primary requirements of the role, specifically React and TypeScript. The letter explicitly admits to a lack of experience with modern tooling and testing frameworks, which are non-negotiable technical components for this position. Consequently, the candidate does not meet the "hands-on" criteria required for an immediate contribution to a modern frontend environment.

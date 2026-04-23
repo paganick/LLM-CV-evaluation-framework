@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows a strong graphic and web-design background with basic HTML, but lacks demonstrated hands-on experience in the role's core technologies (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Node/npm, Git, CI/CD, and web security). The cover letter emphasizes transferable skills and a willingness to learn rather than proven experience or examples, so they are relevant to the industry but do not meet the specific technical requirements for this position.

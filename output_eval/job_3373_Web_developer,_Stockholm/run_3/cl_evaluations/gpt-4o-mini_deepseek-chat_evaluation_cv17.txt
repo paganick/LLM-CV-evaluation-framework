@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in core technologies like JavaScript, TypeScript, HTML, CSS, and React, which aligns well with the job requirements. However, they lack experience with modern CSS tools, additional testing frameworks mentioned in the job description, and CI/CD tools, which slightly diminishes their fit for the role.

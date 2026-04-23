@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates basic front-end skills (HTML, CSS, JavaScript) and eagerness to learn React. However, the cover letter lacks specific examples related to the listed technologies and tools like TypeScript, testing frameworks (Jest, Cypress), modern CSS tools (Styled Components, SASS), and CI/CD. The candidate mentions full-stack concepts, but the job description focuses heavily on front-end expertise.

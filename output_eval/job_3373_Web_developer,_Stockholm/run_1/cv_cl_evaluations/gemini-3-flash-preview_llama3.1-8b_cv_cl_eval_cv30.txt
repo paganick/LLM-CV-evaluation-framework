@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is almost entirely in data analytics, environmental science, and semiconductor manufacturing, lacking the mandatory professional experience in modern JavaScript frameworks, TypeScript, and React. While the cover letter mentions the required technologies, the resume provides no evidence of their application, focusing instead on R, SAS, and SQL. There is a fundamental mismatch between the candidate's data-centric career path and the specific technical requirements for this front-end engineering role.

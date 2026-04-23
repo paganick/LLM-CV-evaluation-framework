@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic front-end fundamentals (JavaScript, HTML, CSS), Git, and Agile experience but their work is predominantly .NET, jQuery and Bootstrap with only two years' experience. They have not demonstrated required experience with React (the stated framework), TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm tooling, modern CSS tools (SASS/Styled Components), or CI/CD/cloud (AWS/Terraform). Given the gap in core technologies and modern front-end practices the candidate is not a strong fit for this role.

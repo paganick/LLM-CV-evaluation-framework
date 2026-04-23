@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is heavily focused on Drupal, which isn't the primary focus of the job description. While they mention JavaScript, HTML, and CSS, the cover letter focuses on Drupal-specific tasks. The resume lacks explicit mention of modern FE frameworks like React, and the experience with testing tools seems limited.

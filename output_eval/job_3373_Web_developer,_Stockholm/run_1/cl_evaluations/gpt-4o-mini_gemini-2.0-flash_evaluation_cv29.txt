@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in business development and is familiar with technical concepts, they lack direct experience with essential front-end technologies such as JavaScript, TypeScript, and React. Their background does not provide sufficient evidence of hands-on experience with modern front-end frameworks or testing methodologies required for the role. This results in a lack of alignment with the job requirements, keeping them in the low-score range.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials engineering and analytics with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React (or other front-end frameworks), NodeJS, testing frameworks, or version control workflows required for this role. Their resume and cover letter focus on materials analysis, Six Sigma, and business tools (Excel, Tableau) which are not transferable to the core technical requirements of the position. This is a mismatch in industry and essential skillset, making the candidate completely unqualified for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified, presenting a background in Systems Administration and infrastructure maintenance for a Software Engineering role requiring JavaScript, TypeScript, and React. They demonstrate a critical misunderstanding of the position by equating "clean code" with system reboots and MS Office tasks. None of the core technical requirements, such as frontend frameworks, testing libraries, or CI/CD tools, are present in the candidate's professional history.

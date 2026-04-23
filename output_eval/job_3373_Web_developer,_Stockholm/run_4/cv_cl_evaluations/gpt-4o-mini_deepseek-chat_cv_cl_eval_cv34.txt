@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web technologies such as HTML and CSS, along with project management skills, but lacks hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they show enthusiasm and willingness to transition into development, there is a significant gap in their direct experience with the specific technologies and methodologies outlined in the job description.

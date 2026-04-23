@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in web development (HTML, CSS, JavaScript), but focuses heavily on .NET technologies which are not the focus of the job. The candidate mentions an interest in learning React, TypeScript, and other modern FE technologies, but lacks demonstrable experience. The resume is heavily database focused, while the job description requires a modern front-end engineer.

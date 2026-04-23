@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which is not the focus of the job description. While they express interest in learning React and TypeScript, their current skillset doesn't align with the core requirements of JavaScript, modern FE frameworks, and related testing/tooling. The candidate mentions jQuery and Bootstrap, but this is not sufficient for a modern front-end role.

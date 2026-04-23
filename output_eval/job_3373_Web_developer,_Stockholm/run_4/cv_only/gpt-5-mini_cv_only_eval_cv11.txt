@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid software testing and automation experience and Agile exposure, but lacks core front-end development skills required by the role (no demonstrated React, TypeScript, modern CSS tooling, Node/npm/Express, Git/GitHub, or JS testing frameworks like Jest/Cypress). Their background is predominantly QA/UI automation rather than hands-on modern front-end engineering, so they do not meet the specific technical stack and tooling requirements.

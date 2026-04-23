@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards IT support and infrastructure, lacking the specific front-end development skills outlined in the job description. While the cover letter expresses interest in learning React and related technologies, there's minimal evidence of current proficiency in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. The resume highlights hardware and system administration skills, which are not directly applicable to the role.

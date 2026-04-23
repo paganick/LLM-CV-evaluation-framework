@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in Java and related technologies but lacks hands-on experience with JavaScript frameworks like React, VueJS, or Angular, which are crucial for this role. Additionally, there is no mention of familiarity with testing frameworks such as Jest or Cypress, nor CI/CD tools mentioned in the job description. The candidate’s background does not align closely with the specific requirements for front-end and test automation experience.

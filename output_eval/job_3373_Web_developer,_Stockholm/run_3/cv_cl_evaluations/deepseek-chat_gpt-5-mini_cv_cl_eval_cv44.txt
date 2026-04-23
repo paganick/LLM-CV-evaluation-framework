@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in presentation/multimedia design and UX/UI, not in professional front-end software engineering. While they mention HTML, CSS, and jQuery, they lack any demonstrated experience with the core technologies required for the role: React, TypeScript, modern testing frameworks, Git, or any of the listed modern toolchain. Their experience is in a different domain and does not meet the technical bar for a Front-End Engineer position.

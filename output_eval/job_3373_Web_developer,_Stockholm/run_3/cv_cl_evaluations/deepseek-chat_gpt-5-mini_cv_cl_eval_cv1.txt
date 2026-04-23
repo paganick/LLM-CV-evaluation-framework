@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and some overlapping frontend skills (React, HTML, CSS, SASS, Git, Agile). However, they lack the required, specific experience with TypeScript, modern React, and the listed testing frameworks (Jest, Cypress, etc.). Their background is heavily skewed toward Java backend development and Selenium-based test automation, not the modern frontend and testing stack described in the job description.

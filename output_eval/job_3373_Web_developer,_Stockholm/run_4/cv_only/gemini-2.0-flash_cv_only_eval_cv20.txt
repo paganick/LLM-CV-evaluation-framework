@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks experience with modern FE frameworks like React, VueJS, Angular, or Svelte. The resume focuses heavily on .NET technologies and database programming, which is not the focus of the job description. While the candidate has experience with Git, there is no mention of testing frameworks or other tools mentioned in the job description.

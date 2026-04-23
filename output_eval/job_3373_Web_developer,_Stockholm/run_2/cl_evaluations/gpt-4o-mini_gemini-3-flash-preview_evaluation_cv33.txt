@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses extensive experience in technical consulting and demonstrates proficiency with core technologies such as React, TypeScript, and modern frontend tools. They also show a strong understanding of web security and CI/CD practices, aligning well with the job requirements. However, their experience lacks specific mentions of Git, repo hosting services, and some required testing frameworks, which keeps them just short of a perfect match.

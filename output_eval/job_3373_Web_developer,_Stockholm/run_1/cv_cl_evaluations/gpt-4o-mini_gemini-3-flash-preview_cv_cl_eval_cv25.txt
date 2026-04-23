@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in design and a transition into web development, demonstrating knowledge in HTML, CSS, and JavaScript. However, there is inadequate specific experience with modern frontend frameworks like React, and key areas such as testing, web security, and CI/CD tools are only minimally addressed, which does not fully align with the job requirements.

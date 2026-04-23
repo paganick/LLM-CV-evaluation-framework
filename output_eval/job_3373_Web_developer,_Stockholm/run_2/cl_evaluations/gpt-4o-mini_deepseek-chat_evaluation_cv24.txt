@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in digital communications, which strengthens their understanding of user experience. They possess relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React, along with familiarity with modern development practices and tools. However, they lack direct experience with some specific requirements mentioned in the job description, such as security knowledge (OWASP, CORS, etc.), advanced testing frameworks, and CI/CD tools.

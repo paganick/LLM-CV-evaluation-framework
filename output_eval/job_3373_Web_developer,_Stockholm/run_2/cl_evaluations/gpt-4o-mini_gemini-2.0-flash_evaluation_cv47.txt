@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has some relevant experience in project management and collaboration, they lack specific technical skills in JavaScript, TypeScript, and modern front-end frameworks beyond HTML. Their knowledge of React is unsubstantiated, and they do not mention experience with testing frameworks, Git, or other technologies listed in the job description. Overall, they show potential but do not fulfill the essential requirements for the role.

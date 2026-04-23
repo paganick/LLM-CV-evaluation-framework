@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong backend Java experience, solid engineering fundamentals, and familiarity with Git and disciplined testing practices, but lacks demonstrated hands‑on experience with React, TypeScript, modern CSS tooling, JS testing frameworks, the Node.js ecosystem, and web security knowledge required by the role. Their stated motivation to learn is positive but insufficient for a front‑end role that requires immediate practical experience with the listed technologies.

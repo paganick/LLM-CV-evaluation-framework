@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in software development, particularly with JavaScript frameworks and web technologies, which aligns well with the job requirements. However, they lack specific experience with key tools mentioned in the job description, such as modern CSS tools, testing frameworks like Jest or Cypress, and familiarity with the Node.js ecosystem, which prevents a higher score.

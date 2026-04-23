@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a broad IT background with foundational web skills (HTML, CSS, JavaScript) and some relevant project experience. However, they lack direct, hands-on experience with the core technologies required for the role, specifically React, TypeScript, modern testing frameworks, and the listed toolchain. Their experience is dated and more focused on IT support and systems administration than modern front-end development.

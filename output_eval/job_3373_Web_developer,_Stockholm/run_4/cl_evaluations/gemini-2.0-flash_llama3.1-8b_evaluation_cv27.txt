@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily administrative, with limited direct experience in web development. While they mention technical skills like JavaScript, TypeScript, HTML, and CSS, they lack experience with modern FE frameworks like React (which the company uses) and testing/test automation tools. The candidate's eagerness to learn is positive, but the cover letter doesn't showcase sufficient hands-on experience with the technologies listed in the job description.

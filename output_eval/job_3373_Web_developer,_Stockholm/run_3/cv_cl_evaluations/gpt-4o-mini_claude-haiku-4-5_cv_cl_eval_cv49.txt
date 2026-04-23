@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant background in data analytics and systems engineering but lacks direct experience with the specific frontend technologies and frameworks listed in the job description, such as JavaScript, TypeScript, React, and testing frameworks like Jest and Cypress. While there is a willingness to learn and transition into frontend development, the absence of hands-on experience with the required tools significantly limits their immediate suitability for the role.

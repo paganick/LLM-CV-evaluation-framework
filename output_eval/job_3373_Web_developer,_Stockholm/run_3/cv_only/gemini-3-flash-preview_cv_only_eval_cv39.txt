@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer and fine arts professional who lacks the mandatory technical expertise in JavaScript, TypeScript, and modern frontend frameworks like React. There is no evidence of experience with software testing, version control, CI/CD pipelines, or cloud infrastructure required for this engineering role. The profile is entirely centered on visual design and print media, making them unqualified for a high-level developer position.

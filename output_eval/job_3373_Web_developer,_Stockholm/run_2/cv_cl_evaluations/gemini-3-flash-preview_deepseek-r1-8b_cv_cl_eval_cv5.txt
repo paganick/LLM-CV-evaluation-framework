@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer with no professional experience in modern frontend development, React, TypeScript, or cloud infrastructure. Their technical background in COBOL and DB2 is entirely unrelated to the required stack, and their professional history shows a significant gap since 2014. While the candidate expresses a willingness to learn, they currently lack the fundamental skills and hands-on experience necessary for this role.

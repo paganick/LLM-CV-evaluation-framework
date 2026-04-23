@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is from a completely different industry (banking, sales, and training) with no mention of any required technical skills like JavaScript, React, testing, or modern web development tools. There is zero overlap with the technical and collaborative requirements specified in the job description for a front-end developer role. This is a case of a completely unqualified candidate for this specific position.

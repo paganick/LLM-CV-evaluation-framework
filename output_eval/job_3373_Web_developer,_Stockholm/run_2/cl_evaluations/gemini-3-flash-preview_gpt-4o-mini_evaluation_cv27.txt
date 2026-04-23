@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with a background primarily in executive administration and lacks professional-grade experience in front-end development. While they mention familiarity with React and Git, they fail to demonstrate hands-on proficiency with critical requirements such as TypeScript, CSS preprocessors, or Web Security (OWASP). Their experience with testing frameworks and CI/CD tools is aspirational rather than proven, making them unqualified for a role requiring specific technical depth.

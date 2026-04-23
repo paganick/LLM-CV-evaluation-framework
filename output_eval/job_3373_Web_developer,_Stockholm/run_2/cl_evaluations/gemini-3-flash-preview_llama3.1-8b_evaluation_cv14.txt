@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is an experienced developer but focuses primarily on legacy .NET and SharePoint technologies, which do not align with the core requirements of this modern JavaScript/React-centric role. Crucial technical requirements such as TypeScript, Web Security (OWASP/CORS), Functional Programming, and cloud infrastructure (AWS/Terraform) are entirely absent from the application. While they mention a budding interest in React and Node.js, their professional history lacks the specific depth and modern front-end proficiency required for this position.

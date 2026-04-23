@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Frontend Developer position, where my extensive experience in JavaScript, HTML, and CSS, coupled with my familiarity with modern frameworks, can contribute to your team. With over 7 years in IT, including significant exposure to Agile environments, I have honed my skills in developing clean and efficient code, ensuring high-quality output through Test-driven Development (TDD) and Behavior-driven Development (BDD).
+
+While my background predominantly focuses on Java (JEE) programming, I am adept at JavaScript and have developed various web applications that utilize collaborative tools such as Git and GitHub. My hands-on experience with unit and integration testing frameworks, including Mockito and WireMock, aligns well with your requirement for testing and test automation. I am particularly excited about leveraging my understanding of performance improvement techniques and security basics, including OAuth, to ensure the integrity of web applications.
+
+During my tenure at T-Systems, I successfully implemented RESTful APIs and integrated them with multiple services using protocols like OAuth2.0. My initiatives improved API performance by over 200%, showcasing my ability to deliver robust solutions even under high load. I have maintained a consistent focus on staying current with industry trends and technologies, including exploring modern CSS tools like Styled Components and SASS.
+
+My experience in developing high-availability solutions, alongside expertise in CI/CD tools such as CircleCI, will facilitate seamless production deployment. Furthermore, I am keen on broadening my knowledge, with a growing interest in AWS and Terraform, to enhance my contributions across various projects.
+
+I am enthusiastic about the potential to collaborate with other teams and external partners, continuously seeking to understand and incorporate insights beyond my primary areas of expertise. My years working with German clients have fostered a collaborative spirit and adaptability that I would bring to your team.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your organization.
+
+Sincerely,  
+Alexis

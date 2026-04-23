@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the technical requirements, including React, TypeScript, testing frameworks, and modern tooling. Their unique background provides a compelling narrative for quality and process, aligning well with the role's emphasis on clean code and collaboration. The score is not a 9 because the cover letter does not explicitly address the "Basic knowledge about security on the Web" requirement from the job description.

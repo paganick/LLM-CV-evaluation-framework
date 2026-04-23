@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant interest in JavaScript and modern front-end frameworks, particularly React. However, their experience is primarily in educational program development with only intermediate coding proficiency in R Studio, lacking direct experience in the required JavaScript, TypeScript, and testing frameworks like Jest and Cypress. While they show enthusiasm for learning, they do not fulfill the specific experience criteria listed in the job description.

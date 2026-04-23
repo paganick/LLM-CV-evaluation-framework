@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and content management, not software development. They lack hands-on experience with the core technologies required for the role, such as JavaScript, TypeScript, React, testing frameworks, and modern development tools. Their stated familiarity with HTML, CSS, and Git is superficial and not supported by professional development experience, making them unqualified for this technical front-end position.

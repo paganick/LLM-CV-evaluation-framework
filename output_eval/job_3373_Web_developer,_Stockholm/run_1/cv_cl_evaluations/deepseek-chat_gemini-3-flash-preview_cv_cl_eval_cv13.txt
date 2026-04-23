@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a Technical Project Manager, not a dedicated front-end developer, which is the core of the role. While they mention JavaScript, HTML, and CSS, they lack demonstrable, recent hands-on experience with the required modern frameworks (specifically React) and the listed testing, tooling, and functional programming (Ramda) stack. Their project management and strategic skills are strong, but they do not meet the specific technical proficiency required for a hands-on development position.

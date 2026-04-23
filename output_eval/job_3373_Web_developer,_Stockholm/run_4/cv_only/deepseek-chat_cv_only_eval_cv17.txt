@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in civil engineering and construction project management, which is a completely different industry from front-end software development. The resume shows no experience with JavaScript, TypeScript, React, testing frameworks, or any of the required technical skills listed in the job description. This is a fundamental mismatch in profession and expertise.

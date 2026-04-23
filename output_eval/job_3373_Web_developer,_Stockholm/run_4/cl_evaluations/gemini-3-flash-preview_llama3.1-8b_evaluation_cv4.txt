@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical stack, specifically mentioning niche requirements such as Ramda, CircleCI, and Terraform. However, the application fails to explicitly mention experience with TypeScript or Web Security protocols (OWASP, CORS, OAuth), which are primary requirements in the job description. While highly qualified in the Node.js ecosystem and Agile methodologies, these specific omissions prevent a perfect score.

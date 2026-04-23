@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational education and demonstrates strong soft skills and a compelling narrative of transferable discipline. However, the cover letter explicitly admits a lack of professional, hands-on experience with the core technologies listed in the job description, such as React, testing frameworks, Node.js, and CI/CD tools. This significant gap in practical experience against the stated requirements places the candidate in the "relevant industry but lacks specific experience/skills" category.

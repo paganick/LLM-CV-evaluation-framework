@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive backend software development experience and demonstrates familiarity with web application lifecycles, Git, and Agile, which are transferable. However they lack demonstrated hands-on experience with core frontend technologies required by the role (React/JavaScript/TypeScript, modern CSS tools, frontend testing frameworks, Node ecosystem, and CI/CD/AWS familiarity). Their eagerness to learn is noted but does not compensate for the missing practical frontend and tooling experience needed for this position.

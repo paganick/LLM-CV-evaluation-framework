@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in broad IT management and hardware support, not modern front-end development. The resume and cover letter lack evidence of professional experience with React, TypeScript, testing frameworks, or the other specific tools listed in the job description. While they have foundational web knowledge, their skills are outdated and not aligned with the specialized, framework-focused role.

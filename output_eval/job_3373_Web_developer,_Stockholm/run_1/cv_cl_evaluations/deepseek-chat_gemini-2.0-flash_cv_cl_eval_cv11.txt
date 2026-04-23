@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing/QA, not front-end development. While they list JavaScript, HTML, and CSS, they lack proven hands-on experience with React or any other modern FE framework required by the job. Their experience with testing is strong, but the core requirement of professional front-end development using React is not demonstrated.

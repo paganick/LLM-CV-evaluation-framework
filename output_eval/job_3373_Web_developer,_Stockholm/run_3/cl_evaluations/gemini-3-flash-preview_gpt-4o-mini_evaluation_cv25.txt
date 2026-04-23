@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the primary technical requirements, specifically lacking professional experience in JavaScript, TypeScript, and React. Their self-admitted "limited" knowledge of testing frameworks and the development ecosystem does not align with the "hands-on experience" requested in the job description. Consequently, while the candidate has a relevant background in design, they do not possess the specific technical proficiency required for this developer role.

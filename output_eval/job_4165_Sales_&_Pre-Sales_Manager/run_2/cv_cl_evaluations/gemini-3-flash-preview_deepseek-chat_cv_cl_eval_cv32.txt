@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the mandatory three years of commercial sales, presales, or business development experience, with a background almost entirely focused on internal government IT support and web administration. There is no evidence of managing a sales funnel, meeting outbound KPIs, or drafting commercial proposals for enterprise clients. Furthermore, the candidate's technical expertise in legacy databases and CMS does not align with the required proficiency in Application Services (API, Cloud, DevOps) or Business Analytics.

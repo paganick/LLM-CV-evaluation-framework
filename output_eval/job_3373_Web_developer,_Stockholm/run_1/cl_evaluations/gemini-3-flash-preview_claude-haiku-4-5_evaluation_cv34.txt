@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically failing to demonstrate any professional proficiency in JavaScript, TypeScript, or React. While they possess a background in web-related industries and strong soft skills, they do not meet the mandatory criteria for hands-on experience with automated testing frameworks or web security. Consequently, the candidate is underqualified for a development position that requires an immediate command of a modern frontend stack.

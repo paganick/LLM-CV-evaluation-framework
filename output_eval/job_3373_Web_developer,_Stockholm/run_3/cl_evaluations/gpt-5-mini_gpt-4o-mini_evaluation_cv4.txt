@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant web development experience (JavaScript, HTML/CSS), testing (Jest), Node familiarity, Git, basic OWASP/CORS knowledge, and Agile collaboration, which aligns with several core requirements. However the letter lacks concrete, demonstrable experience with React (the stated primary front-end framework), concrete TypeScript usage, modern CSS tooling (Styled Components/SASS), linters/formatters, CI/CD, and AWS/Terraform — claims are general rather than specific — so they are not yet a strong match for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and cybersecurity but lacks demonstrated experience with core frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. While they mention a commitment to clean code and some familiarity with security principles, their focus seems primarily on higher-level strategic roles rather than hands-on frontend development. Therefore, they fall short of the specific technical skills and experience required for the role.

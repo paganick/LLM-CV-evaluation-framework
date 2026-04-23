@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Candidate demonstrates strong alignment with core front-end requirements (React, JavaScript/TypeScript, HTML/CSS), testing experience (Jest, Cypress), Git, CI/CD familiarity, Node/npm/Express and web security knowledge. However, the cover letter omits some specific tools the role calls out (no mention of Styled Components/SASS, linters/formatters like ESLint/Prettier, CircleCI, or explicit experience with Ramda/Terraform), preventing a top-tier score. Overall a strong match but not an unequivocal perfect fit.

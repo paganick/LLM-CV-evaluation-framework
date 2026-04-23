@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant frontend experience with React, HTML, CSS, and JavaScript, along with testing and automation skills. They show familiarity with Agile, Git, and cloud deployment. However, there's no mention of TypeScript or specific modern CSS tools, and the depth of their security knowledge is unclear.

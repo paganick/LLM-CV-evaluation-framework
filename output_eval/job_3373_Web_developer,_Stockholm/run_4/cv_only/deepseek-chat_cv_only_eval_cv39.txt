@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost entirely in graphic design, fine arts, and product design, which is the wrong industry for a modern front-end engineering role. The resume shows no experience with the core technical requirements like JavaScript, TypeScript, React, testing frameworks, Git, or modern web development tools. While there is mention of some HTML and web maintenance, it is at a very basic level and not relevant to the software engineering position described.

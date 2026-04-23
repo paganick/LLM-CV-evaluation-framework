@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a long history in software development and Agile environments, but their technical expertise is primarily rooted in the .NET ecosystem and legacy frontend technologies like jQuery and AngularJS. They lack professional, hands-on experience with the required modern stack, specifically React, TypeScript, and modern CSS tools. Furthermore, there is no evidence of experience with the specific testing frameworks or CI/CD tools requested in the job description.

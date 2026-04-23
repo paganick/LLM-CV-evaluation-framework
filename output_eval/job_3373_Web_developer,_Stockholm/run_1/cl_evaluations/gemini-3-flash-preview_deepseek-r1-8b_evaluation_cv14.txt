@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary expertise is in C# and ASP.NET, which does not align with the core requirements of JavaScript, TypeScript, and React. They lack hands-on experience with the specified tech stack, including Node.js, functional programming, and modern CSS tools, offering only a "quick learner" promise instead of proven proficiency. While they possess general software development fundamentals, they do not meet the mandatory technical criteria for this specific role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position as their background is in Metallurgy and Materials Analysis rather than Software Engineering. They lack all the required technical skills, including JavaScript, TypeScript, React, and CI/CD tools. The resume reflects a career in manufacturing and quality assurance, which is entirely outside the scope of the web development industry.

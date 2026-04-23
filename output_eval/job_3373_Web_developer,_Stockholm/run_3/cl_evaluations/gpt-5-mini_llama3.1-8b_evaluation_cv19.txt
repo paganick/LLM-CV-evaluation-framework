@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant front-end adjacencies (modern CSS tooling, testing frameworks, Node ecosystem familiarity) but the cover letter reads primarily as a graphic-design background and omits critical required competencies: no explicit JavaScript/TypeScript or React experience, no mention of Git/GitHub, and no demonstrated knowledge of web security, CI/CD, API design, or cloud/infra (AWS/Terraform). Given the gap on core technical requirements for the role, the profile is relevant but currently insufficient for a strong match.

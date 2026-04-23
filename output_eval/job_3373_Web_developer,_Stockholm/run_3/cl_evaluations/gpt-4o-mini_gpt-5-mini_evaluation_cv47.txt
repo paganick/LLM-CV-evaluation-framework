@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in leadership and problem-solving, along with a technical foundation in HTML and programming languages like C and C++. However, they lack direct hands-on experience with essential front-end technologies such as JavaScript, React, TypeScript, and modern testing frameworks, which are critical for the position. Their background in business development may not fully translate to the requirements of a front-end developer role.

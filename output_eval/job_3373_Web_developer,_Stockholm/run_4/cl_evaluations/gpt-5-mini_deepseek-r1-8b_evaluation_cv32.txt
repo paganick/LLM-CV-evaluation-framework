@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate does not demonstrate the core technical qualifications required (no evidence of JavaScript/TypeScript, React, testing/automation, Git, NodeJS, modern CSS tools, or web security knowledge). The letter emphasizes transferable customer service and management skills and eagerness to learn, but provides no concrete hands-on experience with the technologies listed in the job description. As a result, the applicant is not currently qualified for this Software Engineer role.

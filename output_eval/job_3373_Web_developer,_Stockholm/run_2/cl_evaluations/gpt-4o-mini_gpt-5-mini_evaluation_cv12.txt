@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in frontend technologies and a solid understanding of the software development lifecycle. However, they lack direct experience with React, TypeScript, and modern CSS tools specified in the job description, which could hinder their immediate contributions to the team. Additionally, their recent work does not demonstrate hands-on testing experience with frameworks like Jest or integration tests, which are important for this role.

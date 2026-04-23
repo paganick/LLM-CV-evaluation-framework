@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show a long career in product management and executive roles with no demonstrated hands-on front-end development experience or listed proficiency in JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, testing frameworks, Node/npm, or CI/CD. Required technical competencies such as test automation, web security (OWASP/CSP/CORS/OAuth), and practical experience with the NodeJS ecosystem are absent. This profile is therefore completely misaligned with the Front End Developer requirements.

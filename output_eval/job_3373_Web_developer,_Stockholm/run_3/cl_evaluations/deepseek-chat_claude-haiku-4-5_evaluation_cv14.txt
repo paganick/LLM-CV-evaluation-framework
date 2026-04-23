@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong foundational web skills and demonstrates relevant experience in testing, Git, security, and Agile collaboration. However, the cover letter lacks explicit, hands-on experience with the core technologies listed (React, TypeScript, modern FE frameworks) and the specific toolchain (e.g., Jest, Node.js ecosystem, CI/CD tools). The candidate shows excellent potential and a willingness to learn, but direct, proven experience with the stack is not clearly stated.

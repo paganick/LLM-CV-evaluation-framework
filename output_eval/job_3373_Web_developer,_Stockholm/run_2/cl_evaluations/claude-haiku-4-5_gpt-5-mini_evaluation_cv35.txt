@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant technical foundation through QA, testing automation, and systems integration experience, placing them in the relevant industry. However, they lack direct hands-on experience with the core required technologies: no demonstrated JavaScript, TypeScript, React, or modern frontend framework experience. While they acknowledge eagerness to learn these skills, they do not meet the essential technical requirements for a front-end engineering role and would require significant ramp-up time in the primary job functions.

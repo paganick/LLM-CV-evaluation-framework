@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core required technologies, specifically React, TypeScript, and modern frontend testing frameworks. While they possess a strong background in the financial industry and general software principles, their frontend skills are described as foundational and developing rather than expert-level. Consequently, they do not meet the technical proficiency required for this specialized position.

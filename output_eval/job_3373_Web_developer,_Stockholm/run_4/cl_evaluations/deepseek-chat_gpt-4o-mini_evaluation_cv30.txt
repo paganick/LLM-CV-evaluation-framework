@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end foundations (JavaScript, HTML, CSS, Git) and mentions Agile collaboration, which aligns with the job. However, they fail to address critical, explicit requirements from the job description: no mention of React (the stated framework), TypeScript, modern testing tools (Jest, Cypress), security concepts, or specific modern CSS tools. Their experience is described in broad, sometimes backend-oriented terms (ASP.NET, SQL, JMP) rather than the specific front-end technologies and practices required.

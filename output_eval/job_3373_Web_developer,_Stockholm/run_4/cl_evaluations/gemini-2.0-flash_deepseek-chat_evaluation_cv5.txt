@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in mainframe technologies, a significant departure from the required frontend skills. While they express enthusiasm and a willingness to learn, the cover letter highlights a lack of hands-on experience with React and other listed modern FE frameworks. The candidate's limited experience with listed testing frameworks, NodeJS, and CI/CD tools further weakens their candidacy.

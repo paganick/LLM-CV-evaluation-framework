@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in media planning and buying, with limited exposure to web development. While they mention HTML and CSS, it seems very basic. There's no indication of experience with modern FE frameworks like React, TypeScript, or testing frameworks, which are core requirements for the job.

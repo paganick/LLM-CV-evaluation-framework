@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's background is entirely in materials analysis, manufacturing, and quality analytics with no demonstrated experience in JavaScript/TypeScript, HTML/CSS, React (or other modern front-end frameworks), Git, testing frameworks, or Node.js. The resume and cover letter emphasize Six Sigma, Excel, Tableau, and materials engineering rather than any software development or web security/CI/CD skills required for this role. This is a complete mismatch for the position's technical and domain requirements.

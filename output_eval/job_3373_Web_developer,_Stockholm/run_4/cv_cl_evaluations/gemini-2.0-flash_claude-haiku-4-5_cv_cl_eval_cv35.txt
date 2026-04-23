@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not frontend development. While they express interest and foundational knowledge, they lack the required experience with React, TypeScript, and modern FE frameworks. Their experience is tangentially related but not directly applicable to the job description.

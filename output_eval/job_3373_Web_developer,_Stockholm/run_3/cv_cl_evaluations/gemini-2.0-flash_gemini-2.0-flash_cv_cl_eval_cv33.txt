@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight a background primarily in business banking, sales, and training, lacking demonstrable experience or skills in front-end development technologies. While the candidate expresses a passion for clean code and experience consulting tech startups, there's no concrete evidence of proficiency in JavaScript, React, or other essential technologies mentioned in the job description. The candidate's skill set is misaligned with the technical requirements of the role.

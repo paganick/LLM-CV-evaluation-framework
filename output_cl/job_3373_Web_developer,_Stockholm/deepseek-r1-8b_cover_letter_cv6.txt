@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position as described. With a background in modern web technologies and a passion for clean, maintainable code, I am confident that my skills align well with your requirements.
+
+My experience includes extensive work with JavaScript and PHP, including front-end development using HTML, CSS, and various frameworks. I am familiar with modern tools and practices, including Git for version control and testing frameworks for ensuring code quality and reliability. I am also knowledgeable about web security fundamentals, including OWASP, CSP, CORS, and OAuth, ensuring that the systems I build are secure and compliant.
+
+In my current role, I have managed complex projects, collaborated effectively in an Agile environment, and worked closely with cross-functional teams to deliver high-quality solutions. I am committed to staying current with the latest technologies and am eager to contribute my expertise in JavaScript, testing automation, and Git to your team.
+
+I am excited by the opportunity to bring my technical skills and collaborative approach to your organization. Thank you for considering my application. I look forward to the possibility of discussing my qualifications further.
+
+Sincerely,
+Alexis

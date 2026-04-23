@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software testing and quality assurance, along with a strong educational background in software engineering. However, while they express familiarity with key technologies mentioned, the absence of direct experience with TypeScript, modern CSS tools, and NodeJS-related skills slightly lowers their score. Overall, they are a strong candidate but do not fully meet all of the job description's specific requirements.

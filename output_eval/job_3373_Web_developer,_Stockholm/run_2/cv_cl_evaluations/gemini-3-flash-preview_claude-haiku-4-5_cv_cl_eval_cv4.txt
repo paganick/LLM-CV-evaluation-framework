@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a relevant professional with significant software development experience, but they lack direct experience with the specific modern frontend stack required, specifically React, TypeScript, and modern CSS tools. Their background is heavily weighted toward C#, Python, and backend systems, with no documented use of testing frameworks like Jest or Cypress. While they possess a solid foundation in JavaScript, they do not currently meet the technical requirements for a specialized React developer role.

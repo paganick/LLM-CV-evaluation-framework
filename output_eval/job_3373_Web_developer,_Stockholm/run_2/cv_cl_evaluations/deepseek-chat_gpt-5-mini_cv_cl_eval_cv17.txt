@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive experience is in civil and construction engineering, which is a completely different industry from front-end software development. The resume and cover letter show no direct, hands-on experience with any of the required technologies (JavaScript, React, testing frameworks, etc.) listed in the job description. While the candidate expresses interest and a desire to transition, they currently lack the specific technical qualifications for the role.

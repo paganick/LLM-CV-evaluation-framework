@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a design background with limited front-end development experience. While they mention HTML, CSS, and some JavaScript knowledge, they lack expertise in modern FE frameworks like React (the company's choice), testing, and other key technologies listed in the job description. Their skills lean heavily toward design rather than the required development proficiency.

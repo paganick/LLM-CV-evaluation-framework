@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in relevant technologies like JavaScript, HTML, CSS, and Git. However, the experience is mostly in PHP with limited modern FE framework exposure (React). The resume lacks specific examples of testing and test automation and modern CSS tools which are mentioned in the job description.

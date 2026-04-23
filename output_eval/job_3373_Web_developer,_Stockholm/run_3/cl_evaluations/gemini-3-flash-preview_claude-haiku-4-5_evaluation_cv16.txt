@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses general web development experience and understands Agile methodologies, they lack professional experience with the primary required technologies, specifically React and TypeScript. Their background is heavily centered on legacy stacks like jQuery and ASP.NET, and they fail to demonstrate hands-on proficiency with the specified testing frameworks (Jest, Cypress) or modern CSS tools. As a result, the candidate does not meet the core technical requirements for a mid-level modern frontend position.

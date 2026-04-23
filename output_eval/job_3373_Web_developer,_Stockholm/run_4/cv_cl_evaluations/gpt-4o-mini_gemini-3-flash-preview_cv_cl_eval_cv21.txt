@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development and a strong foundation in JavaScript, HTML, and CSS, along with familiarity with AngularJS. They demonstrate a solid understanding of Agile methodologies and have experience with testing and automation. However, they lack specific hands-on experience with React, SASS, and modern CSS tools mentioned in the job description, preventing a higher score.

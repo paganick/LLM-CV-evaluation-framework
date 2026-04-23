@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid UX/design background with practical HTML/CSS and strong collaboration experience, which is relevant to front-end work. However, their resume lacks demonstrable, hands-on experience with core requirements such as modern JavaScript/TypeScript, React, testing frameworks, Git/repo workflows, Node/CI-CD, and web security — claims in the cover letter are unverified by concrete examples. Significant upskilling and proven practical experience would be required before this person could meet the role's expectations.

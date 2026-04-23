@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates foundational frontend skills (React, HTML, CSS, SASS) and an understanding of Agile and Git. However, the resume is heavily weighted toward Java/Spring backend and test automation (Selenium, Cucumber), with limited, dated professional experience in the specific modern frontend stack (React, TypeScript, modern testing tools) and no mention of key requirements like TypeScript, security basics (OWASP, CORS), or tools like Ramda, which are critical for the role.

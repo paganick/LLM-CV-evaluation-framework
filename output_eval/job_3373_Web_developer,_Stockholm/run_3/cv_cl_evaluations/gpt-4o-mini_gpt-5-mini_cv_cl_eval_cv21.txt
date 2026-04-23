@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in web development, with skills in HTML, CSS, JavaScript, and AngularJS. However, they lack hands-on experience with modern front-end frameworks and libraries like React, as well as specific testing automation tools mentioned in the job description. While they demonstrate a solid understanding of Agile practices and some familiarity with web security, they do not match all criteria essential for this role.

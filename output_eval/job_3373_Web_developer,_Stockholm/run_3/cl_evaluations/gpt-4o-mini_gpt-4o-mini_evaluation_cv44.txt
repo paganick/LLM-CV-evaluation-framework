@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong foundation in front-end development and relevant experience in user experience and interface design. However, they lack specific hands-on experience with key testing frameworks mentioned in the job description and familiarity with some modern tools like Styled Components, SASS, or CI/CD tools. Their experience in security principles is noted, but a deeper technical alignment with required frameworks and tools would strengthen their candidacy.

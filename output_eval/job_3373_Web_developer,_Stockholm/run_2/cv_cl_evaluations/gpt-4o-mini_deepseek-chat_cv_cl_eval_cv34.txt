@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate presents a background in project management and client-facing roles, with some experience in HTML and CSS. However, they lack direct experience with JavaScript frameworks like React, as well as more advanced front-end techniques and specific testing frameworks mentioned in the job description. Their transition into a technical role is noted, but does not sufficiently meet the requirements of a strong front-end developer.

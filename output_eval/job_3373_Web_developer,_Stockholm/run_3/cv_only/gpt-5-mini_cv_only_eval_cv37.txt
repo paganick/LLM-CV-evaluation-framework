@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is senior IT project management and infrastructure leadership with no demonstrated experience in frontend development or the requested technologies (JavaScript, TypeScript, React, modern CSS tools, testing frameworks, NodeJS, etc.). There is no evidence of hands-on coding, testing/automation, or familiarity with web security, CI/CD, or the Node/npm ecosystem required for this role. The profile is therefore completely unqualified for the advertised frontend engineering position.

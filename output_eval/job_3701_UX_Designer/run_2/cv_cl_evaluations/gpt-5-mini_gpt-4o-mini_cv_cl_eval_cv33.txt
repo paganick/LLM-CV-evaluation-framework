@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume shows a senior MDM/architecture background with extensive technical and project leadership experience but contains no verifiable commercial UX design experience, no portfolio or concrete examples of user research, prototyping (Figma absent from skills), or design-system ownership. The candidate does have relevant Agile exposure and basic front-end skills (HTML/CSS/JS) which could help transition into UX, but overall lacks the specific, demonstrable UX track record required for this role.

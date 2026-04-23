@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web technologies such as HTML and CSS, but lacks specific experience in JavaScript frameworks like React, TypeScript, testing frameworks, and knowledge of modern development tools mentioned in the job description. While they display a willingness to learn and a passion for coding, they do not fully meet the requirements for the Front-End Developer position.

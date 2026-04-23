@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has substantial experience in software development, their background is heavily focused on Java/J2EE and legacy web technologies rather than the modern React/TypeScript stack required. They lack professional experience with essential job requirements such as modern CSS tools, automated frontend testing frameworks (Jest/Cypress), and the NodeJS ecosystem. The candidate is looking to transition into frontend development, but currently lacks the specific technical skills and hands-on experience requested in the job description.

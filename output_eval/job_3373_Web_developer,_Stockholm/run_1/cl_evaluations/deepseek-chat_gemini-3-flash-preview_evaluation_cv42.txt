@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive operations and project management background is relevant but lacks direct, hands-on frontend development experience. The cover letter fails to demonstrate proficiency in the core technical requirements like JavaScript, TypeScript, React, testing frameworks, or modern tooling specified in the job description. While strategic and analytical skills are highlighted, the absence of concrete frontend development examples makes this a weak technical match for the role.

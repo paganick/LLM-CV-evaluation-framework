@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required expertise in modern frontend technologies, specifically failing to demonstrate any experience with React or TypeScript. Their technical background is heavily focused on Java and legacy frameworks like AngularJS, which does not align with the current stack of Node.js and functional programming. Additionally, there is no evidence of experience with modern testing suites, CI/CD tools, or cloud infrastructure as requested in the job description.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in IT hardware support, field service, and retail sales with no evidence of front-end web development experience. The resume shows zero proficiency in JavaScript, TypeScript, React, or any modern web frameworks required for this role. There is no mention of web development, testing frameworks, Git, or any of the technical skills specified in the job description, making this candidate completely unqualified for a senior frontend developer position.

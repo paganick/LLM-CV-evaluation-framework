@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their entire professional background is in civil engineering and construction management rather than software development. They do not possess any of the required technical skills such as JavaScript, TypeScript, or React, and they lack experience with modern frontend tooling and testing frameworks. Despite their extensive project management experience, they are in the wrong industry and do not meet the foundational requirements for an engineering position in this domain.

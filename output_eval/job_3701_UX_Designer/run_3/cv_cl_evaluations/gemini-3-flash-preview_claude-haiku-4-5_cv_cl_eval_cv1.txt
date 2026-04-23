@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks documented experience in Agile software development environments and does not list Figma, which is a highly desirable requirement for this position. Their professional history is primarily focused on architecture and freelance projects, providing no evidence of mentoring junior designers or managing corporate UX roadmaps. Additionally, the candidate fails to demonstrate proficiency in CSS or Javascript, which are necessary for the management of the UI Design System.

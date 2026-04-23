@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in core technologies such as JavaScript, HTML, and CSS but lacks familiarity with more advanced frontend frameworks like React and does not mention experience with TypeScript. Additionally, while they express knowledge of testing frameworks, they do not detail hands-on experience with the required testing and automation tools specified in the job description. Overall, the candidate shows promise but does not fully meet the specific experience requirements for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills in HTML and CSS, but lacks significant experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the role. Additionally, their background is primarily in graphic design and engineering, showing a gap in necessary front-end development experience. While they demonstrate a willingness to learn and collaborate, the core technical skills required for this position are not sufficiently met.

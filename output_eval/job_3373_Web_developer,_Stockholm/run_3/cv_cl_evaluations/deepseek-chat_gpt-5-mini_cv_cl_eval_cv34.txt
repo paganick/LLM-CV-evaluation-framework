@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing implementation and project management, not professional front-end software development. While they mention HTML and CSS, they lack any professional experience with JavaScript, TypeScript, React, or any modern FE framework listed in the job description. Their experience with testing, Git, security, and the specific toolchain (Jest, Node.js, etc.) is not demonstrated, making them unqualified for this specific engineering role.

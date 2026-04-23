@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in banking, sales, training, and operations with no demonstrated experience in front-end engineering technologies (JavaScript/TypeScript, React, HTML/CSS), testing, NodeJS, CI/CD, or cloud/infra tools. There is no evidence of coding, repositories, or relevant security knowledge (OWASP/CSP/CORS/OAuth). This candidate is in the wrong industry and is therefore completely unqualified for the role.

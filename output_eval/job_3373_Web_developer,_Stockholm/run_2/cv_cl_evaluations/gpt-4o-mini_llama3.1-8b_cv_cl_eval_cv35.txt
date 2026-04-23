@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in the marketing automation sphere but lacks direct frontend development experience and fundamental technical skills in JavaScript, TypeScript, HTML, and CSS. While they express a willingness to learn and adaptability, their resume does not showcase hands-on experience with modern frontend frameworks or testing frameworks critical for the position.

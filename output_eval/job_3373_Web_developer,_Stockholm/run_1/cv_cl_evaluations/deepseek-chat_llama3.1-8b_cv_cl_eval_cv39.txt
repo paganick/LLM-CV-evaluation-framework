@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic and product design, not software engineering, and they lack any demonstrable experience with the core technical requirements like JavaScript, TypeScript, React, or testing frameworks. Their cover letter claims familiarity with Git and web security concepts, but this is not supported by the resume, which shows no professional development experience. This is a fundamental mismatch for a front-end developer role.

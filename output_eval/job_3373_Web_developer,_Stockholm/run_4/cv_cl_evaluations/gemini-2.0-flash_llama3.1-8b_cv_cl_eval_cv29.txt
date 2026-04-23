@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in business development and marketing, with no demonstrable skills in the required technologies like JavaScript, React, or testing frameworks. While the candidate mentions API design, it is not clear if they have hands-on experience. The resume lacks any indication of front-end development skills.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design experience (3+ years) and cites user research, workshops, mentoring and some UI system work, which align partially with the role. However they do not clearly demonstrate prior experience in a dedicated UX designer role, do not mention Figma or concrete prototyping tools, and give no explicit evidence of working in an Agile software development environment or with HTML/CSS/JS. As a result they are a moderate fit but lack several key required skills and tool experience to be considered a strong match.

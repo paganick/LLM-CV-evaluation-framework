@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not front-end development, which is a significant mismatch for the core role. While they mention HTML, CSS, JavaScript, and an interest in React, they provide no concrete evidence of hands-on experience with the required technologies (e.g., React, TypeScript, testing frameworks, modern CSS tools). Their experience with testing and Agile environments is a positive but insufficient to overcome the primary skills gap.

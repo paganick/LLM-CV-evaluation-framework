@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in information technology and demonstrates some understanding of frontend development concepts. However, there is a lack of direct hands-on experience with key technologies specified in the job description, such as JavaScript, TypeScript, and specific testing frameworks. Additionally, while the candidate mentions familiarity with Agile methodologies, there is insufficient evidence of experience with modern frontend frameworks and tools mentioned in the job description.

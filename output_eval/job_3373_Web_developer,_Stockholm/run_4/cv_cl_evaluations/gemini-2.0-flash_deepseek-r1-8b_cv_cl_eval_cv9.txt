@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in Java, not the JavaScript/TypeScript/React stack the job requires. While they express adaptability and familiarity with web security and some related tools, the resume lacks concrete experience with the core technologies listed in the job description. The cover letter also focuses on Java experience, highlighting a potential mismatch with the role's focus.

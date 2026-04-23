@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any production-level experience with the mandatory technical requirements, including JavaScript, TypeScript, and React, which are essential for this role. Their professional history is rooted in graphic design and visual merchandising using outdated tools like Flash and Dreamweaver, rather than modern frontend development workflows or testing frameworks. Consequently, the applicant does not meet the minimum qualifications for a software engineering position.

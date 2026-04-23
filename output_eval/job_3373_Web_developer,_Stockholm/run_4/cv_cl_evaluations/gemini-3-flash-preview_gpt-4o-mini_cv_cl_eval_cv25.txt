@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with an extensive background in graphic design but lacks any professional experience in software development or the specific technical stack required. They do not demonstrate the necessary proficiency in JavaScript, TypeScript, or React, and they lack practical experience with testing frameworks and CI/CD tools. While they have a strong design foundation, they do not meet the core engineering requirements for this front-end developer role.

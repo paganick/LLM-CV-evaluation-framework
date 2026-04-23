@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate claims familiarity with JavaScript, TypeScript, HTML, and CSS but provides no concrete examples of hands-on frontend work, and explicitly states a desire to learn React rather than existing experience. Critical requirements such as testing/test automation, Git/GitHub, Node ecosystem, CI/CD, modern CSS tooling, security basics, and familiarity with AWS/Terraform are not demonstrated. While transferable soft skills and eagerness to learn are present, the submission lacks the specific technical experience required for this role.

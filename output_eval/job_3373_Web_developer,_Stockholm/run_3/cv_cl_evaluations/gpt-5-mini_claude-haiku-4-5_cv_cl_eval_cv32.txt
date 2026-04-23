@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrated hands-on experience with core frontend technologies required for this role (JavaScript/TypeScript, React, modern CSS tooling), nor any exposure to testing frameworks, Git workflows, or the Node ecosystem. While their cover letter and resume show strong customer-service, management, and transferable soft skills, these do not meet the technical baseline necessary for the position. The candidate would require substantial training or a junior/bootcamp-level role before being considered for this frontend developer role.

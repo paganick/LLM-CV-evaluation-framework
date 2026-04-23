@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has transferable analytical and cross-functional collaboration skills plus some familiarity with NodeJS, CI/CD and web security concepts, which are relevant to the role. However they lack demonstrable hands-on experience with JavaScript/TypeScript, React, modern CSS tooling and testing automation (Jest/Cypress), and do not show concrete front-end project work. Given the job's explicit requirement for practical React and testing experience, this profile is underqualified without further demonstrable work or retraining.

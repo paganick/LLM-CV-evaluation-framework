@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in backend development and mainframe technologies, which does not align well with the requirements for frontend development. Although they possess some foundational knowledge of JavaScript, HTML, and CSS, there is a lack of direct experience with modern frontend frameworks like React, as well as testing frameworks and CI/CD tools. The transition from a mainframe background to frontend development presents a significant gap in relevant skills.

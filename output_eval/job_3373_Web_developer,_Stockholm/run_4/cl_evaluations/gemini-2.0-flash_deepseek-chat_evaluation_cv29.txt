@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate comes from a different field and is trying to transition, which is a significant risk. While they claim proficiency in key technologies like React, JavaScript, and Git, the depth of their experience is uncertain. They mention familiarity with testing frameworks and the Node.js ecosystem, but hands-on experience is not strongly demonstrated.

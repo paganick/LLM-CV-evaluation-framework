@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in Java development and has made efforts to learn frontend technologies such as JavaScript, TypeScript, and React, which aligns well with the job requirements. However, they lack experience with specific tools mentioned in the job description, such as modern CSS tools, testing frameworks, and CI/CD tools. Overall, they are a strong candidate but do not fully cover all aspects of the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong graphic design, collaboration, and attention-to-detail skills, but provides no concrete hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, AWS/Terraform, etc.). Their willingness to learn is positive, but for this role the lack of proven technical experience and testing/CI/CD familiarity makes them underqualified. They may be a fit for a more junior or design-adjacent role after demonstrable upskilling.

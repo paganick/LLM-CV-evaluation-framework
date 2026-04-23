@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with front-end technologies (HTML, CSS, JavaScript, Git), but lacks direct experience with React, the primary framework used by the team. While they express eagerness to learn, the cover letter highlights their background in .NET and database programming more prominently, suggesting a potential mismatch with the job requirements. The candidate's experience does not appear to fulfill the testing and security requirements listed in the job description.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in sales, management, and unrelated fields, with zero demonstrated experience in software development. The resume and cover letter show no technical skills, projects, or knowledge related to JavaScript, React, testing, or any other required technologies from the job description. This is a complete mismatch for a technical front-end developer role.

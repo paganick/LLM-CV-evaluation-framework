@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Salesforce Marketing Cloud implementation, with limited exposure to the technologies listed in the job description such as React, Typescript, and Node.js. While they possess HTML, CSS, and SQL skills, their experience appears peripheral rather than central to the required front-end engineering role. The cover letter expresses a desire to learn, but the current skillset does not align with the job requirements.

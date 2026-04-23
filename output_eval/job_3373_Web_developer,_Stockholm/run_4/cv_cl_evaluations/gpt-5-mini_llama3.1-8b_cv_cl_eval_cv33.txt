@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a career in banking, training, and sales with no demonstrable hands-on experience in JavaScript, TypeScript, modern front-end frameworks (React), testing, Git, NodeJS, or other technical requirements listed. While they exhibit strong communication, training, and cross-functional collaboration skills, there is insufficient technical evidence to perform the role. Their cover letter expresses willingness to learn but does not compensate for the lack of required engineering skills and experience.

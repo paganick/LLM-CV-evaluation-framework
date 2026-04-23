@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer who lacks professional experience in web development and explicitly admits to needing training in core requirements like React, testing automation, and CI/CD. While they possess basic knowledge of core web languages, their ten-year background is strictly administrative and arts-focused, offering no evidence of the technical depth required for this role. Key requirements such as Git, Agile experience, and security protocols are completely unaddressed, making them an unqualified match for this specific position.

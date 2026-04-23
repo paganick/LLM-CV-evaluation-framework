@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong visual design and UX experience transferable to front-end work, but the cover letter shows no hands-on experience with core requirements (JavaScript/TypeScript, React, testing, Git, modern CSS tooling, NodeJS, security, CI/CD). They express willingness to learn but do not demonstrate practical experience or examples of relevant technical skills. Given the gap between the job's technical requirements and the applicant's current resume, they are not qualified for a mid-to-senior front-end developer role today.

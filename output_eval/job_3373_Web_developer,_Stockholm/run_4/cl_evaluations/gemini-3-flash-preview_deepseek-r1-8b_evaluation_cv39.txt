@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate proficiency in the core technical requirements, specifically lacking any mention of JavaScript, TypeScript, React, or back-end technologies like Node.js. While the applicant has extensive experience in graphic design and the Adobe Creative Suite, they provide no evidence of skills in automated testing, web security, or CI/CD pipelines. As a result, the candidate appears to be a visual designer applying for a highly technical engineering role for which they are underqualified.

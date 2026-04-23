@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate’s professional experience is primarily in software testing and QA, lacking the required professional-level development experience with React and TypeScript. They fail to demonstrate proficiency in essential secondary requirements such as Node.js, functional programming, and cloud infrastructure. Consequently, the applicant does not meet the technical depth required for a developer position and would require significant training.

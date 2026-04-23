@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this role, as they lack professional experience in JavaScript, TypeScript, and React, which are the core requirements of the position. Their background is primarily in graphic design and manual labor, with no evidence of hands-on experience in automated testing, CI/CD, or cloud infrastructure. While they have basic HTML/CSS knowledge, they do not possess the software engineering expertise required to function in a modern frontend development environment.

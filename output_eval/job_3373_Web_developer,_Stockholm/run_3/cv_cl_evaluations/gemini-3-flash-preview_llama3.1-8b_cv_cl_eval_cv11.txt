@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Quality Assurance specialist applying for a Front-End Developer role, representing a fundamental mismatch in core skills and professional focus. They lack the required proficiency in React, TypeScript, and modern CSS tooling, and provide no evidence of experience with NodeJS, AWS, or CI/CD pipelines. Furthermore, the candidate's professional experience is significantly outdated, with no recorded employment since 2015.

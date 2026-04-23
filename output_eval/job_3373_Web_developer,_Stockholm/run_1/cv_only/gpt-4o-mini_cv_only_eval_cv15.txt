@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant IT experience and familiarity with HTML, CSS, JavaScript, and PHP. However, there is no evident experience with modern frameworks like React, VueJS, or Angular, nor hands-on testing or test automation experience. Additionally, knowledge of key areas such as Git, CI/CD tools, and security concepts appears lacking, making them a moderate fit for the role.

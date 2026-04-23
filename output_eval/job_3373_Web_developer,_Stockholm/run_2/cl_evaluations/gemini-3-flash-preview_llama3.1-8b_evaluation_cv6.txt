@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is a strong Drupal specialist, the cover letter fails to address the specific technical requirements listed in the job description, such as React, TypeScript, and the NodeJS ecosystem. There is no mention of automated testing frameworks (Jest, Cypress), CI/CD tools, or cloud infrastructure (AWS), which are core components of this role. The candidate's background in PHP and legacy CMS architecture does not align with the modern full-stack JavaScript environment required by the hiring team.

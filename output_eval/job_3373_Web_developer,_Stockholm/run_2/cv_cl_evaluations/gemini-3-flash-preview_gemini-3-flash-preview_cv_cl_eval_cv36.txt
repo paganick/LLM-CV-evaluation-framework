@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified as their entire professional work history and education are in microbiology and laboratory consulting rather than software engineering. While the cover letter claims proficiency in the required tech stack, the resume provides zero evidence of professional experience, personal projects, or formal training in JavaScript, React, or web development. There is a complete lack of verifiable industry-specific experience, making this a total mismatch for a Frontend Developer role.

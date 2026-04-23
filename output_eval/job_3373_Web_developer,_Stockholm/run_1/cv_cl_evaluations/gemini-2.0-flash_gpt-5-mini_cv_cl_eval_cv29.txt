@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and sales, not front-end engineering. While the cover letter expresses interest in transitioning to a more technical role and mentions some interaction with software teams, the resume lacks demonstrable experience with the core technologies listed in the job description such as JavaScript, React, and testing frameworks. The candidate's skills are heavily weighted towards sales, marketing, and CRM management, making them a weak fit for a front-end engineering position.

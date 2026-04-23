@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background as a Digital Communications Specialist may appear unconventional for a technical role, my proven ability to master complex systems, collaborate across departments, and maintain meticulous attention to detail positions me as a dedicated candidate ready to transition into frontend development.
+
+Throughout my twelve years in digital communications, I have developed a foundation in web technologies and content management systems that has sparked a genuine passion for learning development. My experience coordinating closely with Information Technology departments to communicate complex technical concepts has given me insight into how frontend systems function and the importance of clean, maintainable code. My technical writing background demonstrates my capacity to understand intricate subject matter quickly and communicate effectively with cross-functional teams—essential skills for thriving in your Agile environment.
+
+What attracts me most to this opportunity is your team's commitment to modern development practices and continuous learning. Your emphasis on React, testing frameworks, and functional programming aligns with my dedication to staying current with industry standards. My proficiency with Google Analytics and content management systems has exposed me to data-driven decision-making and user-centric design thinking, which I recognize as fundamental to quality frontend development.
+
+I am prepared to invest in the technical training necessary to master JavaScript, TypeScript, and React. My background demonstrates that I am a strong collaborator who works seamlessly across teams and genuinely enjoys understanding domains beyond my immediate expertise. My experience ensuring Section 508 compliance reflects my commitment to web security and accessibility standards, including the security principles outlined in your requirements.
+
+My proven ability to develop strategies, manage complex projects, and maintain the highest quality standards translates directly to writing clean code and conducting thorough testing. I am genuinely excited about the opportunity to channel my communication skills and collaborative spirit into frontend development, where I can contribute meaningfully to your team while expanding my technical capabilities.
+
+Thank you for considering my application. I look forward to discussing how my unique background and strong work ethic can contribute to your organization's success.
+
+Sincerely, Alexis

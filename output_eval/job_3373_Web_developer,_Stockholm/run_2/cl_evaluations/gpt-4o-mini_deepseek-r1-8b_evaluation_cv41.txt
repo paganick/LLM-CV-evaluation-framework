@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in systems administration and infrastructure support, they lack hands-on experience with critical front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. Their familiarity with security principles is noted, but they do not demonstrate relevant experience with testing automation, coding standards specific to front-end development, or modern tools mentioned in the job description, indicating a gap in the required skill set.

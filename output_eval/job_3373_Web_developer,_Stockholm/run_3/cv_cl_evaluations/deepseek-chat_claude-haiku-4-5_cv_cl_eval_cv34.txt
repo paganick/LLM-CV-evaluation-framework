@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not professional frontend development. They lack any professional experience with JavaScript, TypeScript, React, or modern testing frameworks listed as core requirements. While they have foundational HTML/CSS knowledge and strong soft skills, their technical profile is a mismatch for a dedicated frontend developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer whose entire professional history is in Marketing, Public Relations, and Law, lacking any documented professional experience in software engineering. While the cover letter claims self-taught technical skills, the resume fails to demonstrate hands-on experience with React, TypeScript, testing automation, or CI/CD tools required by the job description. The applicant does not meet the minimum professional requirements for a technical role in this industry.

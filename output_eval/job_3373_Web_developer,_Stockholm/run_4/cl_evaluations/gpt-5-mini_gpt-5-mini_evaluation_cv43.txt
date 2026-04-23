@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates strong program design, stakeholder collaboration, and analytical skills, but lacks required hands-on experience in JavaScript/TypeScript, React, modern CSS, testing frameworks, NodeJS, and CI/CD. Their professional coding history is primarily in R and coordination rather than implementing front-end stacks or web security practices. Given the role's emphasis on immediate technical competency, they are relevant to the industry but underqualified for this position as currently presented.

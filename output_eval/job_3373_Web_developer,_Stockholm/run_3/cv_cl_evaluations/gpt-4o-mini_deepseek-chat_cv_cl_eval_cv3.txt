@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a degree in IT with coursework relevant to web development, and they possess some foundational skills in HTML, CSS, and JavaScript. However, they lack hands-on experience with key technologies mentioned in the job description, such as React, testing frameworks, and modern CSS tools. Their background in the construction industry does not provide sufficient direct experience in a web development role, which limits their fit for this position.

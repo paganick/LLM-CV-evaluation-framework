@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in HTML, CSS, and graphic design, and demonstrates a commitment to clean code and Agile collaboration. However, they lack explicit mention of JavaScript, TypeScript, and modern testing frameworks, which are critical for the role. The candidate's experience with React is noted, but additional familiarity with other specific tools and frameworks mentioned in the job description is not addressed.

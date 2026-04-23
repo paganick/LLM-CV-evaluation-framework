@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant visual design, Adobe suite and HTML/CSS skills and some client-facing and prototyping experience, which are partially transferable to a UX role. However they lack explicit commercial UX experience, no evidence of working in an Agile environment, no Figma experience, limited demonstrated user research or UX team management, and no exposure to JS or design system ownership. Given these gaps against core requirements (UX role experience, Figma/Agile, research and team processes), they are not yet a strong fit for this position.

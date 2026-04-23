@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in web application development, RESTful APIs, and Agile methodologies. They express a desire to learn React and modern CSS tools, aligning with the job description's requirements. Their experience with TDD/BDD and security protocols like OAuth2.0 is a plus.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant analytical background and demonstrates strong learning aptitude, but lacks direct, hands-on professional experience with the core frontend technologies listed in the job description (JavaScript, TypeScript, React, CSS). While they mention a desire to learn these, the role requires existing, practical experience. Their data analysis and engineering discipline are transferable assets but do not directly fulfill the specific technical requirements.

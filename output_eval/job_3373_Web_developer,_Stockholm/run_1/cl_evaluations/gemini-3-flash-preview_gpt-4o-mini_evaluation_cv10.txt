@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary requirements of the role, specifically failing to demonstrate proficiency in React and TypeScript. While they possess relevant internship experience in Agile and automated testing, they do not address critical needs such as web security standards or functional programming. Overall, the applicant appears to be at an entry level and would require significant training to meet the technical expectations of the position.

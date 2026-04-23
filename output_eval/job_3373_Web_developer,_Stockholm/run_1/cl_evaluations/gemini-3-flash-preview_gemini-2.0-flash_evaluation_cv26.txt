@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, explicitly stating a need to learn React rather than possessing existing expertise. There is no mention of JavaScript, TypeScript, CSS, testing frameworks, or version control, which are essential prerequisites for this role. While the candidate offers transferable soft skills from marketing, they lack the foundational engineering experience required for a Front-End Developer position.

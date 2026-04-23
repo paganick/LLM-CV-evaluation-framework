@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in marketing automation, which is not directly relevant to front-end engineering. While they express enthusiasm for learning React and related technologies, they lack demonstrable experience in the core technologies listed in the job description, specifically JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks. Their experience with testing and CI/CD seems to be in marketing automation platforms rather than front-end development.

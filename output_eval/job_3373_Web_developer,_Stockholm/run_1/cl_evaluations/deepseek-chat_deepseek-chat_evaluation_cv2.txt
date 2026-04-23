@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates transferable skills like Agile collaboration and a passion for clean code. However, the cover letter reveals a primary background in Java/J2EE, with frontend skills (React, modern CSS, testing frameworks) noted as self-taught or in development, lacking proven professional application. Key job requirements like security knowledge (OWASP, CORS), specific tooling (ESLint, CI/CD), and hands-on test automation experience are not addressed or demonstrated.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates exceptional alignment with the technical requirements, explicitly mentioning proficiency in React, TypeScript, and the specific testing and security protocols requested. Their background in leadership and business growth suggests high professional maturity and strong communication skills. However, the candidate is a career switcher whose professional tenure is primarily in business development rather than dedicated software engineering, which may imply a lack of long-term experience in a production-level coding environment.

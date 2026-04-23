@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional background is entirely in business development and organic chemistry, with no verifiable professional experience in modern software engineering. While the cover letter lists relevant technologies, the resume fails to demonstrate any commercial application of React, TypeScript, or automated testing frameworks. As a career changer without a documented technical work history in the required stack, the candidate is unqualified for this specific engineering position.

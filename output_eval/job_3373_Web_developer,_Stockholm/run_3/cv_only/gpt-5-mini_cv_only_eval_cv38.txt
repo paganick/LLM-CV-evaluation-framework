@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's resume is focused entirely on film and media production with no demonstrated experience in JavaScript, TypeScript, React, modern front-end frameworks, testing, Node.js, or cloud/infra tools required by the role. There is no evidence of relevant technical skills or tooling (ESLint, Jest, Cypress, npm/Yarn, CI/CD, AWS/Terraform) and the background is in a different industry, making them unqualified for this position.

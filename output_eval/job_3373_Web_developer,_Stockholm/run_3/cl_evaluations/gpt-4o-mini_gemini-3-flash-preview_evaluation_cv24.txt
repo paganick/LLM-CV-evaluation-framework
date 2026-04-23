@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in digital communications and a solid foundation in web technologies relevant to the Frontend Developer position. They demonstrate familiarity with key tools such as React, TypeScript, and modern CSS, which aligns well with the job requirements. However, they do not provide evidence of direct experience with all listed testing frameworks and CI/CD tools, which slightly detracts from their qualification level.

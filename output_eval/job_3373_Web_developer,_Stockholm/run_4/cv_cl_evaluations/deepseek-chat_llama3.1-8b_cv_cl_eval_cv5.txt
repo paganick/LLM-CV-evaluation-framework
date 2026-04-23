@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL), which is a completely different technology stack and industry from the modern web development role described. There is no mention of any required skills like JavaScript, React, TypeScript, testing frameworks, or modern web development practices. This is a case of a completely unqualified candidate applying for the wrong industry.

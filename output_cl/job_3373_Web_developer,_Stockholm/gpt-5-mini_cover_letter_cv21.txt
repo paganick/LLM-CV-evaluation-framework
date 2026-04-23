@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software developer with over two decades of experience designing, building, and maintaining web applications and websites. My background blends front-end design and full-stack development: HTML5, CSS3, JavaScript, jQuery, AngularJS, and extensive experience with C#, ASP.NET, MVC, SQL Server and related tooling. As a freelancer and as a lead developer I have consulted directly with clients, created mockups, led development teams, implemented testing processes, and delivered production websites on time and on budget.
+
+At Fiserv I helped reduce migration hours by 62.5% by creating mapping and verification tooling and participating in the design of unit testing software to validate LUXML outputs. That experience demonstrates my hands-on approach to test automation and to building processes that improve reliability and throughput. In multiple roles I created and improved testing and review cycles, worked with QA and business analysts to ensure code met requirements, and led user-acceptance reviews.
+
+I am comfortable working in Agile teams and participate regularly in daily scrums. I have led and mentored junior developers, supervised offshore team members, and coordinated with clients and cross-functional partners to gather requirements and iterate on solutions. My visual design experience using the Adobe suite and my history of creating mockups and refining UI with users helps me bridge design and engineering so interfaces are both usable and maintainable.
+
+I have practical experience adding authentication, auditing, and other security-related improvements while re-architecting legacy systems, and I take web security seriously. I am familiar with source control, ticketing systems and collaborative workflows using tools such as TFS and JIRA, and I quickly learn new repositories and hosting services.
+
+Although much of my recent work has been in .NET and legacy stacks, I actively stay current and am highly motivated to adopt modern front-end frameworks and tools — including React and TypeScript, modern CSS approaches, testing frameworks, and NodeJS-based tooling. My combination of front-end design sensibility, back-end experience, testing mindset, and collaboration skills position me to contribute effectively to your team.
+
+Earlier in my career I designed and implemented web-based reporting and customer-facing applications that increased operational efficiency—for example, I built reports and a Customer Mortgage Application while at FBC Mortgage—and at AgriLogic I helped reduce a maintenance backlog from roughly fifty tickets to three or four per day by addressing root causes and improving processes. I bring this same focus to measurable improvements.
+
+Sincerely, Alexis

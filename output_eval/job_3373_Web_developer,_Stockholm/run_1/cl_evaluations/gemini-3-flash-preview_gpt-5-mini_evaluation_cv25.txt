@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a design background and lacks the core technical competencies required for a front-end engineering role, specifically JavaScript, TypeScript, and React. While they possess strong visual skills and basic HTML/CSS knowledge, they offer no professional experience with Git, automated testing, web security, or modern build tools. As a recruiter, I cannot prioritize a candidate who requires fundamental training in the primary technologies specified in the job description.

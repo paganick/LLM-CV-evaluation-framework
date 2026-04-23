@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no relevant experience or qualifications in software development, and their background is primarily in sales and management. They lack the technical skills outlined in the job description, such as JavaScript, TypeScript, modern front-end frameworks, testing, and familiarity with CI/CD tools. Their cover letter does not demonstrate any substantial proficiency or experience in the required technical domain.

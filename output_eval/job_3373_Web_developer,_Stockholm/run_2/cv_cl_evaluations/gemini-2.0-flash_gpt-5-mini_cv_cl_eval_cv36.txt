@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight a background in microbiology, quality control, and training, with no mention of front-end development skills (JavaScript, React, HTML, CSS, etc.) listed in the job description. While the candidate expresses interest in transitioning to front-end engineering, they lack the fundamental technical skills and experience required for the role. The skills mentioned are not transferable to the technical requirements of the job.

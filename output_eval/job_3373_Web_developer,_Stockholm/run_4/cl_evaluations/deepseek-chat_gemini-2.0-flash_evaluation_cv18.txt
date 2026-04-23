@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but fails to demonstrate the specific technical skills required. The cover letter is generic, mentioning only basic technologies and lacking any evidence of React, TypeScript, testing, modern tooling, or the security concepts listed in the job description. While they show a long career in IT, the application does not convincingly translate that experience into the precise front-end developer role as defined.

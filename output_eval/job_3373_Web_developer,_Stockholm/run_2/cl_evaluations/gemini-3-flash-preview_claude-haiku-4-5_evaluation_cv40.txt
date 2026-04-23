@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant industry experience and understands the conceptual requirements of the role, they lack professional experience as a primary software engineer. Their background is heavily focused on product management and strategy, meaning they lack a proven track record of writing production-ready code or managing complex frontend architectures. The application demonstrates a career pivot rather than the specific, hands-on engineering mastery required for this position.

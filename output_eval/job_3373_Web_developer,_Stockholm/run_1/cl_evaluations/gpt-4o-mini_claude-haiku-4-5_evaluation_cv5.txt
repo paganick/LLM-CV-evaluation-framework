@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has significant software development experience and familiarity with core web technologies, they lack direct experience with modern frontend frameworks beyond React. Additionally, there is no mention of experience with essential tools and knowledge specified in the job description, such as CSS tools, testing frameworks, and CI/CD practices. This indicates a gap in specific skills required for the role, making them a relevant but not fully qualified candidate.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and a strong foundation in core web technologies, but lacks specific hands-on experience with modern front-end frameworks like React, which is critical for this position. While they demonstrate familiarity with essential web development practices and a commitment to maintainable code, their lack of direct experience with testing automation and CI/CD tools limits their suitability for the role.

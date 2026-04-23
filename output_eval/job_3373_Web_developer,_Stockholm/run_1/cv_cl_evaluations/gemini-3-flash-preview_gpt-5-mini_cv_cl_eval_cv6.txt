@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned Drupal developer with solid foundational skills in HTML, CSS, and legacy JavaScript (jQuery), but lacks any professional experience with the primary requirements of React and TypeScript. Their testing background in Selenium and Behat does not align with the modern stack of Jest and Cypress specified in the job description. While the candidate has relevant industry experience, the technical gap regarding modern frontend frameworks and the NodeJS ecosystem is too significant for this role.

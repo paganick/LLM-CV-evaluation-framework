@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital media and project management, but lacks specific proficiency in key technical skills such as JavaScript, TypeScript, and experience with modern frontend frameworks like React. While they have some exposure to HTML, CSS, and testing automation, their background is primarily focused on Salesforce Marketing Cloud rather than front-end development, making them less suitable for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in IT and web development, but the job description is for a specialized modern front-end developer role requiring specific, hands-on experience with React, TypeScript, modern testing frameworks, and functional programming (Ramda). The candidate's resume and cover letter show broad IT consulting and legacy web development skills but lack explicit, recent experience with the specific technologies and frameworks listed as requirements, particularly React, TypeScript, and modern testing/CI/CD tools.

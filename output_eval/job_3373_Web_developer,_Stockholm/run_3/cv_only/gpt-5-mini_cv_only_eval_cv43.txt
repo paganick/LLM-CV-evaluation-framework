@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a career in program design, learning, and project management with no verifiable experience in JavaScript, TypeScript, HTML/CSS, React, or any modern frontend frameworks and tooling required by the role. There is only an "Intermediate coding in R studio" entry and no evidence of testing frameworks, Git, Node/npm, CSS tools, or cloud/CI knowledge, so the candidate does not meet the technical requirements. Given the complete mismatch in core technical skills and domain, this candidate is not qualified for the position.

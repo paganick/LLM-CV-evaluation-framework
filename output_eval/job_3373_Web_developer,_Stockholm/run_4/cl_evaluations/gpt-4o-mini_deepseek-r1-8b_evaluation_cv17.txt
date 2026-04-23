@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in construction and project management, which does not align with the technical requirements laid out in the job description. While they possess strong organizational and collaborative skills, they lack the necessary experience with JavaScript, TypeScript, modern front-end frameworks, testing automation, and CI/CD tools, which are crucial for the role.

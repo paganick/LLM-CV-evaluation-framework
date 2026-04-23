@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical role, possessing a background entirely in sales leadership rather than software engineering. They admit to lacking proficiency in the core requirements—JavaScript, TypeScript, and React—stating only a desire to learn them. There is no evidence of experience with testing, Git, security protocols, or the modern development ecosystem required for this position.

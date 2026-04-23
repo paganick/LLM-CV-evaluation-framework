@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant front-end skills (JavaScript, HTML, CSS), but their experience seems more focused on .NET development. There's a lack of concrete evidence of deep expertise in modern FE frameworks like React as the job description prioritizes, and key areas like testing frameworks (Jest, Cypress) are only mentioned in passing in the cover letter, not demonstrated in the resume. The candidate mentions Agile experience, which is a plus, but overall, the experience and skills alignment are not strong enough for a higher score.

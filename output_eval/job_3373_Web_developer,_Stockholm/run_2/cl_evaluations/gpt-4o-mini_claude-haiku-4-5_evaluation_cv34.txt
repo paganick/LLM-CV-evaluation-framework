@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational knowledge in HTML and CSS and mentions interest in modern frameworks like React, but lacks direct experience with JavaScript, TypeScript, and the specific frameworks sought in the job description. While they have relevant collaborative experience, many technical requirements, such as hands-on testing experience and familiarity with modern CSS tools, are not clearly addressed.

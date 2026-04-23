@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical skills and industry experience, but the cover letter is unfocused and misaligned with the specific role. It heavily emphasizes senior business leadership and project management, while the job description is for a hands-on frontend developer role requiring specific modern tools and practices. Key technical requirements from the job description, such as modern CSS tools, testing frameworks, Node.js, and security basics, are not addressed.

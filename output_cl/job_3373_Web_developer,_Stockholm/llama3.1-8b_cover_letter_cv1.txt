@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Information Technology Intern (Test Automation Engineer) position at your esteemed organization. With over three years of experience in software development and a strong background in object-oriented programming, data structures, and algorithms, I am confident that I can make a valuable contribution to your team.
+
+As a seasoned Java developer with expertise in Spring Boot, Spring Cloud, and Microservices architecture, I have developed a robust test automation framework using Selenium WebDriver and Spring Boot. My experience in working with Agile methodologies and Version Control Tools like SVN and Git has equipped me with the skills necessary to work effectively in a collaborative environment. I am also proficient in developing Web interfaces using HTML5, CSS3, Bootstrap, JavaScript, jQuery, AngularJS, ReactJS, and BackboneJS.
+
+In my previous role as an Information Technology Intern (Test Automation Engineer), I created a test automation framework that allowed automated regression testing of the 'WebTix' frontend/web interface. I leveraged the benefits of both data-driven and behavior-driven approaches to build a maintainable and reusable framework. I also integrated automated tests with Cucumber, allowing the Quality Assurance team to write high-level use cases in plain text.
+
+I am particularly drawn to this role at your organization because of its emphasis on collaboration, innovation, and continuous learning. As someone who is passionate about writing clean code and staying up-to-date with the latest technologies, I believe that I would thrive in your dynamic environment.
+
+In addition to my technical skills, I possess excellent communication and problem-solving skills, which have been demonstrated through my experience working with clients and handling technical aspects in sales pitches. My ability to work effectively in a team environment has been honed through my experience as a Resource Manager in the Robotics Club at Kathmandu Engineering College.
+
+I am confident that my unique blend of technical expertise, passion for innovation, and commitment to collaboration make me an ideal candidate for this role. I look forward to discussing my qualifications further and exploring how I can contribute to your team's success.
+
+Sincerely,
+Alexis

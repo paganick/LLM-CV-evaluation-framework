@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience as a Technical Project Manager and possesses some technical skills in JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frontend frameworks like React, as well as specific experience in testing frameworks and security practices mentioned in the job description. The project management focus limits their alignment with the core technical requirements expected for this role.

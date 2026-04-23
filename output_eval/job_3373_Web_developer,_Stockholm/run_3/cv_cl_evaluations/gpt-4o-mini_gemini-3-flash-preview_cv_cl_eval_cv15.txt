@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and some foundational skills in JavaScript, HTML5, and CSS3, but they lack specific experience with modern frontend frameworks like React. While they demonstrate a strong background in IT management and concepts of web security, their experience with testing frameworks and CI/CD tools appears limited. Additional knowledge in TypeScript, API design, and modern CSS tools is necessary to meet the requirements fully.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in digital communications, but lacks the specific technical skills in JavaScript, modern front-end frameworks like React, and testing frameworks required for the position. While they demonstrate some familiarity with HTML and CSS, there is no concrete experience with the essential technologies and tools listed in the job description. Their background does not align closely enough with the requirements of a front-end development role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development and organic chemistry, not front-end development, which is a significant mismatch. While they mention foundational HTML and C/C++, they lack any demonstrated experience with JavaScript, React, CSS, testing, or the other core technologies listed in the job description. Their leadership and problem-solving skills are strong, but they do not meet the specific technical requirements for the role.

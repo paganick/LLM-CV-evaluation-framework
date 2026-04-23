@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights Java/J2EE experience, which is not directly relevant to the JavaScript, React, and front-end focus of the job description. While the candidate mentions Agile and an interest in new technologies, the lack of specific front-end skills and experience makes them a weak match. The letter fails to address the core requirements outlined in the job description.

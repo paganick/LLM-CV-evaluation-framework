@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design with some knowledge of HTML and CSS, which is relevant to the front-end development position. However, they lack direct experience with JavaScript, TypeScript, and modern front-end frameworks such as React, which are critical for the role. Their other technical skills and understanding of web security concepts are minimal, indicating they would require significant training to meet the job's demands.

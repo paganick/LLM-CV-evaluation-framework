@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the professional technical experience required for this role, specifically missing proficiency in JavaScript, TypeScript, React, and modern testing frameworks. Their background is primarily in administrative management and the performing arts, with only basic mentions of HTML and web design that do not meet the level of a modern frontend engineer. There is no evidence of experience with Git, CI/CD, or the specialized tools mentioned in the job description.

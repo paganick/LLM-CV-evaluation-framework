@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is strictly limited to IT hardware support, systems administration, and retail technical sales, with no evidenced background in software engineering. While the cover letter mentions web technologies, the resume fails to show any professional application of JavaScript, TypeScript, or React, focusing instead on Windows servers and POS systems. This profile represents a complete lack of industry-specific experience required for a modern front-end development role.

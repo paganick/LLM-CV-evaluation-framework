@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses interest and lists relevant keywords, the resume lacks concrete evidence of hands-on experience with modern FE frameworks like React, TypeScript, or Node.js. Their experience is primarily in project/program management and quality assurance within different industries, not software engineering. The cover letter attempts to bridge this gap, but without demonstrable experience, the fit is weak.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development but primarily focuses on ASP.NET, which does not align with the requirement for JavaScript, TypeScript, and modern frontend frameworks like React. While they have experience with HTML and CSS, they lack hands-on experience with the preferred technologies and testing frameworks mentioned in the job description. Overall, the candidate's experience is relevant but does not meet the specific needs for this role.

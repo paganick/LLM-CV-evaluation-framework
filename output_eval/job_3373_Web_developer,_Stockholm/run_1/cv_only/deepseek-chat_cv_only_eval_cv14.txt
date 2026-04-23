@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in ASP.NET, C#, and SharePoint, which are not aligned with the job's core requirement for modern JavaScript/TypeScript and React. The resume shows no evidence of experience with React, Vue, Angular, Svelte, testing frameworks, modern CSS tools, or the other specific technologies listed. While they have basic web skills (HTML, CSS, JavaScript) and have used GitHub, their background is in a different tech stack and does not meet the fundamental requirements for this front-end developer role.

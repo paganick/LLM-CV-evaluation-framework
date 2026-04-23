@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive full-stack experience and demonstrates strong collaboration, Agile, and testing skills that align well with the role. However, their recent hands-on experience is heavily weighted toward legacy .NET and AngularJS, not the specified modern React/TypeScript stack, and they lack explicit mention of key required tools like Jest, Cypress, or modern CSS methodologies. Their foundational skills and adaptability make them a strong, but not perfect, match for the position.

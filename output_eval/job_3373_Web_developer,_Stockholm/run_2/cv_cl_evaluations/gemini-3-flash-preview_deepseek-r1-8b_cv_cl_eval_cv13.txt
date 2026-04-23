@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager and lacks recent, hands-on professional experience in a dedicated software engineering role. Their resume does not demonstrate proficiency in the core required technologies such as React, TypeScript, and modern testing frameworks (Jest, Cypress), with their last developer-focused role occurring over a decade ago. While they possess strong Agile and project leadership skills, they do not meet the technical depth required for a modern frontend developer position.

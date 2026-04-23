@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over 18 years of general IT experience and lists basic web technologies like HTML5 and JavaScript, the resume lacks any specific evidence of modern front-end expertise in React, TypeScript, or testing frameworks like Jest and Cypress. Much of the professional history focuses on legacy tools (Flash, Dreamweaver), system administration, and project management rather than modern software engineering practices. Consequently, the candidate does not meet the technical depth required for a specialized modern front-end role.

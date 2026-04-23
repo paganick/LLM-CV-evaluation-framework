@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience as a front-end developer and explicitly states a need to learn core requirements like React rather than demonstrating proficiency in them. While their QA background and testing expertise are strong, they fail to mention experience with TypeScript, Git, or functional programming, which are listed as essential or preferred skills. Consequently, the candidate does not meet the specific development experience thresholds required for this position.

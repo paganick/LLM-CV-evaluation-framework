@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not software engineering. While they express interest in front-end development and have some basic knowledge of HTML, CSS, and SQL, they lack practical experience with the core technologies listed in the job description such as modern JavaScript frameworks (React, VueJS, Angular, Svelte), testing frameworks, and Node.js. The resume highlights database projects and ERP implementation experience, which are not directly relevant to the specific front-end skills required.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is from a completely different industry and admits to lacking professional experience with the core technical stack, specifically stating they are "eager to learn" JavaScript, React, and CI/CD. While their background in validation and documentation provides transferable soft skills, they do not meet any of the hard technical requirements for front-end engineering. As a strict recruiter, I find the candidate unqualified for this role as they lack the necessary programming, framework, and software testing experience.

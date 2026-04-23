@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical engineering role, as they lack all the mandatory requirements including JavaScript, TypeScript, React, and automated testing experience. Their professional background is exclusively in program management and learning design, which is a different industry and functional track. While the candidate mentions intermediate skills in R, they possess no professional experience in software development or the modern web stack specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings relevant digital/web communications experience, strong collaboration, accessibility and analytics exposure, and a willingness to learn. However, they lack demonstrable hands-on experience with core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node/npm, CI/CD, and related tooling) that this frontend role mandates. Their willingness to train is positive but insufficient for the immediate technical expectations of the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in data analysis and industrial engineering, not frontend development. While they express interest in learning React and related technologies, they lack the hands-on experience with JavaScript, TypeScript, HTML, CSS, and testing frameworks specified in the job description. Their experience with data-related tools like Python and SQL is not directly applicable to the frontend role.

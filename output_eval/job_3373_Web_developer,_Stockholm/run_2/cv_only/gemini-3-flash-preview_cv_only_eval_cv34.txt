@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing implementation consultant and lacks the fundamental software engineering experience required for this frontend development role. There is no evidence of proficiency in JavaScript frameworks, TypeScript, modern testing suites, or Git version control. Their technical skills are limited to basic HTML/CSS and Salesforce configuration, which does not align with the senior-level engineering requirements of the position.

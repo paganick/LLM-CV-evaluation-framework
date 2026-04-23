@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but lacks experience with React, a core requirement. While they express enthusiasm to learn, their primary experience lies in backend technologies like ASP.Net and C#, not the modern FE frameworks specified. The candidate's skills align better with older technologies, which makes them a less ideal fit.

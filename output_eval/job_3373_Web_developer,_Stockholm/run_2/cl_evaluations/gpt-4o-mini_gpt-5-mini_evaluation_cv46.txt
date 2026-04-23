@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in Java, databases, and problem-solving skills, but lacks direct experience with modern front-end frameworks like React, as well as familiarity with TypeScript, CSS tools, and testing frameworks mentioned in the job description. While their eagerness to learn and expand into front-end development is noted, they do not meet several key technical requirements.

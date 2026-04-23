@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of web development, including JavaScript and HTML, but lacks direct experience with modern front-end frameworks like React, which is crucial for the role. While their experience with testing and a commitment to clean code is commendable, the resume suggests a gap in specific frontend technology experience that may hinder their ability to contribute effectively in a React-only environment.

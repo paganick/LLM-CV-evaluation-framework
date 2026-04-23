@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses some foundational skills in HTML and web design, along with a commitment to learning JavaScript and React. However, their experience is primarily in administrative and creative roles, lacking direct experience in modern frontend frameworks, testing automation, and tools specified in the job description like styled-components, testing frameworks, or CI/CD tools. Additionally, they have minimal exposure to the technical aspects of web security and the NodeJS ecosystem, which are critical for this position.

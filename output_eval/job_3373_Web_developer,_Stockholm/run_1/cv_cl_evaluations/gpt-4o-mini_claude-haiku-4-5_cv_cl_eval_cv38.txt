@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily focused on media production with limited direct experience in frontend development. While they express enthusiasm and have some foundational skills, they lack essential technical expertise in JavaScript, TypeScript, modern frameworks like React, and familiarity with testing automation and CI/CD tools, which are critical for the role. Their transition to frontend development is noted, but they do not meet the core requirements outlined in the job description.

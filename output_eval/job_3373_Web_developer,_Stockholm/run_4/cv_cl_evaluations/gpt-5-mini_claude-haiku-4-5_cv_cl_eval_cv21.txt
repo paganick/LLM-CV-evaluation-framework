@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings decades of web development experience (HTML5/CSS3/JavaScript, AngularJS, .NET) and strong collaboration/Agile practices, but primarily in legacy stacks. They lack hands-on experience with React and TypeScript, modern frontend tooling and ecosystems (Node/npm/Yarn, Styled Components/SASS), and contemporary testing frameworks (Jest/Cypress) that are required for this role. These gaps make them relevant to the industry but not a strong fit for a React-focused frontend position.

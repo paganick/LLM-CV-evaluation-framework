@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on product management and Agile methodologies, but lacks specific technical skills mentioned in the job description such as JavaScript, React, and testing frameworks. While the candidate expresses an interest in technology, their experience doesn't directly align with the required FE developer skillset. There is little to no discussion of practical programming or the tools listed in the job description.

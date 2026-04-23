@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary technologies required, specifically React and TypeScript. While they have a solid background in .NET and Python, they do not demonstrate hands-on expertise with modern frontend testing frameworks, functional programming, or the specified CI/CD and cloud tools. The profile is that of a generalist developer rather than the specialized frontend expert requested in the job description.

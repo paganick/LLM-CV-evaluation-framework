@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, lacking explicit experience with the core front-end technologies listed in the job description, such as JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. While they express interest in learning React, their current skill set doesn't align with the required technical expertise. The resume focuses on data analysis tools and methodologies, not front-end development.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Data Analyst with a background in Industrial Engineering and Statistics, which is entirely unrelated to the requested Frontend Developer role. They lack all essential technical requirements, including JavaScript, TypeScript, React, and CSS. There is no evidence of experience in web development, version control, or cloud infrastructure.

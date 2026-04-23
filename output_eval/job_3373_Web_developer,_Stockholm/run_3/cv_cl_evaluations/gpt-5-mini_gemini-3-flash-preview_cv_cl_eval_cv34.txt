@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid HTML/CSS, SQL, documentation, and client-facing/QA experience which are relevant, and expresses interest in React/TypeScript. However, their resume does not demonstrate hands-on experience with JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), Git, Node ecosystem, CI/CD, or web security—core requirements for this role. They would need substantial upskilling to meet the technical expectations of this frontend engineering position.

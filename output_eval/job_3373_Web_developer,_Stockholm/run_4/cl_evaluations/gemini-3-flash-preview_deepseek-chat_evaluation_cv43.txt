@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks any professional experience in software engineering, failing to meet the "hands-on" requirement for production environments. While they demonstrate self-taught proficiency in the core React/TypeScript stack, they completely omit essential requirements such as CI/CD, AWS, Terraform, and API design. Their background in learning science is not a direct substitute for the technical rigor and industry experience required for this position.

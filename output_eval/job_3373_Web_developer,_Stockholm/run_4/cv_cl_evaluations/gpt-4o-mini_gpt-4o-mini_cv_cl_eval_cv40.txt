@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in product management within the tech industry, demonstrating strong collaboration and project management skills. However, they lack direct hands-on software development experience, particularly in modern frontend frameworks and specific technologies outlined in the job description, such as React and testing frameworks. Despite their knowledge of web technologies and security principles, this gap in direct coding experience limits their fit for the role.

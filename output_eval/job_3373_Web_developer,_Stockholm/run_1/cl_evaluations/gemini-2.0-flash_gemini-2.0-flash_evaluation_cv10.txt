@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript, HTML, and CSS, but lacks explicit React experience, which is key to the job description. While the candidate worked in Agile and has some testing experience, the cover letter doesn't showcase hands-on experience with specific testing frameworks mentioned. There is also no evidence of security knowledge, Git, or modern CSS tools.

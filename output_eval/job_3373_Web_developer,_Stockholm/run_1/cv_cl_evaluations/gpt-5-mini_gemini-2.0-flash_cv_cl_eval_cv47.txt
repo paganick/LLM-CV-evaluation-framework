@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in business development with only rudimentary HTML and unrelated programming experience; there is no demonstrated professional experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, version control, NodeJS or cloud/CI practices required for the role. While they show strong cross-functional and communication skills and willingness to learn, they lack the core technical qualifications and hands-on front-end experience to be considered for this position.

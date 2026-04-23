@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in communications, not software engineering, and they lack direct, hands-on experience with the core technical stack required for the role (JavaScript, TypeScript, React, testing frameworks, Git). While they demonstrate relevant soft skills and a strong motivation to learn, their professional experience does not align with the specific technical qualifications listed in the job description. They are from a relevant digital industry but lack the specific engineering skills and experience.

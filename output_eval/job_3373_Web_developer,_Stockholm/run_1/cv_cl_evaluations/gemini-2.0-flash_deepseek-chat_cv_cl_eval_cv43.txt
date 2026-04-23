@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in program management and learning design, not front-end development. While they claim self-study in relevant technologies, the resume lacks concrete professional experience with the specific technologies mentioned in the job description (React, testing frameworks, CI/CD). The cover letter attempts to bridge the gap, but the lack of demonstrable experience is a significant weakness.

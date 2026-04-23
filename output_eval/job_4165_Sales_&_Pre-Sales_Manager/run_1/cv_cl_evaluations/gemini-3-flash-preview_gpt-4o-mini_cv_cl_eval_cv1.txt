@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is almost exclusively in digital marketing, SEO, and content management rather than the required enterprise-level sales or technical pre-sales. They lack the mandatory three years of client-facing sales experience in specific domains like API, Cloud, or Microservices, focusing instead on marketing tools and demand generation. Furthermore, the resume does not demonstrate the technical depth required to lead architectural design reviews or manage complex sales cycles for mid-to-large-scale banking or telco clients.

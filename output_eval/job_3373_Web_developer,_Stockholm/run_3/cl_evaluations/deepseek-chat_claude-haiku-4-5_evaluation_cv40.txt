@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant industry knowledge and soft skills, but lacks concrete, hands-on development experience. The cover letter describes adjacent involvement (managing, collaborating, specifying) rather than direct, recent experience in writing production frontend code with the required technologies like React, TypeScript, and modern testing frameworks. While the strategic and product background is valuable, it does not sufficiently substitute for the core technical execution skills demanded by the role.

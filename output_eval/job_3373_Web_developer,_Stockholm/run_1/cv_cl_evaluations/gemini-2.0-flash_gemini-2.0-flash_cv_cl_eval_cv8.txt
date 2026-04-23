@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, which is not directly relevant to front-end development. While they express interest in transitioning to front-end development with React, the resume lacks demonstrable experience with JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. The cover letter attempts to bridge the gap, but the lack of relevant skills and experience makes them a weak fit.

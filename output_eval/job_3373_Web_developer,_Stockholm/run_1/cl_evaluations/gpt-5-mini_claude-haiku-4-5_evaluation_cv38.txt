@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills (HTML/CSS exposure, visual design, project management and eagerness to learn React) but provides no concrete, hands-on experience with key job requirements such as JavaScript/TypeScript, React projects, testing frameworks, Git workflows, Node/npm, security practices, or CI/CD. Their cover letter emphasizes motivation and learning rather than proven technical competency, so they are not yet qualified for a role that expects immediate, practical expertise.

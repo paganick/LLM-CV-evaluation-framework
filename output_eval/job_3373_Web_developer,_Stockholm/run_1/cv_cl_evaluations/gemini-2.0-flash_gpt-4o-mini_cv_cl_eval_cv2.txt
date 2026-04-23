@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in Java/J2EE development and expresses interest in front-end development, but the resume lacks substantial experience with JavaScript, TypeScript, React, or modern front-end testing frameworks. While they mention familiarity with HTML and CSS, their expertise is clearly centered on back-end technologies. The cover letter attempts to bridge this gap, but the overall profile doesn't align well with the job description's core requirements.

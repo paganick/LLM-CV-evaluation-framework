@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive graphic design experience and solid visual toolset but does not demonstrate specific UI/UX experience (wireframing, prototyping, user flows) or use of required wireframe/prototyping tools such as InVision or Wireframe.cc. Their software experience is dated to Adobe CS5 and focuses on print/visual merchandising rather than contemporary product UX practices and collaboration with researchers/engineers. With some upskilling in modern UX tools and process, they could be a relevant hire, but currently lack key required competencies.

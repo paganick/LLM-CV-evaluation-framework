@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows extensive full-stack and scripting experience but lacks specific, recent frontend framework expertise, particularly with React which is explicitly required. While the cover letter claims alignment, the resume provides no concrete evidence of hands-on experience with React, modern testing frameworks (Jest, Cypress), or key tools like Styled Components, which are core to the role. The experience is broad but dated and not focused on the modern frontend stack and practices detailed in the job description.

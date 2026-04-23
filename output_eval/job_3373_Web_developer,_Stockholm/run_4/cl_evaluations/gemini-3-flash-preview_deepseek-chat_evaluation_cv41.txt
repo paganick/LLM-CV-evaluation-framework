@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate addresses almost every specific technical requirement, including React, TypeScript, testing frameworks like Jest/Cypress, and niche areas like functional programming and web security. Their systems engineering background and Security+ certification provide high-value expertise in performance and infrastructure that aligns well with the full-domain interest requested. However, as their professional history is rooted in systems and IT rather than dedicated front-end engineering, they fall slightly short of a perfect score.

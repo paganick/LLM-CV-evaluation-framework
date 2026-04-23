@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in technology consulting and marketing automation but lacks direct hands-on experience with frontend frameworks such as React and other specific tools mentioned in the job description. While they demonstrate a foundational knowledge in JavaScript and HTML/CSS, they do not show familiarity with several key requirements such as modern CSS tools, testing frameworks, or CI/CD processes. Their strong collaboration and learning mindset are noted, but they still fall short of being a fully qualified candidate for the role.

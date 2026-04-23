@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong, relevant background in design with some HTML and web experience and demonstrates good collaboration and learning aptitude, which aligns partially with the role. However, they lack demonstrated hands‑on experience with core technical requirements—JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), Node ecosystem, CI/CD, and web security—that are essential for this position. While motivated to transition and learn, current skill gaps mean they are not yet qualified for the role as advertised.

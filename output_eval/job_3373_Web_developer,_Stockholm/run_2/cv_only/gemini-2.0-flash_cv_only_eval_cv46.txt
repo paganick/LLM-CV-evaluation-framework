@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript and HTML. However, the resume lacks specific experience with modern FE frameworks like React, testing frameworks, and CI/CD tools mentioned in the job description. The experience is also dated and doesn't highlight the specific skills required for the role.

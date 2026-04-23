@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in media production and creative management with no demonstrated experience in JavaScript/TypeScript, React, modern frontend frameworks, testing frameworks, Git, NodeJS, or cloud/infra tools required by the role. While they show strong project management and UX-oriented creative skills, they lack the core technical competencies and hands-on coding/testing experience necessary for this frontend engineering position.

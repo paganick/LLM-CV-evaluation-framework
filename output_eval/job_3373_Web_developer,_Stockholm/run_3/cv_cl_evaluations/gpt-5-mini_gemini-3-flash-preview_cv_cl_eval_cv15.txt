@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web skills (HTML5, CSS3, JavaScript) and some relevant project experience and security awareness, but their resume lacks demonstrated, recent professional experience with the required modern frontend stack (React, TypeScript), testing and test automation, Git/GitHub, Node tooling, linters/formatters, CI/CD, and cloud/infra experience. Much of the background appears dated and more IT/ops-focused than front-end engineering, so they are relevant to the industry but do not meet the specific skill requirements for this role.

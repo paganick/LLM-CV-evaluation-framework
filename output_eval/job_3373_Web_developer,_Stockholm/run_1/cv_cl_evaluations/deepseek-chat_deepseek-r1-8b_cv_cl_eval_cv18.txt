@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and mentions core web technologies (JavaScript, HTML, CSS). However, the resume and cover letter lack any specific, demonstrable experience with the required modern front-end frameworks (React, Vue, Angular, Svelte), TypeScript, testing frameworks, or the other listed tools (e.g., Node.js, AWS, CI/CD). The experience is heavily weighted towards IT consulting, systems administration, and broad web development, not the specialized modern front-end engineering role described.

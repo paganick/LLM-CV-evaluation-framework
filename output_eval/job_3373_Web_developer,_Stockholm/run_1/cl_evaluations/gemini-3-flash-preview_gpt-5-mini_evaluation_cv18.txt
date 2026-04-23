@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has extensive general experience in IT and web development, they lack the specific, hands-on professional expertise in React and TypeScript required for this role. Key technical requirements such as AWS, Terraform, and functional programming with Ramda are not addressed, and the candidate explicitly mentions needing to "grow into technology gaps." As a result, they are a relevant industry professional who lacks the necessary specific stack proficiency.

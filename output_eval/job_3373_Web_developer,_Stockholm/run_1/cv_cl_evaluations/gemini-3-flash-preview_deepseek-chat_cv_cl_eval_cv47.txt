@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with no professional experience in software development, having spent over seven years in business development and chemistry. While the cover letter mentions interest in React and TypeScript, the resume lacks evidence of hands-on experience with modern front-end stacks, testing frameworks, or CI/CD tools. This candidate is completely unqualified for a role requiring professional expertise in JavaScript and modern web engineering.

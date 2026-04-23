@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and strong foundational skills in software engineering, leadership, and Agile methodologies. However, they lack direct, hands-on experience with the specific modern front-end technologies required for the role, such as React, TypeScript, modern CSS tools, and the Node.js ecosystem, which are explicitly stated as requirements. Their background is heavily weighted toward mainframe and enterprise back-end systems, making them a candidate who would require significant upskilling.

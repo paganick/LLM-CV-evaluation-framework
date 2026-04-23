@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows extensive senior leadership experience in product management and marketing within the online media and video technology industry. However, it contains zero mention of the required technical skills (JavaScript, TypeScript, React, testing frameworks, Git, etc.) or hands-on software development experience. The profile is for a strategic business role, not a hands-on front-end engineering position, making them completely unqualified for this specific job.

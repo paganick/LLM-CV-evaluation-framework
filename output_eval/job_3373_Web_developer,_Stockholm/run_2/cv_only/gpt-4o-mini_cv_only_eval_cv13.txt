@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development and project management, but lacks direct experience with modern front-end frameworks like React, which is crucial for this role. While they possess some relevant skills like HTML, CSS, and JavaScript, the absence of hands-on testing and test automation experience, as well as familiarity with the full technology stack mentioned in the job description, limits their fit for the position.

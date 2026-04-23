@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant experience in web development basics such as JavaScript, TypeScript, HTML, and CSS, they lack hands-on experience with modern frameworks like React, which is specifically mentioned in the job description. Additionally, there is no evidence of experience with testing frameworks, Git, or the other technical skills required for the role. Their background is primarily administrative and does not align closely enough with the technical demands of the position.

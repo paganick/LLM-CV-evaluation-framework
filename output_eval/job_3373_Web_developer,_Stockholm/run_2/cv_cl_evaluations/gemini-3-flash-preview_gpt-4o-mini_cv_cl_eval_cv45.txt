@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive professional history is focused on high-level IT management and cybersecurity rather than software engineering or frontend development. There is a complete lack of documented experience with JavaScript, React, or modern web technologies in the resume, making the technical claims in the cover letter unsubstantiated. The candidate's background in government administration and network operations does not align with the requirements for a hands-on frontend developer.

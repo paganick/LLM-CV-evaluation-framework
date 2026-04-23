@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in JavaScript, HTML, and CSS, with over five years of experience and familiarity with modern frameworks. They have substantial experience in software development, API integration, and a passion for clean code. However, there is a lack of specific reference to React, testing frameworks, and CI/CD tools mentioned in the job description, which makes them a strong candidate but not an exact match.

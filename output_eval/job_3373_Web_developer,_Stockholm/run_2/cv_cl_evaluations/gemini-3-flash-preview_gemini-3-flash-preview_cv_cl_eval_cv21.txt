@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is heavily focused on legacy .NET, ASP.NET, and jQuery, failing to demonstrate required proficiency in React, TypeScript, or modern functional programming. There is no evidence of hands-on experience with the requested modern ecosystem, including SASS, Jest, Cypress, NodeJS, or AWS. While the candidate possesses strong Agile and leadership experience, their technical skillset is fundamentally misaligned with the modern frontend requirements specified.

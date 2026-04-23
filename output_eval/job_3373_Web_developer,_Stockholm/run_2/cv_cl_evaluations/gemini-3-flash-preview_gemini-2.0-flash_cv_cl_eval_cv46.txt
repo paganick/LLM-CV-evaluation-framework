@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s resume is significantly outdated, with no professional experience listed after 2017, and focuses primarily on legacy technologies like Java EJB and database administration. While the cover letter claims proficiency in React, TypeScript, and modern testing tools, the resume provides zero evidence of these skills being applied in a professional or project-based capacity. There is a fundamental disconnect between the candidate's documented work history and the specific requirements of a modern front-end developer role.

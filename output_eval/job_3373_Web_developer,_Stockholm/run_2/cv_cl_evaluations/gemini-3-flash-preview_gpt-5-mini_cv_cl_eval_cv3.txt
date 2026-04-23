@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's technical profile is heavily centered on legacy technologies like Flash, ActionScript, and Dreamweaver, lacking any practical experience with the required modern stack of React, TypeScript, and Node.js. There is no evidence of proficiency in automated testing, Git, or CI/CD pipelines, which are core requirements for this position. While the candidate has a relevant degree, the significant gap between their academic projects and current industry standards makes them a poor fit for this specific role.

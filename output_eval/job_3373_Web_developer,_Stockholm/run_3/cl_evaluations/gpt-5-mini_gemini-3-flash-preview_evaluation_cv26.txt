@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with core requirements — JavaScript/TypeScript, React, testing (Jest, Cypress), modern CSS tools, Git, Node ecosystem awareness, CI/CD and cloud familiarity, plus Agile collaboration skills. However, they do not explicitly mention linters/formatters (ESLint/Prettier), Express.js, concrete experience with Ramda/functional programming, or OWASP by name, which prevents a top score. Overall a strong match but not a perfect fit.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive experience is in financial operations, which does not align with the technical requirements of the Front-End Developer position. They lack the necessary skills in JavaScript, TypeScript, modern front-end frameworks, and testing and automation practices. Additionally, there is no indication of relevant coding experience or familiarity with key technologies needed for this role.

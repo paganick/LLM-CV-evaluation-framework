@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a marketing automation specialist and lacks any of the core technical skills required for this software engineering role, such as JavaScript, TypeScript, or React. Their experience is focused on MarTech platforms like Eloqua and Salesforce rather than full-cycle web development or frontend engineering. This is a complete industry and role mismatch, making the candidate unqualified for the position.

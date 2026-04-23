@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks hands-on experience with core technical requirements (JavaScript/TypeScript, React, testing frameworks, Git, Node/npm/yarn, CI/CD, and web security practices) which are essential for this Front-End Engineer role. While they demonstrate leadership, HTML/layout skills, and domain knowledge from sales, these transferable strengths do not compensate for the absence of required engineering experience; their stated motivation to learn is noted but insufficient for a production-facing engineering position.

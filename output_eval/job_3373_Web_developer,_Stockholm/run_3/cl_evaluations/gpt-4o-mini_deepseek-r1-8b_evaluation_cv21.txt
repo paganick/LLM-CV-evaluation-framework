@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Although the candidate has relevant experience in full-stack development and technologies like HTML, CSS, JavaScript, and C#, they lack specific experience with the required modern front-end frameworks (React, VueJS, Angular, Svelte) and testing frameworks mentioned in the job description. Additionally, there is no indication of familiarity with the NodeJS ecosystem or functional programming, which are also essential for the role.

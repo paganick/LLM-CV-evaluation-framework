@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in film and media production, which is completely unrelated to the software development industry. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing, Git, or any other technical requirements listed in the job description. The skills mentioned are non-transferable for a Front-End Developer role.

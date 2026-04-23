@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in web development and significant experience with JavaScript, HTML, and CSS, which are essential for the position. However, they do not explicitly mention experience with TypeScript or the specific modern CSS tools and testing frameworks listed in the job description, which indicates a lack of some specific skills required for the role.

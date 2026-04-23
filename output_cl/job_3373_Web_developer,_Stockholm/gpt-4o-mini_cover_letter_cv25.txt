@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the front-end developer position, where I can leverage my extensive background in design and keen interest in modern web technologies. With a Bachelor of Science in Journalism and Marketing, complemented by years of experience in graphic design and project management, I am eager to transition into the technical aspect of web development, particularly in the JavaScript ecosystem.
+
+My proficiency in HTML and CSS, paired with a strong design background, enables me to create visually compelling user interfaces. Although my formal experience with JavaScript and modern frameworks like React may be limited, I am dedicated to learning and adapting quickly. I am particularly drawn to working with React, as it aligns with my commitment to ongoing professional development and staying updated with the latest technologies.
+
+Collaborating with diverse teams has been a cornerstone of my career. I thrive in Agile environments where I can contribute to innovative brainstorming sessions and gain insights from my colleagues, external partners, and stakeholders. My background has instilled in me a strong sense of collaboration and an eagerness to understand the full domain in which I work, ensuring comprehensive solutions that meet client needs.
+
+I understand the importance of quality assurance in development, and while my experience with testing frameworks like Jest and Cypress is still growing, I have hands-on experience with ensuring quality in design projects. I am also familiar with version control systems, particularly Git and platforms like GitHub, allowing me to contribute effectively to team projects.
+
+Additionally, I have a basic understanding of web security principles such as OWASP, CORS, and OAuth, which I am excited to deepen. My organizational skills and attention to detail, honed through years of designing print and digital materials, will support my commitment to writing clean and efficient code.
+
+I am enthusiastic about the opportunity to contribute to your team and grow as a front-end developer. Thank you for considering my application. 
+
+Sincerely,  
+Alexis

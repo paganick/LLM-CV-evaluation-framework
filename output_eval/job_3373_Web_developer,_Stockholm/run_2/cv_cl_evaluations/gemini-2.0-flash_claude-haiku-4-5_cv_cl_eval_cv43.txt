@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, lacking direct experience in frontend development. While they express interest and some coding experience in R, they lack the required skills in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks like React, as specified in the job description. The resume does not showcase practical experience with testing frameworks, CI/CD tools, or other technologies mentioned in the job description.

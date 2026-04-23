@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the cover letter attempts to bridge the gap, the resume highlights a career primarily in business development, program management, and quality engineering within the aerospace and defense sectors, not software engineering. There's a lack of concrete evidence demonstrating hands-on experience with modern FE frameworks like React or TypeScript, and the mentioned skills are too high-level. Although the candidate expresses familiarity with relevant technologies, the depth of practical application is questionable based on the provided materials.

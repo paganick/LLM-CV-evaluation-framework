@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical role, possessing a background in digital communications and journalism rather than software engineering. They lack all mandatory technical skills, including JavaScript, TypeScript, React, and experience with testing frameworks or cloud infrastructure. This profile represents a total industry mismatch for a front-end development position.

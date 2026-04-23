@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundation in web development, but lacks specific experience with React, a core technology mentioned in the job description. While they mention familiarity with JavaScript, HTML, and CSS, the resume focuses heavily on .NET technologies, which are not emphasized in the job description. The candidate needs to showcase more frontend-specific skills and frameworks beyond jQuery and Bootstrap to be a stronger fit.

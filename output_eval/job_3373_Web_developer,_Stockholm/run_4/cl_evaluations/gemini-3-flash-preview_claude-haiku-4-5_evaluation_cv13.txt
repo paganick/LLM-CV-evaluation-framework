@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant industry experience, they are primarily a Project Manager attempting to transition into development and lack professional hands-on experience with the core requirements of React and TypeScript. They explicitly admit to limited formal testing framework experience, which is a key requirement of the role, and fail to mention proficiency with modern CSS tools or CI/CD pipelines. Their background is more suited for management than a dedicated frontend engineering position requiring immediate technical mastery.

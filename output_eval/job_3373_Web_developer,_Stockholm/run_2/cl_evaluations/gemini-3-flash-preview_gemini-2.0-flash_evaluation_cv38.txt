@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate completely lacks the technical skills required for this engineering role, failing to mention proficiency in JavaScript, React, or any programming languages listed in the job description. Their background is in media production and marketing rather than software development, showing no evidence of experience with version control, testing frameworks, or web security. While they possess digital media skills, they are unqualified for a professional front-end developer position.

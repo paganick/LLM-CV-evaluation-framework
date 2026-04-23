@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web technologies and frontend development, with some knowledge of modern frameworks and testing automation. However, they lack specific experience with React, CI/CD tools, and modern CSS methodologies mentioned in the job description, which limits their overall fit for the position.

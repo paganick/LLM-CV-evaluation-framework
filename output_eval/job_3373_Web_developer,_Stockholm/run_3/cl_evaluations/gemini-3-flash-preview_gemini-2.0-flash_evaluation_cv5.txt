@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in software development, it is concentrated in legacy Mainframe systems (COBOL, JCL, DB2) rather than the required modern frontend stack. They lack the necessary hands-on experience with React, TypeScript, and automated testing frameworks, providing only a "foundational understanding" of web technologies. As a strict recruiter, the candidate's background is too disconnected from the current requirements to be considered a viable hire without significant retraining.

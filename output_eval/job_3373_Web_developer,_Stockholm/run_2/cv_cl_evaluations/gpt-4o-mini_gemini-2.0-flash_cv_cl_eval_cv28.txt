@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a completely different industry with a background as a Senior Materials Analyst, lacking essential front-end development experience and specific skills in JavaScript, TypeScript, modern frameworks like React, and testing automation. While they exhibit strong analytical and communication skills, which are valuable in a collaborative environment, they do not meet the technical requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in graphic design, which does not align with the technical requirements of the role, particularly in JavaScript, TypeScript, and modern front-end frameworks like React. While they express a willingness to learn and have relevant soft skills, they lack direct experience with the necessary technologies and testing methodologies outlined in the job description.

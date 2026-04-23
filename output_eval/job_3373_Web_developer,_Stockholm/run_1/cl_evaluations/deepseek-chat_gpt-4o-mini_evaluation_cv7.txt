@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions many required technologies, but the cover letter lacks concrete, hands-on examples of frontend development with React, TypeScript, and modern testing frameworks. The extensive graphic design background overshadows the specific technical development experience demanded by the job description. While they express interest in learning, the letter does not convincingly demonstrate the depth of practical, recent experience required for the role.

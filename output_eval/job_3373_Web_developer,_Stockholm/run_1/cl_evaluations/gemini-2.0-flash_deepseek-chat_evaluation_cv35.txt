@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates knowledge of HTML, CSS, JavaScript, APIs, OAuth, and CORS, as well as Agile collaboration. However, the cover letter lacks explicit mention of React or other modern front-end frameworks, testing frameworks (Jest, TestCafe, Cypress etc.) and modern CSS tools. The experience is heavily focused on marketing automation rather than dedicated front-end development.

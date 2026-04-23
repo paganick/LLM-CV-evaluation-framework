@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience (JavaScript, React, HTML/CSS), test automation, Agile practices, and Git, which match core aspects of the role. However, they do not mention TypeScript, modern CSS tooling (Styled Components/SASS), JS testing frameworks (Jest/Cypress/TestCafe), linters/formatters, Node/npm/Express, functional libraries (Ramda), CI/CD, or web security/AWS/Terraform—all called out in the job description. These gaps in specific, required technologies make them a relevant but incomplete match for this position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has solid frontend fundamentals (JavaScript, HTML/CSS), extensive Drupal experience, and familiarity with testing and Git, but lacks demonstrated hands-on experience with React and TypeScript and modern frontend tooling (Styled Components/SASS, Jest/Cypress). They also do not show experience with the NodeJS/npm ecosystem, CI/CD (CircleCI), functional programming (Ramda), or cloud/infra (AWS/Terraform), which are important for this role. Overall relevant to the industry but missing multiple specific skills required for an immediate fit.

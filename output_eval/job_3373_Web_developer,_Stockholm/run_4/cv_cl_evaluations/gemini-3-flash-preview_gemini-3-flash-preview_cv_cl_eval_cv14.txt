@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an ASP.NET and C# developer whose experience is centered on legacy frameworks like ColdFusion and SharePoint rather than the required modern React/TypeScript stack. There is no evidence of professional experience with core requirements such as testing automation, functional programming, or modern CSS tools like SASS and Styled Components. While the candidate has basic web development knowledge, they lack the specific expertise in the modern JavaScript ecosystem necessary for this role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in a completely different industry (construction engineering) and they lack any direct, hands-on experience with the core technical requirements listed in the job description. While they express eagerness to learn, the letter demonstrates no proven proficiency in JavaScript, TypeScript, React, testing frameworks, or any other specified tools. The skills presented are not transferable to a professional front-end development role at this level.

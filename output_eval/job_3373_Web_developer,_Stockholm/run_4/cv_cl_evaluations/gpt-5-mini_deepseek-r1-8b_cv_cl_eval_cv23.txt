@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong electronics and general software testing background and basic familiarity with JavaScript and test-case creation, but lacks virtually all required front-end skills (React, TypeScript, HTML/CSS), modern JS tooling (Node/npm, Git/GitHub), and front-end testing frameworks (Jest/Cypress). There is no evidence of experience with CSS tooling, linters/formatters, API design, CI/CD, or web security topics required by the role. Given the gap in core front-end technologies and workflows, the candidate is not qualified for this position.

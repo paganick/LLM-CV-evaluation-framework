@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive visual and web design experience and basic HTML, but lacks hands-on, demonstrable experience with core technical requirements such as JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, and the Node ecosystem. Their cover letter expresses motivation to learn, but they do not currently meet the essential technical skills and tooling expectations for this Front End Developer role.

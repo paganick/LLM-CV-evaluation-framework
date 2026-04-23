@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some foundational skills in HTML, CSS, and JavaScript, along with a keen interest in transitioning to a front-end development role. However, there is a lack of direct experience with React or modern front-end frameworks, as well as limited knowledge of testing frameworks and CI/CD tools required for the role. While they have relevant education and projects, they do not sufficiently meet the job requirements for a strong candidate.

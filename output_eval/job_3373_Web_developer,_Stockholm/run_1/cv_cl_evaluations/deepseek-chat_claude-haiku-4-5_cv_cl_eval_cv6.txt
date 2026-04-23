@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (JavaScript, HTML, CSS, Git), but lacks the specific, required modern framework experience (React, Vue, Angular, Svelte) and has no demonstrated experience with the listed testing frameworks (Jest, Cypress), Node.js ecosystem, or functional programming (Ramda). Their professional background is heavily centered on Drupal and PHP, with only tangential mentions of the required technologies, making them a weak fit for this specific React-focused frontend role.

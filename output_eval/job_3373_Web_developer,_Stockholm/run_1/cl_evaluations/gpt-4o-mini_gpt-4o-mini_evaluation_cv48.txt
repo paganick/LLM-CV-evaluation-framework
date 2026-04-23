@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in IT consulting and support, as well as familiarity with many of the technical skills outlined in the job description. However, they lack specific experience with the modern frameworks and tools that are integral to the position, such as functional programming with Ramda and knowledge of modern CSS tools like Styled Components and SASS, which limits their suitability for this role.

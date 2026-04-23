@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is focused on IT infrastructure management, project management, and hardware support, lacking any documented professional experience with modern front-end development. There is no evidence in the work history of proficiency in React, TypeScript, or automated testing, which are core requirements for this role. While the cover letter claims these skills, the resume confirms a career path in management and operations rather than software engineering.

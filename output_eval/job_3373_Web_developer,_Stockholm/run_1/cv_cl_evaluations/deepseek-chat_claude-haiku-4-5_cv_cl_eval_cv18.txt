@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT industry experience but lacks the specific, hands-on modern frontend development skills required. The resume shows dated technologies and generalist IT/consulting experience, with no mention of React, TypeScript, modern testing frameworks, or the specific toolchain listed. The cover letter attempts to bridge this gap with general statements but provides no concrete evidence of proficiency in the key technologies and practices outlined in the job description.

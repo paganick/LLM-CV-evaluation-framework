@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration and education, with no professional experience in software development. The resume and cover letter mention only basic HTML and no required technologies like JavaScript, TypeScript, React, testing frameworks, or modern tooling. This represents a complete industry mismatch for a senior front-end developer role.

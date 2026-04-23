@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business banking and team leadership, which is not directly relevant to frontend development. While they have expressed an interest in transitioning to this field and have some understanding of Agile environments, they lack hands-on experience with the required technologies such as JavaScript, React, and modern CSS tools. Furthermore, their technical foundation is insufficient for the specific requirements mentioned in the job description.

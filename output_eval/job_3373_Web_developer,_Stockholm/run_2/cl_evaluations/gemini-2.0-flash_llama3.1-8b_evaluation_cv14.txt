@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases relevant experience in web development and mentions several technologies aligning with the job description, including React, testing frameworks, linters, and Git. However, the cover letter focuses heavily on ASP.NET and older technologies, which are not the primary focus of the listed job requirements. There's less emphasis on JavaScript/TypeScript and front-end skills.

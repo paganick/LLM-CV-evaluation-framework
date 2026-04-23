@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am a Drupal developer with five years of professional experience in front-end and back-end web development, and I am excited to apply for your front-end engineering role. My background includes extensive hands-on work with JavaScript, HTML5, CSS3, Ajax and jQuery; proven experience in theming and responsive design; and a strong practice of testing and test automation using tools such as Selenium and Behat. In my current position I lead the NYSED.gov redesign, where I combine technical ownership, user-focused design and disciplined delivery.
+
+As Lead Drupal Developer for the NYSED Redesign Project I re-architected the site and content strategy, migrated data, built and configured the new site, and created a custom responsive Drupal theme. I regularly design, code, architect and test themes, modules and processes to extend Drupal to meet departmental needs. I streamlined the authoring experience for content creators, managed search technology installations, coordinated infrastructure configuration with ITS teams, and provided guidance on accessibility and compliance. I also supervised consultants, managed concurrent tasks, and provided clear status reports and documentation to stakeholders and management.
+
+My experience working across program offices, webmasters, infrastructure teams and external consultants demonstrates my ability to collaborate effectively in Agile environments and to communicate clearly both verbally and in writing. I take pride in writing clean, maintainable code, and in learning tools that improve quality and speed of delivery. While my core experience is in Drupal and traditional front-end technologies, I am enthusiastic about expanding my skill set to include React, TypeScript, modern CSS-in-JS approaches, contemporary testing frameworks, Node.js tooling, functional libraries and CI/CD practices.
+
+I have extensive expertise with version control and release processes, a disciplined approach to testing and quality assurance, and a proven record of delivering multiple concurrent projects on schedule. I have supervised consultants, produced documentation and weekly status reports for management, and as IT Chair for the Employees Association I create and maintain the committee website and train colleagues on new tools and share best practices.
+
+I would welcome the opportunity to discuss how my background in building secure, accessible, well-tested web experiences and my collaborative approach can help your team. Thank you for considering my application.
+
+Sincerely, Alexis

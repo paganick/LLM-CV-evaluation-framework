@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a background in graphic design and art direction, which is a different field than frontend development. While they claim to have transitioned into web development and possess some relevant skills like HTML, CSS, and React, the resume lacks demonstrable experience in these areas. The candidate expresses a willingness to learn, but the current skillset does not align with the job description's requirements for a frontend developer proficient in JavaScript, TypeScript, testing, and various modern FE frameworks.

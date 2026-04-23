@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance professional and lacks any professional experience in frontend development or building applications with modern frameworks like React. While they possess strong testing skills and basic JavaScript knowledge, they do not meet the core requirements for a developer role, such as proficiency in TypeScript, React, or modern CSS tools. Their background is heavily focused on manual and automation testing rather than software construction and UI architecture.

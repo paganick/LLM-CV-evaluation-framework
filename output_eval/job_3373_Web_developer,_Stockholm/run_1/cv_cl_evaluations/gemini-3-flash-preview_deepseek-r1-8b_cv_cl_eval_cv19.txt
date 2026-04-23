@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and lacks nearly all the core technical requirements for this software engineering role, including JavaScript, TypeScript, and React. Their experience is focused on visual design and manual labor rather than professional frontend development or software architecture. There is no evidence of experience with testing frameworks, CI/CD tools, or the Node.js ecosystem mentioned in the job description.

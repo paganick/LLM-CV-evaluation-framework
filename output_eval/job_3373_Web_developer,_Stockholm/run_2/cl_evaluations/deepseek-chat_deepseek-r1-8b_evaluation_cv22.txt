@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in database systems and backend Java development, which is misaligned with the job's core focus on modern frontend technologies like React, TypeScript, and CSS tools. While they mention adaptability and a willingness to learn, they lack any demonstrated hands-on experience with the specific frameworks, testing, and security concepts listed as requirements. Their profile shows a relevant industry background but a significant deficit in the specific skills required for the role.

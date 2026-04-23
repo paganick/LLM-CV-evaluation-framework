@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in ASP.NET and C#, which doesn't align well with the JavaScript/React focus of the job description. While the cover letter mentions React, the resume lacks substantial evidence of experience with modern front-end frameworks and the NodeJS ecosystem. The candidate also appears to lack experience in cloud technologies and CI/CD tools.

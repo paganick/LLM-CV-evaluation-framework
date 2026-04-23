@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in areas like quality assurance, record keeping, and performing arts, which don't directly align with digital sales. While transferable skills are mentioned, the cover letter lacks specific examples related to the required technology stacks (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). The limited direct digital sales experience and lack of specific technical expertise make them a weaker fit compared to candidates with the minimum required experience.

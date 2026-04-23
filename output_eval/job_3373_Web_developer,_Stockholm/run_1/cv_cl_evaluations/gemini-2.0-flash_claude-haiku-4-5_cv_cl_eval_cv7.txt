@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, lacking the required frontend development skills in JavaScript, TypeScript, and modern frameworks like React. While they express willingness to learn, the resume doesn't demonstrate practical experience in web development beyond basic design tools. The candidate does not fulfill the requirements of the job description.

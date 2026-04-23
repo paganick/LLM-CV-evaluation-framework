@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this software engineering role as their professional background is in program management and learning design rather than technical development. While they mention interest in React and Git, they lack the mandatory expertise in TypeScript, JavaScript, web security, and automated testing frameworks required. The experience provided focuses on curriculum development and facilitation, which is the wrong industry and skillset for an engineering position.

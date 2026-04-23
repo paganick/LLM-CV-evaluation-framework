@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a relevant degree and some foundational web development skills, they lack specific experience with several critical technologies mentioned in the job description, such as TypeScript, modern front-end frameworks like React, and testing frameworks. Moreover, their background in construction does not provide direct relevance to the web development environment, limiting their suitability for this position.

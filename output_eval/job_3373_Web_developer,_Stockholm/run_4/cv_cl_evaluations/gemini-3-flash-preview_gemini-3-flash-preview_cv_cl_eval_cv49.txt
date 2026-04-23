@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate completely lacks the required technical stack, including JavaScript, TypeScript, React, and modern CSS tools, with no professional frontend development experience listed on their resume. Their background is exclusively in data analytics and industrial engineering, making them unqualified for a role requiring hands-on expertise in web security, CI/CD, and frontend frameworks. Despite the enthusiasm expressed in the cover letter, there is no evidence of the core competencies necessary to perform the duties of a Frontend Developer.

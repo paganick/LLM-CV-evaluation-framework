@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive design experience but lacks crucial modern front-end skills like React, TypeScript, and testing frameworks, which are core requirements. While they express eagerness to learn, their current skillset doesn't align with the immediate needs of the role, especially regarding clean code practices and the NodeJS ecosystem. The cover letter focuses heavily on design rather than engineering skills.

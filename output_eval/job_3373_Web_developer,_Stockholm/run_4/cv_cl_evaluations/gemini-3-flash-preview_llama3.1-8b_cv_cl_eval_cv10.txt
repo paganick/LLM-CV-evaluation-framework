@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional background is primarily focused on legacy Java/J2EE technologies and outdated frontend tools like AngularJS and jQuery, rather than the modern React/TypeScript stack required. There is no evidence on the resume of professional experience with React, contemporary CSS-in-JS tools, or AWS/Terraform infrastructure. Furthermore, the discrepancy between the skills claimed in the cover letter and the actual project history on the resume suggests a lack of verifiable, hands-on expertise in the modern ecosystem requested.

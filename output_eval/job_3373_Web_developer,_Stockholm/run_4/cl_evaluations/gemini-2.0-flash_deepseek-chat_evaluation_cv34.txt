@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with HTML, CSS, and SQL, but lacks sufficient hands-on experience with modern front-end frameworks like React, which the job description emphasizes. While the candidate is upskilling, they do not currently demonstrate a strong foundation in JavaScript, TypeScript, or testing frameworks. The cover letter focuses more on project management and consulting skills rather than concrete front-end development experience.

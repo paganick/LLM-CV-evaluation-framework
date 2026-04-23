@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analytics and engineering, not software engineering. While they possess some related skills like HTML, C#, and SQL, they lack specific experience with JavaScript, TypeScript, React, and modern FE frameworks, which are core requirements. The cover letter attempts to bridge this gap, but the resume doesn't provide sufficient evidence of the required frontend development expertise.

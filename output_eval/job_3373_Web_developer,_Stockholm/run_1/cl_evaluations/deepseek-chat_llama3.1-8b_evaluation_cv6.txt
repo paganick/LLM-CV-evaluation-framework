@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal and traditional backend-focused web development, which is a relevant industry but misaligned with the specific frontend and modern JavaScript framework requirements of the role. The job description emphasizes React, modern tooling, testing, and functional programming, none of which are mentioned in the cover letter. While the candidate demonstrates strong project leadership and general technical skills, they lack the specific, required frontend engineering expertise.

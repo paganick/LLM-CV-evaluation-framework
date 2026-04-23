@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate’s ten years of experience are concentrated in hardware testing and electronics manufacturing, which does not translate to the professional web development experience required. While they mention the target technologies, the letter positions them as an aspiring learner rather than an expert with hands-on production experience in React, NodeJS, or cloud environments. Consequently, the candidate fails to meet the core requirement for specific, professional-level skills in the modern web stack.

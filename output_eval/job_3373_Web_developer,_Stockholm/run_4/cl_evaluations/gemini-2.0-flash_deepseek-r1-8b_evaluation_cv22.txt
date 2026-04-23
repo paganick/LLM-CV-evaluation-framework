@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in database and backend development, with limited experience in the frontend technologies emphasized in the job description (JavaScript, TypeScript, React). While they express interest in learning these technologies, their current skill set doesn't strongly align with the role's core requirements. The cover letter focuses heavily on database expertise, which is not the primary focus of the job.

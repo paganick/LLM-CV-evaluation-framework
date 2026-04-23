@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and UX, with limited front-end development experience. While they possess some HTML and CSS skills, they lack the required proficiency in JavaScript, TypeScript, and modern FE frameworks like React. The resume does not demonstrate hands-on experience with testing frameworks or CI/CD tools, which are essential for the role.

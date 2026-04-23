@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a broad technical background, but their experience with the specific FE technologies mentioned (React, Typescript) appears limited and inferred. The resume showcases older technologies and a focus on PHP, while the cover letter expresses interest in *mastering* React rather than demonstrating existing expertise. Testing and security knowledge is not demonstrated beyond general troubleshooting.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for a professional engineering role, lacking all mandatory technical requirements such as JavaScript, TypeScript, and React. Their professional experience is centered on sales management and leadership rather than software development, and they explicitly state a need to learn the core technologies listed in the job description. There is no evidence of experience with version control, testing frameworks, or web security, making them a poor fit for this senior-level technical position.

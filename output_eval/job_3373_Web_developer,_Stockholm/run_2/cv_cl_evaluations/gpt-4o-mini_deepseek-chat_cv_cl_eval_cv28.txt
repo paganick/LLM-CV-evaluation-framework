@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid foundation in web development technologies, including JavaScript, TypeScript, HTML, CSS, and React, but lacks direct experience in the specific frameworks and tools mentioned in the job description, such as testing automation frameworks and CI/CD tools. Their background in materials analysis and quality engineering does not directly translate to the front-end development role, resulting in a relevant but insufficient skill set.

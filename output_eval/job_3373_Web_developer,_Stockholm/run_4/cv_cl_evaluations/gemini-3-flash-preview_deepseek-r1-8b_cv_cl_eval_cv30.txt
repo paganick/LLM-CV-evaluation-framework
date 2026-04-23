@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience or demonstrated proficiency in the core required technologies, specifically JavaScript, TypeScript, and React. Their career history is entirely centered on data analytics, machine learning, and environmental science, which does not align with the needs of a modern frontend engineering role. Essential requirements such as modern CSS tools, frontend testing frameworks, and CI/CD experience are completely absent from the profile.

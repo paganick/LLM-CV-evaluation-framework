@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong 8.5-year backend Java/J2EE experience, Agile practice, Git and unit testing, but lacks hands-on experience with React, TypeScript, modern frontend tooling (Styled Components/SASS), JavaScript testing frameworks, the Node.js ecosystem, and CI/CD/AWS knowledge required for this role. The cover letter expresses willingness to transition to front-end work but does not evidence the necessary practical skills, making them an unsuitable fit for this frontend position today.

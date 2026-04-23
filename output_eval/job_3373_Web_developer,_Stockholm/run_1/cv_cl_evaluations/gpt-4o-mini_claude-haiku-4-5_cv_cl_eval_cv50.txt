@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development and project management, but lacks direct experience with frontend technologies such as JavaScript, TypeScript, and React, which are crucial for the role. While their foundational education in computer science provides some relevant knowledge, the lack of hands-on technical skills, particularly in modern frameworks and testing processes, limits their suitability for this frontend developer position.

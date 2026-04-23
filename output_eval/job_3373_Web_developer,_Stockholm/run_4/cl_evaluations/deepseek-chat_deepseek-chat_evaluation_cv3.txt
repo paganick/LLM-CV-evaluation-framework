@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational education and demonstrates strong soft skills and a willingness to learn. However, they lack the required hands-on professional experience with the specific technologies listed in the job description, such as React, TypeScript, testing frameworks, Node.js, and CI/CD tools. Their experience is primarily academic, which places them in the category of a relevant candidate who lacks the specific, practical skills demanded by the role.

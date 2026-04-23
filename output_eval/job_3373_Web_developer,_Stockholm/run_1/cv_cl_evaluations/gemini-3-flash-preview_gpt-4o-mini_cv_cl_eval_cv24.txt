@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital communications professional who lacks the essential software engineering background required for this position. They do not possess professional experience with JavaScript, React, TypeScript, or any of the specified testing and CI/CD tools. While they have a background in content management, they are completely unqualified for a specialized front-end development role.

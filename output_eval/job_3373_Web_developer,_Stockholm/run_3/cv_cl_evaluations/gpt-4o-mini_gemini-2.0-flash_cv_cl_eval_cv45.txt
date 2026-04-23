@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in information technology and project management but lacks direct experience with the specific technologies and frameworks listed in the job description, such as JavaScript, TypeScript, React, and modern frontend frameworks. Additionally, their background is heavily focused on security and enterprise-level IT rather than frontend development, which is a critical aspect of the role.

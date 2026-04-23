@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a graphic designer transitioning into software development and lacks the mandatory professional experience in JavaScript, TypeScript, and React required for this role. While they demonstrate soft skills and a willingness to learn, they fail to meet any of the core technical requirements, including testing automation, security protocols, and CI/CD tools. As a strict recruiter, interest does not substitute for the required hands-on technical proficiency and domain expertise specified in the job description.

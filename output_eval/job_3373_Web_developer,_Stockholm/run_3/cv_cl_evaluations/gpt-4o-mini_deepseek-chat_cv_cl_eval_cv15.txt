@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development, HTML, CSS, and JavaScript, which aligns with the job description. However, they lack hands-on experience with React, modern testing frameworks, and some security knowledge, which are critical for this role. While their background in IT management is a plus, the absence of specific experience in modern front-end frameworks and testing tools limits their suitability for this position.

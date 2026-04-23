@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript, HTML, and CSS but lacks experience with modern FE frameworks specifically React, which is the company's main framework. The resume highlights .NET development experience more than front-end, and the listed "2 years of experience in front-end development" stated in the cover letter seems inflated based on resume details. There's a mention of testing but not a focus, and key areas like Git/GitHub, NodeJS, and specific testing frameworks are weak.

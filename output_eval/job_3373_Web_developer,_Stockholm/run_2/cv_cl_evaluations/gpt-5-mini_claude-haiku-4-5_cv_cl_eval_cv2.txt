@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong backend Java/J2EE experience (8.5 years), some frontend exposure with jQuery/Bootstrap, and familiarity with Git and Agile, but lacks the core, required skills for this role—no demonstrated experience with React, TypeScript, modern JS frameworks, modern CSS tooling, JS testing frameworks (Jest/Cypress), Node/npm ecosystem, or relevant security and CI/CD experience. Their cover letter shows motivation to transition and learn, but the current profile does not meet the specific technical requirements for the frontend role.

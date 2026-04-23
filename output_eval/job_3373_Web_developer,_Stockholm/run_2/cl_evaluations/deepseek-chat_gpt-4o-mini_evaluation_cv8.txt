@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates a foundational understanding of many required areas, such as testing, Git, Agile, and basic web security. However, the cover letter lacks specific, hands-on experience with the core frontend technologies listed in the job description, particularly TypeScript, React, and modern testing frameworks (Jest, Cypress). The application heavily emphasizes test engineering experience over proven frontend development, making it a partial but insufficient match for the role.

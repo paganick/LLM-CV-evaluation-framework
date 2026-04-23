@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant core skills (HTML, CSS, JavaScript), but admits to actively pursuing knowledge in React, the company's primary framework. While they mention experience with testing frameworks and Git, their primary experience seems to be in management and operations. The letter focuses heavily on transferable skills rather than demonstrating solid front-end experience.

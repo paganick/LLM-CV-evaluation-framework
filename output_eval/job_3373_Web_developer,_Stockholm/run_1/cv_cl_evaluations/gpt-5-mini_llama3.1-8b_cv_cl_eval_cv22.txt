@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core frontend engineering skills and proven experience required (JavaScript/TypeScript, React, frontend testing, NodeJS/CI/CD, and cloud/infra) and has no professional software engineering track record. Their resume reflects a media-planning background with limited academic exposure to HTML/CSS, Java, and SQL, which does not meet the role's technical expectations. Claims in the cover letter are not substantiated by the resume, so the candidate would require significant retraining before being a viable fit.

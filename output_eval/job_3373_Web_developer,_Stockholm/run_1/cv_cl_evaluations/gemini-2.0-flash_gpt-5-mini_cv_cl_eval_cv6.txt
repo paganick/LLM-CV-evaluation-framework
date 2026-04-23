@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Drupal background but lacks explicit experience with React, TypeScript, and modern front-end testing frameworks mentioned in the job description. While they express interest in learning these technologies, their current skill set doesn't fully align with the requirements. Their experience with JavaScript, HTML, and CSS is relevant, but the absence of modern framework experience is a significant gap.

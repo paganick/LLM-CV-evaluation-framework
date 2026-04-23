@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and content management, which is a completely different industry and skillset from front-end development. The resume and cover letter show no evidence of hands-on experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical requirements listed in the job description. While the candidate expresses enthusiasm, they lack the specific, demonstrable technical qualifications for the role.

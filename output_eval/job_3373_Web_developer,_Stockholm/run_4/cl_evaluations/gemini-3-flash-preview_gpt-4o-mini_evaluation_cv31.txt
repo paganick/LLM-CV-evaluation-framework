@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer transitioning from a sales leadership role and lacks the professional, hands-on experience required for this technical position. While they mention foundational knowledge, they explicitly admit to lacking experience with core requirements such as testing frameworks and professional development in React. For a role demanding specific expertise in CI/CD, AWS, and modern front-end architecture, this candidate is significantly underqualified.

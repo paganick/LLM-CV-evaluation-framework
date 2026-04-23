@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Front-End Developer position. With my experience in web development and a strong foundation in JavaScript, TypeScript, HTML, and CSS, I am confident I possess the skills to contribute to your team's success.
+
+Throughout my career as an ASP.NET Web Developer, I have honed my abilities in front-end technologies. My proficiency extends to modern frameworks, and I am particularly excited about the opportunity to work with React. I have hands-on experience with testing and test automation, including unit, integration, and E2E tests. I am also familiar with Git and GitHub, ensuring seamless collaboration and version control.
+
+My understanding of web security principles, including OWASP, CSP, CORS, and OAuth, allows me to develop secure and reliable applications. I am a strong collaborator, comfortable in Agile environments, and possess a genuine passion for writing clean, maintainable code. I am eager to stay up-to-date with the latest technologies and expand my knowledge into new domains.
+
+In my previous role, I was involved in projects like DEBTS and eRFA, which earned the team a Team of the Month award. I have experience designing user interfaces using HTML and CSS, and I am familiar with tools like Bootstrap. My experience includes migrating applications, designing databases, performing code reviews, and participating in integration and deployment phases.
+
+I am eager to learn more about this opportunity and discuss how my skills and experience can benefit your team.
+
+Sincerely,
+Alexis

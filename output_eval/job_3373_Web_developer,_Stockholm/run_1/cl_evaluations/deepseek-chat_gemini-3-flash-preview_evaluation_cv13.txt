@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, project management, and a foundational understanding of key areas like Agile, Git, and testing. However, the cover letter critically lacks direct, explicit mention of the specific technologies required for the role, most notably React, TypeScript, and the modern toolchain (e.g., Jest, Cypress, Node.js). The experience cited with front-end frameworks is historical (jQuery, Angular), not aligning with the company's stated use of React.

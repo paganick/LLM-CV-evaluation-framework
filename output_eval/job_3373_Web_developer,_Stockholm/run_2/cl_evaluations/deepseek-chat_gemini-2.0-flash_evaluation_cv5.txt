@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in Mainframe development (COBOL, JCL, DB2), which is not directly relevant to modern frontend development. While they express eagerness to learn React and mention foundational knowledge of HTML/JS, they lack demonstrable, hands-on experience with the core technologies listed in the job description (TypeScript, React, testing frameworks, Git, modern CSS tools). Their analytical skills and work ethic are positive, but the specific technical skill gap is significant for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is focused on business development, technical writing, and high-level API familiarity rather than hands-on frontend engineering. The cover letter contains no evidence of required skills such as JavaScript/TypeScript, React, modern CSS, testing frameworks, Node.js, Git usage, or CI/CD experience. While technically adjacent, the applicant does not demonstrate the practical coding, testing, or web security knowledge necessary for this role. This makes them unsuitable for the frontend developer position as described.

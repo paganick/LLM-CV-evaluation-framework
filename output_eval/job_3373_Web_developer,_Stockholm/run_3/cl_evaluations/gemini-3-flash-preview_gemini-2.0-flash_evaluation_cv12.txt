@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Although the candidate meets the core experience and framework requirements, the application fails to address critical mandatory skills such as Web security (OWASP, CSP, CORS) and modern CSS tooling. Furthermore, the candidate focuses on irrelevant legacy experience in PHP and Bash rather than the requested Node.js ecosystem or functional programming. These omissions indicate a lack of alignment with the specific technical standards outlined in the job description.

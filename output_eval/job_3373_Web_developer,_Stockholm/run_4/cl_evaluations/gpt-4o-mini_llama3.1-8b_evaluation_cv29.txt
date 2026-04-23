@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has strong experience in business development and technical content creation, they lack the specific technical skills outlined in the job description, such as hands-on experience with JavaScript frameworks (specifically React), testing frameworks, and cloud technologies like AWS and Terraform. Their background does not align closely enough with the requirements of the position.

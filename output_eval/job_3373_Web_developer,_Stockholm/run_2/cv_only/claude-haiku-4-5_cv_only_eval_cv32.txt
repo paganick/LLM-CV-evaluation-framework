@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume shows extensive customer service, sales, and management experience with no mention of software development, web development, or any technical skills related to the job requirements. There is no evidence of JavaScript, TypeScript, React, testing frameworks, Git, or any of the required technical competencies. This candidate is completely unqualified for a Frontend Developer position and is in an entirely different industry.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required keywords (Agile, Jest, Git, OWASP, CORS). However, the cover letter is heavily skewed towards software testing, with only generic mentions of frontend development. It fails to demonstrate hands-on experience with key requirements like React, TypeScript, modern CSS tools (Styled Components), or the Node.js ecosystem, which are core to the role.

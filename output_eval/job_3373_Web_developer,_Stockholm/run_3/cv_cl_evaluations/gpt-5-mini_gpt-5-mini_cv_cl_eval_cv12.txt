@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has substantial web development experience (JavaScript, HTML, CSS/SASS), backend and automation skills, and familiarity with Git and the Node ecosystem, which are relevant to the role. However they lack direct, demonstrable experience with React and TypeScript, modern front-end tooling and testing frameworks (Jest/Cypress/TestCafe), and key CI/CD/cloud/infra skills (CircleCI, AWS/Terraform) that are critical for this position. With focused upskilling they could become a fit, but presently they do not meet several core requirements.

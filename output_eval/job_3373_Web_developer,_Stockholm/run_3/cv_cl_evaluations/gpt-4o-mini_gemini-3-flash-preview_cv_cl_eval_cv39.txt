@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in design and some knowledge of HTML and CSS, which are relevant to the web development field. However, they lack core front-end development skills such as JavaScript, TypeScript, and experience with modern frameworks like React. Their background is predominantly in graphic design rather than programming, resulting in a weak fit for the technical aspects of the position.

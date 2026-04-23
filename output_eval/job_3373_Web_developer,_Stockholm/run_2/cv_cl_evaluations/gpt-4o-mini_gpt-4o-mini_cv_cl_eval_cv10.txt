@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end technologies and Agile environments, which aligns with the job description; however, their main experience is primarily focused on AngularJS rather than React. While they possess familiarity with certain aspects of testing and automation, their coverage of tools like Jest or CI/CD tools is not strong. Additionally, their experience with modern CSS tools and knowledge of security on the web are not explicitly mentioned, which are key requirements for this position.

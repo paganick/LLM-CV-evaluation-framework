@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a back-end Java developer whose experience is centered on legacy technologies like Struts, EJB, and Java 6.0 rather than the modern front-end stack required. They lack professional hands-on experience with React, TypeScript, and modern testing frameworks like Cypress or Jest, which are core requirements for this role. While they possess general IT experience, they do not meet the specific technical proficiency levels demanded by the job description.

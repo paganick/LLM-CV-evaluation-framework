@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their entire professional history is in banking, sales, and residential management rather than software engineering. There is no evidence of proficiency in JavaScript, React, TypeScript, or any of the required front-end development tools within the resume. The candidate’s background in sociology and dance further confirms they do not meet the minimum educational or experiential requirements for a developer position.

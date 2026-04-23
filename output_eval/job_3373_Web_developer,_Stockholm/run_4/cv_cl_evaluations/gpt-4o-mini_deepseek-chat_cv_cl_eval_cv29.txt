@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong background in business development within the cloud software industry, they lack significant experience directly in front-end development, specifically with the required technologies like modern JavaScript frameworks (React, VueJS, etc.), testing automation, and web security knowledge. Their cover letter shows a genuine interest in transitioning to a development role and mentions some relevant skills, but the practical experience in the required areas is insufficient to warrant a higher score.

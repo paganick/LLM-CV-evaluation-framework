@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is with Drupal, a PHP-based CMS, which is not aligned with the job's focus on modern JavaScript frameworks like React. While they mention JavaScript, HTML, and CSS, they lack demonstrated hands-on experience with React, TypeScript, modern CSS tools, and the specific testing frameworks (Jest, Cypress) listed. Their experience with Agile and general web concepts is relevant, but the core technical stack mismatch is significant.

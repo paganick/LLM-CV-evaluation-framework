@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights .NET technologies, which are not the focus of the job description that prioritizes JavaScript, React, and related FE technologies. While they mention JavaScript, the emphasis is clearly on the .NET stack. The letter also lacks specific examples related to the tools and frameworks mentioned in the job description like React, Jest, or Cypress.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid QA/testing experience, JavaScript knowledge, React exposure, and familiarity with testing frameworks and Git, which align with several core requirements. However, they lack explicit TypeScript and NodeJS ecosystem experience, modern CSS tooling (Styled Components/SASS), linters/formatters, specific CI/CD tooling (e.g., CircleCI), API design, and AWS/Terraform—significant gaps for a Software Engineer role. Overall relevant but missing multiple key development skills required for this position.

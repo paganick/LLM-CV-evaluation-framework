@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational web development skills, but lacks direct, hands-on experience with the specific technologies required, most notably React and modern testing frameworks. While they show a good understanding of broader IT principles and a capacity to learn, the cover letter does not provide concrete evidence of proficiency in the job's core front-end stack and testing requirements. The candidate is a potential fit but requires significant upskilling in key areas.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some front-end experience with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React (mentioned as the primary framework used by the company). While they express eagerness to learn, the resume is heavily focused on .NET technologies rather than a strong FE background. The candidate also misses key requirements such as testing, security knowledge, and modern CSS tools.

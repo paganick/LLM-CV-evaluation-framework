@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but emphasizes .NET technologies, which are not the primary focus of the job description. While they express eagerness to learn React, the lack of direct experience with modern front-end frameworks and testing is a significant gap. The candidate mentions Git, Agile, and clean code, but lacks specific experience with the modern CSS tools, testing frameworks, and other technologies mentioned in the job description.

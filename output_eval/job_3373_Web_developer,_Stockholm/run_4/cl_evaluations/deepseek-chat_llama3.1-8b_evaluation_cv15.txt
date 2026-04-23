@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including modern FE frameworks, testing, security, and the Node.js ecosystem. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, CI/CD tools, AWS/Terraform, and functional programming. While a strong technical match, the absence of these specifics prevents a higher score.

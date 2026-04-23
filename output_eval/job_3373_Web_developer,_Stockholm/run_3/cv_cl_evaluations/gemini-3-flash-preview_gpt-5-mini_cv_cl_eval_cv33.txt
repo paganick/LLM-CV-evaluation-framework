@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all the mandatory technical requirements, including proficiency in JavaScript, React, TypeScript, and automated testing. Their professional background is entirely rooted in banking, sales, and operations, with no documented experience in software engineering or web development. While the candidate expresses an interest in learning, they currently offer zero alignment with the specialized skill set required for this front-end engineering position.

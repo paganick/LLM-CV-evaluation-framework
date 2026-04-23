@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java-focused developer with outdated front-end experience in AngularJS and jQuery, missing the mandatory requirements for React and TypeScript. While they possess a strong academic background and general Agile experience, they lack exposure to modern CSS tools, functional programming, and the specific front-end testing frameworks requested. The profile is significantly misaligned with the current modern front-end stack and hasn't demonstrated professional growth in JavaScript since 2015.

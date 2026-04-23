@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java backend developer whose professional experience lacks any exposure to React, TypeScript, or modern frontend ecosystems. While they demonstrate strong software engineering fundamentals in Agile and testing, their frontend skills are limited to legacy technologies like JSP and Struts. As a result, they do not meet the core technical requirements necessary for a specialized modern frontend role.

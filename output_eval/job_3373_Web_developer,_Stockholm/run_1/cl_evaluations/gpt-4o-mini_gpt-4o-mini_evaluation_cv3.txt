@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant educational qualifications in web development and some foundational experience with front-end technologies. However, they have limited hands-on experience with modern frameworks like React, which is a key requirement, and lack experience in testing automation and tools mentioned in the job description. Their background in construction may provide transferable skills, but it does not demonstrate the depth of experience expected for this role.

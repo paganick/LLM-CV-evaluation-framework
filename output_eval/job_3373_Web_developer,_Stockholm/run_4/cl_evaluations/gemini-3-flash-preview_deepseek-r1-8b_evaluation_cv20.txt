@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core technology stack, specifically React and TypeScript, which are central requirements for this position. Their background is heavily reliant on legacy tools like jQuery and Bootstrap, failing to demonstrate proficiency in modern CSS methodologies or the specified testing frameworks. Furthermore, the application ignores critical requirements such as web security protocols and the Node.js ecosystem, making the candidate unqualified for a senior or mid-level modern front-end role.

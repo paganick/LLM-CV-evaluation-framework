@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in analytics and engineering, which shows analytical skills applicable to software development. However, they lack direct experience with key technologies like JavaScript, TypeScript, and relevant frontend frameworks as explicitly required in the job description. Furthermore, their cover letter does not adequately demonstrate experience with testing automation, which is critical for the role.

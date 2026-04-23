@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the required professional experience in modern front-end development, specifically missing any documented proficiency in React, TypeScript, HTML, or CSS. Their background is firmly rooted in hardware engineering and lab validation rather than software engineering. While they express a willingness to learn, they currently do not meet any of the core technical requirements for a senior-level front-end position.

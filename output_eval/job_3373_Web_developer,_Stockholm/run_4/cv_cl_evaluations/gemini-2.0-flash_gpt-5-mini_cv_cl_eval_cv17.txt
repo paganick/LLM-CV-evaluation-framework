@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in civil and construction engineering, a completely different field from front-end development. While they express interest in learning modern front-end technologies, their resume lacks any demonstrable experience with JavaScript, React, or related technologies mentioned in the job description. Their skills and experience are not relevant to the requirements of a front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is entirely within digital communications and journalism, lacking any verifiable professional history as a software engineer. While the cover letter claims self-taught knowledge of React and TypeScript, the resume provides no evidence of professional application or technical proficiency in the required stack. The candidate fails to meet the fundamental requirements for hands-on experience in front-end development, testing automation, and API design.

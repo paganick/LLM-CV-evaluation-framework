@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is from a completely different industry (customer service, sales, and management) and contains zero mention of any required technical skills such as JavaScript, React, testing, Git, or modern web development practices. There is no overlap with the job description for a front-end software engineering role, indicating a complete lack of relevant qualifications.

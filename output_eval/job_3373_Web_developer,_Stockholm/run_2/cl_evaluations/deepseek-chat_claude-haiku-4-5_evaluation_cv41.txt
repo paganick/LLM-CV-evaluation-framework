@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in systems engineering, not frontend development, and they lack demonstrable hands-on experience with the core technologies listed in the job description, especially React. While they show enthusiasm and mention transferable skills like debugging, they provide no concrete evidence of projects, frameworks, or tools specific to the role. The letter fails to address key requirements like Agile experience, testing frameworks, version control, and modern CSS tools.

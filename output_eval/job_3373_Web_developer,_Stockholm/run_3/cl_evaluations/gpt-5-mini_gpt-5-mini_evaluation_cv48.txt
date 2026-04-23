@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT infrastructure and support experience and demonstrates collaboration and communication skills relevant to Agile teams, but provides no demonstrated hands‑on experience with JavaScript/TypeScript, React, modern front‑end tooling (Node.js, npm/Yarn, Styled Components/SASS), or front‑end testing frameworks and web security practices required by the role. Their stated willingness to learn is positive but insufficient for a role that requires immediate, practical front‑end engineering skills.

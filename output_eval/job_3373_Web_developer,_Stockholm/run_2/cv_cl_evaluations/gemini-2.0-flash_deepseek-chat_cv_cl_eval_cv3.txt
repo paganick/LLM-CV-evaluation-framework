@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a degree in a related field and some knowledge of HTML, CSS, and JavaScript. However, the resume lacks professional experience with modern FE frameworks like React (mentioned as a primary tool in the job description) and testing frameworks. The candidate's experience is primarily academic and in construction, not in web development.

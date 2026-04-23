@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional or hands-on experience with the required technology stack, including JavaScript, TypeScript, React, and CSS. Their technical background is limited to data analysis in R and program management, which does not translate to the specialized front-end engineering skills or testing automation expertise mandated by the job description. This application represents a career pivot without the necessary foundational development experience.

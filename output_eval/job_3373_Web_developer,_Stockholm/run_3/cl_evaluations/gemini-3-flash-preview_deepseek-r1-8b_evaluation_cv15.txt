@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks critical experience with the primary technologies requested, failing to mention any proficiency in TypeScript or modern frontend frameworks like React. While they possess basic JavaScript knowledge, they admit to having no hands-on experience with testing frameworks or modern build tools, offering only a willingness to learn. This profile represents a generalist background that does not meet the specific technical standards required for this specialized frontend position.

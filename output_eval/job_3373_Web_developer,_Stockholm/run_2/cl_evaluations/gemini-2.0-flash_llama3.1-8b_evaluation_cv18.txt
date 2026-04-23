@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate mentions experience with React, VueJS, and Angular, aligning with the job description's requirements, and also lists relevant testing frameworks. They also highlight Agile experience, communication skills, and a passion for clean code, all of which are mentioned in the job description. However, the cover letter lacks specific examples demonstrating proficiency in JavaScript, TypeScript, HTML, CSS and other technologies mentioned in the description (Git, NodeJS), relying more on general statements.

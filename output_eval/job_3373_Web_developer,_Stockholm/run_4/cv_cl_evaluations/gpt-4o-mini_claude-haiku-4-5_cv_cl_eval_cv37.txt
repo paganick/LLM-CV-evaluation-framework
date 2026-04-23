@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in management and strategic planning within the IT sector, but lacks direct experience specifically with frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate an understanding of technology integration and collaboration, they do not clearly meet the technical requirements outlined in the job description, particularly in testing frameworks and CI/CD tools.

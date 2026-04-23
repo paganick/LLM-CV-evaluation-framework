@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in Information Technology but lacks direct front-end development experience with modern frameworks like React, which is specified in the job description. While the candidate demonstrates familiarity with essential technologies like HTML, CSS, and JavaScript, the absence of specific experience in testing automation and modern CSS tools detracts from their suitability for the role. Additionally, important concepts like security measures on the web and tools within the NodeJS ecosystem are not addressed.

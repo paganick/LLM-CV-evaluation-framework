@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web technologies and a foundational understanding of security on the web, but lacks specific hands-on experience with modern front-end frameworks like React, as well as testing frameworks and CI/CD tools mentioned in the job description. While they demonstrate a good mix of technical skills and project management experience, they do not fully meet the outlined requirements for the development position.

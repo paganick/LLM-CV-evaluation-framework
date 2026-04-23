@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, as well as familiarity with Agile processes and Git, which align with many of the job requirements. However, there is no mention of experience with React, modern CSS tools like Styled Components or SASS, or testing frameworks specified in the job description, which prevents a higher score.

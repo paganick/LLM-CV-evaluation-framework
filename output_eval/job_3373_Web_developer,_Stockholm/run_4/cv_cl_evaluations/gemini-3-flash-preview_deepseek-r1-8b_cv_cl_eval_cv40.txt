@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a high-level Product Management executive with no professional experience in hands-on software development or the required technical stack (JavaScript, React, TypeScript). While they have a strong background in the tech industry and Agile methodologies, they completely lack the mandatory engineering skills, testing expertise, and coding proficiency specified in the job description. This is a total functional mismatch between a leadership/strategy profile and a technical implementation role.

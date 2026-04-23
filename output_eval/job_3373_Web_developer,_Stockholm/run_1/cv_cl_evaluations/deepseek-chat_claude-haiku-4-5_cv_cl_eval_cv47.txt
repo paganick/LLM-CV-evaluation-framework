@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, with no professional experience in software development or the required technologies like React, TypeScript, or modern testing frameworks. While they express interest and have foundational knowledge of HTML/C, this does not meet the specific technical requirements for a frontend developer role. The application is a career transition attempt with no demonstrated, relevant hands-on experience.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant industry experience and core frontend skills, they failed to mention TypeScript, which is a primary technical requirement. Furthermore, the cover letter lacks specific mentions of required security protocols (OWASP, OAuth) or specific testing frameworks (Jest, Cypress) listed in the job description. The candidate provides a general overview but misses critical technical keywords and advanced stack requirements like NodeJS, functional programming, or CI/CD tools.

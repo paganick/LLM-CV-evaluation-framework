@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive back-end Java/J2EE experience but lacks any demonstrable professional experience with the required front-end technologies (React, TypeScript, modern CSS) and the JavaScript ecosystem. While they express motivation to learn, the resume shows no hands-on work with modern FE frameworks, testing libraries (Jest, Cypress), or the specific tools listed. Their background is in a different technical stack, making them a career transition candidate who does not currently meet the core technical requirements.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning, marketing, and database management, which is a completely different industry from modern frontend development. While they mention basic HTML and CSS, they lack any professional or project experience with JavaScript, TypeScript, React, or any other required modern frameworks, testing tools, or version control systems. The cover letter expresses interest but does not demonstrate the concrete, hands-on technical skills required for the role.

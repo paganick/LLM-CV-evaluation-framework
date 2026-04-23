@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX/UI experience since 2017 with prototyping, usability testing and user research, but primarily as a freelancer and using Sketch/InVision rather than Figma and only lists HTML5 (no CSS/JS). There is no explicit evidence of working in an Agile environment, running stand-ups/sprint planning, managing a UX team or owning a UI design system. They have some stakeholder and workshop experience from architecture work, but they lack several core, stated requirements for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is adjacent but lacks the core technical requirements. They mention foundational HTML/CSS and a desire to learn React, but demonstrate no hands-on experience with JavaScript, TypeScript, modern frameworks, testing, Git, or web security as specified. Their presentation and UX experience is relevant for collaboration and user-centricity, but the critical technical skill gap is significant for a developer role.

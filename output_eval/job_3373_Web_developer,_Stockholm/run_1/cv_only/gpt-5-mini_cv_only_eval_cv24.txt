@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a decade of experience in digital communications, writing, and social media but contains no evidence of required front-end development skills (JavaScript/TypeScript, React, modern CSS, testing frameworks) or tooling (Git, Node.js, CI/CD, AWS). There is also no shown experience with web security, API design, or infrastructure technologies listed in the job description. The candidate is completely unqualified for this technical front-end engineering role.

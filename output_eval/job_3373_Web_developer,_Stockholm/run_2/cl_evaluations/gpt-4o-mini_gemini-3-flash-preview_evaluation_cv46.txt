@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong foundation in relevant web technologies such as JavaScript, HTML, and CSS, and has hands-on experience with various aspects of the software development lifecycle. They possess knowledge of testing frameworks and security protocols, aligning closely with the job description. However, there is no mention of certain modern CSS tools or specific CI/CD experience, which prevents a perfect score.

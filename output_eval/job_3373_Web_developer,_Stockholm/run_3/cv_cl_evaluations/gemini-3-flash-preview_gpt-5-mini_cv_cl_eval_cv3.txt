@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the required technical skills, including React, TypeScript, Git, and modern testing frameworks. Their background is primarily in construction with academic exposure to legacy technologies like Flash and ActionScript that are now obsolete. There is no evidence of professional experience or familiarity with the modern JavaScript ecosystem or CI/CD pipelines specified in the job description.

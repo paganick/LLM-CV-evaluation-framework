@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the essential technical requirements, specifically lacking professional experience with JavaScript, TypeScript, React, and automated testing frameworks. While their decade of experience in digital communications is within a relevant field, they are currently at an entry-level stage regarding the modern front-end development stack. The application lacks evidence of proficiency in the core engineering competencies, security protocols, and backend integrations required for this position.

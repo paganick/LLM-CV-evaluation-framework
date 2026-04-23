@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development and programming, particularly with JavaScript and front-end technologies such as HTML and CSS. However, they lack specific experience with modern frameworks like React and the testing frameworks mentioned in the job description. Additionally, their experience is predominantly rooted in the .NET ecosystem, which may limit their adaptability to the requirements of the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java Backend and Test Automation Engineer whose professional experience lacks the specific depth required for a specialized modern Frontend role. There is no evidence of TypeScript proficiency, and their experience with modern JavaScript testing frameworks (Jest, Cypress) and functional programming (Ramda) is non-existent. While they have basic exposure to React, their career focus has been on the JVM ecosystem rather than the advanced frontend architecture demanded by the job description.

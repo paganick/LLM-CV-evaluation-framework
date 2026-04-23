@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web technologies, including HTML and CSS, but lacks hands-on experience with modern frontend frameworks like React, which is crucial for the position. Additionally, while they demonstrate a strong collaborative mindset and a passion for learning, their experience with testing and automation frameworks is minimal, which doesn't fully meet the job's technical requirements.

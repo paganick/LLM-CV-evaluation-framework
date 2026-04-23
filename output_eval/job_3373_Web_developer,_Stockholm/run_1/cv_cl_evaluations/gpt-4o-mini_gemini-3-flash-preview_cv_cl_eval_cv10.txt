@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in frontend development using HTML, CSS, and JavaScript, with exposure to AngularJS, which aligns with the use of modern frameworks like React. They demonstrate an understanding of testing principles and have experience with Agile methodologies. However, they lack direct experience with React, testing frameworks like Jest or Cypress, and modern CSS tools mentioned in the job description, which keeps them from being a perfect match.

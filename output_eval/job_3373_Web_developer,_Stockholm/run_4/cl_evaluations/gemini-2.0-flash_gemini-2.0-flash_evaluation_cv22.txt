@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not frontend development. While they mention HTML and CSS experience, it seems basic. They lack experience with key technologies mentioned in the job description, such as React, testing frameworks, and modern CSS tools.

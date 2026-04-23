@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant web-adjacent experience (HTML/CSS, SQL, Salesforce Marketing Cloud, documentation and client-facing project management) but lacks demonstration of core technical requirements such as hands-on JavaScript/TypeScript, React, Node.js, modern testing frameworks, and CI/CD. The cover letter expresses a willingness to learn modern tools but does not provide evidence of the required practical experience for this front-end developer role.

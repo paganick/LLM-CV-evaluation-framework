@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong, relevant test automation and quality engineering experience and demonstrates collaboration and process-improvement strengths, which align with parts of the job. However, they do not provide concrete hands-on experience with the core frontend requirements—JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, Node/npm, or frontend testing frameworks—and do not mention Git or web security knowledge. Their stated willingness to learn is positive but insufficient for an immediate strong match to the role.

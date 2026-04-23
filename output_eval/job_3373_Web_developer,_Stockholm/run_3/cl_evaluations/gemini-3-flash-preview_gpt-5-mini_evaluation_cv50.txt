@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has an impressive 30-year background in IT leadership and quality engineering, they lack professional, hands-on experience with the required modern frontend stack. The letter explicitly states a need for mentorship and training to become productive with React and TypeScript, which does not meet the requirements for a developer role. Their expertise is in project management and infrastructure rather than the specific web technologies and tools listed in the job description.

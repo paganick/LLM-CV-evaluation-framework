@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter emphasizes program management and learning design, which are not the primary requirements of the provided job description that is focused on front-end development. While the candidate mentions React and Git, the lack of demonstrable experience with JavaScript, TypeScript, HTML, CSS, testing frameworks, and other core technologies mentioned in the job description makes them a weak fit. The cover letter focuses too heavily on tangential skills.

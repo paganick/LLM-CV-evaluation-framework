@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in digital communications, lacking demonstrable experience with the core technologies listed in the job description such as JavaScript, React, or testing frameworks. While the cover letter expresses enthusiasm and a willingness to learn, the resume provides no evidence of practical coding or frontend development skills. The candidate's skills are centered around content creation, social media management, and communication strategies, which do not align with the requirements of a Frontend Developer role.

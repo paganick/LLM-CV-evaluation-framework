@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they mention JavaScript and HTML, the resume lacks specific experience with modern FE frameworks like React or TypeScript, which are core requirements. The cover letter expresses a willingness to learn, but the current skill set doesn't align with the job description's focus on front-end development expertise.

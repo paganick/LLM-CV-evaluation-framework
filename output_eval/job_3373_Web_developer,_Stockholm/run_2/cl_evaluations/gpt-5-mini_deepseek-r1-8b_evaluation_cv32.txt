@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong transferable soft skills, motivation, and a willingness to learn, but provides no concrete evidence of the required hands-on technical experience (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, web security, CI/CD, etc.). The role demands practical experience with modern front-end frameworks, testing/automation, and deployment tools, which the cover letter does not demonstrate. The applicant may be suitable for a junior/transition program but is not qualified for this position as posted.

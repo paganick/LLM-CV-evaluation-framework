@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is significantly underqualified, lacking experience in nearly all required technologies including React, TypeScript, modern CSS tools, and automated testing frameworks. Their professional background is heavily centered on general IT support and hardware, with their web development experience appearing outdated and limited to legacy technologies like PHP and ActionScript. The resume lacks evidence of recent professional experience or any familiarity with modern software development lifecycles and CI/CD tools.

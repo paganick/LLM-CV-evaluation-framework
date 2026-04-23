@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's cover letter heavily emphasizes mainframe technologies like COBOL and DB2, which are completely irrelevant to the JavaScript/React-focused job description. The letter lacks any mention of the required skills such as React, TypeScript, or modern front-end development practices. While they mention HTML and JavaScript, their expertise appears to be minimal in the context of the job description.

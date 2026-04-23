@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This resume is for a construction and site manager with extensive experience in civil engineering and project management, completely unrelated to front-end development. The candidate lacks any of the required skills in JavaScript, TypeScript, modern FE frameworks, or web security. Their experience is in a different industry.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in technology, such as familiarity with JavaScript, TypeScript, HTML, and CSS, but does not explicitly mention experience with modern frontend frameworks like React or libraries like Styled Components. While they show a willingness to learn and adapt, the lack of specific frontend development experience and knowledge of testing frameworks and CI/CD tools makes them a less qualified fit for the position.

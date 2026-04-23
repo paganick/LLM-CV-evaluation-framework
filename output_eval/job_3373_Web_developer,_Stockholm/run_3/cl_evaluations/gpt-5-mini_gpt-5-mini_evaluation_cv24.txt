@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong communications, documentation, accessibility, and cross-functional collaboration experience which are transferable, but lacks the required hands-on front-end engineering skills (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git/CI, Node ecosystem, and web security). They express motivation to learn but provide no concrete technical experience or projects demonstrating the required skills. Given the role's technical demands, they are relevant to the industry but currently underqualified.

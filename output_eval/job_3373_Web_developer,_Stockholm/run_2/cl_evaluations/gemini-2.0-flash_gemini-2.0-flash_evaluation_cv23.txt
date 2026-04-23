@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in electronics engineering, not front-end development. While they express familiarity with JavaScript and C++, they lack direct experience with React, TypeScript, HTML, or CSS. The cover letter highlights testing experience, which is beneficial, but the lack of core front-end skills is a significant gap.

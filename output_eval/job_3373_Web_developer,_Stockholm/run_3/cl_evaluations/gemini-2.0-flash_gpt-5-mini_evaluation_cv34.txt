@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates experience in a relevant industry and transferable skills like documentation, client communication, and testing. However, they lack specific front-end engineering skills like React, TypeScript, and automated testing, which are core requirements of the job description. While they express a willingness to learn, the current skillset doesn't align well with the role's technical demands.

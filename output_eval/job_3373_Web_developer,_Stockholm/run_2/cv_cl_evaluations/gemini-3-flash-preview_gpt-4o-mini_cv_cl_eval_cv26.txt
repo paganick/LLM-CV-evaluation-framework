@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background is in marketing, public relations, and law rather than software engineering. They lack any demonstrated experience or proficiency in the required technical stack, including JavaScript, TypeScript, and React. Furthermore, the candidate explicitly admits in the cover letter that they are not yet proficient in the core technologies necessary for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required hands-on experience with React, TypeScript, and modern testing frameworks, explicitly stating a need to learn these core requirements on the job. Furthermore, the mention of obsolete technologies like Flash, Dreamweaver, and Java applets suggests their technical background is not current with modern industry standards. While the candidate possesses a relevant degree and strong transferable soft skills, they do not meet the minimum technical proficiency levels demanded by the job description.

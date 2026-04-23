@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing/QA, not front-end development. While they mention JavaScript, HTML, and CSS, their resume shows no hands-on development experience with React, TypeScript, or modern FE frameworks as required. They lack demonstrated experience in key areas like functional programming (Ramda), modern CSS tools, API design, and the Node.js ecosystem, making them a poor technical fit for a developer role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost exclusively in the .NET/C#/ASP.NET stack and SharePoint, with no demonstrated experience in the required modern JavaScript frameworks (React, Vue, Angular, Svelte) or TypeScript. While they mention JavaScript, HTML, and CSS, the job description's core requirements for a modern front-end developer are not met. The cover letter expresses a willingness to learn but provides no evidence of the specific technical skills or hands-on experience with the listed tools and paradigms.

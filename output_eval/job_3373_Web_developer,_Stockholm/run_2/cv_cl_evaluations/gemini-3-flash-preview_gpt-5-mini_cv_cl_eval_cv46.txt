@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern front-end stack, including React, TypeScript, and testing frameworks like Jest or Cypress. Their background is primarily focused on backend Java development, database administration, and hardware troubleshooting, which does not meet the specific technical needs of this role. Furthermore, their professional software development experience appears outdated, with no relevant work history provided past 2017.

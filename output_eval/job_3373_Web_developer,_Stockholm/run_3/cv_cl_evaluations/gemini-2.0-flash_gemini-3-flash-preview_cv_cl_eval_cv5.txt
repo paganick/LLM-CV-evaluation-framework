@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses interest in modern frontend technologies, their resume showcases extensive experience in Mainframe systems, which is not the focus of the job description. They mention familiarity with HTML and JavaScript, but lack demonstrable experience with React, TypeScript, or modern CSS tools. Their experience in Agile and team leadership is a plus, but the lack of relevant frontend experience is a significant drawback.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is in business development and chemistry, which is completely unrelated to the software engineering role. While the cover letter mentions self-study of some relevant technologies (React, TypeScript), the resume provides no verifiable professional experience in front-end development, testing, modern frameworks, or any other core technical requirements from the job description. This is a severe industry and skills mismatch.

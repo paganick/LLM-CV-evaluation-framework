@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials engineering and quality analysis, which is a completely different industry from frontend software development. They lack any professional experience or demonstrable projects using the core required technologies (JavaScript, TypeScript, React, modern CSS). While they express eagerness to learn, their existing skills are not transferable to the technical demands of this role.

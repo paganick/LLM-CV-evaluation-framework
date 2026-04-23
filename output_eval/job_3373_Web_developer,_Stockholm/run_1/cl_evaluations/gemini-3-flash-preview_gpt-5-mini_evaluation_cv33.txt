@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career transitioner who lacks the required professional experience in JavaScript, TypeScript, React, and automated testing, explicitly stating a need to "gain hands-on experience" in these core areas. While they possess strong transferable leadership and soft skills from the banking and operations sectors, they do not meet any of the mandatory technical benchmarks defined in the job description. As they are currently unqualified to contribute to a production codebase, they do not fulfill the requirements for this engineering role.

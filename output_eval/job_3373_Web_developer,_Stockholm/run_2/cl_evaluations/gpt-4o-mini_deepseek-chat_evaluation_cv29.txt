@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in a technology-oriented role and demonstrates knowledge of key skills like JavaScript, TypeScript, HTML, CSS, and modern frameworks. However, they lack hands-on experience with some specific tools and technologies mentioned in the job description, such as testing frameworks beyond Jest, CI/CD tools, and functional programming with Ramda. Their transition from business development may also raise concerns about depth of hands-on coding experience.

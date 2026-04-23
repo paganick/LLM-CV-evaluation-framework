@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is significantly different from the requirements. While they express interest and foundational knowledge, they lack direct experience in frontend technologies like React, JavaScript, and relevant testing frameworks. Their reliance on past experiences in project management and a willingness to learn does not compensate for the absence of hands-on frontend development experience.

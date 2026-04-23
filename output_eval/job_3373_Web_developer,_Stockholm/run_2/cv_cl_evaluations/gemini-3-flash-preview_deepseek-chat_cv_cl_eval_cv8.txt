@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional history is rooted entirely in hardware testing and electronics manufacturing, which does not align with the requirements for a modern frontend developer. There is no evidence of professional experience with JavaScript, TypeScript, or React within the resume's 10-year career history. The applicant's background in hardware diagnostics and RF circuits is irrelevant to the core software engineering competencies demanded by the role.

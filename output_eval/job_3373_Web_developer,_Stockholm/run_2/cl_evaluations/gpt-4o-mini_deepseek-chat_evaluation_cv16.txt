@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience as a .NET Developer and possesses a solid understanding of core web technologies such as JavaScript, HTML, and CSS. However, they lack specific experience with the required modern frameworks like VueJS, Angular, and Svelte, and do not mention familiarity with some of the modern CSS tools or CI/CD tools specified in the job description. Overall, they demonstrate strong collaboration skills and a commitment to clean code, making them a good match but not a perfect one.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a computer science degree and experience in UX/UI design, the cover letter reveals a focus primarily on design rather than front-end development. The letter acknowledges limited alignment with E2E testing and a primary focus outside of active front-end coding, indicating a gap in the required hands-on experience with front-end frameworks like React and testing automation. The candidate shows potential but lacks concrete examples of in-depth front-end development experience.

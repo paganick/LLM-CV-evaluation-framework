@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost exclusively in Java/J2EE backend development with outdated technologies like Struts and EJB, which is the wrong industry for a modern frontend role. The resume and cover letter show no practical experience with the required technologies: JavaScript, TypeScript, React, modern CSS tools, or frontend testing frameworks. While the candidate expresses eagerness to learn, they lack the specific, hands-on skills and recent relevant experience demanded by the job description.

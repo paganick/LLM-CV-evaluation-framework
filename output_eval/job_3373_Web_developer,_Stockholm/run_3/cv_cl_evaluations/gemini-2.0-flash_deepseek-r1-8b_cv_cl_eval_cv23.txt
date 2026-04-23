@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in electronics testing, not front-end development. While they mention JavaScript, it seems basic. The resume lacks experience with modern FE frameworks like React and the other required technologies listed in the job description.

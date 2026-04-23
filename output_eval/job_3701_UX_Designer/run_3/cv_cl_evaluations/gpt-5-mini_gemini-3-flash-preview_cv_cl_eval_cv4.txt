@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings extensive visual and front-end web design experience, strong stakeholder coordination, and foundational HTML/CSS skills that are somewhat relevant to a UX role. However, there is no clear commercial UX designer experience, no evidence of working in an Agile environment, no Figma or modern prototyping tools, little-to-no demonstrated user research/testing or UI design system ownership, and no JS exposure. Given the gap in core UX practices and tooling required for this role, the application is only a partial match.

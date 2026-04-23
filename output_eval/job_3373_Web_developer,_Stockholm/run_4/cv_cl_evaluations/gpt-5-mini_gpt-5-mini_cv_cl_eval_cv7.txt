@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive graphic/design experience and some legacy web tooling experience (Dreamweaver/Flash) but provides no demonstrable hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, Node/npm, testing frameworks, Git workflows, CI/CD, or web security practices required for this role. While transferable skills (design discipline, collaboration) are present, they do not meet the technical requirements for a front-end engineering position and would require substantial upskilling before being considered.

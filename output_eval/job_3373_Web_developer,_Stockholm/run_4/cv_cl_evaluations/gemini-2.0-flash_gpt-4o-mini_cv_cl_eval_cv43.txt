@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management and learning design, with limited demonstrable experience in the required front-end technologies. While the cover letter expresses interest in learning JavaScript and related frameworks, the resume lacks evidence of hands-on experience, making them unqualified for a JavaScript developer role. The mentioned "intermediate coding in R studio" is not relevant to the job requirements.

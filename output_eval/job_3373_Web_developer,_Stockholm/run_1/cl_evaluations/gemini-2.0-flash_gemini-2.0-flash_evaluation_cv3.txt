@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a degree in a relevant field and some experience with HTML, CSS, and JavaScript. However, they lack experience with modern FE frameworks like React (the company's primary framework), testing, and security on the Web, which are all listed as requirements. The cover letter does not showcase enough specific skills from the job description.

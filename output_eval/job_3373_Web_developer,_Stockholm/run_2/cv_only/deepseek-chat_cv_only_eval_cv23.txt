@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics engineering and hardware testing, which is a completely different industry from modern front-end web development. While they list "Java script" as a skill, there is no evidence of professional experience with the required technologies like React, TypeScript, modern CSS, testing frameworks, or any of the specific tools and practices mentioned in the job description. The resume does not demonstrate the core competencies for a front-end software engineering role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in systems administration and IT support, not front-end development. The resume shows no professional experience with the required technologies (React, TypeScript, modern FE frameworks), and the cover letter's claims of proficiency are not substantiated by the work history. This is a fundamental mismatch for a front-end developer role requiring hands-on, modern framework experience.

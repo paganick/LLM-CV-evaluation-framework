@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no documented professional experience, projects, or formal education in software engineering or frontend development. While the cover letter mentions the required technologies, the resume fails to provide any evidence of their application in a professional or technical capacity, focusing instead on sales management and hospitality. This candidate is completely unqualified for a specialized engineering role that requires proficiency in React, TypeScript, and automated testing.

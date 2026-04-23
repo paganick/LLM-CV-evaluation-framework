@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience but lacks direct, proven experience with the core technologies listed in the job description, specifically React, TypeScript, and modern frontend tooling. Their resume shows a strong background in legacy .NET stack and AngularJS, with only the cover letter mentioning recent self-directed study of React. Key requirements like hands-on experience with modern testing frameworks (Jest, Cypress), functional programming (Ramda), and specific tools (Styled Components, Node.js ecosystem) are not demonstrated.

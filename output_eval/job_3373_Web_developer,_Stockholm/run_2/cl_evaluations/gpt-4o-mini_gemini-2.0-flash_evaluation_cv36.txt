@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in a completely different industry (microbiology) and their experience as a Consultant does not demonstrate the necessary technical skills specific to Frontend Development, such as proficiency in JavaScript, React, or modern CSS tools. While they mention transferable skills like collaboration and documentation, they lack direct experience with the required technologies and practices listed in the job description.

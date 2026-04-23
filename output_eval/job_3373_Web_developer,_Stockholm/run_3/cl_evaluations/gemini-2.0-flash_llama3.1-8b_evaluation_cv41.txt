@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate highlights systems administration skills which are not directly relevant to the front-end developer job description. While they mention an interest in modern FE frameworks, they lack specific experience with JavaScript, TypeScript, and related technologies emphasized in the job posting. The cover letter focuses more on infrastructure and systems management, indicating a mismatch with the required front-end development expertise.

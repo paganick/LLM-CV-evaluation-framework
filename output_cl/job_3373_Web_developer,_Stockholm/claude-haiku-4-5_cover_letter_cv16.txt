@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With two years of web development experience specializing in front-end technologies, combined with my solid foundation in Agile methodologies and collaborative team environments, I am confident in my ability to contribute meaningfully to your React-focused team.
+
+Throughout my career, I have developed proficiency in the core technologies your role requires. My experience with JavaScript, HTML, and CSS spans multiple projects where I created dynamic user interfaces using jQuery and Bootstrap CSS. While my primary framework experience has been with ASP.NET, I have consistently worked with modern development practices and am eager to deepen my expertise in React. I have successfully implemented responsive designs and client-side validations, demonstrating my capability to quickly master your React stack.
+
+My testing background is particularly relevant to your requirements. I have written comprehensive validation logic across multiple applications and worked extensively with data manipulation and verification processes that parallel unit and integration testing principles. This experience positions me well to contribute to your testing and test automation efforts using Jest, Cypress, or TestCafe.
+
+Version control is integral to my workflow. I have actively used GitHub and Tortoise SVN throughout my professional experience, collaborating seamlessly with development teams. My work on several projects required coordinating with cross-functional teams, QA departments, and external stakeholders, embodying the collaborative spirit and Agile mindset you seek.
+
+Security has been a consistent focus in my development work. I implemented role-based authorization, form-based authentication, and secure data handling across multiple applications. This foundation aligns well with your emphasis on OWASP, CORS, and OAuth concepts.
+
+I am genuinely passionate about writing clean, maintainable code and staying current with industry best practices. My participation in daily scrums, sprint planning, and regular technical discussions demonstrates my commitment to continuous improvement and knowledge sharing. I am particularly drawn to your emphasis on understanding the full domain and collaborating across platforms, as I have consistently worked to bridge gaps between development, QA, and business requirements.
+
+While my background is primarily .NET-focused, I am enthusiastic about transitioning to modern front-end technologies. My strong fundamentals in software development, proven ability to learn quickly, and genuine passion for clean code make me confident I can rapidly contribute to your team while expanding my technical skill set in React and your broader technology ecosystem.
+
+Thank you for considering my application. I look forward to discussing how my experience and enthusiasm can benefit your organization.
+
+Sincerely, Alexis

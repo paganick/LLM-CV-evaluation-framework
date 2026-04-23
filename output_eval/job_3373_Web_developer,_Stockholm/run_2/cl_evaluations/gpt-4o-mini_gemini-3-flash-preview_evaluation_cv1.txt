@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in relevant technologies such as JavaScript and React, along with experience in testing frameworks like Selenium and Cucumber. They demonstrate a solid understanding of Agile methodologies and collaboration within teams. However, they do not mention experience with TypeScript, which is a requirement, and their familiarity with other modern CSS tools is not highlighted, preventing a perfect match.

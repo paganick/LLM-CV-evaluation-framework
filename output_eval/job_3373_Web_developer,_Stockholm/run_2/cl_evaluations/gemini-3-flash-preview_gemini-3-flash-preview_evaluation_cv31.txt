@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is from the technology sector and incorporates all the required keywords, their professional history is strictly in sales leadership rather than software engineering. The letter lacks evidence of professional hands-on development experience, and "foundational knowledge of HTML" is insufficient for a role requiring React, TypeScript, and functional programming. Despite strong soft skills and industry familiarity, the candidate does not demonstrate the technical maturity or prior developer tenure required for this position.

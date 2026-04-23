@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some experience in relevant fields such as data analysis and a foundational knowledge of web technologies, including HTML. However, they lack the required hands-on experience with JavaScript, TypeScript, modern frontend frameworks like React, and testing frameworks. Their eagerness to learn React and commitment to clean coding are promising, but their overall experience does not meet the specific technical requirements for this role.

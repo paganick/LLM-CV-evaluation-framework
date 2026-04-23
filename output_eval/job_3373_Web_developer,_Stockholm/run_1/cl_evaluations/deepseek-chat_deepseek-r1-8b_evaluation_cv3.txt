@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic training and demonstrates some foundational knowledge of required technologies like HTML, CSS, JavaScript, and Git. However, they lack direct, professional experience with the core requirements of modern React development, testing frameworks, and the specific toolchain listed. Their background is primarily academic and in a different industry, making them a candidate who understands the field but lacks the specific, hands-on experience demanded by the role.

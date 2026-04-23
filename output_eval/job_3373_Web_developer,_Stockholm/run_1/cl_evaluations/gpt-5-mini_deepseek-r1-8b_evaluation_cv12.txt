@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant software development experience, familiarity with JavaScript/CSS, basic React knowledge, testing awareness, and full-stack/database skills, which align partially with the role. However, they lack explicit hands-on experience with key requirements such as TypeScript, the modern React ecosystem and tooling (Styled Components/SASS, Jest/Cypress), Node/npm/Yarn, Git/GitHub, CI/CD, and basic web security practices, so they do not meet several important job-specific qualifications.

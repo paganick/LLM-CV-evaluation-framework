@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a foundation in relevant technologies like JavaScript, HTML, and CSS, and expresses familiarity with React. However, the resume highlights .NET development more prominently than front-end frameworks, and the experience is relatively limited. The cover letter mentions interest in security and testing but lacks concrete examples of practical application.

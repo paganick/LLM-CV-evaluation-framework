@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is attempting a career pivot and explicitly lacks the mandatory experience in React, TypeScript, and modern CSS tooling required for this role. While they possess strong transferable skills in QA and integrations within the marketing technology sector, they do not demonstrate the necessary hands-on front-end development or software engineering background. As a strict recruiter, I find the candidate unqualified for a senior-level technical position due to the total absence of the core technical stack listed in the requirements.

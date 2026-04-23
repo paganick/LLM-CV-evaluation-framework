@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in graphic design and production but lacks hands-on experience with the specified front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. While they exhibit relevant design skills and collaboration experience, the absence of direct experience in coding and testing automation limits their qualifications for the front-end engineering role.

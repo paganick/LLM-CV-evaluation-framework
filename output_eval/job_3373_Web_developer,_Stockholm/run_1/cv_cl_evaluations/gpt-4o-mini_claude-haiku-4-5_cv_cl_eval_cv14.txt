@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid foundation in web technologies such as JavaScript, HTML, and CSS, and experience with Git and GitHub. However, they lack proficiency with modern frontend frameworks like React and have limited exposure to testing frameworks and CI/CD tools mentioned in the job description. While they demonstrate relevant experience, they do not fully meet the specific technical requirements for the position.

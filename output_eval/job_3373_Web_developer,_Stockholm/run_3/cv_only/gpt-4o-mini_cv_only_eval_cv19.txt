@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a background in graphic design and limited experience with HTML and CSS, but lacks any significant skills in JavaScript, TypeScript, modern front-end frameworks like React, or testing and automation tools. The resume demonstrates a strong skill set in design but falls short of meeting the technical requirements of the job description, placing the candidate in the wrong industry for this role.

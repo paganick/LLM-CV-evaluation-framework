@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general software experience, their background is heavily focused on legacy technologies like PHP, C++, and Perl rather than the modern React/TypeScript stack required. The resume fails to demonstrate professional experience with essential job requirements such as TypeScript, modern testing frameworks (Jest/Cypress), or CI/CD tools. Additionally, there is no evidence of the requested expertise in cloud infrastructure or functional programming, making the candidate a poor fit for this specific role.

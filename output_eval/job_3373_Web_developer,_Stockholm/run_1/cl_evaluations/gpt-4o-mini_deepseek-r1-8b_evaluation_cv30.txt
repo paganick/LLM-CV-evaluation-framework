@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant experience in data analysis and backend development but lacks direct hands-on experience with key front-end technologies required for the role, such as JavaScript frameworks (React specifically), modern CSS tools, and testing frameworks. Although they possess a solid understanding of the fundamentals and a passion for clean code, the absence of specific skills and direct experience with the technologies listed in the job description makes them less suitable for this position.

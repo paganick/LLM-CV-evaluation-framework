@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in IT support and troubleshooting, but lacks the required skills in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. There is no mention of experience with testing frameworks, CI/CD tools, or web security knowledge. Overall, the candidate does not fulfill the key qualifications outlined in the job description.

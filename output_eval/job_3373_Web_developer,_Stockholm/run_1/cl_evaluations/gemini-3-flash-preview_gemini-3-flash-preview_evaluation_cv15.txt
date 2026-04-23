@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a strong general IT background and fundamental web knowledge, they lack the required professional experience with React, TypeScript, and automated testing frameworks like Jest or Cypress. The letter explicitly states an interest in "developing" these core skills rather than having mastered them, which fails to meet the "hands-on experience" criteria specified in the job description. Consequently, the applicant is underqualified for a role that demands immediate proficiency in a modern frontend ecosystem.

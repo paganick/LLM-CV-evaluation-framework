@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, currently only "pursuing" these skills rather than possessing professional experience. While they have a long history in IT infrastructure, their web development background is limited to CMS platforms, which does not align with the requirement for modern frontend engineering and automated testing. As a career-changer, they do not meet the immediate technical demands of the role and would require extensive training.

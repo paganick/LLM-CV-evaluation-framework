@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical stack, including React, TypeScript, testing, and modern tooling, and explicitly addresses key soft skills like Agile collaboration. The career pivot is framed effectively, translating past leadership experience into relevant development competencies. The score is not a 9 or 10 because direct, professional experience with some listed tools like Node.js, CI/CD, and specific testing frameworks is implied through study rather than proven through work history.

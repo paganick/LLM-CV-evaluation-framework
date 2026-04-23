@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in government IT, cybersecurity, and program management, with no mention of the required front-end technologies (JavaScript, TypeScript, React, modern CSS), testing frameworks, or modern development tools. The resume focuses on high-level strategic planning, budgeting, and security compliance, which does not align with the hands-on software engineering and specific technical stack required by the job description.

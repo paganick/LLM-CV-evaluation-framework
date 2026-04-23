@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with React and TypeScript, which are central requirements for this modern frontend role. Their background is heavily centered on legacy ASP.NET, C#, and jQuery, with no evidence of hands-on experience in modern testing frameworks, functional programming, or CI/CD pipelines. While they possess general web development knowledge, they do not meet the specific technical stack requirements outlined in the job description.

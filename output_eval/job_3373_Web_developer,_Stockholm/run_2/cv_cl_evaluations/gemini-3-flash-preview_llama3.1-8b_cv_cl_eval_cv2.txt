@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over 8 years of experience in the software industry, their technical expertise is almost exclusively in legacy Java/J2EE stacks (Struts, EJB, JSP) rather than the required modern JavaScript ecosystem. They lack any demonstrated experience with React, TypeScript, NodeJS, or modern CSS-in-JS tools, which are core requirements for this position.

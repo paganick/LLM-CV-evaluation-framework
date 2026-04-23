@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different industry (film/TV production) with no demonstrated professional experience in front-end development. While they show strong transferable project management skills and express eagerness to learn the required technologies (JavaScript, React, etc.), they lack any hands-on experience with the core technical stack, testing frameworks, or tools listed in the job description. This represents a significant skills gap for the role.

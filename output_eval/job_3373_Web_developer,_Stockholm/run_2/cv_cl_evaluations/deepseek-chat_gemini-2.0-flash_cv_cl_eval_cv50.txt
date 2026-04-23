@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace business development, sales, and quality engineering, with no demonstrated professional experience in front-end development, React, or the specific technical stack required. The Computer Science degree is from 1984 and the cover letter attempts to draw non-technical parallels, but there is no evidence of hands-on skills in JavaScript, TypeScript, modern frameworks, testing, or any other core requirements listed in the job description. This is a severe mismatch for a Front-End Developer role.

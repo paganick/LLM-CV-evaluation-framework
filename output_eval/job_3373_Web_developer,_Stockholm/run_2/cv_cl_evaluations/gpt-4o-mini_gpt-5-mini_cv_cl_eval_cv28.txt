@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has substantial experience in data analysis, quality assurance, and cross-functional collaboration, their background lacks direct experience in front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. Additionally, there is no evidence of testing automation experience or familiarity with web security practices, which are critical for the role. The candidate may be adaptable but does not meet the specific technical requirements of the position.

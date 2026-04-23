@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in relevant technologies like JavaScript, HTML, CSS, and SASS, and has experience with Git and API integration. However, the resume lacks explicit experience with React, TypeScript, modern FE frameworks, and testing frameworks emphasized in the job description. While the cover letter mentions eagerness to learn, the lack of concrete experience in these key areas lowers the overall fit.

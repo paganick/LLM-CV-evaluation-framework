@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume reflects a data analytics background (R, SAS, Python, SQL, Tableau) and lacks any demonstrated front-end development experience in JavaScript/TypeScript, React, HTML/CSS, or modern CSS tooling. There is no evidence of required tooling and practices such as Git/GitHub, front-end testing frameworks, NodeJS/npm, CI/CD, or web security knowledge (OWASP/CSP/CORS/OAuth). Overall the candidate is in a different discipline and is currently unqualified for this front-end engineering role.

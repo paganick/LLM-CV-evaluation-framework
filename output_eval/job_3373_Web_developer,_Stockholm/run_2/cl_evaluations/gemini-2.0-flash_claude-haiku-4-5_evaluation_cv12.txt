@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, Git, and testing, aligning well with the core requirements. They also highlight experience with SASS and Agile environments. While they don't explicitly mention React or TypeScript, their general frontend experience and passion for learning make them a good fit.

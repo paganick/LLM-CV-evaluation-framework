@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate holds a relevant degree, they lack hands-on experience with the core requirements including React, TypeScript, and automated testing. The mention of outdated technologies like Java Applets and a lack of familiarity with Git or modern CSS tools makes them underqualified for this specific stack. Significant training would be required to bridge the gap between their academic background and the technical demands of the role.

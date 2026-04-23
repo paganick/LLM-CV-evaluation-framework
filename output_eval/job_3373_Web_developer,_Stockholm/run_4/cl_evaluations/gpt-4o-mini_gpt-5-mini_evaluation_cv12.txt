@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a strong foundation in front-end technologies. However, they lack direct experience with React and TypeScript, which are essential for the role. Their knowledge of JavaScript and general web security is noted, but their limited exposure to modern frontend frameworks and specific testing tools may hinder their ability to integrate seamlessly into the team.

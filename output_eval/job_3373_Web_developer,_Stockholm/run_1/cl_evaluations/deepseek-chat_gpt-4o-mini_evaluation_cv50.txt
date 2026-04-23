@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is heavily weighted towards business development and project management, not hands-on front-end development. While they mention some relevant technologies, they lack demonstrable, specific experience with key requirements like Git, CI/CD, linters, and modern frameworks beyond React. Their technical skills are stated broadly without concrete project examples, making their direct coding proficiency for this role uncertain.

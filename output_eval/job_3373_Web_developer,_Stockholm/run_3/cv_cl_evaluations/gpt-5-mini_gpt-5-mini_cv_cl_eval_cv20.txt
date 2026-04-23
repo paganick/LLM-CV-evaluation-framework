@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience with JavaScript, HTML/CSS, Bootstrap, Git/GitHub and Agile practices, but their background is primarily in a legacy .NET/jQuery stack. They lack demonstrated experience with React (or other modern frameworks), TypeScript, test automation tools (Jest/Cypress/TestCafe), modern CSS tooling (Sass/Styled Components), and Node/npm/Express or CI/CD/AWS required by the role. Given these significant gaps, they are a partially relevant candidate who would need substantial upskilling to meet the job requirements.

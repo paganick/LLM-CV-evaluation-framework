@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates solid front-end experience with JavaScript, testing, Git, security awareness, and leadership in Agile teams, which align with core parts of the role. However, they do not demonstrate required specifics such as TypeScript, concrete React experience, modern CSS tooling (Styled Components/SASS), linters/formatters, functional tooling (Ramda), or explicit CI/CD tooling like CircleCI, so they lack several key technologies the team is seeking.

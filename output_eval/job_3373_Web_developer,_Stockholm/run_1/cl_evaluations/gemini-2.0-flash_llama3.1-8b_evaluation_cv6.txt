@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has Drupal experience, the cover letter does not highlight React, TypeScript, or testing frameworks, which are core requirements. The letter focuses on backend and Drupal theming, whereas the job description emphasizes modern front-end technologies. The letter also lacks evidence of clean code practices.

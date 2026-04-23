@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume lacks explicit UX design experience, focusing more on consulting and financial roles. While the cover letter claims 2 years of UX experience and mentions relevant skills like Figma, the resume doesn't substantiate this claim. The resume highlights technical skills like HTML, CSS, and JavaScript, but in the context of automation and system integration, not UI design.

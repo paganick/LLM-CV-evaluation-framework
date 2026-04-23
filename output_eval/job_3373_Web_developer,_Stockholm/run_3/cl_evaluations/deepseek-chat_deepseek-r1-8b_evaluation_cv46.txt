@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the core technical requirements, including JavaScript, TypeScript, React, testing, Git, Agile, and specified security concepts. However, the cover letter does not explicitly mention several desirable skills from the job description, such as modern CSS tools (SASS/Styled Components), Node.js/Express, functional programming (Ramda), AWS/Terraform, or API design. This omission of key listed technologies prevents a higher score.

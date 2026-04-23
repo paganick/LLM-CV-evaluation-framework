@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in HTML and CSS, but lacks crucial skills like React, TypeScript, and sufficient testing experience, which are explicitly mentioned in the job description. While they demonstrate a willingness to learn, their foundational knowledge in Node.js and AWS, coupled with limited experience in testing frameworks, makes them a less competitive candidate. Their design background is valuable but does not compensate for the gaps in core front-end development skills.

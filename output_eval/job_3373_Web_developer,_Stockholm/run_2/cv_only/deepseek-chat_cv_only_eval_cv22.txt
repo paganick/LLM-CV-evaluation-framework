@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is a completely different industry from modern front-end software development. While they list basic HTML and CSS, they lack any experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technologies specified in the job description. Their career goal to switch to a database-focused technological role further misaligns with this front-end engineering position.

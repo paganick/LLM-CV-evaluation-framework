@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong proficiency in the core React ecosystem, including automated testing with Jest and Cypress and a solid understanding of web security. However, the application fails to address the specific requirement for TypeScript and provides no mention of functional programming or CI/CD tools requested in the description.

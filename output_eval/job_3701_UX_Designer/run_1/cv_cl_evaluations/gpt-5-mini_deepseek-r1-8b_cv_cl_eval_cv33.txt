@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior MDM/enterprise-integration architect with 11+ years of TIBCO-focused experience and no demonstrated commercial UX design experience, Figma/prototyping work, user research, or workshop facilitation. Their cover letter and resume focus entirely on MDM architecture and backend integration; only minimal front-end development skills are listed and do not substitute for UX practice. This profile is a clear mismatch for a User Experience Designer role that requires proven UX deliverables and user-centered design experience.

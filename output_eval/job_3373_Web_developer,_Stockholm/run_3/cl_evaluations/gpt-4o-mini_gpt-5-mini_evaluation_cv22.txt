@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in media planning and account management, along with some technical skills in HTML, CSS, and SQL/MySQL. However, they lack hands-on experience with the required modern front-end frameworks like React, VueJS, or Angular, and demonstrate a limited understanding of testing automation and other specified tools. While they show a willingness to learn, they do not meet many of the core technical requirements outlined in the job description.

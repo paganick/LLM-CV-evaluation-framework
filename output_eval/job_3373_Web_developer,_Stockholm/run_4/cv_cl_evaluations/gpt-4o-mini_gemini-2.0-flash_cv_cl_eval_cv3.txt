@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant educational background in IT and web development and possesses foundational skills in HTML, CSS, and JavaScript. However, they lack experience with modern front-end frameworks (specifically React, as mentioned in the job description) and do not demonstrate hands-on experience with testing, automation, or familiarity with key technologies listed in the job description. Additionally, the transition from construction to tech may raise concerns regarding adaptability and readiness for an entry-level position.

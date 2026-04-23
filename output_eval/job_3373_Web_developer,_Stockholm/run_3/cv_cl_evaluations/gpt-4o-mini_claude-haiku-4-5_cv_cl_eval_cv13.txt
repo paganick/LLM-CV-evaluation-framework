@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in technical project management and web development but lacks direct hands-on experience with modern frontend frameworks, specifically React, which is emphasized in the job description. While they possess foundational skills in JavaScript, HTML, and CSS, their testing framework experience is limited, which could be a concern for a frontend developer role focused on quality assurance and test automation.

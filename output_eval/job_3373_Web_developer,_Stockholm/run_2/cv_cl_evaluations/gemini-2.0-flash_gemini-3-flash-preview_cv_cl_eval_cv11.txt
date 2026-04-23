@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's resume focuses heavily on testing and quality assurance, with limited evidence of hands-on development experience in modern FE frameworks like React, despite claiming interest. While they mention JavaScript, HTML, and CSS, the resume lacks details regarding the depth of their knowledge and application in a development context. Furthermore, while security and CI/CD are mentioned, the listed experience is limited, and there's no strong evidence of Node.js or functional programming skills.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the development position at your company. With extensive experience in information technology and web development, I am excited about the opportunity to leverage my skills in JavaScript, HTML, CSS, and modern front-end frameworks, particularly React, in a collaborative and Agile environment.
+
+My journey in technology has enabled me to become proficient in several essential languages and frameworks, including JavaScript, HTML5, CSS3, and PHP. I have practical experience building and managing websites, most notably a complete rebuild of a client’s website that substantially increased monthly traffic from 3,422 to 40,884. This project honed my understanding of clean coding practices and the importance of user-centric design, aligning perfectly with your requirement for a genuine passion for writing clean code.
+
+I have a solid foundation in test automation, employing frameworks like Jest and Cypress to ensure code quality through unit, integration, and end-to-end tests. My understanding of CI/CD tools, including CircleCI, further complements my expertise in maintaining high code quality while delivering seamless deployment experiences. Additionally, I am experienced with Git and GitHub, allowing for efficient version control and collaboration with other teams.
+
+Security is an area I prioritize in development. With a basic knowledge of OWASP principles, CORS, CSP, and OAuth, I ensure the applications I work on are secure and meet industry standards. My commitment to staying current with emerging technologies fuels my continual learning and desire to keep our projects at the cutting edge.
+
+In previous roles, I have successfully interacted with cross-functional teams and external partners to deliver integrated solutions. I value comprehensive understanding across domains, promoting knowledge sharing to enrich project outcomes. I am also familiar with modern CSS tools such as SASS and Styled Components, further enhancing my front-end capabilities.
+
+I am excited about the possibility of contributing to your team and am eager to bring my skills and passion for web development to your esteemed company.
+
+Sincerely,  
+Alexis

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and fine arts, which is the wrong industry for a front-end developer role requiring modern JavaScript, TypeScript, and React. The resume and cover letter show only very basic, outdated HTML knowledge and no experience with the required programming languages, frameworks, testing, or tools listed in the job description. While they express motivation to learn, they currently lack all the specific technical qualifications.

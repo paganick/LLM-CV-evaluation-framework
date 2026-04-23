@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing and communications, which is a completely different industry and skillset from the required front-end development role. The cover letter explicitly states a lack of direct experience in all core technical requirements, including JavaScript, TypeScript, HTML, CSS, and React. While the candidate mentions transferable skills, there is no demonstrated aptitude or relevant project experience to bridge this fundamental gap.

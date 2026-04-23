@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java backend developer attempting to pivot into frontend development without demonstrated professional experience in the required stack, specifically React and TypeScript. While they possess transferable skills in API design, security, and Agile methodologies, they lack the hands-on expertise with modern frontend frameworks and testing libraries (Jest, Cypress) requested. As a "re-skilling" applicant, they do not meet the core technical requirements for a role necessitating immediate frontend proficiency.

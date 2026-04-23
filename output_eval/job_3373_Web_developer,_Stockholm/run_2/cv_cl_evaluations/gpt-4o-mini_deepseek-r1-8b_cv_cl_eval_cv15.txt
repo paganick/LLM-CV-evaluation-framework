@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in JavaScript, HTML, and CSS, and has expressed familiarity with Git and basic web security concepts. However, they lack hands-on experience with modern front-end frameworks like React, and specifics about testing frameworks are vague, which may hinder their ability to meet the position's needs. Additional details about CI/CD, AWS, and functional programming are also absent from their background, limiting their fit for this role.

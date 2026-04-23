@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, engineering, and teaching, not frontend development. While they mention HTML and a desire to learn, they lack any demonstrable experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools, testing frameworks). Their skills are misaligned with the role's specific technical requirements.

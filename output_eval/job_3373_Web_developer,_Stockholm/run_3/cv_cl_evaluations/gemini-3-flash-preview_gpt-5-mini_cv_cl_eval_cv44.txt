@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a visual and presentation designer whose technical skillset centers on legacy tools like Dreamweaver and jQuery rather than the modern React/TypeScript stack required. While they possess a Computer Science degree and fundamental HTML/CSS knowledge, they lack professional experience with mandatory requirements such as unit/E2E testing, Git, CI/CD, and security protocols. The profile is significantly more suited for a UI/UX or design-focused role than a modern Front-End Engineering position.

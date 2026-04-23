@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analytics, environmental science, and semiconductor quality, with no demonstrated professional experience in modern front-end development, React, or the specific tools listed. The cover letter attempts to claim familiarity with the tech stack but is not substantiated by the resume, which shows experience in unrelated technologies like SAS, ASP.NET, and C#. This is a severe mismatch for a front-end engineering role requiring expertise in React, TypeScript, and modern web frameworks.

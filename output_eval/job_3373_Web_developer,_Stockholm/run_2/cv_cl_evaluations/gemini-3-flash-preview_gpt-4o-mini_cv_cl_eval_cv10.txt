@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java-focused developer with experience rooted in legacy technologies like AngularJS and jQuery, which does not align with the modern React and TypeScript requirements. Key technical needs such as TypeScript, modern CSS tools, and specialized functional programming are absent from the resume. While the candidate has testing and Agile experience, their professional background is more aligned with backend Java development and performance testing rather than modern frontend engineering.

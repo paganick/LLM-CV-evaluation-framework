@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and possesses knowledge of some desired technologies such as HTML, CSS, and JavaScript. However, they do not demonstrate experience with key requirements such as modern front-end frameworks like React, TypeScript, or hands-on experience with testing frameworks. Additionally, while the candidate expresses a strong collaboration and Agile environment experience, the lack of specific experience in areas like CI/CD tools, API design, and security practices brings their suitability into question.

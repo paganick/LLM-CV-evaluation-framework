@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position, which I discovered through your posting. With over three years of professional experience in software testing and quality assurance, coupled with a strong technical foundation and a genuine passion for delivering clean, high-quality code, I am confident I possess the unique blend of skills your team requires.
+
+My background as a Test Analyst and Quality Analyst has provided me with deep, hands-on experience across the entire software development lifecycle in Agile environments. I have developed a rigorous, detail-oriented approach to building robust applications, directly aligning with your need for a professional dedicated to writing truly clean code. My technical profile includes proficiency in JavaScript, HTML, and CSS, and I have practical experience testing complex web applications across diverse browsers and platforms, including Chrome, Firefox, Safari, and mobile devices (iOS/Android). My work on projects for Google Play Store and Google Maps required a keen understanding of functional integration and user experience, skills directly transferable to front-end development.
+
+I am particularly drawn to your tech stack. While my professional work has utilized JavaScript for scripting and test automation, I have a foundational understanding of the Node.js ecosystem and am keen to deepen my expertise in modern frameworks like React. My experience with testing frameworks such as GoogleUIAutomator, alongside my ISTQB certification, demonstrates a systematic mindset perfect for implementing comprehensive test suites with Jest, Cypress, or similar tools. Furthermore, my work in domains with high security and compliance standards, such as banking and insurance, has given me a practical appreciation for web security principles, including OWASP guidelines.
+
+My career has been defined by collaboration, a desire to understand full system domains, and a commitment to process improvement—all qualities you highlighted. I am eager to transition from ensuring application quality to actively building it, contributing my analytical problem-solving skills and passion for technology to your team. I am excited by the opportunity to learn and grow with your stack, including React, Ramda, and modern CI/CD practices.
+
+Thank you for considering my application. I look forward to discussing how my testing expertise and technical skills can benefit your development team.
+
+Sincerely, Alexis

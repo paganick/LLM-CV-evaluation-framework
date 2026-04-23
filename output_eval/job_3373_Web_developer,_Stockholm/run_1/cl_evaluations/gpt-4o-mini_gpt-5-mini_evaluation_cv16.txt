@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant front-end experience with JavaScript, HTML, and CSS, as well as familiarity with React. They demonstrate a solid academic background and experience in Agile environments. However, they lack specific experience with some modern technologies and tools mentioned in the job description, such as testing frameworks and CI/CD tools, which prevents a higher score.

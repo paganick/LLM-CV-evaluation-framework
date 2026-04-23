@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has the required years of base experience in JavaScript, HTML, and CSS, but lacks professional experience with the specific modern frontend stack requested, notably React and TypeScript. While they have a strong background in C# and Python, they do not demonstrate hands-on experience with modern testing frameworks (Jest, Cypress), CI/CD tools, or modern CSS methodologies. This profile is more aligned with full-stack or backend development than the specialized frontend role described.

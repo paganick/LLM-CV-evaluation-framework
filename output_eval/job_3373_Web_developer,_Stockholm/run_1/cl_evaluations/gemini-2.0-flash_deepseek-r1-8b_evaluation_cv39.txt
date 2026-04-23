@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's cover letter focuses heavily on graphic design and general web design principles rather than the specific technical skills outlined in the job description, such as Javascript, React, testing frameworks, and CI/CD. While they mention web development experience, the letter lacks concrete examples of proficiency in the required technologies. The listed skills are largely design-focused, not development-focused.

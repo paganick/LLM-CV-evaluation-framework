@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory tech stack, specifically React and TypeScript, which are central to the role. Their front-end experience is limited to legacy technologies like AngularJS and jQuery, and the resume provided is significantly outdated, with no verified work history beyond 2015. Additionally, the profile fails to demonstrate required expertise in modern tools such as NodeJS, Styled Components, or functional programming.

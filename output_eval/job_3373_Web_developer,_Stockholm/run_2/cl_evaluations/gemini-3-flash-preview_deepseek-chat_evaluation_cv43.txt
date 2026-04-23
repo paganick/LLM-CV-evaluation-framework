@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career switcher who lacks professional experience in a software engineering role, relying instead on self-study and project work to meet the technical requirements. While they address core front-end technologies, they fail to mention experience with essential parts of the stack such as CI/CD, API design, AWS, and Terraform. From a strict recruitment perspective, the profile lacks the proven industry track record and the full technical breadth required for this position.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is predominantly focused on business development and project management in the aerospace industry, with no relevant experience in front-end development, JavaScript, or modern frameworks like React. There is a lack of technical skills and knowledge required for the positions, such as testing automation, Git, or any of the specified front-end technologies and methodologies.

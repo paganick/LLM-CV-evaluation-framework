@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in full-stack development with proficiency in key technologies relevant to the role. They demonstrate hands-on experience with testing and automation tools and have a basic understanding of web security, which aligns well with the job requirements. However, they lack experience with specific modern CSS tools and libraries mentioned in the job description, which slightly limits their overall alignment with the position.

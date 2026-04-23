@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and familiarity with JavaScript and HTML, which aligns with some of the job requirements. However, they lack specific experience with TypeScript and modern front-end frameworks like React, as well as other listed technologies such as CSS preprocessors or CI/CD tools. Their primary focus on testing also does not fully meet the demands of a developer role.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the IT position at your esteemed organization. With over a decade of experience in Information Technology, I possess the skills and expertise required to excel in this role.
+
+As a detail-oriented professional with extensive IT experience, I have a proven track record of successfully managing IT projects from planning to execution. My expertise includes troubleshooting, hardware and software support, networking, server management, and digital graphic design. I am confident that my technical skills, including proficiency in JavaScript, HTML5, CSS3, and Java programming, will be an asset to your team.
+
+In my previous role as an IT Manager, I successfully rebuilt a client's website from the ground up, increasing monthly hits from 3422 to 40884 in a few months. I also designed, priced, built, and installed a complete information system upgrade for a client, including networking devices, wiring, client computers, server, and software. My experience with modern FE frameworks like React, VueJS, Angular, and Svelte will enable me to hit the ground running.
+
+In addition to my technical expertise, I possess excellent communication and collaboration skills, which are essential in an Agile environment. As a strong team player, I am comfortable working with other teams and external partners to deliver projects on time.
+
+I have a basic knowledge of security on the Web, including OWASP, CSP, CORS, and OAuth. My experience with testing frameworks like Jest, TestCafe, Cypress, and linters/formatters like ESLint and Prettier will enable me to ensure high-quality code. I am also familiar with the NodeJS ecosystem, npm, Yarn, Express.js, and API design.
+
+I am excited about the opportunity to bring my skills and experience to your organization. Thank you for considering my application. I look forward to discussing how I can contribute to the team's success.
+
+Sincerely,
+Alexis

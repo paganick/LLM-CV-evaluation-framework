@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a C# and ASP.NET specialist, whereas the role explicitly requires expert-level proficiency in JavaScript, TypeScript, and React. While they demonstrate foundational knowledge of general software principles and version control, they lack the specific hands-on experience with frontend frameworks, modern CSS tools, and functional programming mandated by the job description. Their profile suggests a significant technical gap, as they only express an "interest" in the core technologies required for this position.

@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the role requiring JavaScript, TypeScript, HTML, CSS, React, testing, Git, and web security knowledge. Although my background is primarily in data analysis and engineering, I possess strong analytical, problem-solving, and technical skills that I believe align well with the requirements of this position.
+
+My experience involves rigorous data analysis, leveraging statistical methodologies and programming languages like R, Python, and SQL. This background has honed my ability to understand complex systems, identify patterns, and implement solutions – skills highly relevant to software development. I am adept at logical thinking, data wrangling, and utilizing various tools for extraction, analysis, and visualization, which can be effectively transferred to a frontend role.
+
+While my core expertise lies in data science and engineering, I am proficient in Git for version control and possess a solid understanding of collaborative workflows, including comfort within Agile environments. My interest in technology and data is broad, and I am keen to expand my knowledge into modern web development frameworks, particularly React, as mentioned.
+
+Furthermore, I am passionate about writing clean, maintainable code, a principle I have applied in my data analysis projects and simulations. I am eager to learn and apply modern CSS tools, testing frameworks, and CI/CD concepts, and I am keen to understand the broader domain and collaborate effectively with other teams.
+
+I am confident that my analytical mindset, technical proficiency, and drive to learn can be valuable assets to your team. I am excited about the opportunity to contribute to your projects and am eager to discuss how my skills can benefit your organization.
+
+Sincerely,
+Alexis

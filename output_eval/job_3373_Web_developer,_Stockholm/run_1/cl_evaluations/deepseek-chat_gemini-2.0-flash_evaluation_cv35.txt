@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not front-end development, which is a significant mismatch for the core role. While they mention foundational web technologies and soft skills like collaboration, they provide no demonstrable, hands-on experience with the required technical stack (React, TypeScript, modern testing frameworks, etc.). Their experience is adjacent but does not fulfill the specific technical requirements of the job description.

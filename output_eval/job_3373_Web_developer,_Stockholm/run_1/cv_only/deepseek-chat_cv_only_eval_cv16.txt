@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and Agile/Scrum exposure, aligning with some job requirements. However, they lack specific experience with modern front-end frameworks (React, Vue, Angular, Svelte), TypeScript, modern CSS tools, testing frameworks, and the Node.js ecosystem as required. Their background is heavily centered on legacy .NET technologies, which are not a focus for this role.

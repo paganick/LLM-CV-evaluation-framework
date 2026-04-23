@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in information technology and web development, with foundational knowledge in JavaScript, HTML, and CSS. However, they lack specific experience with modern front-end frameworks such as React, as well as testing automation tools explicitly mentioned in the job description. While they demonstrate strong collaboration and client-focused skills, their limited familiarity with the designated technologies keeps them from being a perfect match.

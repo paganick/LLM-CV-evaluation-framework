@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's resume and cover letter highlight testing experience rather than front-end development. While they mention JavaScript, HTML, and CSS, the focus is on test automation rather than building modern FE applications with React. The candidate lacks demonstrable experience with key technologies like NodeJS, modern CSS tools, and CI/CD pipelines mentioned in the job description.

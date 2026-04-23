@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong backend Java/J2EE experience (8.5 years) and familiarity with Git and Agile, but lacks hands-on experience with core requirements for this frontend role—no demonstrated React or TypeScript work, modern JS toolchain (npm/Yarn/Node/Express), frontend testing frameworks (Jest/Cypress), or modern CSS tooling (Styled Components/SASS). There is also no evidence of web security knowledge (CSP/CORS/OAuth), functional JS (Ramda), or CI/CD/AWS experience, so they would require substantial upskilling to meet the role's expectations.

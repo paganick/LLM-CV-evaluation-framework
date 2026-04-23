@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses the required React and CSS (SASS) experience but lacks explicit proficiency in TypeScript, which is a key requirement for the role. Their background is predominantly focused on Java backend development and test automation rather than specialized front-end engineering, missing core requested tools like Jest, Cypress, and functional programming libraries. Furthermore, the resume fails to demonstrate knowledge of critical web security protocols such as OWASP, CSP, or OAuth.

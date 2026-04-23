@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my deep and enthusiastic interest in the Frontend Developer position. With over a decade of experience in customer service, sales, and team management, I bring a unique perspective to software development that combines technical proficiency with a deep understanding of user needs and collaborative excellence.
+
+Throughout my extensive and varied professional journey, I have demonstrated an ability to master complex systems and lead cross-functional teams in fast-paced environments. My background as a Manager and Consultant taught me the importance of clear communication and meeting challenges head-on qualities that translate directly into a successful Agile development workflow. I am a strong collaborator who thrives on interacting with various teams and stakeholders to ensure project goals are met with precision.
+
+In transitioning into software engineering, I have focused on mastering the modern JavaScript ecosystem. I am highly proficient in React, TypeScript, HTML, and CSS. My dedication to writing clean code is matched by my commitment to robust testing practices, including both unit and thorough E2E testing using tools like Jest and Cypress. I also utilize modern CSS solutions such as Styled Components and SASS to build responsive, user-centric interfaces.
+
+Beyond front-end development, I possess a solid understanding of the NodeJS ecosystem and functional programming principles, including libraries like Ramda. I am familiar with Web security best practices, such as CSP and OAuth, and have experience with CI/CD pipelines via CircleCI and basic AWS infrastructure. This holistic approach allows me to contribute meaningfully to the entire development lifecycle and understand the broader platform architecture.
+
+My career has been defined by a drive for excellence and an ability to exceed goals, such as hitting sales targets by 20% through strategic problem-solving. I am eager to bring this results-oriented mindset and my technical skillset to your team. I am particularly drawn to your team’s transition toward modern frameworks and away from legacy systems like Ruby, as it aligns with my passion for staying current with industry advancements.
+
+I am confident that my blend of leadership experience and technical expertise makes me a valuable asset to your organization. Thank you for your time and consideration. I look forward to the possibility of discussing how I can contribute to your team.
+
+Sincerely, Alexis

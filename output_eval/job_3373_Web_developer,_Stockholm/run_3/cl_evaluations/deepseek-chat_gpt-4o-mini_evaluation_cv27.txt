@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant industry interest and some foundational knowledge (React, Git, Agile). However, the cover letter is vague on specific, hands-on technical experience, lacks mention of key required skills like TypeScript, testing frameworks, and modern CSS tools, and heavily frames their background in administrative roles rather than direct front-end development.

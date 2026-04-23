@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and multimedia, with only tangential mentions of technical skills relevant to the front-end developer role. They lack demonstrable, hands-on experience with the core technologies listed in the job description, such as JavaScript, React, TypeScript, modern testing frameworks, and version control. While they show an interest in learning and have some transferable soft skills, their direct technical qualifications are insufficient for the position.

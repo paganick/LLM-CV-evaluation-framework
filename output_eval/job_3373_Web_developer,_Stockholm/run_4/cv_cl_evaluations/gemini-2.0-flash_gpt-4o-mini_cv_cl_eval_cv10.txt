@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience, including front-end technologies like AngularJS, HTML, and CSS. However, they lack specific experience with React, which is the company's preferred framework. Their experience is primarily Java-focused, and the listed skills do not fully align with the job description's emphasis on modern FE frameworks, testing frameworks, and cloud technologies.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and security, but the resume and cover letter lack concrete examples of modern frontend development experience. While the candidate mentions familiarity with React, HTML, CSS, and TypeScript, there's no demonstrable experience in the resume. The focus is heavily on IT program management and security, not hands-on frontend engineering.

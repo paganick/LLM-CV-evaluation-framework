@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable skills (databases, Java, project experience) and collaboration, but provides no demonstrated experience with JavaScript/TypeScript, React, frontend tooling (Node/npm), testing frameworks, Git, or modern CSS tooling—key requirements for the role. While eager to learn, they do not meet the role's hands-on frontend and tooling expectations.

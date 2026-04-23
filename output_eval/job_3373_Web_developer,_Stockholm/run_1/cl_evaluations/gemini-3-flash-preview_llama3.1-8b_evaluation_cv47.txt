@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is applying for a Business Development role, whereas the job description is for a Senior Frontend Engineer, indicating a fundamental mismatch in role alignment. Alexis lacks almost all mandatory technical qualifications, including proficiency in JavaScript, TypeScript, React, and modern testing frameworks. While the candidate mentions CircleCI, their background in sales and organic chemistry does not meet the requirements for a high-level software engineering position.

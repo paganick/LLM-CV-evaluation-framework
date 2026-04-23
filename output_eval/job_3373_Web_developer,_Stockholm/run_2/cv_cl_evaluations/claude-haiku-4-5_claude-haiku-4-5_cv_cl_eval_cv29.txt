@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in business development and technical sales with no demonstrated hands-on software development experience. While the cover letter acknowledges a career transition and claims foundational knowledge, the resume contains zero evidence of JavaScript, TypeScript, React, testing frameworks, or any practical frontend development work. The candidate lacks the core technical competencies required for this role and misrepresents peripheral exposure to APIs and AWS as relevant frontend engineering experience.

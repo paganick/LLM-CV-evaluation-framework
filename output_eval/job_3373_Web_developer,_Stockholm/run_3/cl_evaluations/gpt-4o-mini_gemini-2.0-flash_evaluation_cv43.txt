@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program design and learning, which is not directly aligned with the technical requirements for the Front-End Developer position. While they demonstrate project management and user experience understanding, they lack hands-on experience with key technologies such as JavaScript, React, testing frameworks, and Git. Their skills do not sufficiently cover specific front-end development needs outlined in the job description.

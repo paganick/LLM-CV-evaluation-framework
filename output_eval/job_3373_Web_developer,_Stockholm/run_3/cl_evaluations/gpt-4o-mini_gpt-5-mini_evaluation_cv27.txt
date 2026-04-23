@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in roles associated with design, user-facing media, and project management, but lacks direct hands-on experience with key technical skills such as JavaScript, TypeScript, React, and specific testing frameworks mentioned in the job description. While the candidate demonstrates a strong aptitude for learning and teamwork, the absence of requisite frontend development experience limits their suitability for the position.

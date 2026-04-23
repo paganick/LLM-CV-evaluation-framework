@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in assistant direction, media production, and arts education with only brief mentions of HTML and web-design; there is no demonstrated hands-on experience with JavaScript/TypeScript, React, modern CSS toolchains, testing frameworks, NodeJS, Git, or CI/CD required for this role. While they show strong documentation, collaboration, and project management skills, these transferable strengths do not meet the core technical requirements for a frontend engineering position.

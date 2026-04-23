@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in graphic design and relevant technical skills such as HTML, CSS, and JavaScript, there is a lack of direct experience with modern front-end frameworks specifically mentioned in the job description, such as React and testing frameworks like Jest. Although they express a willingness to learn, they do not demonstrate hands-on experience with several key requirements, which limits their qualifications for this role.

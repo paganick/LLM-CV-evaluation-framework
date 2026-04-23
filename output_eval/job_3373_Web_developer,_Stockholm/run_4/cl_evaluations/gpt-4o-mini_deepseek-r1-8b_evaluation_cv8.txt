@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in test engineering but lacks significant experience with key front-end technologies specified in the job description, such as JavaScript frameworks (React, VueJS, etc.). While they demonstrate proficiency in testing frameworks and methodologies, their primary focus on hardware and system-level testing does not align closely with the role's requirements for modern front-end development and web security practices.

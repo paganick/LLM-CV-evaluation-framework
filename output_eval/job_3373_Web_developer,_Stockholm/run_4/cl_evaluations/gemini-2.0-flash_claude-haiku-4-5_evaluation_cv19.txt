@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background as a graphic designer is unconventional and lacks direct frontend experience. While they demonstrate some technical aptitude and willingness to learn, they are missing hands-on experience with key technologies like React, testing frameworks, and modern CSS tools mentioned in the job description. The letter highlights areas where they will require focused development, indicating a significant learning curve.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on IBM mainframe technologies (COBOL, CICS, JCL, DB2) with only brief mention of HTML and JavaScript and no evidence of React, TypeScript, modern CSS tooling, testing frameworks, Node/npm, CI/CD, or cloud/infra experience. While they show strong legacy systems and leadership experience, they lack the core hands-on modern front-end and tooling skills required for this role, so they are not a strong match.

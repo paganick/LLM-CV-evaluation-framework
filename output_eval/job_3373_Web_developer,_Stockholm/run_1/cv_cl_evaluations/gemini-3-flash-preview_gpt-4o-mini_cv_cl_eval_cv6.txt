@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal specialist and lacks professional experience with the required modern frontend stack, specifically React and TypeScript. While they possess general web development knowledge, they do not demonstrate proficiency with the mandatory testing frameworks, CSS tools, or functional programming libraries specified in the job description. Their background is too focused on CMS development and backend-heavy technologies to meet the needs of this modern frontend engineering role.

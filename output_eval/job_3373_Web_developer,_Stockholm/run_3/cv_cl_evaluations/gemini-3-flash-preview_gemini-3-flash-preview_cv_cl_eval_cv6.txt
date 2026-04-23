@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal/PHP specialist and lacks professional experience with the mandatory modern frontend stack, specifically React and TypeScript. While they have a solid foundation in general web development and version control, their resume shows no hands-on experience with the required testing frameworks (Jest/Cypress), functional programming (Ramda), or modern CSS-in-JS tools. Consequently, the candidate does not meet the specific technical requirements for this React-focused role.

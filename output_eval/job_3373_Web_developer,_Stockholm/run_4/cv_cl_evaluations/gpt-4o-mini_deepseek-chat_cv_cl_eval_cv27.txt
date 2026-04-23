@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web design and some experience with HTML but lacks significant experience in JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate good collaboration skills and a commitment to learning, their resume does not show hands-on experience with testing, automation, or relevant tools (e.g., CI/CD), which are critical for the position.

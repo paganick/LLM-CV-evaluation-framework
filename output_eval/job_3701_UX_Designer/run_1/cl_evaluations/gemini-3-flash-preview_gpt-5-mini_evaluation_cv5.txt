@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to mention Figma, which is a highly desirable requirement, and relies instead on outdated tools like Dreamweaver and traditional graphic design workflows. There is no explicit mention of experience working in an Agile software development environment or managing a UI Design System as requested. While the candidate has relevant design and mentoring experience, they lack the specific modern UX toolkit and methodology proficiency required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a relevant industry but lacks the specific, required technical skills. The job description demands proficiency in JavaScript, TypeScript, and React, which the candidate explicitly does not have, instead listing outdated or irrelevant technologies like SQL, WordPress, and Dot Net Nuke. While the soft skills and eagerness to learn are noted, the absence of core, hands-on experience with the modern frontend stack makes them unqualified for the role as described.

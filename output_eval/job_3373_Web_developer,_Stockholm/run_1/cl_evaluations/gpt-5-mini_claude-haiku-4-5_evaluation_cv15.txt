@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core frontend fundamentals (JavaScript, HTML5, CSS3), version control familiarity, security awareness and collaborative experience but provides no concrete experience with React, TypeScript, modern CSS tooling (Styled Components/SASS), testing frameworks, Node/npm, CI/CD, or cloud/infra technologies referenced in the job. Given the significant gaps in required modern tooling and testing experience, they are relevant to the industry but lack the specific skills needed for this role.

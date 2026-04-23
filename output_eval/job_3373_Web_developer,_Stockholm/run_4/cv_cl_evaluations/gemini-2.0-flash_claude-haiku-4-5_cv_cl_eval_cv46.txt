@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some foundational knowledge, such as JavaScript and HTML. However, lacks specific experience with modern FE frameworks like React (the primary framework used by the company) and testing frameworks mentioned in the job description. The resume focuses more on database administration and consulting roles, not frontend development.

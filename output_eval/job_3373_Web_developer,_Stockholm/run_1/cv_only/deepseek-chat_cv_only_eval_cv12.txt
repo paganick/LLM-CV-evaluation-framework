@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (JavaScript, HTML, CSS, Git). However, the resume critically lacks experience with modern front-end frameworks like React, testing frameworks, and the specific tools (e.g., TypeScript, Node.js ecosystem, CI/CD) listed as requirements. The experience is heavily weighted towards older technologies and backend work, showing a significant gap in the specific, modern front-end engineering skills demanded by the job description.

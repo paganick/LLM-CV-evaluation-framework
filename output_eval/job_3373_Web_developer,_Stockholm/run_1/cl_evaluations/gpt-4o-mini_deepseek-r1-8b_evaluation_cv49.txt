@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant analytical and technical skills, but their background is primarily in data analysis rather than direct experience in web development technologies required for the role. They possess some familiarity with Git and Agile environments, but lack direct experience with essential front-end technologies such as React and modern CSS tools. Overall, they demonstrate potential but are missing key specific experience.

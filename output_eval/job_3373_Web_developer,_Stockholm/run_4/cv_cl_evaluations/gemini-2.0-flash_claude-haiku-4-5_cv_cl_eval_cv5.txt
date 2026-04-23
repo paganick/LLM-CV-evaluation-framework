@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, which is a significant departure from the required frontend technologies. While they express interest in learning React and other modern tools, their current skillset doesn't align with the job description's emphasis on JavaScript, TypeScript, and modern FE frameworks. The resume highlights COBOL, CICS, and DB2, not the required frontend experience.

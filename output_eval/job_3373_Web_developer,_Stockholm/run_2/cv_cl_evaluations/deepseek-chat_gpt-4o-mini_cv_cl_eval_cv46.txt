@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Java backend development and IT support, not modern front-end development with React. While they express eagerness to learn and mention some relevant keywords (HTML, CSS, JavaScript, Git), they lack demonstrable, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and functional programming. Their background is in a relevant industry but does not meet the specific technical requirements for the role.

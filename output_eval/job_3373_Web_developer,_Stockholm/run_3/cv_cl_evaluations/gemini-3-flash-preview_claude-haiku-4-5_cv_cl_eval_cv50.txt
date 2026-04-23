@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the required technical skills for the role, including modern JavaScript frameworks, TypeScript, and frontend testing libraries. Their professional experience is almost entirely focused on business development, sales, and quality engineering in the aerospace sector rather than software development. While the candidate holds a degree in Computer Science, it was earned in 1984 and is not supported by any recent professional frontend engineering experience.

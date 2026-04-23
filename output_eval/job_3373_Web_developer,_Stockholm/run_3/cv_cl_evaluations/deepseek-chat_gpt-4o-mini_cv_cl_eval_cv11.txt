@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in software testing and quality assurance, not frontend development. While they mention some relevant keywords like JavaScript and Agile, their resume shows no professional experience with React, TypeScript, modern CSS tools, or building production frontend applications. The cover letter attempts to align with the job description but lacks substantiating evidence from their work history, making them a poor technical fit for a developer role.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front End Developer position. While my background, as reflected in my resume, is primarily in digital communications, I possess a strong foundation in the core principles of web development and a genuine enthusiasm for transitioning my skills into a front-end role.
+
+My experience as a Digital Communications Specialist has equipped me with valuable skills directly transferable to front-end development. I have extensive experience in developing and implementing content for websites, ensuring its optimization and accessibility. I understand the importance of clean, well-structured code in creating effective user experiences.
+
+While I acknowledge that my CV may not explicitly highlight proficiency in React, TypeScript, or other specific technologies mentioned in your job description, my passion for learning and staying current with the latest technologies is unwavering. I am confident in my ability to quickly acquire the necessary skills to contribute effectively to your team.
+
+I have a solid understanding of HTML, CSS, and JavaScript. My experience in managing website content has provided me with a practical understanding of how these technologies interact to create engaging online experiences. Furthermore, my technical writing background demonstrates my ability to communicate complex information clearly and concisely.
+
+My experience collaborating with IT departments and subject matter experts has honed my ability to work effectively in an Agile environment, interacting with various teams and external partners. I am keen on understanding the full domain and eager to expand my knowledge beyond my current area of expertise.
+
+I am particularly drawn to your company's commitment to writing clean code and utilizing modern tools like Styled Components and ESLint. I am confident that my strong work ethic, coupled with my communication and problem-solving abilities, would make me a valuable asset to your team.
+
+I am eager to learn more about this opportunity and discuss how my skills and enthusiasm can contribute to your company's success.
+
+Sincerely,
+Alexis

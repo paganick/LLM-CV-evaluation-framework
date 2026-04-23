@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate highlights relevant technical skills like modern CSS tools, testing frameworks, and familiarity with the NodeJS ecosystem, which align with the job description. They also demonstrate collaboration and problem-solving abilities, fitting the desired soft skills. However, the cover letter lacks explicit mention of JavaScript, TypeScript, React, or Git experience, which are core requirements, preventing a higher score.

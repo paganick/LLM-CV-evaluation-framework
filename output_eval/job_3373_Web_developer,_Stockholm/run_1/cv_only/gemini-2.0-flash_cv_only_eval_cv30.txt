@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume highlights experience in data analysis, SQL, and statistical modeling, which are not the primary focus of the job description. There is minimal overlap with the required front-end technologies (JavaScript, TypeScript, React, HTML, CSS) and related tools. The candidate's skills are geared toward data analysis and environmental science, a different industry than the front-end development role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, possessing a background exclusively in marketing, public relations, and legal administration rather than software engineering. They explicitly admit in the cover letter to lacking proficiency in the mandatory technical requirements, such as JavaScript, TypeScript, and React. There is no evidence of any relevant technical experience, making them an entirely unsuitable match for this front-end development role.

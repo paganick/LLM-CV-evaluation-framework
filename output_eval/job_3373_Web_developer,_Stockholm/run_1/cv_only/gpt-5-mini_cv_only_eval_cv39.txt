@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced graphic and product designer with some HTML/Dreamweaver and web maintenance experience but lacks nearly all required technical skills such as JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, modern CSS tooling, and cloud/CI knowledge. This profile does not meet the core front-end engineering requirements for the role and is not a viable technical match.

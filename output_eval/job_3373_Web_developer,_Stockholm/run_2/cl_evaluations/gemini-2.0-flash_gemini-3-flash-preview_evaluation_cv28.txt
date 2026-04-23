@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases a strong understanding of the required technologies and frameworks, including React, TypeScript, and testing tools. They effectively highlight their experience in Agile environments and with Git/GitHub. While their background is unconventional, they convincingly demonstrate transferable skills and a passion for frontend development, aligning well with the job description's requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry but lacks nearly all specific technical skills and experience required. The resume shows only foundational, outdated web technologies and no experience with React, modern tooling, testing frameworks, or the other listed prerequisites. While the cover letter demonstrates strong soft skills and a willingness to learn, the candidate's practical experience does not meet the job's technical bar.

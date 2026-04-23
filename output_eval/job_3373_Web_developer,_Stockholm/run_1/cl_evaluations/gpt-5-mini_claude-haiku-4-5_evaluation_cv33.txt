@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong collaboration, leadership, and Agile-adjacent experience and is motivated to learn, but has no demonstrated hands-on experience with core frontend technologies (JavaScript/TypeScript, HTML/CSS, React), testing frameworks, Git, or web security — all explicit requirements. Given the role's need for immediate technical competency in modern frontend stacks and testing/CI workflows, the applicant is not currently qualified.

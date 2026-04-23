@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. With a solid foundation in web development, particularly in ASP.NET and related technologies, I am excited about the opportunity to contribute to your team, especially as you incorporate modern frameworks like React.
+
+Throughout my career, I have demonstrated my commitment to writing clean and efficient code, as evidenced by my role as an ASP.NET Web Developer. My experience includes migrating the IU Print website from ColdFusion to ASP.NET, where I utilized HTML, CSS, and JavaScript to deliver a high-quality user experience. My involvement in projects such as DEBTS and eRFA has provided me with a strong understanding of application architecture and the importance of thorough testing, including unit and integration tests.
+
+I have hands-on experience with Git and GitHub, allowing me to collaborate effectively in team environments. I take pride in my ability to understand both my domain and the broader project context, making it easier to work with cross-functional teams and external partners. My time at CYIENT, where I received the Associate of the Month award, further honed my collaborative skills in an Agile setting.
+
+In addition to my technical skills, I am committed to staying current with emerging technologies and best practices. I have worked with modern CSS tools such as SASS and have familiarity with testing frameworks like Jest and Cypress. My background in functional programming, though mainly centered around C#, aligns well with your use of Ramda. I also have a basic understanding of web security practices, including OWASP and CORS, which is essential for developing secure applications.
+
+I am enthusiastic about the opportunity to contribute to your team and to leverage my skills with React and other modern technologies. I am confident that my passion for clean code and my experience in collaborative environments will allow me to add value to your projects.
+
+Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your team.
+
+Sincerely,  
+Alexis

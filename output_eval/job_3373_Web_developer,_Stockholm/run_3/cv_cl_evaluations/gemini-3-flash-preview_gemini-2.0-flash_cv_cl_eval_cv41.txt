@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a systems administrator and infrastructure specialist who lacks professional experience in modern front-end development and the required JavaScript/React ecosystem. While they possess a background in IT, they do not meet any of the core technical requirements such as TypeScript, React, or automated testing frameworks. This profile represents a significant mismatch for a software engineering role that demands specific expertise in web security, functional programming, and UI development.

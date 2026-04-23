@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, including experience with Agile, Git, HTML, CSS, React, and basic web security concepts. However, the focus is heavily on Salesforce Marketing Cloud and email platforms, which are not primary requirements based on the job description. While the candidate mentions proficiency in web technologies and front-end development, it lacks concrete examples of the depth of experience with JavaScript, TypeScript, and testing frameworks mentioned in the job description, making them an adequate but not excellent fit.

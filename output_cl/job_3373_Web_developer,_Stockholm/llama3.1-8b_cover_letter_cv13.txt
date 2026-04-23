@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am thrilled to apply for the Technical Project Manager position at your esteemed organization, where I can leverage my technical expertise and project management skills to drive success. With a strong background in web development, UX design, and Agile methodologies, I am confident that I can make a significant contribution to your team.
+
+As a PMP-certified marketing, technical, and research project manager with over 5 years of experience, I have successfully led projects across various industries, including user research/testing and product planning, web development and technical software creation, online campaigns (marketing strategy and asset creation), SEO, analytics, and other data points. My expertise in production spans front-end web development, UX and graphics design for websites, SEO and keyword research, and analytics for web, social, and email.
+
+I am particularly drawn to this role because of the opportunity to work with a team that values collaboration, innovation, and technical excellence. With my experience in using modern FE frameworks like React (in which I have hands-on experience), along with my knowledge of testing frameworks (Jest, TestCafe, Cypress), linters and formatters (ESLint and Prettier), and CI/CD tools like CircleCI, I am confident that I can hit the ground running. Additionally, my familiarity with NodeJS ecosystem, npm, Yarn, Express.js, and functional programming (Ramda) will enable me to tackle complex technical challenges.
+
+As a strong collaborator and comfortable working in an Agile environment, I have a proven track record of implementing Scrum processes and leading teams to achieve project goals. My passion for writing clean code, combined with my experience in using modern CSS tools like Styled Components and SASS, ensures that I can deliver high-quality solutions that meet the needs of your organization.
+
+I am impressed by your organization's commitment to staying up-to-date with the latest technologies and best practices, including API design and security (OWASP, CSP, CORS, OAuth). My own commitment to ongoing learning and professional development aligns perfectly with this approach.
+
+In my current role as a Technical Project Manager at PMA Media Group, I have successfully led numerous projects, including RootsTech.org and the Freedmen's Bureau Campaign. These accomplishments demonstrate my ability to manage complex technical projects while driving business results.
+
+Thank you for considering my application. I am excited about the opportunity to discuss how my skills and experience align with your organization's needs.
+
+Sincerely,
+Alexis

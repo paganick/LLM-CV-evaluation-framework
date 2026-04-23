@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in project management, not hands-on front-end development. While they mention JavaScript, HTML, and CSS, they lack demonstrable experience with the required modern frameworks (React), testing automation, and specific tools listed (e.g., Jest, Cypress, Styled Components). Their background is relevant to the industry but they are missing the core technical skills and recent, in-depth development experience specified for the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in business development and product enablement but lacks hands-on technical experience with front-end frameworks like React, as specified in the job description. While they demonstrate a strong understanding of technical concepts and a keen willingness to learn, their current skill set does not fully align with the requirements for a front-end development role. The experience with API integration and technical writing is valuable, but more specific front-end development skills are needed to be a stronger match.

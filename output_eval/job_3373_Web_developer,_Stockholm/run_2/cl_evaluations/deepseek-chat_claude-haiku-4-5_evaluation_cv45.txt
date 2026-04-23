@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is from a relevant technical industry but lacks the required hands-on experience with core frontend technologies (React, JavaScript/TypeScript) and modern tooling as specified in the job description. While their security background and analytical skills are transferable assets, they explicitly state their frontend experience is "still developing," which is a critical gap. Their potential for rapid learning is noted, but this does not substitute for the required practical experience.

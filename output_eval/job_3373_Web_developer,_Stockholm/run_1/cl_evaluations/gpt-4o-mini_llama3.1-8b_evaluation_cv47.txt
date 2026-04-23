@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in business development and technical skills, they lack direct experience with essential modern front-end frameworks like React, which is a critical requirement for the position. Additionally, the absence of experience with specific testing frameworks and tools outlined in the job description makes them a less competitive candidate. Their technical skills are overshadowed by these gaps relative to the role.

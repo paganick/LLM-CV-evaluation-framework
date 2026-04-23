@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has project management experience in a related industry and some front-end development skills, they lack the depth of experience in modern FE frameworks (beyond mentioning React) and specific technologies listed in the job description such as TypeScript, testing frameworks (Jest, Cypress etc.) or CI/CD tools. The resume focuses heavily on project management rather than hands-on technical skills. The cover letter attempts to address this, but it's not sufficiently supported by the resume.

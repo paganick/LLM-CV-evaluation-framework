@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend-focused Java engineer and lacks the required professional experience with modern frontend frameworks, specifically React and TypeScript. While they possess strong architectural and security knowledge, their resume shows no evidence of working with the modern frontend ecosystem, CSS tooling, or frontend testing frameworks like Jest and Cypress. They meet the industry experience and Agile requirements but fail to satisfy the core technical competencies for a senior frontend role.

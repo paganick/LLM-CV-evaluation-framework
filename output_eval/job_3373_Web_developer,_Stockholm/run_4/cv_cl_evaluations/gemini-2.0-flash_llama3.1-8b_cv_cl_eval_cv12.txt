@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills such as JavaScript, HTML, CSS and Git, but lacks explicit experience with modern FE frameworks and testing frameworks mentioned in the job description. The resume focuses heavily on PHP and older technologies. The cover letter mentions React, but the resume doesn't provide concrete evidence of React experience.

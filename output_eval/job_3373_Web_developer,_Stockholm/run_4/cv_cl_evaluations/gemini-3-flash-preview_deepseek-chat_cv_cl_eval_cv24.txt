@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer whose professional history is entirely within digital communications and journalism, lacking any professional experience as a software engineer. While the cover letter mentions self-taught technical skills, the resume fails to demonstrate professional application or mastery of the required stack, including React, TypeScript, testing frameworks, and CI/CD tools. Consequently, the applicant does not meet the minimum technical requirements for this developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks any professional experience or demonstrable technical proficiency in the required frontend stack, including JavaScript, TypeScript, React, and automated testing frameworks. Their background is entirely in program management and learning design, with technical skills limited to R studio, which is irrelevant to web development. This candidate is completely unqualified for an engineering role and does not meet the minimum requirements of the job description.

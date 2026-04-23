@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and finance but does not explicitly mention hands-on experience with JavaScript, TypeScript, or any specific testing frameworks, which are critical for the role. While they highlight knowledge of modern front-end frameworks and collaboration skills, the lack of specific technical expertise in the required areas limits their fit for the position.

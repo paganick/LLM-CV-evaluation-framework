@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant industry experience and knowledge of web security and Agile methodologies, the application fails to mention critical requirements such as TypeScript and React. Furthermore, the candidate lacks any mention of the specialized tools listed in the job description, such as Node.js, CircleCI, AWS, or functional programming. The inclusion of PHP—a language not requested—and the omission of the primary tech stack results in a significant mismatch for this specific role.

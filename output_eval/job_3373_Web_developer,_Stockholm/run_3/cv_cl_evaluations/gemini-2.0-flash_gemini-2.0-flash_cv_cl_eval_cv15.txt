@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a broad IT background but lacks specific, in-depth experience with modern front-end frameworks like React as prioritized in the job description. While they mention familiarity with HTML, CSS, and JavaScript, the resume focuses on general IT skills rather than a strong portfolio of front-end development projects and the requested testing frameworks. The cover letter expresses eagerness to learn, but the resume lacks concrete examples of the desired skills and technologies, such as TypeScript, modern CSS tools, or CI/CD.

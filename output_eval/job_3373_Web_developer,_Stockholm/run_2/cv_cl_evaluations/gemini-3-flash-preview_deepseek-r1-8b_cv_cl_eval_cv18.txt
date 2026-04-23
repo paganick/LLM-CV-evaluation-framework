@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced IT professional but lacks the specific technical expertise required for a modern React developer role. There is no evidence of experience with TypeScript, React, modern testing frameworks (Jest/Cypress), or CI/CD pipelines in the resume. The background is heavily weighted toward systems administration, project management, and legacy web technologies rather than contemporary front-end software engineering.

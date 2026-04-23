@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the mandatory modern front-end stack, specifically React and TypeScript, as well as hands-on automated testing expertise. While they demonstrate a strong understanding of Agile and general software engineering principles, their technical background is heavily centered on the .NET ecosystem and legacy libraries like jQuery. This gap in core requirements makes them a sub-optimal match for a role demanding proficiency in contemporary web frameworks and modern tooling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web skills (HTML, CSS, JavaScript) and relevant academic projects, but lacks hands-on experience with the specific technologies required (React, TypeScript, modern testing automation, NodeJS/npm, CI/CD, and modern CSS tooling). Their professional experience is outside software development and there is no evidence of recent practical work with the frameworks, tools, or security and cloud concepts listed. Given the gap in required, current, hands-on skills, they are not qualified for this role as-is.

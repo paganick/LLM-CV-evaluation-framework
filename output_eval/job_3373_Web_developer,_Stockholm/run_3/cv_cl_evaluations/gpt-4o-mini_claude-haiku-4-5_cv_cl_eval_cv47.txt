@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development rather than frontend development, which does not align with the requirements of the position. While they possess some technical skills, such as HTML and a foundation in programming, they lack relevant experience with key technologies such as React, testing frameworks, and modern CSS tools that are critical for the role.

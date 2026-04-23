@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal/PHP developer whose professional experience lacks the required expertise in modern JavaScript frameworks like React and TypeScript. While they possess general web development knowledge, their resume does not demonstrate hands-on experience with the specific testing suites (Jest, Cypress), functional programming (Ramda), or CI/CD tools mandated by the role. The profile is more aligned with backend and CMS management than the specialized modern frontend engineering required for this position.

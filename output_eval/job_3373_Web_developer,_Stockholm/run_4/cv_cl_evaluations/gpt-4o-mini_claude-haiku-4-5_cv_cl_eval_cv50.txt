@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a computer science degree and expresses a strong interest in transitioning to frontend development, indicating some foundational knowledge. However, they lack specific experience with JavaScript, TypeScript, modern frontend frameworks like React, and testing frameworks as outlined in the job description. Their extensive experience in business development and project management does not align well with the technical requirements of the role.

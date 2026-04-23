@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid analytical, testing and web fundamentals (HTML, C#, data engineering) and demonstrates strong collaboration and QA discipline, which are valuable for a front-end role. However they lack concrete, hands-on experience with the core technical requirements listed—JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks (Jest/Cypress/TestCafe), Node/npm, Git/GitHub, CI/CD, and basic web security—so they are not yet qualified as a strong front-end engineer for this role.

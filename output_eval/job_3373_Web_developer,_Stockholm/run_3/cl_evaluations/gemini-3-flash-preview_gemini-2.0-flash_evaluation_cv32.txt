@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in software development and fails to meet nearly all mandatory technical requirements, including hands-on experience with testing, Git, and web security. Their background is entirely rooted in an unrelated industry, making them fundamentally unqualified for a role requiring specific expertise in React, TypeScript, and CI/CD tools. While they are currently learning the basics, they do not possess the functional proficiency or technical track record required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development and leadership but lacks direct experience in front-end development, specifically with JavaScript, TypeScript, and modern frameworks like React. Their programming skills are limited to HTML and C/C++, and there is no mention of experience with relevant testing frameworks or tools, which are crucial for the role. Overall, while they have transferable skills, they do not fulfill the specific technical requirements of the position.

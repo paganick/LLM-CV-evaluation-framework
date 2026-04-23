@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in sales and leadership with no demonstrated proficiency in JavaScript/TypeScript, React (or other modern frontend frameworks), frontend testing, Node.js, CI/CD, or cloud/infra tools required by the role. Soft skills and sales achievements do not compensate for the absence of baseline technical skills and hands-on development experience. This is a complete mismatch for the technical frontend engineer position.

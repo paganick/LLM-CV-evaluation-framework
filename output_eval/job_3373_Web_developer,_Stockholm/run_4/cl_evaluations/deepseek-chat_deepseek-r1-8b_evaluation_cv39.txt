@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic and web design, not in the core software engineering and modern front-end development stack required by the job description. The cover letter makes no mention of JavaScript, TypeScript, React, testing frameworks, version control, or any of the specific technical tools and practices listed. While they mention working in Agile environments and a passion for clean code, the fundamental skillset is misaligned with the technical requirements of the role.

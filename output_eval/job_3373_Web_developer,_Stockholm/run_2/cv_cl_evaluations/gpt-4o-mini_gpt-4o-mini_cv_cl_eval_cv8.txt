@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in test engineering but lacks direct experience in frontend development, specifically with frameworks like React, as requested in the job description. While the applicant mentions familiarity with JavaScript, HTML, and CSS, it is unclear how proficient they are in these technologies in a development capacity. Additionally, their experience does not sufficiently demonstrate the required skills in CI/CD tools, testing frameworks relevant to frontend development, and modern CSS tools.

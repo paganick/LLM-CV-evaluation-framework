@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, lacking direct front-end development experience. While the cover letter mentions HTML, CSS, and JavaScript, the resume lacks sufficient evidence of practical experience with modern FE frameworks like React, or testing frameworks. Their skills are more aligned with business strategy than the technical requirements outlined in the job description.

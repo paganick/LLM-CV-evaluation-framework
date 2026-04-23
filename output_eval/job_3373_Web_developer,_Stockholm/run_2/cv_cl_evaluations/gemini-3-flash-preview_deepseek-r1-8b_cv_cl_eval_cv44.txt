@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a visual and multimedia designer whose professional experience is centered on presentations, UI/UX design, and Adobe Creative Suite rather than front-end engineering. They lack necessary professional experience in JavaScript frameworks like React, TypeScript, and automated testing, which are core requirements for this technical role. While the candidate has a Computer Science degree, their career trajectory has focused on design assets rather than software development and modern engineering pipelines.

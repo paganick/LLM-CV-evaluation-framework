@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has transferable skills from previous roles that could benefit a development position, such as problem-solving and attention to detail. However, they lack the specific technical experience required in JavaScript, TypeScript, and React, as well as familiarity with the relevant testing tools. This indicates they may be relevant to the industry but are insufficiently prepared for the specific demands of this role.

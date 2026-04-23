@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates extensive experience and covers nearly all technical requirements, including React, specific testing tools, and security protocols. However, the letter fails to explicitly mention TypeScript, which is a primary requirement, or functional programming and cloud infrastructure (AWS/Terraform) mentioned in the description. While highly qualified, these specific omissions prevent a perfect score for this specialized tech stack.

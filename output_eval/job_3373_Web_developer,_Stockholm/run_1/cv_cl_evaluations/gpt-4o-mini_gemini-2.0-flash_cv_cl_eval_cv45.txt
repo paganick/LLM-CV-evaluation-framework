@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in information technology and a leadership role, but lacks direct experience with frontend development technologies such as JavaScript, TypeScript, React, or modern CSS tools. While they demonstrate problem-solving abilities and systematic thinking, their resume does not reflect hands-on experience with testing, test automation, or familiarity with the required tools and frameworks mentioned in the job description.

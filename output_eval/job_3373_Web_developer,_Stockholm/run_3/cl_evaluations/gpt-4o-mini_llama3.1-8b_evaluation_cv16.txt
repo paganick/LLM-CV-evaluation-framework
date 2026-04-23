@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in front-end development with specific skills in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, VueJS, and Angular. While they demonstrate strong collaboration skills and good knowledge of testing, they lack mention of specific experience with Git, security basics, and CI/CD tools which are also required in the job description.

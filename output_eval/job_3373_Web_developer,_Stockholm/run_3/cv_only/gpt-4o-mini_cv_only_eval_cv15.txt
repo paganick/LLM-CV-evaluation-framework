@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a diverse IT background and experience in web development, particularly with HTML, CSS, and JavaScript. However, they lack direct experience with modern frameworks such as React, which is critical for the role. Moreover, there is no mention of familiarity with testing frameworks, CI/CD tools, or any knowledge of modern CSS tools, which diminishes their alignment with the job description.

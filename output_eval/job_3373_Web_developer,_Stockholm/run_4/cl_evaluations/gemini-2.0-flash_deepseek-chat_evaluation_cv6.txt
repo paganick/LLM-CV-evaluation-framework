@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and mentions some required skills like JavaScript, HTML, CSS, and Git. However, the cover letter highlights Drupal experience more prominently than React, which is the company's framework of choice. While the candidate expresses interest in learning React, their current skill set doesn't perfectly align with the job description's focus on modern FE frameworks and libraries.

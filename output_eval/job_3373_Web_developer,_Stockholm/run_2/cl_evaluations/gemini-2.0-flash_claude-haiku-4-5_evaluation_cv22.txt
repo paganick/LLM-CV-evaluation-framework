@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of HTML and CSS, and some knowledge of JavaScript, but lacks direct experience with React, the company's primary framework. They acknowledge a transition from marketing and database roles and highlight a willingness to learn, but the current skillset doesn't fully align with the job description's requirement for hands-on experience with modern FE frameworks and testing. While they mention Git, they don't specify practical experience with it.

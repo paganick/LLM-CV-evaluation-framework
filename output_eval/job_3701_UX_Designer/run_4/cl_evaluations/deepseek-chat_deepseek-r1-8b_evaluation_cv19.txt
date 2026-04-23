@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant program management and user-centric experience, but lacks explicit commercial UX design experience. They demonstrate some required skills like Figma and workshops, but their primary tools (Salesforce, R) are non-standard and their HTML/CSS/JS exposure is limited, which is a key requirement for managing the UI Design System. Their background is adjacent to UX rather than directly in a dedicated UX designer role.

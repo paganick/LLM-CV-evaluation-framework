@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required tech stack, including React, TypeScript, and modern front-end testing frameworks like Jest or Cypress. Their profile is heavily focused on legacy technologies such as jQuery, AngularJS, and the .NET framework, with no evidence of professional experience in modern CSS-in-JS, CI/CD, or cloud infrastructure. Furthermore, the resume shows a reliance on TFS rather than the required Git/GitHub ecosystem and misses crucial security knowledge.

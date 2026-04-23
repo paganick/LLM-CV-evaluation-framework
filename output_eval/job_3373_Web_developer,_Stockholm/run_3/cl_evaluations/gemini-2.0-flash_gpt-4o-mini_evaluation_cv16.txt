@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good grasp of the required technical skills, especially React, and relevant experience in testing, Git, and Agile methodologies. They also show a desire to learn more about AWS, Terraform, and functional programming which aligns with the company's needs. While the previous role was not solely front-end focused, the candidate highlights relevant experience.

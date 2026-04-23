@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and meets several core technical requirements from the job description. However, the cover letter is heavily weighted toward senior product management experience, which is not the focus of this role, and lacks specific mention of key required skills like testing frameworks, linters, CI/CD, and functional programming. The application demonstrates a partial fit but does not convincingly address the depth of hands-on technical expertise required.

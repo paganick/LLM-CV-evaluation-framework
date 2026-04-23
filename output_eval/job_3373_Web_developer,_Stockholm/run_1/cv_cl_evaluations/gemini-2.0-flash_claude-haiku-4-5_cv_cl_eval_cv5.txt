@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, which is a significant departure from the required frontend skills. While they express interest in learning and have some exposure to HTML and JavaScript, they lack practical experience with modern frontend frameworks like React, TypeScript, and associated testing tools. The resume highlights skills that are not relevant to the job description, indicating a weak fit.

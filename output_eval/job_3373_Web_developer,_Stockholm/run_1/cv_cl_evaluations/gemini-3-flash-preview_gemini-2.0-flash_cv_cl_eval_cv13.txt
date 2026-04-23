@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager whose professional experience focuses on management and analytics rather than modern front-end engineering. They lack the required expertise in React, TypeScript, and automated testing frameworks, and their technical experience with jQuery and PHP is outdated for this specific role. While they have strong Agile certifications, they do not meet the core technical requirements for a modern front-end developer.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in analysis and quality assurance within manufacturing but lacks direct experience with front-end development technologies and frameworks specified in the job description, such as JavaScript, React, and testing frameworks. They show adaptability and willingness to learn, but their current qualifications do not meet the necessary technical requirements for a front-end engineering position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant experience with Javascript, HTML and CSS, as mentioned in the cover letter and skills section of the resume. However, the resume lacks concrete examples of modern FE frameworks and libraries such as React. The candidate expresses interest in learning React, but the resume doesn't showcase hands-on experience.

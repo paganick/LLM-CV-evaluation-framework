@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is the wrong industry for a frontend developer role. While they list basic HTML and CSS, they lack any professional or project experience with JavaScript, TypeScript, React, or any other modern frontend frameworks and testing tools specified in the job description. Their stated interest in transitioning to technology is not supported by the required hands-on technical skills for this position.

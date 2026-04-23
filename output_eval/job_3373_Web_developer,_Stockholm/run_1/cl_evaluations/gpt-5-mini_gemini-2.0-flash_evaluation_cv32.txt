@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable soft skills and is actively learning JavaScript, TypeScript, HTML, CSS, and React, but provides no evidence of hands-on professional experience with core requirements (testing/automation, Git/GitHub workflows, modern CSS tooling, NodeJS/npm, CI/CD, or web security practices). Given the job's explicit need for practical experience with these technologies and tooling, the candidate is relevant to the industry but currently lacks the specific technical experience required for this role.

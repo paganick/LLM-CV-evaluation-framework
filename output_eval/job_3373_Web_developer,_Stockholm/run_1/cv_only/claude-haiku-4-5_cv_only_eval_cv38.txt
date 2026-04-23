@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate has a background in film and media production with no demonstrable experience in frontend web development, JavaScript, TypeScript, React, or any of the required technologies. The resume shows expertise in video production, Adobe Creative Suite, and project management, which are entirely outside the scope of a frontend engineering role. There are zero technical skills that align with the job description requirements, and the candidate appears to be applying from a completely different industry.

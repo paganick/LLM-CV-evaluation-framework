@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and some knowledge of HTML and CSS, but lacks essential skills in JavaScript, TypeScript, and modern frontend frameworks like React. The experience outlined in the resume does not correlate with the technical requirements of the frontend developer role. While the candidate shows enthusiasm for transitioning into development, their current qualifications do not meet the job description criteria.

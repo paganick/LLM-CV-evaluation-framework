@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate does not possess any relevant experience or skills related to the job description, which specifically requires proficiency in JavaScript, TypeScript, modern front-end frameworks like React, testing automation, and web security knowledge. The candidate's background is primarily in IT support, troubleshooting, and hardware maintenance, which does not align with the requirements for a front-end development role.

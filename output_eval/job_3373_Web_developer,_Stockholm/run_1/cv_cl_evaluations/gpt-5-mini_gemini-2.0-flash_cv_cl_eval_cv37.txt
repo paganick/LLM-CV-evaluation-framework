@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT and Agile project management experience and expresses interest in front-end development, but provides no demonstrated hands-on skills with React, JavaScript/TypeScript, modern CSS, testing frameworks, Node/npm, or Git/GitHub which are core requirements. There is also no portfolio, code samples, or specific tool experience (CI/CD, Ramda, AWS/Terraform, linters) cited. Given the substantial gap in required technical competencies, the candidate is not currently qualified for this Front End Developer role.

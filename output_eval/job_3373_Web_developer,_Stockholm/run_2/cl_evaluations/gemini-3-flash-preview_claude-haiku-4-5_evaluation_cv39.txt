@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the mandatory technical stack, specifically JavaScript, TypeScript, and React. While they possess a strong background in design and product development, they explicitly admit to significant knowledge gaps in testing frameworks, security, and modern CSS tools required for the role. This profile represents a career-transitioning junior candidate who does not meet the technical proficiency standards established in the job description.

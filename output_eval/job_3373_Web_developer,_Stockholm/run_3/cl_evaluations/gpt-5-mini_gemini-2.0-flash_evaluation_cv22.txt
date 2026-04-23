@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows basic HTML/CSS and database project experience and demonstrates strong collaboration and learning intent, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing (unit/integration/E2E), Git/npm/Node ecosystem, modern CSS tooling, and web security practices. Given the role’s emphasis on React, testing, and modern frontend toolchains, the applicant is currently underqualified despite transferable skills and motivation to learn.

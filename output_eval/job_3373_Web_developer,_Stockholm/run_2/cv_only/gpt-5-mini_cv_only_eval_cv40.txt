@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate is a senior product management executive with extensive product and media experience but shows no demonstrable hands-on frontend engineering skills—there is no mention of JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Git, Node, or cloud/infra tooling. Their background aligns with product leadership rather than the technical requirements of this frontend engineering role, so they are not qualified.

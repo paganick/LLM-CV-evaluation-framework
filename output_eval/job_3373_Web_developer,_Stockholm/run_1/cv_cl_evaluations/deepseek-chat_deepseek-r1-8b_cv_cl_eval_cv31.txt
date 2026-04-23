@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in sales and management, with no demonstrated experience in any of the required technical skills such as JavaScript, React, testing, or modern web development. The cover letter acknowledges the lack of technical experience and attempts to pivot, but this does not address the fundamental job requirements. This is a completely unqualified application for a technical software engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML, CSS and JavaScript experience and has completed website projects, but their resume shows primarily outdated technologies and general IT/maintenance work rather than modern front-end development. There is no evidence of React, TypeScript, modern testing frameworks, Git/GitHub workflow, Node/npm, CI/CD, or cloud/DevOps experience required for this role. Given the gap in specific, current front-end skills and tooling, they are not a strong fit for the position.

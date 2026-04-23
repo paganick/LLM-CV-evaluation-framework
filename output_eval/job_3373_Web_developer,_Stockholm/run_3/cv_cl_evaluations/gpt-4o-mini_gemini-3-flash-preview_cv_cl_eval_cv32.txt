@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has expressed a strong interest in frontend development and mentions experience with React, TypeScript, HTML, and CSS, which aligns with the job description. However, their background is primarily in customer service and sales, which indicates a lack of substantial hands-on experience in software development, testing, and modern development practices. Their knowledge of essential areas like web security and CI/CD tools is mentioned but not elaborated on, which further affects their overall fit for the role.

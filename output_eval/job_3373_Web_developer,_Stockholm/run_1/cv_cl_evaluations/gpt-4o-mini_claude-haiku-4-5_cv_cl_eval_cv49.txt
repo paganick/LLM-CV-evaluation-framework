@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analytics and systems engineering, which does not align directly with frontend development. While they show a willingness to learn and are acquiring skills in JavaScript, HTML, CSS, and React, they lack hands-on experience with the key technologies and frameworks called for in the job description. The limited familiarity with testing frameworks and CI/CD tools further decreases their fit for the role.

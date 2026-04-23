@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, not professional software development. While they mention basic HTML and C/C++, they lack any demonstrable experience with the core requirements: modern front-end frameworks (React, Vue, Angular), TypeScript, testing automation, or the specific tools listed (Jest, Cypress, Node.js, etc.). Their experience is from the wrong industry and does not align with the technical demands of the role.

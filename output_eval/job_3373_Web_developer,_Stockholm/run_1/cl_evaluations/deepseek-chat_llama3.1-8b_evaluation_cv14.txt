@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, modern testing frameworks, linters, and Git. However, the cover letter is heavily weighted towards ASP.NET and back-end experience, with less emphasis on the core front-end stack (JavaScript/TypeScript, CSS tools) and no mention of key areas like security, CI/CD, AWS, or functional programming. While a good match for many skills, the profile appears more back-end focused than the front-end-centric role described.

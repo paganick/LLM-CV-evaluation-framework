@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive experience in digital sales leadership and high-level revenue generation, their background is almost exclusively in digital media and advertising technology rather than the required domains of Application Services, Big Data, or Data Science. Furthermore, the resume lacks evidence of experience with the specific technical stacks (API, Cloud, Microservices) and the target industry verticals of Banking, Insurance, and Telco mentioned in the job description.

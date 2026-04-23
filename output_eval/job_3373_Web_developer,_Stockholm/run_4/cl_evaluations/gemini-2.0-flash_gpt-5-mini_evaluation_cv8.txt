@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering, not front-end development. While they express interest in learning front-end technologies and have some scripting experience, they lack the hands-on experience with JavaScript, TypeScript, React, and modern CSS approaches listed in the job description. Their strengths lie in testing, which is a plus, but not the primary focus of the role.

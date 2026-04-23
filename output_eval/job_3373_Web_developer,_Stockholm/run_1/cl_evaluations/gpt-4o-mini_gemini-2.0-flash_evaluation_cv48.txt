@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT support and system administration but lacks direct experience in key areas such as modern front-end frameworks (like React), testing frameworks, and CI/CD tools. While they show willingness to learn and have some understanding of web security, their application does not demonstrate the necessary hands-on experience with the technologies specified in the job description.

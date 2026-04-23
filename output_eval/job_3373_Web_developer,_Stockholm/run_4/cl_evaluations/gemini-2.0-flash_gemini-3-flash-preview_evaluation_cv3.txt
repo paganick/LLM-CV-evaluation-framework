@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web development technologies and a willingness to learn React. However, the letter lacks specific examples of experience with key requirements like TypeScript, testing frameworks (beyond mentioning Jest and Cypress), and CI/CD tools. The extensive experience in construction, while valuable, is not directly relevant to the technical requirements of the role.

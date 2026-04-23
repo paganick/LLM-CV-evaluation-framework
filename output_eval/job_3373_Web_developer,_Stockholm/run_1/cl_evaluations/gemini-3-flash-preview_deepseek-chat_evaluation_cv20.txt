@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a solid foundation in web development and professional Agile experience, they lack the required hands-on professional experience with React and modern testing frameworks like Jest or Cypress. Their background is heavily rooted in a legacy .NET/jQuery stack, and they are only currently in the process of learning the primary technologies specified in the job description. Consequently, they do not meet the "hands-on experience" threshold for the core tech stack required for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer from a completely different industry who lacks professional experience and technical proficiency in the required JavaScript, TypeScript, and React stack. While they possess strong transferable skills in validation and documentation, they explicitly state a need to learn the core technologies and frameworks listed in the job description. This applicant does not meet the minimum technical requirements or industry experience necessary for a front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in databases and backend development, which is somewhat relevant to the software engineering position. However, they lack direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and hands-on testing and automation experience, which are critical requirements for the role. Additionally, their focus appears to lean more towards the database side rather than full-stack or front-end development, which diminishes their fit for the position.

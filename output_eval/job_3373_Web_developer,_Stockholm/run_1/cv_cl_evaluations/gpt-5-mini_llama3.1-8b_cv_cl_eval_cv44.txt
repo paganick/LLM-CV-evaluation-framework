@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows strong presentation, UX and visual design skills with basic HTML/CSS and jQuery, but contains no verifiable hands-on experience with JavaScript/TypeScript, React, testing/automation, Node/npm, Git workflows, CI/CD, or web security required by the role. The cover letter asserts familiarity with many required technologies but the resume does not substantiate those claims. This candidate is primarily a designer and is not qualified for this engineering-focused front-end position.

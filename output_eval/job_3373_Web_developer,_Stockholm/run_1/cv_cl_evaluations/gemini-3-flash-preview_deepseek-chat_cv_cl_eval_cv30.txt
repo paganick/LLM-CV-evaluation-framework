@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience and academic background are centered on data analytics, machine learning, and quality engineering rather than modern front-end development. They lack the required hands-on experience with JavaScript, TypeScript, React, and automated testing frameworks, providing only high-level mentions of learning these tools in the cover letter. The resume does not demonstrate the technical proficiency or specific project experience necessary to fulfill the requirements of this specialized role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills and experience in front-end development and project management, particularly with JavaScript, HTML, and CSS. However, they lack specific experience with modern frameworks such as React, which is crucial for the role. Additionally, while they mention testing and Git, they don't highlight familiarity with testing frameworks listed in the job description or other tools like Styled Components and CI/CD practices.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in systems administration and IT infrastructure, not front-end development. The resume shows no experience with the required technologies like JavaScript, TypeScript, React, or modern testing frameworks. This is a fundamental mismatch for a front-end engineering role.

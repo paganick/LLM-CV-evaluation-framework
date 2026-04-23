@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in web development and does not demonstrate proficiency in the required modern stack, specifically React, TypeScript, and automated testing. Their technical background is significantly outdated, focusing on obsolete technologies like Flash and ActionScript rather than the cloud and CI/CD tools requested. As a career-changer with no industry track record and a degree from over a decade ago, they do not meet the minimum qualifications for this position.

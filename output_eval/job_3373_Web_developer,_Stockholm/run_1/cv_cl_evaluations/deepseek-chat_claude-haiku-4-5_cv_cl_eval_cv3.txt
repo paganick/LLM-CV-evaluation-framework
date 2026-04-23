@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry but lacks nearly all specific, hands-on experience required. The job demands proficiency in React, TypeScript, modern CSS tools, testing frameworks, and functional programming, none of which are demonstrated. While the candidate shows foundational web knowledge and strong transferable soft skills, their experience is academic and dated, making them unqualified for a non-entry-level role with this specific tech stack.

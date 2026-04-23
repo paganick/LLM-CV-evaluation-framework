@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analytics, requiring a significant career shift. While they express eagerness to learn and highlight some relevant skills like HTML and ASP.NET, they lack direct experience with React and modern frontend technologies mentioned in the job description, such as Typescript, modern CSS tools, and testing frameworks. Their experience with collaboration and agile environments is a plus, but the technical gaps are significant.

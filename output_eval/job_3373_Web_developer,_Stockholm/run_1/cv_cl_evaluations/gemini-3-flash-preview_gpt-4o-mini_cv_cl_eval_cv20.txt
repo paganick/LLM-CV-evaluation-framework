@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is significantly outdated, with the most recent relevant role ending in 2016 and focusing on a legacy .NET/jQuery stack rather than modern React and TypeScript. While the cover letter claims proficiency in the required tools, the resume fails to substantiate hands-on experience with React, testing frameworks like Jest or Cypress, or modern CSS methodologies. Consequently, the candidate lacks the specific, up-to-date technical expertise required for this modern frontend position.

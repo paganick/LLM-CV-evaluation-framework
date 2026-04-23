@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is applying for a business development role, which represents a total mismatch with the provided software engineering job description. They lack nearly all mandatory technical proficiencies, including JavaScript, TypeScript, and React, and their experience in chemical trading is entirely irrelevant to this position. The applicant’s admitted lack of experience with modern frontend and testing frameworks disqualifies them from consideration.

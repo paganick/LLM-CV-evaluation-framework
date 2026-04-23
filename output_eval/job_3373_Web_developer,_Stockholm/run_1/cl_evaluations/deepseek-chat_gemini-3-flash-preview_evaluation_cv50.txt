@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates exceptional alignment with the job requirements, explicitly matching all technical skills (React, TypeScript, testing frameworks, security protocols, Git, CI/CD) and modern tools (Styled Components, SASS, Ramda). Their extensive experience in high-stakes environments adds significant value beyond the basic qualifications. The cover letter is professionally tailored, showing a clear understanding of the role and a genuine passion for clean code and the full development lifecycle.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager and lacks recent, hands-on professional experience with the required modern frontend stack, specifically React and TypeScript. While they have industry-relevant experience and strong Agile knowledge, they do not demonstrate the necessary proficiency in automated testing frameworks, web security, or modern CI/CD tools.

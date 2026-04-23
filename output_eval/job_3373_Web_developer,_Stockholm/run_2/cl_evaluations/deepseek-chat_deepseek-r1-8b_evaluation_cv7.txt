@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not software development, and the cover letter provides no concrete evidence of hands-on experience with the core technical requirements listed in the job description. While they demonstrate strong soft skills and a desire to learn, they fail to substantiate proficiency in JavaScript, React, testing, or any other specified tools. The application is from a relevant industry but critically lacks the specific technical experience required for the role.

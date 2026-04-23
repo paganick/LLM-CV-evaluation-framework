@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a general understanding of web development and some relevant technologies like JavaScript, HTML, CSS and Git. However, the resume lacks specific examples of modern FE frameworks experience (React experience is claimed in the cover letter, but it is unsubstantiated), testing frameworks, and other tools mentioned in the job description. The focus seems more on full-stack with PHP, which isn't the primary focus of this frontend role.

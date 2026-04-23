@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience, but it's heavily focused on .NET rather than the required JavaScript frameworks, particularly React. While they express eagerness to learn, the resume lacks hands-on experience with modern front-end technologies besides basic HTML, CSS, and JavaScript. The candidate's testing experience is also framed in terms of validation logic rather than specific testing frameworks mentioned in the job description.

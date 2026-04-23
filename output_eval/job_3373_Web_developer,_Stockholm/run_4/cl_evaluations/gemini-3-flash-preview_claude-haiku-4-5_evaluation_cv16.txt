@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with React and TypeScript, which are the primary requirements for this role, as their background is centered on ASP.NET and jQuery. While they demonstrate a solid understanding of Agile and general web security, they have no direct experience with the specific testing frameworks or modern CSS tools requested. A strict assessment reveals that the candidate would require significant training to be productive in the team's specific technology stack.

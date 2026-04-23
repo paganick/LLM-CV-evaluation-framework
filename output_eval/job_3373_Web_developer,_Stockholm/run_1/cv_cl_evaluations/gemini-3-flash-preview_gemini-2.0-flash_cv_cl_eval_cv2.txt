@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer who lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and contemporary CSS tools. They demonstrate no hands-on exposure to the requested testing frameworks (Jest/Cypress) or cloud infrastructure (AWS/Terraform) mentioned in the job description. Despite an extensive IT background, they do not meet the core technical requirements for this specialized frontend role.

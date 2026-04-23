@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in sales and leadership with no verifiable professional front-end engineering experience, code samples, or technical roles. The cover letter's claims about JavaScript/TypeScript, React, testing, Node, CI/CD and related tooling are unsupported by the resume and appear unsubstantiated. This candidate does not meet the hands-on technical requirements (modern JS frameworks, testing automation, Git, Node ecosystem, CSS tooling, security knowledge) needed for the role.

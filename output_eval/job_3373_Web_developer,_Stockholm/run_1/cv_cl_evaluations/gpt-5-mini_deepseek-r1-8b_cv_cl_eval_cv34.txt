@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant industry experience in digital marketing, HTML/CSS, SQL, Salesforce configuration, documentation, and UAT/test planning, but lacks demonstrated hands-on experience with JavaScript/TypeScript, React, modern front-end tooling (Node/npm/Yarn), testing frameworks, Git workflow, and other required technologies. The cover letter indicates willingness to learn but does not provide evidence of the core technical skills and toolchain experience required for this role, so they are not yet qualified for the position.

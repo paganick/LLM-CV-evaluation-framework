@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing and Salesforce configuration, not professional software development. While they demonstrate relevant soft skills and foundational knowledge of HTML, CSS, and SQL, they lack hands-on, professional experience with the core technologies listed in the job description, specifically JavaScript, TypeScript, React, and modern testing frameworks. The cover letter heavily relies on transferable skills and a stated willingness to learn, rather than proven expertise.

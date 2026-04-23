@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates an exceptional match for the role, explicitly addressing nearly every technical requirement and "nice-to-have" skill, including niche tools like Ramda and Terraform. Their 18 years of experience and holistic approach to development—spanning security, testing, and CI/CD—directly align with the company's focus on scalable applications and domain knowledge. The only minor omission is a direct mention of TypeScript, though their overall seniority and technical breadth suggest high competency in the modern JavaScript ecosystem.

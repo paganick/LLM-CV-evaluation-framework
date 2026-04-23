@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer whose professional experience is in media production rather than software engineering, representing a lack of professional tenure in the field. While they possess the core React/TypeScript stack, they fail to demonstrate proficiency in critical requirements such as Web Security (OWASP/CORS), Functional Programming (Ramda), and E2E testing. A strict evaluation identifies significant gaps between their self-taught application and the specialized technical depth required for this role.

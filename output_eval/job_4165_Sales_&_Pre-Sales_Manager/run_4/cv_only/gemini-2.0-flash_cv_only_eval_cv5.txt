@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience in business development and sales, with some exposure to enterprise software and mobile technology. However, the resume lacks specific evidence of experience with the digital solutions mentioned in the job description, such as Application Services (API, Cloud, DevOps, Microservices) or Business Analytics (BigData, Data Science). While there is experience with CRM and marketing, the digital solutions experience is too general.

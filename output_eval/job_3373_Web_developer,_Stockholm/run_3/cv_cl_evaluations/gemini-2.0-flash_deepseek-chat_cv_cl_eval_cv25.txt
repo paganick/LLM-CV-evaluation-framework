@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking significant experience with the core technologies listed in the job description like JavaScript, TypeScript, React, and testing frameworks. While they express interest in upskilling, the resume and cover letter do not demonstrate sufficient practical experience in front-end development. The candidate mentions HTML and CSS, but these are presented in the context of graphic design rather than application development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core requirements of the role, specifically React and TypeScript, which are listed as primary tools. Additionally, they admit to needing further development in test automation and web security, both of which are mandatory criteria in the job description. While they possess a relevant engineering background and basic web fundamentals, they are not currently equipped to contribute to a modern front-end stack without significant training.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The applicant fails to demonstrate proficiency in the core technical requirements, specifically lacking experience with JavaScript, TypeScript, and the React framework. While they possess transferable analytical and communication skills from their background in data and lecturing, they do not meet the criteria for a professional Front-End Developer and require significant training in the mandatory tech stack.

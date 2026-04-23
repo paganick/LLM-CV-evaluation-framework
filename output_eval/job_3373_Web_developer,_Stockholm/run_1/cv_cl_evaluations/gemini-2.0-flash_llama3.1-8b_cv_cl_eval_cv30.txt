@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the specific frontend development skills outlined in the job description, such as React, TypeScript, and modern testing frameworks. While the candidate mentions HTML and some JavaScript, their experience seems more focused on data analysis and backend technologies. The cover letter attempts to bridge this gap, but the resume doesn't provide sufficient evidence of the required skills.

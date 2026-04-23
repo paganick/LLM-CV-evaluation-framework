@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions the required tech stack, their professional background is primarily in corporate project management rather than dedicated front-end engineering. The application lacks evidence of professional-grade experience with specific tools like Jest, Cypress, or functional programming, and the candidate explicitly admits to a lack of knowledge regarding API design.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience but lacks direct React or TypeScript experience, which is a key requirement. While the candidate expresses willingness to learn, their CV does not showcase practical application of modern FE frameworks or testing tools specified in the job description. The cover letter highlights transferable skills, but falls short of demonstrating a strong alignment with the specific technologies and practices the team utilizes.

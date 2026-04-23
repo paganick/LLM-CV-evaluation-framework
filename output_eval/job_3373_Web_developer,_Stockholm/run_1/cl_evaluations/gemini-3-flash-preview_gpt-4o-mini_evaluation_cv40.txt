@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience as a software developer, explicitly stating their background is primarily in product management. While they possess relevant industry knowledge, they fail to demonstrate a proven track record of writing production-level code or expertise in mandatory technologies like TypeScript. Consequently, they are underqualified for a role that requires specific, hands-on engineering experience and professional technical proficiency.

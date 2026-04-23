@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in testing and Agile, but the cover letter lacks the specific technical skills required by the job description. It does not mention key requirements like TypeScript, React, modern testing frameworks (Jest, Cypress), Git, or security knowledge. The application is generic and fails to demonstrate a targeted match for the role's stated tech stack.

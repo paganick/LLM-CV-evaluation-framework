@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and marketing, not frontend development. While the cover letter mentions an interest in frontend technologies, the resume lacks concrete evidence of hands-on experience with JavaScript, TypeScript, React, or other key technologies listed in the job description. The candidate's skills lean heavily towards sales and marketing rather than the required technical expertise.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in technology and some hands-on experience with HTML, but lacks proficiency in JavaScript, TypeScript, and specifically the frameworks mentioned in the job description. While they express familiarity with some of the required tools and concepts, such as Agile and testing frameworks, they do not sufficiently demonstrate the depth of experience in React, web security measures, or modern CSS tools to be fully qualified for the position.

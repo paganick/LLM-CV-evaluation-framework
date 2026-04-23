@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with AngularJS, HTML, CSS, and Javascript, but lacks the required experience with React, Typescript, and modern FE frameworks mentioned in the job description. The resume highlights Java and backend experience more prominently than frontend skills. While the cover letter attempts to bridge the gap, the resume doesn't strongly support the claims.

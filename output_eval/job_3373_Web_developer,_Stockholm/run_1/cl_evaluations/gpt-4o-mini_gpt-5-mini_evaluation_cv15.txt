@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundational understanding of core web technologies and relevant experience in web development and server management. However, they do not mention experience with modern front-end frameworks like React, and their familiarity with testing frameworks and CI/CD tools is also limited, which does not fully meet the job requirements.

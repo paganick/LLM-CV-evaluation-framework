@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive background is in product management and business strategy, not hands-on frontend development. While they mention exposure to concepts like React and testing, the resume and cover letter lack concrete, recent experience with the required core technologies (JavaScript, TypeScript, modern React) and frameworks (Jest, Cypress, etc.). This is a significant career pivot into a senior technical role for which they have not demonstrated the necessary practical coding skills.

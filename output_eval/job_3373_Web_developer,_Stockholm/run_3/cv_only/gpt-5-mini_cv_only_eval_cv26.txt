@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in marketing, public relations, legal administration and event planning with no demonstrated experience in software development or front-end technologies (JavaScript, TypeScript, React, HTML/CSS), testing frameworks, Git, Node.js, or cloud/CI tools. There is no evidence of coding, technical collaboration in Agile, or relevant technical certifications, making this candidate completely unqualified for the role.

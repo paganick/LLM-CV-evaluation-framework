@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the primary technical requirements, specifically React and TypeScript, which are central to the role. While they possess general web development knowledge and Agile experience, their background is heavily reliant on legacy technologies like jQuery and Bootstrap rather than the modern ecosystem (SASS, Jest, Node.js) specified. For a strict recruiter, the absence of core framework proficiency and specific testing tooling makes this candidate a high-risk hire who would require extensive training.

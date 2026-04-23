@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all specific technical requirements, including TypeScript, React, automated testing, and CI/CD experience. Mentioning outdated technologies like Java Applets suggests a lack of familiarity with modern web standards and the current ecosystem requested. While the candidate has a relevant degree, they are strictly an entry-level prospect for a role that demands proficiency in advanced engineering practices and cloud infrastructure.

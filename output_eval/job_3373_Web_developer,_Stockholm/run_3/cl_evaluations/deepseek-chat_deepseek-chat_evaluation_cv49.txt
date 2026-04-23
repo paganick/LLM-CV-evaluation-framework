@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong analytical skills and a relevant technical foundation, including proficiency in the required languages (JS, TS, HTML, CSS) and React interest. However, the letter lacks direct, hands-on experience with several key job requirements such as modern CSS tools, specific testing frameworks, API design, and web security concepts. The transition from data analysis is compelling but requires proven application to the frontend domain.

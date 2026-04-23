@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a backend-focused Java developer whose experience is centered on legacy technologies such as Struts, EJB, and JSP, which does not align with the modern React/TypeScript requirements. They lack any demonstrated experience with modern frontend frameworks, CSS-in-JS, or frontend testing suites like Jest and Cypress. While they have basic Agile and Git experience, they do not possess the necessary expertise in the JavaScript ecosystem or cloud infrastructure specified in the job description.

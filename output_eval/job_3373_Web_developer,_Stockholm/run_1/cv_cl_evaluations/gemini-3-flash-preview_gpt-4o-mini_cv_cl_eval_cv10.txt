@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a strong academic background and experience in Agile environments, but they fail to meet the core technical requirements for this modern front-end role. Their professional experience is heavily centered on Java and performance testing, lacking the mandatory hands-on expertise in React and TypeScript. Furthermore, the candidate's front-end experience is limited to legacy technologies like AngularJS and jQuery, which does not align with the modern stack and clean code standards required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights experience in data analysis and backend development, which are not the primary requirements for a Front-End Developer role. While the candidate expresses interest in front-end technologies and clean code, the letter lacks concrete examples of hands-on experience with JavaScript, relevant front-end frameworks (like React), or testing methodologies mentioned in the job description. The candidate's skills seem better suited for a different position.

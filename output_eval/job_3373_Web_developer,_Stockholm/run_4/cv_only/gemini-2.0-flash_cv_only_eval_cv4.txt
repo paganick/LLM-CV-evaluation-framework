@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React, VueJS, Angular, or Svelte. There's no mention of testing frameworks or CI/CD tools, and their experience with Node.js is listed as a skill but not elaborated upon with concrete examples. The resume focuses more on backend technologies like C# and SQL.

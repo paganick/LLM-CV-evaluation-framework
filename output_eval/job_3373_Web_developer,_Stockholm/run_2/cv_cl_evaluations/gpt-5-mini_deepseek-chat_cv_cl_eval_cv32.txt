@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable soft skills and claims self-directed study in JavaScript, TypeScript, React, and testing, but their resume contains no verifiable technical experience, projects, or toolchain exposure (Git, CI/CD, Node ecosystem, AWS, etc.) required by the role. Given the lack of documented hands-on frontend work or relevant employment history, they are not yet qualified for this position despite apparent motivation and potential to grow.

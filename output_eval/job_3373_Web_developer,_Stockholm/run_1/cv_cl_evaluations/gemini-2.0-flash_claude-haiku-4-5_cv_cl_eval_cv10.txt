@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some front-end experience, particularly with AngularJS, HTML, and CSS. However, they lack direct experience with React, the primary framework used by the company. The resume focuses more on Java and back-end technologies, and while the cover letter expresses interest in learning React, it doesn't showcase existing proficiency.

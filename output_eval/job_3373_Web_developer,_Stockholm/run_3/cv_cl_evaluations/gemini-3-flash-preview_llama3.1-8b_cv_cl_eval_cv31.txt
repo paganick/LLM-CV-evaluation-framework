@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's professional background is exclusively in sales, leadership, and hospitality, with no documented work experience in software engineering. While the cover letter mentions technical keywords, the resume fails to provide any evidence of professional experience with React, TypeScript, or testing frameworks. This is a complete industry mismatch, as the candidate lacks the fundamental technical qualifications required for the role.

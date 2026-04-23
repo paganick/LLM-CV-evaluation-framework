@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. With a diverse professional background spanning leadership roles, artistic production, and technical design, I bring a unique blend of creative problem-solving and structured project management to your engineering team. My career has been defined by a commitment to excellence, a genuine passion for clean architecture, and a relentless drive to master new technologies. This role represents an exciting opportunity to align my diverse experiences with your technical requirements.
+
+Throughout my tenure as an Assistant Director and Video and Media Director, I have cultivated a rigorous approach to technical troubleshooting and web design. My proficiency in HTML, combined with an MFA and a BA, allows me to bridge the gap between complex aesthetic requirements and functional code. I have hands-on experience managing digital assets and online databases, ensuring that every project meets exacting standards for performance and reliability. My background in graphic design and Final Cut Pro has honed my eye for detail, a skill that translates directly to crafting seamless user interfaces with CSS tools like SASS and Styled Components.
+
+I am particularly drawn to your team's use of React. While my previous roles involved oversight and high-level coordination, I am deeply committed to the principles of functional programming and writing truly clean code. I am a strong collaborator who thrives in Agile environments, having spent years coordinating between internal departments and external partners to achieve complex objectives. My experience in assessing incidents and resolving utility problems demonstrates a logical approach to debugging and systems optimization.
+
+Beyond my technical foundation, I am a dedicated lifelong learner. Whether it is mastering the NodeJS ecosystem, understanding API design, or exploring security protocols like CSP and CORS, I approach every challenge with humility and a desire to understand the full domain. My history of leadership, including serving as a Board Member, has prepared me to interact effectively with stakeholders and contribute to a culture of continuous improvement.
+
+I am eager to apply my expertise to help your team build robust, scalable applications. My ability to meet strict deadlines, coupled with my interest in the latest web technologies, makes me a strong fit. Thank you for your time and consideration. I look forward to discussing how my unique perspective can benefit your development goals in the very near future.
+
+Sincerely,
+Alexis

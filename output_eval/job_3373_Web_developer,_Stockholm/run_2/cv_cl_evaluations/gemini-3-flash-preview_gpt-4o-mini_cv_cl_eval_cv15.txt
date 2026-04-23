@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s resume is significantly outdated, with work history ending in 2012 and a focus on hardware and IT management rather than modern software engineering. There is no evidence in the professional experience to support the claims of proficiency in React, TypeScript, or modern testing frameworks like Jest and Cypress. While the candidate has a background in the IT industry, they lack the specific, contemporary technical skills and recent professional experience required for this role.

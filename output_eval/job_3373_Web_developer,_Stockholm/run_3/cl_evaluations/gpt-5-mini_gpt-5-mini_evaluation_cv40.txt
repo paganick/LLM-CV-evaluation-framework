@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a strong product leader with relevant industry experience but does not demonstrate the hands-on front-end skills the role requires (React, TypeScript, testing frameworks, Node ecosystem, linters, Ramda, CI/CD, AWS/Terraform). Their letter states eagerness to learn and support engineering rather than proven practical experience writing and testing front-end code. As written, they are not an immediate fit for a hands-on React/TypeScript engineering role without significant ramp-up time.

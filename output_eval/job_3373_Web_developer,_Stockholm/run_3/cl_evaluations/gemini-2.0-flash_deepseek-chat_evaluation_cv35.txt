@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience with HTML, CSS, JavaScript, APIs, OAuth, CORS, and Agile, but lacks specific mention of React (the company's primary framework). While they demonstrate a passion for clean code and testing, their experience is primarily within marketing automation rather than dedicated front-end development. The cover letter highlights transferable skills, but lacks direct experience with other requested technologies.

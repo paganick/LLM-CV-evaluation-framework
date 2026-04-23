@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate explicitly admits to having no professional experience with the core requirements of the role, including JavaScript, TypeScript, and the React framework. Their background in IT support and systems administration is irrelevant to the specific needs of a software development position focused on frontend technologies and automated testing. While they possess basic Git knowledge, the total absence of a demonstrated coding portfolio or industry-specific experience makes them unqualified for this technical vacancy.

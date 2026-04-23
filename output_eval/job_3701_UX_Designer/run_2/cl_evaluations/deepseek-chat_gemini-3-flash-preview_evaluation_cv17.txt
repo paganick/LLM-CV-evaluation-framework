@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive design experience and relevant soft skills, but the cover letter fails to demonstrate the specific, required technical competencies. There is no mention of Figma, Agile environment experience, or front-end knowledge (HTML/CSS/JS) which are critical for managing the UI Design System. The experience described is more aligned with graphic design and production management than with the core UX research and prototyping duties of the role.

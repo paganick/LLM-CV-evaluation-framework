@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and lacks the required JavaScript, TypeScript, and modern FE frameworks experience. While the cover letter expresses interest in transitioning, the resume demonstrates a lack of hands-on experience with the technologies listed in the job description. The candidate's skills are misaligned with the core requirements of a Frontend Developer role.

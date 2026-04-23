@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: the candidate is a digital marketing implementation consultant who lacks any professional experience or demonstrable skills in JavaScript, TypeScript, and React. While they possess basic HTML and CSS knowledge, they do not meet the core technical requirements involving modern front-end frameworks, automated testing, version control, or back-end ecosystems. Their background is entirely focused on Salesforce configuration and project management rather than software engineering.

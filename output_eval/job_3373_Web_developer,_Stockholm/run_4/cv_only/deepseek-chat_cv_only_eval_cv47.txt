@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development and chemical sales, which is completely unrelated to the front-end software engineering role. The resume lists only basic, outdated programming skills (HTML, C, C++) and lacks any mention of the required technologies like JavaScript, TypeScript, React, testing frameworks, or modern web development practices. This is a clear case of a wrong industry and skill set mismatch.

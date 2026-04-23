@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks almost all mandatory technical requirements, including proficiency in JavaScript, TypeScript, and professional experience with React or testing frameworks. While they possess a relevant background in design and visual communication, they explicitly state a need to learn the core technologies required for the role rather than having current mastery. This profile represents a career-changer who is currently unqualified for a position demanding hands-on experience and specialized technical knowledge in web security and CI/CD.

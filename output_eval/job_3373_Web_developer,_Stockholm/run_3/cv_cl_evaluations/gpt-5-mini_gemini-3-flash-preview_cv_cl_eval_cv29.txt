@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a senior business development/marketing background with no demonstrated hands-on frontend engineering experience (no JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, or CI/CD listed). The cover letter asserts familiarity with APIs and web security at a high level but does not provide evidence of practical implementation of the required frontend technologies and tools. Given the role's need for concrete frontend development skills and tooling experience, the candidate is not qualified for this position.

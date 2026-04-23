@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer with background in electrical work and manufacturing, which is completely misaligned with the Frontend Software Engineer position. While the resume mentions basic HTML/CSS coding skills from a graphic design program, there is zero evidence of JavaScript, TypeScript, React, testing frameworks, Git, CI/CD tools, or any of the core technical requirements for this role. The candidate lacks professional software development experience, modern framework expertise, and the technical foundation necessary for this position.

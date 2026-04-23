@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and project management but lacks specific hands-on experience with modern front-end frameworks like React, which is a crucial requirement for this position. While they mention familiarity with frameworks like VueJS and Angular, their primary expertise does not align closely with the job description. Additionally, there is insufficient evidence of experience with testing frameworks and CI/CD tools mentioned in the job description.

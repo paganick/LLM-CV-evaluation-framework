@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in sales leadership, not software engineering, which is a fundamental mismatch for a Front-End Engineer role. While they mention HTML and some design tools, they demonstrate no experience with the core technologies listed in the job description, such as JavaScript, React, testing frameworks, or modern development workflows. Their soft skills and domain knowledge are relevant, but they lack the specific, hands-on technical qualifications required for the position.

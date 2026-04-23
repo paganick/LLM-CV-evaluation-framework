@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials engineering, quality analysis, and Six Sigma within the apparel/manufacturing industry, which is completely unrelated to front-end software development. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other technical skills listed in the job description. This is a case of a completely wrong industry and skill set for the role.

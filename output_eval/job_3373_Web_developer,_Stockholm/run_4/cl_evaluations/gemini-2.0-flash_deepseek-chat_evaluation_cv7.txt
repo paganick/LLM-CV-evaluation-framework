@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a graphic design background with limited formal FE experience. While they've started learning relevant technologies, they lack hands-on experience with testing, modern CSS tools, and the NodeJS ecosystem. The cover letter emphasizes soft skills over demonstrable technical proficiency, which is crucial for a Front-End Developer role.

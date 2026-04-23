@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter highlights business development and technical content creation, which are not relevant to the software engineering skills listed in the job description. The candidate's experience in cloud software and API design does not compensate for the lack of front-end development experience (React, JavaScript, HTML, CSS). The letter does not address any of the core requirements outlined in the job posting.

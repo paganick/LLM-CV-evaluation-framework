@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in test automation, modern web technologies, and Agile collaboration, aligning well with core requirements. However, the cover letter lacks specific mention of key technologies from the job description like TypeScript, modern React, Jest/Cypress, and security fundamentals. While a good match, the application does not explicitly address several listed preferred skills, preventing a higher score.

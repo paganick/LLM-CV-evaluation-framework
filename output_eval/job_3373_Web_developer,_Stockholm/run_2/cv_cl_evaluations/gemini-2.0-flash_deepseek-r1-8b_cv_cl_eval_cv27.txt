@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter lack any substantial evidence of the required technical skills (JavaScript, React, HTML, CSS, testing frameworks, etc.) mentioned in the job description. The experience is mainly in administrative, artistic, and educational roles, which are irrelevant to the specified front-end developer requirements. The listed technical skills are too basic and do not align with the required expertise.

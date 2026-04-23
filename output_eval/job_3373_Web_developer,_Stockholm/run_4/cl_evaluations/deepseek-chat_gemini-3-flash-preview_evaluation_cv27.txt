@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and mentions some required technologies like React, HTML, CSS, SASS, and NodeJS. However, the cover letter is vague and lacks concrete, hands-on examples of core technical requirements from the job description, such as TypeScript, testing frameworks, Git, modern tooling (ESLint, Prettier), and functional programming with Ramda. The background is heavily weighted toward non-development roles, creating significant doubt about current, practical frontend engineering skills.

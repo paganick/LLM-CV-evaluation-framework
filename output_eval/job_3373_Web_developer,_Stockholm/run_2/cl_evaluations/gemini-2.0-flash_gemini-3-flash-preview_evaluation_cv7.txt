@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of the core technologies and tools mentioned in the job description, including React, SASS, Styled Components, Jest, and Cypress. They also highlight their familiarity with Agile environments and Git. However, their AWS and CI/CD experience seems basic, and they lack explicitly mentioned experience with linters and formatters, which are mentioned in the job description.

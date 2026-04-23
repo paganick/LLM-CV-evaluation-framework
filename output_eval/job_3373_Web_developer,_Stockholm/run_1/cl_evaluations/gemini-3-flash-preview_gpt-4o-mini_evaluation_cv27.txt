@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in software development and fails to demonstrate proficiency in mandatory requirements such as TypeScript and Web Security. While they possess foundational knowledge of React, their experience with testing frameworks and CI/CD tools appears aspirational rather than hands-on. A background in administrative roles does not sufficiently bridge the gap to the technical rigor and specific skill set demanded by this position.

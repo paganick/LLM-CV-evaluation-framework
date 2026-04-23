@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and a strong technical background, particularly in JavaScript and CSS. However, they lack specific experience with modern frontend frameworks, particularly React, as well as explicit familiarity with testing frameworks mentioned in the job description. While they demonstrate a willingness to learn and adapt, their current skill set does not fully align with the requirements of the position.

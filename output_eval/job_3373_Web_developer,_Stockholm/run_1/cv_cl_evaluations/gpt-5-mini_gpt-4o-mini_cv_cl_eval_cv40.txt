@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial product management and media-domain experience and claims basic familiarity with web technologies, but provides no demonstrable hands-on front-end development experience or engineering roles. They lack evidence of required skills such as React/TypeScript development, modern CSS-in-JS usage, NodeJS ecosystem work, automated testing ownership, CI/CD, and infrastructure familiarity. Given the role is a hands-on Front End Developer position, this profile does not meet the technical expectations.

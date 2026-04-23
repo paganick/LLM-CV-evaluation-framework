@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Sales Director with no professional experience in software development, JavaScript frameworks, or the technical infrastructure required for this role. Their background is entirely in sales, management, and hospitality, which does not translate to the specific technical skills like TypeScript, React, and CI/CD tools mentioned in the job description. The candidate is completely unqualified for a technical engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards back-end and database administration, with only generic mentions of front-end technologies. They fail to demonstrate specific, hands-on expertise in the required modern frameworks (React), testing automation, security concepts, and key tools like Node.js, functional programming, or AWS listed in the job description. While they have relevant soft skills and industry experience, the lack of concrete, front-end-focused evidence makes them a weak technical match for this specific role.

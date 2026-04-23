@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in data analysis and some familiarity with web technologies like HTML and CSS. However, they lack direct experience with key requirements such as JavaScript frameworks (particularly React), modern CSS tools, testing frameworks, and general web security concepts. While they have demonstrated some project management and collaboration skills, there is insufficient front-end development experience to be considered a strong candidate for this role.

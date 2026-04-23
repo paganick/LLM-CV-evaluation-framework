@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from the marketing and media industry who lacks professional experience in frontend development and the required React ecosystem. They do not possess any of the mandatory technical skills specified, such as TypeScript, automated testing frameworks, Git, or CI/CD tools. Their profile is fundamentally centered on database management and media planning, which does not align with the specialized requirements of this engineering role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and a strong foundation in automation testing. However, they lack specific experience with modern frontend frameworks and libraries mentioned in the job description, such as React or VueJS, as well as testing frameworks like Jest or TestCafe. Their familiarity with web security concepts is also not demonstrated, which detracts from their suitability for the role.

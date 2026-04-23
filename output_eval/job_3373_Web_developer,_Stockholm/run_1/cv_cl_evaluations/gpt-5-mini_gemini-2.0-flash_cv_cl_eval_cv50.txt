@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Computer Science degree and broad IT/project-management experience but their resume and cover letter show no demonstrated, recent hands-on experience with core front-end technologies required (JavaScript, TypeScript, HTML/CSS, React), testing frameworks, Git, or Node/npm. Their current senior business development role is non-developer and the technical experience listed is largely legacy or peripheral to modern front-end development. They may be trainable, but do not meet the specific skillset needed for this role.

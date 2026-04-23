@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in information technology and web development, but lacks specific experience with modern front-end frameworks like React, VueJS, or Angular, which are critical for the role. Additionally, there is no mention of hands-on experience with testing automation or familiarity with tools specific to the job description, such as Jest or CI/CD tools. Overall, while the candidate has relevant skills, they do not fulfill all the specific requirements outlined in the job description.

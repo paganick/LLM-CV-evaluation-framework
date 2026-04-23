@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in regulated environments and a strong focus on testing and validation processes, which could be a valuable asset in a front-end development role. However, they lack direct experience with essential front-end technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Their background in microbiology and consulting does not align closely with the technical needs of the position, resulting in a lack of specific experience required for this role.

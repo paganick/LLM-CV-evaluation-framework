@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong foundational background in core web technologies (HTML, CSS, JavaScript) and relevant systems experience, with proven project delivery. However, they lack direct, stated experience with the specific modern tools required (React, TypeScript, modern testing frameworks, CI/CD) and must learn them on the job. Their breadth of IT and problem-solving skills makes them a good, adaptable candidate, but not a perfect match for the listed technical requirements.

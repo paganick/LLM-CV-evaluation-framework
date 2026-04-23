@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in design and user experience with relevant technical skills in JavaScript, TypeScript, HTML, and CSS. They demonstrate familiarity with modern front-end frameworks, specifically React, which is a key requirement. However, the lack of specific mention of experience with testing frameworks, linters, and CI/CD tools indicates areas of improvement, preventing a higher score.

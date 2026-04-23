@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a project management background with some exposure to front-end technologies. While they mention JavaScript, HTML, CSS, and Angular, the depth of their experience with React and other modern FE frameworks is questionable. Their experience with testing frameworks and other tools mentioned in the job description seems limited.

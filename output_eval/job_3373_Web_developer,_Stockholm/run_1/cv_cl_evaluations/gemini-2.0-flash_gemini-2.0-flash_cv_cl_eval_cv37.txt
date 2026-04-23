@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project and IT management, not front-end development. While they claim "exposure" to JavaScript, HTML, and CSS, there's no evidence of hands-on experience with modern FE frameworks or testing methodologies. The resume focuses on management and infrastructure, lacking the specific technical skills outlined in the job description.

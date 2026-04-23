@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and modern CSS tools like Styled Components or SASS. Their work history is focused on legacy Java systems and database administration, with no documented software development experience since 2017. Additionally, the resume shows no evidence of experience with modern testing frameworks (Jest, Cypress) or CI/CD pipelines requested in the job description.

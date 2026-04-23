@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundation in core web technologies, but lacks direct experience with React, TypeScript, and modern testing frameworks, which are key requirements. While they express eagerness to learn, the cover letter highlights past technologies (Flash, ASP.NET, Java applets, VB.NET, Java) more than the current job description's focus. Their experience in construction and related soft skills are a plus but don't compensate for the lack of specific technical alignment.

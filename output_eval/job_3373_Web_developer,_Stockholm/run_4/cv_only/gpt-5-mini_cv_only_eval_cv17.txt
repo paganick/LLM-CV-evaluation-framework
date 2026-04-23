@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is focused entirely on construction and civil engineering project management with no demonstrated experience in frontend or web development technologies (JavaScript, TypeScript, React, HTML/CSS), testing, or modern tooling (Git, Node.js, CI/CD). There is a complete mismatch of industry and technical skills required for this role, so they are not qualified for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not a hands-on developer, which is the core of the role. While they mention JavaScript, HTML, and CSS, they lack specific, recent experience with the required modern frameworks (React is mandatory), testing automation, and the listed toolchain (e.g., Jest, Cypress, Node.js, AWS). Their background is more aligned with project leadership and UX/analytics rather than the deep technical development and engineering practices required.

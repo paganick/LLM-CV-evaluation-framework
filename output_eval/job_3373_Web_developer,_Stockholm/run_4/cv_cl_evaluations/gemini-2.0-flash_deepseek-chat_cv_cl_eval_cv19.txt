@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design and electrical work, not front-end development. While they claim proficiency in HTML, CSS, and JavaScript, the resume lacks concrete project experience showcasing these skills in a professional software development context. The cover letter attempts to bridge this gap, but the absence of practical FE experience and familiarity with the majority of the tech stack requirements makes them a weak fit.

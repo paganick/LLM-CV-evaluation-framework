@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Drupal development, which is not aligned with the job's requirement for modern FE frameworks like React. While they list foundational skills in JavaScript, HTML, and CSS, they lack demonstrated, hands-on experience with the specific technologies and tools listed in the job description (e.g., React, Jest, Cypress, Node.js ecosystem, CI/CD). Their experience is in a different tech stack and domain, making them a weak fit for this specific frontend developer role.

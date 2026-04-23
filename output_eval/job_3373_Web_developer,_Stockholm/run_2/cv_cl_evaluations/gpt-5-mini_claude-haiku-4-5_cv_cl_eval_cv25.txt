@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design with only basic HTML/CSS experience and no demonstrable JavaScript, TypeScript, React, testing, Git, Node.js, or cloud/CI experience required for this frontend developer role. Although they show strong design and collaboration skills and a willingness to learn, the technical gaps are substantial and would require significant upskilling. This profile is not a fit for the position as advertised.

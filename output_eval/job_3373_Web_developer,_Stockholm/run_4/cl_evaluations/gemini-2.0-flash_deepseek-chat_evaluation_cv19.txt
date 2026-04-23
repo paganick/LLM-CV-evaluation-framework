@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills like HTML, CSS, JavaScript, TypeScript, React, and SASS. However, they lack explicit experience with testing automation (unit, integration, E2E), security on the Web (OWASP, CSP, CORS, OAuth), and NodeJS ecosystem/Express.js which are all listed in the job description. They also don't mention experience with API design, AWS, Terraform, or functional programming.

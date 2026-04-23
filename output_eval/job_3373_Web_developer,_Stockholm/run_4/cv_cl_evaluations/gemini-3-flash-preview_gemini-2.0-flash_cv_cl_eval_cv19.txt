@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a Graphic Designer and lacks the professional experience required for a software engineering role, specifically missing proficiency in JavaScript, TypeScript, and React. Their technical skills are limited to basic HTML and CSS, with no evidence of experience in automated testing, Git, or cloud infrastructure. While the candidate expresses a desire to learn, they do not meet any of the core technical requirements outlined in the job description.

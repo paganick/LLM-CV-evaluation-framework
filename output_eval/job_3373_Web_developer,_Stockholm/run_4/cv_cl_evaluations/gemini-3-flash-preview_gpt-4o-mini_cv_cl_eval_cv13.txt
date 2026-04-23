@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager whose professional experience since 2014 has focused on management, analytics, and strategy rather than hands-on engineering. The resume lacks evidence of professional experience with the required modern stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. While the candidate possesses foundational technical literacy, they do not meet the criteria for a dedicated, high-level Front-End Developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a professional Front-End Developer role, as their background is almost entirely in administrative management and the arts. Their technical skills are limited to basic HTML and web design, lacking any professional experience with the required stack of JavaScript, TypeScript, React, and modern testing or CI/CD tools. This profile represents a career transitioner who does not meet the specialized technical criteria of the job description.

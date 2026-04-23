@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in digital marketing and Salesforce, not directly in JavaScript/TypeScript/React development. While they mention HTML, CSS, and SQL, their experience seems limited to configuration and customization rather than core development. The letter lacks concrete examples of JavaScript/TypeScript/React projects or experience.

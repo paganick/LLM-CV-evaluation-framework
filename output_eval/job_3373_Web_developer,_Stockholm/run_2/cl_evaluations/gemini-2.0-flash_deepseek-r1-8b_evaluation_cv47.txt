@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in business development and sales, which is significantly different from the required front-end development skills. The cover letter fails to demonstrate the necessary technical expertise in JavaScript, React, HTML, CSS, testing, or any other specified technologies. Transferable skills are not a substitute for core technical requirements.

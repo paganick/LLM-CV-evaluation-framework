@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on presentation design, multimedia design, and UX/UI, lacking the required JavaScript, TypeScript, and modern FE frameworks experience. Although they have experience with HTML and CSS, the resume doesn't showcase the necessary depth in modern front-end development or testing. There is no mention of relevant backend technologies or cloud experience.

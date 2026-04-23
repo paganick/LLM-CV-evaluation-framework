@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in adjacent fields, not direct front-end development, and they lack proven, hands-on experience with the core technical stack (JavaScript, TypeScript, React, testing frameworks, Git). While they demonstrate strong transferable skills in project management, documentation, and a quality mindset, they explicitly state they are eager to *gain* the required technical expertise, which does not meet the job's requirement for hands-on experience.

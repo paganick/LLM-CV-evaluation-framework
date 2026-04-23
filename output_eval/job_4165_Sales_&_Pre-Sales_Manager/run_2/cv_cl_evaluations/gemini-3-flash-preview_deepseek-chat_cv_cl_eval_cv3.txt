@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a highly experienced sales leader, but their background is almost exclusively in Digital Media, AdTech, and Advertising sales rather than the enterprise Application Services (API, Cloud, DevOps) or Business Analytics required. While they have experience in the Retail vertical, they lack the necessary exposure to Banking, Insurance, and Utilities. The candidate's expertise in media strategy and creative services does not align with the technical requirements of selling complex AI/ML-driven loyalty platforms and architectural solutions.

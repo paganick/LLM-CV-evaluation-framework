@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong educational background and relevant experience in frontend and backend development, including knowledge of JavaScript, HTML, and CSS, as well as experience with AngularJS. However, while they express familiarity with modern frameworks and testing methodologies, they do not document direct experience with React, CI/CD tools, and some of the specific technologies mentioned in the job description, such as SASS or AWS. Overall, they are a strong candidate but lack a perfect alignment with all requirements.

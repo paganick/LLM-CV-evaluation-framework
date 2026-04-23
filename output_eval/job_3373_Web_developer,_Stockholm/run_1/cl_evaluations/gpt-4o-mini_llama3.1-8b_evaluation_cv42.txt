@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in finance and project management, but lacks specific experience with core JavaScript technologies and testing frameworks mentioned in the job description. While they have exposure to modern front-end frameworks, their familiarity with the specific tools and practices utilized by the organization is not clearly demonstrated, indicating a gap in the required technical skills for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong analytical and engineering background, they are currently transitioning into front-end development and lack professional, hands-on experience with the required React and TypeScript stack. The letter indicates they are still "mastering" core technologies and viewing testing frameworks as an "opportunity" rather than a demonstrated skill. Consequently, the candidate lacks the requisite production experience in modern web security, functional programming, and front-end automation requested in the job description.

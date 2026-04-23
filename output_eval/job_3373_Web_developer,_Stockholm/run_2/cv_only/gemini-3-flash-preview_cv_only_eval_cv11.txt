@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is strictly limited to Quality Assurance and manual/automation testing, making them unqualified for a front-end development role requiring expertise in React and TypeScript. Furthermore, their technical background is significantly outdated, with no documented work experience since 2015 and a total absence of skills in the NodeJS ecosystem, CI/CD, or AWS.

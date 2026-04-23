@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no professional experience in software engineering, making them completely unqualified for this technical role. They lack required proficiency in JavaScript, TypeScript, React, and modern testing frameworks, listing only basic HTML and design tools as technical skills. Their background in sales management does not align with the core engineering requirements of the position.

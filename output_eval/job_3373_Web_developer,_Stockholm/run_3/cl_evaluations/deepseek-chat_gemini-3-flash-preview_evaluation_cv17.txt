@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong technical alignment with the job's core requirements, including React, testing, security concepts, and the specific tools listed. However, the cover letter is heavily framed around a non-software engineering background, which, while unique, does not provide direct, proven experience in a professional frontend development role. The candidate effectively maps their project management experience to soft skills but lacks explicit evidence of hands-on, production-level frontend work matching the role's seniority.

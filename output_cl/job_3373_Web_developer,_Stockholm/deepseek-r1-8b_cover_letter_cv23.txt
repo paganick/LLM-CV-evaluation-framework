@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position you are seeking, based on my skills and experience in software testing and electronics.
+
+My background includes extensive hands-on testing and troubleshooting of electronic systems and software applications. In my previous roles, I gained valuable experience with testing methodologies, including building test cases, performing regression, functional, and smoke tests. I am proficient in utilizing tools like oscilloscopes and multimeters, and I have experience with software such as Microsoft Test Manager for writing test cases and bug tracking.
+
+While my primary expertise is in electronics and software testing, I have a strong foundation in electronics and troubleshooting, including constructing and diagnosing circuits. I am proficient in C++, Java script, and have experience with software development tools like Visual Studio. My ability to quickly adapt to new technologies aligns well with your requirements for someone interested in staying current.
+
+I am a strong collaborator and have experience working effectively with software developers and other teams during testing phases. My technical background and problem-solving skills would allow me to contribute effectively to your team.
+
+Thank you for considering my application. I am excited about the opportunity to bring my technical skills and dedication to quality to your organization.
+
+Sincerely,
+Alexis

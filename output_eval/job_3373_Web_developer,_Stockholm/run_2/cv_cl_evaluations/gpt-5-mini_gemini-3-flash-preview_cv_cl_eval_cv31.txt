@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in sales leadership with no verifiable frontend engineering experience or examples of JavaScript/TypeScript, React, testing frameworks, NodeJS, CI/CD, or cloud/infra work; the cover letter assertions are unsubstantiated by concrete technical roles or projects. The candidate lacks the core technical skills and hands-on development history required for this frontend developer role. This is therefore a poor fit for the position.

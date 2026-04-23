@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a recent graduate who lacks the professional software engineering experience required to navigate a complex production environment involving CI/CD, API design, and functional programming. While the letter touches on several keywords, the candidate’s familiarity with React, TypeScript, and automated testing appears theoretical or academic rather than hands-on. Furthermore, there is no evidence of the requested knowledge regarding web security or specific libraries like Ramda, making them underqualified for this specific role.

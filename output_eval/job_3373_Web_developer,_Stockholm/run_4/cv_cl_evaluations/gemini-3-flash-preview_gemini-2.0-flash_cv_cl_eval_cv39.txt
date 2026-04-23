@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer and Artist who lacks nearly all the mandatory technical requirements for a modern Front-End Developer role, including JavaScript, TypeScript, and React. While they possess strong visual design skills, they have no professional experience with software engineering, version control, testing frameworks, or cloud infrastructure. Their background is fundamentally rooted in the arts and print media rather than software development.

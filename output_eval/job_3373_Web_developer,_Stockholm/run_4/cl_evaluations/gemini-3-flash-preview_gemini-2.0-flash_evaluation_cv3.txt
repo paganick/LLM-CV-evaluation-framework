@@ -1,0 +1,2 @@
+Score: 4/10
+Reasoning: While the candidate holds a relevant degree, their technical skillset is significantly outdated, highlighting legacy technologies like Java Applets and ASP.NET rather than the required modern React and TypeScript stack. The application shows a total absence of required experience in testing automation, Git, web security, and CI/CD tools. Consequently, the candidate lacks the necessary hands-on proficiency with the specific modern ecosystem demanded by the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong collaboration skills, but lacks direct, hands-on experience with the core technologies listed in the job description. While they mention React and modern CSS tools as areas of interest, they do not provide concrete experience with React, TypeScript, or the specific testing frameworks (Jest, Cypress) required. Their backend-heavy experience is valuable but not a primary match for a frontend-focused role.

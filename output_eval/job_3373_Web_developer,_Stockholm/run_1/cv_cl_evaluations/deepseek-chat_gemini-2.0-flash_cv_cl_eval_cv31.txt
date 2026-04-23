@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in sales and management, with no professional experience or demonstrated skills in frontend development, React, TypeScript, testing, or any other technical requirements listed in the job description. The cover letter acknowledges this lack of technical experience and attempts to frame unrelated soft skills as transferable, which does not meet the core technical demands of the role. This is a complete mismatch for a specialized frontend developer position.

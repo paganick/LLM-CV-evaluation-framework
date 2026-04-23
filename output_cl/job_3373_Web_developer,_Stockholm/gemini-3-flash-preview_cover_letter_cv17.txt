@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. As a Registered Professional Engineer with an extensive background in global project management, I bring a unique perspective to software engineering, blending rigorous civil engineering principles with a deep commitment to modern technologies like JavaScript, TypeScript, HTML, CSS, and React.
+
+Throughout my career, notably during the $1B Flare And Relief Modifications (FARM) project and the $8B Rosebank FPSO initiative, I have mastered the art of managing complex systems and high-stakes deliverables. My experience in site execution and site management has instilled in me a genuine passion for writing (truly) clean code, a concept I equate to the structural integrity and precision required in large-scale infrastructure. Just as I managed QA/QC for five modules totaling $2.5B, I approach software through hands-on experience with unit, integration, and E2E testing using Jest or Cypress to ensure reliability.
+
+I am highly comfortable in Agile environments, having directed international workforces of over 3,000 personnel. This collaborative background translates seamlessly into interacting with cross-functional teams and external partners. My technical journey has led me to embrace the NodeJS ecosystem, utilizing tools like Express.js, Yarn, and functional programming with Ramda. Furthermore, my history with Process Hazard Analyses and Management of Change (MOC) provides a solid foundation for understanding web security protocols, including OWASP, CSP, and CORS.
+
+I am particularly drawn to your team’s move toward modern CSS tools like Styled Components and SASS, alongside CI/CD pipelines via CircleCI and repo hosting services like GitHub. My tenure at Phillips Petroleum involved cutting costs by millions through process improvements; I intend to apply this same efficiency-driven mindset to your codebase. Whether I am navigating AWS and Terraform or transitioning legacy Ruby systems, I am keen on understanding the full domain and other platforms which might not be my primary area of expertise.
+
+I am a resourceful problem solver capable of making sound decisions under pressure. I genuinely look forward to discussing in detail how my background in high-level project execution can contribute to your team’s success. I am extremely eager to learn. I appreciate your time and the opportunity to present my qualifications for this role.
+
+Sincerely,
+Alexis

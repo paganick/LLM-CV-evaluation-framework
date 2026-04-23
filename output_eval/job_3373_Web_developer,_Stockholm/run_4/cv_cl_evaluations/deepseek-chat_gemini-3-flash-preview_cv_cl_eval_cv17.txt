@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in civil engineering and construction management, which is a completely different industry from frontend software development. While the cover letter attempts to map project management experience to the job requirements, the resume shows zero professional experience with JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. This is a fundamental mismatch in skills and career trajectory.

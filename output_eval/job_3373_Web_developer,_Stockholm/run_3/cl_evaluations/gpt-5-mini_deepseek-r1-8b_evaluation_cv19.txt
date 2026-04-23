@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid graphic design experience and basic HTML/CSS coursework, which are relevant to frontend work. However they lack hands-on experience with JavaScript/TypeScript, React (the team's primary framework), testing and test automation, Git, Node/npm, and web security—key requirements listed in the job description. Given these significant gaps, the candidate would require considerable upskilling before being qualified for this role.

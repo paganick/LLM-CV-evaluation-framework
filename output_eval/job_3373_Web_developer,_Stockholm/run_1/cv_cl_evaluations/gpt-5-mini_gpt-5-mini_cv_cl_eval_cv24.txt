@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong communication, accessibility, and cross-functional collaboration experience relevant to product teams, but demonstrates no hands-on experience with JavaScript/TypeScript, React, modern front-end tooling (testing frameworks, Git, Node, CSS frameworks), or CI/CD required for this role. Their cover letter expresses willingness to learn, but they do not meet the technical skillset needed to contribute immediately as a front-end engineer without substantial upskilling.

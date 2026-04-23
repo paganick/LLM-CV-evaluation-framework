@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong qualifications with a solid educational background in Computer Science and relevant experience in frontend development, particularly with React. Their understanding of testing methods and collaboration in Agile environments aligns well with the job requirements. While they do mention cloud infrastructure, the depth of knowledge around specific tools like Terraform and Ruby is not clearly established, preventing a perfect score.

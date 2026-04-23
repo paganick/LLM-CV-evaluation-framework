@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience and skills in frontend development, particularly with ReactJS and modern CSS tools. However, they lack experience with TypeScript, which is specified in the job description, and their knowledge of testing frameworks beyond Selenium is limited. While they demonstrate a strong foundation in full-stack development and an eagerness to learn, the gaps in experience with specific tools and technologies could hinder their ability to transition seamlessly into the role.

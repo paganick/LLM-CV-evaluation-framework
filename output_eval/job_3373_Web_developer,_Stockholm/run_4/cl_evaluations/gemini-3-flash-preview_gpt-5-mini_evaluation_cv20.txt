@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant software engineering experience and understands Agile methodologies, they lack professional experience with the primary tech stack required, specifically React and TypeScript. Their background is heavily centered on legacy .NET/C# technologies and jQuery, and they explicitly admit a lack of experience in automated testing and modern front-end frameworks. As a result, they do not meet the core technical requirements for this specific modern development role.

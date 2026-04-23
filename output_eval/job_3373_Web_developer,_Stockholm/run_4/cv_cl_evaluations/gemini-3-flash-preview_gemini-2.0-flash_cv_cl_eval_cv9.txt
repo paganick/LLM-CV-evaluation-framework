@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer who lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and modern CSS tools. While they possess relevant software engineering experience and understand Agile methodologies, they do not meet the mandatory technical requirements for hands-on frontend framework and testing expertise. Their profile reflects a backend-to-frontend pivot that lacks the specific professional milestones needed for this role.

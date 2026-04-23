@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly matching the core stack, testing, tools, and security knowledge. Their non-traditional background is framed as a unique strength that aligns well with the role's emphasis on collaboration, domain understanding, and clean code. The score is not a 9 or 10 due to the lack of explicit, professional hands-on experience with some listed technologies like CI/CD, AWS/Terraform, and API design, which are implied but not concretely proven.

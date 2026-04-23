@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in Java and related technologies but lacks direct experience with modern frontend frameworks, primarily focusing on React as required by the job description. Although they have some experience with JavaScript, HTML, and CSS, their primary skills do not align closely with the specific technologies mentioned. Additionally, while they demonstrate a passion for clean code and testing, their exposure to modern CSS tools and JavaScript libraries appears limited.

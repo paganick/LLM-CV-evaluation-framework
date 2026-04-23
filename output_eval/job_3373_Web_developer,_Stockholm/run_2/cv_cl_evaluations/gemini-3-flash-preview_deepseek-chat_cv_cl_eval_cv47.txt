@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a business development professional with a background in chemical technology and lacks any professional experience in software development. While the cover letter expresses an interest in modern frameworks like React and TypeScript, the resume provides no evidence of professional application, relevant project work, or experience with the mandatory testing and CI/CD tools. The technical skills listed are significantly outdated and do not meet the requirements for a modern front-end role.

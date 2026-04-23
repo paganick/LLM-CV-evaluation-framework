@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development fundamentals (JavaScript, HTML, CSS), Git, and Agile experience but their background is primarily .NET and jQuery rather than the modern React/TypeScript/frontend toolchain the role requires. There is no demonstrable hands-on experience with React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), CSS-in-JS/SASS, Node ecosystem, CI/CD, or AWS/Terraform—only stated interest to learn. Given the clear gaps in required, day-one skills, they are a relevant but underqualified candidate for this position.

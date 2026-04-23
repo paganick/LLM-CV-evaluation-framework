@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend developer attempting to transition to frontend and lacks professional experience with the primary technologies required, including TypeScript, React, and modern CSS tools. While they possess 8.5 years of general IT experience, they explicitly state that their knowledge of the requested testing frameworks and frontend tools is still developing. A strict evaluation identifies a significant gap between the candidate's legacy Java/jQuery background and the modern, high-level frontend expertise demanded by the job description.

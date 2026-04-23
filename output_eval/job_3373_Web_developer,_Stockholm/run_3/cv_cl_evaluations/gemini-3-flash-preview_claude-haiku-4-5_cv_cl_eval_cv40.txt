@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level executive in Product Management with no professional experience as a software engineer. While they have managed technical teams and projects, they lack the required hands-on professional expertise in JavaScript, TypeScript, and React development specified in the job description. The profile represents a significant career-track mismatch for a technical engineering role.

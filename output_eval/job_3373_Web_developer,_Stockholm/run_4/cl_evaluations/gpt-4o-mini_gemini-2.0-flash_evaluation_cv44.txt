@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and user experience, which provides a foundation for front-end development. However, they lack hands-on experience with essential technologies like JavaScript, TypeScript, modern frameworks beyond basic HTML and CSS, and testing automation, which are crucial for the position. Their eagerness to learn and adapt is commendable, but the absence of specific technical skills and experience limits their suitability for the role.

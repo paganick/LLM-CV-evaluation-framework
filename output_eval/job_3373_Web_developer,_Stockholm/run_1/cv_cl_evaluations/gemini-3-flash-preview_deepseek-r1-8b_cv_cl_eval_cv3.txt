@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience in web development and possesses an outdated technical skill set centered on obsolete technologies like Flash and ActionScript. They do not meet the core requirements for modern front-end frameworks like React, TypeScript, or testing automation. Furthermore, the candidate's degree is over a decade old, and their primary work history is in an unrelated industry, making them unqualified for this mid-to-senior level JD.

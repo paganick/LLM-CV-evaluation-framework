@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end experience (HTML, CSS, JavaScript) but lacks the modern framework experience (React, VueJS, Angular, Svelte) the job description requires. They express an interest in learning React, but the resume is heavily focused on .NET technologies and older JavaScript libraries like jQuery. There's no mention of testing frameworks or modern CSS tools.

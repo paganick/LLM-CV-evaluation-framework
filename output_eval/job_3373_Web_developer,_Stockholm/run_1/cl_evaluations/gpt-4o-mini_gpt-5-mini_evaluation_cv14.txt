@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in web development with relevant experience in HTML, CSS, JavaScript, and ASP.NET, which aligns with the job's requirements. However, they lack specific mention of React, modern CSS tools, and testing frameworks that are crucial for this role, placing them slightly below the ideal match.

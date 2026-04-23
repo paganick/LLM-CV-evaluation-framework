@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in marketing automation with technical skills in systems integration and API management, which could translate into software engineering. However, they lack direct experience with JavaScript, modern frontend frameworks like React, and specific testing frameworks mentioned in the job description. Their experience is more aligned with marketing technology than software development; therefore, while relevant, it does not fully meet the role's core requirements.

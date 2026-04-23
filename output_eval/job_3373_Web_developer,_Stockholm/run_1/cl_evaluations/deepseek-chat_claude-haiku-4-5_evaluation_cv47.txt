@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is not in software development and they lack direct, hands-on experience with the core technologies listed in the job description, such as JavaScript, React, TypeScript, and modern frontend tooling. While they demonstrate strong transferable skills in collaboration, learning, and analysis, their technical qualifications are foundational and adjacent rather than specific. This places them in the relevant industry but lacking the specific experience required for the role.

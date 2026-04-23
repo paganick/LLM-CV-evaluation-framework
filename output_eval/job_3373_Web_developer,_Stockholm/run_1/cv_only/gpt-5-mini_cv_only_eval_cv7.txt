@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a long career in graphic design and Adobe tooling (Dreamweaver/Flash) with no evidence of JavaScript/TypeScript, React or any modern frontend framework, testing practices, Git, Node.js, CI/CD, or cloud/infrastructure knowledge required by the role. The candidate is in a different discipline (visual/print/web design) and lacks the essential technical skills and tooling for this frontend engineering position. Therefore they are completely unqualified for the role.

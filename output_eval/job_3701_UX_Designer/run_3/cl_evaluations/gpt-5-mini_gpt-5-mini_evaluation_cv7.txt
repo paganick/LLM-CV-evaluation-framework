@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong, directly relevant experience in Agile product design, user research, prototyping, design systems, stakeholder workshops and mentoring, matching most key requirements. Missing explicit Figma experience and no mention of JavaScript are notable gaps against the job’s desirable technical stack, so this is not a perfect match. Overall very strong fit but falls short of exceeding expectations due to those tool/tech omissions.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but is almost exclusively in Java/J2EE backend and full-stack development with outdated technologies like Struts and JSP. The resume shows no hands-on experience with the required modern frontend stack (React, TypeScript, modern CSS) or testing frameworks. While the cover letter expresses enthusiasm for learning, it does not demonstrate the practical, required skills listed in the job description.

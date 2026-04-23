@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and electronics, but lacks specific expertise in modern front-end technologies specified in the job description, such as JavaScript frameworks (React, VueJS, Angular, Svelte) and testing frameworks (Jest, TestCafe, Cypress). Additionally, there is no mention of skills related to CI/CD tools, API design, or security knowledge, which seems crucial for the role.

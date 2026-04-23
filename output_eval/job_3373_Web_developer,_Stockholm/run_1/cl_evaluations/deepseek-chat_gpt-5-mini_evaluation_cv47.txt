@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development and organic chemistry, not professional front-end development. While they demonstrate strong leadership and problem-solving skills, they lack hands-on experience with the core technologies listed in the job description, specifically JavaScript, React, CSS, testing frameworks, and modern tooling. Their stated eagerness to learn is positive, but they do not meet the current technical requirements for the role.

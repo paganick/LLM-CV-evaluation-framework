@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend development and understands key technologies like JavaScript, HTML, and CSS. However, they primarily focus on .NET and show limited direct experience with React, TypeScript, and modern CSS tools like Styled Components or SASS. Additionally, there is no mention of CI/CD tools or familiarity with the NodeJS ecosystem, which are crucial for the position.

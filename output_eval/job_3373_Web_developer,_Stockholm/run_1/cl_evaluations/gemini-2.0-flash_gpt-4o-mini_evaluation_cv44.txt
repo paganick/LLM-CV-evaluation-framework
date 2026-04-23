@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in UX/UI design, not front-end development, despite having some overlapping skills. While they mention familiarity with HTML, CSS, and some JavaScript, there's a lack of concrete evidence of deep proficiency in React and other requested frameworks like VueJS, Angular and Svelte. They also admit limited experience with testing frameworks and no explicit mention of Git.

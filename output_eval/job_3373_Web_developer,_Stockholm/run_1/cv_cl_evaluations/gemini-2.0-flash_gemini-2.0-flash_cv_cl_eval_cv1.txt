@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates good front-end skills, particularly with React, JavaScript, HTML, and CSS, aligning well with the core requirements. They also possess experience with testing, Git, and Agile methodologies. While they lack explicit mention of TypeScript and some of the "nice-to-have" technologies, their overall profile is a strong match.

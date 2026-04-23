@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in design and technical skills related to JavaScript, HTML, and modern frameworks, aligning well with the job requirements. However, the lack of specific experience with some technologies mentioned, such as testing frameworks and CI/CD tools, along with limited familiarity with API design and AWS, prevents a higher score.

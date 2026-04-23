@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates a foundational understanding of many required areas, such as Agile, Git, and basic security concepts. However, the cover letter reveals significant gaps against the job description, including a lack of direct experience with React, TypeScript, and modern testing frameworks, and an admission of limited formal testing experience. The background is heavily weighted in project management, making the transition to a dedicated frontend developer role a potential risk.

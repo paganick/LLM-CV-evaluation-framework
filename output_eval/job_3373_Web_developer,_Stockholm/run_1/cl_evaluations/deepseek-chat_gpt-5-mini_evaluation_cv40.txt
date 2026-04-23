@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong leadership experience and a relevant industry background, but the role requires hands-on technical implementation. While they demonstrate strategic understanding of modern front-end practices and express eagerness to learn, they lack proven, direct experience with the specific technologies (React, TypeScript, testing frameworks) listed as core requirements in the job description. Their value is primarily in product leadership and Agile process, not in current, individual contributor-level technical skills.

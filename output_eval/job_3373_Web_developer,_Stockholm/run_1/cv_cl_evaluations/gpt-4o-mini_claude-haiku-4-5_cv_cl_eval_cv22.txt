@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some foundational technical skills, particularly with HTML, CSS, and basic JavaScript, but lacks specific experience with modern frontend frameworks like React, which is critical for the role. While they show eagerness to learn and adapt, their background in marketing and consulting does not provide enough relevant experience in frontend development or testing frameworks required in the job description.

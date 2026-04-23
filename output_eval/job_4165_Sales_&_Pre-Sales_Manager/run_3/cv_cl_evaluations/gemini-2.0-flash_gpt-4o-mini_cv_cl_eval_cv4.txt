@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has business development and sales experience, but lacks specific digital solutions experience mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, Design Thinking, UX Research). While the cover letter mentions experience in digital marketing and strategies, it does not provide enough detail on experience with the specific technology platforms or solution sales required. The resume lacks depth in enterprise client interaction.

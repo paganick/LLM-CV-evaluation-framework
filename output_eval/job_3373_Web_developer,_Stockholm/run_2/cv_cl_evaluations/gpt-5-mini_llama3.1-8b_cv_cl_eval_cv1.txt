@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate has relevant web and test-automation experience (React, HTML/CSS/SASS, Selenium/Cucumber, Git, Jenkins, AWS) and demonstrates solid engineering fundamentals and Agile experience. However, they lack explicit TypeScript experience, modern JavaScript testing frameworks (Jest/Cypress/TestCafe), deeper Node/Express/Yarn ecosystem usage, and no stated knowledge of web security practices or linters/formatters required by the role. These missing, role-critical front-end and JS-tooling skills prevent a stronger match.

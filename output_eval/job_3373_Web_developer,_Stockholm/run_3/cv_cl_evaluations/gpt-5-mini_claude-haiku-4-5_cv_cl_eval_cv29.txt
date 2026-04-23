@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is senior business development and marketing with no demonstrated hands‑on frontend engineering experience or proficiency in JavaScript/TypeScript, React, modern testing frameworks, or Node tooling required by the role. The cover letter expresses enthusiasm and some adjacent familiarity (APIs, AWS, Git) but provides no concrete examples of coding, projects, or technical deliverables. Given the role's technical demands, this profile does not meet the minimum qualifications.

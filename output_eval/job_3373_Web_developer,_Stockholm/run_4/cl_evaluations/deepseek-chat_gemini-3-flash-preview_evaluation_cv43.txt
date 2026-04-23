@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, including React, TypeScript, testing, Git, and functional programming with Ramda. However, the cover letter heavily emphasizes program management and design experience over hands-on frontend development, creating some uncertainty about the depth and recency of their technical implementation skills. Their unique background is an asset, but the direct evidence of building production applications with the specified tech stack is implied rather than explicitly detailed.

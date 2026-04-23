@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a backend-heavy Java developer whose experience centers on legacy technologies like Struts, EJB, and JSP, which does not align with the required modern frontend stack of React, TypeScript, and Node.js. There is no evidence of proficiency in modern CSS tools, functional programming, or the specific testing and CI/CD frameworks requested. While the candidate has significant IT experience, they lack nearly all the mandatory technical skills defined in the job description.

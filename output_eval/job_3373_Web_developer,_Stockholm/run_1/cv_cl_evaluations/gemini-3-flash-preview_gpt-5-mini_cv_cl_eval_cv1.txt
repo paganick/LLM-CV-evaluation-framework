@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java-focused developer whose professional experience is heavily weighted toward backend services and Selenium-based test automation rather than modern frontend engineering. They lack critical requirements such as TypeScript, functional programming expertise, and experience with modern JavaScript testing frameworks like Jest or Cypress. Furthermore, the resume shows no professional activity since 2017, raising significant concerns regarding the recency of their skills in a rapidly evolving React ecosystem.

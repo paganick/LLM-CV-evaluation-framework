@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a media production background with no verifiable hands-on experience in core front-end technologies required for the role (React, TypeScript, modern JS frameworks, testing frameworks, NodeJS, CI/CD, AWS/Terraform). The cover letter claims familiarity with web development tools but the resume provides no code samples, repositories, or technical roles to substantiate those claims. Strong project management and collaboration skills are transferable, but the candidate does not meet the technical baseline for this front-end developer position.

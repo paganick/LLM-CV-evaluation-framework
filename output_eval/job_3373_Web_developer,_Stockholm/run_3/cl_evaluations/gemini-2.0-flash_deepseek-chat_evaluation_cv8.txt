@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in the core technologies (JavaScript, TypeScript, React, HTML, CSS, Git, testing). Their background in test engineering and automation aligns well with the job description's emphasis on testing. While the candidate comes from a different industry, their proactively built skills in modern web development and Agile experience make them a strong contender.

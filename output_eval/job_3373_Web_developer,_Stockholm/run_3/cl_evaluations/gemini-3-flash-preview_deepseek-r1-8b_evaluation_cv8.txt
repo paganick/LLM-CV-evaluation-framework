@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over a decade of general test engineering experience, their background is primarily in hardware and system-level testing rather than the web-based environment required. They lack the mandatory proficiency in JavaScript, TypeScript, and React, and they admit to only having an interest in—rather than experience with—critical web security principles and the NodeJS ecosystem. The profile is fundamentally misaligned with the specific frontend-heavy technology stack and web application domain requested in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core mandatory technologies, specifically React, TypeScript, and modern automated testing frameworks like Jest or Cypress. While they possess extensive experience in general IT and legacy web development (PHP, WordPress), their profile does not demonstrate the required proficiency in contemporary front-end ecosystems, functional programming, or CI/CD workflows.

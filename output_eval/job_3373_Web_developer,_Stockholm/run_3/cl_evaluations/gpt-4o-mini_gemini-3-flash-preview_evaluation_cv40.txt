@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate presents a strong background in relevant technologies such as JavaScript, TypeScript, CSS, and experience with modern frameworks like React. They demonstrate familiarity with testing frameworks and CI/CD tools, matching many job requirements. However, there is no mention of security knowledge as specified in the job description, which impacts their overall fit.

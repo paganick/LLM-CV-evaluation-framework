@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position. With two years of experience in web development, specializing in front-end technologies, I am confident I possess the skills and passion to excel in this role and contribute to your team's success.
+
+My background includes proficiency in JavaScript, HTML, CSS, and experience with front-end frameworks. While my experience primarily revolves around .NET technologies like C#, ASP.Net, and ASP.Net MVC, I have a solid foundation in the core web development languages mentioned in your job description.
+
+I have experience with testing and test automation, using tools and techniques for unit, integration, and client-side validations. I am also familiar with Git and repository hosting services like GitHub.
+
+In my previous role as a Database Programmer/Analyst at the Application Development Network (ADN), I actively participated in the Software Development Life Cycle (SDLC) and used Agile methodologies. I am a strong collaborator and have experience working within cross-functional teams to meet project deadlines and expectations.
+
+I am eager to learn and adapt to new technologies, demonstrated by my previous project responsibilities. I am comfortable interacting with other teams and dedicated to writing clean, maintainable code.
+
+Thank you for considering my application. I am excited about the opportunity to discuss how my skills and enthusiasm can benefit your team.
+
+Sincerely,
+Alexis

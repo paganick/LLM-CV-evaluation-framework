@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong design background with some HTML/CSS experience, but lacks the required JavaScript, TypeScript, and modern FE framework experience (React) as stated in the job description. While the candidate expresses a willingness to learn, the letter highlights design skills over the core technical skills needed for the role. The lack of testing, Git, and other tooling experience further diminishes the fit.

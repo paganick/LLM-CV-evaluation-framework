@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend and full-stack development, not the modern front-end focus required. While they mention React and some desired tools in the cover letter, their resume lacks concrete, professional experience with React, TypeScript, modern testing frameworks, or the specific functional programming and tooling (e.g., Ramda, CircleCI) listed. Their background is in a different tech stack, making them a relevant industry candidate but lacking the specific, hands-on skills for this front-end role.

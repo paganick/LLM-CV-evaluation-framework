@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in software development and has worked with many relevant technologies, including modern front-end frameworks and testing tools. However, the cover letter lacks mention of specific experience with TypeScript, modern CSS tools, and CI/CD tools, which are mentioned in the job description. Overall, the candidate demonstrates a solid foundation and relevant experience but does not fully meet all the requirements.

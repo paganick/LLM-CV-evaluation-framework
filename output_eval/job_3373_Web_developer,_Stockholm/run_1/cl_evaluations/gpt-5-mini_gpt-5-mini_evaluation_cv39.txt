@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong visual design, HTML/CSS and production experience and strong collaboration skills which are relevant to front-end work. However, the cover letter does not show hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git/CI-CD, Node/npm, or functional tools like Ramda. While motivated to learn modern front-end technologies, the current skill set falls short of the job's immediate technical expectations.

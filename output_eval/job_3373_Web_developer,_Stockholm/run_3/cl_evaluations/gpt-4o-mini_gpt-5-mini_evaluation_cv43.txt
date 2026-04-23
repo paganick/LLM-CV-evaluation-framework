@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in program design and technical communication, but lacks direct hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they express confidence in their ability to learn, the absence of specified experience in testing frameworks, Git, and web security principles needed for the role results in a lower score.

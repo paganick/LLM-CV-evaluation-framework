@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing professional with no professional experience in software development or the modern frontend stack required for this role. While the cover letter mentions relevant technologies like React and TypeScript, the resume reveals only basic academic exposure to Java and SQL, with the bulk of their career spent in media planning and buying. This candidate is completely unqualified for a mid-to-senior level engineering position in the tech industry.

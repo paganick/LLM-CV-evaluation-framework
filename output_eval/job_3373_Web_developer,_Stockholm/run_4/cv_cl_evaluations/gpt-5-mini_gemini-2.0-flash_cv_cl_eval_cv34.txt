@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant web experience (HTML, CSS, SQL), strong documentation and client-facing skills, and a willingness to learn, but their resume shows no demonstrated experience with JavaScript/TypeScript, React, front-end testing/automation, Git/repo workflows, NodeJS tooling, modern CSS tools, or CI/CD/cloud knowledge required for this role. This is a relevant-industry profile transitioning from marketing/implementation rather than a qualified front-end developer, so they lack the specific technical skills to be a strong fit.

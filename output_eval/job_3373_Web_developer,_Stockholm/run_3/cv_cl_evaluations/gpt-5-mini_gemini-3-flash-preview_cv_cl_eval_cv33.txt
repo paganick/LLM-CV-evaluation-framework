@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume shows a career in banking, sales, and training with no demonstrable hands-on frontend development experience, code samples, or technical work history to validate claims in the cover letter. Key requirements—proven JavaScript/TypeScript and React experience, Git/GitHub usage, testing automation, and Node/CI workflow evidence—are absent from the résumé. While the cover letter asserts familiarity with these technologies, that is uncorroborated and insufficient for a frontend engineering role.

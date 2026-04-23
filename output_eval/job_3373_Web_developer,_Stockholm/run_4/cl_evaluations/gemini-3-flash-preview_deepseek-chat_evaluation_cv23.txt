@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required technical stack, including React, TypeScript, and modern CSS tools, which are core necessities for this role. While the applicant has a background in hardware validation, they do not demonstrate the requested hands-on proficiency in software test automation, Git, or web security protocols. Consequently, the profile represents a career transitioner who does not currently meet the specific technical benchmarks defined in the job description.

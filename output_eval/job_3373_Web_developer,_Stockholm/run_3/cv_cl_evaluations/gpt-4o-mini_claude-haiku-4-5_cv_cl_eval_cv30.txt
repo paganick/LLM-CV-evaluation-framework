@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in data analytics and engineering, but lacks specific experience with the modern frontend technologies outlined in the job description, such as React, TypeScript, and various testing frameworks. While they possess foundational knowledge in HTML and ASP.NET, their experience does not sufficiently align with the requirements for a Frontend Developer role, particularly in terms of hands-on experience with the desired technologies and frameworks.

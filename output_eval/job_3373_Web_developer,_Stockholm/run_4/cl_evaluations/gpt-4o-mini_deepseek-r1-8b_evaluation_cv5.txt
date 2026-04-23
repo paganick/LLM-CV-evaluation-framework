@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in complex system development, particularly within the banking sector, which provides a solid foundation. However, while they express a willingness to learn modern web technologies, they lack hands-on experience with the required JavaScript frameworks, testing automation, and other specific skills highlighted in the job description, limiting their immediate relevancy for the role.

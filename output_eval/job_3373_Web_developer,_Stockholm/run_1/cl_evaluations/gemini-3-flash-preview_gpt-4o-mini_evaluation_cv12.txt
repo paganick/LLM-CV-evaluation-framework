@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong proficiency in the core technical stack, including React, AWS, and testing automation. However, they failed to explicitly mention TypeScript, which is a primary requirement, or experience with functional programming and CI/CD tools. While the seven years of experience is significant, these omissions regarding specific modern development practices prevent a perfect match.

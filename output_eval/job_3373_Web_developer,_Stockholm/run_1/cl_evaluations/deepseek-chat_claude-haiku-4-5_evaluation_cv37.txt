@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT leadership and management, not hands-on frontend development. While they demonstrate strategic understanding and mention relevant concepts, the cover letter lacks specific, direct experience with the core technologies listed in the job description (e.g., JavaScript, TypeScript, React, testing frameworks). The application attempts to translate high-level experience into a developer role but does not convincingly prove the required technical proficiency.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general IT experience, they lack the specific modern frontend stack required, including React, TypeScript, and automated testing frameworks like Jest or Cypress. Their background is primarily focused on systems administration, CMS management, and general IT consulting rather than modern web application development. Key requirements such as functional programming, CI/CD tools, and modern CSS methodologies are entirely missing from their professional history.

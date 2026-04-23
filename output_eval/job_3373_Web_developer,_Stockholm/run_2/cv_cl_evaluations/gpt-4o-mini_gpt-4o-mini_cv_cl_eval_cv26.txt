@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in communication and project management but lacks the necessary technical skills and experience in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React, which are critical for the role. While there is an indication of a willingness to learn, the absence of relevant practical experience in software development and testing automation frameworks limits their qualifications for this position.

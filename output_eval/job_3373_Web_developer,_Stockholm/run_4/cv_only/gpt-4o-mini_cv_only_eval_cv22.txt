@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks significant experience in web development, specifically with JavaScript, TypeScript, and modern frontend frameworks like React, which the job description emphasizes. Although they have some knowledge of HTML and CSS, the rest of their experience is primarily in advertising and media planning, making them unqualified for a technical role focused on software and web technologies.

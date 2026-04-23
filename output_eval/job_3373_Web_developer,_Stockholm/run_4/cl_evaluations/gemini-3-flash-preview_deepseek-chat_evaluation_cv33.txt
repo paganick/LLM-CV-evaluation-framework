@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has meticulously aligned their self-taught technical stack with the job description, they possess zero professional experience in software engineering. As a career pivoter from banking, they lack the proven track record of operating within a production-grade codebase or a professional Agile development lifecycle. Despite their strong soft skills, the absence of prior industry experience for a role requiring specialized knowledge like API design and AWS makes them a high-risk applicant.

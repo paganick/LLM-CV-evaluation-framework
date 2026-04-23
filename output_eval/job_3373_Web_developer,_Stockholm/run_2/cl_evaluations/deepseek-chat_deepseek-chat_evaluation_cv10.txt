@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong relevant background in front-end development, Agile, and testing, aligning well with core requirements. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, modern CSS tools, specific testing frameworks (Jest, Cypress), and functional programming with Ramda. While adaptable, the direct experience is more aligned with AngularJS and Java, not the specific React and modern toolchain emphasized.

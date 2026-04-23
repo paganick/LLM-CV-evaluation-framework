@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in the digital space, particularly with mobile applications and financial products. The cover letter highlights experience with client-facing engagements and pre-sales activities. However, the resume lacks specific experience with API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI or Design Thinking and Digital Sales which are listed as requirements in the job description.

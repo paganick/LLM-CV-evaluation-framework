@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has significant experience in the software industry and mentions relevant technical skills such as JavaScript, TypeScript, and experience with React. However, they lack specific hands-on experience with some required testing frameworks and technologies mentioned in the job description, which prevents a higher score.

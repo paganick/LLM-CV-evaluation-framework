@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in production and design but lacks direct hands-on experience with the specific front-end technologies and frameworks mentioned in the job description, such as React, testing frameworks, and the Node ecosystem. While their willingness to learn is noted, they do not demonstrate proficiency in the required programming languages or tools which is critical for this role.

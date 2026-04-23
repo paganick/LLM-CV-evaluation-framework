@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Java background but lacks sufficient experience with the core front-end technologies listed in the job description, like React, TypeScript, and modern CSS tools. While they express interest in these areas and have some JavaScript and HTML experience, the resume highlights primarily backend skills. The cover letter attempts to bridge this gap, but the lack of concrete front-end project experience is a significant weakness.

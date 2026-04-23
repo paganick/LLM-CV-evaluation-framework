@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer who fails to meet the fundamental technical requirements of the role, admitting to only currently learning core technologies like JavaScript, React, and Git. They lack the mandatory "hands-on experience" with testing frameworks and web security, presenting instead a background in sales and leadership. While the candidate possesses strong soft skills, their lack of professional development experience and technical proficiency makes them unqualified for this specific engineering position.

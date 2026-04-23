@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight program management and learning design experience, lacking the required front-end development skills (JavaScript, React, etc.) specified in the job description. While the cover letter mentions a willingness to learn, the absence of any relevant technical background makes them unqualified for this role. Their skills in R studio and Salesforce are not applicable to the technologies listed in the job description.

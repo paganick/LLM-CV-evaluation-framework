@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of experience in web development and leadership, they lack professional proficiency in the core required technologies, including React and TypeScript. Most of the critical technical requirements, such as modern testing frameworks (Jest/Cypress), security protocols, and CI/CD tools, are listed as future learning goals rather than existing skills. As a strict recruiter, this profile is categorized as a Drupal specialist attempting to pivot, but currently lacking the specific frontend expertise required for this position.

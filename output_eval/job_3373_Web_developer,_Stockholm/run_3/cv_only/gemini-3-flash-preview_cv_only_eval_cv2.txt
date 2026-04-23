@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a legacy backend developer with an expertise in Java and Struts, which does not align with the core requirements for a modern frontend role focusing on React and TypeScript. There is no evidence of experience with modern JavaScript libraries, CSS-in-JS, functional programming, or contemporary CI/CD and cloud infrastructure. The profile lacks almost every mandatory technical skill and toolset specified in the job description.

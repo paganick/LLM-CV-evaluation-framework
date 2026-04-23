@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE back-end development with only brief, dated exposure to front-end via AngularJS, which does not meet the requirement for modern React experience. While they mention Agile collaboration and some testing, they lack demonstrated hands-on experience with the specific modern tools, frameworks (React, testing libraries, Node.js ecosystem), and security concepts listed in the job description. Their background is in a relevant industry but is a significant mismatch for the specific front-end developer role.

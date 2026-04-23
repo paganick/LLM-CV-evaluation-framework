@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core requirements of the role, specifically React and TypeScript, which are essential for this position. While they possess two years of general software engineering experience, their background is heavily rooted in the .NET ecosystem and legacy libraries like jQuery rather than modern front-end frameworks and automated testing suites. Additionally, the application fails to demonstrate hands-on experience with modern web security protocols or the Node.js ecosystem requested in the job description.

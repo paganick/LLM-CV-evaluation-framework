@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their professional background is in administrative management, plant operations, and the fine arts rather than software engineering. They lack experience with essential requirements such as JavaScript, TypeScript, React, and testing frameworks. While they mention basic HTML and web design, they do not possess the professional software development expertise required for this position.

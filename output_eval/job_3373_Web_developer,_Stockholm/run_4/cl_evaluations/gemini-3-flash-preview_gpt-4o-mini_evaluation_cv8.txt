@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive experience in test engineering and automation, they lack professional experience as a Frontend Developer. Their knowledge of core requirements like React is self-described as introductory or in-progress, and they fail to mention proficiency in TypeScript or specific testing frameworks like Jest or Cypress. The profile suggests a career pivot rather than a qualified developer who can immediately contribute to building complex frontend architectures.

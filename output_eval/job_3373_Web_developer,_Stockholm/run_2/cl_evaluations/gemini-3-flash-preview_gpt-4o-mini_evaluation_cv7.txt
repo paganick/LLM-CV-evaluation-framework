@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in graphic design and understands the core frontend stack, their professional history is primarily design-focused rather than engineering-heavy. They lack demonstrated, hands-on professional experience with several critical requirements, such as TypeScript, React, and CI/CD, framing these as areas for future growth rather than existing expertise. Consequently, they do not meet the threshold for a senior-level developer capable of immediately handling the complex technical stack and domain knowledge required.

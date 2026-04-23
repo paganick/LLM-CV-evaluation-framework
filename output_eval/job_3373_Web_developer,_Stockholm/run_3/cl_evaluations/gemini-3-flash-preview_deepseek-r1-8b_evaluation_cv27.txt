@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, such as JavaScript, React, or TypeScript, focusing instead on irrelevant experience in choreography and administrative operations. While they mention Agile, they provide no evidence of software development experience or hands-on expertise with testing, CI/CD, or cloud infrastructure. Attempting to equate report writing with "clean code" suggests a fundamental misunderstanding of the technical requirements for this engineering role.

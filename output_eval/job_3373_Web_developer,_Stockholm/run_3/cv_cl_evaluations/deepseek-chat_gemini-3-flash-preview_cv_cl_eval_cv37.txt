@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT project management and infrastructure, not front-end development. While the cover letter attempts to map managerial experience to technical requirements, the resume provides no evidence of hands-on coding, modern FE frameworks (React, Vue, etc.), or the specific tools listed. This is a significant career pivot with no demonstrated practical skills for the role.

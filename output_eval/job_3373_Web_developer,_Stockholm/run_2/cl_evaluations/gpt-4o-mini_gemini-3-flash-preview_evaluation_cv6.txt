@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in frontend development with relevant experience in JavaScript, AJAX, and modern frameworks, although their primary experience lies with Drupal rather than React specifically. They have a solid understanding of testing frameworks and show proficiency in collaboration within an Agile environment, which aligns well with the job requirements. However, they lack explicit experience with TypeScript, which is emphasized in the job description.

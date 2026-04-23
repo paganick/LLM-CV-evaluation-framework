@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates significant sales leadership and revenue generation but lacks the specific expertise in Application Services, API, or Cloud technologies required by the job description. Their technical examples, such as VoIP and POS integrations, are tangential to the modern digital solutions (AI/ML, Data Science) the role focuses on. While they meet the experience duration and global coordination requirements, the lack of direct domain alignment represents a significant gap under strict criteria.

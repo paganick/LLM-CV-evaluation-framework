@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in program management and design but lacks specific hands-on experience in front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they show a willingness to learn, their background does not align closely with the technical requirements outlined in the job description. Additionally, there is no mention of experience with testing, CI/CD tools, or a solid grasp of web security practices.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in electronics and hardware testing, which is not the focus of the job description. While they mention some relevant web technologies in the cover letter, the resume lacks concrete experience with modern FE frameworks like React, and the emphasis is on test engineering in a different domain. The candidate's experience with Python is a plus, but overall, the skills and experience are not a strong match for the role.

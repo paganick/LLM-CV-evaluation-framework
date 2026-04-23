@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has over seven years of software engineering experience and a strong foundation in JavaScript, HTML, and CSS, making them a decent fit for the role. However, they lack direct experience with React and TypeScript, which are essential for this position. Their familiarity with Git, testing, and CI/CD tools suggests they are capable but may need a ramp-up period on the specific technologies mentioned in the job description.

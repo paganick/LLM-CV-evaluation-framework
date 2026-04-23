@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in construction and project management, lacking any demonstrable experience with the required technologies (JavaScript, React, etc.). The cover letter admits a lack of direct experience and only mentions "self-study," indicating a significant skills gap. This candidate is completely unqualified for a front-end developer role.

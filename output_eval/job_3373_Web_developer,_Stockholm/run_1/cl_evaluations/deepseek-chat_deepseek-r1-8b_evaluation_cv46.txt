@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, direct match with the core technical requirements and mentions specific tools from the job description. However, the cover letter lacks explicit mention of several desirable skills like Node.js, functional programming (Ramda), API design, AWS/Terraform, and modern CSS tools, which prevents a higher score. The language is also somewhat generic and does not explicitly address key soft skills like interacting with external partners or a keenness to understand the full domain.

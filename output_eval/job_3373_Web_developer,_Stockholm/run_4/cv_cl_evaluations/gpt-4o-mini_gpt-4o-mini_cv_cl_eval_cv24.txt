@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in digital communications and project management but lacks direct experience with the required front-end development skills like JavaScript frameworks, particularly React. While they demonstrate familiarity with HTML and CSS, their resume does not indicate hands-on experience with testing frameworks, security knowledge, or CI/CD tools. Overall, while they bring valuable skills from a relevant industry, they do not meet the specific technical requirements for the role.

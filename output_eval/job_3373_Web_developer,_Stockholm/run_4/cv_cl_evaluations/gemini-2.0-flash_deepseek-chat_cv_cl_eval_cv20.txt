@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development but lacks direct experience with the specific technologies mentioned in the job description, such as React, TypeScript, and modern CSS tools. While the cover letter expresses interest in learning these technologies, the resume primarily highlights experience with older .NET technologies. The candidate's experience with testing and CI/CD tools is not clearly demonstrated.

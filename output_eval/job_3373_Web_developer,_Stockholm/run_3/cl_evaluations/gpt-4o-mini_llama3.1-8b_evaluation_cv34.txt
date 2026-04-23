@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in project management and some applicable technical skills, particularly with Salesforce Marketing Cloud and web technologies like HTML, CSS, and SQL. However, they lack specific experience with the required JavaScript frameworks (React, VueJS, etc.), modern CSS tools, and testing frameworks listed in the job description. Overall, while there are transferable skills, there are key gaps in experience that do not fully meet the requirements for the role.

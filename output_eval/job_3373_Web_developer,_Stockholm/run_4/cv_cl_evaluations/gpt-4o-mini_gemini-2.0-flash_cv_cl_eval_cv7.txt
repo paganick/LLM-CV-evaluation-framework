@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design with over 15 years of experience; however, there is a significant lack of relevant experience in key front-end development technologies such as JavaScript, TypeScript, React, or any modern front-end frameworks. While they express eagerness to learn these technologies, their current skill set does not align well with the technical requirements of the position.

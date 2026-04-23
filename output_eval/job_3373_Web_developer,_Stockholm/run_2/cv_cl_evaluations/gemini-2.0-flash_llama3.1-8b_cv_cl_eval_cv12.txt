@@ -1,0 +1,2 @@
+Score: [5]
+Reasoning: The candidate demonstrates some front-end skills like HTML, CSS, and JavaScript, but lacks specific experience with modern FE frameworks besides mentioning React in the cover letter without backing it up in the resume. The resume showcases more PHP and older technologies, and fails to mention testing frameworks, CI/CD, or cloud experience listed in the job description. The candidate's experience does not closely align with the job requirements.

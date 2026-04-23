@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications and a willingness to learn front-end development skills. However, they lack direct hands-on experience with essential technologies and tools mentioned in the job description, such as testing frameworks, Git, and modern CSS tools. Their experience with security practices is noted, but overall, they do not fully meet the requirements for a strong candidate in this specific role.

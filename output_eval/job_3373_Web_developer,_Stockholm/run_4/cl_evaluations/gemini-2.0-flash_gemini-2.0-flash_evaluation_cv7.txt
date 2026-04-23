@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking the required JavaScript, TypeScript, HTML, CSS, and modern FE framework experience. While adaptability and a passion for clean code are mentioned, there's no concrete evidence of hands-on experience with the specific technologies listed in the job description, especially React, testing frameworks, and other essential tools. The letter emphasizes design skills over development expertise.

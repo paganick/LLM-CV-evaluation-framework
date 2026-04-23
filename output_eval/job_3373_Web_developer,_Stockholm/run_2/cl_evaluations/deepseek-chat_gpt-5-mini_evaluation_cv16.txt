@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and foundational front-end skills, but lacks direct, professional experience with the core technologies listed in the job description, specifically React, TypeScript, and modern CSS tooling. Their background is heavily weighted toward .NET and server-side work, and they explicitly state they are seeking to *gain* experience with the required stack. While they demonstrate strong general engineering principles and a willingness to learn, they do not currently meet the hands-on requirements for the role.

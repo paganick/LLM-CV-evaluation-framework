@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in Graphic Design and experience with HTML and CSS, which is relevant to the Front End Developer position. However, they do not demonstrate experience with essential requirements such as JavaScript, TypeScript, testing frameworks, or modern FE libraries like React, which limits their qualification for the role. Additionally, they lack knowledge of important tools and practices mentioned in the job description.

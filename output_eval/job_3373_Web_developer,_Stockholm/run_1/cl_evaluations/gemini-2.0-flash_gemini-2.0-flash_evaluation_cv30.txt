@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and quality testing, not front-end development. While they express interest in learning React, they lack direct experience with the core technologies listed in the job description (JavaScript, TypeScript, modern FE frameworks). The letter highlights transferable skills like communication and problem-solving, but misses crucial technical qualifications.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including extensive React-readiness, modern CSS tools, testing discipline, and Agile collaboration. The 18 years of broad IT and consulting experience exceeds the baseline requirements, adding valuable systems and project leadership depth. Points are deducted for not explicitly mentioning several specific technologies from the job description, such as TypeScript, security fundamentals (OWASP/CORS), and the specific Node.js/Ramda ecosystem.

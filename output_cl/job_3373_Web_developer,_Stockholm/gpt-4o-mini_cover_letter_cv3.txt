@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the web developer position at your company. With a Bachelor of Science in IT - Web Multimedia and Animation from Kaplan University and a strong foundation in front-end technologies, I am eager to leverage my skills in JavaScript, HTML, CSS, and modern frameworks like React as I transition into a web development career.
+
+Throughout my coursework, I developed a fully functional, database-driven e-commerce website utilizing PHP/MySQL and gained hands-on experience in interactive web technologies, including JavaScript and ActionScript. My educational background has equipped me with a solid understanding of responsive design, user interfaces, and the importance of maintaining clean, efficient code — values that align with your emphasis on code quality.
+
+Although I am at the beginning of my professional experience in web development, my 15 years in the construction industry have honed my problem-solving skills and attention to detail. In that time, I consistently used systematic approaches to improve efficiency and reduce errors, qualities that I believe would translate well into an Agile development environment. I thrive in collaborative settings and enjoy working across teams to understand complex systems and contribute to shared goals.
+
+I am particularly drawn to your commitment to staying current with the latest technologies and techniques in web development. I continuously seek to expand my knowledge and skills, with a keen interest in modern CSS tools, testing frameworks, and additional programming languages, including Ruby and frameworks like SASS. Furthermore, my basic knowledge of web security principles, such as OWASP, CSP, and OAuth, will allow me to contribute effectively to your team's efforts in maintaining secure web applications.
+
+Although I am transitioning into this new field, I am dedicated to cultivating my expertise in JavaScript frameworks, API design, and CI/CD tools. I am enthusiastic about the possibility of being part of a team that prioritizes clean code and innovative solutions.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your team and further develop my skills in a dynamic and challenging environment.
+
+Sincerely,  
+Alexis

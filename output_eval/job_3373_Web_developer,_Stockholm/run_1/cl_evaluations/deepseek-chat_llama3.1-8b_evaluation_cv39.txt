@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive graphic design background is in a relevant industry, but the cover letter demonstrates a critical lack of specific, hands-on experience with the core technical requirements. While they mention React, Git, and security concepts, they provide no evidence of practical application with modern front-end frameworks, testing, or the extensive toolchain listed. The letter focuses on design skills and freelance management, failing to substantiate proficiency in the software engineering and development practices demanded by the role.

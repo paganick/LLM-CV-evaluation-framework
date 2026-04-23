@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the core frontend stack, specifically JavaScript, TypeScript, and React, as their background is primarily in Industrial Engineering and Data Analysis. While they mention relevant tools like Jest and Cypress, these appear as conceptual interests rather than demonstrated skills in a production environment. The transition from data-focused Python/R work to frontend development is not sufficiently supported by a history of building or maintaining web applications.

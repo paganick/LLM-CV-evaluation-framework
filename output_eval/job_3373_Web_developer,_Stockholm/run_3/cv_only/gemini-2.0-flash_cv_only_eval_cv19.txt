@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume primarily focuses on graphic design and lacks the required JavaScript, TypeScript, and modern FE framework experience. While they possess HTML/CSS skills, the absence of other essential technologies and a relevant professional background makes them unsuitable for this role. Their experience leans heavily toward graphic design, electrical work, and machine operation, which do not align with the front-end developer requirements.

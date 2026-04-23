@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a solid background in IT with considerable experience in web design and development. However, their specific hands-on experience with modern front-end frameworks like React is unclear, which is crucial for the role. Additionally, while they show some knowledge of testing and automation, they do not explicitly mention experience with the required tools such as Jest or Cypress.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with JavaScript, HTML, and CSS, and claims React experience in their cover letter. However, the resume focuses heavily on Java and older technologies like AngularJS, with no concrete React projects listed. The cover letter seems to embellish the candidate's skillset, and there is a significant disconnect between the technologies mentioned in the job description and the candidate's actual experience.

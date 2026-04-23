@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings relevant cloud industry and cross-functional collaboration experience but provides no demonstrated, hands‑on expertise with core front-end technologies required (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, or Node/CI tooling. The cover letter emphasizes transferable skills and learnability but lacks concrete evidence of the technical competencies essential for this role. Given the significant technical gaps, the candidate is not currently qualified for the position.

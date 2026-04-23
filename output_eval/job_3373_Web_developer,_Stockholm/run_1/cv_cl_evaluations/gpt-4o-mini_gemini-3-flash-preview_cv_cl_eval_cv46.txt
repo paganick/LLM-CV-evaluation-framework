@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and a strong foundation in core web technologies like JavaScript, HTML, and CSS, which is beneficial. However, they lack specific hands-on experience with modern frontend frameworks like React, and there is no mention of familiarity with testing frameworks or modern CSS tools that are critical for the role. While they show a willingness to learn and a passion for clean code, the lack of certain key skills and technologies raises concerns about their fit for the position.

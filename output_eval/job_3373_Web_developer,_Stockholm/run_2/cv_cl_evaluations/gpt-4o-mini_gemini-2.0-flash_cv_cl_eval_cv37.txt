@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project and IT management but lacks direct experience with modern front-end technologies such as React, TypeScript, and the associated testing frameworks mentioned in the job description. Although they exhibit interest in web development, their technical skills in JavaScript, HTML, and CSS appear to be basic and not at the level required for this role. Overall, while there are relevant industry experiences, the specific experience and skills required for this position are lacking.

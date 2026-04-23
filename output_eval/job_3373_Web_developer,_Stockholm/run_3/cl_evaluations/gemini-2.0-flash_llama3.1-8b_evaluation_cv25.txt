@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, which is a significant departure from the front-end development requirements. While transferable skills and a willingness to learn are mentioned, the lack of direct experience with JavaScript, TypeScript, React, and testing frameworks is a major drawback. The cover letter relies heavily on potential and transferable skills rather than demonstrable experience in the required technologies.

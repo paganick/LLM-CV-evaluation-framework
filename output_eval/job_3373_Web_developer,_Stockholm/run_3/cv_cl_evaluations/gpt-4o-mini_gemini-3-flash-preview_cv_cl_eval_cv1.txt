@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong experience in JavaScript, React, HTML, and CSS, which matches the job description well. They demonstrate familiarity with modern frameworks and testing methods, including automated testing and Agile methodologies. However, while they mention AWS, their exposure seems limited compared to other requirements such as CI/CD tools or functional programming with Ramda, which prevents them from scoring higher.

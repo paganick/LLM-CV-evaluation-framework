@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Frontend Developer position, as advertised. With over eight years of professional software development experience and a proven track record of delivering robust web applications, I am confident that my technical foundation and agile mindset align perfectly with your requirements.
+
+My career has been built on a strong core of Java/J2EE development, where I have consistently applied modern software engineering principles. I possess deep, hands-on experience in the full development lifecycle—from design and coding to rigorous unit testing—using frameworks like Spring and Struts. This background has instilled in me a genuine passion for writing clean, maintainable code and a thorough understanding of Object-Oriented Methodology and Design Patterns. My Sun Certified Java Programmer certification further solidifies this foundational expertise.
+
+While my professional history is rooted in Java, my personal interest has always been in keeping pace with the latest technologies. I have proactively cultivated the skills you seek. I have built practical knowledge in JavaScript, TypeScript, HTML, and CSS, and I am actively developing proficiency in React. My experience with Git for version control, a strong collaborative approach honed in Agile environments, and a keen understanding of the importance of testing and code quality (using tools like PMD and Findbugs) are directly transferable. I am particularly adept at interacting with cross-functional teams and partners to understand broader domain contexts, as evidenced by my involvement in requirement gathering and design discussions on complex projects.
+
+Furthermore, I am eager to deepen my knowledge in your specific tech stack, including modern CSS tools, testing frameworks like Jest, and the Node.js ecosystem. My exposure to automation domains and system integration projects demonstrates my capacity to quickly learn and adapt to new platforms and paradigms, such as functional programming with Ramda.
+
+I am excited by the opportunity to contribute my strong backend and systems thinking to your frontend team, leveraging my experience to build secure, scalable, and high-quality web applications. Thank you for considering my application. I look forward to discussing how my skills and enthusiasm can benefit your team.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT infrastructure and support, not professional front-end development, which is the core requirement. While they demonstrate strong transferable soft skills and express motivation to learn, they lack any proven, hands-on experience with the key technologies listed in the job description (React, TypeScript, modern testing frameworks, etc.). Their experience with web tools is tangential (WordPress, Photoshop), not equivalent to engineering with modern frameworks and libraries.

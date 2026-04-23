@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a background in media production and film, with no relevant experience or skills in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks such as React. Additionally, there is no indication of experience with test automation, CI/CD tools, or familiarity with the NodeJS ecosystem, which are crucial for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive general IT and legacy web development experience, they lack the specific modern frontend expertise required, most notably React and TypeScript. The resume shows no evidence of experience with modern testing frameworks, CI/CD pipelines, or cloud infrastructure like AWS. Their profile is more suited to systems administration and general IT consulting than modern frontend software engineering.

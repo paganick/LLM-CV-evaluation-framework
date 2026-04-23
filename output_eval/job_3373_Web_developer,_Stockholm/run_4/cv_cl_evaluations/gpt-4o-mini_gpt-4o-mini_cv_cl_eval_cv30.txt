@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML and CSS, as well as familiarity with Git and testing methodologies. However, they lack direct experience with JavaScript frameworks like React, VueJS, or Angular, which are critical for this role. Additionally, the candidate has limited exposure to modern front-end development practices and tools, making them a less ideal fit for the position.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the position at your esteemed organization, where I can leverage my skills in software development and passion for writing clean code. With over 8 years of experience as an ASP.NET Web Developer, I am confident that my expertise will be a valuable addition to your team.
+
+In my current role at CYIENT, I have successfully migrated complex applications from legacy systems to modern frameworks, including the migration of IU Print website from ColdFusion to ASP.Net using MVC Framework. My extensive experience with ASP.NET 4.0/3.5/2.0 and MVC 4 has equipped me with a solid understanding of web development principles.
+
+As a strong collaborator and agile enthusiast, I have worked effectively in cross-functional teams to deliver projects such as DEBTS, eRFA, Supplier Portal, and Export Logging Tool. My experience with SharePoint 2010, SQL Server 2012, and ASP.Net has allowed me to develop robust web-based applications that meet business requirements.
+
+In addition to my technical expertise, I have a strong passion for staying up-to-date with the latest technologies. I am well-versed in modern front-end frameworks like React and have experience with testing frameworks (Jest, TestCafe, Cypress etc.) and linters/formatters (ESLint and Prettier). My proficiency in NodeJS ecosystem, npm, Yarn, Express.js has also given me a solid foundation in back-end development.
+
+As a team player, I thrive in environments where collaboration and knowledge-sharing are encouraged. My experience with Git and repo hosting services like GitHub has allowed me to effectively manage code repositories and collaborate with cross-functional teams.
+
+I am particularly drawn to this role at your organization because of the opportunity to work with cutting-edge technologies and contribute to innovative projects. I am confident that my skills, passion for clean code, and experience in agile development environments make me an ideal candidate for this position.
+
+Thank you for considering my application. I look forward to discussing how my skills and experience align with the requirements of this role.
+
+Sincerely,
+Alexis

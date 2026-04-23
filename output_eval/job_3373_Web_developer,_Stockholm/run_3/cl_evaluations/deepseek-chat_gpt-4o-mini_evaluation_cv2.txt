@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates some foundational front-end skills and an understanding of agile processes. However, they lack direct, hands-on experience with the core technologies listed in the job description, specifically React, TypeScript, and modern front-end testing frameworks. Their experience is heavily weighted toward back-end Java development, making them a partial but insufficient match for this specific front-end role.

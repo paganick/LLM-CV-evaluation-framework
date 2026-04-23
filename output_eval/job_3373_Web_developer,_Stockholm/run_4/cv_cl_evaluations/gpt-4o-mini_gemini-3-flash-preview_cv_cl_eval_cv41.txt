@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in systems engineering and IT support but lacks direct experience with modern front-end frameworks such as React, even though they express interest in learning. They have some relevant technical skills, including knowledge of security principles and testing methodologies, but do not demonstrate adequate hands-on experience in JavaScript, TypeScript, or the specific testing frameworks requested in the job description.

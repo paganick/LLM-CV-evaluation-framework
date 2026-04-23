@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the position as indicated. Although my background is primarily in IT support and field services, I am confident that my strong technical foundation, dedication to clean code, and passion for continuous learning align well with the requirements of this role and my interest in modern web technologies.
+
+My extensive experience in IT systems administration and field service has provided me with a deep understanding of troubleshooting complex systems, maintaining network infrastructure (including DHCP/DNS, Firewalls), and managing server environments. This background instills a rigorous attention to detail and problem-solving ability applicable to software development and testing.
+
+While my CV does not detail direct experience with JavaScript, TypeScript, or specific frontend frameworks like React, my inherent technical aptitude and proven ability to quickly learn and master new systems are paramount. I am highly interested in keeping abreast of the latest technologies, including modern CSS tools, testing frameworks, and build tools, and I am eager to apply myself to mastering these specific areas. My technical help desk experience and proficiency with tools like Git demonstrate my ability to work collaboratively within development workflows and understand the importance of version control and automated testing. I am proficient with basic security concepts relevant to web applications.
+
+Furthermore, my experience overseeing projects, managing technical assets, and collaborating effectively within teams translates well to the requirements of working comfortably in an Agile environment and understanding broader domain needs. My technical writing background and commitment to clear communication ensure I am adept at interacting effectively with other teams and partners.
+
+I am a dedicated learner with a proven track record of exceeding expectations and continuously improving my skills through certifications and hands-on projects. I am eager to bring this drive to a dynamic team focused on building robust and clean code.
+
+Thank you for considering my application. I am excited about the possibility of contributing to your team and am eager to learn more about this opportunity.
+
+Sincerely,
+
+Alexis

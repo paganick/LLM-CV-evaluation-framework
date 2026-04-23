@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in front-end technologies, particularly with JavaScript and React, which aligns with the job description. They possess knowledge of testing frameworks, version control, and web security principles. However, they lack specific experience with some of the additional technologies and tools mentioned, such as TypeScript, Styled Components, and CI/CD tools, which slightly limits their match for the role.

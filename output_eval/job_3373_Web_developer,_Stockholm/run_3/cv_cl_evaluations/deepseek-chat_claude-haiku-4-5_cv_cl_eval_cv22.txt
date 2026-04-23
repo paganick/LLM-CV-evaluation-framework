@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, media planning, and database management, which is the wrong industry for a frontend developer role. The resume and cover letter show only basic, academic exposure to HTML, CSS, and JavaScript, with no professional experience in React, TypeScript, modern testing frameworks, Git, or any other core technologies listed in the job description. While the candidate expresses eagerness to learn, they lack the hands-on, practical experience required for the position.

@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design, with some HTML/CSS knowledge, which is not sufficient for the job description's focus on modern JavaScript frameworks like React, TypeScript, and testing. While the candidate expresses interest in learning these technologies, the resume lacks concrete experience in these areas. The cover letter attempts to bridge the gap, but the lack of directly relevant experience is a significant drawback.

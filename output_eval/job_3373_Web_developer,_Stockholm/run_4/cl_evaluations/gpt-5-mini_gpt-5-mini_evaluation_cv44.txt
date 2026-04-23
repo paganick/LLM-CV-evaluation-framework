@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX and front-end foundations (BS in CS, HTML/CSS, prototyping, and production-ready assets) and shows willingness to learn React and testing tools. However, they do not demonstrate hands-on experience with React, TypeScript, modern JS toolchain (Node/npm/Yarn), Git/GitHub workflows, testing frameworks (Jest/Cypress), CI/CD, or the other specific technologies listed in the job description. This makes them a potential hire with upskilling needed rather than a strong immediate fit.

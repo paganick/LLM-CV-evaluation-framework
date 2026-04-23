@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in core frontend technologies and expresses familiarity with Agile methodologies. They highlight relevant experience and tools like SASS and Git. While the cover letter doesn't explicitly mention TypeScript or testing frameworks from the job description (Jest, Cypress), the candidate claims testing experience.

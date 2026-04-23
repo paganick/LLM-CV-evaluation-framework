@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend development with React, HTML, CSS, and testing frameworks. They highlight their experience with Agile methodologies and version control, aligning with the job description. They also express eagerness to learn NodeJS and functional programming with Ramda, which shows potential for growth within the team.

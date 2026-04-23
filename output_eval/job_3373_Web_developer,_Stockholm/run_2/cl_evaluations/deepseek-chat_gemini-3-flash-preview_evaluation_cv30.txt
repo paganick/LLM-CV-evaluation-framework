@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates a strong analytical mindset and quality assurance background. However, the cover letter lacks direct, hands-on experience with the core technologies listed in the job description, specifically JavaScript, TypeScript, React, and modern CSS tools. While the candidate expresses eagerness to learn, the application does not provide concrete evidence of proficiency in the required front-end stack.

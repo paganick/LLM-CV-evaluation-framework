@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in media production and creative direction is not directly relevant to the frontend development role outlined in the job description. While transferable skills like project management and collaboration are mentioned, there is a lack of demonstrable experience with the specific technologies listed, such as JavaScript, React, or testing frameworks. The cover letter relies heavily on generalities and enthusiasm rather than concrete examples of technical proficiency.

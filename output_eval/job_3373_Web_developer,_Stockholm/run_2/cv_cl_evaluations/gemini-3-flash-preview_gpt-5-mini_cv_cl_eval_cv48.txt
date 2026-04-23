@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this role, as their professional background is in IT infrastructure and hardware support rather than software engineering. They lack all required experience with JavaScript, TypeScript, React, and modern front-end development tools mentioned in the job description. While they possess strong technical troubleshooting skills in a systems context, they do not demonstrate the necessary programming proficiency or framework knowledge.

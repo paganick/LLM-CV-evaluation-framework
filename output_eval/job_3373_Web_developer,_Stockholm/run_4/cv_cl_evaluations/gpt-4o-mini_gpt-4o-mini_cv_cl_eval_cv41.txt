@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in systems engineering and application services, with experience in JavaScript, HTML, and CSS, as well as familiarity with React. However, they lack strong hands-on experience with modern front-end frameworks and specific testing frameworks mentioned in the job description. While they demonstrate a willingness to adapt and learn, their experience with tools like Styled Components, SASS, and CI/CD processes is not clearly established, which limits their full alignment with the position's requirements.

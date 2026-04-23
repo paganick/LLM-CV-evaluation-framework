@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the design industry and mentions general web development, they fail to demonstrate any proficiency in the specific technical requirements such as JavaScript, TypeScript, or React. The letter lacks any evidence of experience with testing frameworks, CI/CD pipelines, or cloud infrastructure, making them fundamentally unqualified for this engineering-focused position. The candidate's background is primarily in graphic design and branding, which does not align with the core technical demands of the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the listed technical requirements (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Git, web security, Node/npm, CI/CD and functional programming). However, the letter emphasizes program management and defense-sector leadership more than concrete, recent hands-on front-end work, project outcomes, or links to code/portfolio. As a strict evaluator, this reads as a solid match with some risk due to lack of demonstrable day-to-day FE experience.

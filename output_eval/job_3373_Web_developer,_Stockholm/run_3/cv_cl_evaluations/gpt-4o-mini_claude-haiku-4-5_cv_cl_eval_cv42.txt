@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a willingness to transition into web development and has started building relevant technical skills, such as JavaScript, TypeScript, and React. However, they lack direct experience with modern frontend frameworks and testing methodologies as outlined in the job description. Their extensive background in finance operations does not directly correlate with the required frontend engineering competencies, making them less suited for this role.

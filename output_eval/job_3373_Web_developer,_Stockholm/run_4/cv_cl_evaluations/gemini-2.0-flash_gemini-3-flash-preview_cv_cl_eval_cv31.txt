@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, lacking the necessary frontend development skills (JavaScript, TypeScript, React, etc.) outlined in the job description. While the cover letter attempts to bridge the gap, the resume doesn't provide evidence of practical experience in these technologies. The mentioned HTML experience is insufficient for a Frontend Developer role requiring modern framework expertise.

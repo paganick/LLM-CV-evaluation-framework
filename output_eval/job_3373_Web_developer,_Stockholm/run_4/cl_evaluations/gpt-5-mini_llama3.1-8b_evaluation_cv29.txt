@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development leader with experience in technical content and API design but provides no evidence of hands-on JavaScript/TypeScript, React, HTML/CSS, frontend testing, or NodeJS experience required for this role. Core frontend tooling and practical development skills (Git, CI/CD, modern CSS frameworks, testing frameworks, and web security specifics) are missing, making them unqualified for the position.

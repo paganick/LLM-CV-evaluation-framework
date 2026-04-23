@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is primarily administrative and arts-focused with only minimal mention of HTML and web/design tools, and no demonstrated hands-on experience with JavaScript/TypeScript, React, modern testing frameworks, Git, NodeJS, CI/CD, or web security practices required for this role. The cover letter expresses interest and willingness to learn but does not provide evidence of the technical skills or practical experience needed to perform the job.

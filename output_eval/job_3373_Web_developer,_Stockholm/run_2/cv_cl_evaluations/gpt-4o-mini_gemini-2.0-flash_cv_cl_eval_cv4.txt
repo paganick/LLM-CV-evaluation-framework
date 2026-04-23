@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, but their background primarily focuses on C# and .Net rather than modern front-end frameworks like React, which is specifically mentioned in the job description. While there is some experience with testing and an understanding of APIs, the candidate lacks hands-on experience with the desired frameworks and concepts such as AWS, Terraform, and modern CSS tools.

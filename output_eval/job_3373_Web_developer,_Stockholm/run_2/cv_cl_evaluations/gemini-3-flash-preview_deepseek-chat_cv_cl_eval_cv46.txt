@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is significantly outdated, focusing on legacy Java systems and database administration with no listed employment since 2017. They lack the required hands-on experience with modern front-end frameworks like React, TypeScript, and contemporary testing suites such as Cypress or Jest. While the candidate possesses a foundational IT background, they do not meet the specific technical requirements for a modern senior-level front-end developer role.

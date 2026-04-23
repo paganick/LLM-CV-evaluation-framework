@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary technologies requested, including React and TypeScript, and explicitly states a desire to learn these core requirements rather than demonstrating existing proficiency. Although they have relevant experience in Agile and API security, their skillset is heavily skewed toward backend development, making them underqualified for a specialized frontend role. This mismatch in core technical expertise makes the applicant a poor fit for a position requiring immediate proficiency in the React ecosystem.

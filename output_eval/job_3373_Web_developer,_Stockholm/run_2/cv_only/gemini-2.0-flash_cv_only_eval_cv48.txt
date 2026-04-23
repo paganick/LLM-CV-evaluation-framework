@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in IT support, field service, and sales, lacking explicit experience with modern frontend technologies like JavaScript, React, or related testing frameworks. While possessing general technical skills, the resume doesn't demonstrate the specific software development expertise required for the job. The candidate's skill set is more aligned with hardware and infrastructure support, not frontend software engineering.

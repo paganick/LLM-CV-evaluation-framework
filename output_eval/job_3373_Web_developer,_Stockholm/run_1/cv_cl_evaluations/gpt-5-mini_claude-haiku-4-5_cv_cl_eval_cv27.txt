@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience with core frontend technologies required for this role — no demonstrated JavaScript/TypeScript, React, testing frameworks, Git workflow, or Node ecosystem experience beyond stated learning intent. While strong in design, administration, and media production, these skills do not substitute for the hands-on engineering and security/testing competencies the position requires. The candidate appears to be transitioning into development but is not currently qualified for this frontend developer role.

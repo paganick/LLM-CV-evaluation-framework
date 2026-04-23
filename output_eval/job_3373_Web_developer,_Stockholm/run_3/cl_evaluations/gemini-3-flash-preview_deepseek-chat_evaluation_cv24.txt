@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong theoretical knowledge and self-directed learning in the core tech stack (React, TypeScript, Jest), but lacks professional software engineering experience. Critical technical requirements such as Web Security (OWASP/CORS), CI/CD tools, and AWS are entirely unaddressed. While the soft skills are transferable, the lack of a proven track record in a production environment makes them a high-risk hire compared to candidates with established technical tenure.

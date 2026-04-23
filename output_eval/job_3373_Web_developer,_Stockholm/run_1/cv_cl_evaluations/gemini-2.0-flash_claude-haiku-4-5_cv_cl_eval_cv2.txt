@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Java/J2EE background with limited explicit frontend experience. While they mention jQuery and Bootstrap, the job description emphasizes modern FE frameworks like React, which are not primary skills for the candidate. Their interest in transitioning to frontend and learning React is noted, but the resume lacks concrete evidence of these skills.

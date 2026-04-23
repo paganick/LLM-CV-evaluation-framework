@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic and product design, which doesn't directly align with the front-end development focus of the job description. While they mention familiarity with HTML, CSS, JavaScript, Git, and web security concepts, the letter lacks concrete examples of hands-on experience with modern FE frameworks and libraries like React (the company's primary framework), testing, and clean coding practices, as required in the job description. The 30 years of experience might be irrelevant, as it's not in the specified technologies.

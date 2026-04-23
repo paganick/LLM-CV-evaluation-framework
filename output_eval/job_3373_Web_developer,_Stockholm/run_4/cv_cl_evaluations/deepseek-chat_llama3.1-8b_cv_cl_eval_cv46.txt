@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in Java backend systems, database administration, and outdated technologies, with no demonstrated professional experience in the required modern front-end stack (React, TypeScript, modern CSS tools). The resume and cover letter mention relevant skills like JavaScript and testing only in passing within a skills list, without concrete project examples or recent, relevant application. The profile is from a different technical domain and lacks the specific, hands-on front-end development experience this role demands.

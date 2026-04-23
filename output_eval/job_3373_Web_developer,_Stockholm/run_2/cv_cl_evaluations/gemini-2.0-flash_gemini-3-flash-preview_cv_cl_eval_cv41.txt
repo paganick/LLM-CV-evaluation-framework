@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems administration and infrastructure, not front-end development. While the cover letter attempts to bridge the gap, the resume lacks demonstrable experience with JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), and associated testing frameworks, which are core requirements. The candidate expresses interest and familiarity, but lacks concrete experience.

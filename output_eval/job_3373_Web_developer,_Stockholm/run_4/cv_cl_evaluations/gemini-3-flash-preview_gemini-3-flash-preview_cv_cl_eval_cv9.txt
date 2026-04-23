@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java/Backend Engineer and lacks professional experience with the required modern frontend stack, specifically React and TypeScript. Their documented frontend history is limited to legacy technologies like JSP and Struts, failing to meet the core requirements for modern frameworks or frontend-specific testing tools like Jest and Cypress. While they possess strong general engineering principles and web security knowledge, they are unqualified for a role requiring specialized frontend expertise.

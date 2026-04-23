@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is the wrong industry for a front-end/JavaScript developer role. The resume and cover letter mention only basic, academic-level exposure to HTML, CSS, and Java, with no demonstrated professional experience in the core technologies listed in the job description (React, TypeScript, modern testing, etc.). The claims in the cover letter about using JavaScript, TypeScript, Jest, and CI/CD tools are not substantiated by the resume, indicating a significant mismatch.

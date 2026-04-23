@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background primarily in back-end Java development, not front-end. While they express interest in React and list basic front-end skills (HTML, CSS, JavaScript), they lack demonstrated experience with modern front-end frameworks and testing methodologies crucial for the role. The cover letter emphasizes back-end experience, making their suitability for a front-end role questionable despite expressing a desire to learn.

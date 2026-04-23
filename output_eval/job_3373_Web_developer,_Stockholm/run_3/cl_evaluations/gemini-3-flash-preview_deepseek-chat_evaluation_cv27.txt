@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks professional experience in software development and does not demonstrate proficiency in the mandatory technology stack, specifically JavaScript, TypeScript, and React. Essential technical requirements such as hands-on experience with testing automation, Git, and web security protocols are entirely missing from their professional history. While the candidate shows an interest in learning, they currently fail to meet nearly all the core qualifications listed in the job description.

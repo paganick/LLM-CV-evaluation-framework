@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has strong backend Java experience, a solid testing mindset, and basic JavaScript/HTML/CSS knowledge with familiarity in OAuth, Git, and CI/CD, which are somewhat relevant. However, they lack demonstrated experience with React or other modern frontend frameworks, modern JS tooling (Node/npm/Yarn), CSS-in-JS/SASS, and frontend testing frameworks (Jest/Cypress), which are core requirements. This significant gap in proven frontend skills makes them an incomplete fit for the role.

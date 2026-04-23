@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a strong alignment with many required technical skills, including React, testing, Git, and Agile. However, the cover letter heavily emphasizes hardware and manufacturing experience, which is not directly relevant, and lacks explicit mention of several key tools from the job description like Jest, Cypress, ESLint, and specific CI/CD tools. The transition from hardware test engineering to a modern front-end role is plausible but presents a skill gap that requires validation.

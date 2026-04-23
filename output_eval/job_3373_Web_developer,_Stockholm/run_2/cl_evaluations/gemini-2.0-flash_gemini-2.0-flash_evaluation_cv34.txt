@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate acknowledges a background outside front-end development and lacks demonstrable experience with JavaScript frameworks like React, which is central to the job. While they mention HTML and CSS, the letter lacks specifics on testing, security, and modern CSS tools outlined in the job description. The cover letter demonstrates some soft skills and willingness to learn, but insufficient technical alignment for a Front-End Developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not front-end engineering. While they express interest in learning React and other front-end technologies, they lack demonstrable experience in JavaScript, TypeScript, modern FE frameworks, testing, and other key requirements listed in the job description. Their HTML/CSS skills seem basic, and there is no mention of crucial tools and concepts like Git, CI/CD, or API design.

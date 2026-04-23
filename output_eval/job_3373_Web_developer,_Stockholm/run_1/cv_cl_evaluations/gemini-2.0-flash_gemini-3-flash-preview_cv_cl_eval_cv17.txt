@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in civil engineering and project management, not software development. While the cover letter attempts to bridge this gap, the resume lacks any concrete evidence of frontend development skills in JavaScript, React, or related technologies. The candidate demonstrates some awareness of relevant technologies but doesn't present practical experience.

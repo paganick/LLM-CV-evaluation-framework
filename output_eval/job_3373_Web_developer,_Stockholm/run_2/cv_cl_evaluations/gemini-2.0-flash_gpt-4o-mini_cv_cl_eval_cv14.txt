@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but primarily with ASP.NET, which is not the focus of the job description. While they mention HTML, CSS, and JavaScript, the resume lacks specific experience with modern front-end frameworks like React, VueJS, Angular, or Svelte, which are crucial for this role. The cover letter attempts to bridge this gap, but the resume doesn't provide sufficient evidence of the required skills.

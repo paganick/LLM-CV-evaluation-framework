@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position. While my career has primarily focused on product management and strategy, my technical foundation and collaborative approach align exceptionally well with your team's needs and culture.
+
+Throughout my tenure at ReverbNation and Brightcove, I developed deep expertise in digital platforms and worked extensively with engineering teams to deliver quality software. At Brightcove, I introduced Scrum methodology to improve development processes, collaborated closely with technical teams on product specifications, and maintained partnerships with leading technology companies. This experience gave me genuine insight into the importance of clean code, robust testing practices, and modern development workflows.
+
+My background includes hands-on involvement with frontend technologies and architecture decisions. I have directly managed QA teams, conducted extensive user testing on multiple product iterations, and designed the mobile-responsive version of ReverbNation's platform. These projects required understanding React-based workflows, testing frameworks, and Git-based collaboration processes. More importantly, I developed a strong appreciation for the disciplines your role demands: comprehensive testing strategies, security considerations like CORS and OAuth, and maintaining code quality through tools like linters and formatters.
+
+What excites me most about this opportunity is the chance to transition my strategic product thinking into hands-on development. I am genuinely passionate about writing clean, maintainable code and staying current with evolving technologies. My experience collaborating across teams at various companies has instilled in me the teamwork and communication skills essential for Agile environments. I have repeatedly worked with cross-functional partners, external stakeholders, and multiple technical domains, always maintaining a commitment to understanding the complete picture.
+
+I bring strong analytical and problem-solving skills honed across two decades in technology. I understand API design from a product perspective, have exposure to CI/CD principles through development partnerships, and grasp the broader AWS ecosystem through infrastructure conversations with technical teams. My concentration in Computer Science and Computer Graphics Animation provides foundational technical credibility.
+
+I am eager to apply my unique perspective—combining product intuition with technical rigor—to contribute meaningfully to your frontend development efforts. I am committed to continuous learning and am excited about working with React, Jest, Cypress, and other modern tools your team employs.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and passion for quality engineering can contribute to your team's success.
+
+Sincerely, Alexis

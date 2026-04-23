@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with JavaScript, TypeScript, and React, which are fundamental requirements for this engineering position. Their career has primarily focused on implementation consulting and digital marketing platforms rather than hands-on software development or automated testing. While the candidate is currently upskilling, they do not demonstrate the necessary technical proficiency in modern front-end frameworks, CI/CD, or web security protocols.

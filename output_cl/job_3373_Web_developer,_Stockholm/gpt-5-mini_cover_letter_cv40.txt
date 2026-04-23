@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced product leader with twenty years of delivering digital products in online media and SaaS environments. I lead cross-functional teams of product managers, designers, developers, and QA to ship quality software on time and to solve real customer needs. I am excited by your opening because it combines technical craft, collaborative Agile delivery, and a focus on modern front-end engineering that I value and support.
+
+At ReverbNation I led a multi-discipline team to design, build, test, and release the product’s first mobile responsive version. I coordinated extensive user testing, worked closely with engineering to iterate quickly, and used performance metrics to identify opportunities and regressions. Earlier roles at Brightcove and Viewpoint required delivering complex video and advertising platforms, creating partner integrations, and introducing agile practices across development organizations. Those experiences gave me a practical appreciation for API-driven products, platform constraints, and the technical tradeoffs that affect product decisions.
+
+I am a strong collaborator who partners effectively with engineering, design, sales, and external partners. I introduced Scrum in one organization to create a reliable release cadence and ran product teams responsible for specifications, prioritization, and QA workflows. I enjoy understanding full domains beyond my immediate remit and translating business needs into actionable technical requirements. My analytical background and customer-first focus help teams make pragmatic choices around scope, quality, and delivery.
+
+While my career emphasis has been product leadership rather than individual front-end implementation, I stay current with web technologies and take pride in enabling engineers to write clean, well-tested code. I am eager to work alongside a React-focused team, learn language and tooling specifics, and help shape product and platform strategy that leverages testing automation, CI/CD, and reliable integrations.
+
+I am committed to quickly acquiring any necessary hands-on front-end skills, and I plan to pair with engineers, contribute to code reviews, and build confidence in React, TypeScript, testing frameworks, and modern CSS tooling. I also bring experience aligning product roadmaps with infrastructure considerations such as CI/CD and cloud cost and reliability tradeoffs across distributed global teams effectively.
+
+Thank you for considering my candidacy. I look forward to the possibility of contributing product leadership, domain experience, and collaborative execution to your team.
+
+Sincerely, Alexis

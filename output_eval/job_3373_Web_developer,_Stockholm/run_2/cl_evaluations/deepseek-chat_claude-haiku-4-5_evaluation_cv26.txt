@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a non-technical background and explicitly states they are at the beginning of their frontend development journey. While they demonstrate strong soft skills and a proactive learning attitude, they lack hands-on experience with the core technologies listed in the job description (React, testing frameworks, Git, security principles, modern tooling). Their current skills are aspirational or foundational, not the demonstrated, practical experience required.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has over seven years of relevant experience, particularly with modern front-end technologies like React, JavaScript, and CSS, which aligns well with the job description. They also demonstrate familiarity with testing and test automation, as well as a solid understanding of web security. However, there is no mention of some specific tools like Styled Components or CI/CD tools beyond basic knowledge, which prevents a perfect score.

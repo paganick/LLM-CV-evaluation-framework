@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development and has experience with JavaScript, HTML, and CSS; however, there is a lack of direct experience with modern front-end frameworks such as React, which is critical for this role. Additionally, the resume does not demonstrate hands-on experience with testing frameworks or web security knowledge, which further limits their fit for this position. Despite their interest in furthering their skills, they do not meet several key requirements outlined in the job description.

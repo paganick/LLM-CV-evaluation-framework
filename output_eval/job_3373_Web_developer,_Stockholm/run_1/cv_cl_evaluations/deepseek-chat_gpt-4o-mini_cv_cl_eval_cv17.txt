@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in civil engineering and construction management, which is a completely different industry from front-end software development. The resume shows no professional experience with JavaScript, TypeScript, React, or any of the core technologies listed in the job description. While the cover letter expresses interest and some self-taught knowledge, there is no demonstrated, hands-on professional experience to meet the technical requirements.

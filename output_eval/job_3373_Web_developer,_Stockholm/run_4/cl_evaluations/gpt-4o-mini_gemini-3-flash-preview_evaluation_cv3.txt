@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant programming skills and experience in the construction industry, which demonstrates problem-solving abilities. However, they lack hands-on experience with key requirements such as React, testing frameworks specified in the job description, and familiarity with the NodeJS ecosystem. Additionally, specific experience with Git and security practices mentioned is not addressed, leading to a moderate match overall.

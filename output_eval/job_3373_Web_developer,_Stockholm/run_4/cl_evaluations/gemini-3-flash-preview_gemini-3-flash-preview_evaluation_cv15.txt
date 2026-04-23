@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a strong general IT background and fundamental web knowledge but lacks direct professional experience with the core requirements of React and TypeScript. Crucially, they lack the required hands-on experience with automated testing (Jest, Cypress), expressing only a desire to learn these skills rather than current proficiency. While the candidate understands web security and collaboration, they are fundamentally a generalist transitioning into a specialized frontend role without the specific toolset requested.

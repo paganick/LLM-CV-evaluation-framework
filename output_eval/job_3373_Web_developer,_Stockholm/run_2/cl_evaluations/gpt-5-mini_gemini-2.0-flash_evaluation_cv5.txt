@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong software development experience and transferable qualities but lacks practically all required hands-on frontend skills (React, TypeScript, modern CSS, testing frameworks, Node/npm, Git, web security, CI/CD, AWS) and only lists foundational HTML/JavaScript knowledge. Given the role requires immediate proficiency with modern FE toolchains, testing/automation, and repo workflows, the ramp-up risk is high. Not a strong match for the stated requirements.

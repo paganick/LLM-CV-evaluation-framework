@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong background in project management and civil engineering, they lack direct experience in frontend development technologies specified in the job description, such as JavaScript, TypeScript, modern frontend frameworks, and testing automation. Their cover letter mentions familiarity with some relevant technologies, but overall, the experience is insufficient for a strong candidate in a software development role.

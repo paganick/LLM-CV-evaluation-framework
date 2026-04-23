@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical stack, specifically mentioning niche requirements like Ramda, functional programming, and infrastructure tools. However, the applicant fails to explicitly mention TypeScript, which is a core primary requirement of the position. While their 18-year tenure is impressive, the profile leans toward a generalist consultant rather than a dedicated frontend specialist.

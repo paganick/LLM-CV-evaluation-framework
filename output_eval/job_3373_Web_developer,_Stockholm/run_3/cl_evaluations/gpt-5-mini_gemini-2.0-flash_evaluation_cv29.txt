@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant cloud-industry and cross-functional experience, strong communication, and demonstrated ability to learn, but provides no evidence of hands-on JavaScript/TypeScript/React, modern CSS, testing frameworks, NodeJS ecosystem, or CI/CD experience which are core to the role. Their CRM/marketing background and liaison skills do not satisfy the technical requirements. While trainable, they are not currently qualified for this front-end developer position.

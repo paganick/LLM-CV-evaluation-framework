@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows a background primarily in Java backend systems, database administration, and outdated technologies, with no demonstrable experience in the required modern front-end stack (React, TypeScript, modern CSS tools). The cover letter claims experience with Jest, TestCafe, and CircleCI, but these are not supported by the resume's listed skills and experience, which appear to be a generic list. The profile is a mismatch for a specialized front-end role focused on React, testing, and modern web development practices.

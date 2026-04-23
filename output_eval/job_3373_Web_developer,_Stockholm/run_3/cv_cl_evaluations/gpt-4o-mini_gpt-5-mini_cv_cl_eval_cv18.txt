@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has over 18 years of IT experience with a focus on web design and development, which is relevant to the position. They possess skills in HTML, CSS, and JavaScript, and are familiar with modern CSS tools and testing practices, but lack specific experience in React and some other required technologies listed in the job description. Overall, they are a strong candidate but do not fully meet all the requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not web development. While they possess some transferable skills like systems integration and testing, they lack the core front-end development skills (JavaScript, TypeScript, HTML, CSS, React) explicitly required in the job description. Their experience with Git and security fundamentals appears limited.

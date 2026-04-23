@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive relevant industry experience and demonstrates strong collaboration, Agile, and testing skills that align with the job requirements. However, the job description emphasizes modern front-end frameworks like React, and while the candidate expresses motivation to learn, their recent hands-on experience is primarily with legacy stacks like AngularJS and .NET. They also lack explicit mention of several specific modern tools (e.g., Jest, Cypress, Styled Components, NodeJS ecosystem) listed as desirable.

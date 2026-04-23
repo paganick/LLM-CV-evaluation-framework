@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in software testing, including manual and automation, and mentions familiarity with Agile methodologies. However, they lack specific experience with testing frameworks mentioned in the job description like Jest, TestCafe, or Cypress. While they mention Javascript, their experience with React (explicitly mentioned in the job description) is only implied, not explicitly stated as hands-on.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements for the role, including professional experience with JavaScript, TypeScript, and modern front-end frameworks like React. Their professional background is primarily in data analytics, environmental science, and quality engineering rather than software development. While they demonstrate a strong academic and analytical foundation, they are fundamentally unqualified for a mid-to-senior level front-end engineering position.

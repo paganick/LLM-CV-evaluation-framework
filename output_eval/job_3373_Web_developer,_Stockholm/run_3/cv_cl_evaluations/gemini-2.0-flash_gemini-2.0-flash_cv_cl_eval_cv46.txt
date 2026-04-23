@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills, such as JavaScript, HTML, CSS, and experience with testing frameworks. However, the resume lacks specific front-end development experience with modern frameworks like React, which is a key requirement. While the cover letter mentions familiarity with the NodeJS ecosystem and API design, the resume doesn't provide enough evidence to support these claims.

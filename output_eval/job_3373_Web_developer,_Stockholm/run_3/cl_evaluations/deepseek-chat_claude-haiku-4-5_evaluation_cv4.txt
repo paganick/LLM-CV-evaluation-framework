@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in core frontend technologies, full-stack development, and API integration, aligning well with many job requirements. However, they lack explicit, direct experience with several key technologies listed, such as TypeScript, modern CSS tools, and the specific testing frameworks, requiring them to learn on the job. Their collaborative mindset, Agile experience, and eagerness to learn make them a good, but not perfect, match.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in product management and business strategy, not in hands-on front-end development or software engineering. The resume and cover letter show no experience with the required technical skills (JavaScript, React, testing frameworks, Git, etc.) listed in the job description. This is a fundamental mismatch for a technical development role.

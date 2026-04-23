@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, and mentions familiarity with Node.js and API design, which are relevant. However, the resume lacks explicit mention of TypeScript, React, testing frameworks like Jest/Cypress, and modern CSS tools like Styled Components/SASS, all listed as desirable in the job description. The cover letter attempts to address some of these gaps, but the resume doesn't fully support these claims.

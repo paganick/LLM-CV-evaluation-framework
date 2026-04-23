@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development professional with no demonstrable professional experience in software engineering or front-end development. Despite expressing interest in a career transition, the resume lacks any evidence of hands-on work with the required tech stack, including React, TypeScript, and automated testing frameworks. The applicant does not meet the minimum technical requirements for this mid-to-senior level engineering role.

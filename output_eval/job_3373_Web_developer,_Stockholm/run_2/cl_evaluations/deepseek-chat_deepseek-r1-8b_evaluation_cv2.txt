@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong transferable skills in Agile, Git, and collaborative development. However, the cover letter lacks specific, hands-on experience with the core technologies listed in the job description, particularly JavaScript, TypeScript, React, and modern frontend tooling. The letter mentions familiarity with concepts but does not provide concrete evidence of proficiency, making them a candidate with potential but significant skill gaps for this specific frontend-focused role.

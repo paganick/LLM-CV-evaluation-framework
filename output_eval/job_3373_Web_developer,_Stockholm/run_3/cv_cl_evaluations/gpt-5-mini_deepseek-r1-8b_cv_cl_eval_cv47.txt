@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is in business development and sales with only incidental mentions of HTML and older languages (C/C++); there is no demonstrable professional experience with core requirements like JavaScript/TypeScript, React, testing frameworks, Node/npm, modern CSS tooling, or Git workflows. The cover letter confirms a lack of technical background and frames the application as interest-to-learn rather than current capability. Given the immediate, hands-on technical needs of the role, this candidate is not qualified.

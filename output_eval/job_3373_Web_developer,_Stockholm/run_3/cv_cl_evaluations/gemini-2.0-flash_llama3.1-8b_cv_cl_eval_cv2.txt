@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's experience is primarily in Java/J2EE, which is not the focus of the job description. The job description emphasizes JavaScript, modern FE frameworks, and related web technologies, none of which are prominent in the candidate's resume or cover letter. The candidate's skillset doesn't align with the requirements of the position.

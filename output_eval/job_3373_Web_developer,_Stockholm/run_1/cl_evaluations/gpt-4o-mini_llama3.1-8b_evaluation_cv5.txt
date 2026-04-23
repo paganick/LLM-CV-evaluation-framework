@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in legacy technologies like COBOL, CICS, and DB2, but lacks the required skills in modern frontend technologies such as JavaScript frameworks (React, VueJS, etc.), CSS tools, and testing frameworks. Furthermore, their knowledge of relevant methodologies like Agile, CI/CD, and AWS is unspecified, which makes them only partially relevant to the job description.

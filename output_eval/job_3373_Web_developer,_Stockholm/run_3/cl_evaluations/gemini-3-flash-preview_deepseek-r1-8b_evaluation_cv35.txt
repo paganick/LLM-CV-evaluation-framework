@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate professional hands-on experience with the primary tech stack, including React, TypeScript, and specific testing frameworks like Jest or Cypress. While they have a relevant background in systems integration within the marketing technology sector, they lack the direct software development pedigree required for this role. Consequently, the profile represents a significant skill gap regarding modern frontend development and the NodeJS ecosystem.

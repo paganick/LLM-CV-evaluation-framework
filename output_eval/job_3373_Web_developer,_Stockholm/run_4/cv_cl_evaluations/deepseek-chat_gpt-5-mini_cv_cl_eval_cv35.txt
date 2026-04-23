@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing automation, not front-end engineering, and they lack any demonstrable experience with the core technologies listed in the job description (JavaScript, TypeScript, React, CSS). While they mention transferable skills like QA and collaboration, they have no hands-on experience with modern FE frameworks, testing libraries, or the required technical stack. This is a significant industry and skill mismatch for the role.

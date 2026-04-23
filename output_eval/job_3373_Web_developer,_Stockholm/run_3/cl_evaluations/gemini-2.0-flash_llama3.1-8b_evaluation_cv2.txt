@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily focused on Java/J2EE technologies, while the job description emphasizes JavaScript, React, and other front-end technologies. There is a clear mismatch in core skills. While the candidate mentions Agile and communication skills, these are not enough to overcome the lack of specified technical expertise.

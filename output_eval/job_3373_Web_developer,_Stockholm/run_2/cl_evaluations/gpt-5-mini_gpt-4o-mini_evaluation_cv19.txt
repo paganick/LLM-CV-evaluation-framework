@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end and design experience (HTML, CSS, modern CSS tools, Git, Agile collaboration) but lacks the role's core technical requirements, notably hands-on JavaScript/TypeScript and practical React experience. They also do not demonstrate required testing/test automation experience or sufficient familiarity with the NodeJS ecosystem, CI/CD, and other modern tooling listed. While eager to learn and communicative, the current skill gap on essential technologies and testing makes them below the hiring bar for this position.

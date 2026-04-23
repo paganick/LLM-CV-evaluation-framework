@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's core experience is in Java/J2EE backend and test automation, not modern frontend engineering. While they mention React and SASS, the experience appears dated and is not the primary focus of their career. They lack direct, recent experience with key requirements like TypeScript, modern React, and specific tools (e.g., Jest, Cypress, Styled Components, Ramda) mentioned in the job description.

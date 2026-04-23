@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks professional experience in the primary required tech stack, specifically React and TypeScript, which are core necessities for this role. While they possess strong general engineering principles and testing experience, their background is heavily focused on legacy .NET stacks rather than the modern NodeJS ecosystem and functional programming requirements mentioned in the job description. Consequently, they would require significant upskilling to meet the technical standards of this specific modern front-end position.

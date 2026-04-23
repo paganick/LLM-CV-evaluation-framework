@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the construction planner role. I am a software engineer and database programmer/analyst with two years of experience delivering web-based projects and supporting application lifecycles. My technical degree (Master of Science in Computer Engineering, University of Missouri, and Bachelor of Technology in Electrical and Electronics Engineering) and hands-on experience in planning, scheduling, stakeholder communication and reporting equip me to transition into project planning and schedule control on construction programs.
+
+In my role as Database Programmer/Analyst I participated in project planning and estimation activities, developing an internal Project Estimator feature that allowed scrum masters and managers to estimate schedule, resource requirements and cost based on developer count, sprint length and UAT weeks. I helped define parameters and version histories for applications, tracked progress using budget and sprint burndown metrics, and produced dashboards and documentation used by managers and clients to review status and make decisions.
+
+I have direct experience creating and maintaining schedules in an Agile environment: I prioritized tasks in backlog catalogs, participated in daily scrums, and coordinated releases with QA and production support teams. I built scheduled processes using C# console applications for automated tasks, and implemented data deployment processes using Redgate SQL Compare to move databases between environments while preserving release timelines. These experiences demanded disciplined time management, rigorous change control and problem solving under tight deadlines.
+
+I am practiced at liaising with cross-functional teams, external data and warehouse teams, QA, sponsors and administrators to resolve technical and scheduling issues and keep stakeholders informed. I am proficient with Microsoft Office tools and routinely prepare technical documentation, status reports and presentations for internal and client-facing meetings.
+
+My background in creating reusable class libraries, automating routine processes and refining legacy systems demonstrates attention to detail, risk mitigation and efficient resource use. I am committed to clear client communication, timely reporting to match busy reporting calendars, and pragmatic problem solving to keep projects on schedule and on budget, consistently delivered.
+
+I bring strong analytical skills, familiarity with design-to-delivery workflows, and a track record of producing practical planning tools and clear status reporting. I welcome the opportunity to apply these skills to create and maintain construction schedules, coordinate contractors and suppliers, and support tender preparations for your projects.
+
+Sincerely, Alexis

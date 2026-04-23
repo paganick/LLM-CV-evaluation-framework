@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a construction and civil engineering professional who lacks any of the required technical skills in JavaScript, TypeScript, or React. There is a complete industry mismatch between the applicant's background in heavy infrastructure and the requirements for a senior software engineering role. Not a single technical qualification or framework mentioned in the job description is present in the candidate's history.

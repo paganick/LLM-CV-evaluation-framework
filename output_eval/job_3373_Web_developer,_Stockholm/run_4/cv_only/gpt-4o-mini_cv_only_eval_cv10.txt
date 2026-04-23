@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with client-side scripting languages like HTML, CSS, and JavaScript, as well as AngularJS, which is relevant to the job description. However, they lack hands-on experience with modern frameworks such as React, TypeScript, and testing frameworks, which are specifically required in the job description. Additionally, the candidate's experience appears more focused on backend technologies and Java rather than the modern front-end development stack emphasized by the employer.

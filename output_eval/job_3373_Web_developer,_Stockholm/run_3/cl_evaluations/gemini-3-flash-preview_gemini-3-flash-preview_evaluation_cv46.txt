@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong technical alignment by specifically mentioning React, functional programming with Ramda, and the required security protocols like OAuth and CSP. However, they failed to mention TypeScript, which is a primary requirement in the job description, and their professional background leans more towards backend and database administration than dedicated frontend development. While they are a strong match for the ecosystem, the lack of documented experience with modern CSS tools and TypeScript prevents a higher score.

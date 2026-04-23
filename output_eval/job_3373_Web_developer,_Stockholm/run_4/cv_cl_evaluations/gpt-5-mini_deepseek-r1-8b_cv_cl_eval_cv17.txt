@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in construction and project management with no demonstrated experience in JavaScript, TypeScript, React, Node.js, frontend frameworks, testing tools, Git, or other required web development technologies. Although they present strong project management and collaboration skills, they lack the essential hands-on technical skills for this software engineering role and are therefore completely unqualified.

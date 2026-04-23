@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in JavaScript, TypeScript, and React, which are the primary requirements for this front-end role. While they possess a general programming background in C/C++, they are essentially asking for on-the-job training for the core technologies and testing frameworks specified in the job description. Their profile is more indicative of a career-changer than a qualified developer ready to contribute to an Agile front-end environment.

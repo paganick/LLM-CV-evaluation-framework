@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is an electronics and hardware test engineer with no experience in web development or the modern JavaScript ecosystem. The resume lacks all required technical skills, including JavaScript, TypeScript, React, HTML/CSS, and web-based test automation. This is a complete mismatch as the candidate's background is in hardware manufacturing and PCB troubleshooting rather than software engineering.

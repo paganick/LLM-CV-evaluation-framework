@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a career in Marketing Automation and lacks professional, hands-on experience with the required front-end stack, specifically React and TypeScript. While they possess foundational knowledge of JavaScript and API design, their profile lacks evidence of experience with modern styling tools, Git, and specific testing frameworks like Jest or Cypress. The candidate's stated desire to "master" React indicates they do not currently meet the proficiency levels required for this position.

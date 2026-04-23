@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and fine arts, not software engineering. The resume and cover letter show no experience with the required technologies like JavaScript, React, testing frameworks, Git, or any other technical skills listed in the job description. This is a fundamental mismatch for a front-end developer role.

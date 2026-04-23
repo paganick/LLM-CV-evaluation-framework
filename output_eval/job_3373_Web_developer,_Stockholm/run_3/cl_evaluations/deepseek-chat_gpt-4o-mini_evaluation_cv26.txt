@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required hands-on technical proficiency in core technologies like JavaScript, TypeScript, HTML, and CSS, which are explicitly stated as requirements. While they demonstrate strong soft skills and a willingness to learn, their background is in marketing, not software development, and they have no proven experience with the essential tools, frameworks, or testing practices listed in the job description. Their potential is noted, but they do not currently meet the specific technical qualifications for the role.

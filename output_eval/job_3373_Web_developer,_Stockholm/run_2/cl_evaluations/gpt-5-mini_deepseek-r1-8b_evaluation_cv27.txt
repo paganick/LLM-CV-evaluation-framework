@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter demonstrates strong creative, administrative, and communication skills and mentions Agile experience, but provides no evidence of the core technical qualifications required (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, modern CSS tooling, CI/CD, or cloud/infra knowledge). These missing, role-critical skills make the candidate unsuitable for this frontend engineering position without significant technical upskilling or demonstrable hands-on experience.

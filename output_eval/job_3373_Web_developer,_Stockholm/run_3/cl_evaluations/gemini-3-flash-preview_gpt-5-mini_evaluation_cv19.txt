@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in web design and basic HTML/CSS, they lack professional experience with the core requirements of JavaScript, TypeScript, and the React framework. The cover letter explicitly states they are only beginning to learn the modern development stack, testing frameworks, and Node ecosystem required for this role. Consequently, the applicant does not meet the technical bar for an engineering position that demands hands-on experience with functional programming and test automation.

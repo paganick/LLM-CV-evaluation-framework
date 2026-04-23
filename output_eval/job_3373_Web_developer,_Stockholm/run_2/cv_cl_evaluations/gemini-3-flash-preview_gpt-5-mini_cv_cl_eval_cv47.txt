@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical role, lacking any professional experience or demonstrated proficiency in JavaScript, TypeScript, React, or modern front-end tooling. Their background is exclusively in business development and organic chemistry, which does not align with the engineering requirements of the position. Despite mentioning foundational knowledge of HTML and C++, they fail to meet the mandatory criteria for a mid-to-senior level developer.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in marketing automation, not front-end development, and lacks direct evidence of using the required technologies (React, TypeScript, modern testing frameworks). While they demonstrate transferable skills like problem-solving, collaboration, and some web fundamentals, the resume and cover letter do not show hands-on proficiency with the specific technical stack, tools, and programming paradigms listed in the job description.

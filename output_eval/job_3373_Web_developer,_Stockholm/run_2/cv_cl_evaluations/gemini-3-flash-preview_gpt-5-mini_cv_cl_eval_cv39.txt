@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer and Art Instructor who lacks the fundamental technical requirements for a modern Front-End Engineering role, specifically missing experience in JavaScript, TypeScript, and React. While they possess extensive design and basic HTML knowledge, they have no professional background in software testing, CI/CD, or modern development ecosystems. This profile represents a significant mismatch for a developer role that demands high-level programming and architectural skills.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the required professional experience in React, TypeScript, and modern frontend testing frameworks. While they have a background in marketing technology and QA, their self-described "foundational knowledge" in JavaScript and HTML/CSS does not meet the "hands-on experience" criteria for a senior or mid-level developer role. Key technical requirements such as web security, CI/CD, and Git are not demonstrated in their professional history.

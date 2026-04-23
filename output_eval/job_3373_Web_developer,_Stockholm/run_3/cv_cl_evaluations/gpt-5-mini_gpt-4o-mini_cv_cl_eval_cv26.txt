@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's background is entirely in marketing, public relations, and legal support with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, modern front-end frameworks (React), testing/automation, Git, or Node.js. While they express interest and have transferable soft skills like communication and project management, they do not meet the technical qualifications and would require extensive upskilling before contributing to this role.

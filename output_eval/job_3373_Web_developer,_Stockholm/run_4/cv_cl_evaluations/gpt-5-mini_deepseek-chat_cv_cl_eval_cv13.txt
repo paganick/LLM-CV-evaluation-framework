@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates basic front-end foundations (JavaScript, HTML/CSS, Angular) and strong Agile/project management experience, but their recent work is PM-focused rather than hands-on development. They lack demonstrated production experience with React (the team's framework), TypeScript, modern testing frameworks (Jest/Cypress/etc.), Node/npm toolchain, and other stack items (CI/CD, AWS/Terraform, functional libraries). With upskilling and hands-on coding experience, they could be a fit, but they are not ready for this role as-is.

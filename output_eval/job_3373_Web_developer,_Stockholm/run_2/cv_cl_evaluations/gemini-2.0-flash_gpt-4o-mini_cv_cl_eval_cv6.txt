@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, and CSS, and experience with Git. However, the resume heavily emphasizes Drupal development, which isn't the primary focus of the job description (React). While the cover letter mentions a desire to learn React, the lack of concrete experience in modern FE frameworks brings down the overall fit.

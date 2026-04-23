@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight product management and marketing experience, but lack substantial evidence of front-end development skills. There is a mention of Computer Science coursework, but no professional experience using JavaScript, React, or related technologies specified in the job description. The candidate's skills do not align with the technical requirements of the role.

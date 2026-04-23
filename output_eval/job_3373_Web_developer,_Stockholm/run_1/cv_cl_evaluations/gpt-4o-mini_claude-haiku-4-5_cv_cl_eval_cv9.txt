@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in Java and backend development but lacks specific experience with modern frontend technologies such as React, TypeScript, and CSS preprocessors like SASS. While they demonstrate relevant experience with testing and a solid understanding of Agile methodologies, their front-end skills are not fully developed to meet the requirements of the position.

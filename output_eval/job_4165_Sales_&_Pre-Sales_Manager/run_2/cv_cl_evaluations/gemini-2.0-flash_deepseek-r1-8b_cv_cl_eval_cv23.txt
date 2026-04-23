@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses extensive experience in business development and client-facing sales within the digital space. Their resume highlights experience with relevant digital solutions, exceeding sales goals, and managing client relationships. However, the resume lacks specific examples of experience with Application Services (API, Cloud, DevOps, Microservices) or Business Analytics (BigData, Data Science).

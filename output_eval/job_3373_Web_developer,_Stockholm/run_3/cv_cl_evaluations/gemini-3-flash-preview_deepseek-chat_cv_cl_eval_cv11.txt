@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer whose professional experience is exclusively in Software Quality Assurance and Testing rather than Front End Development. They lack documented hands-on experience with the required modern framework (React), TypeScript, and modern CSS tools like Styled Components or SASS. While they have a strong technical foundation in testing, they do not meet the core development requirements or the specific tech stack proficiencies mandated by the job description.

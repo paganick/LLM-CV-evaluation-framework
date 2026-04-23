@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is currently a Project Manager rather than a dedicated developer, which suggests a lack of recent, full-time professional coding experience in a production environment. They failed to mention mandatory requirements such as TypeScript and functional programming, while only offering an "interest" in the required React framework instead of demonstrated professional proficiency. Additionally, key technical competencies including Node.js, CI/CD tools, and AWS infrastructure are completely unaddressed in the application.

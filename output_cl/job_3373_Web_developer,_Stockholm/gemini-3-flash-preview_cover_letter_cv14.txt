@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+With a Masters in Computer Science from Indiana University and extensive experience developing complex web applications, I am excited to apply for the Frontend Engineer position. My background in building scalable tools and migrating legacy systems aligns with your team’s transition toward modern React architectures and clean, functional codebases.
+
+In my current role as an ASP.NET Web Developer, I successfully led the migration of the IU Print website from ColdFusion to the MVC Framework and utilized SQL Server 2012 for robust database management. This project required a deep understanding of core web technologies, including HTML, CSS, and JavaScript, while ensuring seamless data integration. I also developed prototype dashboards using High Charts, demonstrating my ability to translate data into intuitive user interfaces. My technical foundation spans the full development lifecycle, from designing storyboards to deploying build packages via GitHub while adhering to Agile principles.
+
+The job description highlights a need for security awareness and clean code. In my work on the successful DEBTS and eRFA projects, which both earned "Team of the Month" honors, I managed highly sensitive financial data and implemented various essential validation rules to ensure system integrity. This experience has given me a strong appreciation for security protocols like CORS and OAuth, as well as the importance of writing maintainable, testable code. Winning the Associate of the Month award at CYIENT underscores my commitment to high coding standards and my ability to deliver results in high pressure environments.
+
+I am comfortable with CSS tools like SASS and Bootstrap. I am particularly drawn to your use of React and functional programming with Ramda. Having performed extensive code reviews and participated in pair programming, I understand the value of collaborative development in an Agile setting. I am eager to transition my expertise in C# and JQuery to your modern stack, leveraging my familiarity with the NodeJS ecosystem and CI/CD workflows to contribute to your success. I am keen to expand my knowledge of AWS and Terraform, as I am always looking to understand the full domain beyond my immediate focus.
+
+My proven track record and dedication to high quality development make me a strong candidate for this role. I look forward to discussing how my technical skills and passion for clean code can benefit your organization. Thank you for your consideration and time. I look forward to your response.
+
+Sincerely, Alexis

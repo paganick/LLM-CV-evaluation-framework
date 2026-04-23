@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in web development, their background is heavily focused on Drupal and PHP rather than the required modern JavaScript ecosystem. The resume shows no professional experience with React, TypeScript, or the modern testing frameworks (Jest, Cypress) and functional programming paradigms specified as essential. Consequently, the candidate lacks the specific technical expertise needed for this modern frontend-focused role.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Information Technology Specialist III (Drupal Dev) position at your organization. With over five years of experience in Drupal development, I am confident that my skills and expertise make me an ideal candidate for this role.
+
+As a seasoned Drupal developer, I have a proven track record of delivering high-quality solutions that meet the needs of complex projects. My most notable achievement is leading the NYSED.GOV redesign project, where I re-architected the website and content strategy, migrating all data and building a custom Responsive Drupal theme. I also developed several themes, modules, and processes to extend Drupal's functionality and streamline the authoring experience for content creators.
+
+In addition to my expertise in Drupal, I have a strong foundation in JavaScript, HTML5, CSS3, and PHP, which has enabled me to develop robust frontend and backend solutions. My experience with versioning management systems, such as Git, has also allowed me to effectively collaborate with teams and manage multiple concurrent projects.
+
+As a skilled problem solver and analytical thinker, I have developed complex business intelligence reports using SQL, PL/SQL, and XML. I am confident in my ability to analyze client requirements and develop functional software solutions that meet their needs.
+
+I am particularly drawn to this role because of the organization's commitment to staying up-to-date with the latest technologies and best practices. As a passionate learner, I thrive in environments where innovation and collaboration are encouraged.
+
+In addition to my technical skills, I possess excellent communication and project management skills, which have been demonstrated through my ability to provide weekly status reports, statistics, and recommendations to upper management. My experience as an IT Chair of the IT Committee Board has also honed my leadership skills, enabling me to effectively collaborate with teams and manage multiple projects.
+
+I am excited about the opportunity to bring my expertise and passion for innovation to your team. Thank you for considering my application. I look forward to discussing this position further.
+
+Sincerely,
+Alexis

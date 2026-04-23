@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and art, with minimal experience in front-end development technologies. While they express interest in transitioning to a front-end role, they lack the required experience in JavaScript, TypeScript, React, testing frameworks, and other essential technologies listed in the job description. Their skills and experience do not align with the technical requirements of the role.

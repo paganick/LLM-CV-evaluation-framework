@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills in HTML and web design but lacks solid experience in JavaScript, TypeScript, and modern frontend frameworks like React, which are critical for the role. Their background is predominantly administrative and creative, making it difficult to assess their technical proficiency. While they demonstrate willingness to learn and a collaborative mindset, the lack of specific experience in required technologies places them at a disadvantage.

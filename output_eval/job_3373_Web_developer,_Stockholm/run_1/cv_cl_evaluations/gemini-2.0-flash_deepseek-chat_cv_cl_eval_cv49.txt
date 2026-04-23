@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a data analysis background and is attempting to pivot to frontend development. While the cover letter mentions some relevant technologies (JavaScript, TypeScript, HTML, CSS, Git), the resume lacks concrete experience in these areas. The candidate expresses interest in learning React and other frontend tools but lacks demonstrable experience required for the role.

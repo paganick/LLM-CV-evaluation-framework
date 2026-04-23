@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is primarily a Java-focused developer and Test Automation Engineer whose professional experience centers on Selenium, Cucumber, and Spring Boot rather than a dedicated modern frontend stack. While they list React and SASS, the resume lacks evidence of professional experience with TypeScript, functional programming, and JavaScript-specific testing frameworks like Jest or Cypress. Furthermore, their background in Jenkins and Java-based automation does not align closely with the preferred CI/CD and modern frontend tooling requested.

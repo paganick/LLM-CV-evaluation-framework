@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web development fundamentals like JavaScript and HTML, but lacks explicit experience with modern FE frameworks, particularly React (mentioned as the primary framework used). While the cover letter expresses interest in learning React, the resume doesn't showcase practical experience with the specific technologies outlined in the job description. The candidate also lacks experience in testing frameworks and other tools mentioned in the job description.

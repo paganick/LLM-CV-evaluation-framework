@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in project management, with some exposure to front-end technologies. While they mention JavaScript, HTML, and CSS, the resume and cover letter highlight project leadership more than hands-on coding. The lack of specific experience with modern FE frameworks beyond a general mention of React and Angular is a concern.

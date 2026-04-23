@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume primarily showcases experience in marketing automation and technology, with no demonstrated proficiency in core technical skills required for the job, such as JavaScript, TypeScript, or modern front-end frameworks like React. Additionally, the lack of experience in hands-on testing automation, Git, or security knowledge relevant to web applications significantly detracts from their qualifications for this position.

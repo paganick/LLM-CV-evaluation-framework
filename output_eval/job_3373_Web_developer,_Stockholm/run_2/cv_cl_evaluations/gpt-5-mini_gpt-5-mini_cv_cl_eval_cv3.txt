@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational web skills (HTML, CSS, JavaScript) and a degree with practical projects, but lacks hands-on experience with core requirements such as React, TypeScript, modern testing frameworks, Git-based workflows, Node/npm tooling, CI/CD, and cloud/infra. They express willingness to learn, but the role expects immediate proficiency with modern front-end frameworks, testing and tooling. Given the gap between their current skillset and the job's required stack, this is a borderline entry-level fit rather than a strong match.

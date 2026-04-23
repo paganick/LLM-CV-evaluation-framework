@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive graphic design background is in a relevant industry but lacks the specific, hands-on technical experience required for a modern front-end developer role. The cover letter mentions awareness of some required technologies (React, Git, security concepts) but provides no evidence of practical application, coding proficiency, or experience with testing, frameworks, and tooling listed in the job description. The core skills emphasized are design and freelance project management, not software development.

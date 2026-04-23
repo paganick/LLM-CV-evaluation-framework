@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy Java backend developer whose professional experience lacks the required mastery of modern frontend technologies like React, TypeScript, and SASS. While they possess relevant industry experience in Agile environments, their resume demonstrates no professional track record with modern testing frameworks (Jest/Cypress) or functional programming. The candidate’s skills are primarily rooted in outdated Java frameworks (Struts, JSP) rather than the modern frontend ecosystem specified in the job description.

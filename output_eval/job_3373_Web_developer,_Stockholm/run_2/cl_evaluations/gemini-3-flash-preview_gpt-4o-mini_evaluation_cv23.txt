@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to mention TypeScript, which is a primary requirement, and their testing experience relies on legacy enterprise tools rather than the modern frameworks like Jest or Cypress specified. While they demonstrate a foundational grasp of React and Agile methodologies, their professional background as an Engineering Lab Technician suggests a lack of direct experience in a dedicated software development role. Additionally, the letter overlooks essential requirements such as Git, functional programming, and cloud infrastructure.

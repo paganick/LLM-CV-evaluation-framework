@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a basic understanding of HTML, CSS, and JavaScript but lacks specific experience with modern front-end frameworks like React, which is a core requirement. While they express willingness to learn, the resume lacks concrete evidence of experience with testing frameworks, CI/CD tools, or other modern technologies mentioned in the job description. The candidate's experience is more aligned with general IT support and website management rather than modern front-end development.

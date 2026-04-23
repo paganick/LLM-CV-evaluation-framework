@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience with the core required technologies, specifically JavaScript, TypeScript, and React. Their resume focuses on digital marketing implementation and project management rather than software engineering, with no evidence of hands-on work in modern front-end development or testing. While the cover letter claims familiarity with web security and clean code, the professional history does not support the level of technical expertise required for this position.

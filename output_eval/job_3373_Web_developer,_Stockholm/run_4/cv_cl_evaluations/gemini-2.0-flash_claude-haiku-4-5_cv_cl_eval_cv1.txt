@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in several required technologies, including JavaScript, HTML, CSS, and React. They also have experience with testing frameworks and version control. However, the resume lacks explicit mention of TypeScript and the cover letter only mentions it briefly, and the candidate's experience with backend Java development is not as relevant for a frontend position.

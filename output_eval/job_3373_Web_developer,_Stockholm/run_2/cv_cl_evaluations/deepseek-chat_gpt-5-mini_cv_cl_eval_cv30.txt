@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, quality assurance for data systems, and academia, not in modern front-end development. The job requires core proficiency in JavaScript/TypeScript, React, and modern FE tooling, which the candidate explicitly lacks hands-on experience with. While they demonstrate strong analytical and testing discipline, their technical skills are misaligned with the specific front-end engineering and framework requirements of the role.

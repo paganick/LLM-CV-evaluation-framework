@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks direct, hands-on experience with the core technologies listed in the job description, specifically React and modern frontend frameworks. While they mention JavaScript and CSS, their primary expertise is in Drupal, PHP, and backend-focused tools, with no demonstrated commercial experience in the required React/TypeScript/Node.js ecosystem. Their testing experience (Selenium, Behat) is not aligned with the specified modern testing stack (Jest, Cypress).

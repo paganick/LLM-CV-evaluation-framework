@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in the relevant industry of web design, they lack the core technical competencies required for this developer role, specifically JavaScript, TypeScript, and React. The cover letter fails to address any experience with testing frameworks, Git, CI/CD, or security protocols mentioned in the job description. As a strict recruiter, interest in learning does not compensate for the absence of nearly all mandatory technical skills listed.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over two decades of experience, their background is primarily in backend development (ASP.Net/C#) and legacy frontend technologies rather than the modern React/TypeScript stack required. They explicitly admit to lacking experience with essential tools mentioned in the job description, such as Jest, Cypress, Styled Components, and CI/CD pipelines. Despite strong soft skills and Agile experience, they do not currently possess the specific technical expertise or modern frontend specialization necessary for this role.

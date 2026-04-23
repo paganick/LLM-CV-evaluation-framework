@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and programming but lacks direct experience with core technologies listed in the job description, such as JavaScript, TypeScript, HTML, CSS, and modern frontend frameworks like React. While they have a solid analytical skill set and collaborative experience, their limited exposure to the required programming languages and frameworks makes them less suitable for this role.

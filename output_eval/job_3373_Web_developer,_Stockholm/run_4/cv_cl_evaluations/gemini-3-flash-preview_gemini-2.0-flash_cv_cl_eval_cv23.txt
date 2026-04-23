@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily an electronics and hardware technician whose professional experience lacks any practical application of frontend development or modern web frameworks like React and TypeScript. While the resume mentions "Java script" as a skill, there is no evidence of software engineering experience, web-specific testing tools, or CI/CD knowledge required for this role. The candidate’s background in circuit troubleshooting and hardware validation is fundamentally mismatched with the requirements of a Senior/Mid-level Frontend Developer.

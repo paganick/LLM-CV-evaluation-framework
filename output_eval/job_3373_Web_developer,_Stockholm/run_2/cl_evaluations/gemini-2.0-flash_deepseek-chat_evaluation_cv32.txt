@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates self-taught proficiency in the required technologies (JavaScript, TypeScript, HTML, CSS, React, Jest, ESLint, Prettier, Node.js, npm, CORS, OAuth), the lack of formal development experience is a concern. The cover letter relies heavily on transferable skills from customer service and management, which, while valuable, don't fully compensate for the absence of professional development tenure. The candidate expresses interest in modern practices, but the extent of hands-on experience isn't clear.

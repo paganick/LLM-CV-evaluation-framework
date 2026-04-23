@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in materials analysis, a field completely unrelated to front-end development. While the cover letter expresses interest in transitioning to front-end development and lists some relevant technologies, the resume lacks any practical experience with JavaScript, modern FE frameworks, or relevant tools. The candidate's skillset and experience do not align with the job description's requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive full-stack experience but primarily in legacy .NET and AngularJS, not the modern React/TypeScript stack specified. They demonstrate relevant soft skills and a testing mindset, but lack direct, hands-on experience with the core required technologies (React, TypeScript, modern FE tooling, Node.js ecosystem, functional programming with Ramda). Their experience is in a different tech stack, making them a relevant industry candidate who lacks the specific skills for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's entire professional history is in materials analysis and metallurgy, representing a completely different industry and functional domain. The resume lacks any professional software development experience or evidence of working with the required tech stack like React, TypeScript, or CI/CD tools. While the cover letter expresses interest in a career transition, the candidate remains unqualified for a professional developer position based on their documented work history.

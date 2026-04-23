@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive web development experience, strong backend/.NET skills, proven testing/process improvements, and solid Agile collaboration—making them relevant to the role. However they lack demonstrated hands-on experience with key required technologies (React, TypeScript, modern JS tooling/Node/npm, Git/GitHub workflows, modern testing frameworks, and modern CSS approaches), and have primarily worked with legacy stacks and AngularJS, so they do not meet several critical front-end requirements.

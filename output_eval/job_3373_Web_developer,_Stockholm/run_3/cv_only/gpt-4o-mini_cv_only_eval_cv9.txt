@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate does have a strong background in Java and web technologies but lacks specific experience with JavaScript, TypeScript, and modern front-end frameworks such as React, which are critical requirements for the position. Their experience is primarily back-end focused, and they do not demonstrate familiarity with testing frameworks or CI/CD tools mentioned in the job description. Overall, they have relevant industry experience but do not possess the necessary skills for this particular role.

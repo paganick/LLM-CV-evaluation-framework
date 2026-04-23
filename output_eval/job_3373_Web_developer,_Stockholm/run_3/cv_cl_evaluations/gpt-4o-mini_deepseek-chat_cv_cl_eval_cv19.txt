@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and demonstrates proficiency in HTML, CSS, and JavaScript, aligning partially with the required skills. However, they lack significant experience with modern front-end frameworks such as React, as well as testing frameworks and knowledge of security practices. While there are relevant skills, the candidate’s experience appears insufficient for the specific requirements of the front-end developer role.

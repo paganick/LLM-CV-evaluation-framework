@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive digital communications and content-management experience but lacks any demonstrated hands-on front-end development skills (JavaScript/TypeScript, React, modern CSS, Node/npm, testing frameworks, Git/GitHub) required by the role. Their cover letter expresses willingness to learn, but there is no evidence of practical experience, projects, or technical proficiency to perform the job. This is a career-transition applicant from a different discipline and therefore does not meet the technical baseline for the position.

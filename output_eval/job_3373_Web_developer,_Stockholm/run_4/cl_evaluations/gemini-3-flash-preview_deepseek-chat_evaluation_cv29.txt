@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses the theoretical knowledge of the required tech stack and comes from the relevant software industry, they lack any professional experience as a developer. A strict evaluation reveals a deficit in hands-on experience with production-level testing, CI/CD pipelines, and infrastructure tools like AWS or Terraform mentioned in the job description. The candidate is a career-changer whose expertise is primarily in business development rather than core engineering.

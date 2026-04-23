@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is entirely different, lacking direct frontend experience. While they mention skills relevant to teamwork and project management, the cover letter heavily relies on transferable skills rather than demonstrable technical abilities in JavaScript, React, or related technologies. The candidate acknowledges their technical foundation requires development, which is a significant gap for a frontend developer role.

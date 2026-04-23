@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a broad IT background with mentions of JavaScript, HTML, and CSS, but lacks demonstrable depth in modern FE frameworks like React (the company's chosen framework). While the cover letter expresses interest in functional programming and the Node.js ecosystem, the resume lacks concrete projects or experience showcasing these skills. The candidate's experience seems more geared towards general IT consulting and systems administration rather than specialized frontend development.

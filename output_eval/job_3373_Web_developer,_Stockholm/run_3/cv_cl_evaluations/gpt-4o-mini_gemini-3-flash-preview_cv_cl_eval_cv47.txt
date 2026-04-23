@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development and mentions some relevant programming experience, but lacks direct expertise in key technologies specified in the job description, such as JavaScript, TypeScript, modern front-end frameworks, and testing frameworks. Additionally, while they show an eagerness to learn, there is insufficient evidence of hands-on experience in front-end development or related roles, which significantly hinders their fit for this position.

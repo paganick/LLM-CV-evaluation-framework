@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in film and media production with no demonstrated professional skills in JavaScript, TypeScript, React (or other modern front-end frameworks), testing frameworks, Git workflows, Node/npm, or related tooling required by the role. While they show transferable project management, design, and website/content experience, they lack the specific hands-on front-end development and testing expertise needed for this position. This profile is therefore not a match for the technical requirements.

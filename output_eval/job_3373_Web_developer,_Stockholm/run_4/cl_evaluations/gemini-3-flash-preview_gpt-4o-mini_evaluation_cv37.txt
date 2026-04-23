@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary professional experience is in project management rather than software engineering, which presents a significant mismatch for a technical front-end role. While they mention the correct keywords, they lack demonstrated hands-on proficiency with specific requirements such as functional programming (Ramda), CI/CD pipelines, and specific testing frameworks like Jest or Cypress. Additionally, admitting a need to learn API design confirms a lack of the "hands-on" expertise required for the level of technical responsibility described.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in C#/.NET backend development and data science, with only foundational frontend skills listed. They lack direct, professional experience with the core requirements of React, TypeScript, modern CSS tools, and specific testing frameworks mentioned in the job description. While they express enthusiasm for learning the stack and have some relevant foundational knowledge, their hands-on professional background does not align with the specific technical demands of the role.

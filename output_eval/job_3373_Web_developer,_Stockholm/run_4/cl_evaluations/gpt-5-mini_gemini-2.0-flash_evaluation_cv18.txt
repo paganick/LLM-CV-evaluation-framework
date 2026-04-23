@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates long-term IT and general web development experience and mentions JavaScript, HTML, CSS and modern front-end frameworks, which is relevant. However the cover letter fails to provide concrete evidence of key required skills (TypeScript, React-specific experience, testing/test automation, Git, Node/npm, modern CSS tools, linters, CI/CD, and web security knowledge). Given the gap in explicit, demonstrable front-end tooling and testing experience, they are a relevant but under-qualified match for this role.

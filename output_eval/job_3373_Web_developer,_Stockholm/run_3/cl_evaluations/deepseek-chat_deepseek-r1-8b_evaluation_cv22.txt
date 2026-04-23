@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a relevant industry but lacks the specific front-end and testing skills required. The job description emphasizes modern JavaScript, React, TypeScript, and test automation, while the candidate's core strength is in databases and Java with only basic familiarity with the required technologies. Their expressed willingness to learn is positive but does not substitute for the hands-on experience explicitly sought.

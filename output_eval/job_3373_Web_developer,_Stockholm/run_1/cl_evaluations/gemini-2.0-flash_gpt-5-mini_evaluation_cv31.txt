@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in sales leadership, not front-end engineering. While they mention HTML and design tools, they lack experience with modern FE frameworks, testing, and security fundamentals specified in the job description. The cover letter highlights transferable skills, but lacks demonstrable front-end expertise.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end exposure (JavaScript, HTML/CSS, jQuery, some Angular) and strong project management and Agile collaboration experience, but lacks evidence of the core technical requirements such as React and TypeScript, modern CSS tooling, Node/npm ecosystem, testing frameworks (Jest/Cypress/TestCafe), CI/CD, and web security/cloud knowledge. Their PM certifications and cross-functional experience are valuable, but do not substitute for the hands-on modern front-end and test automation skills this role requires.

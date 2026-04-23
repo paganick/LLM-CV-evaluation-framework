@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-heavy developer with 8.5 years of Java/J2EE experience who lacks professional proficiency in the core requirements of React, TypeScript, and modern CSS tools. While they possess relevant Agile and SDLC experience, they explicitly admit to lacking skills in the specific frontend testing frameworks and styling libraries mentioned in the job description. As a transitioning developer rather than an established frontend expert, they do not meet the immediate technical needs of this specialized role.

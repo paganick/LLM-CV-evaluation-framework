@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my very enthusiastic interest in the Frontend Developer position. With a Master of Science in Industrial and Systems Engineering and a professional background as a Data Analyst, I bring a unique combination of technical rigor, logical problem-solving, and a proven ability to master complex software ecosystems. My experience in engineering and data-driven fields has provided me with a strong foundation in writing clean, efficient code and a passion for building scalable solutions.
+
+While my career began in data analysis, I have consistently gravitated toward the development side of technology. I am proficient in Python and SQL, and I have extensive experience building and deploying models. For instance, my work as a consultant involved using Random Forest algorithms in R and deploying those models using Python. This hands-on experience with deployment aligns with your need for developers familiar with the NodeJS ecosystem and API design. I understand the importance of performance and security, and I am eager to apply my knowledge of web security and AWS to your current infrastructure.
+
+I am particularly drawn to the firm's use of React and functional programming libraries like Ramda. My background in mathematics and statistics gives me a natural affinity for functional programming principles. Furthermore, my Lean Six Sigma Green Belt certification demonstrates my commitment to quality and process improvement. I apply the DMAIC methodology to everything I build, ensuring that my code is not only functional but also maintainable and thoroughly tested. I am comfortable with unit and integration testing and look forward to utilizing tools like Jest and Cypress within your Agile environment.
+
+In my previous roles, such as Student Manager and Intern, I have proven myself to be a strong collaborator. I am comfortable interacting with cross-functional teams and external partners to ensure project success. My experience with AutoCAD and layout optimization shows my attention to detail in UI/UX considerations, which I am eager to translate into modern CSS tools like Styled Components and SASS.
+
+I am highly motivated to transition into a dedicated development role where I can contribute to your transition away from Ruby and help build robust applications using TypeScript and React. Thank you for your time and consideration. I look forward to the possibility of discussing how my analytical mindset and technical skills can benefit your engineering team.
+
+Sincerely,
+Alexis

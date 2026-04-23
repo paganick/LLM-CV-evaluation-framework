@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and environmental science, with limited explicit experience in modern front-end development. While the cover letter mentions some relevant technologies, the resume lacks substantial evidence of hands-on experience with JavaScript, React, or related front-end frameworks as emphasized in the job description. The candidate's skills lean more towards data analysis and statistical modeling rather than the required software engineering skillset.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary expertise is in PHP and backend development, which is not the focus of this frontend-heavy role. While they mention JavaScript and React, the experience is described as familiarity and eagerness to learn, not hands-on proficiency. They fail to address key requirements like TypeScript, modern CSS tools, specific testing frameworks, and security knowledge.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant project management experience and a background in web development with JavaScript, HTML, and CSS. However, they lack direct hands-on experience with React, as indicated in the job description, and do not demonstrate strong familiarity with testing frameworks or modern CSS tools. While they show a willingness to learn and a strong understanding of Agile methodologies, key technical skills are not sufficiently highlighted.

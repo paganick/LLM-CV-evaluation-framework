@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not frontend development. While they express interest in frontend technologies and are developing proficiency, the cover letter lacks sufficient evidence of hands-on experience with the specific technologies mentioned in the job description (React, modern CSS tools, testing frameworks). The candidate's experience seems more theoretical than practical.

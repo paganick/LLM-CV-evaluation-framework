@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's primary experience is in business development and sales, with no professional front-end engineering experience demonstrated. The listed programming skills (HTML, C, C++) are outdated and not aligned with the required modern JavaScript/TypeScript and React ecosystem. The cover letter attempts to claim relevant skills but lacks concrete, verifiable project or work history to support proficiency in the core technologies and methodologies specified in the job description.

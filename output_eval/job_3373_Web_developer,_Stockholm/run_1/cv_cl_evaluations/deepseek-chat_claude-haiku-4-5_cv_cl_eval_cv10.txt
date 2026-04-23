@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE back-end development and AngularJS, which is an outdated framework. They lack hands-on experience with the required modern React stack, modern CSS tools, and specific testing frameworks like Jest or Cypress. While they have some relevant foundational knowledge (JavaScript, Agile, Git) and a strong academic background, their professional skills do not align with the specific technical requirements of the role.

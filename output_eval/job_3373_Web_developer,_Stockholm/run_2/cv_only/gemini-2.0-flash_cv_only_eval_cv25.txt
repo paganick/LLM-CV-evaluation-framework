@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume is for a Graphic Designer, lacking the required JavaScript, TypeScript, React, or other modern FE framework experience. While the candidate lists HTML and CSS skills, the overall focus is on graphic design and print materials, not front-end development. The resume does not demonstrate any experience with testing frameworks, CI/CD tools, or cloud platforms mentioned in the job description.

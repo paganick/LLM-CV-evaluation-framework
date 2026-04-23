@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, which is a mismatch for the frontend focus. While the cover letter mentions some exposure to JavaScript, HTML, and CSS, the resume highlights COBOL, CICS, and DB2. There's a stated interest in modern frameworks but a lack of concrete experience.

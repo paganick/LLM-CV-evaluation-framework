@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has worked with JavaScript, HTML, and CSS; however, their focus has predominantly been on .NET technologies rather than modern front-end frameworks like React. While they express a willingness to learn and adapt, they lack direct experience with the specified technologies, testing frameworks, and the required knowledge of web security as per the job description.

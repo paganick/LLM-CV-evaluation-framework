@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in the core React and TypeScript stack and meets the testing requirements with Jest and Cypress. However, they explicitly acknowledge a lack of professional experience in essential listed areas such as NodeJS, functional programming with Ramda, and CI/CD pipelines. While the design background is a value-add, the candidate requires further technical development to fully master the team's specific toolset and infrastructure.

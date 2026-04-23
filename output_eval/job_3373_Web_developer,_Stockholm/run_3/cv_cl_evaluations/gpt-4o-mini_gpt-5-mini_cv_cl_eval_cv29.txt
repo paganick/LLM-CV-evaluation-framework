@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in business development within the cloud software industry but lacks direct front-end engineering skills, specifically in JavaScript, React, and modern CSS frameworks. While they demonstrate a strong understanding of product and technical collaboration, they do not possess the specific hands-on programming experience or testing framework expertise required for this role.

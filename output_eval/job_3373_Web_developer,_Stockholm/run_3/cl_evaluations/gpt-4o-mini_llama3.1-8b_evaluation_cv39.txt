@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in graphic and product design, they lack specific hands-on experience with modern front-end frameworks and libraries such as React, as well as testing frameworks and tools mentioned in the job description. Their skills in security and tools like Git are noted, but overall, they do not demonstrate the comprehensive technical expertise needed for the role.

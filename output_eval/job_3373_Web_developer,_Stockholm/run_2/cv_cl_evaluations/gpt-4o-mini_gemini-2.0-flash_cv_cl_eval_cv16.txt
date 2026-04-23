@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, particularly in JavaScript, HTML, and CSS, but lacks hands-on experience with modern front-end frameworks like React, which is critical for the role. While they have worked in an Agile environment and understand version control with Git and GitHub, their skills in testing automation and familiarity with the specific technologies mentioned in the job description, such as Jest and Cypress, are underdeveloped.

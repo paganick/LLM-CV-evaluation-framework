@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is focused on marketing, public relations, legal and event management with no demonstrated frontend development, programming, or technical skills. There is no evidence of JavaScript/TypeScript, React (or other frameworks), testing, Git, NodeJS, or cloud/infra knowledge required by the role. The candidate is in a completely different industry and does not meet the core technical or tooling requirements.

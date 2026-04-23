@@ -1,0 +1,2 @@
+Score: 5
+        Reasoning: While the candidate has five years of general software development experience, their resume lacks any professional evidence of working with the core requirements of React or TypeScript. Their background is heavily focused on .NET, C#, and Python, which does not align with the modern front-end stack and specific testing frameworks requested in the job description. Despite claiming alignment in the cover letter, the technical work history fails to demonstrate the required hands-on expertise in the primary technologies used by the team.

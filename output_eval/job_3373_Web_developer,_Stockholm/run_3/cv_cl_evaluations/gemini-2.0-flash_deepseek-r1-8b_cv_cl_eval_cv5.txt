@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe development, a very different skillset from the modern web technologies listed in the job description. While they express a willingness to learn, there is limited evidence of existing skills in JavaScript, React, or related front-end technologies. Their experience in testing and collaboration is relevant, but the lack of direct experience with the core technologies is a significant drawback.

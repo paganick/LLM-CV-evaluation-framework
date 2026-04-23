@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end fundamentals (JavaScript, HTML, CSS), Git experience and Agile collaboration, but lacks hands-on experience with React/TypeScript and key ecosystem tools. Missing are testing and test automation experience, modern CSS tooling, Node/npm familiarity, linters/CI practices and basic web security knowledge, so they are not yet a strong match despite clear willingness to learn.

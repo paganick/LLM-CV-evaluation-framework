@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience in the core requirements of React and TypeScript, explicitly stating a need to "deepen" these skills rather than demonstrating current proficiency. While they possess a strong background in Java, testing methodologies, and API design, their profile is that of a backend developer attempting a career pivot. From a strict HR perspective, the candidate does not meet the technical seniority required for a modern front-end role despite their overall years in the IT industry.

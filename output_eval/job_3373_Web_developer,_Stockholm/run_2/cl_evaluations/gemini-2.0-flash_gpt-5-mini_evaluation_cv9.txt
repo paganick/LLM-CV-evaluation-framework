@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily server-side, with limited front-end experience. While they express interest in modern front-end technologies and demonstrate aptitude for learning, they lack significant hands-on experience in the specified frameworks (React, VueJS, Angular, Svelte) mentioned in the job description. They have some familiarity with related tools and concepts, but fall short of the hands-on experience required.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, not software engineering, representing a completely different industry. While the cover letter attempts to bridge the gap, the resume shows zero hands-on experience with the core required technologies like JavaScript, React, TypeScript, or any modern frontend frameworks. The foundational knowledge mentioned is insufficient for a professional engineering role.

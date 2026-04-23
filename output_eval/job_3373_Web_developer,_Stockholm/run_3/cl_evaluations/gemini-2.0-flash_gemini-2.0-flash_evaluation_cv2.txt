@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant IT background but lacks direct frontend experience, specifically with React, testing frameworks, and CSS tools mentioned in the job description. While they express eagerness to learn, their current skill set does not fully align with the requirements. Their backend experience could be valuable, but a significant transition is needed.

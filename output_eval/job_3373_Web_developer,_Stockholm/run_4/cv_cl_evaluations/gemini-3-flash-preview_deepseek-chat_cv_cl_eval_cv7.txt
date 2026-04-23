@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer lacking professional experience in the required software engineering stack, specifically JavaScript, TypeScript, and React. The resume provides no evidence of hands-on experience with automated testing, modern front-end frameworks, or web security protocols. While the candidate has visual design expertise, they are fundamentally unqualified for a technical developer position.

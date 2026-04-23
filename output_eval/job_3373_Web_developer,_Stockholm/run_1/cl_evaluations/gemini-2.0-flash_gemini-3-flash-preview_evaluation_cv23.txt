@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates some familiarity with JavaScript, HTML, CSS, and Git, the cover letter emphasizes testing experience more than frontend development. The stated experience with React, TypeScript, and related tools is limited. The candidate shows potential but lacks the depth of experience required for a strong match.

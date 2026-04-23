@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's 20-year career is in finance operations with no demonstrable front-end development experience or listed technical skills (JavaScript, TypeScript, React, HTML/CSS, testing frameworks, Git, NodeJS). Their resume only cites Microsoft Office and finance systems, and the cover letter offers willingness to learn but no concrete evidence of required technical competencies or projects. Given the job's hands-on technical requirements, the candidate is not qualified for this role.

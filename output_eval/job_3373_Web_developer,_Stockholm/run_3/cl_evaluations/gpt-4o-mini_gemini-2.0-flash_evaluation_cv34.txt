@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML, CSS, and SQL, which are important for a Front-End Developer role. However, they lack experience with modern JavaScript frameworks like React and do not mention familiarity with testing frameworks, Git, or modern CSS tools, which are critical requirements in the job description. Their background as an Implementation Consultant does not align closely enough with the specific skills needed for this position.

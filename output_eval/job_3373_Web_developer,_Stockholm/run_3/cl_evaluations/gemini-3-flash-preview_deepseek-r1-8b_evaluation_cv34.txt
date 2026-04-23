@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary required technologies, specifically JavaScript, TypeScript, and React, citing only "familiarity" and "coursework" rather than hands-on application. They do not demonstrate proficiency in essential areas such as automated testing frameworks, Git, web security, or the modern Node.js ecosystem. While the applicant possesses transferable soft skills and basic HTML/CSS knowledge, their technical background is currently insufficient for a developer-level position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analysis and industrial engineering, not frontend software engineering, which is a significant mismatch for the core role. They explicitly lack direct experience with the required technologies (JavaScript, TypeScript, modern frontend frameworks) and do not address key requirements like web security, testing frameworks, or the specific tech stack (NodeJS, AWS, etc.). While they demonstrate relevant soft skills and a willingness to learn, their technical profile is not aligned with the job's specific demands.

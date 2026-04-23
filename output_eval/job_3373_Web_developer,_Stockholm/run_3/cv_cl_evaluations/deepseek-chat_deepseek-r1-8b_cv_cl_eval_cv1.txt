@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume demonstrates strong Java backend and test automation experience, but it is heavily skewed towards backend development and older technologies. The cover letter claims frontend and React skills, but the resume shows only brief, dated mentions of ReactJS and AngularJS, with no evidence of modern React, TypeScript, or the specific tools listed in the job description. The profile is relevant to software engineering but lacks the specific, recent frontend and modern framework expertise required for this role.

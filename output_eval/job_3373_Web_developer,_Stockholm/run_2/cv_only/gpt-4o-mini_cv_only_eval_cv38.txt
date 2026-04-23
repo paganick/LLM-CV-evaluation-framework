@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has a background in film and media production with no relevant experience or skills in JavaScript, TypeScript, HTML, CSS, or any modern front-end frameworks such as React. There is also no indication of hands-on experience with testing, Git, or knowledge of web security, which are essential for the job. Overall, this candidate does not fit the technical requirements of the role at all.

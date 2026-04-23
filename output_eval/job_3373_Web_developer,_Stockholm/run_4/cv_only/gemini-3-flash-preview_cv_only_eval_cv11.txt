@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized Test Analyst rather than a Front-end Developer, lacking the essential experience in React, TypeScript, and modern CSS tools required for the role. While they possess basic JavaScript and HTML knowledge, their profile focuses on QA methodologies and automation tools like Selenium instead of software development and system architecture. Key requirements such as NodeJS, CI/CD, and AWS are completely missing from their professional background.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film/TV production and project management, lacking the core technical skills (JavaScript, TypeScript, React, etc.) specified in the job description. While the cover letter expresses interest in learning these technologies, the resume does not demonstrate existing experience. The candidate's skills are mainly in video editing and social media, not front-end development.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with no professional experience in software engineering, JavaScript, or modern front-end frameworks like React. While they possess strong analytical skills from a materials engineering background, they lack the technical proficiency and hands-on experience in web development, testing, and CI/CD tools required for this role. Their current skill set is rooted in manufacturing and materials analysis, which does not align with the core requirements of the job description.

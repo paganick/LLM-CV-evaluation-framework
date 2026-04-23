@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with core frontend requirements (React, TypeScript, modern CSS tools, testing frameworks, Node/npm, Git, CI/CD, and web security) which are central to the role. Their strengths are primarily in mainframe technologies (COBOL, DB2) and transferable skills like attention to detail and Agile collaboration. While motivated and able to learn, the current technical gaps mean they are not yet qualified for this frontend position.

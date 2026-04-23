@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required technologies (JavaScript, React, Git, Agile), but the resume is heavily focused on Java backend development and older test automation tools (Selenium, Cucumber). The cover letter overstates modern frontend and testing experience, and key requirements like TypeScript, modern testing frameworks (Jest, Cypress), and specific security knowledge are not substantiated by the resume's details.

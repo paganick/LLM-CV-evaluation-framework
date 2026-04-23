@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant background in IT and general web development, they explicitly admit that their experience with the primary requirement, React, is still evolving. The application fails to demonstrate hands-on experience with mandatory tools such as TypeScript, Git, or specific testing frameworks like Jest or Cypress. Consequently, the candidate lacks the specialized front-end expertise and technical depth required for this mid-to-senior level position.

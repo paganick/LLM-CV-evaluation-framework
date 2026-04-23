@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive background is in product management and marketing, not in hands-on front-end development. The resume and cover letter lack any mention of the required technical skills (JavaScript, React, testing frameworks, etc.) listed in the job description. This is a severe mismatch for a developer role, indicating a completely wrong industry fit.

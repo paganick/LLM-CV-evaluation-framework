@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience as a .NET Developer and demonstrates proficiency in core web technologies, which aligns well with the job requirements. However, the lack of specific experience with TypeScript, modern CSS tools, and some technologies mentioned such as NodeJS and functional programming places them at a strong but not perfect match level.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, TypeScript, HTML, CSS, React, testing frameworks, and Git, aligning with the job description. They mention familiarity with security concepts, Node.js, and CI/CD tools. The cover letter highlights experience in collaborative, Agile environments and a dedication to clean code, fulfilling several key requirements.

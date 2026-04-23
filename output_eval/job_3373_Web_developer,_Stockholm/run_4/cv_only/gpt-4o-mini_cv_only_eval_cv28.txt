@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume does not reflect any relevant experience or skills related to JavaScript, TypeScript, HTML, CSS, or any front-end frameworks such as React, VueJS, or Angular. Furthermore, there is no indication of familiarity with testing frameworks or web security principles outlined in the job description. The candidate's background is strictly in materials analysis and quality assurance, which is unrelated to the required role in software development.

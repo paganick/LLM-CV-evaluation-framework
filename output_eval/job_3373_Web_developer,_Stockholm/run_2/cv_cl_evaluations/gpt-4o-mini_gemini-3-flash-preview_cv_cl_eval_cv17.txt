@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in project management and engineering, but lacks direct experience with JavaScript, TypeScript, and relevant frontend frameworks like React. Although they demonstrate an understanding of testing frameworks and collaboration in agile environments, their technical proficiency in the required areas is insufficient for the role.

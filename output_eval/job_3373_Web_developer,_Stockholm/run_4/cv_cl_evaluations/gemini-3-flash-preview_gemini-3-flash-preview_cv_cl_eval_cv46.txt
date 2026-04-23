@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a relevant educational background but lacks any professional experience with modern frontend frameworks like React or TypeScript, which are core requirements for this role. Their professional history is heavily focused on backend Java development and database administration, with the most recent relevant experience ending in 2017. There is no evidence in the resume of hands-on experience with the specific testing tools, functional programming (Ramda), or modern CSS methodologies requested in the job description.

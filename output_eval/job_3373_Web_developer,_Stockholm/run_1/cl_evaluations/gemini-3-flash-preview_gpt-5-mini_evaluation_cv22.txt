@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory hands-on experience with JavaScript, TypeScript, and React, explicitly stating they are only currently learning these core requirements. Furthermore, the application provides no evidence of proficiency in testing automation, web security, or modern CSS tools required for the role. While the candidate has strong soft skills and a technical academic background, their profile is currently unsuitable for a front-end engineering position that demands immediate technical competency in a specific stack.

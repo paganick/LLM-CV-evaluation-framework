@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong graphic design background but lacks hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they express a keen interest in transitioning to front-end development and have some knowledge of HTML and CSS, they do not meet the technical requirements outlined in the job description. Their experience in design does not directly translate to the development skills necessary for this role.

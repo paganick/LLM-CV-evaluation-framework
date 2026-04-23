@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable hands-on experience with the core technologies required. The resume shows dated and broad IT consulting skills, with no mention of React, TypeScript, modern testing frameworks, or the specific tools listed. The cover letter attempts to align with the job description but does not provide concrete evidence of recent, relevant frontend development work.

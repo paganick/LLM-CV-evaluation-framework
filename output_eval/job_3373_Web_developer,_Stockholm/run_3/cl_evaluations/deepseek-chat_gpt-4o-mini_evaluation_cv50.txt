@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required technologies (JavaScript, TypeScript, React, SASS, Jest, TestCafe). However, the cover letter is heavily weighted toward project management and business development, with insufficient detail on hands-on technical implementation, specific testing frameworks, or other key tools from the job description (e.g., Git, Node.js, CI/CD, functional programming). The technical depth for a Front-End Developer role is not convincingly demonstrated.

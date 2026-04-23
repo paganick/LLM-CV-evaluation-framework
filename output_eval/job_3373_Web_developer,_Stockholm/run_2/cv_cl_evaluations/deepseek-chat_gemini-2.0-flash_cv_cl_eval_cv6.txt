@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal, a PHP-based CMS, which is not aligned with the job's core requirement for modern React-based development. While they list foundational skills like JavaScript, HTML, and CSS, they lack demonstrable, hands-on experience with React, TypeScript, and the specific modern toolchain (e.g., Jest, Cypress, Styled Components) required. Their stated interest in learning these technologies is noted, but the role demands proven, current expertise.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a strong analytical mindset and relevant soft skills, their background in microbiology lacks direct experience in frontend development. They show initiative in learning key technologies such as JavaScript, TypeScript, and React, but do not possess hands-on experience with testing frameworks and CI/CD tools, which are critical for the role. Overall, they are in the relevant industry but lack specific experience needed for the position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a Product Manager applying for a highly technical software engineering role, explicitly stating their expertise lies in product strategy rather than hands-on development. The letter provides no evidence of proficiency in JavaScript, TypeScript, React, or any of the required technical stack, focusing instead on high-level Agile coordination. This represents a fundamental role mismatch, as the candidate lacks the core technical competencies and coding experience required by the position.

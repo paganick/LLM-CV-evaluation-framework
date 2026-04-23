@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant degree and general design background, their technical toolkit is significantly outdated, citing legacy software like Dreamweaver and XML instead of modern UI/UX standards. They fail to mention the specific wireframing tools requested in the job description, such as InVision or Wireframe.cc, and their experience is primarily rooted in 3D and graphic design rather than dedicated UI/UX workflows. This lack of current, specialized expertise makes them a weak fit for a fast-paced, innovative scale-up environment.

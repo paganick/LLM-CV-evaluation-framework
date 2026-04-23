@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in graphic design, not front-end development. While they mention HTML/CSS, the lack of experience with JavaScript frameworks (especially React, which the job description highlights) and testing is a significant gap. The cover letter acknowledges a commitment to learning these technologies but doesn't demonstrate current proficiency.

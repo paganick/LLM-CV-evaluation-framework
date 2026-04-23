@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace sales, business development, and quality engineering, with no demonstrated professional experience in front-end development. The cover letter makes claims about technical skills (React, TypeScript, Jest, etc.) that are not substantiated by the resume, which shows no relevant projects, roles, or technical proficiencies. This is a severe mismatch for a front-end developer role requiring hands-on coding expertise.

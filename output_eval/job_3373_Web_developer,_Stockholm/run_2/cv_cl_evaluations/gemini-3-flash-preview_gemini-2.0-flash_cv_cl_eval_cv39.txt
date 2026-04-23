@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer and Artist with no documented experience in the required software engineering stack, including JavaScript, TypeScript, or React. Their technical skills are limited to design software and "some HTML," which is insufficient for a modern Front-End Developer role. The profile lacks any evidence of experience with testing frameworks, Git, CI/CD, or the NodeJS ecosystem specified in the job description.

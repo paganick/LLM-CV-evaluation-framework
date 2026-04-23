@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced developer but lacks professional experience with the core requirements of this role, specifically React and TypeScript. Their background is heavily focused on the legacy .NET stack and jQuery, with no evidence of familiarity with modern CSS tools, CI/CD pipelines, or current frontend testing frameworks like Jest and Cypress. While they possess strong soft skills and Agile experience, they do not meet the technical bar for a modern frontend engineering position.

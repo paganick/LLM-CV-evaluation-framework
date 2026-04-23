@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows 2 years of .NET-focused full-stack development with minimal modern front-end framework experience, directly conflicting with the cover letter's claims of proficiency in React, VueJS, and TypeScript. The job requires hands-on experience with React and modern FE tooling, which is not demonstrated in the provided work history. While the candidate has relevant industry experience in web development and Agile, they lack the specific, required technical skills for this front-end role.

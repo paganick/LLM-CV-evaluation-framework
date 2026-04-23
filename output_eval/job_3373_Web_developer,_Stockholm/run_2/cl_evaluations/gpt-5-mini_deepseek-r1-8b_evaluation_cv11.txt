@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing, JavaScript/HTML, testing frameworks, and Git within Agile teams, which aligns with parts of the role. However, they do not demonstrate TypeScript or proven React experience, nor familiarity with modern frontend tooling (Styled Components/SASS), Node ecosystem, CI/CD, API design, or cloud/infra (AWS/Terraform) that the role expects. Overall, a relevant but underqualified candidate for this specific position.

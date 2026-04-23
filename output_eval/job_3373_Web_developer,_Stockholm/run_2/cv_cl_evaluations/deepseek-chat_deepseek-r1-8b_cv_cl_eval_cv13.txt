@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary and recent experience is in project management, not hands-on frontend development. While they mention familiarity with some required technologies (JavaScript, React, Git), they lack demonstrable, current experience in core requirements like TypeScript, modern testing frameworks, security concepts, and functional programming. Their background is more aligned with overseeing projects rather than being the primary contributor writing the clean code and implementing the technical stack specified.

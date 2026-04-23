@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid experience with React, JavaScript, HTML, and CSS. Their experience in test automation and familiarity with Git, GitHub, and Agile environments are beneficial. However, the resume highlights Java/J2EE more prominently than a modern FE stack, and there is a lack of explicit mentions of TypeScript, NodeJS, or modern CSS tools, as well as cloud experience mentioned in the job description.

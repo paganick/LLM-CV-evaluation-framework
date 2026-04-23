@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in graphic design and product development but lacks the necessary technical skills in JavaScript, TypeScript, and modern front-end frameworks like React. There is no relevant experience mentioned with testing frameworks, Git, or web security knowledge. Overall, the candidate does not fit into the desired tech-focused role.

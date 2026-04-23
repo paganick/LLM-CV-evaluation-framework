@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate identifies as a Corporate Project Manager, which is fundamentally misaligned with the technical Software Engineer role described in the job requirements. While the letter mentions relevant technologies like React and TypeScript, the professional experience focuses on high-level management and process design rather than hands-on coding, API design, or functional programming. This profile represents a wrong job function for a specialized engineering position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in materials analysis and manufacturing with no demonstrated experience in JavaScript, TypeScript, React, HTML/CSS, testing frameworks, Git, Node.js, or web security—core requirements of the role. While they express willingness to learn and have strong analytical skills, there is no evidence of relevant front-end development experience or technical proficiency to perform the job. This makes them largely unqualified for a frontend developer position at this time.

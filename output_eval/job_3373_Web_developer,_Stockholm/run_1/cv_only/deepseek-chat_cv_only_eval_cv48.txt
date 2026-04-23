@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in IT support, hardware repair, and field service, which is a completely different industry from modern front-end software development. The resume shows no experience with the required technologies like JavaScript, TypeScript, React, testing frameworks, or any of the specific tools listed in the job description. This is a fundamental mismatch in core skills and professional focus.

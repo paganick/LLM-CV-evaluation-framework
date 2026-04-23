@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in systems engineering and operations, not front-end development. While the letter mentions supporting web applications, it lacks demonstrable experience with modern front-end technologies like React, JavaScript, or CSS, which are core requirements. The letter focuses heavily on security and systems, which are less relevant than hands-on front-end skills for this role.

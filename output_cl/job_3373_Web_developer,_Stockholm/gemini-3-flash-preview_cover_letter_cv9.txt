@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position. With seven years of professional IT experience and a Master’s degree in Computer Applications, I offer a unique blend of deep architectural knowledge and a dedicated passion for clean, high-quality frontend development. My career has been defined by a commitment to "Clean Code" and emergent design, principles I am eager to apply within your React-focused team.
+
+While my foundation is rooted in building robust RESTful APIs and secure systems, I have a long-standing proficiency in JavaScript, HTML, and CSS. I am particularly highly excited about your use of React and modern CSS tools like Styled Components. My experience in Identity and Access Management (IAM) provided me with hands-on expertise in securing APIs with OAuth 2.0 and understanding web security protocols, directly aligning with your needs for OWASP and CORS knowledge. Furthermore, my work on the Sofia provisioning system’s UI demonstrates my ability to bridge the gap between complex backend logic and user-facing interfaces.
+
+Quality assurance is central to my workflow. I am a specialist in Test-driven development (TDD) and Behavior-driven development (BDD). In previous roles, I improved unit test coverage to over 90% and utilized Mockito and WireMock for comprehensive integration testing. I am eager to translate this expertise into your testing stack using Jest and Cypress to ensure a seamless, reliable product.
+
+Having spent five years working with German clients, including two years on-site in Berlin, I am well-versed in the local professional culture and thrive in Agile, Scrum-based environments. I am currently pursuing my A2 German certification, reflecting my dedication to long-term collaboration. My familiarity with the NodeJS ecosystem, Git, and CI/CD tools like Bamboo ensures that I can integrate smoothly into your existing workflows.
+
+I am particularly drawn to your team’s focus on functional programming with Ramda and your transition toward a more modern tech stack. I am a lifelong learner who enjoys exploring the full domain, from API design to AWS infrastructure. I am truly confident that my background in high-performance systems and my drive for frontend excellence will make me a valuable asset to your growing engineering organization.
+
+Sincerely, Alexis

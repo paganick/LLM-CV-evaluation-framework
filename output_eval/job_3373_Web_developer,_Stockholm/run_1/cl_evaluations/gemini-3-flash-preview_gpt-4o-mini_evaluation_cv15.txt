@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core front-end requirements, specifically citing experience with React, Jest, Cypress, and CircleCI. However, they failed to mention several critical requirements from the job description, most notably TypeScript, the NodeJS ecosystem, and cloud infrastructure like AWS or Terraform. While they possess the necessary collaborative mindset and security knowledge, these significant technical gaps prevent a higher score from a strict recruitment perspective.

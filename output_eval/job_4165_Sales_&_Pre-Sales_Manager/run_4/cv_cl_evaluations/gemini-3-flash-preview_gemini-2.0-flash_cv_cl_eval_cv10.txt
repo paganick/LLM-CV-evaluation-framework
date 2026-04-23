@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates significant enterprise sales experience and GTM strategy development, they lack the mandatory technical domain expertise in Application Services, Business Analytics, or Design Consulting required by the job description. The profile focus is primarily on HCM software and general marketing, providing no evidence of the ability to facilitate architectural reviews or navigate the complex technical stacks (API, Cloud, AI/ML) essential for this role.

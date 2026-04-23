@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable skills—collaboration, teaching experience, fundamentals in HTML and programming, and a clear willingness to learn—but lacks direct, hands-on experience with the core technologies listed (JavaScript/TypeScript, React, testing frameworks like Jest/Cypress, modern CSS tools, Node/npm, Git, CI/CD, and related toolchain). Their background indicates potential to grow into the role quickly, but they do not currently meet the specific technical requirements to be considered a strong match.

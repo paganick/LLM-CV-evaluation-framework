@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all the core technical requirements, including JavaScript, TypeScript, and React, which are essential for this role. While they possess basic HTML/CSS knowledge and relevant soft skills, they lack the required experience in testing, Git, and web security. This profile represents a career-changer who is not yet qualified for a professional-level developer position.

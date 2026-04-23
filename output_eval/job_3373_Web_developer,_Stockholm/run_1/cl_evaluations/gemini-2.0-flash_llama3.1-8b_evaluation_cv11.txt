@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant testing experience, particularly in manual and automation. They mention experience with JavaScript, but don't highlight TypeScript. The letter mentions Selenium IDE & WebDriver, but not the testing frameworks the job description prioritizes (Jest, TestCafe, Cypress).

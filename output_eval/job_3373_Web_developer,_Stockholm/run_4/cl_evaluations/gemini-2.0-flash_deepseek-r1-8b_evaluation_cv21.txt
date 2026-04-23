@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses full-stack experience and mentions relevant technologies like JavaScript, the cover letter heavily emphasizes .NET technologies (C#, ASP.Net, SQL) which are not the primary focus of the job description. The job description prioritizes modern FE frameworks like React (which they use) and other front-end related technologies. The candidate also does not highlight specific experience with React or other modern FE technologies and testing frameworks mentioned in the job description, which is a critical requirement.

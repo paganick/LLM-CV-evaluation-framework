@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows extensive related experience in SDLC, user research, workshops, mentoring and prototyping, which are relevant to the role. However they do not explicitly state 2–3 years of commercial UX design experience or proficiency with Figma, and their primary tooling (Documentum, MS Access) is not aligned with typical UX toolsets. Their exposure to HTML/CSS and experience supporting FDA-validated applications are positives but do not fully satisfy the job's specified requirements.

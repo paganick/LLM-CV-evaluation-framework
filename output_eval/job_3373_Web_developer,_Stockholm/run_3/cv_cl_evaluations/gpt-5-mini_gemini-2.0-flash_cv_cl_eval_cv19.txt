@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong graphic design background with basic HTML/CSS, but lacks core requirements for this Front End Developer role—no demonstrated JavaScript or TypeScript experience, no React or other modern framework work, and no evidence of testing, Git, NodeJS, or CI/CD familiarity. Their cover letter expresses willingness to learn but does not compensate for the missing technical skills and hands-on experience required to perform the job. Because of these critical gaps, the candidate is not qualified for this position in its current state.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has demonstrated some relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React as stated in their cover letter. However, their background in sales leadership lacks direct experience in software development and the specific tools and frameworks noted in the job description, which are critical for the role. Although they possess transferable skills, they do not fully meet the technical requirements needed for a Front End Developer position.

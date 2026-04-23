@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong analytical, cross-functional and process-improvement experience and claims self-study in frontend technologies, but the resume contains no demonstrable hands-on frontend development, coding projects, GitHub/activity, or professional experience with React/TypeScript, testing frameworks, and CI/CD. Given the role's requirement for proven modern frontend skills, testing automation, and Node/DevOps familiarity, the application lacks the concrete technical evidence needed to be considered a strong fit.

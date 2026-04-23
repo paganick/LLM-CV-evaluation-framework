@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in film/TV production, which lacks direct relevance to front-end development. While the cover letter highlights transferable skills like project management and communication, it lacks demonstrable experience with the core technologies (JavaScript, React, testing frameworks) listed in the job description. The candidate acknowledges the need to acquire these skills, indicating a gap in current qualifications.

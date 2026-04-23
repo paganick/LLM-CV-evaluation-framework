@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administration and the arts, lacking the core technical skills outlined in the job description. While they express interest in web development, there is no evidence of practical experience with JavaScript, TypeScript, React, or related technologies. The resume highlights skills irrelevant to the position, indicating a significant mismatch.

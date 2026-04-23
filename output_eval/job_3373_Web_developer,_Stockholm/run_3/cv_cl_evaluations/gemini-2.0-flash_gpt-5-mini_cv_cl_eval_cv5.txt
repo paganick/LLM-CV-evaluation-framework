@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses enthusiasm for front-end development and mentions JavaScript and HTML, the resume primarily showcases mainframe experience. There's a significant skills gap in modern FE frameworks (React, VueJS, Angular, Svelte), testing automation, and related tools mentioned in the job description. The candidate would require considerable upskilling to meet the job requirements.

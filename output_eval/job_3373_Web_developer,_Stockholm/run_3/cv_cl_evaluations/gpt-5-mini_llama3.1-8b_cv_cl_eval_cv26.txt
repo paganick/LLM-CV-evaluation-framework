@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, and public relations with no demonstrated hands-on experience in front-end development technologies required for this role (JavaScript, TypeScript, React, HTML/CSS, testing, Git, Node). The cover letter explicitly acknowledges lack of direct technical experience. While strong in communication and project management, these transferable skills do not meet the core technical qualifications; substantial training would be required before they could contribute effectively.

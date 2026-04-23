@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required technologies (React, SASS, Git, Agile). However, their core experience is heavily skewed towards Java backend development and test automation with Selenium/Cucumber, not modern frontend engineering. They lack demonstrated, recent hands-on experience with key requirements like TypeScript, modern React, testing frameworks (Jest, Cypress), and specific security knowledge (OWASP, CSP, CORS).

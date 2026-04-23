@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. With over a decade of experience as a Digital Communications Specialist and a technical writing background, I bring a unique perspective to building user-centric web applications. My career has been defined by a commitment to precision, accessibility, and effective collaboration, all of which align with your team’s focus on React, TypeScript, and high-quality code.
+
+Throughout my tenure at the Social Security Administration’s Ticket to Work program, I have worked closely with IT systems departments to translate complex subject matter into accessible digital content. This collaboration sparked my deep interest in the underlying technologies of the web. I have developed a strong foundation in HTML, CSS, and modern OpenSource CMS platforms, ensuring every project meets strict Section 508 compliance standards. My experience with accessibility is directly applicable to creating inclusive, high-performance interfaces using modern CSS tools like SASS and Styled Components.
+
+Beyond my technical writing expertise, I have actively transitioned my skillset toward modern frontend development. I am passionate about the principles of clean code and functional programming, and I am currently deepening my proficiency in the React ecosystem and TypeScript. My background in journalism and digital strategy has honed my ability to learn new domains quickly, a trait essential for staying current with libraries like Ramda and testing frameworks such as Jest, TestCafe, or Cypress. I recognize the value of testing and am committed to implementing unit and E2E tests to ensure product stability.
+
+I am highly comfortable working in Agile environments and have a proven track record of interacting with diverse teams and external partners to deliver high-impact results. Whether managing social media campaigns through Sprout Social or coordinating with developers on API design and repository hosting via GitHub, I prioritize clear communication and technical excellence. My familiarity with Google Analytics and web security basics allows me to contribute to a holistic development process. I am eager to bring my collaborative spirit and dedication to technical growth to your engineering team.
+
+Thank you for your time and consideration of my application. I look forward to discussing my qualifications with you.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate's resume does not reflect the technical skills outlined in the job description. The candidate's experience is in program management and learning design, with only intermediate coding experience in R studio. There is no mention of JavaScript, TypeScript, modern FE frameworks or testing experience.

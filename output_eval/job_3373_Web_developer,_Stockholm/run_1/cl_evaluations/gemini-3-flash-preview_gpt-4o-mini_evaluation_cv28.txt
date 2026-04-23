@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks the required hands-on professional experience with JavaScript, TypeScript, and React, admitting only to a "working knowledge" of HTML and CSS. While they possess transferable analytical skills, they fail to demonstrate proficiency in core technical requirements such as testing frameworks (Jest/Cypress) or clean code practices. The application indicates a need for significant training, which does not align with the demand for a candidate with established development experience.

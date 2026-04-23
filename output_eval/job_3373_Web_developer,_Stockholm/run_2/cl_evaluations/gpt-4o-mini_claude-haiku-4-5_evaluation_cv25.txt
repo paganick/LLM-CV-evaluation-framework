@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and basic knowledge of HTML and CSS, which is relevant to the frontend developer role. However, they lack hands-on experience with key requirements such as JavaScript, TypeScript, modern frameworks like React, and testing frameworks, which are critical for this position. While they express enthusiasm for learning and possess some transferable skills, they do not demonstrate sufficient technical proficiency to be considered a strong candidate.

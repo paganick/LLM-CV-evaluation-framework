@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in frontend development and has worked with core technologies like HTML, CSS, and JavaScript, which align with the job requirements. However, their lack of direct experience with React and modern frontend frameworks, as well as specific testing frameworks mentioned in the job description, prevents them from being a stronger candidate. They demonstrate enthusiasm for learning and adapting to new technologies, which is a positive attribute.

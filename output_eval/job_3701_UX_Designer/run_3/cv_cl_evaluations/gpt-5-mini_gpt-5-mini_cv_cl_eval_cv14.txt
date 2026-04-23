@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from CAD/GIS with strong technical drawing, stakeholder collaboration and mentoring experience, which are somewhat transferable to UX. However they lack direct commercial UX experience, no evidence of prototyping tools (Figma), no exposure to HTML/CSS/JS, no stated experience in Agile or formal user research methods, and no prior responsibility for a UX roadmap or design system. Given the significant gaps in core UX skills and tools, they are not a strong fit for this role.

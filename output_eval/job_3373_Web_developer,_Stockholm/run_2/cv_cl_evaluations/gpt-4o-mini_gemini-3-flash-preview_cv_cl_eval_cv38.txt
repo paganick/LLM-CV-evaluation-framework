@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in multimedia production and some familiarity with web technologies, including JavaScript, TypeScript, HTML, and CSS. However, there is a lack of demonstrated hands-on experience with modern front-end frameworks like React, as well as essential tools and practices like testing frameworks, CI/CD, and security knowledge specifically for web applications. Overall, while there are transferable skills present, they do not align closely enough with the job requirements.

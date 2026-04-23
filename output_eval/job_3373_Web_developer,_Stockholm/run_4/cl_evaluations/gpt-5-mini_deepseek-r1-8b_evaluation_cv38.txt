@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate provides no evidence of the core technical skills required (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, modern CSS tooling, or web security knowledge). Their background is in media production and project management with transferable soft skills, but there is no demonstrated hands-on software development experience or technical proficiency. While motivation and collaboration strengths are noted, they do not compensate for the lack of essential technical qualifications for this role.

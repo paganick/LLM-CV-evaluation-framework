@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a clear career transition effort and foundational technical knowledge, but lacks direct, hands-on professional experience with the core front-end technologies listed in the job description, specifically React and TypeScript. Their project experience is academically focused and leans toward back-end systems, not modern front-end development with the required frameworks and testing tools. While their soft skills and analytical background are strong, the specific technical proficiency for this role is not yet proven.

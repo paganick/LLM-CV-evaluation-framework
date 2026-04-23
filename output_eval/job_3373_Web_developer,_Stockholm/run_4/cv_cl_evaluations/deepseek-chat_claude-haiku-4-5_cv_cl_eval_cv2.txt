@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost entirely in backend/full-stack Java/J2EE development, with only minimal, outdated frontend exposure (jQuery, Bootstrap). The resume and cover letter show no practical experience with the core requirements: React, TypeScript, modern CSS tools, or any of the listed testing frameworks. While the candidate expresses enthusiasm for learning, their professional background is a significant mismatch for a specialized frontend developer role.

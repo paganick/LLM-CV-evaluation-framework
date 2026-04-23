@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant skills in JavaScript, TypeScript, HTML, and CSS, and experience with modern frontend frameworks like React, they do not mention familiarity with some required tools and frameworks such as CSS tools (Styled Components, SASS), specific testing frameworks (Jest, TestCafe), or CI/CD tools. Additionally, they lack experience in the NodeJS ecosystem and relevant security knowledge, which lowers their suitability for the position.

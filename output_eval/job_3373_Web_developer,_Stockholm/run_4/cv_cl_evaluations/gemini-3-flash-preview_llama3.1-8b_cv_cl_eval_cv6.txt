@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant experience in IT and web development, their expertise is almost exclusively focused on Drupal, PHP, and legacy systems rather than the modern frontend stack required. They lack any mentioned experience with React, TypeScript, modern testing frameworks like Jest/Cypress, or cloud infrastructure tools such as AWS and Terraform. This profile represents a CMS specialist rather than the modern frontend engineer described in the job requirements.

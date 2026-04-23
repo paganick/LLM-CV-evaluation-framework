@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience and knowledge of some key technologies listed in the job description, particularly with JavaScript, TypeScript, HTML, and CSS. However, they did not mention familiarity with several key skills such as NodeJS ecosystem tools, functional programming, or CI/CD tools, which limits their alignment with the specific requirements of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in civil and offshore construction engineering, a vastly different field from front-end development. While the cover letter attempts to highlight transferable skills like leadership and attention to detail, it lacks sufficient evidence of practical experience in the specific technologies (React, TypeScript, HTML, CSS) outlined in the job description. The self-proclaimed "active building" of competence is not enough to demonstrate proficiency for this role.

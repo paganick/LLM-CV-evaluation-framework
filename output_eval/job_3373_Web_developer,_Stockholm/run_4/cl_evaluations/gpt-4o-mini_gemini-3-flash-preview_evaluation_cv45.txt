@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience and skills in frontend technologies, particularly with React, HTML, CSS, and TypeScript, aligning well with the job requirements. They also possess relevant security knowledge and experience with CI/CD processes, which enhances their candidacy. However, there is no mention of experience with core tools such as SASS, Styled Components, or specific testing frameworks beyond generic testing experience, which slightly detracts from a perfect score.

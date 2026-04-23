@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position. With my Master of Science in Computer Science from Wichita State University and extensive experience in full-stack development, I am confident I can make a meaningful contribution to your team.
+
+My technical foundation aligns well with your requirements. I have demonstrated proficiency in JavaScript, HTML, and CSS through multiple projects, including a Single Page Application built with AngularJS. While my primary experience has been with AngularJS, I have continuously pursued learning modern frameworks and am eager to deepen my expertise with React, which I understand is central to your development stack. My experience with both front-end and back-end technologies has provided me with a comprehensive understanding of web application architecture, enabling me to write cleaner, more maintainable code.
+
+Testing and quality assurance are areas where I have gained considerable hands-on experience. During my tenure as a Test Contractor on the Performance and Benchmarking team, I executed comprehensive test cases, conducted root-cause analysis, and automated testing processes using Java and batch scripts. This background has equipped me with a strong appreciation for the importance of unit tests, integration tests, and end-to-end testing in delivering reliable software. I am well-versed in Git and have utilized GitHub throughout my projects for version control and collaboration.
+
+I have consistently demonstrated the collaborative mindset you seek. My experience in Agile environments is evident through my active participation in scrum meetings and my ability to work effectively both individually and as part of diverse teams. I have successfully interfaced with stakeholders during project presentations and have shown genuine enthusiasm for understanding new concepts and technologies. My analytical skills and attention to detail underscore my commitment to writing truly clean code.
+
+Additionally, my experience consuming and producing RESTful web services, combined with my understanding of data structures and system-level programming, provides a solid foundation for grasping the broader technical landscape. My graduate research assistantship further developed my ability to manage complex data systems and perform thorough analysis.
+
+I am particularly drawn to your organization because of your emphasis on collaboration and keeping current with emerging technologies. I am genuinely excited about the opportunity to contribute to your team while continuing to expand my skill set in modern front-end development and related tools.
+
+Thank you for considering my application. I look forward to discussing how my background and enthusiasm can benefit your organization.
+
+Sincerely, Alexis

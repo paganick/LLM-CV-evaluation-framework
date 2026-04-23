@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant UX experience (4 years), strong Agile and stakeholder collaboration, user research/UAT, workshop facilitation, and roadmap/mentorship experience that align well with the role. However, they lack demonstrable Figma experience and do not mention exposure to HTML/CSS/JS or clear high-fidelity interactive prototyping, which are important for managing a UI Design System. Overall a strong match but missing key technical/tool proficiencies required for a top-tier fit.

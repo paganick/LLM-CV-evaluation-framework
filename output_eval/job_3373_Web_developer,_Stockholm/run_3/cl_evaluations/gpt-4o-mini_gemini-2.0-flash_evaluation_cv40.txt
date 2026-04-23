@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in product management and development but lacks direct hands-on experience with required technologies such as JavaScript frameworks (React, VueJS, etc.), testing frameworks, and modern CSS tools. While they demonstrate strong collaboration skills and knowledge of Agile environments, they do not explicitly mention familiarity with Git or security practices on the web, which are crucial for the Front End Developer role.

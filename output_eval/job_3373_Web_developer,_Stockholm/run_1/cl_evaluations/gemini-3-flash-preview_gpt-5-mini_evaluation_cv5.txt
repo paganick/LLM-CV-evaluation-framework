@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern front-end stack, specifically React, TypeScript, and Git, explicitly identifying these as skills they have yet to acquire. Their background is heavily concentrated in legacy mainframe environments and backend services, which does not align with the technical proficiency demanded by the job description. While the candidate possesses relevant enterprise engineering discipline, the lack of immediate hands-on expertise in the specified web technologies makes them a poor fit for this role.

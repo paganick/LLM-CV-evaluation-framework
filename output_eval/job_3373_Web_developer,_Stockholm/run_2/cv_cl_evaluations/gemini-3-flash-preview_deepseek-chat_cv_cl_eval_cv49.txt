@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with no professional experience or documented projects in frontend development, failing to demonstrate proficiency in React, TypeScript, or modern CSS tools. While the cover letter expresses a desire to transition, the resume's focus on statistics and data science does not meet the technical requirements for a developer role. Essential skills such as web testing (Cypress/Jest), CI/CD, and frontend security are entirely absent from their professional history.

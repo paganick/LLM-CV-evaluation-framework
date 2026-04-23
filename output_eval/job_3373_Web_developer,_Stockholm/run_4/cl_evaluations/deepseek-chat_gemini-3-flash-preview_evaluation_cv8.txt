@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a strong foundational understanding of key required areas like testing, automation, Agile, and clean code. However, the cover letter lacks direct, hands-on experience with several specific tools listed in the job description, such as Jest/Cypress, modern CSS tools, NodeJS/Express, and CI/CD tools, which are explicitly required. The candidate's hardware engineering background provides a valuable perspective but is not a direct match for the front-end and full-stack focus of the role.

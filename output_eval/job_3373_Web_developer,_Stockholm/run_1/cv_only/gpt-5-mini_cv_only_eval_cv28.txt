@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials engineering and quality analysis with no evidence of JavaScript, TypeScript, HTML/CSS, React or modern frontend tooling, testing frameworks, or Git experience required for this role. Their skills and accomplishments focus on manufacturing processes, statistical analysis, and Six Sigma rather than software development or web security, CI/CD, and cloud infrastructure. Therefore they are not qualified for the frontend engineering position.

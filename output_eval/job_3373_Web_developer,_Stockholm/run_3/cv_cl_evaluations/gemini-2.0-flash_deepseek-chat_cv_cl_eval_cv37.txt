@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and IT leadership, not front-end development. While the cover letter expresses interest in React and other technologies, the resume lacks demonstrable experience in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks. The candidate's skills are more aligned with IT infrastructure and management rather than hands-on front-end development.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in graphic design and is actively learning modern front-end technologies. However, their experience falls short in areas such as TypeScript, hands-on testing experience, and specific knowledge of security best practices, which are critical requirements for the role. While they demonstrate enthusiasm for learning and collaboration, the lack of direct experience in software development and certain required technologies limits their suitability.

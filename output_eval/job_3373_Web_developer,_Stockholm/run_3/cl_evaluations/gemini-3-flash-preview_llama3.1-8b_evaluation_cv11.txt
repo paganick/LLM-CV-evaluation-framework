@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in software testing and Agile methodologies but fails to demonstrate experience with critical requirements such as TypeScript, Git, and modern testing tools like Jest or Cypress. There is also no mention of web security protocols or the Node.js ecosystem, which are essential for this modern front-end focused position. While they possess general JavaScript skills, the profile lacks alignment with the specific technical stack and CI/CD environment described in the job description.

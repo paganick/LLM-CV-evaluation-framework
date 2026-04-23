@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial web and software development experience (HTML5, CSS3, JavaScript, AngularJS, .NET) and demonstrated Agile/leadership experience, but lacks evidence of critical role requirements such as React and TypeScript, modern JS testing frameworks, Git/GitHub usage, Node/npm ecosystem familiarity, modern CSS tooling, and web security or cloud/Terraform knowledge. These gaps in core front-end frameworks, tooling, testing and security/cloud capabilities make them a weak fit for the position despite relevant industry experience.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight project management experience, with no mention of the required front-end development skills (JavaScript, React, HTML, CSS, TypeScript). While they mention familiarity with concepts like API design, testing frameworks, and CI/CD principles, it's only in the context of project management, not hands-on development. This candidate is unqualified for a front-end developer role.

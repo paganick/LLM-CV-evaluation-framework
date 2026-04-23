@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and lacks the core technical skills outlined in the job description, such as React, testing frameworks, and modern front-end development experience. While the candidate expresses a willingness to learn, the cover letter highlights irrelevant skills like HTML, C++, and organic chemistry, which are not priorities for this role. The candidate's skills in CI/CD tools and API design are relevant, but do not compensate for the lack of core FE skills.

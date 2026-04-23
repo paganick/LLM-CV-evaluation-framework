@@ -1,0 +1,2 @@
+Score: 5  
+Reasoning: The candidate demonstrates a basic understanding of front-end development principles, including HTML and a willingness to learn modern JavaScript frameworks and tools. However, there is a lack of direct experience with key requirements such as React, testing frameworks, CI/CD, and familiarity with modern CSS tools, which keeps them from being a stronger fit for the position.

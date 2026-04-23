@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Systems Administrator with an infrastructure background and possesses none of the required technical skills in JavaScript, TypeScript, or React. While the candidate has experience in the broader IT industry, they lack the specific frontend development, testing automation, and modern CSS expertise mandated by the job description. The resume reflects a focus on hardware, OS maintenance, and help desk support rather than software engineering and functional programming.

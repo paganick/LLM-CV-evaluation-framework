@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some front-end experience with HTML, CSS, and JavaScript, but lacks key technologies mentioned in the job description such as React, Typescript, and modern CSS tools. Their experience leans towards older technologies like ASP.NET and AngularJS, and they lack experience with testing frameworks, CI/CD, and cloud platforms like AWS. The resume highlights website design and older software development practices more than modern front-end engineering.

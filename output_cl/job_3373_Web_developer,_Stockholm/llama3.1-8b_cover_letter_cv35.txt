@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Frontend Developer position at your esteemed organization, where I can leverage my passion for writing clean code and collaborating with cross-functional teams to drive success. With a strong background in marketing automation consulting, I may not seem like an obvious fit, but I assure you that my skills and experience make me an ideal candidate for this role.
+
+As a Senior Marketing Automation Consultant, I have developed a unique blend of technical and strategic skills, which can be easily adapted to the frontend development environment. My expertise in system integration projects, project planning, and leading marketing automation teams will serve as a solid foundation for handling complex frontend challenges. Additionally, my experience with Eloqua, Salesforce, and other marketing technologies has honed my ability to learn new systems quickly and efficiently.
+
+In this role, I am particularly drawn to the emphasis on modern front-end frameworks like React, which aligns with my passion for clean code and innovative problem-solving. My understanding of JavaScript, TypeScript, HTML, and CSS will enable me to contribute immediately, and I am excited about the prospect of working with libraries like Styled Components and SASS.
+
+As a seasoned marketing automation consultant, I have honed my skills in testing and test automation, which I believe can be seamlessly applied to frontend development. My experience with Git and repo hosting services like GitHub will allow me to navigate version control systems effortlessly.
+
+I am impressed by the company's commitment to staying up-to-date with the latest technologies, and I share this passion for innovation. As a lifelong learner, I have a strong interest in keeping pace with emerging trends and best practices in frontend development. My experience as an Expert speaker for Eloqua University Education sessions will enable me to effectively communicate complex ideas and collaborate with cross-functional teams.
+
+In addition to my technical skills, I possess excellent communication, analytical, and problem-solving skills, which will facilitate seamless interaction with internal stakeholders and external partners. As a team player who thrives in Agile environments, I am confident that I will excel in this role and contribute positively to the organization's success.
+
+Thank you for considering my application. I look forward to discussing how my unique blend of technical and strategic skills can make me an asset to your frontend development team.
+
+Sincerely,
+Alexis

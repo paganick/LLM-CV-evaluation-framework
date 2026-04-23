@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is entirely in media planning and account management, not software development. While they are pursuing a relevant Master's degree and mention basic web technologies, they lack any hands-on, professional experience with the core required technologies like React, TypeScript, or modern testing frameworks. Their skills are academic and foundational, making them unqualified for a professional front-end developer role requiring practical expertise.

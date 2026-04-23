@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks all mandatory technical skills for the role, specifically missing any mention of JavaScript, TypeScript, HTML, CSS, or the required React framework. While they possess a software development background in backend technologies and data analysis, they provide no evidence of experience with front-end ecosystems, web security, or modern UI styling tools. Their profile reflects a complete pivot rather than a qualified applicant ready to meet the specific demands of a front-end position.

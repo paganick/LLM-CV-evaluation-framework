@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in test engineering and electronics but lacks specific front-end development experience with JavaScript, TypeScript, and modern frameworks such as React. There is no evidence of working with testing frameworks mentioned in the job description, nor familiarity with web security practices. Overall, the skills while relevant to engineering, do not align well with the specific requirements of the software development role.

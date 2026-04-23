@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant foundational skills (HTML, CSS), strong communication/training experience, and an eagerness to learn, but lacks demonstrated hands-on experience with core technical requirements such as JavaScript/TypeScript, modern React development, testing/automation, Git/repo workflows, Node ecosystem, and web security. Given the job's emphasis on practical experience with these technologies and tools, the application does not meet the minimum technical expectations for a front-end developer role.

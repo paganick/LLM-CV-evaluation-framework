@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and engineering but lacks the necessary direct experience in frontend development and specific technologies listed in the job description, such as modern frameworks (React, VueJS, Angular, Svelte) and testing frameworks. While there are some relevant skills in code quality assurance, the absence of hands-on experience with frontend technologies and web security standards makes them ill-suited for this role.

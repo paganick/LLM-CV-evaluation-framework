@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate mentions the required technologies and security concepts, their professional background is fundamentally in graphic design rather than software engineering. They lack demonstrated hands-on experience with critical technical requirements such as test automation, functional programming, and CI/CD pipelines. The emphasis on Adobe Creative Suite and Microsoft Office suggests a skill set mismatch for a role requiring deep expertise in modern React development and clean code practices.

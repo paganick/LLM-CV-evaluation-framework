@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing automation and has relevant skills in HTML, CSS, and JavaScript but lacks experience with TypeScript and modern front-end frameworks beyond basic knowledge of React. While they express a desire to transition to front-end development, they fall short on several key technical requirements mentioned in the job description, such as familiarity with specific testing frameworks and CI/CD tools.

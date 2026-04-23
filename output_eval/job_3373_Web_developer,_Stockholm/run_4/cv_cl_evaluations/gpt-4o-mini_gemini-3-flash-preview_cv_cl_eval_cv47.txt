@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience in leadership and some foundational programming skills, they lack direct experience with core front-end technologies like JavaScript, TypeScript, and modern frameworks (specifically React, which is mentioned as essential in the job description). Additionally, their background is primarily in business development rather than software development, resulting in a lack of the technical skills and experience necessary for the position.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong proficiency in JavaScript, HTML, CSS, and React, which aligns well with the job requirements. They have relevant experience with test automation, Git, and Agile methodologies, along with a solid understanding of security practices. However, there is no explicit mention of TypeScript or modern CSS tools like Styled Components, which prevents a perfect match.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the position that requires a strong background in software development, testing, and collaboration. With over 10 years of experience in electronics engineering and technology, I am confident that my skills will be an excellent fit for your team.
+
+As a skilled engineer with hands-on experience in testing and automation, I have a deep understanding of unit tests, integration tests, E2E tests, and other software development methodologies. My proficiency in JavaScript, TypeScript, HTML, and CSS, as well as modern front-end frameworks like React, will enable me to contribute significantly to your team's projects.
+
+In addition to my technical skills, I possess excellent communication and collaboration skills, which have been demonstrated through my work with cross-functional teams and external partners. My experience in running software tests, physical checks, and Beverage QA tests has also honed my ability to identify and troubleshoot issues efficiently.
+
+I am particularly drawn to this role because of the emphasis on continuous learning and staying up-to-date with the latest technologies. As a holder of two degrees in electronics engineering technology, I have consistently demonstrated my ability to adapt quickly to new technologies and platforms.
+
+Throughout my career, I have gained experience with various software development tools such as Git, GitHub, Microsoft Team Foundation Server, and Tera Term. My proficiency in programming languages like C++, Java script, SQL, and Visual Studio will also be an asset to your team.
+
+I am excited about the opportunity to bring my expertise to your organization and contribute to the success of your projects. Thank you for considering my application.
+
+Sincerely,
+Alexis

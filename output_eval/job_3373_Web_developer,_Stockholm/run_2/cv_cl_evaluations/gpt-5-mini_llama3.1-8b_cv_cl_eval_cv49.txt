@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a data analyst with no demonstrated experience in core front-end technologies required for this role (JavaScript/TypeScript, HTML/CSS, React) nor in testing frameworks, Node/npm, or web security. The cover letter expresses interest and transferable skills but provides no concrete frontend experience or projects to justify qualification. This is a fundamental mismatch to the job requirements.

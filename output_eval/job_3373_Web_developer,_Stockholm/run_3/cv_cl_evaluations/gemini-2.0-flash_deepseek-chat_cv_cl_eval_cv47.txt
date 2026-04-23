@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses heavily on business development, with limited evidence of professional front-end development experience. While the cover letter claims skills in HTML, CSS, JavaScript, React, and TypeScript, the resume only mentions HTML, C, and C++. The candidate lacks demonstrable experience with many required technologies, testing frameworks, and modern FE tools mentioned in the job description.

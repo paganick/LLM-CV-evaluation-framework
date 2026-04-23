@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Test Engineer position at your esteemed organization, where I can utilize my technical expertise and passion for testing to contribute to the success of your company. With over 10 years of experience in electronics manufacturing and test engineering, I possess a unique blend of skills that align with your requirements.
+
+As a seasoned test engineer, I have extensive hands-on experience with Python scripting for test automation, Solaris 10 OS, Linux Mandrake and Red Hat OS configuration, SQL Server configuration, and UNIX Script & Shell Programming. My proficiency in test equipment tools such as Digital/Analog meters, Signal Generators, Oscilloscope Tektronix TDS 3052, and Fluke 26III True RMS MM meter enables me to troubleshoot complex issues efficiently.
+
+In my previous role at [Company Name], I successfully performed functional testing and system-level validation for various Android mobile technology products. I also brought up ongoing reliability labs for device compliance testing, including tumble tests, drop tests, button cycling tests, thermal testing, and humidity environment testing. My experience with root cause failure analysis, report writing, and communication with customers' quality engineering departments has honed my analytical skills and ability to work collaboratively.
+
+I am well-versed in modern web technologies such as JavaScript, TypeScript, HTML, and CSS, and have hands-on experience with React, a framework used by your organization. My expertise in testing frameworks like Jest, Cypress, and TestCafe will enable me to contribute effectively to the development of test automation scripts. Additionally, I am familiar with CI/CD tools like CircleCI and API design.
+
+As an Agile enthusiast, I thrive in fast-paced environments where collaboration and adaptability are essential. I have experience working with cross-functional teams to achieve project goals and am committed to staying up-to-date with the latest technologies and trends.
+
+I hold a BSEE from Northwestern Polyphonic University (2016), an AAS degree in Electronics Technology from Heald College School of Technology, and Associate Degree in Physics, Chemistry, and Mathematics from D.A.V. College Jalandhar City. My academic background and extensive industry experience have equipped me with the skills necessary to excel in this position.
+
+Thank you for considering my application. I am excited about the opportunity to discuss how my technical expertise and passion for testing can contribute to your organization's success. I look forward to the chance to meet and explore how we can work together.
+
+Sincerely,
+Alexis

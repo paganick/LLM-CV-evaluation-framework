@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with the required technologies (JavaScript, HTML, CSS, Git, OWASP), but lacks direct experience with React, modern FE frameworks, and test automation. The letter highlights general scripting experience rather than specific skills outlined in the job description. While the candidate expresses interest in learning, the cover letter does not showcase the necessary practical experience.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and software development, with a good foundation in JavaScript, HTML, and CSS. However, their front-end experience appears limited, particularly with modern frontend frameworks like React, which is a critical requirement for the role. While they have experience in testing and Agile environments, the lack of direct experience with the specified frontend technologies lowers their score.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a relevant technical background and mentions several technologies listed in the job description, such as React, JavaScript, TypeScript, Git, and OWASP. However, the letter emphasizes project management and IT leadership experience more than hands-on front-end development, raising concerns about current coding proficiency. While the candidate demonstrates familiarity with relevant concepts, the lack of explicitly stated hands-on project experience in the front-end space is a concern.

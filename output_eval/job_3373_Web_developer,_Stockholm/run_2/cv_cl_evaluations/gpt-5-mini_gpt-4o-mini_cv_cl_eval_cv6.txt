@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid web development experience (HTML/CSS/JavaScript), strong Drupal background, testing exposure (Selenium, Behat), and familiarity with Git and some Node/CI concepts, which are relevant to the role. However, they lack demonstrated hands-on experience with the team's primary stack (React and TypeScript), modern frontend tools (Styled Components/SASS, Jest/Cypress, Ramda), and cloud/infra familiarity (AWS/Terraform), so they do not meet key required skills for a strong match.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is exclusively in Systems Administration and IT infrastructure support, lacking any demonstrated experience with the modern JavaScript ecosystem, React, or TypeScript. There is no evidence of proficiency in web development, front-end testing frameworks, or cloud infrastructure tools required for this role. The candidate’s skills are centered on hardware maintenance, UNIX/Linux administration, and help desk services rather than software engineering.

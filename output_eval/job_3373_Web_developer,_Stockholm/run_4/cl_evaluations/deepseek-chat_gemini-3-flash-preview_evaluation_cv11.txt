@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including JavaScript, React, testing, Agile, and security fundamentals. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, modern CSS tools, Node.js, and specific CI/CD tools. While their QA background provides a valuable perspective, the transition to a development role is implied rather than proven with direct development project experience.

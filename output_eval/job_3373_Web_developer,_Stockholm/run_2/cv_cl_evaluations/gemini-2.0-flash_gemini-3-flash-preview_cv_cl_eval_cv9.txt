@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java and backend development, which doesn't align well with the frontend focus of the job description. While they claim proficiency in JavaScript, HTML, and CSS, the resume highlights Java technologies. They mention some relevant skills like API security and testing, but lack specific experience with React or other modern frontend frameworks mentioned in the job description.

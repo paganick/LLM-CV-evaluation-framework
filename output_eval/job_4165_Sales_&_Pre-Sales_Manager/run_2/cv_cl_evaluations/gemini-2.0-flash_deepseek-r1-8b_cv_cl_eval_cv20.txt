@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant sales experience, particularly with proposal generation and client interaction. However, the resume lacks specific experience with the target industries (Banking, Insurance, Utilities, Telco & Retail) and digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, Design Thinking, UX Research). The candidate's experience seems more focused on healthcare and data analysis, rather than driving digital solution sales within the target sectors.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a senior-level Java Backend Consultant who lacks professional experience with the core requirements of this Frontend Developer role, specifically React, TypeScript, and modern CSS tools. While they possess strong general software engineering principles like TDD and Agile, their technical expertise is rooted in legacy enterprise Java stacks rather than the modern JavaScript ecosystem. Consequently, they do not meet the minimum hands-on requirements for the specific frontend technologies requested.

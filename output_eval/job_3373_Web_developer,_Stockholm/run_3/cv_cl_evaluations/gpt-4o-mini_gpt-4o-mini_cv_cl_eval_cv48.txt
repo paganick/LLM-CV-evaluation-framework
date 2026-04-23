@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive IT consulting experience but lacks direct experience with front-end development and key technologies specified in the job description, such as JavaScript, TypeScript, or modern frameworks like React. While there is some mention of familiarity with testing and collaboration, the core skills for the role are insufficiently demonstrated in their background.

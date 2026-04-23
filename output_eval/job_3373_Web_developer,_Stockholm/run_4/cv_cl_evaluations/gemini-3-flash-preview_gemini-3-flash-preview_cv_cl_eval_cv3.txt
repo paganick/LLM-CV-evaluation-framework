@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience in software development and does not possess the required expertise in React, TypeScript, or modern testing libraries. Their technical knowledge is largely outdated, focusing on obsolete technologies like Flash and ActionScript 3.0, and they provide no evidence of experience with Git, AWS, or CI/CD tools. Consequently, the candidate does not meet the minimum technical or industry experience requirements for this role.

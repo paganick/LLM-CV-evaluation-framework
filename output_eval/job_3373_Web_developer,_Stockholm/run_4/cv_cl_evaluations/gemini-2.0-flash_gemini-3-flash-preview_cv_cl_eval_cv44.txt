@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a Computer Science degree and mentions HTML, CSS, and Javascript. However, the resume focuses heavily on design roles, with limited evidence of professional development experience using modern FE frameworks and tooling (React, Typescript, Jest, CI/CD). While the cover letter attempts to bridge this gap, the lack of concrete examples in the resume is a concern.

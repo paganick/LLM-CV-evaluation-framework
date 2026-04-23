@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong foundation in frontend technologies, particularly JavaScript, TypeScript, HTML, CSS, and React, aligning well with the job description. They also possess experience in testing frameworks and best practices with Git, as well as Agile environments. However, while they mention basic knowledge of web security and cloud infrastructure, there is a lack of depth in areas like CI/CD and functional programming, which prevents a perfect match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and UX, not professional software development. While they mention foundational HTML/CSS and self-study of JavaScript/React, they lack demonstrable, hands-on experience with the core technologies listed in the job description, such as TypeScript, modern React, testing frameworks, Git, and security concepts. Their experience is in a relevant digital industry but does not meet the specific technical requirements for a front-end developer role.

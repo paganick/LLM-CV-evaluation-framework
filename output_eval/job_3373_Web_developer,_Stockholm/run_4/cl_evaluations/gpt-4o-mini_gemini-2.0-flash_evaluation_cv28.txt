@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has analytical skills and a background in data analysis, they lack direct experience with the required frontend technologies such as JavaScript, TypeScript, React, and modern CSS tools. Additionally, there is no mention of hands-on experience with testing frameworks or the specifics of Agile environments. Their previous role as a Senior Materials Analyst does not align closely with the demands of a Frontend Developer position.

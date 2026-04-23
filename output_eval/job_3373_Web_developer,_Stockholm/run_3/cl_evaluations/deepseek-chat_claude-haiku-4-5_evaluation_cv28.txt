@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable soft skills and a proactive learning attitude, which aligns with the job's collaborative and agile requirements. However, they lack hands-on professional experience with the core technologies (React, testing frameworks, Git) and the listed modern toolchain, placing them at an early learning stage. While their analytical background is promising, the direct technical experience gap is significant for a developer role, making them a candidate who requires substantial upskilling.

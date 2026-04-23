@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in project management and a solid understanding of web development technologies such as JavaScript, TypeScript, HTML, and CSS. However, while they express knowledge of specific frameworks like React and collaboration in Agile environments, there is less emphasis on hands-on experience with testing frameworks and modern CSS tools as mentioned in the job description, preventing a higher score.

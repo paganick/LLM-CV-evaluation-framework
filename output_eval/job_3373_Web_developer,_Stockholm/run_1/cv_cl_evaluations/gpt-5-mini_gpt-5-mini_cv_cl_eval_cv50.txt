@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT, program management, and quality engineering experience, including security and lifecycle management, but lacks demonstrated hands‑on experience with JavaScript/TypeScript, React, modern frontend frameworks, CSS tooling, frontend testing frameworks, and Node/npm toolchains that are core to this role. Their cover letter expresses willingness to learn, but the resume contains no recent or concrete frontend development work or relevant technical stack experience required to contribute immediately.

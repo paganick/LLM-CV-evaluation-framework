@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and technical sales, lacking direct frontend development experience. While they express interest and foundational knowledge, they lack the hands-on experience with React, TypeScript, and testing frameworks explicitly mentioned as requirements. The cover letter highlights transferable skills but doesn't demonstrate the necessary technical proficiency for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in web technologies and coding, particularly with HTML and CSS. However, they lack specific experience with JavaScript frameworks like React, TypeScript, and modern testing tools mentioned in the job description. While they demonstrate strong project management and collaboration skills, the absence of essential technical skills limits their fit for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager and lacks the professional software engineering experience required for this React-focused developer role. While the cover letter claims knowledge of the required tech stack, the resume fails to provide evidence of hands-on experience with TypeScript, modern testing frameworks (Jest/Cypress), or CI/CD pipelines. The candidate's profile is more suited for project coordination and marketing analytics rather than clean-code-focused frontend development.

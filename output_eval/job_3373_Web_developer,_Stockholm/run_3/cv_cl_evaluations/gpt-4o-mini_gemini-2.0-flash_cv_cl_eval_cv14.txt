@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development and is familiar with front-end technologies, including HTML, CSS, and JavaScript. However, their primary experience is with ASP.NET rather than JavaScript frameworks like React, which is pivotal for this role. While they have some exposure to testing and web security, they do not clearly demonstrate proficiency with modern front-end frameworks and tools, resulting in a score reflecting relevant industry experience but lacking specific skills.

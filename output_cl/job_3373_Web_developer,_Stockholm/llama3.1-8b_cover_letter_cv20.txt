@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position at your esteemed organization. With a solid background in software development and a passion for clean code, I am confident that I would be an excellent fit for this role.
+
+As a seasoned Database Programmer/Analyst with experience in front-end development using C#, ASP.Net, JavaScript, jQuery, CSS, and HTML, I possess the technical skills required to excel in this position. My proficiency in Modern Front-End frameworks like React, which your organization uses, is a significant advantage. Additionally, my experience with testing tools such as unit tests, integration tests, E2E tests, and Git repo hosting services aligns perfectly with your requirements.
+
+As evident from my previous roles, I have consistently demonstrated strong collaboration skills, having worked in Agile environments where I actively participated in daily scrums, weekly meetings, and prioritized tasks alongside the Scrum Master. My experience with cross-functional teams to meet project expectations also demonstrates my ability to work effectively with other stakeholders.
+
+My extensive knowledge of Modern CSS tools like Styled Components and SASS is another significant asset. Additionally, I have hands-on experience with testing frameworks such as Jest, TestCafe, Cypress, Linters (ESLint), and formatters (Prettier). My familiarity with the NodeJS ecosystem, including npm, Yarn, Express.js, and API design, further underscores my technical capabilities.
+
+While your organization is moving away from Ruby, I have had exposure to it in previous roles. Furthermore, my understanding of AWS and Terraform will enable me to adapt quickly to new technologies and tools.
+
+I am particularly drawn to this role because it offers the opportunity to write clean code, keep pace with emerging technologies, and collaborate closely with other teams. My passion for coding and dedication to delivering high-quality solutions make me an ideal candidate for this position.
+
+Thank you for considering my application. I look forward to discussing how my skills and experience align with your organization's requirements.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a communications professional whose resume lacks any professional experience in software engineering or frontend development. While the cover letter mentions a transition toward the required stack, the resume fails to demonstrate hands-on proficiency with JavaScript, TypeScript, React, or automated testing frameworks. This application represents a career pivot that does not meet the technical seniority or experience requirements specified in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid UI, HTML/CSS and prototyping experience and strong collaboration skills, but lacks demonstrated hands-on experience with React, TypeScript, automated testing frameworks, Git-based workflows, Node/npm, modern CSS toolchains and CI/CD — all core requirements for this role. With training and concrete project experience in those areas they could become a fit, but as presented they are not yet qualified for a React-focused front-end engineering position.

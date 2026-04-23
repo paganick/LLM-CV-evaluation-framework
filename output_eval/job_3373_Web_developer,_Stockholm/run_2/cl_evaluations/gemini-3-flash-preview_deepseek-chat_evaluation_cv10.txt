@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the primary required technology, React, and fails to mention any proficiency in TypeScript. While they possess a solid academic background and general Agile experience, their technical profile is heavily centered on legacy frameworks like AngularJS and backend Java rather than the modern front-end ecosystem requested. Furthermore, the application lacks evidence of specific knowledge in modern testing libraries (Jest, Cypress) or critical web security protocols (OWASP, CORS, OAuth).

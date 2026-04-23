@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, and CSS, but lacks depth and practical experience in modern front-end frameworks (specifically React, as the job description mentions). The resume highlights more of an electronics background than front-end development. While the cover letter expresses eagerness to learn, the resume and cover letter lack sufficient evidence of the required skills and experience for a Front-End Developer role, especially concerning testing frameworks, CI/CD tools and API design.

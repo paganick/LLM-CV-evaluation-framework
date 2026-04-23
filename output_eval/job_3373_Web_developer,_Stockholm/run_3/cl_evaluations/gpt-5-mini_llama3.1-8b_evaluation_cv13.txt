@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core technical requirements—React, modern testing frameworks (Jest/TestCafe/Cypress), modern CSS tools (Styled Components/SASS), NodeJS ecosystem, Ramda, CircleCI, API/security knowledge, and Agile experience—making them a solid fit. However, they do not explicitly mention TypeScript, Git/GitHub experience, or any familiarity with AWS/Terraform, which are important items in the job description. These omissions prevent a higher score despite the overall strong technical and project management background.

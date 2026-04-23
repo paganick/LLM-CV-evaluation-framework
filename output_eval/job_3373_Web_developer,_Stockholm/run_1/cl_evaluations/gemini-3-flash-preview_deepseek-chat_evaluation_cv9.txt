@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a backend Java developer who lacks demonstrated professional experience with the core frontend stack required, specifically React and TypeScript. While they possess strong general engineering principles and security knowledge, their frontend skills are described as "expanding" rather than hands-on or established. This profile represents a career transition that does not meet the specific technical seniority requested for a modern frontend role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is currently a Project Manager and lacks recent professional experience in a dedicated hands-on development role. Their technical profile misses critical requirements, specifically React, TypeScript, and modern automated testing frameworks like Jest or Cypress. While they have a foundational understanding of web development and Agile, their professional history does not demonstrate the level of technical depth or current toolset proficiency required for this position.

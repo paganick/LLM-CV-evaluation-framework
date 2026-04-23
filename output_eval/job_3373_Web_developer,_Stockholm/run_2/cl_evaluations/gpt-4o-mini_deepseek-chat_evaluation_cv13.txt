@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, as well as familiarity with Agile methodologies and project management, which align with the industry. However, they lack specific experience with modern CSS tools mentioned in the job description, testing frameworks, and the use of React as their primary framework, which are crucial for the role.

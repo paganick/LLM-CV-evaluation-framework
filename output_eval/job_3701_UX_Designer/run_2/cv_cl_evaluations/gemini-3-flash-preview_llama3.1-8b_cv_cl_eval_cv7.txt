@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is significantly over-qualified for the specified seniority level and salary, yet their resume lacks evidence of recent commercial experience, with the last relevant UX role ending in 2016. Furthermore, they fail to demonstrate proficiency in Figma, which is the primary tool requested, and their listed software skills (e.g., Fireworks) are largely obsolete. These discrepancies, combined with the lack of modern design system management evidence, make them a poor fit for this specific mid-level requirement.

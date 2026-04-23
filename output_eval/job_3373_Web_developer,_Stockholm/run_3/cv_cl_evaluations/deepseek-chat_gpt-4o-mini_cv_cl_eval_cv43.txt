@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in program management and education, with no professional experience in software development. The resume lists only intermediate R coding, and the cover letter admits to being new to the core required technologies like JavaScript, React, and testing frameworks. While they express interest and soft skills, they lack the hands-on technical experience and specific skill set mandated by the job description.

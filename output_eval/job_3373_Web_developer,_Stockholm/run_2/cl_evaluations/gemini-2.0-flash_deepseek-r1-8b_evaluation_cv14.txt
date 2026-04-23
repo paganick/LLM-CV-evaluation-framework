@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate focuses on C# and ASP.NET, while the job description emphasizes JavaScript, React, and related frontend technologies. The cover letter mentions a general interest in modern JavaScript frameworks but lacks concrete experience. While the candidate highlights collaboration and a passion for clean code, the technical skills don't align strongly with the specified requirements.

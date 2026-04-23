@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate identifies primarily as a graphic designer, which is the wrong professional background for a software engineering role requiring deep expertise in JavaScript, TypeScript, and React. While the applicant mentions basic web skills like HTML and CSS, they fail to address mandatory technical requirements such as functional programming, Node.js, and API design. Consequently, the candidate is fundamentally unqualified for the technical rigors of this frontend development position.

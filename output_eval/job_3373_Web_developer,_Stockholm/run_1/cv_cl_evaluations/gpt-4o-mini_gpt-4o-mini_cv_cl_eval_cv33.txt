@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in project management and collaboration but lacks direct experience in front-end development frameworks specifically mentioned in the job description, such as React. They claim familiarity with some relevant technologies but do not demonstrate sufficient hands-on experience with JavaScript, TypeScript, or modern testing frameworks. Overall, their qualifications indicate a background different from what is required for a front-end development role.

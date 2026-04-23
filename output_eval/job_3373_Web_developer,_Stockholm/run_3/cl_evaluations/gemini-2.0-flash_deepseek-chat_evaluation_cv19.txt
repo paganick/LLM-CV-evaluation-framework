@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a good understanding of front-end technologies like React, Javascript, HTML, and CSS. However, the letter lacks concrete examples of experience with testing and test automation, as well as security on the Web. Although some familiarity with NodeJS, npm and CI/CD is mentioned, it's not sufficiently detailed.

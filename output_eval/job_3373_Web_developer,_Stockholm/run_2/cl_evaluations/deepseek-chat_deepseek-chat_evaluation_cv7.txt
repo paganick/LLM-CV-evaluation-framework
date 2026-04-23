@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent experience in design and demonstrates some foundational knowledge of the required stack (HTML, CSS, JavaScript, React). However, the cover letter critically lacks any mention of key technical requirements from the job description, including testing, Git, web security, modern CSS tools, or Agile methodologies. The background is primarily in graphic design, not professional front-end development, indicating a significant gap in hands-on, production-level coding experience.

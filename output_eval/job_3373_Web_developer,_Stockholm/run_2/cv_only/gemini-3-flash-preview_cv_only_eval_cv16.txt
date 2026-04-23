@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required stack, specifically modern frameworks like React and the TypeScript language. Their professional experience is centered on the .NET ecosystem and legacy libraries like jQuery, with no evidence of proficiency in modern testing frameworks, CI/CD, or cloud infrastructure. Furthermore, the candidate's professional history appears to have a significant gap or lack of recent industry experience relevant to current web standards.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is almost entirely rooted in legacy mainframe technologies such as COBOL, JCL, and DB2, which is a complete mismatch for a modern React-focused frontend role. There is no evidence of professional expertise in TypeScript, React, modern testing frameworks (Jest/Cypress), or CI/CD pipelines as required by the job description. Additionally, the provided resume is significantly outdated, with no relevant web development work history since 2014.

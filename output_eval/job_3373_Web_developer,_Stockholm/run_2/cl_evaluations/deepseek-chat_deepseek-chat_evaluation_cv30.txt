@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a relevant technical foundation and directly addresses many job requirements, including React, TypeScript, testing, and Agile collaboration. However, the cover letter lacks explicit, hands-on experience with several key tools from the description (e.g., specific testing frameworks, modern CSS tools, Node.js ecosystem, functional programming with Ramda). The transition from data analytics, while framed as an asset, means core front-end development experience is still being built, making them a strong but not perfect match.

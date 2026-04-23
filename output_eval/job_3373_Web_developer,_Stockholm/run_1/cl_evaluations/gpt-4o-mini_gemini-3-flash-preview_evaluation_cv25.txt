@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong background in visual communication and transition into web development, aligning well with the required skills in JavaScript, TypeScript, HTML, and CSS. Their experience with React, testing frameworks, and Agile environments demonstrates relevance to the position. However, the lack of familiarity with some mentioned requirements like Ramda and CI/CD tools slightly diminishes their score. Overall, they are a strong candidate with a good match to the role.

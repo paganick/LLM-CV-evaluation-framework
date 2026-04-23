@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing and quality assurance, which is a relevant industry, but they lack the specific front-end development skills required by the job description. The resume and cover letter show no hands-on experience with React, TypeScript, modern CSS tools, or the Node.js ecosystem, which are core requirements. While they have some JavaScript and Agile experience, their profile is heavily skewed towards testing rather than the development and engineering focus of the role.

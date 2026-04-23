@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, modern frontend skills required. The resume and cover letter show primary expertise in legacy .NET stack (C#, ASP.NET) with only basic JavaScript/jQuery, and no demonstrated experience with React, TypeScript, or the listed testing frameworks. While they mention Agile collaboration and some tangential skills, they do not meet the core technical requirements for a modern React-focused frontend role.

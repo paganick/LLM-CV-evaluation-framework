@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a QA professional transitioning to development and lacks professional experience with the required React framework and TypeScript language. While they possess strong testing fundamentals, their self-described "basic" HTML and "scripting" JS skills do not meet the technical depth required for a professional developer role. Furthermore, the application fails to address critical job requirements such as web security (OWASP/CORS), modern CSS tools, and Node.js ecosystem experience.

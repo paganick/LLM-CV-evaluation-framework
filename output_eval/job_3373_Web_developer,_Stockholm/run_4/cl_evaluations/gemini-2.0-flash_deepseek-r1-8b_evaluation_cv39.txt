@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter focuses heavily on graphic design and visual aesthetics rather than the specific technical skills outlined in the job description. While the candidate mentions web development, it's not clear if they possess the required proficiency in JavaScript, React, or other modern front-end technologies. The letter lacks concrete examples of coding experience and testing methodologies.

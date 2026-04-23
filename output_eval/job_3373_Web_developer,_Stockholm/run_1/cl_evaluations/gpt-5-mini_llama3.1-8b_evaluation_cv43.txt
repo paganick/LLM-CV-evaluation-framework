@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management, learning design, and cognitive science with no demonstrated experience in the core front-end technologies required (JavaScript/TypeScript, HTML/CSS, React, testing frameworks, Node/npm, modern CSS tooling, CI/CD, AWS/Terraform). While they note familiarity with Git and an interest in React, there is no evidence of shipping front-end work, automated testing, or the specific toolchain the role requires. This represents a significant skills mismatch for the advertised front-end-focused position.

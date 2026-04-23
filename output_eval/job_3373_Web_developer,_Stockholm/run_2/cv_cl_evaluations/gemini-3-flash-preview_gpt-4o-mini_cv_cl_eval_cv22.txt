@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career switcher whose professional experience is almost entirely in marketing and media planning rather than software engineering. Their resume lacks evidence of professional experience with React, TypeScript, or automated testing frameworks, which are core requirements for this role. While they have completed academic projects using basic web technologies, they do not possess the technical depth or industry experience required for a modern front-end development position.

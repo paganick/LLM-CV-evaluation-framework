@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates a solid academic foundation in HTML, CSS, and JavaScript and mentions relevant tools (SASS, Jest/Cypress) and eagerness to learn React and TypeScript. However, the letter lacks demonstrated hands-on production experience with React, TypeScript, Git/Node/npm, CI/CD, test automation, and web security practices required by the role. Overall this is a relevant but underqualified candidate for this position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is currently a Technical Project Manager rather than a dedicated engineer and fails to demonstrate proficiency in TypeScript, which is a core requirement of the role. Additionally, the application lacks any mention of the NodeJS ecosystem, functional programming, or CI/CD tools specified in the job description. While they possess foundational web knowledge, their experience with the primary framework, React, appears theoretical rather than professional.

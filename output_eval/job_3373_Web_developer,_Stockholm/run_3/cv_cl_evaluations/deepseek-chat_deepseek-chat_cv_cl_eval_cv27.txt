@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration and operations, not software development. The resume lists only basic HTML and web design, with no evidence of JavaScript, TypeScript, React, testing frameworks, or any other core technical requirements from the job description. While the cover letter expresses enthusiasm and transferable soft skills, it does not demonstrate the hands-on technical experience or proven capability required for this front-end developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical skills required for this role, including JavaScript, TypeScript, React, and modern front-end testing frameworks. While the applicant has a Computer Science degree, it was obtained in 1984, and their professional career has been focused on business development and project management rather than active software development. There is no evidence of experience with modern web technologies, CI/CD, or cloud infrastructure, making them unqualified for this engineering position.

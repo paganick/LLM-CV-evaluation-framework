@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in web technologies and full-stack development, which aligns with the job requirements. However, while they express a desire to work with React and modern CSS frameworks, their lack of direct hands-on experience with some specified technologies (e.g., TypeScript, specific testing frameworks) and CI/CD tools reduces their score from being a perfect match.

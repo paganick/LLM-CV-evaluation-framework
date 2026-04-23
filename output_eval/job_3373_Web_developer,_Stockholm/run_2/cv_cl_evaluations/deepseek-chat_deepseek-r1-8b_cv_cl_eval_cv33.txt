@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales, banking, and training with zero demonstrated experience in software development. The job description requires specific, hands-on technical skills in JavaScript, React, testing, and modern web development tools, none of which are present in the resume or substantiated in the cover letter. The cover letter attempts to draw parallels between soft skills, but the candidate is completely unqualified for this technical role.

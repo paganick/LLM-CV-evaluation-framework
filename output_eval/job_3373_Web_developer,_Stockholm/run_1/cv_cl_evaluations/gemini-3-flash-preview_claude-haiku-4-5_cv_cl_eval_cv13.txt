@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager whose professional development experience is dated and secondary to their management responsibilities. They lack the required hands-on proficiency in React, TypeScript, and automated testing frameworks like Jest or Cypress as specified in the job description. While they possess strong Agile and collaboration skills, their technical profile does not meet the current standards for a dedicated Frontend Developer role.

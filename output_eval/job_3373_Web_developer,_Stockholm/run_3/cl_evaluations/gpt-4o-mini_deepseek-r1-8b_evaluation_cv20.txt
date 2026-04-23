@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development but lacks proficiency with React, which is critical for the position. While they demonstrate a good understanding of front-end technologies and Agile practices, they do not mention familiarity with modern CSS tools, testing frameworks, or any security knowledge outlined in the job description. This indicates a gap in specific skills required for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and training, with no demonstrated professional experience in software development. The cover letter mentions technical concepts but the resume provides zero evidence of hands-on coding, React, TypeScript, testing, or any other required technical skills. This is a complete industry mismatch for a Frontend Developer role.

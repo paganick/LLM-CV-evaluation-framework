@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a legacy .NET developer whose professional experience is centered on C#, ASP.NET, and jQuery rather than the required modern JavaScript/TypeScript ecosystem. While the cover letter claims familiarity with React and modern testing frameworks, these skills are not substantiated by the resume's work history or project descriptions. Furthermore, the candidate lacks the necessary experience with critical requirements such as TypeScript, functional programming, and modern cloud/DevOps tools like AWS and Terraform.

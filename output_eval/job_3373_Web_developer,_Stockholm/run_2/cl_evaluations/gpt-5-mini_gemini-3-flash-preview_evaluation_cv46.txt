@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid relevant experience with JavaScript, React, testing (Jest/Cypress), Git, API design, AWS, and strong collaboration skills, matching many core requirements. However, they do not mention TypeScript, modern CSS tooling (Styled Components/SASS), linters/formatters, or specific Node tooling (npm/Yarn/Express) and CI/Terraform details requested in the job description. Given the strong fit on fundamentals but gaps on several listed toolchain technologies, this is a good match but not a near-perfect one.

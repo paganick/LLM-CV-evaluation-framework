@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior-level Product Management executive whose professional experience is entirely focused on leadership, strategy, and marketing rather than hands-on software engineering. While the cover letter claims familiarity with the required tech stack, the resume provides no evidence of professional experience with JavaScript, React, or automated testing. There is a fundamental functional mismatch between the candidate's career history and the technical requirements of a Frontend Developer role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in key technologies such as JavaScript, TypeScript, HTML, and CSS, along with strong familiarity in React. They also have hands-on experience with testing and test automation, which aligns with the job requirements. However, the candidate lacks experience with some specific tools and frameworks mentioned in the job description, such as Jest and CircleCI, which impacts their overall match.

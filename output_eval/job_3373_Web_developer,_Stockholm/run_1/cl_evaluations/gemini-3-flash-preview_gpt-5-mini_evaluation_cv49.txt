@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a strong background in Data Analysis and Engineering but lacks any professional or hands-on experience with the required frontend stack, including JavaScript, TypeScript, and React. While they demonstrate programming fundamentals in Python and R, they explicitly state a motivation to "acquire" the necessary skills rather than proving current proficiency. This profile represents a career pivot that does not meet the specific technical requirements for an established Frontend Engineer role.

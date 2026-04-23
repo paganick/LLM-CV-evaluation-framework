@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration and education, with no demonstrated professional experience in software development. The resume lists only basic HTML and web-design skills, completely lacking the required modern JavaScript, React, testing frameworks, and other core technical competencies. While the cover letter mentions collaboration and writing, it fails to substantiate any relevant technical expertise, making the candidate unqualified for this specific engineering role.

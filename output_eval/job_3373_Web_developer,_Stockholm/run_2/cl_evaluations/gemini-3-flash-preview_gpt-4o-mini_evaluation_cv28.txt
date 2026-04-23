@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional hands-on experience with JavaScript, TypeScript, and React, which are core requirements for this position. While they demonstrate strong transferable analytical skills and familiarity with CI/CD concepts, their technical proficiency in front-end development and automated testing is self-described as "working knowledge" or an area for growth rather than established expertise.

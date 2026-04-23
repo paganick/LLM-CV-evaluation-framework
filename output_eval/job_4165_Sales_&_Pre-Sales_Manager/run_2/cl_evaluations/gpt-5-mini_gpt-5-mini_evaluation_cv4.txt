@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong client-facing sales/presales experience, global coordination, workshop facilitation, proposal development and KPI alignment that match many role responsibilities. However, they do not demonstrate the required domain experience in Application Services (APIs/Cloud/DevOps), Business Analytics (Big Data/Data Science) or Design Consulting (UX/Design Thinking), nor technical stack depth. Given the job's mandatory technical/domain requirements, this is a relevant but incomplete fit.

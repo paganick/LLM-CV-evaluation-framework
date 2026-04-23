@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks the mandatory technical experience required for this role, specifically in JavaScript, TypeScript, and modern frontend frameworks. They possess no professional experience with testing, Git workflows, or cloud infrastructure, which are core requirements of the job description. While they offer transferable design and soft skills, they are fundamentally unqualified for a position demanding immediate technical proficiency in a complex development stack.

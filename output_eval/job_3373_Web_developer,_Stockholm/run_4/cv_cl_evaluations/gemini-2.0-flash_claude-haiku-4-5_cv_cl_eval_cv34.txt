@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks almost all of the required skills. The resume focuses on Salesforce Marketing Cloud, which is not relevant to the job description. While there's mention of HTML and CSS, the lack of modern framework experience (React, VueJS, Angular, Svelte) and testing experience makes them a weak fit.

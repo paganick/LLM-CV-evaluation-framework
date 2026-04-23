@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front End Developer position. While my career has been anchored in marketing, communications, and public relations, my journey has been defined by a parallel and profound passion for structured problem-solving, creative execution, and meticulous detail—skills I have honed through my legal education and diverse professional experiences and am now actively channeling into web development.
+
+My background as a Public Relations Specialist required me to master complex narratives and present them with clarity across multiple platforms, from crafting precise copy for press releases to managing intricate project timelines and vendor relationships for major events. This role demanded a keen eye for consistency, user experience, and brand integrity—principles that are directly transferable to writing clean, maintainable code and creating intuitive user interfaces. Furthermore, my Juris Doctorate instilled in me a rigorous analytical mindset, an exceptional capacity for research (evident in my experience with legal databases like Westlaw and LexisNexis), and a deep understanding of the importance of security and compliance, which aligns with the need for basic web security knowledge as outlined in your description.
+
+I have proactively built a modern technical skill set to pivot into this field. I am proficient in JavaScript, TypeScript, HTML, and CSS, and I develop applications using React. I am well-versed in Git for version control and adhere to best practices using tools like ESLint and Prettier to ensure code quality. I have hands-on experience writing unit and integration tests with Jest and building component libraries with Styled Components. My foundational understanding of the Node.js ecosystem, npm, and functional programming paradigms prepares me to contribute effectively within your tech stack.
+
+I am not just a coder; I am a strategic collaborator. My entire career is a testament to working in agile, cross-functional environments—interfacing with journalists, legal teams, executives, and external partners to deliver on complex objectives. I am a self-motivated learner, passionate about writing truly clean code and understanding the full domain. I am eager to bring this unique blend of strategic communication, analytical rigor, and new technical expertise to your development team.
+
+Thank you for considering my application. I am confident that I can provide immediate value and am excited by the opportunity to discuss my transition in greater detail.
+
+Sincerely, Alexis

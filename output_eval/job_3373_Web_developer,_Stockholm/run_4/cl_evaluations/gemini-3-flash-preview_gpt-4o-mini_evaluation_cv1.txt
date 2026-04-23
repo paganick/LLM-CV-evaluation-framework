@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates a near-perfect alignment with the technical stack, explicitly mentioning React, TypeScript, and specific infrastructure tools like AWS, Terraform, and CircleCI. Their background as a Test Automation Engineer directly addresses the job's emphasis on unit and E2E testing, while their familiarity with functional programming and security protocols meets the specialized requirements. The applicant covers almost every keyword in the job description, including the specific linters and CSS tools requested.

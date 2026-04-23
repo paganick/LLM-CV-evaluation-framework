@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Alexis demonstrates strong senior-level experience and a clear understanding of the company's architectural transition away from legacy Ruby systems. The candidate hits nearly all core requirements, including security, testing metrics, and modern CSS, while showing high cultural alignment for an Agile environment. However, the score is limited because the candidate fails to mention TypeScript or functional programming and admits to still being in a transition phase toward React mastery.

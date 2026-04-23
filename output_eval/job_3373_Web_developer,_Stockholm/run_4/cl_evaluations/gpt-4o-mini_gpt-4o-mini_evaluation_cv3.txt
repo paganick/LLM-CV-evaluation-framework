@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant education and foundational knowledge in web development, particularly in front-end technologies like JavaScript, HTML, and CSS. However, the lack of hands-on experience with specific frameworks and tools mentioned in the job description, such as testing frameworks, Git, and CI/CD tools, limits their qualifications for the position. Their transition from a different industry may hinder their immediate contribution, though their foundational skills in coding are acknowledged.

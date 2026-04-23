@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analytics and industrial engineering, with no professional experience or demonstrable projects in frontend development, React, or the core technologies listed. While the cover letter expresses interest and a willingness to learn, the resume shows zero evidence of the required JavaScript, TypeScript, modern frameworks, testing, or web security knowledge. This is a career transition attempt into a role demanding specific, hands-on technical skills the candidate does not possess.

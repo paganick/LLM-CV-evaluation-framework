@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry transition potential and a strong, unique background in design and technical systems. However, the cover letter lacks specific, hands-on experience with the core technical stack, particularly React, TypeScript, and modern testing frameworks, which are explicit requirements. While the foundational skills and mindset are promising, the direct professional experience in frontend development is not sufficiently proven for the role.

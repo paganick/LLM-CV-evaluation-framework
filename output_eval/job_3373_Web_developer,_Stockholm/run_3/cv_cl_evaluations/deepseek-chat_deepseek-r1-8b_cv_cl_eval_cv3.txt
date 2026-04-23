@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in the correct industry but lacks nearly all the specific, required technical experience. Their skills are outdated (e.g., ActionScript, Flash) and they have no professional experience with React, TypeScript, modern testing frameworks, or the other listed tools. While their soft skills and motivation are positive, the gap between their academic/legacy skills and the job's modern tech stack is too significant.

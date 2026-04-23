@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in sales and leadership, not frontend development. While they mention HTML and an interest in React and functional programming, their background is not a strong match for the core requirements. Certifications are not directly relevant to frontend development, and the letter relies on transferable skills rather than demonstrable frontend experience.

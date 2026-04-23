@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Drupal and PHP full-stack development, which is not aligned with the job's core requirement for modern frontend frameworks like React. While they mention JavaScript and some adjacent tools, they lack demonstrable, hands-on experience with the specific technologies listed (React, TypeScript, modern CSS tools, Jest/Cypress, Ramda). Their background is in a different tech stack, making them underqualified for this specialized frontend role.

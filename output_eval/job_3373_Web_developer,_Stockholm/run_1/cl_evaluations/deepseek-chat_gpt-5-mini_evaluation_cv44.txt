@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in design and presentation with limited direct front-end engineering experience. They lack demonstrated proficiency in core requirements like React, TypeScript, modern toolchains (e.g., Jest, Cypress, Git), and security concepts. While they show strong soft skills and a desire to learn, their current technical skills do not align with the specific engineering-focused job description.

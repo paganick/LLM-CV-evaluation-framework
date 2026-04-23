@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in finance and operations management, with zero demonstrated experience in any required front-end technologies (JavaScript, React, etc.), testing, version control, or web security. The cover letter attempts to frame general project management as relevant, but this does not address the specific technical requirements of the role. This is a completely unqualified application for a software engineering position.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume showcases extensive experience in construction and site management, civil engineering, and project management within the oil and gas industry. However, there's a complete absence of any skills or experience related to JavaScript, TypeScript, modern FE frameworks like React, or web development in general. This makes the candidate entirely unsuitable for the front-end developer position.

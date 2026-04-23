@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The applicant demonstrates comprehensive experience with React, testing frameworks, and security protocols, aligning well with the core front-end requirements. However, the candidate fails to mention TypeScript, which is a primary requirement, and ignores several secondary technical skills such as functional programming, API design, and AWS. As a result, while highly experienced, the application does not fully satisfy the specific technological stack requested by the job description.

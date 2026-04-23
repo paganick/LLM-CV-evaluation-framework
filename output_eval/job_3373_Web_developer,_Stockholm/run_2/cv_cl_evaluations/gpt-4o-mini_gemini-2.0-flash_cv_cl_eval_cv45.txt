@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and cybersecurity, but lacks specific experience with modern frontend technologies such as JavaScript, TypeScript, and frameworks like React, which are crucial for the role. The resume and cover letter do not demonstrate hands-on experience with testing, test automation, or modern CSS tools mentioned in the job description. While the candidate shows leadership qualities and collaboration skills, they fall short in the technical requirements necessary for this position.

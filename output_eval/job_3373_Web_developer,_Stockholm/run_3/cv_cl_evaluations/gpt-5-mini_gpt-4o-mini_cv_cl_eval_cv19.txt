@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is primarily graphic design with only basic HTML/CSS and limited exposure to web tools; they lack practical experience with JavaScript/TypeScript, React, front-end testing, NodeJS/npm, and CI/CD which are core requirements. While they express willingness to learn and have strengths in visual design, they do not demonstrate the technical competency or proven development experience required for this front-end developer role.

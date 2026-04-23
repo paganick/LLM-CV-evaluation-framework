@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates highly relevant soft skills and a strong engineering mindset that aligns with the job's collaborative and process-oriented requirements. However, there is a critical lack of demonstrated, hands-on professional experience with the core technical stack (React, TypeScript, modern testing frameworks) listed in the job description. The transition from civil engineering is ambitious, but the cover letter does not provide concrete evidence of shipping production-ready software, which is a fundamental requirement for the role.

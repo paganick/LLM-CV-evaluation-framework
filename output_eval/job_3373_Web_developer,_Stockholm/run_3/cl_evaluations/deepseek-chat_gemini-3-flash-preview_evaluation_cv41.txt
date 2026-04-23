@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and addresses many key requirements, including JavaScript/TypeScript, React, testing, security concepts, and Agile collaboration. However, the cover letter lacks direct, hands-on evidence for several specific tools mentioned in the job description, such as modern CSS tools, linters, CI/CD, and AWS/Terraform. The background is heavily weighted toward systems engineering, which, while valuable, does not fully demonstrate the depth of front-end and modern full-stack development experience sought.

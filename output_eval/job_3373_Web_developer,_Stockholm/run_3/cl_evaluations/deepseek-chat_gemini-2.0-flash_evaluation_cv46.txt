@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core front-end technologies (JavaScript, TypeScript, React, testing frameworks) and the collaborative, Agile aspects of the role. However, the cover letter lacks mention of several specific requirements from the job description, such as Git, web security basics (OWASP, CORS), modern CSS tools (SASS), linters/formatters, functional programming, and CI/CD tools. The mention of EJB and database design is less relevant and suggests a backend-heavy background not fully tailored to this front-end position.

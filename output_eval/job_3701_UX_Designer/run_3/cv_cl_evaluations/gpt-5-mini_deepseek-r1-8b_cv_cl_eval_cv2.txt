@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in apparel technical/product design rather than commercial digital UX design, with no demonstrable work using Figma, prototyping for software products, or front-end exposure (HTML/CSS/JS). There is little to no evidence of conducting user research, user testing, managing a UI Design System, or leading UX within an Agile software development context. The cover letter claims some transferable skills (workshops, Agile) but the resume does not substantiate the core UX requirements, so the candidate is not a strong fit.

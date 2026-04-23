@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant educational background and demonstrates experience in client relations and project management, but lacks direct experience with some specific technical requirements such as Git, CI/CD tools, and a strong familiarity with the NodeJS ecosystem and functional programming. While the candidate shows a willingness to learn and a passion for coding, the lack of specific mentioned experience limits their qualification for the role.

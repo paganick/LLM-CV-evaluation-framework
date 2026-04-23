@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses on IT support and field service, lacking direct experience with the specific front-end technologies (React, TypeScript, modern CSS) mentioned in the job description. While the cover letter expresses interest and a willingness to learn, there's no concrete evidence of practical experience in modern web development. The listed skills are too general, failing to demonstrate the required expertise.

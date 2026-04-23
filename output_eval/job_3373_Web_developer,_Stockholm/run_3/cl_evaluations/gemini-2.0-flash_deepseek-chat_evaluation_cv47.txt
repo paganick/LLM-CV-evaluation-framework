@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web technologies and expresses eagerness to learn. However, the cover letter highlights a career primarily in business development, suggesting limited practical experience in front-end development. While the candidate mentions React and TypeScript, the depth of hands-on experience is unclear, and other desired skills like testing automation, CI/CD, and Node.js are only mentioned as areas of interest, not demonstrated expertise.

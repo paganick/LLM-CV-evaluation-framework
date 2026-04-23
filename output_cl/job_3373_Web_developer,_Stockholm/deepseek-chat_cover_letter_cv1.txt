@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position, which I discovered through your posting. With over three years of professional experience across the full software development lifecycle and a Master’s in Computer Science, my technical expertise and collaborative approach align strongly with your requirements. My background is not solely in Java backend systems; I have extensive hands-on experience building modern, responsive web interfaces using the core technologies you seek, including JavaScript, HTML5, CSS3, and frameworks like ReactJS and AngularJS.
+
+Your tech stack resonates deeply with my skills and interests. I have developed web interfaces using ReactJS and am proficient with modern CSS tools, including SASS, which is noted in my CV. My experience as a Test Automation Engineer involved creating a robust, maintainable automation framework using Selenium, Spring Boot, and Cucumber, giving me a solid foundation in test automation principles (unit, integration, and E2E) that I am eager to apply to a modern JavaScript context with tools like Jest or Cypress. I am well-versed in Agile/Scrum methodologies, Git, and CI/CD tools like Jenkins, and I am a keen advocate for writing clean, maintainable code—a genuine passion you highlighted.
+
+While my professional history features significant Java/Spring expertise, I have consistently applied frontend technologies and am now passionately focused on transitioning my career into a specialized frontend role. My internship involved automating tests for an AngularJS application, and my full-stack development included creating interactive UIs with ReactJS, HTML, CSS, and Bootstrap. I am a proactive learner, as evidenced by my academic record and self-driven projects, and I am confident in my ability to quickly master your specific tools like Ramda for functional programming and deepen my knowledge of AWS, Terraform, and the Node.js ecosystem.
+
+I am particularly drawn to your emphasis on collaboration, understanding the full domain, and interacting with other teams. My experience includes coordinating development projects, training QA teams, and directly handling client interactions, demonstrating the strong communication and teamwork skills you require.
+
+Thank you for considering my application. I am excited by the opportunity to contribute my unique blend of rigorous backend logic, testing discipline, and frontend development skills to your team and am confident I can deliver value from day one.
+
+Sincerely,
+Alexis

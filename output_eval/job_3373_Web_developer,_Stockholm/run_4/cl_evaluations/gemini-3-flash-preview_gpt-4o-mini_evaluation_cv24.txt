@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core technical requirements, specifically JavaScript, TypeScript, and the React framework, which are listed as essential for the role. While they have a decade of experience in digital communications and basic knowledge of HTML/CSS, they are currently only in the learning phase for modern front-end tools, testing frameworks, and web security. This profile represents a career transitioner who does not meet the immediate technical proficiency required for a development position.

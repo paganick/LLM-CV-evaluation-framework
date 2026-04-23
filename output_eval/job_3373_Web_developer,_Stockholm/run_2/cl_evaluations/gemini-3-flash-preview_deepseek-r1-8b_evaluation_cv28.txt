@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical skills required for this role, explicitly admitting to limited or no experience with JavaScript, TypeScript, and modern frontend frameworks like React. While they possess transferable experience in Git and Agile methodologies, their background in materials analysis is not directly relevant to software engineering. The candidate does not meet the core programming or testing automation requirements necessary for immediate contribution to the team.

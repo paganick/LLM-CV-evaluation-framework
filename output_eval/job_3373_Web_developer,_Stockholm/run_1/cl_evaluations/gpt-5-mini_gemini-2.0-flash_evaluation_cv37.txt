@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate's background is primarily project/IT management with only cursory exposure to JavaScript, HTML, and CSS and no demonstrable hands-on experience with React, TypeScript, testing frameworks, Git, or NodeJS. While they show strong Agile collaboration and leadership, the role requires concrete front-end engineering skills (modern frameworks, testing/automation, CI/CD, web security, and modern CSS tooling) which are missing or unproven.

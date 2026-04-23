@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates foundational front-end skills (HTML, CSS, JavaScript/TypeScript), basic tooling knowledge (Git, Jest basics, SASS) and a clear willingness to learn. However they lack hands-on experience with React (the team's primary framework), limited testing/test automation experience, and minimal exposure to the Node ecosystem, CI/CD, and AWS—key requirements for this role. Given the gap between stated skills and several required technologies, this application is relevant but underqualified for the position.

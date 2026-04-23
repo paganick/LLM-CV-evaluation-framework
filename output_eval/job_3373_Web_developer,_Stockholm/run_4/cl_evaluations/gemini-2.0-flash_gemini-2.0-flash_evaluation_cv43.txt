@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, not front-end development. While transferable skills like project management and understanding of user experience are mentioned, the cover letter lacks specific examples of hands-on coding experience with the technologies listed in the job description (JavaScript, TypeScript, HTML, CSS, React, testing frameworks, Git, etc.). The candidate expresses interest in learning new technologies but does not demonstrate sufficient existing knowledge.

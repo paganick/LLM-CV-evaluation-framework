@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows extensive general IT and systems administration experience but lacks the specific, hands-on modern front-end development skills required. Key technologies like React, TypeScript, modern testing frameworks, and functional programming are not mentioned, and the listed experience with JavaScript/HTML/CSS appears dated and not focused on modern web application development. The profile is misaligned with the core technical requirements of the role.

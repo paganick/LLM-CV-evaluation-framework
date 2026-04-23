@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position, which I discovered through your recent posting. With over 18 years of diverse IT experience, including extensive web design, development, and systems consulting, I am confident that my technical expertise and collaborative approach align perfectly with your team's needs.
+
+Your requirement for proficiency in JavaScript, HTML, and CSS is a cornerstone of my consulting work, where I have served as the web designer, developer, and hosting administrator for over 30 client domains. My hands-on experience with server technologies like Apache and MS IIS, combined with my deep understanding of the full web stack, ensures I can build robust, performant applications. While my CV details a broad technology stack, I have actively kept pace with modern frameworks and am particularly drawn to your use of React. My foundational skills in JavaScript, PHP, and Java, coupled with my proven ability to rapidly master new technologies, position me to become a productive member of your React-based environment swiftly.
+
+I am especially aligned with the qualities you seek in a candidate. My entire career as an Information Technology Consultant has been built on being a strong collaborator, working closely with clients to analyze requirements, manage projects, and deliver solutions that meet business needs—a process inherently Agile in nature. My passion for writing clean, maintainable code is demonstrated through my long-term system implementations and documented procedures. Furthermore, my experience in requirements analysis, project management for complex deployments, and genuine interest in understanding full business domains ensure I can effectively interact with other teams and partners to deliver comprehensive solutions.
+
+My background extends into areas that support a mature development lifecycle. I have managed high-level business technology projects involving system upgrades, migrations, and disaster recovery planning, which speaks to a disciplined approach to quality and stability. While I am eager to deepen my practical experience with specific tools like Jest, Cypress, and CircleCI, my foundational knowledge in testing, security principles, and systems administration provides a strong platform for immediate contribution and accelerated growth.
+
+I am keen to bring my blend of strategic project oversight, technical depth, and client-focused collaboration to your team. Thank you for considering my application. I look forward to discussing how my experience can benefit your projects.
+
+Sincerely,
+Alexis

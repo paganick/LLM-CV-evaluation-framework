@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in team leadership and project management, which are valuable skills in collaborative development environments. However, they lack direct technical experience with the specified frontend technologies such as JavaScript, TypeScript, and modern frameworks like React, as well as essential testing and CI/CD tools. Their commitment to learning and growth is commendable but does not fully align with the job's immediate technical requirements.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in general IT management and troubleshooting, not professional front-end development. While they list basic web technologies, they lack demonstrable, recent experience with the required modern frameworks (React), testing tools, and the specific ecosystem (Node.js, functional programming, CI/CD) outlined in the job description. The cover letter attempts to align but is not supported by concrete, relevant experience in the resume.

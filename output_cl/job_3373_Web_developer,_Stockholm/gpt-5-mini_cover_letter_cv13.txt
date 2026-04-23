@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a PMP-certified Technical Project Manager with a strong background in front-end web development, UX design, and digital analytics, currently leading technical projects at PMA Media Group. For the past several years I have managed both internal and client-facing technical solutions—from finance department tools to public web services—and have introduced a scrum-based, agile approach to user discovery and development.
+
+My hands-on experience includes JavaScript, HTML and CSS development, along with work using libraries and frameworks such as jQuery and Angular. I have produced front-end assets, implemented responsive designs, and collaborated closely with designers and engineers to translate user research and product requirements into clean, maintainable code. I am capable of writing user research scripts and testing plans, and I regularly run usability tests, focus groups, and surveys to validate design and functionality decisions.
+
+As a project manager I bring strong collaboration skills and practical Agile experience. I have coordinated cross-functional teams and external partners to deliver complex projects on time, using tools including WorkFront, JIRA, Trello and Slack. My projects have ranged from campaigns and website builds to analytics implementations and measurement strategies; notable highlights include leadership roles on RootsTech and the Freedmen's Bureau campaign.
+
+I hold a Project Management Professional certification (March 2016) and am actively pursuing Agile Project Management and IIBA Business Analyst certifications. My background also includes SEO and keyword research, Adobe Analytics implementation, measurement strategy and hands-on work in content management systems. I am comfortable writing scripts, small front-end code in PHP, JavaScript and VBA, and translating analytics into actionable product and business decisions.
+
+I care deeply about producing quality code and reliable products. While my primary responsibilities have been technical program leadership and product discovery, I remain actively engaged in front-end development and seek opportunities to improve code quality, testing practices and developer workflows. I am enthusiastic about learning and adapting to modern React-based stacks, testing frameworks and CI/CD processes, and I would bring that curiosity to your team while contributing immediately with my proven ability to unify product thinking, UX insight and disciplined project execution.
+
+I welcome the chance to discuss how my blend of technical experience, user-centered product practice and certified project management can support your engineering goals and deliver value for your users.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional graphic designer with no documented experience or proficiency in JavaScript, TypeScript, React, or modern software engineering practices. While they have extensive experience in visual arts and design tools, they lack every core technical requirement listed in the job description, including testing frameworks, CI/CD, and API design. This application represents a total mismatch between the candidate's creative background and the required engineering expertise.

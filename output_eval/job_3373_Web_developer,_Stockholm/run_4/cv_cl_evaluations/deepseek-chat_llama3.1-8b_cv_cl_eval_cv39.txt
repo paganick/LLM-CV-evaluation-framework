@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic and product design, which is the wrong industry for a software engineering role requiring deep JavaScript, TypeScript, and React expertise. The resume and cover letter show no evidence of professional programming experience, modern front-end frameworks, testing, or the other core technical skills listed. While the cover letter claims familiarity with tools like Git and security concepts, these assertions are not supported by any professional experience detailed in the resume.

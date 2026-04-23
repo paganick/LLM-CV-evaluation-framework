@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical qualifications, including proficiency in JavaScript, TypeScript, React, and modern testing frameworks. Their professional history is centered on business development, quality engineering, and aerospace management, with no evidence of hands-on web development experience in the last two decades. While the candidate holds a degree in Computer Science, it was earned in 1984 and does not compensate for the complete absence of modern front-end engineering skills required for this role.

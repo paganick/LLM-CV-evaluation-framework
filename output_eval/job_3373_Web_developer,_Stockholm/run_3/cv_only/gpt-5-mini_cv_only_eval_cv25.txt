@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and print production with only brief mention of HTML and CSS; there is no evidence of JavaScript/TypeScript, React (or other modern frameworks), testing, Git workflows, Node/npm, or cloud/CI experience required for this frontend engineering role. Their skills and experience are in a different discipline and do not meet the technical requirements listed. This makes them unqualified for the position as described.

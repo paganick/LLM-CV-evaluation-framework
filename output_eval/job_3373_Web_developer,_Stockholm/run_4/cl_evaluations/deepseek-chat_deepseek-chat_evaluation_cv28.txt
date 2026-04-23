@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant technical skill set that directly matches the job's core requirements in React, TypeScript, testing, and modern tooling. Their non-traditional background is framed as a strength, highlighting transferable analytical and process-oriented skills valued in the description. The application lacks explicit mention of specific required areas like web security fundamentals (OWASP, CORS) and secondary tools like AWS or CI/CD, preventing a perfect score.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in marketing, communications, public relations, and legal administration, which is not relevant to the job description's requirements for a front-end developer. The resume lacks any mention of the required technical skills (JavaScript, React, HTML, CSS, etc.). The cover letter attempts to bridge this gap but fails to demonstrate actual experience or proficiency in the technologies listed in the job description.

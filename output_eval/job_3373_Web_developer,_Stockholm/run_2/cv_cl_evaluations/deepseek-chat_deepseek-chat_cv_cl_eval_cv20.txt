@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and Agile exposure but critically lacks hands-on experience with the required modern front-end stack (React, TypeScript, modern CSS tools) and testing frameworks. Their professional background is heavily centered on legacy .NET technologies (C#, ASP.NET MVC, jQuery), which does not align with the job's core requirements. While they express eagerness to learn, they do not demonstrate current proficiency in the specified technologies.

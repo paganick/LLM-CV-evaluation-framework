@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in software development and some frontend technologies, their primary background is in Mainframe systems. The cover letter highlights a transition to modern frontend ecosystems, but lacks demonstrable, hands-on experience in React, a key requirement. Furthermore, the depth of experience with other listed technologies like NodeJS and specific testing frameworks mentioned in the job description is not clearly established.

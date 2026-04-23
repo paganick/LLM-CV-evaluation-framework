@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant experience in testing automation and web security, their core professional background is heavily centered on data analytics rather than front-end engineering. They fail to demonstrate proficiency in TypeScript or the Node.js ecosystem, and their experience with ASP.NET 4.5 suggests a legacy web background that does not align with the modern stack required. The letter relies on mirroring the job description's keywords rather than providing evidence of deep, hands-on experience with React and modern CSS tools.

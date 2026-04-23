@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates solid front-end skills (JavaScript, HTML/CSS, React), testing experience (Jest, Cypress), CI/CD (CircleCI), Git, and modern CSS tools, which align with several core requirements. However, they do not mention TypeScript, the Node.js/npm/Yarn ecosystem or Express, linters/formatters, functional tooling like Ramda, API design, or AWS/Terraform; these omissions are material for the role. Overall relevant but missing multiple important, listed technologies and tooling.

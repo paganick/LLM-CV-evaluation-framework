@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical foundations (HTML/CSS, SQL/MySQL, system design) and strong analytical/client-facing experience, but lacks hands-on experience with the core requirements for this role—modern JavaScript/TypeScript, React, testing frameworks, Node/npm ecosystem, and explicit Git/CI/CD tool experience. They express willingness to learn, but as-is do not meet the job's practical frontend and testing expectations. With focused upskilling or demonstrable project experience in React/TypeScript and testing, they could become a solid match.

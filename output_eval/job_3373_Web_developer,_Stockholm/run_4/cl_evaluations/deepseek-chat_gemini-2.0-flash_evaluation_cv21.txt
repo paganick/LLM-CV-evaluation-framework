@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, required skills listed in the job description. The cover letter does not mention the primary framework (React), modern tooling (e.g., testing frameworks, CI/CD), or key concepts like security, functional programming, or AWS. While they have Agile experience and front-end knowledge, the mismatch with the explicit technical stack is significant.

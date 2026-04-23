@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant foundational skills and a strong career transition narrative, but lacks direct, hands-on experience with the specific modern technologies listed in the job description, such as React, TypeScript, and modern testing frameworks. Their knowledge of key requirements like functional programming with Ramda and modern CSS tools is theoretical or aspirational rather than demonstrated. While their soft skills and potential are evident, the gap in practical, production-level experience with the core tech stack is significant.

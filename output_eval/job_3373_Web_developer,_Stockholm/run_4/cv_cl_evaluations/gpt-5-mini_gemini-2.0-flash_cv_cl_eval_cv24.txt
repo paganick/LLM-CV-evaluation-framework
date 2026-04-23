@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong communications, content management, and accessibility experience but lacks the core front-end technical skills required (no demonstrable experience with React, TypeScript, modern testing frameworks, Git/CI workflows, Node/npm, or CSS-in-JS). Their stated HTML/CSS/JS familiarity is basic and insufficient for the hands-on development responsibilities in the JD. Recommend not progressing unless they present concrete projects or upskilling that prove competency with the listed technologies.

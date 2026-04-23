@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive design experience but lacks direct, hands-on experience with the core technical requirements of the role, specifically React, TypeScript, modern testing frameworks, and CI/CD. While they express strong motivation to learn, the job description requires existing proficiency. Their design-to-code translation skills are relevant, but the gap in modern front-end engineering is significant for a React team role.

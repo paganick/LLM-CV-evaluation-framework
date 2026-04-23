@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical stack (React, TypeScript, modern CSS) and collaborative, Agile work ethic. However, the cover letter lacks explicit mention of several key requirements from the job description, including hands-on testing experience, specific tools (Jest, ESLint, CI/CD), and functional programming. The extensive design background is an asset but the direct frontend development experience with the full modern toolchain is not fully substantiated.

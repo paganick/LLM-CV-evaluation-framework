@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, and legal work with no demonstrated hands-on experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git, NodeJS, or web security—core requirements for this role. While they state eagerness to learn and have strong project management and communication skills, those are not substitutes for the essential technical competencies needed. As-is, they are not qualified for this engineering position.

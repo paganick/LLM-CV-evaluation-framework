@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in core technologies such as JavaScript, HTML, and CSS, but lacks familiarity with critical modern frontend frameworks like React, which is specifically mentioned in the job description. While they demonstrate a good understanding of testing frameworks and Git, they do not mention experience with many of the additional tools and practices that are key to the role, such as CI/CD tools, modern CSS tools, and the NodeJS ecosystem.

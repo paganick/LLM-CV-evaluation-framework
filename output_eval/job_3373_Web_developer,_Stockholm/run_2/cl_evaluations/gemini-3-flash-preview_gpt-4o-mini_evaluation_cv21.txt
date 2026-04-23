@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to mention any experience with React or TypeScript, which are the primary technical requirements for this role. While they demonstrate proficiency in testing, CSS tools, and Agile methodologies, their focus on legacy frameworks like AngularJS and ASP.Net suggests a significant skills gap. As a strict recruiter, the omission of the core tech stack requested in the job description makes this candidate a poor fit for immediate productivity.

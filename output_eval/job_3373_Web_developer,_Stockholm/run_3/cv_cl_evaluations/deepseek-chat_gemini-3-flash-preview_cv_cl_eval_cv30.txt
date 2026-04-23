@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, quality assurance, and environmental science, not in modern frontend software engineering. The resume and cover letter show no direct, hands-on experience with the core required technologies like JavaScript, TypeScript, React, or any modern frontend framework. While they mention transferable skills like testing mindset and collaboration, they lack the specific technical qualifications for this frontend development role.

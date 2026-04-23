@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant design experience (3+ years), familiarity with Agile, HTML/CSS, prototyping, user research and running workshops, which align partially with the role. However they do not explicitly state commercial UX designer experience or Figma proficiency, and provide insufficient evidence of managing a UI Design System, defining acceptance criteria, or working closely with development/release teams. Given these gaps against key job requirements, they are a borderline but incomplete fit.

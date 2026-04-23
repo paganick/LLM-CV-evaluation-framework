@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from an unrelated field and lacks the required hands-on experience with core technologies like JavaScript, TypeScript, React, and testing frameworks. While they demonstrate foundational knowledge of HTML/CSS and some database skills, their project examples are academic and not directly aligned with modern frontend development. Their eagerness to learn is noted, but they do not meet the specific technical requirements listed in the job description.

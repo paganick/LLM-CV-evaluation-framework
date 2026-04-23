@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and mentions JavaScript, HTML/CSS, and Angular, but the resume is heavily focused on project management, not hands-on development. Key requirements like modern React, TypeScript, testing frameworks, functional programming, and specific tooling (e.g., Jest, Cypress, Ramda) are not demonstrated. The technical skills listed appear to be from past, non-recent roles, not indicating current proficiency.

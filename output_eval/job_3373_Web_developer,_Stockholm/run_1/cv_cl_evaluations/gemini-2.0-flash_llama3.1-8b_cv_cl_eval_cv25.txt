@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, which does not align with the front-end developer role requirements. While the candidate expresses a willingness to learn, the resume and cover letter lack sufficient evidence of existing skills in JavaScript, modern FE frameworks, or testing frameworks, which are critical for this position. The candidate's self-proclaimed understanding of web security is not substantiated with practical experience.

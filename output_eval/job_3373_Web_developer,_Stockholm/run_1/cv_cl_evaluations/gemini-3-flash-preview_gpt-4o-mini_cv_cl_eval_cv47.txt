@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development professional with no professional experience in modern front-end development or the required tech stack (React, TypeScript, JavaScript). Their technical background is limited to basic HTML and C/C++ from a different industry context, failing to meet any of the core requirements for testing, web security, or modern CSS tools. This profile represents a complete industry and skill set mismatch for a front-end engineering position.

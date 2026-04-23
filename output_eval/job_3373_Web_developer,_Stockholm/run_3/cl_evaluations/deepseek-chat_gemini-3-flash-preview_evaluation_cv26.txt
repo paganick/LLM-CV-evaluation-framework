@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and direct match to the technical requirements, including React, TypeScript, testing frameworks, security protocols, and the specific tools mentioned. The unique non-technical background adds valuable perspective on precision, project management, and business understanding. The score is not a 9 or 10 because the extensive non-software experience, while framed as an asset, is not a direct substitute for years of dedicated frontend engineering.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong, relevant testing experience and Agile collaboration skills, directly matching several job requirements. However, the role heavily emphasizes front-end development with modern frameworks, and the candidate explicitly states their primary background is in testing, lacking proven hands-on experience with React, TypeScript, and the specific modern toolchain listed. Their eagerness to learn is noted, but they currently lack the required core development competencies for a strong match.

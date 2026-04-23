@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience or foundational knowledge in the required tech stack, including JavaScript, TypeScript, and React. Their background is strictly in Data Analysis and Industrial Engineering, which does not translate to the technical requirements of a Frontend Engineer. While the candidate possesses analytical skills, they are completely unqualified for this specific engineering role and would require extensive training.

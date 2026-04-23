@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant IT experience and demonstrates some alignment with the required technical skills and soft skills. However, the cover letter heavily emphasizes a background in IT consulting and technical support, not hands-on front-end development. Key technical requirements like functional programming, specific modern CSS tools, linters, and API design are mentioned only superficially or not at all, indicating a significant experience gap for the core role.

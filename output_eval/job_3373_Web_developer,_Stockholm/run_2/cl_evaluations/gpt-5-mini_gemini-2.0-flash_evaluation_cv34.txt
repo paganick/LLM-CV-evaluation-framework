@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant fundamentals (HTML/CSS), strong communication/documentation skills, and Agile experience, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing/automation, Git/CI, Node ecosystem, and web security. Those gaps are significant for this front-end role, making the applicant trainable but not an immediate strong fit.

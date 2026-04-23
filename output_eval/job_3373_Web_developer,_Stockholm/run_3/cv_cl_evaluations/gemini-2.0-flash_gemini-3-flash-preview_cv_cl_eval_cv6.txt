@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development but is heavily focused on Drupal, which isn't the primary technology mentioned in the job description. While they mention JavaScript, HTML, and CSS, their experience with modern FE frameworks like React (the company's framework) is not clearly demonstrated. Their testing experience is mentioned but doesn't explicitly align with the specific testing frameworks listed.

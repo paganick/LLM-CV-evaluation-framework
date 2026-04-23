@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong experience in marketing automation and systems integration but lacks direct hands-on experience with JavaScript, TypeScript, and the required front-end frameworks like React. While their skills in QA and collaboration are relevant, they do not meet the specific technical requirements outlined in the job description for a front-end engineering role.

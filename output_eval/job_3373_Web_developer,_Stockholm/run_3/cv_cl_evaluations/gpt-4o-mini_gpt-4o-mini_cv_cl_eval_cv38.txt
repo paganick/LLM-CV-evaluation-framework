@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media production rather than direct experience in front-end development, which limits their qualifications for the role. While they express knowledge of relevant technologies such as JavaScript, TypeScript, HTML, CSS, and React, they lack specific hands-on experience with modern front-end frameworks, testing automation, and the NodeJS ecosystem as outlined in the job description. Additionally, their cover letter does not provide enough evidence of practical skills in the development environment or CI/CD tools.

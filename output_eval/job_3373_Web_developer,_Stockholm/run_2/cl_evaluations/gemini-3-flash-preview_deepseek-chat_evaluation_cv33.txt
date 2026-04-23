@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career switcher with no professional experience in software engineering, failing to meet the core requirement for hands-on experience in a production environment. While the cover letter highlights a strong conceptual grasp of the tech stack, it lacks evidence of practical expertise in critical areas like CI/CD, AWS, and API design. Consequently, the applicant’s history in the banking industry does not provide the technical tenure or industry-specific track record required for this position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in media planning, advertising, and business consulting with no professional frontend development experience. While the resume mentions basic HTML and CSS knowledge, there is a complete absence of JavaScript, TypeScript, React, or any modern frontend framework experience. The candidate lacks demonstrated expertise in testing frameworks, Git, web security concepts, and the entire tech stack required for the role, making them fundamentally unqualified for this senior frontend developer position.

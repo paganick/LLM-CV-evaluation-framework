@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in sales and management, with no professional experience in software development. The cover letter mentions only foundational or self-taught knowledge of the required technical skills (e.g., HTML, Git, security concepts) and lacks any evidence of hands-on work with React, TypeScript, testing frameworks, or other core technologies listed in the job description. This represents a complete career shift into a wrong industry for which the candidate is not qualified.

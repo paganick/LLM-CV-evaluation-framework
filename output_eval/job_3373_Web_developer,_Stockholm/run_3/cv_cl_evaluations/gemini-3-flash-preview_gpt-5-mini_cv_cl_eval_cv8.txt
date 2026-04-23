@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware-focused Test Engineer and lacks any professional experience with the required front-end stack, including JavaScript, TypeScript, HTML/CSS, or React. While they have a strong background in electrical engineering and automated testing for hardware, they do not possess the specific software development skills or web-based testing experience necessary for this role. Their profile represents a different industry and domain, making them unqualified for a Front-End Engineering position.

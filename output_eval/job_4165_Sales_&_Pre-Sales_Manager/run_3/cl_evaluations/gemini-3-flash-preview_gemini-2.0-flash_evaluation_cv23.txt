@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Although the candidate possesses extensive business development experience and has managed global teams, their background is primarily rooted in legacy digital marketing services rather than the modern Application Services or AI/ML-driven platforms required. They fail to explicitly address the specific technical "must-haves" such as API, Cloud, or Microservices, and do not demonstrate experience within the targeted industry verticals like Banking, Telco, or Insurance.

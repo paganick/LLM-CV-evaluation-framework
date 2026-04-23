@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses experience in web development but lacks specific expertise in modern front-end frameworks like React, which is central to the job description. While the candidate demonstrates knowledge of JavaScript, HTML, and CSS, their experience leans heavily towards older technologies like ASP.Net and AngularJS. The cover letter acknowledges a need for growth in key areas, suggesting a significant learning curve.

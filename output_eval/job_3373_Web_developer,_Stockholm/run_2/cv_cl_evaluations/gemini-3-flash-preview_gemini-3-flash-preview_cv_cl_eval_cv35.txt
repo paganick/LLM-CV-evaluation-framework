@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation consultant with no professional experience in software engineering or the required technical stack of React, TypeScript, and Node.js. While they possess transferable experience in system integrations and logic, their background is rooted in platform configuration rather than production-grade frontend development and automated testing. The resume fails to demonstrate any professional tenure as a developer, making them unqualified for this specific engineering role.

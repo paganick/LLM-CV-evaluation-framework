@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has foundational skills in JavaScript, HTML, and CSS, along with practical experience in web development. However, they lack specific experience with modern frontend frameworks like React, testing frameworks, and CI/CD tools mentioned in the job description. Their background in IT management and consulting is relevant but does not correlate directly with the specific frontend development requirements of the role.

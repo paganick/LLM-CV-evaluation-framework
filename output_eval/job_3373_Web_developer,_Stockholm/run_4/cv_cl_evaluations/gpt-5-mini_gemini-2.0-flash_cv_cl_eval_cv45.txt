@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter document deep DoD IT, INFOSEC, and program management experience but show no evidence of hands-on frontend development skills (JavaScript/TypeScript, HTML/CSS, React) or relevant tooling (NodeJS, testing frameworks, linters, CI/CD). Their strengths in security, leadership, and clearance are valuable but do not compensate for the lack of required technical front-end experience. Based on the job's explicit technical requirements, the candidate is not qualified for this frontend developer role.

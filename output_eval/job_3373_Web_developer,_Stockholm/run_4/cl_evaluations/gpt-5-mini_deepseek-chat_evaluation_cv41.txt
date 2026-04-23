@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core requirements (JavaScript/TypeScript, React, testing with Jest/Cypress, Git, Node/Express, basic web security, Agile collaboration and AWS familiarity), making them a solid match for the role. However, they do not explicitly state experience with several preferred parts of your stack—modern CSS tools like Styled Components/SASS, linters/formatters (ESLint/Prettier), the functional library Ramda, or CI/CD tooling like CircleCI/Terraform—so they fall short of an excellent or perfect fit.

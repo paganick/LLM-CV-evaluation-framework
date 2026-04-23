@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java and database specialist, whereas the position explicitly requires hands-on proficiency in JavaScript, TypeScript, and React. They lack the mandatory experience in automated testing, modern CSS tools, and the NodeJS ecosystem, offering only an interest in learning these core requirements. While the candidate has a relevant technical background, they do not possess the specific technical stack or the practical frontend experience defined in the job description.

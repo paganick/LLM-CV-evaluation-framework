@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in test engineering and electronics but lacks any relevant skills or experience in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React. The job description emphasizes a strong background in web development and testing automation, which the candidate does not offer, indicating a complete mismatch for the position.

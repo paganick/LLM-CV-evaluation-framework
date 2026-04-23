@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in sales leadership, not hands-on frontend development, which is a significant mismatch for the core technical role. While they mention some relevant technologies (HTML, React, Agile), they lack demonstrated, in-depth experience with the key requirements like TypeScript, modern CSS tools, testing frameworks, and security protocols. The cover letter over-relies on transferable soft skills and unrelated certifications, failing to provide concrete evidence of professional frontend development capability.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering, not front-end development. While they express interest in front-end technologies and highlight transferable skills, the cover letter lacks evidence of hands-on experience with JavaScript, React, or other key technologies mentioned in the job description beyond tester software. The candidate is lacking the specific technical experience required, even though they highlight transferable skills.

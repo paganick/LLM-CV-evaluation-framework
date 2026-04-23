@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in data analysis and industrial engineering, not frontend software development. They lack the required hands-on experience with JavaScript, TypeScript, React, and modern frontend tooling specified in the job description. While they demonstrate analytical skills and a willingness to learn, their technical profile is a mismatch for the core requirements of the role.

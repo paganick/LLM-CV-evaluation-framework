@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in systems engineering and has developed skills in JavaScript, TypeScript, HTML, and CSS, specifically highlighting their proficiency with React, which is crucial for the role. They also mention hands-on experience with testing frameworks such as Jest and Cypress, and have a foundational knowledge of security principles. However, the resume lacks explicit mention of modern CSS tools, CI/CD tools, and some of the deeper front-end skills listed in the job description, preventing a higher score.

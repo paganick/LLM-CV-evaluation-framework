@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, and CSS, and expresses interest in React. However, the cover letter lacks specific examples of practical experience with modern FE frameworks, testing, and version control (Git), all of which are crucial requirements. Their background is a mix of unrelated experience and outdated technologies mentioned (Flash, Java Applets, ActionScript), overshadowing the relevant skills.

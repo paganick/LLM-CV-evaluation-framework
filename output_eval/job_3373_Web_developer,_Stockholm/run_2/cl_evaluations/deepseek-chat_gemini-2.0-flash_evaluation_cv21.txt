@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience but critically lacks the specific technologies required, most notably React. The cover letter mentions outdated frameworks like AngularJS and does not address key requirements such as modern testing frameworks, security knowledge, or the listed toolchain. While they have Agile experience, the mismatch on core technical skills is significant.

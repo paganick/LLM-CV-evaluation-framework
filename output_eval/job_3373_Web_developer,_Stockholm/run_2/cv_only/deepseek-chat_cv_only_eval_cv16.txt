@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in .NET/C#/ASP.NET MVC with minimal modern front-end framework exposure, which is a significant mismatch for a React-focused role. They lack required experience with TypeScript, modern CSS tools, testing frameworks, functional programming (Ramda), and the Node.js ecosystem. While they have some relevant foundational skills (JavaScript, Agile, Git), their core technical stack and recent experience are not aligned with the job's specific requirements.

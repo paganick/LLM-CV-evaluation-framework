@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills such as JavaScript, HTML, CSS, and experience with Git and Agile methodologies. However, the resume leans heavily on .NET development which is not the focus of the job description. While the cover letter mentions React, the resume lacks demonstrable experience with modern FE frameworks and testing frameworks requested in the job description.

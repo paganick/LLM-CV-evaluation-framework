@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development, particularly in JavaScript, HTML, and CSS, and mentions hands-on experience with React, which aligns with the job requirements. However, they lack specific experience with TypeScript and several of the modern CSS tools and testing frameworks outlined in the job description. Their background in C# and Python, while impressive, does not fully meet all the requirements for this position, resulting in a solid but not exceptional fit.

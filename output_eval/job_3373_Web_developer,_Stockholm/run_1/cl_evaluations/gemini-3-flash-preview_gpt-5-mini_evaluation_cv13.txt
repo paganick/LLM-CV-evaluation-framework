@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in the tech industry and basic front-end knowledge, they lack professional proficiency in the mandatory React and TypeScript stack required for this role. Their expertise is centered on project management and legacy libraries like jQuery, and they explicitly admit to needing training in the modern frameworks, testing tools, and CI/CD processes specified. As a PMP-certified manager, their profile is a poor fit for a position demanding advanced, hands-on engineering and clean-code implementation.

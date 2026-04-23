@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but is heavily focused on back-end Java/J2EE technologies. The cover letter demonstrates almost no alignment with the specific front-end, testing, and modern tooling requirements listed in the job description. While soft skills and general Agile experience are a match, the critical technical skill gap is too significant for a higher score.

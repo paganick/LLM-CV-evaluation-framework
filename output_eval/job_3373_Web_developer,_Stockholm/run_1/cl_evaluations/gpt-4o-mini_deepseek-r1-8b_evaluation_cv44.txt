@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant experience in design and user experience, but lacks specific expertise in several required technical skills such as JavaScript frameworks (like React), testing frameworks, CI/CD tools, and security knowledge outlined in the job description. The candidate's experience aligns with design and user-centric tasks rather than the technical requirements of the position.

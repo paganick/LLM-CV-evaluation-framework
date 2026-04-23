@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show extensive experience in marketing, communications, and legal administration but no demonstrated technical skills in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git, or Node.js required for this front-end engineering role. Statements about being a quick learner and interest in technology do not substitute for the hands-on experience and tooling knowledge the position demands. This profile is therefore completely unqualified for the technical requirements of the role.

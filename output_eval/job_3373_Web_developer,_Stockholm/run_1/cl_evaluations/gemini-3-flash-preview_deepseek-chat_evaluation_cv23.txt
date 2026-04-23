@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a hardware background and lacks professional experience with the required front-end stack, including React, TypeScript, and modern CSS. While they have a strong foundation in engineering and manual testing, they do not possess the necessary hands-on experience with software test automation frameworks, Git, or web security protocols specified in the job description. The profile indicates a significant skills gap that would require extensive training to reach the proficiency level of a professional developer.

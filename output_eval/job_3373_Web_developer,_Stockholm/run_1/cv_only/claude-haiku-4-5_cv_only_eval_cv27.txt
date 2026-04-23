@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in administrative, arts, dance instruction, and facilities management with no software development experience whatsoever. The resume mentions only basic HTML and web design skills from many years ago, with zero demonstrated experience in JavaScript, TypeScript, React, testing frameworks, Git, or any modern frontend development tools. This candidate is completely unqualified for a frontend engineer position and operates in an entirely different industry.

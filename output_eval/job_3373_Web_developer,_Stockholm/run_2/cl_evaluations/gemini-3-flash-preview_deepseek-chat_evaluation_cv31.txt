@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer from sales leadership who lacks professional experience in software engineering and has no track record of shipping production code. Although they mention the required technical keywords, there is no evidence of practical application in a professional Agile team or with complex system architectures like AWS. Consequently, the applicant does not meet the specific experience requirements necessary for this position.

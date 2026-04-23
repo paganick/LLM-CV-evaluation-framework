@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript and HTML, as well as familiarity with testing frameworks and Git, which aligns with some of the job requirements. However, they lack experience with modern front-end frameworks like React, other modern CSS tools, and specific testing frameworks mentioned in the job description. Their focus on testing rather than development further limits their fit for the role.

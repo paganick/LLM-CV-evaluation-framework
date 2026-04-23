@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is misaligned with the core technical requirements, focusing on C# and ASP.NET while the job demands proficiency in JavaScript/TypeScript and React. They mention general concepts like testing and GitHub but lack specific evidence of the required modern front-end frameworks, testing tools, and web security knowledge. While their soft skills and collaborative nature are a partial match, the critical technical skill gap is significant.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a systems engineer transitioning to front-end development and fails to demonstrate professional experience or proficiency in the core requirements of JavaScript, TypeScript, and React. While they possess strong security and automation credentials, the letter lacks any evidence of hands-on work with modern front-end frameworks or web styling tools. As a result, the applicant does not meet the primary technical criteria for a front-end engineering position.

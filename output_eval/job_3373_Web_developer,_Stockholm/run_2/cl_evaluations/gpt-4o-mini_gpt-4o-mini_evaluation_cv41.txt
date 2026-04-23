@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong qualifications in front-end development with relevant experience in JavaScript, HTML, CSS, and React. They possess testing skills using Jest and Cypress and have a solid grasp of Git for version control. However, the candidate lacks mention of specific modern CSS tools, knowledge of functional programming or CI/CD tools, which were highlighted in the job description, preventing a higher score.

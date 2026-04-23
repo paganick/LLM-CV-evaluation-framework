@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core frontend stack, specifically JavaScript, TypeScript, and React, which are essential for this role. While they possess a relevant technical background in data engineering, they fail to demonstrate hands-on proficiency in modern CSS, frontend testing frameworks, or web security. This application represents a career pivot that does not meet the specific technical requirements defined in the job description.

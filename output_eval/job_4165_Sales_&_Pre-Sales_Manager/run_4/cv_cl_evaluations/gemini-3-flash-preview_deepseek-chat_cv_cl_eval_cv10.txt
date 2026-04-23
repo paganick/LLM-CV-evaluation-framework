@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses over three years of enterprise sales experience and demonstrates strong GTM strategy skills, they fail to meet the mandatory requirement for sales experience in Application Services, Business Analytics, or Design Consulting. Their professional history is centered on Human Capital Management software and media, which lacks the specific technical depth in API, Cloud, or AI/ML frameworks required to lead architectural design reviews for digital loyalty platforms.

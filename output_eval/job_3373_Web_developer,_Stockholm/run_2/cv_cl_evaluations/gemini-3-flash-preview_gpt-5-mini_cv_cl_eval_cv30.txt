@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally a data analyst and quality technician with no professional experience in JavaScript, TypeScript, or React, which are the core requirements of the role. Their expertise lies in Python, SQL, and predictive modeling rather than modern web development or front-end architecture. Consequently, they lack the essential technical skills and relevant industry experience required for a Front-End Engineer position.

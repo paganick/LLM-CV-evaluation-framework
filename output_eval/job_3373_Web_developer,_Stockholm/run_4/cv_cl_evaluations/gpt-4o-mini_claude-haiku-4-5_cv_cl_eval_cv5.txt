@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in mainframe technologies but lacks specific experience in frontend development, particularly with frameworks like React, which is crucial for this position. While they mention exposure to HTML, CSS, and JavaScript, the depth of their competency in modern frontend tools and practices is insufficient. Additionally, their primary experience in testing and automation does not align well with the specific requirements of the role.

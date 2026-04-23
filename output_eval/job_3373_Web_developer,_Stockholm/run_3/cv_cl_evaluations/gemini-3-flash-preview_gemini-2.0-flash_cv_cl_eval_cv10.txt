@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the required modern front-end stack, specifically React and TypeScript, relying instead on legacy technologies like AngularJS and jQuery. Their professional background is primarily focused on Java backend development and performance testing, which does not align with the core front-end engineering requirements. Additionally, there is no evidence of experience with modern testing frameworks (Jest, Cypress), CI/CD tools, or the specific security protocols requested.

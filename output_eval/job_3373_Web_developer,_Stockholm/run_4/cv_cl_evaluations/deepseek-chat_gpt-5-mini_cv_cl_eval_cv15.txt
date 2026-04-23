@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant IT background and foundational web skills (HTML, CSS, JavaScript), but lacks the specific, modern front-end experience required. There is no demonstrated hands-on experience with React, TypeScript, modern testing frameworks, or the other key tools listed in the job description. While the candidate shows adaptability and systems thinking, the experience is dated and not aligned with the specific technical stack and practices of the role.

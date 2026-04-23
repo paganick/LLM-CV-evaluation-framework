@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong enterprise/mainframe backend experience and some exposure to JavaScript/HTML plus leadership and testing discipline, but lacks demonstrable hands-on experience with core requirements such as React, TypeScript, modern CSS tooling, Node/npm, frontend testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, CI/CD and web security practices. While motivated to transition to front-end work, their current technical profile does not meet the role's essential front-end skillset.

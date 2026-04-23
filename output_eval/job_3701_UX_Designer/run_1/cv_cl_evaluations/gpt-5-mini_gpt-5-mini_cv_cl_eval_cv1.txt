@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX/UI and research experience meeting the 2-3 year minimum and demonstrates competency in prototyping, usability testing and stakeholder facilitation. However they do not list Figma (a highly desirable tool), provide only HTML5 with no CSS/JS exposure, and give no clear evidence of working in an Agile software development environment or leading a UX team/roadmap in a product context. These gaps make them a partial fit rather than a strong match for the role.

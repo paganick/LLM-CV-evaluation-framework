@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET, which is not the focus of the job description. While they mention React and other modern tools in their cover letter, their resume lacks substantial evidence of hands-on experience with the specific technologies listed in the job description, such as TypeScript, modern CSS tools, and testing frameworks. Their expertise seems more aligned with backend .NET development rather than modern frontend development.

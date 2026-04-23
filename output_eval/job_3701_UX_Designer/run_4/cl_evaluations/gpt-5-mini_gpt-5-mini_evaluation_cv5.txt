@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant visual design, prototyping and stakeholder-collaboration experience, plus some mentoring, which aligns with parts of the role. However they do not state any commercial UX-specific tenure (2-3 years), make no mention of working in an Agile environment, and do not cite Figma or clear CSS/JS exposure or experience managing a UI Design System. These gaps make them a partial but not fully qualified match for the listed UX Designer requirements.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience in relevant technologies such as JavaScript, React, and CSS, aligning well with the job requirements. Their expertise in testing and automation further meets the criteria, although there is limited explicit mention of modern testing frameworks like Jest or Cypress. Overall, the candidate shows a good fit for the position and possesses the ability to collaborate effectively in an Agile environment.

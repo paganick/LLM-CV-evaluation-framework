@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. Their work history is significantly outdated, focusing on IT support and legacy web technologies from over a decade ago, which does not meet the requirements for a modern software engineering environment. Furthermore, there is no evidence of experience with CI/CD tools, cloud infrastructure, or advanced CSS methodologies required for the role.

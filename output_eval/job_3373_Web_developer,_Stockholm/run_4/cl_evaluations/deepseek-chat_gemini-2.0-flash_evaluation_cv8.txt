@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics manufacturing and test engineering, not front-end development. While they demonstrate relevant soft skills and mention some tangential knowledge (e.g., Python scripting, OWASP), they provide no direct evidence of proficiency in the core required technologies: JavaScript/TypeScript, React, HTML, CSS, or modern front-end tooling. The letter is a proposal for a career transition, not a demonstration of existing qualifications for the role.

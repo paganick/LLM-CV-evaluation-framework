@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has deep product management and online video domain experience but the resume shows no verifiable hands‑on frontend engineering work, code samples, or technical project details. Required skills like practical React/TypeScript development, testing automation, NodeJS ecosystem usage, and familiarity with tools like Ramda, CI/CD, and Terraform are not demonstrated. This is a relevant industry hire but lacks the specific technical experience to be considered a strong match for this frontend engineering role.

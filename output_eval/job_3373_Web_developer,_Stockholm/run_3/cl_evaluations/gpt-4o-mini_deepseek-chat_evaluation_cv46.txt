@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in core web technologies and familiarity with the Front End development stack, particularly with JavaScript, HTML, CSS, and some knowledge of React. However, they lack hands-on experience with some specific testing frameworks mentioned in the job description, such as Jest and Cypress, and there is no mention of familiarity with SASS or the NodeJS ecosystem, which slightly detracts from their overall fit.

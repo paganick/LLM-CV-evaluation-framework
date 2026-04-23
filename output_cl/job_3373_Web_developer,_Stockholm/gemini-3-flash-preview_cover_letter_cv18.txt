@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to apply for the Frontend Developer position. With over 18 years of experience as an Information Technology Consultant, I bring a robust blend of technical expertise and project leadership. My extensive background in developing business-critical information systems across diverse industries like banking and healthcare aligns perfectly with your team’s focus on building scalable applications using React and the modern JavaScript ecosystem.
+
+Throughout my career, I have mastered core web technologies including JavaScript, HTML5, and CSS. While my technical experience is broad, covering languages from PHP to C++, my primary focus remains on delivering high-quality, modern web solutions. I am particularly drawn to your use of React and functional programming with Ramda, as I am a firm believer in writing clean, truly maintainable code. My experience with server-side software like Apache, combined with a solid foundation in information security and performance tuning, ensures that I approach frontend development with a holistic understanding of the full domain, including APIs and underlying infrastructure.
+
+I thrive in collaborative, Agile environments. Having served as a senior consultant for over a decade, I am highly comfortable interacting with diverse teams and external partners to translate complex business requirements into technical specifications. My background in project management and requirements analysis—often completing evaluations ahead of schedule—allows me to integrate seamlessly into your development workflow. I understand the critical role of Git for version control and am well-versed in the necessity of hands-on testing, from unit tests to E2E, to ensure software quality and reliability. I am also comfortable utilizing modern testing frameworks and implementing CI/CD pipelines to streamline the development lifecycle.
+
+I am a lifelong learner who consistently keeps pace with shifting market trends, from early system administration to modern cloud-based migrations. I am eager to apply my knowledge of the Node.js ecosystem and CSS tools like SASS to your current stack. Furthermore, I am particularly interested in supporting your evolution toward AWS and Terraform. My history of managing complex deployments makes me a strong candidate to contribute to your team’s success.
+
+Thank you for your time and consideration. I look forward to the possibility of discussing how my diverse technical background and passion for clean code can benefit your organization.
+
+Sincerely, Alexis.

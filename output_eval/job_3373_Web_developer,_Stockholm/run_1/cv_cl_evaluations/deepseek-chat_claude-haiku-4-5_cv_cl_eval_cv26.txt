@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, and legal administration, with zero demonstrated professional experience in software development. The resume contains no mention of JavaScript, TypeScript, React, testing frameworks, Git, or any other technical requirements from the job description. While the cover letter expresses interest and transferable soft skills, it confirms the lack of hands-on technical experience, making the candidate completely unqualified for this specific frontend developer role.

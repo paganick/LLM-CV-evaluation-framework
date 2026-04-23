@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design and HTML/CSS experience which is somewhat relevant, but their resume and cover letter show no demonstrated JavaScript/TypeScript or React experience and lack any evidence of testing, Git/repo workflows, Node/npm, modern CSS tooling, or CI/CD knowledge required for this role. While they show transferable collaboration and design strengths, they do not meet the core technical requirements to be considered a qualified front-end developer for this position.

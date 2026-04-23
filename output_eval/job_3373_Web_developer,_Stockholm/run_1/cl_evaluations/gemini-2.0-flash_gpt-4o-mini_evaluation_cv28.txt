@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis, not front-end development. While they express interest and some familiarity with relevant technologies like React and CI/CD, they lack the hands-on experience in JavaScript, TypeScript, and testing frameworks that the job description requires. The letter emphasizes transferable skills rather than direct experience.

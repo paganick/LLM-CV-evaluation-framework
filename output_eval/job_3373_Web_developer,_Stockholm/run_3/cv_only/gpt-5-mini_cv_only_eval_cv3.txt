@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational HTML, CSS, and JavaScript knowledge and a relevant degree, but their experience is largely academic and centered on legacy technologies (Flash/ActionScript, ASP.NET, PHP) rather than modern front-end stacks. They lack demonstrated experience with React/TypeScript, testing automation, Git/GitHub workflows, Node/npm, modern CSS tooling, CI/CD, and basic cloud/infra knowledge required by the role. Given the gap between their skills and the job's specific requirements, they are not yet a strong match for this position.

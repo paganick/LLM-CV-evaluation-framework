@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE back-end development with only dated front-end exposure (AngularJS). They lack proven, professional experience with the core required technologies (React, TypeScript, modern testing frameworks) and the listed "nice-to-have" skills. While they demonstrate relevant foundational knowledge and an eagerness to learn, their hands-on technical fit for this specific front-end role is weak.

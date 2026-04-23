@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses some fundamental web development knowledge (HTML, CSS, JavaScript), but lacks experience with modern FE frameworks like React, testing, Git, and security best practices as requested in the job description. Their experience with older technologies and lack of professional experience in the field make them a junior candidate. The candidate also lacks skills and experience regarding back-end tools, CI/CD tools, and cloud platforms.

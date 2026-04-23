@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, not software engineering. While the cover letter attempts to align with the job description, the resume shows zero hands-on experience with the required technologies (JavaScript, React, testing, Git, etc.). This is a fundamental mismatch for a frontend developer role.

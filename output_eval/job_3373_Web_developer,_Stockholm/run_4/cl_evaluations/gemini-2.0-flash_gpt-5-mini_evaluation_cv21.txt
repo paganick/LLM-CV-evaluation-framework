@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience, particularly with front-end technologies like JavaScript, HTML, and CSS, along with testing practices and Agile methodologies. They mention some familiarity with modern tooling and a strong desire to learn more. However, specific experience with React, the primary framework used by the company, is not explicitly highlighted, and depth in some of the other listed technologies could be stronger.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with front-end technologies like HTML, CSS, and JavaScript, and mentions AngularJS. However, the job description emphasizes React, and the candidate's experience is heavily Java-focused, not aligning well with the required modern front-end framework expertise. While the candidate expresses willingness to learn, the resume lacks explicit evidence of the necessary skills, and the experience appears dated.

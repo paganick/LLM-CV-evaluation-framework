@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows over a decade of experience exclusively in customer service, sales, and management, with no mention of software development, frontend technologies, or any technical skills required for the role. While the cover letter expresses enthusiasm and a desire to pivot, it does not demonstrate any hands-on experience with JavaScript, React, testing, version control, or the other specific technologies listed in the job description. This is a complete career shift, and the candidate lacks the fundamental technical qualifications.

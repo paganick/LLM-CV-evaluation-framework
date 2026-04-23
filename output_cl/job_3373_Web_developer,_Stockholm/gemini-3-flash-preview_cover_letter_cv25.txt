@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+With a robust background in visual communication and a transition into sophisticated web development, I am excited to apply for the Frontend Developer position. My career as a Graphic Designer and Art Director has been defined by a meticulous attention to detail and a passion for creating intuitive user experiences. I am now leveraging this design expertise to build high-performance applications using JavaScript, TypeScript, and React.
+
+Throughout my professional journey, I have mastered HTML and CSS, forming a strong foundation for modern frontend architecture. My experience with Dreamweaver and digital asset optimization evolved into a deep interest in the React ecosystem. I am proficient in utilizing Styled Components and SASS to translate complex design mockups into responsive, pixel-perfect interfaces. I share your team’s commitment to writing truly clean code, drawing parallels between organized design systems and maintainable codebase structures using linters like ESLint and Prettier. I am consistently keeping up to date with the latest technologies to ensure my work remains cutting-edge.
+
+I am comfortable working in Agile environments, where collaboration is paramount. My history of surmounting heavy workloads and effectively coordinating multiple projects aligns with your need for a focused, organized team member. I have hands-on experience with Git and GitHub for version control and understand the importance of testing through unit and integration tests using tools like Jest and Cypress. My background as an Art Director has equipped me with the ability to interact effectively with external partners and cross-functional teams, ensuring technical solutions meet broader business goals.
+
+Furthermore, I possess basic knowledge of web security and cloud infrastructure, including AWS. I am a quick learner eager to expand my expertise in NodeJS, functional programming with Ramda, and CI/CD pipelines. My educational background in Journalism and Marketing from Texas A&M University provides me with a unique perspective on how to simplify complex messages for users. I am motivated by the opportunity to contribute to your evolving tech stack and help maintain your high standards for digital excellence. I look forward to discussing how my blend of design leadership and modern frontend skills can add value to your development team.
+
+Thank you for your valuable time and your kind consideration.
+
+Sincerely,
+Alexis

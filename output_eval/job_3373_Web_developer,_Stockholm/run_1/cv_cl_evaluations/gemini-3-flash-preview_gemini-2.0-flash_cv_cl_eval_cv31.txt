@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a technical engineering role, as their professional experience is exclusively in sales and service management. They lack the mandatory technical stack, including JavaScript, TypeScript, and React, and have no demonstrated experience with testing frameworks, Git, or modern web development practices. Despite an expressed interest in learning, their background does not meet any of the core requirements for this position.

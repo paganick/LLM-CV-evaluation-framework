@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows extensive systems administration and IT support experience, which is a different domain from modern front-end development. While the cover letter claims proficiency in React, Jest, Cypress, and other required tools, the resume provides no evidence of professional front-end development, modern JavaScript frameworks, or test automation work. The claims in the cover letter are unsubstantiated by the professional history, indicating a significant mismatch with the job's core technical requirements.

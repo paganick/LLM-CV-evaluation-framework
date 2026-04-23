@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong IT infrastructure background, they lack the primary technical requirements for this engineering role, specifically professional experience with JavaScript, TypeScript, and React. The applicant self-identifies as a career-changer who needs to learn the core frameworks and testing tools mentioned in the job description. Despite relevant experience in Agile and security, they do not possess the requisite hands-on software development or front-end engineering expertise.

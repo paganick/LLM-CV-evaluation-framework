@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including JavaScript, React, modern CSS tools, security concepts, and Agile collaboration. However, the cover letter heavily emphasizes broad IT management and backend experience, which dilutes the focus on dedicated frontend development. While they mention the desired tools and express eagerness to learn, direct, hands-on experience with key requirements like TypeScript, modern testing frameworks (Jest, Cypress), and CI/CD is not explicitly proven.

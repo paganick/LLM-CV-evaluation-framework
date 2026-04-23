@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end fundamentals (JavaScript, HTML, CSS, Bootstrap), Git experience and Agile exposure, but lacks hands-on experience with the core requirements: React and modern JS frameworks, TypeScript, modern testing frameworks (Jest/Cypress), Node/npm ecosystem, and modern CSS tooling. They show a willingness to learn and some security/authentication exposure, but the missing practical experience in the specific technologies listed makes them an average fit rather than a strong match.

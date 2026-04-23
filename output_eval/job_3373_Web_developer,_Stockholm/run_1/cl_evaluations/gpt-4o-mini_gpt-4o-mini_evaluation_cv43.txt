@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in program management and curriculum design but lacks direct experience in JavaScript and modern front-end frameworks like React, which are essential for the role. While they show a willingness to learn and some familiarity with web security principles, they fall short on key technical requirements such as hands-on experience with testing frameworks and CI/CD tools. Overall, they are a candidate from the right industry but lack specific skills required for the position.

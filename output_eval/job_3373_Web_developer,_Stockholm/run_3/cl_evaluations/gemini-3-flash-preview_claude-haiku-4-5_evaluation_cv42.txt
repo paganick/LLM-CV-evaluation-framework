@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional hands-on experience in software engineering, failing to meet the core requirement for demonstrated expertise in testing, web security, and API design. While they possess strong transferable soft skills and have begun self-study in the React ecosystem, their technical profile is currently at an entry-level stage that does not align with the professional-level requirements of this role. Critical competencies such as CI/CD, AWS, and functional programming are completely unaddressed.

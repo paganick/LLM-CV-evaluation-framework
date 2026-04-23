@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is focused entirely on data analysis, statistical tools and backend databases with no evidence of JavaScript, TypeScript, HTML/CSS, React (or other modern front-end frameworks), front-end testing, Git/CI workflows, Node/npm or web security experience. Key required technologies and competencies from the job description are absent, indicating a different discipline. This profile is therefore completely unqualified for the front-end role.

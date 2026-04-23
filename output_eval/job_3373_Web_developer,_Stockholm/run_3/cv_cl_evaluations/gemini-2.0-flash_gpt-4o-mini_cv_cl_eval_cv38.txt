@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media production, lacking the required front-end development experience with JavaScript, TypeScript, HTML, and CSS. While they express interest in web technologies and mention Git and GitHub, the resume doesn't showcase hands-on experience in the specific technologies mentioned in the job description. The cover letter attempts to bridge the gap, but the lack of concrete coding experience is a significant concern.

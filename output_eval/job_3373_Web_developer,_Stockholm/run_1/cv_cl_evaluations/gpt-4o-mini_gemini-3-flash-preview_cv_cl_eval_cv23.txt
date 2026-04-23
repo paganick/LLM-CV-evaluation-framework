@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in engineering and some experience with software development, which is relevant to the role. However, they lack specific hands-on experience with React and do not mention familiarity with modern frontend frameworks or testing frameworks like Jest or Cypress, which are crucial for the position. Their knowledge appears to be more focused on hardware and testing rather than the required frontend development skills.

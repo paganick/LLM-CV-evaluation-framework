@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in computer science and experience in object-oriented design and database administration, which is relevant to the role. However, there is a lack of hands-on experience with modern front-end frameworks like React, and insufficient emphasis on testing automation and web security knowledge, which are critical for the position.

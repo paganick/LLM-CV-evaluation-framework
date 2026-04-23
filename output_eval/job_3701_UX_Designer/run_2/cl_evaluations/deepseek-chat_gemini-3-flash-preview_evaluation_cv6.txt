@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in Agile environments, user research, workshops, and mentoring, which aligns well with the job description. However, they lack explicit mention of the required prototyping tool (Figma) and the specified technical exposure (HTML/CSS/JS) for managing the UI Design System. Their background is strong but does not perfectly match all the listed desirable technical skills.

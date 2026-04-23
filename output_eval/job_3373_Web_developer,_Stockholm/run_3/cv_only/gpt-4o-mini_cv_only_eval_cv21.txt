@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in web development, particularly with HTML, CSS, and JavaScript, but lacks direct experience with modern frameworks like React and test automation tools specified in the job description. While they have relevant industry experience, they do not exhibit hands-on knowledge of TypeScript, modern CSS tools, or CI/CD practices mentioned, which significantly limits their fit for the role.

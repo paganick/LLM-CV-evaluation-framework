@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems administration and IT support, not software engineering. While the cover letter attempts to bridge the gap, the resume lacks demonstrable experience with the core technologies listed in the job description (JavaScript, React, modern FE frameworks). The candidate expresses interest in learning, but lacks hands-on experience.

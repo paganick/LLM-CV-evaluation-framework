@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Java/J2EE, not the required JavaScript, TypeScript, or React. While they claim to be actively developing proficiency in React, their resume lacks demonstrable experience in modern FE frameworks. Their experience with testing is limited to tools like PMD and Findbugs, rather than the testing frameworks mentioned in the job description.

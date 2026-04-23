@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in software development, particularly in Java/J2EE technologies, and expresses a strong interest in frontend development. However, they lack hands-on experience with key technologies specified in the job description, such as JavaScript, TypeScript, and modern frameworks like React. Additionally, their familiarity with frontend testing frameworks and modern CSS tools is still developing, which may limit their immediate contribution to the role.

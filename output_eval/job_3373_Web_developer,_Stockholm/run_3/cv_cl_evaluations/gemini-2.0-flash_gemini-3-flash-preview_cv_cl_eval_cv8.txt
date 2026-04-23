@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in test engineering, but the focus is heavily on hardware and physical testing rather than software. While they express interest in learning JavaScript and related technologies, their documented experience is limited. The resume lacks concrete examples of modern frontend development or software testing.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is an experienced graphic designer with basic HTML/CSS experience but lacks the core frontend development skills required (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, CI/CD, and cloud/infra familiarity). The resume shows no professional experience building modern web applications or using the specified tools and frameworks, and the cover letter’s willingness to learn does not demonstrate current proficiency. Significant upskilling would be required before being productive in this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to mention any of the required technical skills, including JavaScript, React, TypeScript, or CSS, focusing instead on media production and graphic design. There is no evidence of experience with software testing, version control, or modern web security, which are core requirements for this engineering role. The applicant’s background is in a different industry and lacks the fundamental programming competencies necessary for a Front-End Developer position.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Business Development Leader position at your esteemed organization. As a seasoned business development expert with over 7 years of experience in sales, marketing, and business development, I am confident that my skills and expertise will be a valuable asset to your team.
+
+With a proven track record of driving business growth through strategic partnerships, innovative sales strategies, and effective leadership, I have consistently delivered exceptional results. As a Business Development Leader at [Previous Company], I propelled a small chemical trading firm into a flourishing manufacturer, national distributor, and global manufacturer's sole-trading partner. I successfully spearheaded company-wide marketing campaigns that boosted sales by more than 67% in just one year.
+
+In addition to my business acumen and leadership skills, I possess strong technical skills, including proficiency in HTML, C++, and MS Office Suite. As a programmer with experience in Dreamweaver and Adobe Photoshop, I have a solid foundation in coding languages and design software. My research background in organic chemistry has also honed my analytical and problem-solving skills.
+
+I am particularly drawn to this role because of the opportunity to leverage my business development expertise in a collaborative environment. I thrive in Agile settings and am comfortable working with cross-functional teams, including technical, legal, finance, sales, and marketing departments. My ability to communicate effectively and negotiate contracts will be an asset in maintaining strategic partnerships.
+
+While I have experience with programming languages such as C++ and HTML, I must admit that I do not possess direct experience with modern front-end frameworks like React or testing frameworks like Jest. However, I am a quick learner and enjoy staying up-to-date with the latest technologies. My experience with CI/CD tools like CircleCI and API design will serve me well in this role.
+
+I would welcome the opportunity to discuss how my skills and expertise align with your organization's goals. Thank you for considering my application. I look forward to the opportunity to contribute to your team's success.
+
+Sincerely,
+Alexis

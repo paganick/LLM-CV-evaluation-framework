@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant cloud software domain and product/cross-functional experience but shows no demonstrable hands‑on front-end engineering skills (JavaScript/TypeScript, React, HTML/CSS), testing, Git, NodeJS or CI/CD experience required for the role. Their cover letter expresses intent to learn these technologies, but intent without proven technical work means they currently lack the specific qualifications for this engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software testing and electronics but lacks the specific skills and knowledge required for the web development role, such as expertise in JavaScript frameworks (particularly React), modern CSS tools, and web security protocols. Their technical background indicates adaptability, but their primary focus has been on hardware and testing rather than front-end development, making them a less suitable match for this position.

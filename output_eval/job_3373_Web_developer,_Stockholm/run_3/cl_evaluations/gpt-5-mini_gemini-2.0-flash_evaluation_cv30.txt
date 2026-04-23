@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in a relevant tech/data field and has basic web exposure (HTML) and strong analytical skills, but lacks core front-end competencies required for this role—no JavaScript/TypeScript, no React experience, no CSS/modern styling, and no testing/CI/Node ecosystem experience are demonstrated. Their eagerness to learn and background in programming and data are positives, but they would require significant upskilling before being productive on the team. This is a relevant but insufficient match for the advertised position.

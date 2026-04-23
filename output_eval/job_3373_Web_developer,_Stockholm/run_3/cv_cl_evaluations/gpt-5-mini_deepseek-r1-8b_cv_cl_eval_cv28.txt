@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is in materials analysis and quality assurance with no demonstrable hands-on experience in the required frontend technologies (JavaScript/TypeScript, HTML/CSS, React) or related tooling (modern frameworks, Jest/Cypress, Node/npm, CI/CD). While they show strong analytical, communication, and data-visualization skills (Tableau, Brio) and state a willingness to learn, those transferable skills do not meet the core technical qualifications needed for this role. The profile is therefore largely misaligned with the job requirements.

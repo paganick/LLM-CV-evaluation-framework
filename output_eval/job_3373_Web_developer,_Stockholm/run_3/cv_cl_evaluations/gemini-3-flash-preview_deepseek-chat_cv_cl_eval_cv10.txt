@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct professional experience with the core requirements of the role, specifically React and TypeScript. Their front-end expertise is limited to legacy technologies like AngularJS and jQuery, and they provide no evidence of proficiency in modern testing frameworks (Jest, Cypress) or functional programming. While they have a relevant academic background and general web development experience, they do not possess the modern JavaScript ecosystem skills essential for this position.

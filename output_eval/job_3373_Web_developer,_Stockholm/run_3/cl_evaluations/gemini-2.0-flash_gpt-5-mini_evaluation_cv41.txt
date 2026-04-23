@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in systems engineering and security, not front-end development. While the letter mentions supporting web applications, it lacks explicit examples of hands-on experience with JavaScript, modern front-end frameworks (like React, the one they use), or testing frameworks mentioned in the job description. The letter focuses heavily on security and systems reliability, which are beneficial but not the core skills needed for a front-end role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a civil engineer and construction manager with no software development experience, no programming language proficiency, and no background in web technologies or frameworks. While the cover letter acknowledges this gap and claims willingness to learn, the position requires hands-on expertise in JavaScript, TypeScript, React, testing frameworks, and modern development tools that cannot be acquired through self-study alone. This is a completely wrong industry match for a senior frontend engineering role.

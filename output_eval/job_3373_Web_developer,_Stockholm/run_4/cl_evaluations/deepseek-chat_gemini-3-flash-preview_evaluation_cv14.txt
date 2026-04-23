@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in web development, Agile, and core technologies, and demonstrates an understanding of key requirements like security, clean code, and the React/Ramda stack. However, the cover letter lacks explicit, direct mention of several critical skills from the job description, including TypeScript, modern testing frameworks (Jest, Cypress), specific CSS tools (Styled Components), and CI/CD tools (CircleCI). The experience is presented as adjacent or aspirational rather than proven in the exact stack.

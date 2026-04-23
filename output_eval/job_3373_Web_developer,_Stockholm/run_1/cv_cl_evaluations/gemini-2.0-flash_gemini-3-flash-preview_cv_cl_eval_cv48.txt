@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in IT support and systems administration, which is relevant to the broader tech industry, but the resume lacks concrete evidence of modern frontend development skills. While the cover letter mentions JavaScript, TypeScript, and React, the resume focuses on hardware and server maintenance. There's a disconnect between the stated interest in frontend technologies and the documented experience.

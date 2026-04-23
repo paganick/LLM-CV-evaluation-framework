@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in .NET and SQL, which are not mentioned in the job description. They lack direct experience with the required modern front-end frameworks (React, Vue, Angular), TypeScript, and the specific toolchain (Jest, Cypress, Node.js, etc.). While they demonstrate relevant soft skills and general development principles, the specific technical mismatch is significant for a software developer role.

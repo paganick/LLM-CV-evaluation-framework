@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in the banking and mainframe domains but lacks direct experience with modern frontend technologies such as React, TypeScript, and testing frameworks specified in the job description. While they possess some relevant skills in HTML and JavaScript, their overall frontend experience does not align closely with the requirements of the position, resulting in a lower score.

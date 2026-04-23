@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified for this position as they lack professional experience or documented proficiency in the core required stack, including JavaScript, TypeScript, and React. Their background is centered on data analytics, SQL, and C#, which does not align with the modern frontend and testing requirements specified in the job description. Furthermore, there is no evidence of experience with essential tools like Git, CI/CD pipelines, or modern CSS frameworks.

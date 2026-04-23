@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is predominantly in administrative and creative roles, with no evident experience in JavaScript, TypeScript, or any modern front-end frameworks like React. They lack relevant technical skills, hands-on experience with testing and automation, and familiarity with CI/CD tools, making them unqualified for this software development position.

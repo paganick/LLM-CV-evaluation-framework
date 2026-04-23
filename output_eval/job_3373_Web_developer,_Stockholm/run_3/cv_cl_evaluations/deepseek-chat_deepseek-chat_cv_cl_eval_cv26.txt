@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in marketing, communications, and law, with no verifiable professional experience in software development. While the cover letter claims self-taught proficiency in the required technologies (React, TypeScript, testing), the resume provides zero evidence to substantiate these technical skills or any related projects, making the claims unverifiable. The core experience is a complete mismatch for a front-end developer role, lacking the proven, hands-on track record demanded by the job description.

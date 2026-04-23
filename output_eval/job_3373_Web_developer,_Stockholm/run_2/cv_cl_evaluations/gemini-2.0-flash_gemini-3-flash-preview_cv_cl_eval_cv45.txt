@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in IT management and security, not frontend development. While they express interest in React, HTML, CSS, and TypeScript, their resume lacks demonstrable experience with these technologies. The candidate mentions familiarity with CI/CD, testing, and AWS but does not provide specific examples of hands-on experience.

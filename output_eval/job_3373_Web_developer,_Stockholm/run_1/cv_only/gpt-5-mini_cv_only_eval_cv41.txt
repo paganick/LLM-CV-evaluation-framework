@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates systems administration and infrastructure experience but lacks any demonstrable front-end development skills listed in the job description (no JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm, or related tooling). While the candidate has relevant security clearance and strong operational/sysadmin background, those do not compensate for the absence of required FE development experience and toolchain knowledge. This profile is therefore in the wrong specialty for the role.

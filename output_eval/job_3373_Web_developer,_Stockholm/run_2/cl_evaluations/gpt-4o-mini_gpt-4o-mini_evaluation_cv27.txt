@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web design and is familiar with React, which meets one of the core requirements. However, there is a lack of specific experience mentioned with other technologies such as TypeScript, modern CSS tools, and knowledge of web security, which diminishes their alignment with the job description. While there is potential, the absence of direct experience in testing frameworks and CI/CD tools also impacts their score.

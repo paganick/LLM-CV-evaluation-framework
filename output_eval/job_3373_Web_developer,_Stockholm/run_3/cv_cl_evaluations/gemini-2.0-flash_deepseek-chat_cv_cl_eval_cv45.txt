@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and security, but lacks demonstrable professional experience with the specific front-end technologies listed in the job description (JavaScript, React, TypeScript, HTML, CSS). While the cover letter mentions actively refining these skills, the resume focuses on high-level management and security roles, not hands-on development. There is a significant gap between the required technical skills and the candidate's documented experience.

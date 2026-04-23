@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional experience is entirely in media planning and advertising rather than software engineering. They lack the mandatory proficiency in JavaScript, TypeScript, and React, and have no demonstrated experience with testing frameworks, CI/CD, or modern frontend tooling. While they possess basic HTML/CSS and Java knowledge from academic projects, they do not meet the core technical requirements for this specific role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the technology industry, their background is strictly in product management and business development rather than software engineering. The cover letter fails to mention any hands-on proficiency with the required technical stack, including JavaScript, TypeScript, or React, which are essential for this role. Consequently, despite their senior leadership experience, the candidate lacks the specific coding and development skills mandated by the job description.

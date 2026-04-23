@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates general web development, JavaScript/HTML, testing-plan and strong backend/database experience, but their resume shows no practical, recent experience with React, TypeScript, modern CSS tools, frontend testing frameworks (Jest/Cypress/TestCafe), Node/npm or CI/CD/AWS which are core to the role. While they express willingness to learn, the lack of demonstrated hands-on experience with the specific React-focused stack and automation tools makes them an underqualified match for this position.

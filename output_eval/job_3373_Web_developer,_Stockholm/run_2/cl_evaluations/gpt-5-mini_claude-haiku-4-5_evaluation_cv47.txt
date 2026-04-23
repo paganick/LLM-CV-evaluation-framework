@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable skills (HTML basics, C/C++, teaching, and cross-functional collaboration) but lacks hands-on experience with the core requirements: JavaScript/TypeScript, React, modern CSS tooling (Styled Components/SASS), testing frameworks (Jest/Cypress), Git, Node/npm, and CI/CD. Stated willingness to learn and some theoretical familiarity with security are positives, but without concrete frontend projects or demonstrable practical experience in the required stack, they are not yet qualified for this role.

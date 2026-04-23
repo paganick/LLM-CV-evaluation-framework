@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, quality engineering, and project management, with limited explicit front-end development experience. While the cover letter expresses a willingness to learn, the resume lacks concrete evidence of skills in JavaScript, React, or modern front-end technologies. The candidate's computer science degree is a plus, but the absence of practical experience with the technologies mentioned in the job description is a significant drawback.

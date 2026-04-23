@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX experience including Agile delivery, user research, workshops, prototyping (Axure, Sketch, Adobe XD), style guides and mentoring, and has HTML/CSS skills — meeting most core requirements. However, they lack explicit Figma experience and any mention of JavaScript, and the resume's most recent listed role ends in 2016, raising concerns about currency with modern tooling and recent commercial experience. These gaps prevent a higher score despite an otherwise solid match.

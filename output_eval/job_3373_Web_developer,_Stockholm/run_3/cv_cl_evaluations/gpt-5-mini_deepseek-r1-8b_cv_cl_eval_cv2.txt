@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong backend Java/J2EE experience, Agile exposure, and familiarity with Git, but the resume shows only legacy front-end experience (jQuery/Bootstrap) and unit testing—no concrete experience with React, TypeScript, modern CSS tooling, Node/npm, front-end testing/automation, CI/CD, or AWS/Terraform. The cover letter claims adaptability, but there is insufficient evidence of the specific front-end, testing, and cloud skills required for this role. Significant upskilling would be needed before being a viable match.

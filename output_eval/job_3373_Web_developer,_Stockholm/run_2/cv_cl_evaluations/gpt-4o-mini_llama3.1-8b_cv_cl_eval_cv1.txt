@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in frontend technologies such as JavaScript, HTML, and CSS, with experience in frameworks like React and AngularJS, aligning well with the job description. Their focus on test automation and experience with tools like Selenium and Cucumber showcases relevant expertise in testing. However, while they possess a solid understanding of Agile and collaboration, their experience with modern CSS tools and CI/CD practices appears limited, preventing a perfect score.

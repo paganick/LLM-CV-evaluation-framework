@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering, not front-end development. While they express interest in learning front-end technologies, the cover letter lacks specific evidence of hands-on experience with the required JavaScript, TypeScript, or React. Their skills are more aligned with testing complex electronic systems than front-end web applications.

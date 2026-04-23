@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in digital marketing and Salesforce, which is not a direct match for a JavaScript/TypeScript/React developer role. While the candidate mentions HTML, CSS, and SQL, and some scripting experience, they lack concrete experience with the specific frameworks and testing methodologies mentioned in the job description. The cover letter focuses more on project management and general technical skills than on demonstrable coding experience in the required technologies.

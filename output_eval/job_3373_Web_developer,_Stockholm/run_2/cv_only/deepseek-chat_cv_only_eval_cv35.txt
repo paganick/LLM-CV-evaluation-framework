@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in marketing automation (Eloqua, Salesforce) and digital marketing, with no mention of the required front-end technologies like JavaScript, TypeScript, React, or modern CSS tools. The resume lacks any evidence of software development, testing frameworks, version control, or the other technical and collaborative skills specified in the job description. This is a severe mismatch for a front-end engineering role.

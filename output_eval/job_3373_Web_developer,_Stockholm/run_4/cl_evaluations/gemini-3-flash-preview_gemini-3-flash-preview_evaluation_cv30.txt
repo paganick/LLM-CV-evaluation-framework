@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional software engineering experience in the required React and TypeScript stack, instead offering a background in quality assurance and data analytics. Their self-described "technical repertoire" focuses on legacy .NET and Python, while their familiarity with the primary tools listed in the job description appears theoretical or academic rather than applied. This profile represents a career transitioner who does not currently possess the specific technical experience necessary to contribute to an Agile development team.

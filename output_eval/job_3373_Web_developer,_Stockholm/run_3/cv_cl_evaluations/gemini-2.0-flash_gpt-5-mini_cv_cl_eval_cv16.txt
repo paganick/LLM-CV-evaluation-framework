@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, and CSS, but their experience is heavily focused on .NET and backend technologies rather than modern front-end frameworks. While they express interest in learning React and TypeScript, they lack direct experience with these technologies, testing frameworks, and modern CSS tools mentioned in the job description. Their work history demonstrates more database and server-side responsibilities than front-end development.

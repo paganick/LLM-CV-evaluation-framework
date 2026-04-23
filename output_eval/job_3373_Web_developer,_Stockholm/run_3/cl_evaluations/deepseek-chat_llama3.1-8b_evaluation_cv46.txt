@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable expertise in the core front-end technologies and frameworks listed in the job description. While they mention React and some tools, the letter is heavily weighted toward back-end and database administration, failing to provide concrete examples of modern front-end development. The experience cited does not convincingly align with the required depth in React, functional programming, modern CSS, or key security concepts.

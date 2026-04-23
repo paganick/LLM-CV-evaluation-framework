@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including JavaScript, TypeScript, React, and modern CSS, and provides excellent evidence of collaboration, Agile experience, and a quality-focused mindset. The score is not higher because the cover letter does not explicitly address several key requirements from the job description, such as security fundamentals (OWASP, CORS), specific modern CSS tools (Styled Components, SASS), or familiarity with the Node.js ecosystem and CI/CD tools.

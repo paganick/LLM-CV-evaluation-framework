@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software development, and they lack the required professional experience with JavaScript, TypeScript, React, testing frameworks, and modern frontend tooling. While they have basic HTML/CSS knowledge from coursework and mention a willingness to learn, they do not meet any of the core technical requirements listed in the job description. This is a misalignment of industry and skill set.

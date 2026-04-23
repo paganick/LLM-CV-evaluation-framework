@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate is primarily a Graphic Designer, lacking the necessary UX design experience specified in the job description. While they possess some skills in HTML and CSS, the resume doesn't demonstrate experience in user research, prototyping with Figma, or managing a UI design system. The candidate also lacks experience in an Agile software development environment.

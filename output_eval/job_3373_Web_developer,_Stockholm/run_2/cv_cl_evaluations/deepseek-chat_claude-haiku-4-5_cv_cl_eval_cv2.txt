@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in Java/J2EE backend development with minimal frontend experience (only jQuery/Bootstrap mentioned), which is a mismatch for a React-focused frontend role. The resume shows no experience with JavaScript, TypeScript, React, modern CSS tools, or the specific testing frameworks required. While the cover letter expresses enthusiasm, it cannot compensate for the complete lack of demonstrated, relevant technical skills.

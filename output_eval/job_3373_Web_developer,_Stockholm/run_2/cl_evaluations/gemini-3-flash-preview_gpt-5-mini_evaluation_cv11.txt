@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA specialist who lacks professional experience in the core requirements of React, TypeScript, and modern CSS development. They fail to demonstrate proficiency in web security protocols or the specific testing frameworks like Jest and Cypress required for this role. While they have a relevant background in software testing, they are currently unqualified for a front-end engineering position that demands immediate technical competency in development.

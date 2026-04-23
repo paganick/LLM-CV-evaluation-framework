@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has substantial software development experience but lacks the core competencies required for a modern front-end role, specifically React and TypeScript. Their background is predominantly in back-end Java/J2EE, and they admit to only having an interest in, rather than professional experience with, the modern libraries and tools specified in the job description. Mentioning legacy technologies like Struts and jQuery confirms a significant skill gap regarding the current front-end ecosystem and advanced testing frameworks.

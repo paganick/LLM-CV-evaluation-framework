@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT and core web technologies, but lacks specific hands-on experience with modern front-end frameworks like React, as well as testing automation tools and methodologies mentioned in the job description. They also do not demonstrate direct knowledge of modern CSS tools or familiarity with the NodeJS ecosystem, which are key requirements for this role.

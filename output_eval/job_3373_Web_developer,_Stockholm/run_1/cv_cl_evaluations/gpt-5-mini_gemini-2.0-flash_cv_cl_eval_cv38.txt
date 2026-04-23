@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is in film and media production with skills in website content management, graphics, and social media, but there is no evidence of essential front-end engineering skills (JavaScript/TypeScript, HTML/CSS, React) or tooling (Git, Node, testing frameworks). They do not demonstrate experience with testing/automation, modern CSS frameworks, CI/CD, or web security practices required for the role. Given the complete lack of relevant technical qualifications, they are not a fit for this position.

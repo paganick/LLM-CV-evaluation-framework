@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in digital communications that translates into relevant front-end development skills, specifically in HTML, CSS, and JavaScript. They demonstrate knowledge of React and modern CSS methodologies and mention testing practices. However, there are gaps in specific experiences regarding the required technologies and concepts (e.g., functional programming principles and CI/CD tools) that prevent a higher score.

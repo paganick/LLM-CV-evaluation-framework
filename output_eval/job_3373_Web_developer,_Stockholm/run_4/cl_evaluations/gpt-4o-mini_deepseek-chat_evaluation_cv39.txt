@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in visual and creative arts, with relevant experience in product design and web development. However, they lack specific experience with many of the key technologies and frameworks listed in the job description, particularly modern JavaScript, React, and testing frameworks. Their foundational knowledge of HTML and commitment to learning modern technologies is promising, but it does not fully demonstrate the necessary proficiency for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with nearly all the core requirements, including React, TypeScript, and modern testing frameworks like Jest or Cypress. Their front-end experience is limited to legacy technologies such as jQuery and Bootstrap, which does not align with the modern ecosystem or functional programming standards requested. While the candidate has a relevant background in web development and Agile, the technical gap regarding the specific modern JavaScript stack is too significant.

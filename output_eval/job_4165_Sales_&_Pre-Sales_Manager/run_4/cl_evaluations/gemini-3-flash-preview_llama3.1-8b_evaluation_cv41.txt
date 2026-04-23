@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses significant experience in client-facing roles and communications, they fail to demonstrate the mandatory technical sales experience in Application Services, Business Analytics, or Design Consulting. The background provided focuses on media coordination and HR staffing rather than the AI/ML-driven digital transformation solutions required. Additionally, the technical proficiency listed (SAP, Oracle, Office) is generic and does not align with the specific requirements for expertise in APIs, Cloud, DevOps, or Data Science.

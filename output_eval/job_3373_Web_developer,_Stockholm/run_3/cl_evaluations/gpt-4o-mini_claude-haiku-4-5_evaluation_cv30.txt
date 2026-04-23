@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in analytics and some familiarity with frontend technologies, particularly HTML and React. However, they lack hands-on experience with several key requirements like modern CSS tools, testing frameworks, and CI/CD tools mentioned in the job description, making them less qualified for the position.

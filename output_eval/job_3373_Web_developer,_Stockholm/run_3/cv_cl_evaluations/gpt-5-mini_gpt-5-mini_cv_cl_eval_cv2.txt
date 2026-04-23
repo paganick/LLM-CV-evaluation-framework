@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong, relevant experience in Java/J2EE backend development, Agile teams, Git, and unit testing, and expresses motivation to learn the front-end stack. However, they lack hands‑on experience with core requirements for this role—JavaScript/TypeScript, React, modern CSS tooling, Node/npm, and JS testing/CI tooling—so they are not ready to contribute immediately as a front‑end engineer. With focused retraining they could become a fit, but presently they fall short of the specific skillset required.

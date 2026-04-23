@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid, relevant experience with JavaScript/TypeScript, React, testing automation, Git/GitHub, SASS, linters, NodeJS, CI/CD and cloud tooling which aligns well with the role. However, they do not cite experience with the specific testing frameworks (Jest/Cypress/TestCafe), Styled Components, Ramda, or API design/Express.js that the job lists, and their security knowledge is described as basic. With stronger evidence of those specific tools and deeper testing/framework experience this would be a closer match.

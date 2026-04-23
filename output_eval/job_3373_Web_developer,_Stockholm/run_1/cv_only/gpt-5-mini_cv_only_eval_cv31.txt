@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is for a Sales Director with no demonstrated front-end development skills (JavaScript, TypeScript, React, HTML/CSS), testing, or engineering tool experience required by the role. No evidence of Git, NodeJS, web security, CI/CD, or related technical competencies; background is in sales, training, and management. Candidate is therefore completely unqualified for this engineering position.

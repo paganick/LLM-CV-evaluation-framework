@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's cover letter is entirely focused on materials science, quality analysis, and manufacturing processes, with zero mention of any required front-end development skills, frameworks, or tools. The job description is for a software engineering role requiring expertise in JavaScript, React, and modern web technologies. This application is for a completely different industry and role.

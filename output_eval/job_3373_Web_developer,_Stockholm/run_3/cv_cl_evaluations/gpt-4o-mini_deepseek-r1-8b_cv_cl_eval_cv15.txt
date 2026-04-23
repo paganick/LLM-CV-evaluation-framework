@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS but lacks hands-on experience with modern frontend frameworks like React, which is specifically mentioned in the job description. While there is some familiarity with code testing and version control using Git, the absence of in-depth knowledge about CI/CD tools and familiarity with security principles and frameworks further limits the candidate's fit for the role. Overall, the candidate has a foundational understanding of web technologies but misses several key requirements.

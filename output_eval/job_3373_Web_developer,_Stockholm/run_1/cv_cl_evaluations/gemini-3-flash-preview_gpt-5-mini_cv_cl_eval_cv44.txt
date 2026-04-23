@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a presentation and UI designer whose professional experience lacks the required mastery of React, TypeScript, and modern JavaScript ecosystems. Their background in visual design and tools like Adobe Creative Suite does not substitute for the mandatory experience in software engineering, test automation, and CI/CD pipelines. While the candidate possesses a Computer Science degree, they demonstrate no practical proficiency in the core technical stack specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in system administration, a different field than front-end development. While they express familiarity with HTML, CSS, and JavaScript, the resume lacks demonstrable experience with modern front-end frameworks like React (which is used by the company), testing frameworks, or other relevant FE development tools mentioned in the job description. The cover letter indicates a desire to transition into front-end development, suggesting they are a junior candidate.

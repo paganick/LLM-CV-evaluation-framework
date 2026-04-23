@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions the core tech stack but emphasizes high-level management and business development roles rather than recent, hands-on technical execution. Critical requirements such as web security (OWASP), CI/CD tools, and specific styling libraries are entirely unaddressed, indicating a lack of the specialized proficiency required for this engineering role.

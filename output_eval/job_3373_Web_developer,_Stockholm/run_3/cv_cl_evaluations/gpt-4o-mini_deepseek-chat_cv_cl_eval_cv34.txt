@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web technologies (HTML, CSS), project management, and documentation, but lacks hands-on experience with modern front-end frameworks like React, TypeScript, and specific testing frameworks mentioned in the job description. While they demonstrate strong collaboration and communication skills, significant gaps in the required technical skills and direct experience limit their suitability for the position.

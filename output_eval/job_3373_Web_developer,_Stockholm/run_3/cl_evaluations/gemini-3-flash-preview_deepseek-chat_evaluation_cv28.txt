@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong theoretical grasp of the core React and TypeScript stack along with testing proficiency, but lacks professional software engineering experience. Crucially, the application fails to address several specific technical requirements including Web security (OWASP, CORS), cloud infrastructure (AWS, Terraform), and SASS. While the candidate has high-level analytical experience, they remain a high-risk hire due to the transition from a non-technical industry without a proven track record in a production environment.

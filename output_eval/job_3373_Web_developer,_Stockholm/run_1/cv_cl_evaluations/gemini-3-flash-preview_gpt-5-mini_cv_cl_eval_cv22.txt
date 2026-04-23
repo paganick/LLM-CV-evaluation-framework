@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer transitioning from marketing and media planning who lacks the professional software engineering experience required for this role. They do not possess any demonstrated proficiency in JavaScript, TypeScript, or modern React frameworks, which are core requirements of the job description. Additionally, the resume shows no experience with essential tools like Git, automated testing frameworks, or CI/CD pipelines, making them unqualified for a front-end engineering position.

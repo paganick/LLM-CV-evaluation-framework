@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses foundational knowledge of HTML, CSS, and JavaScript, they lack direct experience with React, the team's primary framework. The letter highlights eagerness to learn, which is positive, but the current skillset doesn't fully align with the job description's emphasis on hands-on experience with modern front-end frameworks and testing automation. They express budding interest in key technologies like CI/CD and AWS, but lack demonstrable experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development and some understanding of Agile methodologies, which aligns with parts of the job description. However, they lack specific experience in key technologies such as TypeScript and testing frameworks, which are essential for this role. Additionally, there is no mention of familiarity with security practices, CI/CD tools, or modern CSS tools as outlined in the job description.

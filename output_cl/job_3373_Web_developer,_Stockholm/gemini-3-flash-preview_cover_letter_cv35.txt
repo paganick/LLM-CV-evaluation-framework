@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Developer position. As a Senior Marketing Automation Consultant with a technical foundation in system integrations and API management, I am eager to transition my expertise in building complex programs into a dedicated software engineering role. Throughout my career, I have thrived at the intersection of technology and strategy, consistently delivering high-value solutions for global organizations.
+
+My background is rooted in technical problem-solving. At companies like PwC and TD Ameritrade, I have been responsible for designing and building complex multi-step programs and data-driven solutions. This experience aligns with your requirement for clean code and strong logic. I have extensive experience managing API data imports and integrating various third-party systems, providing me with a solid understanding of how data flows across the web. While my primary tools have been within the Oracle and Salesforce ecosystems, I have developed a rigorous discipline for writing efficient logic that translates directly to JavaScript and TypeScript development. I am also comfortable with Git for version control and collaborative workflows.
+
+The job description’s emphasis on testing and automation resonates with my professional ethos. I have a proven track record of developing automation testing efforts and defining comprehensive QA processes to ensure system integrity. My experience with Program Builder for data cleansing and lead routing required the same architectural mindset needed for modern frontend frameworks like React. Furthermore, my work with dynamic content and custom subscription centers has given me a refined eye for HTML and CSS, ensuring that technical functionality never compromises user experience.
+
+Beyond my technical skills, I am a strong collaborator who excels in Agile environments. I am comfortable interacting with cross-functional teams to translate requirements into technical roadmaps. My commitment to continuous improvement is evidenced by my Black Sash in Shaolin Kung Fu and my Luminary Certification. I am particularly excited about your team's use of React and functional programming with Ramda, as I am keen to apply my skills to these modern technologies.
+
+I am also familiar with the NodeJS ecosystem and am enthusiastic about contributing to your CI/CD workflows using CircleCI and AWS infrastructure. I am eager to bring my analytical mindset and experience in complex system architecture to your team. Thank you for your time.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant industry experience and strong Agile foundations, they lack professional experience with the core requirements of React and TypeScript. Furthermore, the candidate admits to a lack of hands-on experience with automated testing and modern web security protocols, which are listed as essential criteria for the role. The profile is primarily focused on legacy jQuery and .NET development rather than the modern front-end ecosystem requested.

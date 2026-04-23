@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent experience in design and demonstrates proactive learning of some required technologies like React, HTML, CSS, and Git. However, they lack direct, professional software development experience and do not address core requirements from the job description such as TypeScript, testing frameworks, security knowledge, Node.js, or functional programming. Their background is primarily in graphic design, which is a significant skills gap for a software engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience as a Graphic Designer and some knowledge of HTML and CSS, but they lack specific experience with JavaScript, TypeScript, modern frontend frameworks, and testing frameworks mentioned in the job description. Their skills do not align closely enough with the technical requirements for a front-end developer role, placing them in the realm of potential but ultimately underqualified for this position.

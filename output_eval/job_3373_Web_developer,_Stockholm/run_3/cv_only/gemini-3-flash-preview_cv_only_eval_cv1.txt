@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java backend developer and Test Automation Engineer, whereas the role requires a modern Frontend specialist. While they list React and SASS, their practical experience is centered on Java/Spring and Selenium-based testing rather than the requested TypeScript, Jest/Cypress, and functional programming ecosystem. Furthermore, the resume lacks evidence of recent professional experience or familiarity with modern frontend architectural patterns.

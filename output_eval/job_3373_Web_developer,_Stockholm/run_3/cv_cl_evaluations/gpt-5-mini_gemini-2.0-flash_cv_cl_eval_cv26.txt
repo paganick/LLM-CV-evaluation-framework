@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show a career in marketing, communications, and PR with no demonstrated experience or skills in JavaScript, TypeScript, React, modern front-end frameworks, testing, Git, Node, CSS tooling, or web security—core requirements for this Front-End Developer role. While motivated to learn, there is no evidence of technical training, projects, or a portfolio to support a transition to this position. This is a wrong-industry fit and does not meet the minimum technical qualifications.

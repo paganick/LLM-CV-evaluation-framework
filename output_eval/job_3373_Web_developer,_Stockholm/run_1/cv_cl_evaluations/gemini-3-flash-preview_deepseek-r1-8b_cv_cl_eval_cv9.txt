@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java/JEE backend developer and lacks professional experience with the required frontend stack, specifically React and TypeScript. While they demonstrate strong general engineering principles such as clean code and Agile methodologies, they do not possess the necessary hands-on expertise with modern JavaScript frameworks or frontend-specific testing tools like Jest and Cypress. Consequently, the candidate is a poor technical match for this frontend-focused position.

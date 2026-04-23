@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate comes from a wholly different industry (civil/construction engineering) and the resume and cover letter show no demonstrated experience with required frontend technologies (JavaScript/TypeScript, React, HTML/CSS), testing, Git, Node, or relevant tooling. While they have strong project management and collaboration skills, there is no evidence of the technical proficiency necessary for this frontend developer role. The lack of any applicable frontend experience or projects makes the candidate unqualified for the position.

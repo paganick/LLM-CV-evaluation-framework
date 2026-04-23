@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the front-end developer role at your company. My background combines program design, learning science, and project management, and I bring a demonstrated ability to learn technical skills quickly, lead cross-functional work, and design processes that produce reliable outcomes.
+
+In roles as Program Manager & Designer and as a Learning Consultant I developed and delivered curricula, led onboarding programs, and trained co-facilitators. I designed an internal learning program that delivered over 35 classes with over 95% satisfaction and accelerated ramp time for new hires from two months to two weeks. I founded and executed Dual School, securing a $100,000 grant and working with more than 150 students. These experiences required close collaboration with stakeholders, clear technical communication, and iterative improvement—skills I will apply to front-end development work.
+
+My technical experience includes intermediate coding in R and hands-on experience integrating learning solutions into technology platforms to increase engagement and reduce attrition. While my professional coding history is concentrated in R, my daily work has involved specification writing, coordinating implementation with engineers and partners, and evaluating results through data. I am confident I can transfer these analytical and systems-thinking abilities to modern front-end stacks, adopt React and TypeScript quickly, and follow established testing and security practices.
+
+Across roles I have delivered measurable results: five associates advanced to project leads after program participation, onboarding time reduced from two months to two weeks, and I trained thirteen co-facilitators who went on to facilitate multiple meetings per project. I also provided learner support to 155 MOOC students and led fundraising efforts that secured two multimillion-dollar grants. These outcomes reflect my focus on scalable, sustainable processes and data-driven improvement approach.
+
+I thrive in collaborative environments and have successfully coordinated with diverse teams and external partners across multiple countries. I emphasize clear documentation, repeatable processes, and training stakeholders to ensure long-term adoption—approaches that align with disciplined front-end development, testing, and CI/CD workflows.
+
+I am excited by the opportunity to pair my learning design strengths with a technical role on a React team, contribute to well-tested, user-centered interfaces, and continue growing as an engineer. Thank you for considering my application. I welcome the chance to discuss how my experience in program design, stakeholder engagement, and rapid skill acquisition can support your team.
+
+Sincerely, Alexis

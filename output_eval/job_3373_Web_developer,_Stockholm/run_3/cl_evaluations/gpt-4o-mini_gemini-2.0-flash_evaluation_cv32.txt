@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses a strong interest in front-end development and has some relevant foundational knowledge in JavaScript, TypeScript, HTML, and CSS, they lack hands-on experience with frameworks like React and testing automation, which are crucial for the position. Additionally, their background is primarily in customer service and management, making them a relevant industry candidate, but they do not meet the specific technical experience requirements outlined in the job description.

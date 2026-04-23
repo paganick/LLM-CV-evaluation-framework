@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in software development but lacks direct expertise in modern front-end technologies such as React, TypeScript, and CSS tools referenced in the job description. While they demonstrate familiarity with JavaScript and HTML, their primary background is in mainframe applications, which may not translate effectively to the front-end role. Additionally, their experience with testing and automation appears limited compared to what is expected for this position.

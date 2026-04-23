@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in sales, project management, and training, which doesn't align with the job description's focus on hands-on coding experience with JavaScript, TypeScript, HTML, and CSS. While the candidate highlights transferable skills, there's a significant lack of direct technical expertise in the required technologies and frameworks mentioned in the job posting (React, testing frameworks, etc.). The cover letter focuses on potential and transferable skills rather than proven technical abilities.

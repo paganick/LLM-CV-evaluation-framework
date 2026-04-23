@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in a completely different technology stack (IBM Mainframe, COBOL, DB2) and does not align with the modern front-end and full-stack requirements of the role. The job description emphasizes React, TypeScript, and modern web development tools, which are not mentioned or implied in the candidate's background. While the candidate demonstrates professional experience, it is for a different industry specialty, making them unqualified for this specific position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a broad IT background but lacks specific, in-depth experience with modern front-end frameworks like React, which is a core requirement. While they possess foundational knowledge in JavaScript, HTML, and CSS, their experience seems dated, referencing older technologies and certifications. The resume highlights IT management and troubleshooting more prominently than front-end development.

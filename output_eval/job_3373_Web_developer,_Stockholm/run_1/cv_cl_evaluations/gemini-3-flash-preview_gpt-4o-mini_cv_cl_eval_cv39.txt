@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and fine artist whose experience is centered on visual design and print media rather than modern front-end engineering. They lack essential technical proficiency in the required stack, including React, TypeScript, automated testing frameworks, and Git version control. While the candidate has a strong background in aesthetics, they do not possess the software development expertise or hands-on experience with modern JavaScript ecosystems required for this role.

@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With over seven years of software development experience and a proven track record in full-stack engineering, I am confident in my ability to contribute meaningfully to your React-focused team.
+
+My technical foundation aligns well with your core requirements. I possess advanced proficiency in JavaScript, HTML, and CSS, complemented by hands-on experience with modern frontend frameworks. Throughout my career at LogonTutor LLC, I designed and implemented responsive web interfaces while maintaining clean, well-structured code. My experience spans multiple programming languages including JavaScript and Python, and I am well-versed in Git version control and collaborative development workflows.
+
+Testing and code quality are priorities I deeply value. I have implemented comprehensive testing protocols across my projects and am committed to maintaining rigorous standards. Additionally, I bring familiarity with SASS for advanced styling solutions and possess knowledge of essential development tools and workflows that enable efficient, scalable code deployment.
+
+What distinguishes my candidacy is my genuine passion for continuous learning and collaboration. My background as both an individual contributor and project manager has honed my ability to work effectively within Agile environments and cross-functional teams. I demonstrated this leadership while managing the Seeketh.org Senior Project, where I coordinated team efforts to build complex information systems. I am naturally curious about emerging technologies and understand the importance of staying current with industry best practices.
+
+My software engineering expertise extends beyond frontend development. My work automating deployment processes using Bash scripts and my experience with database management showcase my broader technical understanding. This diverse skill set enables me to engage meaningfully with backend teams and external partners, understanding how frontend solutions integrate within larger systems.
+
+I am particularly drawn to organizations that prioritize clean code and technical excellence. Your emphasis on security fundamentals, modern development practices, and collaborative culture resonates strongly with my professional values. I am eager to bring my technical capabilities, work ethic, and genuine enthusiasm for quality software development to your team.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my experience and passion for frontend development can contribute to your continued success.
+
+Sincerely, Alexis

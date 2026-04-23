@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant coursework in web technologies and SQL, but lacks significant hands-on experience with JavaScript, TypeScript, and modern frontend frameworks like React. Their background is primarily in media planning and buying, which does not align closely with the technical requirements of the position. Overall, while there are transferrable skills, the candidate does not fulfill the specific experience and skills necessary for the role.

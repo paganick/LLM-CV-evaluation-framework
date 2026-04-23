@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong analytical skills, experience with Git and Agile workflows, and a clear willingness to learn, which are relevant and transferable. However, they lack demonstrated hands-on experience with core frontend technologies required for the role—JavaScript/TypeScript, HTML/CSS, React—along with frontend testing frameworks, modern CSS tools, NodeJS/CI/CD, and web security knowledge, so they are not yet a strong technical match.

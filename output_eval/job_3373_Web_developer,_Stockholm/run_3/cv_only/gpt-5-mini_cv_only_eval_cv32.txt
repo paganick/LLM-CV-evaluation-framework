@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects a career in customer service, sales, and retail management with no evidence of software development experience or required technical skills (JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, AWS, etc.). There are no relevant projects, education, certifications, or tools listed that align with the job requirements. While the candidate demonstrates strong soft skills, they are strictly unqualified for this front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong analytical and collaborative soft skills relevant to the role and shows initiative in learning the required technical stack. However, they lack hands-on professional experience with the core technologies (React, testing frameworks, Git) and the listed tooling (Node.js, AWS, CI/CD), which are explicit requirements. The background is a significant career transition, placing them at a foundational level against the job's experience expectations.

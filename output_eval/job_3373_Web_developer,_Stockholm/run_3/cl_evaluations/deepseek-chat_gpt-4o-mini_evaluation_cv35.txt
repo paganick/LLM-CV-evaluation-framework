@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant transferable skills and mentions key technologies like React, Git, and security principles, but lacks direct, demonstrable front-end development experience. The cover letter is heavily weighted toward marketing automation, with front-end skills presented as adjacent interests rather than professional practice. Critical requirements like TypeScript, hands-on testing frameworks, and modern tooling (ESLint, Prettier, CI/CD) are either not mentioned or not substantiated with project-based evidence.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced web developer, their background is heavily focused on the .NET/C# ecosystem rather than the modern JavaScript and React stack required. They lack experience with TypeScript, specific frontend frameworks, automated testing tools like Jest or Cypress, and cloud infrastructure such as AWS. Consequently, the candidate does not possess the core technical skills necessary for this modern frontend-heavy role.

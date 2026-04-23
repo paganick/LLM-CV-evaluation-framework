@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume documents a career in sales and management with only minimal HTML and design-tool exposure and contains no verifiable frontend engineering experience or portfolio. The cover letter makes broad technical claims (React, TypeScript, testing, NodeJS, CI/CD, AWS, web security) that are unsupported by concrete projects, roles, or skills on the resume. Given the lack of hands-on experience with modern frontend frameworks, testing/automation, and relevant tooling, the candidate is not qualified for this frontend developer role.

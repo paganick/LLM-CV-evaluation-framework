@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive general sales and pipeline management experience, they fail to demonstrate the specific technical expertise required in Application Services, Big Data, or Design Consulting. Their professional background is centered on recruitment platforms and healthcare solutions, lacking the necessary depth in architectural design reviews, technical stakeholder management, and the complex digital ecosystems (API, Cloud, DevOps) specified in the requirements.

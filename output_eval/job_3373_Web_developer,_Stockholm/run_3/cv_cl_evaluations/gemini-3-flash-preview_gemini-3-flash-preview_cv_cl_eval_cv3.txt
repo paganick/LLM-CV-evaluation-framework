@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer with no professional experience in web development and lacks proficiency in the required modern tech stack, specifically React, TypeScript, and automated testing frameworks. Their technical background is significantly outdated, focusing on obsolete technologies like Flash and ActionScript, which does not meet the standards for a modern engineering role.

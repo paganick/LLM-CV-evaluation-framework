@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and IT leadership, not front-end development. While they express interest in learning and highlight transferable skills, the resume lacks demonstrable experience with the core technologies listed in the job description (React, TypeScript, HTML, CSS). The cover letter indicates a desire to transition into development, but doesn't offer proof of existing skills in the required tech stack.

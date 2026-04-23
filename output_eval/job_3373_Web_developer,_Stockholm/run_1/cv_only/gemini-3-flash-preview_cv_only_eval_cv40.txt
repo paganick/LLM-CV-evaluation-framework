@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a high-level Product Management executive with no professional experience in hands-on software engineering or the specified tech stack. They lack the required proficiency in JavaScript, TypeScript, React, and modern testing frameworks, as their career has focused on strategic leadership and product marketing for over two decades. While they have worked alongside development teams, they do not possess the technical skills necessary to perform as a front-end developer.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights project management and communication skills, which are valuable in an Agile environment. However, it lacks any mention of the technical skills required for the role (JavaScript, React, testing, etc.). The candidate demonstrates a misunderstanding of the core requirements for a front-end development position.

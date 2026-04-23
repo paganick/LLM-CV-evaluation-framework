@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with React, testing, and Git, aligning with the job description's core requirements. They highlight their ability to work in Agile environments and collaborate within teams. While the candidate lacks explicit mention of TypeScript, HTML, and specific CSS tools, the overall experience and skill set make them a strong candidate.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s resume describes a background primarily in .NET and jQuery from 2014–2016, which is significantly outdated compared to the modern React and TypeScript requirements. There is no evidence in the professional experience or skills section of the resume to support the cover letter's claims regarding proficiency in Jest, Cypress, or modern CSS tools. As a result, the candidate fails to demonstrate the specific technical experience required for this modern front-end role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern front-end skills required. They have no experience with React, TypeScript, modern CSS tools, or the testing frameworks listed in the job description. Their background is heavily focused on .NET and traditional web forms, which is a significant mismatch for a role centered on modern JavaScript frameworks and functional programming.

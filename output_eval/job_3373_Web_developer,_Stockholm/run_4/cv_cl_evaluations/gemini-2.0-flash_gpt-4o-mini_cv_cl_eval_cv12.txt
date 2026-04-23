@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a broad range of technical skills, including JavaScript, CSS, HTML, and Git, which align with the job description. However, there's a lack of specific project experience using React and other modern FE frameworks mentioned in the job description, such as Styled Components. The resume is also somewhat unfocused, highlighting a wide range of older technologies that are not relevant to the role.

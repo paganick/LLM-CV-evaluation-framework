@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate demonstrates strong leadership and stakeholder collaboration but provides no evidence of the required hands-on technical skills (JavaScript/TypeScript, React, testing frameworks, NodeJS, CI/CD, AWS/Terraform, etc.). These technical competencies are fundamental to the role and are absent, making the applicant unsuitable for the position despite transferable soft skills. While quick learning and leadership are positives, they do not compensate for the complete lack of demonstrable technical experience.

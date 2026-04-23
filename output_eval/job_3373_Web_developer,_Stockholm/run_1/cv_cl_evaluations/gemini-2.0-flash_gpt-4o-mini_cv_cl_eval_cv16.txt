@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a foundational understanding of JavaScript, HTML, and CSS, along with some exposure to React. However, the resume highlights .NET development experience more prominently than modern front-end frameworks. While the cover letter expresses interest in keeping up-to-date, the resume lacks concrete examples of using modern CSS tools, testing frameworks, or CI/CD tools mentioned in the job description.

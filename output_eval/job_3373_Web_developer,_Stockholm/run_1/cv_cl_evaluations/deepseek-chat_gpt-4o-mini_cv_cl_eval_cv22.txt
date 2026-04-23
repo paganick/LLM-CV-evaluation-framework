@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and marketing, not software development, making this a near-total industry mismatch. While the cover letter claims familiarity with some required technologies, the resume shows no professional experience with JavaScript, TypeScript, React, or modern front-end development. The candidate lacks the hands-on, practical experience in the core technologies and frameworks specified in the job description.

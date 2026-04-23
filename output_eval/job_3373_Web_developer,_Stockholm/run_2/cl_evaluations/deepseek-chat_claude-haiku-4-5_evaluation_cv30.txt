@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analytics, not frontend development, and they lack proven, professional experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools). While they demonstrate a strong collaborative mindset and a willingness to learn, their technical skills are described as foundational or in-progress, not the hands-on experience required for the role.

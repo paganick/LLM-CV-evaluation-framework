@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, project management, and quality engineering, with some exposure to software development concepts. While the cover letter attempts to bridge the gap, the resume lacks concrete evidence of hands-on experience with modern front-end technologies like React, TypeScript, and related testing frameworks. The candidate's experience appears dated and focused on legacy systems, making them a weak fit for the specific technical requirements of the role.

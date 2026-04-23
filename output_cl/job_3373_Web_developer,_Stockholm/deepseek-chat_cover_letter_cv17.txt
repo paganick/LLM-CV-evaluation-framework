@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front-End Developer position. While my professional background is rooted in large-scale engineering and construction project management, this represents a deliberate and passionate career pivot into software development. My extensive experience in leading complex, high-stakes projects has equipped me with a transferable skill set that aligns perfectly with the collaborative, detail-oriented, and Agile environment your team requires.
+
+For over fifteen years, I have been responsible for guiding multi-million-dollar projects from conception to completion, consistently delivering them safely, on schedule, and under budget. This required meticulous planning, rigorous process adherence, and flawless execution—principles that translate directly to writing clean, reliable, and well-tested code. My role demanded constant collaboration with diverse international teams, contractors, and stakeholders, honing my ability to communicate complex ideas clearly and work effectively within a matrix structure, much like a modern Agile development team.
+
+My technical transition is focused and deep. I have built a strong foundation in the core technologies you seek: JavaScript, TypeScript, HTML, CSS, and React. I am proficient with modern tooling including Git, GitHub, ESLint, Prettier, and the Node.js/npm ecosystem. I prioritize code quality through comprehensive testing, having worked with Jest and Cypress for unit and end-to-end testing. I understand the importance of security fundamentals (OWASP, CORS) and have applied functional programming paradigms. Furthermore, my project management expertise provides a strategic lens for understanding CI/CD pipelines, API design, and system architecture, ensuring my contributions are both technically sound and aligned with broader project goals.
+
+My career is defined by translating complex specifications into tangible, successful outcomes while managing resources and risk. I am now applying that same disciplined, results-driven approach to building exceptional web applications. I am confident that my unique perspective as a proven leader and a dedicated developer would bring significant value to your team.
+
+I welcome the opportunity to discuss how my background in managing intricate projects and my newly forged technical skills can contribute to your company's success.
+
+Sincerely,
+Alexis

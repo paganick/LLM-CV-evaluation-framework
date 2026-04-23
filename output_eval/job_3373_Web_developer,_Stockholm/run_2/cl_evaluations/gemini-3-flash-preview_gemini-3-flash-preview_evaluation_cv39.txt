@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in web design and basic styling, they lack professional, hands-on evidence of core requirements such as automated testing, Git version control, and functional programming. The mention of Dreamweaver suggests an outdated technical foundation, and their "recent focus" on mastering React and TypeScript indicates a lack of the production-level engineering experience required for this role. Key technical areas like CI/CD, AWS, and specific testing libraries (Jest/Cypress) are entirely unaddressed.

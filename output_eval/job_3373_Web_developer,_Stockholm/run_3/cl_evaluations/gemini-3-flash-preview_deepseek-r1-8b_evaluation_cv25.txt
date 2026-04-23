@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The applicant is a graphic designer whose background in visual arts and marketing materials is largely irrelevant to the technical requirements of a software engineering role. They fail to demonstrate any proficiency in mandatory technologies such as JavaScript, TypeScript, or React, focusing instead on design tools and creative vision. While they mention basic knowledge of HTML and CSS, their overall profile indicates they are from the wrong industry and lack the engineering foundation necessary for this position.

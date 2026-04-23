@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant fundamentals (HTML/CSS), strong client-facing and Agile experience, and is actively learning React, TypeScript, and SASS. However, they lack demonstrated hands-on, production experience with the specific toolchain requested (React at scale, testing frameworks and test automation, Node/npm, CI/CD, API design, and cloud/infra tools). Given the clear gaps between their transition-stage skillset and the role's concrete requirements, they are relevant but underqualified for this position.

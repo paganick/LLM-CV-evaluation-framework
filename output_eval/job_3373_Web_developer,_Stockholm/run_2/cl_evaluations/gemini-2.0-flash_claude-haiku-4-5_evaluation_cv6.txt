@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and React, aligning well with the job description. They mention specific tools like Styled Components, SASS, and Git, which are beneficial. While they express interest in CI/CD tools and AWS, the job description expects familiarity, not just interest, which prevents a higher score.

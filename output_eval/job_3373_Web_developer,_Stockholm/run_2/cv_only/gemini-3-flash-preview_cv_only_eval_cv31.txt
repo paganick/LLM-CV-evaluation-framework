@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no professional background in software engineering or front-end development. They lack the mandatory technical proficiency in React, TypeScript, NodeJS, and testing frameworks required for this role. Their experience is entirely centered on sales management and business development, making them completely unqualified for a senior technical position.

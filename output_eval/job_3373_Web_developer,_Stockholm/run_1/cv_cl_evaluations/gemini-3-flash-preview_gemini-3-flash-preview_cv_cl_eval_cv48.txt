@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate has extensive experience in the broader IT industry, their professional background is strictly limited to systems administration, hardware repair, and technical support. They lack professional experience in software engineering, with no evidence of having used JavaScript, React, or modern frontend tools in a production environment. Consequently, the candidate does not meet the core requirements for a developer role focused on clean code, API design, and automated testing frameworks.

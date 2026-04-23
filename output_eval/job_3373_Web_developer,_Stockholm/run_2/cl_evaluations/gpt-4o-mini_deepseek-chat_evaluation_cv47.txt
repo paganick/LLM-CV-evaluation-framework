@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid foundational skills in HTML, CSS, and JavaScript, as well as experience with tools like React, ESLint, and Prettier, which aligns with the job requirements. However, they lack specific experience with the full breadth of technologies mentioned in the job description, such as SASS, Node.js, and CI/CD tools, which prevented a higher score. Their experience in business development may not be fully relevant to the technical demands of the role, affecting the overall match.

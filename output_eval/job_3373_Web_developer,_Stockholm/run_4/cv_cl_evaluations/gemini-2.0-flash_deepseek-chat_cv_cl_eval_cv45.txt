@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT management and security, lacking hands-on front-end development experience. While the cover letter mentions ongoing efforts to learn JavaScript, TypeScript, and React, there's insufficient evidence of practical application in the resume. The candidate's experience doesn't align with the required FE frameworks or modern CSS tools.

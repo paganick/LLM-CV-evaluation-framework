@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a microbiologist and laboratory consultant who possesses none of the required technical skills, such as JavaScript, TypeScript, or React. Their professional experience is entirely rooted in life sciences and regulatory compliance, making them completely unqualified for a senior front-end engineering role. There is no evidence of software development experience or familiarity with the specified modern web tech stack.

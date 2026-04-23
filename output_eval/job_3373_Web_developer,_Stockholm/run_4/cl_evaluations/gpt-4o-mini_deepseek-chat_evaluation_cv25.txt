@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in design and possesses foundational skills in HTML and CSS. However, they lack hands-on experience with JavaScript, TypeScript, and modern frameworks like React, which are crucial for this role. Additionally, there is no mention of familiarity with key testing frameworks, CI/CD tools, or security knowledge that the position specifically requires.

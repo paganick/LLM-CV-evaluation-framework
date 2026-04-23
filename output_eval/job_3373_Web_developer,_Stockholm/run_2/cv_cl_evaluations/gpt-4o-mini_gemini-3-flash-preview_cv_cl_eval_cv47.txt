@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in business development and lacks strong experience in front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React. Although they mention some relevant programming skills and interest in web development, the lack of specific experience with testing frameworks, CI/CD tools, and web security practices makes them only partially qualified for the role.

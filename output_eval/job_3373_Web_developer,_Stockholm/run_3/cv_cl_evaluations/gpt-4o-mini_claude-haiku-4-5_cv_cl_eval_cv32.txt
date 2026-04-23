@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in customer service and management roles but lacks direct experience with key technical skills such as JavaScript, TypeScript, React, or testing frameworks mentioned in the job description. While they demonstrate transferable skills and a willingness to learn, they do not meet the fundamental technical requirements for the frontend developer position. Their existing experience is not aligned with the specific demands of the role in a software development context.

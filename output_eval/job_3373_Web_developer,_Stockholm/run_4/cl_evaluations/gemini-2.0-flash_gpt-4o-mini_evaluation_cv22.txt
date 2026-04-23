@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has familiarity with HTML, CSS, and JavaScript, which are listed as requirements. They mention a desire to learn React, but lack direct experience. While they have experience with Git, they only express awareness, and don't showcase practical experience with testing frameworks.

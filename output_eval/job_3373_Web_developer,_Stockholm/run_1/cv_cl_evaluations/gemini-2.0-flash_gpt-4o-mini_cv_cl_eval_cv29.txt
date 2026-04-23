@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight a background in business development and marketing, with minimal evidence of front-end development skills. While there's an expressed interest in web technologies and some familiarity with Git, the required JavaScript, React, and testing experience are largely absent. The candidate's skill set does not align with the core requirements of the job description.

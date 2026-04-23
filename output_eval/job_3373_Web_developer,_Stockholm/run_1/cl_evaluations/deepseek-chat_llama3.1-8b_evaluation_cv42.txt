@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's 20 years of experience are in unrelated industries (Publishing, Non-Profit) and focuses on finance/operations, not front-end development. While they list some relevant technical keywords, they provide no evidence of hands-on application, project depth, or specific achievements in the required areas like testing, modern CSS tools, or React. The core skills and career history are a significant mismatch for the software engineering role described.

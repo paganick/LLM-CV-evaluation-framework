@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical qualifications required for this front-end engineering role (no experience with JavaScript/TypeScript, HTML/CSS, React, testing frameworks, Git, Node ecosystem, or web security). While they demonstrate extensive marketing and communications experience and some familiarity with Agile, those transferable skills do not compensate for the absence of hands-on engineering, testing, and tooling experience. As a result, they are a poor fit for this position in its current state.

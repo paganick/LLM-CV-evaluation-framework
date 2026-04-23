@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical exposure and soft skills, but lacks direct, hands-on experience with the core frontend technologies and frameworks specified in the job description. While they mention an eagerness to learn React and modern practices, they provide no concrete evidence of proficiency in JavaScript, TypeScript, React, testing frameworks, or the specific toolchain required. Their background is primarily in systems administration, which is adjacent but not directly aligned with the software engineering focus of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong design, collaboration, and learning motivation but provides no concrete, hands-on experience with core technical requirements (JavaScript/TypeScript, React, testing frameworks, NodeJS, CI/CD, AWS/Terraform, etc.). Their background is primarily in graphic design with only high-level claims of interest and collaboration with developers, so they lack the specific skills and proven technical experience this role requires. They may be trainable but are not currently qualified for the position.

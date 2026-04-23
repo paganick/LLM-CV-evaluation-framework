@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on Salesforce Marketing Cloud and digital marketing, which is not aligned with the front-end development skills required. While the candidate has some experience with HTML and CSS, the lack of modern JavaScript frameworks and testing experience makes them unqualified for the role. The resume lacks the necessary technical skills in React, TypeScript, and associated tools.

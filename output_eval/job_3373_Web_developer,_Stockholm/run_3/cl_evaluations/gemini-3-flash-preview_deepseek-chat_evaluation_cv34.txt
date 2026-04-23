@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional, hands-on experience with the primary tech stack, specifically JavaScript, TypeScript, and React, which are core requirements for this role. While they possess transferable project management skills and foundational HTML/CSS knowledge, their experience with testing automation, web security, and modern development workflows is academic rather than professional. As a career-changer currently upskilling, they do not meet the "hands-on" criteria required for an established engineering team.

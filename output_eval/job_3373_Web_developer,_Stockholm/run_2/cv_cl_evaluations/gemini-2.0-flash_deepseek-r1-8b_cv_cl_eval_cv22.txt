@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and database management, lacking the required frontend skills (JavaScript, TypeScript, React). While they express interest in learning, the resume doesn't showcase sufficient experience with modern FE frameworks, testing, or web security. The candidate's skills are misaligned with the core requirements of the job description.

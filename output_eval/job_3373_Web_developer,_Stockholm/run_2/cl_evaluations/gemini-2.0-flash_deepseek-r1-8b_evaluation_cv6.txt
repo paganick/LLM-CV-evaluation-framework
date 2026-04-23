@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate mentions JavaScript, HTML, CSS, Git, and testing, aligning well with the job description's core requirements. They also acknowledge familiarity with web security fundamentals, which is another mentioned requirement. However, the cover letter lacks explicit mention of React (the framework the company uses) and specific testing frameworks like Jest or Cypress, and modern CSS tools, causing it to fall short of a perfect match.

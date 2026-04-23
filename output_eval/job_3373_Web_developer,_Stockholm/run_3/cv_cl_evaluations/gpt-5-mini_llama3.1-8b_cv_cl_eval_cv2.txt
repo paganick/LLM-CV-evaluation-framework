@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE backend experience, Agile exposure, unit testing, and basic web skills (jQuery/Bootstrap, Git), but lacks the core front-end stack required — no demonstrable JavaScript/TypeScript, React (or other modern frameworks), Node/npm, modern testing frameworks, or modern CSS tooling. Several critical JD requirements (React, TypeScript, testing automation, CI/CD, AWS/Terraform familiarity) are missing, making them a poor immediate fit for this front-end-focused role without substantial retraining.

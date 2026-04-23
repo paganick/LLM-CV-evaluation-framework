@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not the required JavaScript/TypeScript front-end technologies. While they express interest in learning React and have some HTML/JavaScript experience, they lack sufficient hands-on experience with modern front-end frameworks and tooling. The cover letter highlights a willingness to learn, but the resume does not demonstrate adequate existing skills for the role.

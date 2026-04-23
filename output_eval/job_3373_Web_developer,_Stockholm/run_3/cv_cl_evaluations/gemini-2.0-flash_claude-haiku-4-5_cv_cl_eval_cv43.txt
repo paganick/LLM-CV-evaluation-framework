@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, with limited demonstrable experience in frontend development. While they express interest in transitioning and highlight transferable skills, they lack the required technical skills in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. The resume showcases program management and design experience, with only "intermediate coding in R studio" listed, which is not relevant to the job description.

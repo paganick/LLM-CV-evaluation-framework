@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET/C# developer and lacks the required professional experience with modern JavaScript frameworks like React, as well as TypeScript. Their background focuses on legacy technologies such as jQuery, ASP.NET, and SharePoint, missing the specific expertise in modern testing automation, functional programming, and cloud infrastructure (AWS/Terraform) essential for this role.

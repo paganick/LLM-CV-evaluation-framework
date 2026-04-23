@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's 20-year background is in Publishing and Non-Profit finance/operations, which is not directly relevant to a modern front-end development role. While they list some required technical keywords (React, Agile, Git), the letter lacks any demonstrable, hands-on experience with the core responsibilities like writing clean code, testing, or specific tools (Jest, Node.js, AWS). The application reads as a generic template that has been superficially adapted, failing to prove genuine, practical expertise in the specified technical domain.

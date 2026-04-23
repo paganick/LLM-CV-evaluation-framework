@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Engineer position. The resume demonstrates a background in program management, learning design, and educational curriculum development with no evidence of software development experience, web technologies, or any of the required technical skills (JavaScript, TypeScript, React, testing frameworks, Git, etc.). The only mention of coding is "intermediate coding in R studio," which is irrelevant to frontend development. This candidate is in the wrong industry entirely.

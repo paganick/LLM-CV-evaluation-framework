@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate shows foundational HTML/CSS and UX/design experience and a Computer Science degree, but lacks demonstrated JavaScript/TypeScript skills, React/modern framework experience, testing and test automation, version control (Git), Node/npm ecosystem familiarity, and web security knowledge — all explicit requirements. Given these significant gaps in core technical skills and tooling, they are not currently qualified for this role though potentially trainable.

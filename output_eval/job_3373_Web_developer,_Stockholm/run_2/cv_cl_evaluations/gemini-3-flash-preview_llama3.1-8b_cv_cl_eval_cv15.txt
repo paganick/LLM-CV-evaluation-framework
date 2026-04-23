@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s resume reflects a legacy IT Support and hardware technician background that is fundamentally misaligned with the requirements for a modern Front-End Engineer. While the cover letter claims proficiency in React and modern testing frameworks, these claims are entirely unsupported by the professional experience, which focuses on outdated technologies like ActionScript, Windows 95, and hardware repair from over a decade ago. There is no evidence of professional experience with TypeScript, CI/CD, or modern software development lifecycles.

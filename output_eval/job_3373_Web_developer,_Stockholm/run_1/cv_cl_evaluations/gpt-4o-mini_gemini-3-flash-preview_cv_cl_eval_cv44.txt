@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in UX/UI design and has a foundational understanding of HTML, CSS, and JavaScript. However, they lack specific hands-on experience with modern frontend frameworks like React or testing automation tools that are crucial for the role. Their background leans more towards design rather than development, which may not meet the technical demands of the position.

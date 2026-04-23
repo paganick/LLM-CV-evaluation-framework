@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe programming and a strong background in banking and financial systems, but lacks specific experience with modern frontend technologies such as React, TypeScript, and testing frameworks like Jest or Cypress. Although they express a desire to transition to frontend development, their practical experience in the required modern technologies and methodologies is insufficient for the role.

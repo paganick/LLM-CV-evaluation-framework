@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and skills in JavaScript, TypeScript, HTML, CSS, and React. However, there is no mention of any experience with testing automation beyond Jest and lacks familiarity with the Node.js ecosystem, CI/CD tools, modern CSS libraries like SASS or Styled Components, and other specific technologies mentioned in the job description. While the candidate demonstrates a good foundation, they do not fully meet all the requirements outlined for the position.

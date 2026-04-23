@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a basic understanding of JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React, which is crucial for the role. While they mention web development experience, the resume focuses more on systems administration and general IT consulting. The cover letter acknowledges a broader focus than FE development, which further weakens their candidacy.

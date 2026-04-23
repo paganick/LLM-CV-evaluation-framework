@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate demonstrates strong JavaScript/React and backend (Node.js, API, databases) experience and has relevant testing and Agile background, aligning with several core requirements. However, the cover letter omits explicit TypeScript experience and does not name key frontend/tooling items listed in the JD (Styled Components/SASS, Jest/Cypress/TestCafe, ESLint/Prettier, Ramda). CI/CD, AWS/Terraform, and repo hosting/GitHub are referenced only vaguely or not at all, so several specific required skills are not clearly met.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development, but the resume and cover letter heavily emphasize Drupal, which is not the focus of the job description. While they mention JavaScript, HTML, CSS, and testing, the depth of experience with modern FE frameworks like React is unclear and needs further investigation. The candidate shows enthusiasm for learning, but the current skill set isn't a strong match for the requirements.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly matching the core tech stack (JS/TS/React, Git, testing, linters) and many desired tools. Their non-traditional background is framed as a strategic advantage, directly linking past skills to the role's needs. The score is not a 9 because while they mention security/compliance understanding, they do not explicitly cite the specific web security topics (OWASP, CSP, CORS, OAuth) listed in the job description.

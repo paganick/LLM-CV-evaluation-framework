@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management, cybersecurity, and program oversight, which is the wrong industry and skillset for a front-end engineering role. The resume and cover letter show no hands-on experience with the required technologies (React, TypeScript, modern CSS, testing frameworks) or modern web development practices. While they demonstrate strong leadership and security awareness, these are not sufficient to compensate for the complete lack of relevant technical proficiency.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: There is a fundamental misalignment between the candidate’s 20-year career as a Senior Director of Product Management and the requirements of this hands-on software engineering role. While the letter mentions the correct keywords, the candidate's professional trajectory focuses on business strategy and leadership rather than the practical, daily implementation of clean code, test automation, and functional programming required by the job description.

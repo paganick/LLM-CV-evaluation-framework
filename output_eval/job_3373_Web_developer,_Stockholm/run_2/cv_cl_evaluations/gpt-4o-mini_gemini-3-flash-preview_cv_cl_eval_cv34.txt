@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in web technologies, particularly HTML and CSS, and has a strong background in digital marketing, but lacks direct experience with core technologies listed in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate strong project management and collaboration skills, they do not fully meet the technical requirements and specific tools requested by the employer.

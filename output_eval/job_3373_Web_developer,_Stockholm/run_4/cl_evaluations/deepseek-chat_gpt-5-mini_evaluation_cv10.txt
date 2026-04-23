@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in web development, Agile, Git, and testing, aligning well with core requirements. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, modern React, specific testing frameworks (Jest, Cypress), and security concepts. The experience with AngularJS and Java is valuable but not a direct match for the React-focused role and modern toolchain specified.

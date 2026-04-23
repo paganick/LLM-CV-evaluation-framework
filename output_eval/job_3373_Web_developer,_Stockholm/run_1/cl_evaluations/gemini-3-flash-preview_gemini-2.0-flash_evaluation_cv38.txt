@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, including JavaScript, TypeScript, React, or testing frameworks. The experience highlighted is centered on digital media production and graphic design rather than software engineering or clean code practices. Consequently, the applicant lacks the fundamental development skills necessary to fulfill the responsibilities of a Front-End Developer.

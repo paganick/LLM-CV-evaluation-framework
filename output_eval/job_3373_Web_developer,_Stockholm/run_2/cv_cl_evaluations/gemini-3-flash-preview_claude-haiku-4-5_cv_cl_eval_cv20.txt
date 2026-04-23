@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with modern JavaScript frameworks like React and TypeScript, which are central requirements for this position. Their professional background is heavily centered on the .NET ecosystem and legacy libraries like jQuery, with no evidence of experience in modern CSS-in-JS, unit testing frameworks, or CI/CD pipelines. Furthermore, the candidate's work history is significantly dated, ending in 2016, and does not reflect current industry standards for frontend development.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is predominantly in graphic design with no demonstrated skills in the required technologies such as JavaScript, TypeScript, or modern front-end frameworks like React. Their resume lacks any mention of software development practices, testing automation, or web security knowledge, making them completely unqualified for the role.

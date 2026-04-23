@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a relevant educational background and experience in data analysis that aligns with the technical aspects of the position. They demonstrate proficiency in several required skills, including Python, SQL, and modern CSS tools, and they express a strong motivation to transition into a dedicated development role. However, there is limited direct experience mentioned with JavaScript, TypeScript, and the NodeJS ecosystem, which may raise concerns about their immediate fit for the role.

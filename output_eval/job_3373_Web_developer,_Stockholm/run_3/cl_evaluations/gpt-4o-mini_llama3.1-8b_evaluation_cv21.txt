@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in software development and a solid understanding of relevant technologies such as JavaScript, HTML5, and modern frameworks like React, which aligns well with the job requirements. However, they lack specific experience with TypeScript, modern CSS tools like Styled Components and SASS, and the NodeJS ecosystem mentioned in the job description. Additionally, there is no mention of understanding security on the Web or experience with CI/CD tools, which are also important for the position.

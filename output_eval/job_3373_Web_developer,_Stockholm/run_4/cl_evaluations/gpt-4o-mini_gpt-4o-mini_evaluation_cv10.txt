@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript frameworks, particularly with AngularJS, and expresses a desire to learn React, which is crucial for this role. They also possess skills in testing and automation, as well as familiarity with Git and the Node.js ecosystem. However, the cover letter lacks specific mentions of some requirements such as knowledge of modern CSS tools, CI/CD, and a thorough understanding of security practices on the web.

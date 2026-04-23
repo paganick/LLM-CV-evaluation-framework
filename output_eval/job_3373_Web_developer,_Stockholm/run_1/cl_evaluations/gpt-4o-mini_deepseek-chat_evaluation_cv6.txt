@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid foundation in full-stack development and possesses relevant experience in the required technologies, especially JavaScript, HTML, CSS, and Git. However, they lack explicit experience with some modern front-end frameworks and libraries beyond Drupal, as well as the testing frameworks and CI/CD tools mentioned in the job description. Their willingness to learn and adapt is a positive factor, but some specific skills are still missing for a stronger match.

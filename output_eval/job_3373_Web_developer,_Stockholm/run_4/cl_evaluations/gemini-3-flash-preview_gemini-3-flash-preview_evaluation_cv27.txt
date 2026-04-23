@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to explicitly mention proficiency in JavaScript or TypeScript, which are fundamental requirements for the position. While they demonstrate knowledge of styling tools and high-level concepts, there is no evidence of professional experience with testing frameworks or the functional programming paradigms requested. The background is heavily weighted toward media production and leadership rather than core software engineering, making them underqualified for this technical role.

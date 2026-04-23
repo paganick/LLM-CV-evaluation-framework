@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows extensive systems administration and IT infrastructure experience, which is not aligned with a modern front-end developer role. The cover letter claims relevant skills (React, Jest, Cypress, etc.) but these are not substantiated by the work history or listed skills in the resume. The candidate lacks demonstrable, hands-on experience with the core technologies and frameworks specified in the job description.

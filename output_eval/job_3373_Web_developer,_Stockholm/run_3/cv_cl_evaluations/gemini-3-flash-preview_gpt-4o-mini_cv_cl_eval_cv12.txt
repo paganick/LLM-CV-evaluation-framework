@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant general experience in software development, the resume lacks evidence of professional expertise in the primary required stack, specifically React and TypeScript. There is a notable discrepancy between the cover letter claims and the resume, which focuses on legacy PHP, C++, and Perl rather than modern frontend frameworks or testing suites. Additionally, core requirements such as CI/CD experience and cloud infrastructure (AWS/Terraform) are not substantiated by the professional work history.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical competencies required for the role, explicitly stating a need for training to master JavaScript, TypeScript, and React. There is no evidence of professional experience with the mandatory tech stack, testing frameworks, or CI/CD tools mentioned in the job description. While the candidate possesses strong communication skills and accessibility knowledge, they are currently unqualified for a technical frontend development position.

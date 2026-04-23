@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and basic HTML/CSS skills, which is tangentially related to front-end development. However, they lack hands-on experience with JavaScript, TypeScript, and modern frameworks like React. Additionally, their related experience in testing and deployment practices is insufficient, and there is no mention of collaboration in Agile environments or exposure to necessary tools such as Git, SASS, or CI/CD practices.

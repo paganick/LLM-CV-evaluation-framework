@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant software development experience but lacks specific, demonstrable experience with the core technologies listed in the job description, particularly React and modern front-end tooling. The resume and cover letter emphasize back-end and full-stack PHP work, with no concrete examples of professional React, TypeScript, or modern testing framework usage. While they express interest and foundational knowledge, they do not meet the specific "hands-on" and modern framework requirements for a strong fit.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate presents a relevant background in digital communications and demonstrates a desire to transition into a technical role. However, they lack direct experience with key frontend technologies such as JavaScript, TypeScript, and modern frameworks like React, as well as hands-on experience with testing frameworks and tools mentioned in the job description. While their collaborative skills and understanding of web security are noted, they do not fulfill the specific technical requirements of the role.

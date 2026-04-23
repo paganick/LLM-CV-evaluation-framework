@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has implementation experience but lacks hands-on experience with JavaScript and modern FE frameworks like React. While they express eagerness to learn, the cover letter highlights skills more aligned with implementation and documentation rather than core front-end engineering. The candidate mentions HTML, CSS, and SQL, but the depth of expertise in these areas is not sufficiently demonstrated for a front-end role.

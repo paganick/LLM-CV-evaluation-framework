@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express interest in the Front-End Engineer role. I hold an M.S. in Analytics (4.0) from the University of New Hampshire and bring over six years of professional experience as a researcher, data analyst, engineering and quality technician, and instructor. My background combines software and web technologies (HTML, ASP.NET, C#), strong data-engineering and testing experience (SQL, SAS, JMP, Python), and a discipline for producing clean, maintainable code and robust systems.
+
+In my role as an Engineering and Quality Technician I planned and executed production process development, managed small projects, and performed rigorous quality and data tests to identify defects introduced into data warehouses. I coordinated across scientists, engineers, analysts and managers to assess impact, prioritize fixes and support product shipping and customer satisfaction. I also applied database management and analysis methods that improved production efficiency and reduced departmental costs. These experiences taught me systematic testing practices, attention to edge cases and the importance of collaboration across teams to deliver quality software and data products.
+
+As a graduate student and instructor I designed curricula, led teams and mentored students, skills that translate directly to communicating complex technical concepts clearly and working effectively in cross-functional teams. My quantitative background includes predictive modeling, data visualization, machine learning and web scraping, which supports rapid troubleshooting, data-driven decision making and feature validation on front-end projects.
+
+During my master's projects I led mapping and clustering student success to identify retention drivers and completed a summer project mapping Chicago and Seattle crime with classifiers that reached 90% accuracy. I am currently contributing actively to a UNH hockey team project predicting player performance. I have led a team of four and managed 200 students as a lecturer, which strengthened my mentoring, stakeholder communication and documentation practices.
+
+While my hands-on experience has been strongest with Python, R, C#, SQL and web fundamentals such as HTML, I am enthusiastic and quick to adopt modern front-end technologies such as JavaScript/TypeScript, React, modern CSS tools and contemporary testing frameworks. I am especially motivated by code quality and testing automation, and I am confident I can apply my extensive testing and data discipline to build reliable user-facing applications.
+
+I would welcome the opportunity to bring my analytical rigor, testing mindset and collaborative approach to your team and to quickly ramp up on your stack. Thank you for considering my application.
+
+Sincerely, Alexis

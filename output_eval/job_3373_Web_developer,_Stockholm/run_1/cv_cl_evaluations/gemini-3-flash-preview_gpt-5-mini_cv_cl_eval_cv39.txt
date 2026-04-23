@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer and artist who lacks almost all the core technical requirements, including professional experience with React, TypeScript, and automated testing. While they have basic HTML knowledge, they are a career-changer seeking to learn the required stack rather than an established engineer capable of performing in a modern front-end environment. The profile represents a significant skill gap regarding the JavaScript ecosystem, functional programming, and cloud infrastructure specified in the job description.

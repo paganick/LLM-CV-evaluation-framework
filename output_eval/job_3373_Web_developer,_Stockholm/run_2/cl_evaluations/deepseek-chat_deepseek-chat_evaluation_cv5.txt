@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in a different technical domain (mainframe banking) and they lack proven, professional experience with the core frontend technologies listed, especially React. While they demonstrate strong foundational software principles and express eagerness to learn, they do not meet the specific, hands-on requirements for modern frameworks, testing libraries, or the listed toolchain. Their experience is adjacent but not directly applicable, placing them in the relevant industry but lacking specific skills category.

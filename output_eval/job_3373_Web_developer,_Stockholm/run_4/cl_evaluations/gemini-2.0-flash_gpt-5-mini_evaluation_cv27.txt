@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with JavaScript, TypeScript, React and testing frameworks, which are essential for the role. While the candidate highlights transferable skills, the cover letter emphasizes project management and media production experience over frontend development. The demonstrated skills do not align well with the technical requirements outlined in the job description.

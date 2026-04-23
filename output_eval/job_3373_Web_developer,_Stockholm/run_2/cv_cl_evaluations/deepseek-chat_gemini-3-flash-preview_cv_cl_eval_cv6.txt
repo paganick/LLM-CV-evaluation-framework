@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and foundational skills in JavaScript, HTML, and CSS. However, they lack direct, hands-on experience with the core requirements of React, TypeScript, and modern frontend testing frameworks (Jest, Cypress), which are explicitly stated as key technologies. Their professional background is heavily centered on Drupal and PHP, with only peripheral mentions of the required stack, making them a weak fit for this specific role.

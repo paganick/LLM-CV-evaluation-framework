@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not professional software development. While they claim self-taught proficiency in React, TypeScript, and testing, their resume provides zero evidence of professional experience, shipped projects, or team-based development in these core technologies. They lack demonstrated hands-on experience with the majority of the job's technical requirements (e.g., testing automation, modern FE frameworks, security, CI/CD, Node.js, AWS).

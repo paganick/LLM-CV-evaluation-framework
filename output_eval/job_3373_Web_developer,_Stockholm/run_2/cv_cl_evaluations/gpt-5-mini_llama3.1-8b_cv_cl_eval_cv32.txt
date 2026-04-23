@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in customer service, sales, and management with no demonstrable experience in JavaScript, TypeScript, React, front-end frameworks, testing, Git, Node.js, or any of the technical tools listed in the job description. While they describe strong soft skills and a willingness to learn, they do not meet the fundamental technical requirements for this role. This is a clear mismatch in industry and required skillset.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant foundational skills and a strong alignment with the company's values, such as clean code and security awareness. However, the cover letter lacks direct, professional experience with several key requirements from the job description, including TypeScript, testing frameworks, Git, modern CSS tools, and the specific tech stack (Node.js, CI/CD). The career transition narrative is compelling but results in a skills gap for the role's technical demands.

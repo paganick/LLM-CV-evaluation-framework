@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid HTML/CSS fundamentals, collaborative experience in Agile teams, and a clear willingness to learn, but fails to show demonstrated experience with core technical requirements—most notably JavaScript/TypeScript, React, testing/test automation, Git/Node ecosystem, and web security. These are central to the role, so despite good soft skills and motivation, the candidate lacks the specific hands-on skills needed for a strong hire.

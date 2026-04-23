@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates exceptional alignment with the technical requirements, specifically addressing the company's use of React, Ramda, and the migration from Ruby. They explicitly mention experience with the required testing frameworks (Jest, Cypress) and security protocols (OWASP, CORS), showing a high level of preparation. While their background is partially in media production, their mastery of the specific tech stack and "full domain" interest makes them a near-perfect match for the role.

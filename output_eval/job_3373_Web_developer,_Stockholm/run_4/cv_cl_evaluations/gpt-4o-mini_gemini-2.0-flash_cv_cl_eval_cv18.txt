@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong IT background with over 18 years of experience, but lacks specific recent experience with modern front-end frameworks since the job requires proficiency in React. They mention JavaScript, HTML, and CSS, but do not provide evidence of hands-on experience with testing frameworks or tools such as Jest, Cypress, or CI/CD tools mentioned in the job description. Overall, while they have relevant industry experience, they do not fully meet the required qualifications for the position.

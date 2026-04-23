@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant educational background and industry experience, but fails to demonstrate professional proficiency in the primary technical requirements, specifically React and TypeScript. Their admission of currently "mastering" the core stack indicates a lack of the hands-on experience required for a developer role in this environment. Additionally, the letter overlooks critical requested competencies such as Web security (OWASP/CORS), specific testing frameworks, and modern CSS implementation.

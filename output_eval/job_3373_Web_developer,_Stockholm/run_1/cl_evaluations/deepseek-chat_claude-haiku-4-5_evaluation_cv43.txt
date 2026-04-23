@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry but lacks specific, hands-on frontend development experience. While they mention foundational knowledge and a desire to learn, they provide no concrete evidence of practical skill with React, testing frameworks, or the other core technologies listed. Their strengths are in adjacent soft skills and project management, not in the required technical execution.

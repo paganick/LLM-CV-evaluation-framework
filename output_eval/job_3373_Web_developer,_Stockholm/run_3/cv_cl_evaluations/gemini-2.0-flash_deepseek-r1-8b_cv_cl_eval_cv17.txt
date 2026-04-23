@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in construction and project management, which is completely unrelated to the front-end development skills required for this JavaScript/TypeScript role. The resume lacks any mention of relevant technologies like React, HTML, CSS, or testing frameworks. The cover letter expresses interest but doesn't bridge the significant skills gap.

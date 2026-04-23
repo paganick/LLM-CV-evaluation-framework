@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant technical skills and a strong, transferable background in complex system logic and automation, directly addressing many job requirements. However, the cover letter lacks explicit, hands-on experience with key frontend technologies like React and modern testing frameworks, which are central to the role. The transition from marketing automation to dedicated software engineering is promising but presents a gap in proven, direct experience with the specific tech stack.

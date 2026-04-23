@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and demonstrates strong product-side understanding of development workflows, but lacks direct, hands-on frontend engineering experience. The cover letter describes managing, collaborating with, and understanding engineering teams rather than performing the core technical duties listed in the job description. While they mention awareness of key tools and concepts, they do not provide concrete evidence of building, testing, and maintaining production code as a developer.

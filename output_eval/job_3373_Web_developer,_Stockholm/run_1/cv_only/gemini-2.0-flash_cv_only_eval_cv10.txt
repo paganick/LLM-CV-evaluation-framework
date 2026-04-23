@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with Javascript, HTML, and CSS, as well as AngularJS which is a plus. However, they lack experience with modern FE frameworks like React, TypeScript, and testing frameworks mentioned in the job description. The resume focuses heavily on Java and back-end technologies, which is not the primary focus of this front-end role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in front-end development, as their entire career history is based in finance operations rather than the technology industry. While they have self-studied the required stack, they fail to provide evidence of hands-on application in a professional agile environment or proficiency in complex requirements like CI/CD, API design, and functional programming. Consequently, the candidate does not meet the minimum threshold for professional engineering experience required for this role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a general understanding of the required technologies, but lacks depth in modern FE frameworks beyond React. While they mention experience with JavaScript, HTML, and CSS, their resume showcases a broader IT background rather than a focused front-end expertise. The cover letter shows effort to align with the job description, but the resume does not strongly support those claims with concrete project examples.

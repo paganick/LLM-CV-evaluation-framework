@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, which is not the focus of the front-end developer role. While they possess some familiarity with HTML and CSS, the resume lacks substantial experience with JavaScript, modern front-end frameworks (React, VueJS, Angular, Svelte), testing, and other crucial technologies mentioned in the job description. The cover letter acknowledges a desire to transition, indicating a significant skills gap.

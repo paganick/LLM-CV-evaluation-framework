@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills (JavaScript, TypeScript, React, testing tools, NodeJS ecosystem) that align with the job description. However, the cover letter is unfocused, heavily emphasizing backend/database experience (SQL, SAP, ERP) and a media planning background, which are not the core requirements for this frontend-focused role. Key listed requirements like modern CSS tools, security knowledge, AWS/Terraform understanding, and Agile collaboration are not addressed.

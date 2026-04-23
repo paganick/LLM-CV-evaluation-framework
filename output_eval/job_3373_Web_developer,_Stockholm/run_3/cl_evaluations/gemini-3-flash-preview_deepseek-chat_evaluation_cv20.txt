@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the required modern tech stack, specifically React and TypeScript, having worked primarily in a legacy .NET/jQuery environment. While they possess foundational web knowledge and Agile experience, they do not meet the mandatory requirement for hands-on experience with testing frameworks or specialized security protocols. Their profile suggests a significant learning curve for a role requiring immediate proficiency in modern front-end paradigms and functional programming.

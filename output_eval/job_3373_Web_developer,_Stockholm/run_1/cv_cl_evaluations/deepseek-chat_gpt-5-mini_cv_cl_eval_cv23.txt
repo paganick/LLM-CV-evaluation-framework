@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware validation and electronics, not modern front-end software development. They lack direct experience with React, TypeScript, modern CSS tooling, testing frameworks, and the Node.js ecosystem as required. While they have transferable skills like testing discipline and a willingness to learn, they do not meet the specific technical qualifications for the role.

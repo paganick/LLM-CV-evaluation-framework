@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Frontend Developer position, which I believe aligns perfectly with my technical aspirations and my foundational expertise in data-driven problem-solving. While my professional title has been Data Analyst, my career has been built on a core engineering discipline—transforming complex requirements into efficient, reliable systems—a mindset I am eager to apply to modern web development.
+
+My graduate studies and professional work in Industrial and Systems Engineering have ingrained in me a rigorous, analytical approach to building solutions. I am proficient in JavaScript, TypeScript, HTML, and CSS, and I have a strong desire to deepen my specialization within the React ecosystem as utilized by your team. My extensive background in Python (including Pandas and Scikit-learn) for statistical modeling and data pipelines provides a solid foundation for understanding functional programming paradigms and the Node.js ecosystem. I am keen to apply this logical precision to writing truly clean, maintainable code and to contributing to your API design and testing strategies.
+
+My experience is defined by creating robust, validated models. I have built and deployed classification models using algorithms like Random Forests and logistic regression, a process that demands meticulous attention to detail, comprehensive testing, and validation—principles that translate directly to developing and testing reliable software. I am hands-on with Git for version control and am experienced in Agile environments, having collaborated cross-functionally to deliver data insights that drive business decisions. I am confident in my ability to collaborate effectively with other teams and external partners, with a keen interest in understanding the full domain.
+
+Furthermore, my Six Sigma certification underscores my commitment to process improvement and quality control, which aligns with leveraging linters, formatters, and CI/CD tools to ensure code quality and streamlined deployments. I am passionate about keeping up-to-date with the latest technologies and am excited by the prospect of contributing to a stack that includes modern CSS tools, comprehensive testing frameworks like Jest and Cypress, and cloud infrastructure.
+
+I am eager to transition my analytical rigor and problem-solving skills from data modeling to frontend engineering. I am confident that my unique perspective, combined with a dedicated focus on mastering your technical stack, would make me a valuable asset to your team. Thank you for considering my application.
+
+Sincerely, Alexis

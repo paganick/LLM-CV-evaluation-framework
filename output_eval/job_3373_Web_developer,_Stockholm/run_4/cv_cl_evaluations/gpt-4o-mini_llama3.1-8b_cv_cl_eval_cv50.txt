@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and business development but lacks direct experience with key technologies outlined in the job description, such as JavaScript, TypeScript, modern frontend frameworks, and testing automation. While they present a solid educational foundation in computer science and relevant management experience, there is insufficient evidence of hands-on involvement in software development or clean coding practices, resulting in a lower score.

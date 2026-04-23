@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in molecular genetics and microbiology, which is a completely different industry from modern front-end software development. While they list some software applications and mention a passion for clean code, they provide no demonstrable, hands-on experience with the core technologies required for the role, such as JavaScript, React, or any of the specific tools and frameworks listed in the job description. The cover letter effectively argues for adaptability but fails to substantiate any relevant technical proficiency.

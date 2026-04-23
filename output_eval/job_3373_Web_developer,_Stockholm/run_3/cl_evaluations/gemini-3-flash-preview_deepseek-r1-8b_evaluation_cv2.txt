@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive industry experience and understands core development workflows like Agile and Git, they lack professional experience in the primary tech stack of JavaScript, TypeScript, and React. Their background is heavily focused on Java/J2EE, and the letter fails to demonstrate practical application of web security, modern CSS tools, or functional programming as required by the role. The candidate relies on "transferable skills" rather than proven expertise in the specific frontend domain requested.

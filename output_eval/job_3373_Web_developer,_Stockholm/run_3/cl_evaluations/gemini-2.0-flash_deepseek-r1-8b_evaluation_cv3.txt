@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is not a direct match, relying heavily on academic projects and a career shift from construction. While they express interest in React and possess Git knowledge, they lack demonstrable professional experience with modern FE frameworks, testing methodologies, and other technologies outlined in the job description. Their stated understanding of web security is basic and overall, the cover letter reveals a gap between their current skillset and the job requirements.

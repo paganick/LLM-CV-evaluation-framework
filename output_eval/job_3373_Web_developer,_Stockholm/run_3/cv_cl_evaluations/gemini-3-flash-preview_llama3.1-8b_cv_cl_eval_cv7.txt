@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional background is entirely in graphic design and visual arts rather than software engineering. The resume fails to demonstrate any professional experience with the required tech stack, including React, TypeScript, testing frameworks, or CI/CD tools. While the cover letter mentions an interest in these technologies, the lack of technical projects or professional engineering experience makes them unqualified for this specific role.

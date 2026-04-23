@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant technical foundation and strong soft skills, but lacks direct, hands-on professional experience with the core technologies listed in the job description, specifically React, TypeScript, and modern frontend testing frameworks. Their experience is adjacent (marketing tech, QA processes) rather than directly applicable to frontend development. While they express eagerness to learn and have transferable skills, they do not meet the specific "hands-on experience" requirements for the role.

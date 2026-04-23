@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general web development experience (JavaScript, HTML, CSS, Git, Agile) but their resume documents primarily .NET, ASP.NET and jQuery work rather than modern front-end tech. Key requirements — React, TypeScript, modern testing frameworks, Node ecosystem, CSS-in-JS/SASS, CI/CD and cloud/Infra familiarity — are unproven and appear only as unsupported claims in the cover letter. Given the mismatch between claimed skills and documented experience, they are relevant to the industry but lack the specific experience needed for this role.

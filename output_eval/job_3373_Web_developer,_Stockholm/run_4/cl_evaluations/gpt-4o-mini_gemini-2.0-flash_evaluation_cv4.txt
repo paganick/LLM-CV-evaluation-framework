@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS but lacks specific skills in modern front-end frameworks, particularly React, which is explicitly mentioned in the job description. Additionally, there is no mention of experience with testing frameworks or tools such as Jest or Cypress. While the candidate demonstrates an understanding of the software development lifecycle and collaboration in Agile environments, the absence of key technologies limits their match to the role.

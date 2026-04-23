@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe development, which is not the focus of the job description. While they express willingness to learn modern web technologies, they lack concrete experience with JavaScript, React, and related tools. Their experience in testing, collaboration, and problem-solving is relevant, but the gap in front-end development skills is significant.

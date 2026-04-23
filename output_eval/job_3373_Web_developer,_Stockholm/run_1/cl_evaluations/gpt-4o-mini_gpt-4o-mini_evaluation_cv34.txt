@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in HTML, CSS, and a foundational understanding of web security, which aligns with the job description. However, they lack specific experience with JavaScript frameworks like React, TypeScript, testing frameworks, and CI/CD tools mentioned in the job description. Their project management experience is valuable but does not fully compensate for the missing technical skills, resulting in a score that indicates relevance but lacks sufficient depth in required areas.

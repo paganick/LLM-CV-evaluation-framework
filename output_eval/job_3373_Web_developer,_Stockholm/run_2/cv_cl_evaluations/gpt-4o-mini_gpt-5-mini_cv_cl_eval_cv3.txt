@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational skills in HTML, CSS, and JavaScript, but lacks practical experience with key requirements such as modern frameworks like React, testing frameworks, and knowledge of Git and CI/CD tools. While the transition from construction to web development shows initiative, the applicant needs more direct experience with the technologies outlined in the job description to be considered a strong fit.

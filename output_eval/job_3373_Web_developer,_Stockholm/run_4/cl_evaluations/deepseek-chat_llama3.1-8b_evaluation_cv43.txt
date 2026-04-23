@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter is for a Program Manager & Designer role, but the job description is for a highly technical front-end developer position requiring specific programming languages, frameworks, and tools. The candidate's experience in program management, facilitation, and learning design is irrelevant to the technical requirements listed. While they mention React and Git, the core competencies and professional background are a severe mismatch for the role.

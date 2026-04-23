@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with core requirements: 2+ years' commercial UX experience, Agile delivery, user research, mentoring, prototyping, and design system management. They explicitly cover roadmap ownership, cross-functional collaboration, and both low/high-fidelity prototyping. However, they do not mention Figma (listed as highly desirable) and only reference HTML/CSS without JavaScript exposure, so they fall short of a perfect match.

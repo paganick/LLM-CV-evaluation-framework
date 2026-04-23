@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in relevant skills such as problem-solving and collaboration, but lacks direct experience with the key technical requirements specified in the job description, particularly hands-on experience with modern frontend frameworks, testing frameworks, or familiarity with CI/CD tools and security principles. Their transition into frontend development is acknowledged, yet the absence of concrete experience keeps them from being a stronger candidate.

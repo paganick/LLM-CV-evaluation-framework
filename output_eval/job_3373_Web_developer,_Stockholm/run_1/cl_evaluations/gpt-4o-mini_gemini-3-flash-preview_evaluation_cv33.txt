@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience related to the role, including familiarity with essential technologies such as React, TypeScript, and modern frontend tools. Additionally, their extensive background in consulting and collaboration in Agile environments aligns with the job requirements. However, there is no explicit mention of experience with Git, API design, or a basic knowledge of AWS and Terraform, preventing a higher score.

@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates a near-perfect match to the job description, explicitly citing required technologies (JavaScript, TypeScript, React, SASS, Styled Components, Jest, Cypress, Node.js, Express.js, Ramda, CircleCI, AWS, Terraform, Git, Agile) and aligning with all soft skills. The cover letter is professionally written and directly connects their experience to the role's responsibilities. The only minor deduction is the lack of explicit mention of web security fundamentals (OWASP, CSP, CORS, OAuth), which is listed as a basic requirement.

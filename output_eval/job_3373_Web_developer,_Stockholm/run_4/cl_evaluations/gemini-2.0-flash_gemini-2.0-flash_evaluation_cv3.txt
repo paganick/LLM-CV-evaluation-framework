@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a degree in a related field and some relevant skills like HTML, CSS, and JavaScript. However, they lack experience with React and modern FE frameworks, which are core requirements. The cover letter highlights a non-traditional background, which could be a positive, but doesn't fully compensate for the lack of specific technical expertise outlined in the job description.

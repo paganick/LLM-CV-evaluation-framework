@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With my Computer Engineering Technology degree and extensive experience in systems engineering and technical support, I am excited to transition into frontend development and contribute to your React-focused team.
+
+Throughout my career, I have developed a solid foundation in problem-solving, debugging, and technical analysis that directly translates to frontend development. My experience diagnosing complex system issues and implementing effective solutions has honed my analytical mindset and attention to detail—qualities essential for writing clean, maintainable code. I understand the importance of thorough testing and quality assurance, having coordinated low-level system testing and validation across multiple platforms.
+
+What particularly excites me about this opportunity is the chance to deepen my technical expertise in modern frontend technologies. My background in web applications development and familiarity with various technical environments have prepared me well to quickly master JavaScript, TypeScript, HTML, and CSS. I am genuinely passionate about staying current with industry best practices and emerging technologies, as demonstrated by my consistent pursuit of professional certifications and training throughout my career.
+
+I am a committed team player with proven ability to collaborate effectively across departments and communicate complex technical concepts clearly. My experience training team members and coordinating with technical partners reflects my comfort working in collaborative environments. I am particularly drawn to your emphasis on clean code and cross-functional understanding, as I believe comprehensive knowledge of interconnected systems drives better technical solutions.
+
+While my background is primarily in systems engineering rather than frontend-specific frameworks, I bring strong fundamentals in debugging, documentation, and technical implementation that will accelerate my learning curve. My CompTIA Security+ certification demonstrates my commitment to understanding web security principles like OWASP and CORS, which are fundamental to modern development.
+
+I am eager to leverage my analytical skills, passion for technical excellence, and collaborative mindset to grow as a frontend developer with your organization. Thank you for considering my application.
+
+Sincerely, Alexis

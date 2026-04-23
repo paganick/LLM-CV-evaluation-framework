@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks demonstrated hands-on experience with core technical requirements (JavaScript/TypeScript, React, testing frameworks, NodeJS, Git, CI/CD), which are central to this role. They have relevant transferable strengths—HTML/web design, strong documentation, QA/testing mindset, and cross‑functional collaboration—that suggest they could ramp up. However, without concrete technical projects or tooling experience, they are not an immediate fit for this position.

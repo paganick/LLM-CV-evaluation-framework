@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong background in frontend technologies such as JavaScript, TypeScript, HTML, and CSS, along with relevant experience in React and modern CSS tools like Styled Components and SASS. They show an understanding of testing frameworks and version control, aligning well with the job description. However, the candidate lacks specific experience with NodeJS, CI/CD tools, and detailed knowledge of web security, which are important for the role.

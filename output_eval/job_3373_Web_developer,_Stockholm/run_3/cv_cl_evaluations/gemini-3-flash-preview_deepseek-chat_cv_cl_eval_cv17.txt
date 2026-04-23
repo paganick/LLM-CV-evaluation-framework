@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional history is entirely within civil engineering and construction management, which is the wrong industry for this technical role. While the cover letter mentions a career pivot, the resume provides zero evidence of professional experience, a relevant degree, or a portfolio in software development. Consequently, the applicant fails to meet the fundamental requirement for hands-on experience in the specified JavaScript ecosystem.

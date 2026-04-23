@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience in web development and does not possess any of the required proficiency in React, TypeScript, or modern testing frameworks. Their technical profile is significantly outdated, highlighting obsolete technologies like Flash and ActionScript, and they admit to having no hands-on experience with the modern CI/CD or Node.js ecosystems required. This is an entry-level applicant whose skills do not align with the modern front-end stack specified in the job description.

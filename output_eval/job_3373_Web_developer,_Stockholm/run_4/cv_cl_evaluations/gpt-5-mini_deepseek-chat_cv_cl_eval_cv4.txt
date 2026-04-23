@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML/CSS, Node.js, API integration) and demonstrates cross-functional collaboration, but their resume lacks concrete, demonstrated experience with React and TypeScript, and provides little evidence of test automation (Jest/Cypress/TestCafe) or modern CSS tooling. Key items from the job (React + TypeScript, testing frameworks, CI/CD and cloud/infra familiarity) are missing or only claimed in the cover letter without resume substantiation, so they are not a strong fit for this role.

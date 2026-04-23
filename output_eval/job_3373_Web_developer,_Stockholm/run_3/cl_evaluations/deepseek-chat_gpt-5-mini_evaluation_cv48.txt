@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT infrastructure and support, not front-end development, which is a significant mismatch for the core role. While they demonstrate strong soft skills and a willingness to learn, they lack any proven, hands-on experience with the required technologies (React, TypeScript, modern testing frameworks, Git). Their experience with web CMS and digital tools is not a substitute for professional front-end engineering skills.

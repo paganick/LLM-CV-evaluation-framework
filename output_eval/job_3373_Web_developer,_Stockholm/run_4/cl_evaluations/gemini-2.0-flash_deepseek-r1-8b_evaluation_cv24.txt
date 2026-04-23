@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses heavily on communication and technical writing, which are tangential to the core requirements of the job description. While the candidate expresses interest in learning new technologies, the letter lacks specific examples or demonstrable skills related to JavaScript, React, testing frameworks, or other front-end development tools mentioned in the job posting. The skill set does not align with the technical requirements.

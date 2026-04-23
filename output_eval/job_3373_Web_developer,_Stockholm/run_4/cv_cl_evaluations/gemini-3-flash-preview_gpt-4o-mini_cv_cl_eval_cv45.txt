@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has an extensive background in IT management and cybersecurity, the resume lacks any professional experience or evidence of technical proficiency in JavaScript, React, or modern frontend development. The skills claimed in the cover letter are unsubstantiated by the work history, which is focused on network operations and military leadership rather than software engineering. As a result, the candidate does not meet the core technical requirements for this developer position.

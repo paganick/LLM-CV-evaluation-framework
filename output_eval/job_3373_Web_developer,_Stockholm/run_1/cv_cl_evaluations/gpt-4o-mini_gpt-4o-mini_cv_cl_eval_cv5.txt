@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in software development but primarily focuses on mainframe technologies rather than modern front-end frameworks and tools required for this position. While they have expressed an interest in React and testing frameworks, their experience with JavaScript, TypeScript, and modern CSS tools is minimal. They demonstrate some relevant skills, but the overall fit for a front-end development role is lacking.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in a relevant industry but lacks the specific technical skills and hands-on experience required for the frontend engineer position, particularly with core technologies like JavaScript, TypeScript, and modern frameworks such as React. While they exhibit a strong understanding of technical ecosystems and some foundational knowledge in relevant areas, their background is primarily in business development rather than development roles, limiting their suitability for this position.

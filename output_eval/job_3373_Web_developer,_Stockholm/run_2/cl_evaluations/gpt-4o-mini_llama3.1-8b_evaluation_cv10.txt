@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in back-end programming and has a solid understanding of front-end technologies like JavaScript, HTML, CSS, and AngularJS. However, they lack experience with React, which is specifically mentioned in the job description, and do not demonstrate familiarity with TypeScript or the NodeJS ecosystem. While the candidate shows alignment with Agile methodologies and a passion for clean code, the absence of required skills limits their suitability for the role.

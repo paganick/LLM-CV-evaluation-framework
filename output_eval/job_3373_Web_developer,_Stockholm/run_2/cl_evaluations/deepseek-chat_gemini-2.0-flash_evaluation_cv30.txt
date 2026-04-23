@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analysis and quality engineering, not front-end development, which is a significant mismatch for the core role. While they express eagerness to learn React and have some tangential web experience, they demonstrably lack the required hands-on experience with JavaScript, TypeScript, modern frameworks, testing, and the specific tools listed in the job description. Their analytical and collaborative skills are relevant, but the absence of core technical qualifications makes them unsuitable for the position as advertised.

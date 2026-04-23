@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core required technologies, specifically React and TypeScript, explicitly stating they would need to "master" these on the job. While they possess fundamental web development knowledge and Agile experience, their background focuses on legacy libraries like jQuery and Bootstrap rather than the modern frontend ecosystem requested. Additionally, the letter fails to mention specific testing frameworks, modern CSS tools, or CI/CD experience, making them a high-risk hire requiring significant training.

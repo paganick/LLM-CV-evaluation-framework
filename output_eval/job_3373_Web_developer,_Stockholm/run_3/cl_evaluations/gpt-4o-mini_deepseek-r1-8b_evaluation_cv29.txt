@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in business development within the cloud software industry, they lack the specific technical skills and hands-on experience with JavaScript, modern frontend frameworks, testing frameworks, and CI/CD tools outlined in the job description. Their qualifications do not align closely with the technical requirements for the position, indicating relevant industry experience but insufficient specific skills for the role.

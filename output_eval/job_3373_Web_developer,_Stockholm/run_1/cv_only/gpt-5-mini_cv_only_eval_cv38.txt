@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in film and media production with no demonstrated experience in JavaScript, TypeScript, React (or other modern front-end frameworks), testing frameworks, Node/npm, Git, or cloud/DevOps technologies required for this role. Their listed skills focus on video production, editing, design and social media rather than software development or web security practices. This profile is a mismatch for the technical requirements and responsibilities of the position.

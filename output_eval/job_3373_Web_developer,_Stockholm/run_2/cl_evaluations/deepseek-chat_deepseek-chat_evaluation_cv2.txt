@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong transferable skills in Agile collaboration, testing, and code quality. However, they lack proven, hands-on professional experience with the core frontend technologies (React, modern CSS tools, Jest) listed in the job description, presenting as a backend developer transitioning to frontend. Their knowledge in key required areas like web security, Node.js, and specific testing frameworks is stated as aspirational or foundational rather than demonstrated.

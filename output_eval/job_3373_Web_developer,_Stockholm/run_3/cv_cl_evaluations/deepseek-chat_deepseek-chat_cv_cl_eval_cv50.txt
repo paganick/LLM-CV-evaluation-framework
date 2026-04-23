@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace business development, program management, and quality engineering, which is a completely different industry from modern front-end development. While they have a Computer Science degree from 1984 and mention self-study, their resume and cover letter lack any concrete, recent experience with the required technologies (React, TypeScript, modern testing frameworks) or evidence of hands-on development work. The core job requirements are not fulfilled.

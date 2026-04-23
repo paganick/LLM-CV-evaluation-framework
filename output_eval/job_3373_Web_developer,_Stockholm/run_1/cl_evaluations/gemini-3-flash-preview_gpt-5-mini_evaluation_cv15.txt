@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid foundation in core web technologies and general IT infrastructure, they lack practical experience with the primary requirements, specifically React, TypeScript, and modern testing frameworks. They explicitly admit that their experience predates modern front-end conventions and that they have yet to adopt the CI/CD and CSS tooling requested in the job description. As a result, they do not meet the technical proficiency standards required for this specific role despite their relevant industry background.

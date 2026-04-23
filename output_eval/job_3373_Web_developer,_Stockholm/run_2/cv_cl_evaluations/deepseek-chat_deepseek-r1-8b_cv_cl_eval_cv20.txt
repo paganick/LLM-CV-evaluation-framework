@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and Agile exposure, but critically lacks hands-on experience with the specified modern front-end stack, particularly React and other required frameworks. The resume and cover letter show no direct experience with TypeScript, modern CSS tools, testing frameworks like Jest/Cypress, or the Node.js ecosystem, which are core requirements. While the candidate demonstrates foundational web skills and a willingness to learn, the specific technical gaps are too significant for the role as described.

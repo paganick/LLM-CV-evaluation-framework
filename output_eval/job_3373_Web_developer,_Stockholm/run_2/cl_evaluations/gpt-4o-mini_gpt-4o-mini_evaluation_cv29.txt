@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in a related field and shows familiarity with key technologies like JavaScript and React. However, their strong background in business development, while valuable, does not fully align with the required technical skills, particularly in modern CSS tools and specific testing frameworks mentioned in the job description. They also lack demonstrated hands-on experience in front-end development roles, which is crucial for this position.

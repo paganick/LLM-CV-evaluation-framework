@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Full-Stack developer whose professional experience is heavily focused on backend Spring modules and test automation rather than modern front-end architecture. While they list React and SASS, they lack documented experience with TypeScript, functional programming (Ramda), and specific web security protocols (OWASP, CSP) required by the role. Furthermore, their most recent professional experience dates back to 2017, suggesting a potential gap in hands-on experience with the current front-end ecosystem.

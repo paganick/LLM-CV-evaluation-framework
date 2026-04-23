@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core required technologies, specifically React and TypeScript, which are central to the role. Their background is heavily focused on PHP and legacy architectures, providing no verifiable evidence of expertise in modern frontend testing frameworks, functional programming, or cloud infrastructure tools like AWS and Terraform.

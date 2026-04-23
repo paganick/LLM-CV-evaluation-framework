@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong product and technical design experience and customer-centric collaboration, but provides no evidence of UI/UX-specific work, missing required deliverables such as wireframes/prototypes, sitemaps, or a portfolio. Key tooling called out in the job (Wireframe.cc, InVision) and explicit UX research or digital interface experience are absent. Given the gap in core UI/UX experience and artifacts, this is not a strong match.

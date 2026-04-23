@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is a management-level professional whose recent career has centered on IT strategy and program oversight rather than hands-on frontend development. While the letter mentions the required tech stack and security protocols, the applicant’s experience as a Branch Chief suggests a lack of recent, day-to-day coding in a production environment. This profile indicates a significant pivot from leadership to an individual contributor role without providing concrete evidence of recent frontend-specific implementation.

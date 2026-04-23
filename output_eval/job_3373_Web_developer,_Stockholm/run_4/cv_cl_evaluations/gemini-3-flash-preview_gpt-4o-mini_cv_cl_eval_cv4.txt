@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is an experienced developer, their professional background is heavily centered on C#, .NET, and Data Science rather than the modern React and TypeScript ecosystem specified in the requirements. The resume fails to demonstrate professional experience with React, TypeScript, or modern front-end testing frameworks like Jest or Cypress, which are core to the role. Furthermore, there is no evidence of experience with CI/CD tools, AWS, or the specific modern CSS utilities requested.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development but lacks direct experience in front-end development and the specific technologies required for the position, such as React, TypeScript, and modern testing frameworks. While there are foundational skills in HTML, CSS, and JavaScript mentioned, the absence of hands-on experience with the specified tools and frameworks, particularly related to the role, indicates significant gaps in qualifications.

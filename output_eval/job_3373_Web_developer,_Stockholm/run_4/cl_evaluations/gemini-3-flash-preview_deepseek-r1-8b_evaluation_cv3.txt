@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks mandatory hands-on experience with the core tech stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. While the IT degree provides a baseline, their project experience relies on outdated technologies and fails to demonstrate proficiency in modern CSS tools, Node.js, or CI/CD pipelines. As a career changer with only academic projects, they do not currently meet the specific technical requirements for this professional-level role.

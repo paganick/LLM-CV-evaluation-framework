@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with front-end technologies such as HTML5, CSS3, and JavaScript, but lacks experience with the specific modern frameworks mentioned in the job description, particularly React. While they have experience in Agile methodologies and some testing, their background primarily focuses on ASP.Net and related technologies, which may not be directly transferable to the requirements of the role. Overall, they show promise but lack key experience needed for a stronger fit.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Systems Administrator and IT infrastructure specialist whose experience is entirely unrelated to modern front-end software engineering. The resume shows no evidence of proficiency in JavaScript, TypeScript, React, or modern web development tools, focusing instead on hardware troubleshooting and network management. Additionally, the candidate's professional experience is dated and lacks the required expertise in API design, CI/CD, and cloud-native development.

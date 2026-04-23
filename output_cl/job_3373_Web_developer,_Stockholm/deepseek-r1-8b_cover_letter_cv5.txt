@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the [Job Title] position advertised [Mention where you saw the job posting, e.g., on LinkedIn]. Based on the requirements outlined, I believe my background in complex system development and technical leadership, combined with my aptitude for learning and adapting to new technologies, aligns well with the needs of this role.
+
+My extensive experience working on large-scale, mission-critical applications within the banking domain at companies like HSBC and IBM has provided me with a deep understanding of system architecture, rigorous development processes, and the importance of clean, maintainable code – principles I now seek to apply to modern web technologies. While my primary background is in mainframe development using COBOL, CICS, and DB2, I am proficient in learning new languages and frameworks quickly. The job description emphasizes JavaScript, TypeScript, HTML, CSS, and React – areas I am keen to master. My history includes taking on the responsibility of managing teams and coordinating releases, ensuring timely delivery and flawless execution in demanding environments. I am adept at understanding complex domains and collaborating effectively within Agile frameworks, skills I honed managing a team of developers during my tenure at HSBC.
+
+Furthermore, my experience encompasses database administration, performance tuning, and extensive testing practices (including unit, integration, and performance testing) within the mainframe environment. I am familiar with development tools, configuration management systems, and the importance of automation, concepts that are transferable to modern development pipelines involving Git, testing frameworks, linters, and CI/CD tools. Although my core expertise lies in mainframe systems, I am confident in my ability to quickly acquire the necessary skills in modern JavaScript frameworks, testing automation, and web security principles (like OWASP, CSP, and OAuth) to contribute effectively to your team.
+
+I am highly motivated by the prospect of applying my technical problem-solving abilities and collaborative approach to developing cutting-edge web applications. My passion for writing clean code and understanding the full domain aligns perfectly with the requirements stated.
+
+Thank you for considering my application. I am eager to learn more about this opportunity and discuss how my technical background and leadership experience can benefit your team.
+
+Sincerely,
+Alexis

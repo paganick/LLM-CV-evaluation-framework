@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT management, security, and government work, not frontend development. While the cover letter attempts to bridge the gap, there's a lack of demonstrable hands-on experience with the specific technologies (React, TypeScript, modern CSS tools) mentioned in the job description. The resume focuses on INFOSEC/NETOPS and leadership roles, making it difficult to assess frontend skills.

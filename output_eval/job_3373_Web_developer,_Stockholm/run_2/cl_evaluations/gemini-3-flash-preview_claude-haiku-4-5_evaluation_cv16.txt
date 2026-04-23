@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the primary requirements of React and TypeScript, relying instead on legacy technologies like jQuery and ASP.NET. While they possess foundational knowledge of web security and Agile methodologies, they fail to demonstrate hands-on proficiency with required testing frameworks (Jest/Cypress) or the modern CSS ecosystem. Consequently, they require significant upskilling to meet the technical demands of this specific frontend role.

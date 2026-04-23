@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in computer science and project management; however, they lack direct experience with the core frontend technologies and frameworks specified in the job description, such as React and modern CSS tools. While they demonstrate a strong willingness to learn and adapt, their current skillset does not align closely enough with the specific demands of the position.

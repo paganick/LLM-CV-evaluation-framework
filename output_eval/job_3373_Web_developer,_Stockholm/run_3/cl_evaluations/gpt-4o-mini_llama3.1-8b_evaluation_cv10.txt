@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in back-end programming and has some front-end skills, but lacks specific experience with React, which is critical for the role. While they demonstrate proficiency in testing frameworks and CI/CD tools, they do not mention experience with TypeScript or a comprehensive understanding of web security, which are essential components of the job description.

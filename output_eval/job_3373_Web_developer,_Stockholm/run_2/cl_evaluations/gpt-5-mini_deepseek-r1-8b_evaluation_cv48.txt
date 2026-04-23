@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT and systems experience, strong troubleshooting, Git familiarity, and a learning mindset, but lacks demonstrable hands-on experience with core job requirements such as JavaScript/TypeScript, React, modern front-end tooling, testing frameworks, Node/npm, CI/CD, and advanced CSS tooling. The role requires immediate, practical expertise in the JS ecosystem and automated testing which the cover letter does not evidence. Significant upskilling would be required before the candidate could effectively fulfill the position.

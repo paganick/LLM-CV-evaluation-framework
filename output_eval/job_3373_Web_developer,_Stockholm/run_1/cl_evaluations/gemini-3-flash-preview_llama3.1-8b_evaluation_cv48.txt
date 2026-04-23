@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware maintenance, IT support, and legacy systems like Windows Server 2003, which does not align with the software engineering focus of the role. Although they mention modern web tools, their actual professional experience lacks any evidence of JavaScript, TypeScript, or React proficiency. This profile represents a fundamental mismatch between an infrastructure specialist and a frontend developer requirement.

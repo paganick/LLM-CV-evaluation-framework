@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in design, with some exposure to HTML and CSS. They lack experience with modern FE frameworks (React, VueJS, Angular, Svelte), testing, and other critical skills mentioned in the job description. While they express interest in learning, the current skill set does not align with the requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong experience in mainframe programming and database administration but lacks specific expertise in modern front-end technologies such as JavaScript frameworks (React, VueJS, etc.), testing frameworks, and other requirements stated in the job description. While they have relevant experience in the general tech industry, they do not align with the specific skills needed for this position.

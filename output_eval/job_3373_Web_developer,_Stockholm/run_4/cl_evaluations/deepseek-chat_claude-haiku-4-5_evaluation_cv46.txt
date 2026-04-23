@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in the correct industry but lacks direct, hands-on experience with the specific technologies listed as core requirements, most notably React, TypeScript, and modern testing frameworks. While they express eagerness to learn, the letter does not demonstrate proven, practical application of the key technologies from the job description. Their experience is adjacent and foundational, but not a direct match for the required frontend development stack.

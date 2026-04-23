@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant overall industry experience, they are primarily a back-end Java developer lacking professional proficiency in the core requirements of React and TypeScript. Their front-end experience is limited to legacy libraries like jQuery and Bootstrap, which does not align with the modern stack or testing frameworks specified in the job description. The candidate expresses an interest in learning the required technologies rather than demonstrating the immediate technical mastery expected for this role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience with JavaScript, HTML, and CSS, and mentions familiarity with React, which is a key requirement. However, there is no explicit mention of TypeScript or specific modern CSS tools, which are also important for the role. While the candidate demonstrates a good grasp of testing and collaboration, the breadth of technologies and frameworks in the job description is not fully matched.

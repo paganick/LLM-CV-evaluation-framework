@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, not professional front-end development. The resume and cover letter show no practical experience with the core requirements: JavaScript, TypeScript, React, testing frameworks, Git, or web security concepts. The cover letter inappropriately claims familiarity with advanced tools (e.g., Styled Components, Jest, Node.js) that are not supported by the resume's content, indicating a significant mismatch.

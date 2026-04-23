@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional web development experience and fails to address mandatory requirements such as TypeScript, Git, and hands-on testing automation. While they possess a relevant degree and foundational React knowledge, they are transitioning from an unrelated industry and do not demonstrate the technical proficiency required for this position. Their interest in modern tools is noted, but they fail to show the required hands-on expertise with CI/CD, API design, or the Node.js ecosystem.

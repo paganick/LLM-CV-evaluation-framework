@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and visual communication but lacks hands-on experience with core frontend technologies such as JavaScript, React, and associated testing frameworks. Although they showcase a proficient understanding of design principles and express enthusiasm for learning, they do not meet several key technical requirements outlined in the job description, namely their lack of experience with Git, CI/CD tools, or a deeper understanding of security on the web.

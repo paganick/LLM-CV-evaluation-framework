@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic web fundamentals (HTML, CSS, JavaScript) and broad IT experience, but there is no evidence of modern frontend framework experience (React/TypeScript), current toolchains (Node, npm/Yarn, Git/GitHub), automated testing, or CI/CD and cloud experience required by the role. Most experience appears dated and lacks concrete examples of the specific technologies and practices listed in the job description. As a result, the candidate is relevant to the industry but does not meet the role's essential skillset.

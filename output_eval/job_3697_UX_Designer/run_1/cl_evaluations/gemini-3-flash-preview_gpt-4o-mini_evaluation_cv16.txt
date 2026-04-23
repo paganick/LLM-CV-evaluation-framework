@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has seven years of design and engineering experience, their background is specifically in CAD rather than UI/UX design for digital products. They demonstrate a significant lack of domain knowledge by incorrectly identifying engineering and GIS software (AutoCAD and ESRI) as UI wireframing tools. Furthermore, the application fails to provide evidence of experience with specific UI deliverables such as sitemaps, process flows, or web-based interface elements required by the job description.

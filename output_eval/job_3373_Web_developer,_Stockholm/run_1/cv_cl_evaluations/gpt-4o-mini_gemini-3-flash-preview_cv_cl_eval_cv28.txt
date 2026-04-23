@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in analytics and manufacturing processes but lacks direct experience with key frontend development technologies listed in the job description such as JavaScript, TypeScript, and modern FE frameworks like React. While they demonstrate an eagerness to transition into software development, their experience does not adequately align with the technical and collaborative skills needed for this role.

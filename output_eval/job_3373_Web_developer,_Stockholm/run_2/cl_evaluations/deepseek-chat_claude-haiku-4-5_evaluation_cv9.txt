@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and demonstrates strong foundational skills in testing, clean code, and Agile methodologies. However, the cover letter reveals a primary background in backend Java development, with limited direct, hands-on experience in the specific frontend technologies (React, TypeScript, modern CSS tools) and frameworks (Jest, Cypress) listed in the job description. The transition from backend to frontend is acknowledged but remains unproven for this specific role.

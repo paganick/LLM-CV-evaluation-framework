@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is applying for a "Corporate Project Manager" position, while the job description is exclusively for a highly technical Frontend Software Engineer. There is a fundamental misalignment between the candidate’s focus on business operations and the actual requirements of the role, such as functional programming, API design, and AWS infrastructure. The inclusion of a few technical keywords does not offset the lack of relevant professional experience in software development and the critical error in identifying the target position.

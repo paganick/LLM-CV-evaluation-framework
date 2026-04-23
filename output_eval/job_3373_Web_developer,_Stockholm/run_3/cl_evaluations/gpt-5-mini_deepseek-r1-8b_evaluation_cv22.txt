@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid backend/database and Java skills, plus basic HTML/CSS and Git knowledge, and fits Agile and collaboration expectations. However they lack core required front-end expertise (no demonstrated JavaScript/TypeScript or React experience), modern CSS tooling, Node/npm ecosystem familiarity, hands-on testing frameworks/automation, and CI/CD/AWS exposure. Given the role's emphasis on front-end, testing, and modern web tooling, this application would require substantial upskilling to meet the job requirements.

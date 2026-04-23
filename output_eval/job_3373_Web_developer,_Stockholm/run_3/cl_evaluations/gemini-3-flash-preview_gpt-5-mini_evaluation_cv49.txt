@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to meet any of the core technical requirements, explicitly stating they are only "motivated to acquire" the necessary skills like JavaScript, TypeScript, and React. Their professional experience is entirely rooted in data analysis and industrial engineering, which is the wrong functional domain for a Frontend Engineer position. While the candidate possesses strong general engineering fundamentals, they lack the hands-on experience with the specific web technologies and testing frameworks mandatory for this role.

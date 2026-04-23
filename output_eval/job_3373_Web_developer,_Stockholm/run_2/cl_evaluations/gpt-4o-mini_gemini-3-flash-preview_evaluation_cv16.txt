@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in web development and experience with relevant technologies such as JavaScript, HTML, CSS, and Git. However, they lack some specific experience with testing frameworks and CI/CD tools mentioned in the job description, which could be beneficial for the role. Overall, their enthusiasm and relevant skills make them a strong candidate, but there are areas for improvement to meet all requirements fully.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, project management, and a foundational understanding of some required technical areas. However, they lack explicit, hands-on experience with the core technologies listed in the job description, most notably React, TypeScript, and the specific modern tooling (e.g., testing frameworks, CI/CD, Node.js ecosystem). Their experience with Angular is noted but not current, and key required skills are implied rather than proven.

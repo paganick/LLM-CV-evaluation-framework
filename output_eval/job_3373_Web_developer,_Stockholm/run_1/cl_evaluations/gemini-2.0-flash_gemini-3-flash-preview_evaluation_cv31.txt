@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background as a Sales Director and experience with desktop publishing are not directly relevant to a Frontend Developer role. While they mention HTML and a desire to learn, the cover letter focuses more on leadership experience and certifications outside of frontend development. The candidate lacks demonstrable professional experience with key technologies like React and TypeScript, which are central to the job description.

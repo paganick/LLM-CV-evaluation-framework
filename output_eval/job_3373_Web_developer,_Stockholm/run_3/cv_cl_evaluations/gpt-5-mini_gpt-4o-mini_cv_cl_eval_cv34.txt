@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates HTML/CSS and related web-technology experience plus strong client-facing and documentation skills, which aligns with the general industry. However, the resume shows no JavaScript/TypeScript or modern front-end framework (React) experience, no testing/automation frameworks, and no NodeJS/CI/CD/AWS experience required for the role. Overall, they are in the relevant industry but lack the specific technical skills and tooling experience needed for this position.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Candidate demonstrates strong alignment with core technical requirements (JavaScript/TypeScript, React, modern CSS, Jest/Cypress, Node/Express, Ramda, CircleCI, AWS/Terraform) and Agile/collaboration expectations. They explicitly cite relevant tooling and experience with testing, API design, and deployment pipelines. Missing explicit mention of basic web security knowledge (OWASP/CSP/CORS/OAuth), linters/formatters, and repository hosting details, so not a perfect match.

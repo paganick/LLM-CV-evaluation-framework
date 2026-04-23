@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate highlights relevant technologies like React, HTML, CSS, and JavaScript, aligning with the job description. They demonstrate testing and documentation experience, fitting the requirements. While lacking specific TypeScript experience mentioned in the job description, their eagerness to learn and extensive experience compensate, making them a strong candidate.

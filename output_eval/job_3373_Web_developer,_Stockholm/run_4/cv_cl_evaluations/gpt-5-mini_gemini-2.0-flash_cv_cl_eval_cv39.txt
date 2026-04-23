@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has extensive graphic and web design experience with basic HTML and Adobe tool proficiency but shows no demonstrable experience in core front-end engineering technologies required by the role (JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, modern CSS tooling, CI/CD). This lack of essential technical skills means they are not fit for the Front-End Developer position without significant upskilling.

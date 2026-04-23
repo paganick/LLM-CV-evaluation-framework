@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a technical engineering role, as their entire 20-year professional history is in finance and operations management. The resume contains no professional experience with the required tech stack, and the cover letter confirms they are only currently beginning to learn the necessary skills. There is no evidence of hands-on experience with React, testing frameworks, or web security in a production environment.

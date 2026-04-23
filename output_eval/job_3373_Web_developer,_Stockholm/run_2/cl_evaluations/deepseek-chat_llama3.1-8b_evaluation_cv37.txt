@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in corporate IT project management, not front-end development. While they list some relevant technologies (React, Jest, Cypress), these are presented as secondary skills amidst generic project management accomplishments. The letter fails to demonstrate hands-on, recent experience with the specific technical stack, tools, and practices (e.g., modern CSS tools, Node.js, CI/CD, security basics) required for the role.

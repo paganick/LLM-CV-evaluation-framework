@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights .NET experience, which isn't the focus of the job description (React, JavaScript, TypeScript). While Agile experience and general development principles are mentioned, the cover letter lacks concrete examples of the specific FE technologies they use (React, testing frameworks, etc.). The cover letter focuses on back-end skills rather than demonstrating front-end proficiency as required.

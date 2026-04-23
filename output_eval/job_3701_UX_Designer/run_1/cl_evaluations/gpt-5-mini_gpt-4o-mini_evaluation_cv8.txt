@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate meets the minimum 2+ years of UX-related experience and has relevant skills in workshops, stakeholder engagement, and some mentoring, but the cover letter lacks demonstrated proficiency in Figma and exposure to HTML/CSS/JS which are highlighted as highly desirable/useful for this role. There is limited evidence of managing a UI Design System, leading a UX roadmap in an Agile software environment, or producing clear high-fidelity prototypes; overall relevant but missing several key technical and leadership requirements.

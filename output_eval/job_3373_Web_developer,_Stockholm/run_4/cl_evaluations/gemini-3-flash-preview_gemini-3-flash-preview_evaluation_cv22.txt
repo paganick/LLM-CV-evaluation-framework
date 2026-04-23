@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional experience with the core requirements of JavaScript, TypeScript, and React, stating they are only currently learning these technologies. They fail to demonstrate any hands-on experience with mandatory skills such as testing automation, Git, or web security protocols. While the candidate has a strong academic background and transferable soft skills, their technical profile is currently insufficient for a specialized Frontend Developer role.

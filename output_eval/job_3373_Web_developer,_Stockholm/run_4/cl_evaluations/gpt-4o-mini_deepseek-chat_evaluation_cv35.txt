@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in web-based platforms and front-end development principles, including relevant coding languages like HTML, CSS, and JavaScript. However, they lack direct experience with modern frameworks such as React and other specified tools like testing frameworks and CI/CD tools mentioned in the job description. While the candidate's collaborative skills and work in Agile environments are notable, the absence of key technical skills limits their overall fit for this position.

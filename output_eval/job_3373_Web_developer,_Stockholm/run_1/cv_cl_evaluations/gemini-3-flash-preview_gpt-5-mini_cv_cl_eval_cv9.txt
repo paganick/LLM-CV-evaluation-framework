@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java developer whose professional experience does not align with the core requirement for a modern React and TypeScript specialist. While they have strong software engineering fundamentals and testing experience, they lack hands-on proficiency with the modern frontend ecosystem, including modern CSS tools and specific JavaScript frameworks.

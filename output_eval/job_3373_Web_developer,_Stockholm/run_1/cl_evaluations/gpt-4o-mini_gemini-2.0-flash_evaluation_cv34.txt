@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML, CSS, and SQL but lacks proficiency in modern front-end technologies such as JavaScript frameworks like React, as well as hands-on experience with testing and automation tools. While they demonstrate an understanding of the Agile environment and collaboration, they do not address several specific requirements like familiarity with Git, security principles, and modern CSS tools.

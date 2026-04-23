@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern tech stack, specifically omitting any evidence of proficiency in JavaScript, TypeScript, React, or testing frameworks. While the candidate has a strong background in design and legacy web tools, they are currently in a learning phase rather than possessing the technical competency demanded by the role. The application fails to demonstrate necessary skills in Git, CI/CD, or web security principles.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in film and media production, which is a completely different industry from software engineering. The resume and cover letter show no direct experience with the required technologies like JavaScript, React, TypeScript, testing frameworks, or modern web development tools. While they express eagerness to learn, they currently lack any demonstrable, relevant technical skills for the front-end developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate possesses no practical experience or knowledge in the required technical stack, explicitly stating a lack of proficiency in JavaScript, TypeScript, HTML, and CSS. Their background is entirely rooted in marketing and public relations, which does not translate to the high-level front-end engineering competencies demanded by the job description. The application fails to meet even the most basic technical prerequisites for this role.

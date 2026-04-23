@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid UX/UI background, Agile experience, style-guide and prototyping experience (Axure, Sketch, Adobe) and relevant user research and workshop experience, but the resume lacks any explicit Figma experience (listed as highly desirable) and shows no clear modern front-end exposure to JavaScript. The work history appears dated with the most recent role ending in 2016, raising concerns about current toolset and recent hands-on practice. Overall relevant but missing key, current technical skills and recency required for a strong match.

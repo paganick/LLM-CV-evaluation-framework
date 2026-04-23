@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is rooted in microbiology and laboratory research, representing a complete misalignment with the required industry of software engineering. While the letter mentions a passion for clean code, it provides no evidence of professional experience with JavaScript, TypeScript, or React, instead listing administrative and laboratory software as proof of technical adaptability. The applicant fails to meet any of the core technical or architectural requirements necessary for this position.

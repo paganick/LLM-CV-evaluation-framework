@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, lacking the core technical skills in JavaScript, TypeScript, React, and related front-end technologies specified in the job description. While the cover letter expresses interest and foundational knowledge, the resume provides no evidence of practical experience in software development or relevant technical projects. The skills listed are mostly sales-related with a mention of HTML, which is insufficient for the role's requirements.

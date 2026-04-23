@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development professional with no professional experience in software engineering or modern front-end development. They lack the required expertise in JavaScript, TypeScript, React, and automated testing frameworks, listing only legacy or non-web-related skills like C, C++, and Dreamweaver. Their background is entirely mismatched for a technical engineering role, requiring complete training in the modern web ecosystem.

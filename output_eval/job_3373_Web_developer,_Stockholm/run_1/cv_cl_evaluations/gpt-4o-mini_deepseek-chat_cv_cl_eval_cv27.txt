@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience in web design and HTML, but lacks proficiency in key required technologies such as JavaScript frameworks (specifically React), TypeScript, and testing frameworks. Additionally, while the candidate demonstrates strong collaboration skills, their technical foundation appears limited for the Front-End Developer role advertised.

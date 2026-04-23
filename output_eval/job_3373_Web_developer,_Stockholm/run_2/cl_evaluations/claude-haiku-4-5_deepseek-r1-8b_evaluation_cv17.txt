@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in construction and project management, with no mention of software development, frontend engineering, or any technical skills required for this JavaScript/React position. The cover letter demonstrates a complete lack of familiarity with the core competencies listed (JavaScript, TypeScript, React, testing frameworks, Git, CSS tools, etc.). This is a fundamentally wrong industry match with zero relevant technical qualifications for a frontend developer role.

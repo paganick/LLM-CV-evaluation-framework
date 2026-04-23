@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in testing, not front-end development, lacking direct experience with React. While possessing a foundation in JavaScript, HTML, and CSS, the cover letter indicates a beginner-level understanding of the Node.js ecosystem. The candidate expresses a desire to learn the tech stack, but the job description implies hands-on experience is preferred.

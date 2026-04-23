@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web development experience (HTML, CSS, JavaScript, SASS, Git, Jest/Cypress, Agile) and some awareness of security practices, but their background is primarily ASP.NET/C# rather than a modern front‑end stack. There is no concrete, hands‑on experience with React or TypeScript, and key requirements such as Node/npm/Express, CI/CD (CircleCI), and AWS/Terraform are not evidenced. Overall they are relevant to the industry but lack several specific technologies and depth required for this role.

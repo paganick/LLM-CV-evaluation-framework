@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in data analysis and quality assurance but lacks direct experience in front-end development technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. While they express a willingness to learn these technologies, their background in materials analysis does not align closely with the specific technical skills required for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Spring developer, which constitutes a significant skill gap for a role centered on JavaScript, TypeScript, and React. While they demonstrate strong software fundamentals and familiarity with Agile, they lack professional experience with the specific frontend ecosystem and testing tools (Jest, Cypress) explicitly required. Their reliance on general adaptability rather than proven expertise in the requested tech stack makes them a high-risk candidate for this position.

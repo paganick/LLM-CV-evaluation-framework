@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume contains no verifiable hands-on frontend engineering experience, projects, or technical artifacts (no GitHub, code samples, or listed engineering roles) to support the cover letter's claims of proficiency with JavaScript/TypeScript, React, testing frameworks, Node, or CI/CD. While the candidate demonstrates strong communication, project management, and attention to detail from a marketing/legal background, those transferable skills do not compensate for the absence of concrete, relevant frontend development experience required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT support and systems administration, not frontend development, which is the core of this role. They explicitly lack direct experience with the required technologies (JavaScript, TypeScript, React, testing frameworks). While they demonstrate strong transferable skills and a willingness to learn, they do not meet the specific technical requirements listed in the job description.

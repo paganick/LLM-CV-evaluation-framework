@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified, lacking all mandatory technical skills such as JavaScript, TypeScript, and React, as well as experience with development tools like Git and CI/CD. Their background in microbiology and regulatory compliance is from a completely unrelated industry and does not translate to the technical requirements of a software engineering role. The letter fails to provide any evidence of programming proficiency, making them an unsuitable match for this position.

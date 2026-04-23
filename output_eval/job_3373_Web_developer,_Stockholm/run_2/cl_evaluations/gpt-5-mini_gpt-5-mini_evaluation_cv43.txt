@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks required hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, NodeJS/npm, CI/CD, and web security—core requirements of the role. While they demonstrate strong program design, stakeholder collaboration, and rapid learning ability, these transferable skills do not substitute for demonstrated front-end engineering experience and tooling proficiency.

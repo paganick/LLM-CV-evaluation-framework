@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in the correct industry but lacks nearly all specific technical requirements. The resume shows only foundational, outdated web skills (e.g., ASP.NET, Flash) and academic project experience, with no professional development work or experience with React, TypeScript, modern testing, CI/CD, or the other listed tools. While the cover letter demonstrates good soft skills and a willingness to learn, the technical gap for this role is too significant.

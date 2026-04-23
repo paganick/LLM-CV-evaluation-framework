@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong communication, accessibility, documentation, and cross-functional collaboration experience but lacks demonstrated hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, and Git—core requirements of the role. Their application shows motivation to learn and relevant soft skills, but not the technical proficiency or tooling experience needed to contribute immediately.

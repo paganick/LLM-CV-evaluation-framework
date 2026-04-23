@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT infrastructure and support, which doesn't align well with the front-end engineering role focused on React, JavaScript, and related technologies. While they express a willingness to learn, the lack of direct experience in the required technologies and tools (React, TypeScript, testing frameworks, Node.js) is a significant gap. The cover letter doesn't adequately demonstrate existing skills or projects relevant to front-end development.

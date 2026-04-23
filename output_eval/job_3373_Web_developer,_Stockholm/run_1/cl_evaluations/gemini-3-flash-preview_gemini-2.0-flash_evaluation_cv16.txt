@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the primary tech stack, specifically React and TypeScript, and fails to demonstrate any experience with required testing methodologies or web security protocols. Their background is heavily focused on .NET and database analysis rather than modern front-end development, which would require extensive training to meet the job's technical demands. While they possess foundational knowledge of HTML, CSS, and Git, they do not satisfy the core requirements for an experienced front-end role.

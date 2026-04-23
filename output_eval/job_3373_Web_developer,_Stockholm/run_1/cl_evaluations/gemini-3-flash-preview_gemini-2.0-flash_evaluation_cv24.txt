@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the core technical requirements, explicitly admitting a lack of proficiency in React and TypeScript, which are central to the role. There is no mention of essential experience in testing, web security, or Git, making them unqualified for a mid-to-senior level development position. While they possess a basic understanding of HTML/CSS and work in a related field, their profile is currently unsuitable for the specific technical demands of this job description.

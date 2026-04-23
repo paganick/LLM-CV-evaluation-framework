@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, quality control, and regulatory compliance for pharmaceutical/biotech industries, with zero mention of any required technical skills like JavaScript, React, testing, or modern web development. The cover letter acknowledges the mismatch and attempts to draw parallels to project management and collaboration, but these are generic soft skills that do not fulfill the core technical requirements of the role. This is a completely unqualified application for a front-end software engineering position.

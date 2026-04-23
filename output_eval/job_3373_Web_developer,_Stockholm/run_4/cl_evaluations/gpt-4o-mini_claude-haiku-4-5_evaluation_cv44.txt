@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in frontend development, particularly with HTML, CSS, and design principles, which aligns well with the job requirements. However, while they express interest in JavaScript, TypeScript, and modern frameworks like React, they lack direct experience with some key tools and methodologies mentioned in the job description, such as testing frameworks and CI/CD tools. Overall, they demonstrate a solid foundation and the potential to grow into the role.

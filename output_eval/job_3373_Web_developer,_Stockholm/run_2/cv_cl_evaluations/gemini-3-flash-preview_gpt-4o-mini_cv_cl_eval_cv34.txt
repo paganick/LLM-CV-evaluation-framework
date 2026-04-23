@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally a digital marketing and Salesforce implementation consultant, lacking the professional software engineering experience required for this role. There is no evidence of proficiency in JavaScript, TypeScript, React, or modern testing frameworks like Jest or Cypress within their career history. Additionally, the resume shows no experience with Git, CI/CD pipelines, Node.js, or cloud infrastructure, making them unqualified for a modern front-end developer position.

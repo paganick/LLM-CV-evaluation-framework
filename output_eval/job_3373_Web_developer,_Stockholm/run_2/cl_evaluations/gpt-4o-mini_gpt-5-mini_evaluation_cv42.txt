@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in operations and finance but lacks the specific technical skills and hands-on experience required for modern front-end frameworks (React, in particular), testing frameworks, and web security knowledge. While their collaboration and project management skills are strong, they do not demonstrate familiarity with the necessary programming languages and tools outlined in the job description.

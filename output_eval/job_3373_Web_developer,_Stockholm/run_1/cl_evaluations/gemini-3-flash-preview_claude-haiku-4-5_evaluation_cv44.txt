@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory hands-on experience in JavaScript, TypeScript, and React, explicitly stating a need to "develop proficiency" in these core areas rather than demonstrating existing expertise. Their testing background is limited to manual UAT/FUT, failing to meet the requirement for automated unit, integration, and E2E testing experience with tools like Jest or Cypress. Additionally, the letter fails to address critical technical requirements such as web security (OWASP/CORS), API design, and CI/CD workflows.

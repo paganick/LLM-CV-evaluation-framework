@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate is a graphic designer with no demonstrable experience in frontend web development, JavaScript, TypeScript, React, or any of the required modern web technologies. While the resume mentions some web design and Adobe Dreamweaver experience from over a decade ago, there is no evidence of professional software development, testing frameworks, Git usage, or familiarity with the NodeJS ecosystem. The candidate is completely outside the target industry for a frontend developer role and lacks the fundamental technical qualifications required.

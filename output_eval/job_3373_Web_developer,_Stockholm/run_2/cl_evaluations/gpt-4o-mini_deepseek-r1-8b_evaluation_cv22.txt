@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in database systems and backend development, they lack specific skills and experience related to the job requirements, such as hands-on experience with modern frontend frameworks like React, and testing frameworks. Additionally, their proficiency in required technologies like JavaScript and TypeScript is not clearly established, which is a significant gap for the role.

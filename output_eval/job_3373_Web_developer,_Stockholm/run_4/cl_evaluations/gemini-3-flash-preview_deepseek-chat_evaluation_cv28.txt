@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong alignment with the technical stack, specifically mentioning React, TypeScript, and automated testing tools like Jest and Cypress. However, as a career switcher, they lack any professional experience in a software engineering role, which is a significant gap for a standard developer position. While their analytical background is impressive, their development skills remain unproven in a professional production environment.

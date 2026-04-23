@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Despite 18 years of general IT experience, the candidate fails to demonstrate proficiency in TypeScript or functional programming, which are core requirements of the role. Their mention of React suggests they are still in the process of learning the framework rather than possessing the required hands-on expertise. Furthermore, the application lacks evidence of experience with specific testing frameworks, CI/CD pipelines, or the AWS infrastructure mentioned in the job description.

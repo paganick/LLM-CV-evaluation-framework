@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position. With a Bachelor of Science in Computers and Information Technology and an extensive background as a Corporate Project Manager and Director of IT, I bring a unique blend of strategic technical leadership and a hands-on commitment to modern development practices.
+
+Throughout my career, I have prioritized the implementation of scalable, high-quality systems. My technical foundation, reinforced by my ITIL and Microsoft Certified Professional credentials, aligns with your need for expertise in JavaScript and TypeScript. I am particularly drawn to your use of React and the NodeJS ecosystem. My experience managing the full Software Development Life Cycle (SDLC) ensures that I approach coding with a "big picture" perspective, focusing on how clean, modular code impacts business goals and long-term maintainability. I am well-versed in maintaining version control through Git and GitHub, and I advocate for rigorous testing—including unit, integration, and E2E testing—to ensure robust deployments.
+
+In my previous roles, I directed complex IT infrastructure integrations and application deployments, which gave me a deep understanding of web security, including OWASP standards and CORS. My background in managing network system deployments and general understanding of AWS environments provides me with the necessary context to contribute effectively to architectural discussions and API design. Furthermore, I am comfortable working with modern CSS tools like SASS and functional programming concepts to build performant, visually consistent user interfaces.
+
+Beyond my technical skills, I am a seasoned collaborator who thrives in Agile environments. I have a proven track record of fostering relationships between senior management and technical teams to drive innovation. Whether it is mentoring associates through learning enhancement classes or interacting with external partners to source technology solutions, I pride myself on clear communication and a genuine passion for understanding the full domain of a project.
+
+I am eager to apply my tactical execution skills and passion for clean code to your development team. Thank you for your time and consideration. I look forward to the possibility of discussing how my diverse technical background can contribute to your continued success.
+
+Sincerely, Alexis

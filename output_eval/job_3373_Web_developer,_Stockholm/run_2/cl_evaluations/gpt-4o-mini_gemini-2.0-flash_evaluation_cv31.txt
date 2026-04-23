@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant skills in teamwork and collaboration, which are beneficial in an Agile environment. However, their experience is primarily in sales leadership with limited technical expertise in frontend development technologies such as JavaScript, TypeScript, testing frameworks, and modern CSS tools. This lack of direct experience in the required technical skills significantly hampers their suitability for the role.

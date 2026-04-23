@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required technologies like JavaScript, Agile, Git, and testing with Jest. However, the cover letter lacks specific evidence for key requirements including TypeScript, modern React experience, security knowledge, functional programming, and most listed tools (e.g., CI/CD, AWS, Terraform). The experience cited is primarily from an AngularJS internship, which is an outdated framework, and the React knowledge is stated as an interest, not a proficiency.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web and IT experience (HTML/CSS/JavaScript, web projects, server and networking knowledge) but lacks demonstrated proficiency in the core requirements: React, TypeScript, modern testing/automation, Git/GitHub workflow, Node.js ecosystem, modern CSS tooling, and CI/CD/AWS experience. Their cover letter notes evolving React experience and coursework, not professional hands-on use of the required stack or testing practices. This makes them relevant to the industry but not sufficiently skilled for the role as described.

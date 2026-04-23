@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate brings strong project management skills and a background in engineering, they lack substantial experience in frontend development technologies, specifically JavaScript, TypeScript, and modern frameworks like React. Their cover letter indicates a transition into software development but does not provide evidence of the required hands-on experience with relevant tools and methodologies as outlined in the job description.

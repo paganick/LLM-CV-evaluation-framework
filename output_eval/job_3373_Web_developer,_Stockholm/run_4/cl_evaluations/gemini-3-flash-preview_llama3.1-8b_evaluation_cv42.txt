@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's twenty-year professional background is centered in finance and executive administration, which represents a complete misalignment with the technical engineering requirements of this role. While they mention specific frontend frameworks, they provide no evidence of professional application or proficiency in mandatory areas like TypeScript, automated testing, or CI/CD pipelines. The profile is fundamentally disqualified due to a lack of relevant industry experience and professional technical tenure.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive operations and project management background is relevant but lacks direct, hands-on frontend development experience. The cover letter fails to demonstrate specific proficiency in the required technical stack (e.g., JavaScript, React, testing frameworks) and instead focuses on high-level project leadership. While soft skills and a willingness to learn are present, the absence of concrete, recent development experience makes them a weak technical fit for the role.

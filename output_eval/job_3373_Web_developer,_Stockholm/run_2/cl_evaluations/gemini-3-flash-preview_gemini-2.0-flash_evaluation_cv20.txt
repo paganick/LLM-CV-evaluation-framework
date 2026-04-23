@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate experience with the primary technologies required, specifically React and TypeScript, focusing instead on a .NET and database-heavy background. Crucial requirements such as web security (OWASP) and modern CSS tools are entirely unaddressed, indicating a lack of specialized front-end expertise. While they possess foundational knowledge in JavaScript and Agile methodologies, they do not meet the technical depth expected for this specific stack.

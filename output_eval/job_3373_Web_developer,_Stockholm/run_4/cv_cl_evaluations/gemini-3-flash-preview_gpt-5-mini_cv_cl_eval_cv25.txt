@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic design professional who lacks nearly all the core technical requirements for this engineering role, including JavaScript, TypeScript, and modern frameworks like React. Their experience is centered on visual design and print media rather than software development, testing automation, or cloud infrastructure. While they have basic HTML/CSS familiarity, they do not possess the programming expertise or system architecture knowledge necessary for a front-end engineering position.

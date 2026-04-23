@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in systems administration and software development principles, but lacks direct experience with essential frontend technologies and frameworks such as React, TypeScript, and modern CSS tools. While they demonstrate a solid understanding of security and testing concepts, their primary focus on infrastructure may limit their immediate effectiveness in a strictly frontend role.

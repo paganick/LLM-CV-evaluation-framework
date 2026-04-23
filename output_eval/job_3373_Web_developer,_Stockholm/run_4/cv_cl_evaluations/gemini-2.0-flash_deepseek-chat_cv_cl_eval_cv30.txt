@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, not front-end development. While they express interest and some related skills (HTML, CSS), they lack concrete experience with modern FE frameworks (React, VueJS, Angular, Svelte), testing frameworks (Jest, TestCafe, Cypress), and other FE tools mentioned in the job description. The cover letter attempts to bridge this gap, but the resume doesn't showcase sufficient practical FE development experience.

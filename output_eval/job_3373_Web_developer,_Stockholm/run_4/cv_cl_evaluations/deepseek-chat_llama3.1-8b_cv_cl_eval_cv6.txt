@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal and PHP backend development, which is not aligned with the job's focus on modern JavaScript frameworks like React and frontend engineering. They lack demonstrated experience with key required technologies such as React, TypeScript, modern CSS tools, testing frameworks, and functional programming. While they have general web development skills and mention JavaScript/HTML/CSS, their profile is a mismatch for this specific frontend-focused role.

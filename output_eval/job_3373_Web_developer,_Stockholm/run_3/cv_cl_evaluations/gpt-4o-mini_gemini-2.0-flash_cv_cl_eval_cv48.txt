@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience primarily resides in IT support and system administration, with no specific expertise in front-end development or proficiency in JavaScript, TypeScript, HTML, or CSS. While they express a willingness to learn modern technologies, they lack hands-on experience with frameworks like React, and essential skills in testing, security, and CI/CD, making them underqualified for this role.

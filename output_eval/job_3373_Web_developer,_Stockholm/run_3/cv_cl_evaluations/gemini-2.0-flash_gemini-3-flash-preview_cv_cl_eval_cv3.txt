@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates knowledge of fundamental web technologies (HTML, CSS, JavaScript) but lacks experience with modern FE frameworks like React, the primary framework used by the company. While they express interest in learning TypeScript and AWS, their practical experience appears limited. The resume leans heavily on academic projects, not professional experience, and contains irrelevant skills (Visual Basic, ActionScript).

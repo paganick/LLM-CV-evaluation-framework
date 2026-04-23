@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in materials analysis and manufacturing, not software engineering, representing a significant industry and role mismatch. While they demonstrate strong analytical, testing, and collaboration skills that are transferable in principle, they lack any proven hands-on experience with the core technologies listed in the job description (e.g., JavaScript, React, testing frameworks). Their application is based entirely on a desire to learn, not on demonstrated competency in front-end development.

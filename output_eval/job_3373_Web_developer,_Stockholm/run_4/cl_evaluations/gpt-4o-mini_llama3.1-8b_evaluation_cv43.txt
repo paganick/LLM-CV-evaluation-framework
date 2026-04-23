@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in program management and design but lacks essential technical skills required for the position, such as proficiency in JavaScript, TypeScript, and modern front-end frameworks like React. While they have some experience with coding and project management, the absence of specific knowledge in testing automation and security practices indicates a gap in qualifications for this role.

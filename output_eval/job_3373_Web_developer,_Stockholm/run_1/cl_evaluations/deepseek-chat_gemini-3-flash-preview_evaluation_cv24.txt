@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant industry experience and a strong alignment with the job's soft skills, collaboration style, and interest in key technologies like React, TypeScript, and accessibility. However, the cover letter lacks explicit, hands-on project experience with core requirements like React, testing frameworks, Git, and web security, relying more on stated interest and foundational knowledge. This positions them as a promising but transitional candidate who requires verification of practical development skills.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong communication, accessibility, documentation, and cross-functional collaboration skills, but provides no demonstrated hands-on experience with core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, modern CSS tooling, or CI/CD. Those missing technical skills are essential for this front-end role. As presented, the candidate is relevant to the industry but lacks the specific, demonstrable engineering experience required.

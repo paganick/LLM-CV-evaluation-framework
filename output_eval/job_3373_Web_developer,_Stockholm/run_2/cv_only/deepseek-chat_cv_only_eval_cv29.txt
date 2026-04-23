@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development, sales, and marketing within the software industry, with no demonstrated experience in front-end development, programming, or the technical stack required by the job description. The resume lacks any mention of JavaScript, React, testing, Git, or any other core technical skills listed as essential. This is a completely unqualified application for a software engineering role.

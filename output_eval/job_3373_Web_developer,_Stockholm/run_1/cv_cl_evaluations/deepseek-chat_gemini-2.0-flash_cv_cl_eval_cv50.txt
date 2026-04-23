@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace sales, business development, and quality engineering, with no demonstrated professional experience in front-end development or the required technologies (React, TypeScript, modern testing frameworks). The foundational Computer Science degree is decades old and not supported by recent, relevant technical work. While they possess transferable soft skills, they lack the specific, hands-on technical qualifications outlined in the job description.

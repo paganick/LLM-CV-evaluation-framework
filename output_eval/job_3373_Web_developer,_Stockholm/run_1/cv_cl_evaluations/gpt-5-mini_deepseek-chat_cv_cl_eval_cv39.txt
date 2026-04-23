@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter show a long career in graphic and product design with only basic HTML/Dreamweaver experience and no demonstrated proficiency in JavaScript/TypeScript, React, testing, Git, Node, or web security required for this front-end engineering role. While they express motivation to learn and strong design skills that could be valuable, they lack the concrete, modern front-end development experience and toolchain knowledge necessary to fulfill the job's requirements immediately.

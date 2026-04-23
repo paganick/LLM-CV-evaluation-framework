@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and knowledge of front-end technologies, but lacks specific hands-on experience with modern front-end frameworks like React, as well as familiarity with testing frameworks and tools mentioned in the job description. Additionally, the candidate does not highlight any experience with Git, security practices, or CI/CD tools, which are also crucial for the position.

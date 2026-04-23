@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core technologies listed in the job description, such as React, JavaScript, and TypeScript. While they express enthusiasm to learn, the resume highlights skills in data analysis, SQL, and Python, which are not the primary focus of a front-end engineer role. The cover letter attempts to bridge the gap, but the absence of practical front-end experience is a significant drawback.

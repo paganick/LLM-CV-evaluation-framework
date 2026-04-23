@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The cover letter highlights experience in business development and technical sales within the cloud software industry. However, the job description focuses entirely on front-end software engineering skills (JavaScript, React, etc.). This candidate's experience is completely irrelevant to the listed requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific technologies required. The resume shows no experience with React, TypeScript, modern CSS tools, or the testing frameworks mentioned. While they have Agile experience and foundational web skills, their background is heavily in .NET/C#, not the modern JavaScript/React stack specified.

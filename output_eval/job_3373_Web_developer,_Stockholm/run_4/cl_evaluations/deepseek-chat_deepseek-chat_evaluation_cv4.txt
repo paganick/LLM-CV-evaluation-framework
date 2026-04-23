@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, and clean code, and provides concrete examples of relevant experience. The cover letter effectively addresses key soft skills like Agile collaboration and domain curiosity. Points are deducted for not explicitly mentioning several specific tools from the job description (e.g., OWASP/CORS, specific CI/CD tools, AWS/Terraform, Ramda), which prevents a perfect score.

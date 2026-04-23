@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in graphic design and a basic understanding of HTML and CSS, which is applicable to the position. However, they lack specific experience with modern JavaScript frameworks beyond basic knowledge, hands-on experience with testing and test automation, familiarity with CI/CD tools, and other required technologies, which lowers their suitability for the role.

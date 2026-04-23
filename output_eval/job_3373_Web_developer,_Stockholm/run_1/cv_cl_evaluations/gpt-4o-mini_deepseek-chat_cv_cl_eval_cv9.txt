@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in Java and backend development but lacks the required experience with modern frontend frameworks such as React, VueJS, or Angular. While they do have exposure to JavaScript and HTML, their frontline skills in testing frameworks and modern CSS methodologies are not clearly demonstrated. Their commitment to clean code and experience in Agile environments is commendable, but they do not completely fulfill the requirements for the position.

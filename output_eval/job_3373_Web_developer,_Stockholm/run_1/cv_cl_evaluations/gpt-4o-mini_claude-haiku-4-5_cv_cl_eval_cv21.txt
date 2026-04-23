@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in software development and experience with essential technologies such as JavaScript, HTML5, and CSS3. However, they lack hands-on experience with React, which is crucial for this role, and their familiarity with modern CSS tools and testing frameworks is limited. Additionally, while the candidate has experience in Agile, their knowledge of CI/CD tools and modern frontend practices appears inadequate for the current needs of the team.

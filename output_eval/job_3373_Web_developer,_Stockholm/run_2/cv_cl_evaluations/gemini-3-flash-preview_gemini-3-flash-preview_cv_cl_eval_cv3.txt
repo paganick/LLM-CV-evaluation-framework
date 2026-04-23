@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience or demonstrated proficiency in the required modern tech stack, specifically React, TypeScript, and modern testing frameworks. Their technical background is significantly outdated, listing obsolete technologies like Flash, ActionScript, and Dreamweaver, while completely missing the essential CI/CD and AWS requirements. Although the candidate possesses an IT degree, they are unqualified for this specific role due to the extreme gap between their skills and the modern industry standards requested.

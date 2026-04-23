@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume reflects interior design, sales, and business development experience but contains no commercial UX design experience, no Figma/prototyping or HTML/CSS/JS exposure, and no Agile, user research, or design system experience required by the role. While there are transferable visual and client-facing skills, they do not meet the core UX responsibilities (roadmap, user research, prototyping, mentoring) listed in the job description.

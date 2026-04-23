@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has extensive experience in marketing automation, the cover letter does not explicitly demonstrate sales experience or experience with API, Cloud, DevOps, Microservices, BigData, Data Science, or Design Consulting (UX/UI, Design Thinking, UX Research). The letter focuses more on implementation and consulting rather than direct sales or pre-sales activities as defined in the job description. Although the experience is in a related field, it does not fulfill the minimum requirements for client-facing sales as specified.

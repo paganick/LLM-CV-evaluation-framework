@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions experience with AngularJS, but the job description prioritizes React. While they list relevant skills like HTML, CSS, and JavaScript, the letter lacks specific examples showcasing their proficiency with testing frameworks, Git, security practices, and modern CSS tools, which are listed in the job description. The letter highlights a Java internship, which is not the focus of the front-end role.

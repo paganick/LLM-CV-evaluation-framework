@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates foundational knowledge of HTML and CSS, but lacks the required experience with JavaScript, TypeScript, and React. While they mention a desire to learn React, the lack of hands-on experience and testing frameworks is a significant drawback. The cover letter focuses too much on tangential skills rather than directly addressing the core requirements of the role.

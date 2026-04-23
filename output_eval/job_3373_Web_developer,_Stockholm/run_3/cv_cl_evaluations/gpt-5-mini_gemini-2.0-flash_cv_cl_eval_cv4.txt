@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience and lists JavaScript, HTML, CSS and API integration, but the resume emphasizes C#, SQL and Python more than modern front-end stacks. Key requirements are missing or unproven: no React or TypeScript experience, no mention of modern testing frameworks/automation (Jest/Cypress/TestCafe), limited evidence of NodeJS ecosystem tools, CI/CD, or web security/AWS knowledge. Given the partial overlap with the role but substantial gaps in required front-end and tooling experience, this is a middling fit.

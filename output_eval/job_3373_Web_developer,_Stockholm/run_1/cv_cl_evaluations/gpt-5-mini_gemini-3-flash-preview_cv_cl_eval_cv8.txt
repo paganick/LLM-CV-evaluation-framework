@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is overwhelmingly hardware/test-engineering focused with no demonstrated experience in JavaScript/TypeScript, React, modern frontend frameworks, or frontend testing frameworks (Jest/Cypress). They also do not show familiarity with Git/GitHub, the NodeJS/npm ecosystem, modern CSS tooling, or web security fundamentals required for this role. While they have strong test automation and Python experience, it does not translate to the specific frontend stack and practices required, making them not a suitable fit.

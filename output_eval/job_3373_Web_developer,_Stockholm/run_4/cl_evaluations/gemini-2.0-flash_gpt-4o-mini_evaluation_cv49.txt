@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background in Industrial and Systems Engineering and Data Analysis is not directly aligned with the Software Engineer role's requirements, particularly frontend development. While the candidate expresses willingness to learn, the cover letter admits limited experience in key technologies like JavaScript, TypeScript, HTML, CSS, and React, which are central to the job description. The reliance on skills from Data Analysis is not a strong substitute for the explicitly required frontend expertise.

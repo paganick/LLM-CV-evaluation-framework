@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required technologies like React, JavaScript, and Agile. However, the resume is heavily skewed towards Java/Spring backend and test automation, with front-end experience appearing outdated (AngularJS) or secondary. Key requirements like TypeScript, modern React, specific testing frameworks (Jest, Cypress), and security knowledge are not demonstrated, showing a significant skills gap for the front-end developer role.

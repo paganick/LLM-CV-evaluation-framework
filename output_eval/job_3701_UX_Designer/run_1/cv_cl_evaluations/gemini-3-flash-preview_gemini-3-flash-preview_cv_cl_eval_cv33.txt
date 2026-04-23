@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Senior MDM Architect with a background strictly in backend data management and middleware, which is entirely unrelated to the User Experience Designer role. The resume shows no professional experience with UX research, Figma, or user-centric design, and their technical skills are focused on TIBCO and Java architecture rather than UI design systems. Despite a cover letter attempting to pivot, the candidate lacks the fundamental commercial experience and portfolio required for this position.

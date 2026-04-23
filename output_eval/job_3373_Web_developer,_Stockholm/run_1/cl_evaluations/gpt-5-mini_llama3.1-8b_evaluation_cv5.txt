@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is predominantly in IBM mainframe technologies (COBOL, CICS, JCL, DB2) and does not demonstrate hands-on experience with the modern frontend stack required (React, TypeScript, modern CSS tooling). They only briefly mention JavaScript/HTML without evidence of key competencies like React, testing frameworks (Jest/Cypress), Node/npm, Git workflow, CI/CD, or cloud/infra (AWS/Terraform). Given these substantial gaps in required frontend technologies and tooling, the application is not a fit for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant soft skills and transferable experience in project management, documentation, and a user-focused mindset. However, they lack direct, hands-on experience with the core technical stack, specifically JavaScript, TypeScript, React, testing frameworks, and modern tooling, as required by the job description. Their practical web experience is limited to HTML and design tools, not modern front-end engineering.

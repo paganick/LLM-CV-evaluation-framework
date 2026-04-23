@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Implementation Consultant position at your esteemed organization. With a background in project management and digital advertising, I am confident that my skills and experience make me an ideal fit for this role.
+
+As a certified trainer in Salesforce Marketing Cloud, I have extensive knowledge of email platforms, having worked with clients to implement solutions and perform initial configurations for their Salesforce Marketing Cloud or Adobe Campaign email software and campaign solutions. My expertise extends beyond technical aspects, as I possess strong collaboration skills, comfortable working in an Agile environment, and a genuine passion for writing clean code.
+
+Throughout my career, I have demonstrated proficiency in various web technologies, including HTML, CSS, SQL, and WordPress. In my previous role at Indico, I managed the Print on Demand project, implemented technical processes related to print-on-demand and digital files, and contributed to the development of digital and print-on-demand interface tools, workflows, and processes.
+
+I am also well-versed in modern front-end technologies such as React, having hands-on experience with testing and test automation. My familiarity with Git and repository hosting services like GitHub will enable me to efficiently collaborate with your team. Additionally, I have basic knowledge of security on the Web, including OWASP, CSP, CORS, and OAuth.
+
+As a seasoned professional in software implementation and web technologies/technical abilities, I possess a unique blend of skills that aligns with your organization's requirements. My experience with various email platforms, Salesforce Marketing Cloud components, and relational data management will enable me to hit the ground running. My passion for writing clean code, combined with my ability to keep up-to-date with the latest technologies, makes me an excellent fit for this role.
+
+I am particularly drawn to your organization's emphasis on collaboration, Agile environment, and commitment to keeping up-to-date with the latest technologies. I am excited about the opportunity to bring my expertise and passion to a team that values clean code and innovation.
+
+Thank you for considering my application. I look forward to discussing how my skills and experience align with your organization's needs.
+
+Sincerely,
+Alexis

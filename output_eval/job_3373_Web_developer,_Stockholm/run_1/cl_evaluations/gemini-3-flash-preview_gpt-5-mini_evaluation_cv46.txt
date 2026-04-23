@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary requirements, including TypeScript, React, and modern front-end testing frameworks like Jest or Cypress. Their background is heavily focused on backend Java development and database administration, which does not align with the specific front-end toolchain and styling expertise requested. Consequently, the applicant fails to meet the technical criteria for immediate contribution in this specific role.

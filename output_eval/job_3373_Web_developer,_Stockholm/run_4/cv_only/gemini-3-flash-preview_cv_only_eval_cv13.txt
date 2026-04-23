@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager rather than a dedicated Software Engineer and lacks professional experience with the required modern tech stack, specifically React and TypeScript. There is no evidence of expertise in automated testing frameworks, CI/CD pipelines, or cloud infrastructure as outlined in the job description. While the candidate possesses basic front-end knowledge, their background is centered on project delivery, UX, and marketing strategy rather than high-level application development.

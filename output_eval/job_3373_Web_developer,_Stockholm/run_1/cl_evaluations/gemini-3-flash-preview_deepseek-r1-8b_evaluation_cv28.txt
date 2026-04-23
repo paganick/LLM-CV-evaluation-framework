@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all fundamental technical requirements, explicitly admitting to no direct experience with JavaScript, TypeScript, HTML, CSS, or modern frontend frameworks like React. Their professional background in materials analysis and quality assurance is outside the software engineering industry, representing a complete lack of relevant development experience. While they possess transferable soft skills and Git proficiency, they do not meet the baseline technical criteria for a frontend engineering position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in software testing and Agile methodologies, but lacks experience with key technologies mentioned in the job description, such as modern front-end frameworks (specifically React) and web security knowledge. While they have a knowledge of JavaScript, their focus seems to be more on testing rather than development, which may not align with the need for hands-on front-end experience.

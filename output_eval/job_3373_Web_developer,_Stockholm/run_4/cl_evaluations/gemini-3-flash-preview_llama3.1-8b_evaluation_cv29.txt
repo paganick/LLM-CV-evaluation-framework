@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development professional applying for a specialized software engineering position without providing any evidence of coding proficiency or technical experience with the required stack. They lack the mandatory skills in JavaScript, React, and automated testing, making them completely unqualified for this hands-on development role.

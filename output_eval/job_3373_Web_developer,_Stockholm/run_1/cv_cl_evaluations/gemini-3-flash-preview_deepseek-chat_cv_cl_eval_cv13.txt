@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is currently a Technical Project Manager and lacks recent, hands-on production experience with the core required technologies, specifically React and TypeScript. Their resume does not demonstrate professional experience with automated testing frameworks (Jest, Cypress), modern CSS tools, or functional programming, which are essential for this role. While they have a background in the industry, their technical skill set is largely dated and focused on project leadership rather than senior-level front-end development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not front-end engineering. While the cover letter expresses interest in learning front-end technologies, the resume lacks demonstrable experience with JavaScript, React, or other technologies listed in the job description. The candidate's skills are more aligned with marketing technologies like Eloqua and Salesforce.

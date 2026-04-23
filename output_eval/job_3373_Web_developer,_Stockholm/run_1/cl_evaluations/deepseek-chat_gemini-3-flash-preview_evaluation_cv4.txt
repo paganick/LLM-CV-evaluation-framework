@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the core technical requirements (JavaScript, React, Agile, testing, API design) and highlights relevant achievements. However, the cover letter does not explicitly mention several key technologies from the job description, such as TypeScript, specific testing frameworks (Jest, Cypress), modern CSS tools, or functional programming with Ramda. While the experience is highly relevant and the professional narrative is compelling, the absence of these specified skills prevents a perfect score.

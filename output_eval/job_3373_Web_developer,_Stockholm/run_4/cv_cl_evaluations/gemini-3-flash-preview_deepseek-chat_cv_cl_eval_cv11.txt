@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional attempting to transition into development and lacks any professional experience with the required modern front-end stack, including React, TypeScript, and SASS. While they possess a background in the software industry and basic JavaScript knowledge, they do not meet the core technical requirements for hands-on application development or API design. Their profile demonstrates a mismatch in role seniority and specific technical expertise necessitated by the job description.

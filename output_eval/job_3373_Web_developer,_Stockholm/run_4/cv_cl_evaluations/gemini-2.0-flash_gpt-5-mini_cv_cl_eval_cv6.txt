@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant front-end experience with HTML, CSS, and JavaScript, but the resume focuses heavily on Drupal development, which isn't the primary focus of the job description. While the cover letter expresses interest in React and other modern tools, there's a lack of concrete experience in the specific frameworks and technologies listed in the job description. The candidate also lacks experience in areas like API design, AWS, and CI/CD.

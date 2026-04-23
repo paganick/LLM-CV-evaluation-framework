@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in hardware testing, not software development. While they express familiarity with JavaScript and testing concepts, they lack concrete experience with React or other front-end frameworks mentioned in the job description. Their skills don't align well with the requirements of a Front-End Developer role.

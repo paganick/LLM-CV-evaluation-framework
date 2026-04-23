@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in full-stack development and has worked with JavaScript, HTML, and CSS, as well as SASS, which aligns with the job requirements. However, there is no explicit mention of modern frameworks like React, testing frameworks, or familiarity with tools like CircleCI and functional programming concepts. While they show potential and willingness to adapt, they lack some specific technical experiences outlined in the job description.

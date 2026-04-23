@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend technologies and a solid background in Java and related frameworks. However, they lack specific experience with TypeScript, modern frontend frameworks besides React, and testing frameworks like Jest or Cypress, which are mentioned in the job description as crucial. While the candidate demonstrates potential and enthusiasm for learning, they do not fully meet the specific requirements listed for the position.

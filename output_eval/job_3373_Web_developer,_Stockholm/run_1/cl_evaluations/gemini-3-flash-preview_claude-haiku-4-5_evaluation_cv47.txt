@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer who lacks any professional or practical experience with the core requirements of JavaScript, TypeScript, and React, even admitting a need to learn them. Mentioning obsolete tools like Dreamweaver indicates a significant disconnect from modern frontend standards, and the absence of any mentioned Git or web development projects confirms they are unqualified. While their leadership background is strong, they do not possess the mandatory technical skills to function as a frontend developer.

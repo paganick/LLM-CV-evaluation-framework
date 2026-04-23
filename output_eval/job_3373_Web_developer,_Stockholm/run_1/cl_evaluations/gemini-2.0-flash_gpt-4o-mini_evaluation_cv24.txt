@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in digital communications, not front-end development. While they mention HTML and CSS, the lack of hands-on experience with JavaScript frameworks (React, VueJS, Angular, Svelte), testing, and other core front-end tools makes them a weak match. Their focus on communication skills is valuable but insufficient for the technical demands of the role.

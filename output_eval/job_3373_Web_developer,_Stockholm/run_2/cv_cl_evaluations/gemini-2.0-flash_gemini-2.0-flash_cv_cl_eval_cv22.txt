@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in media planning and buying, with limited exposure to frontend development technologies. While the candidate mentions HTML and CSS, there's no evidence of proficiency in JavaScript, TypeScript, React, or modern frontend frameworks, which are core requirements. The resume and cover letter highlight database and ERP experience, which are not directly relevant to the job description.

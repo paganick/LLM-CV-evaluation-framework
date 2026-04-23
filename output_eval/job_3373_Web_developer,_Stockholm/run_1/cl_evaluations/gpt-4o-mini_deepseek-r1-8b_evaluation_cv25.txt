@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and some relevant technical skills, including HTML, CSS, and experience with Adobe Creative Suite. However, there is no mention of JavaScript, TypeScript, modern front-end frameworks (specifically React), testing frameworks, or knowledge of security practices, making them only partially aligned with the job requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a design background (BA in Interior Design) and 3+ years of general design experience, but their résumé shows only interior and fashion design work with CAD, InDesign and Photoshop—not UI/UX-specific deliverables. There is no evidence of wireframing/prototyping tools (InVision, Wireframe.cc), Illustrator, UX research collaboration, or examples of GUI, sitemaps, storyboards or working with engineers. Given the lack of demonstrable UI/UX experience and tools, they do not meet the role's core requirements.

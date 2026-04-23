@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in web development and shows proficiency in key technologies such as JavaScript, TypeScript, HTML, and CSS. They have a good grasp of front-end frameworks, specifically React, and have experience with testing and automation. However, they lack mention of modern CSS tools, specific testing frameworks, and CI/CD tools, which are important for the role.

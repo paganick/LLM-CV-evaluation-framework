@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's cover letter describes a business development and sales/marketing background with no mention of JavaScript, TypeScript, React, front-end frameworks, testing, NodeJS, or other technical skills required by the role. The job is a hands-on frontend engineering position requiring specific technical experience which the applicant does not demonstrate, so they are completely unqualified for this role.

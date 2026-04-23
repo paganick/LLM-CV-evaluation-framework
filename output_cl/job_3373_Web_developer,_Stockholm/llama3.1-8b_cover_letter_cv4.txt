@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am thrilled to apply for the Software Developer position at your esteemed organization. With a strong background in computer engineering and extensive experience in software development, I am confident that my skills and passion for writing clean code will make me an excellent fit for this role.
+
+As a seasoned developer with 5+ years of experience, I possess a deep understanding of the entire software development lifecycle. My expertise spans multiple programming languages, including C#, Python, JavaScript, and SQL. I have worked on various projects, including designing an Internal Marketing System using c# and SQL, where I successfully integrated marketplace APIs and coordinated with project management staff to ensure timely completion.
+
+I am particularly impressed by your organization's emphasis on using modern front-end frameworks like React and testing libraries such as Jest. My experience with Node.js, npm, Yarn, Express.js, and functional programming using Ramda will enable me to seamlessly integrate into your team. I am also familiar with modern CSS tools like Styled Components and SASS, as well as linters and formatters like ESLint and Prettier.
+
+As a strong collaborator, I thrive in Agile environments and have experience working with cross-cultural teams. My fluency in English and Turkish will facilitate effective communication with your team members. My passion for writing clean code is evident in my previous projects, where I successfully revised and updated old code bases to modern development standards.
+
+I am excited about the opportunity to contribute to a company that values innovation and excellence. My experience with CI/CD tools like CircleCI, API design, and general understanding of AWS and Terraform will enable me to hit the ground running.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills and experience align with your organization's needs.
+
+Sincerely,
+Alexis

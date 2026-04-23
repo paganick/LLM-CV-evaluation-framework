@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in design and some technical skills in HTML and CSS, but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React. Although they demonstrate an understanding of user experience and agile collaboration, their technical qualifications do not fully align with the requirements outlined in the job description.

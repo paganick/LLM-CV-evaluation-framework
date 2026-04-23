@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates core front-end skills (JavaScript/TypeScript/HTML/CSS), experience with React and other frameworks, testing (Jest, Cypress), modern CSS tools, Node ecosystem familiarity, and Ramda — aligning well with the primary tech stack. They did not mention Git/GitHub, web security practices (OWASP/CSP/CORS/OAuth), linters/formatters, CI/CD (CircleCI), AWS/Terraform, or API design, and have only 2 years of experience. Given the gaps in infrastructure, security, and devops expectations, this is a strong but not fully complete match.

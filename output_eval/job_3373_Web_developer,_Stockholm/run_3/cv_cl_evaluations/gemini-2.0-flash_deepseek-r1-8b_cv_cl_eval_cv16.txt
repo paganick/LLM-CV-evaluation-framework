@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundation in web development with skills in JavaScript, HTML, and CSS but lacks specific experience with modern FE frameworks like React, which is heavily used by the company. Their experience is primarily in .NET development. While they express interest in keeping up with new technologies, their resume doesn't showcase concrete experience with the specific tools mentioned in the job description, such as testing frameworks or CI/CD tools.

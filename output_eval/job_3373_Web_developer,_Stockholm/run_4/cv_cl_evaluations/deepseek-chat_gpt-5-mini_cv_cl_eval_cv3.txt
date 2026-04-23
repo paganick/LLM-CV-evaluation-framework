@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry (web development) but lacks nearly all the specific, required technical skills and experience. The job demands hands-on experience with React, TypeScript, modern testing frameworks, Git, and security concepts, which the candidate explicitly does not have and only offers eagerness to learn. Their practical experience is dated (Flash, ASP.NET) and academic, not professional, making them unsuitable for a non-entry-level role with this specific tech stack.

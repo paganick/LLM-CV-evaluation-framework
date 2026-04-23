@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant to design but lacks the core technical requirements for a Front-End Developer role. There is no demonstrated experience with JavaScript, TypeScript, React, testing, version control, or web security as specified. While the candidate shows potential and a willingness to learn, the cover letter does not prove they possess the hands-on technical skills required for the position.

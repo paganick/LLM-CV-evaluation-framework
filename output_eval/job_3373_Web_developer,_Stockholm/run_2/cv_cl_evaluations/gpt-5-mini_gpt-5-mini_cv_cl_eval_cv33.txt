@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any demonstrable hands-on front-end engineering experience or technical skills listed in the JD (no evidence of JavaScript/TypeScript, React, testing frameworks, Git workflows, Node.js, or modern CSS tooling). Their resume and cover letter describe sales, training, and startup management experience, which does not substitute for the required engineering competencies. While they show strong soft skills and a willingness to learn, they do not meet the minimum technical qualifications for this role.

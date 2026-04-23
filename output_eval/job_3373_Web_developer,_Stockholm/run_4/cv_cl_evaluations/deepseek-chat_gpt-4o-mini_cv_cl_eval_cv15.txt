@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is broad but dated and not focused on modern front-end development. While the cover letter claims proficiency with React, Jest, Cypress, and CI/CD, the resume lacks concrete evidence of professional experience with these specific, required technologies, showing only basic web development coursework from over a decade ago. The profile is more aligned with general IT support and management rather than the specialized, modern software engineering role described.

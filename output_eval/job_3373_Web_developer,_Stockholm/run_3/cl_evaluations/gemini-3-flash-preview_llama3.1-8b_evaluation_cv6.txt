@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in web technologies like JavaScript, HTML, and CSS, they fail to address nearly all the specific core requirements of the job description, including React, TypeScript, and NodeJS. Furthermore, the application lacks any mention of automated testing frameworks, CI/CD tools, or cloud infrastructure (AWS), which are critical components of the specified role.

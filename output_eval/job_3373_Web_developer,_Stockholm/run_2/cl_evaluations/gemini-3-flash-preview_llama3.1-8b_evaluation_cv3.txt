@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant degree and fundamental web knowledge, they fail to demonstrate proficiency in core requirements such as TypeScript, Git, Node.js, and modern testing frameworks like Jest or Cypress. Furthermore, the inclusion of obsolete technologies like Flash, ActionScript, and Java Applets suggests a lack of alignment with current industry standards and the modern stack requested. The candidate expresses interest in React but lacks the required hands-on experience with modern front-end libraries and CI/CD tools.

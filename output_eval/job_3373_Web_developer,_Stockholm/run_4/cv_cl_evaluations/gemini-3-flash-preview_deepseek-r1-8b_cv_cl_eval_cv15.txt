@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all of the specific modern frontend requirements, including React, TypeScript, and professional experience with automated testing frameworks. The work history is significantly outdated, with the last professional experience ending in 2012, and focuses primarily on hardware troubleshooting and general IT management. Consequently, the candidate does not demonstrate the necessary proficiency in modern development ecosystems, CI/CD pipelines, or cloud technologies required for the role.

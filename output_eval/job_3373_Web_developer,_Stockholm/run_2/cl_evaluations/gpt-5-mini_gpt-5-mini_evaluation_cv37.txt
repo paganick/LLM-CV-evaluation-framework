@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong program/project management, IT operations experience, and transferable skills (Agile collaboration, stakeholder management, deployment coordination), but provides no concrete evidence of hands‑on front-end development (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Node/npm, or GitHub work. The absence of portfolio, code examples, or specific front-end tool experience means they lack the core technical qualifications required for this React front-end role.

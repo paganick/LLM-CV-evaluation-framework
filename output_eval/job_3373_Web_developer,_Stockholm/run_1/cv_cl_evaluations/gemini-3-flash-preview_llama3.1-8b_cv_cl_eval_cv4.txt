@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant software development experience, the resume lacks evidence of the core technical requirements, specifically React, TypeScript, and modern frontend testing frameworks. The professional history is heavily centered on C#/.NET and Python data projects rather than the modern JavaScript ecosystem requested. Significant discrepancies exist between the cover letter claims and the actual technical experience documented in the resume.

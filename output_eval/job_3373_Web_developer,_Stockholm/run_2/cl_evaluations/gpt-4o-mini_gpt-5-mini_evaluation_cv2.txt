@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in Java development and Agile methodologies but lacks specific expertise in modern front-end technologies such as React, TypeScript, and associated tooling that are crucial for the position. While they express a strong interest in transitioning to front-end development and have relevant foundational skills, they do not meet the hands-on experience requirements outlined in the job description.

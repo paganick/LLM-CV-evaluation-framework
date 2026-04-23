@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in government IT management and cybersecurity, not modern frontend software engineering. While they mention understanding of security concepts and Agile, their resume and cover letter lack any demonstrable, hands-on experience with the core technologies required: React, TypeScript, modern CSS, testing frameworks, or the Node.js ecosystem. Their experience is in a completely different domain and does not translate directly to the day-to-day responsibilities of a frontend engineer.

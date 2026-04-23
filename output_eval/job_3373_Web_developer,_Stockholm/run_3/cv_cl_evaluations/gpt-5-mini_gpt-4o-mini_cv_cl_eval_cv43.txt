@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design with only intermediate R Studio experience and no demonstrated professional experience in JavaScript, TypeScript, HTML/CSS, React, or the Node ecosystem required for this frontend role. While they show strong collaboration and Agile experience, and a willingness to learn, they lack the core technical skills (modern JS frameworks, testing/automation, CI/CD, and web security implementations) needed to perform this job. This profile is therefore not a fit for the position as-is.

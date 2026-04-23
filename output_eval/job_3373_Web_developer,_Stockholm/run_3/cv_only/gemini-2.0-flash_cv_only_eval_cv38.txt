@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume is focused on film and video production, lacking any demonstrable experience with the required technologies (JavaScript, TypeScript, HTML, CSS, React, etc.). Their skills primarily revolve around video editing, social media management, and general production tasks, which do not align with the job description's focus on front-end web development. The candidate's experience is in a completely different field.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is more focused on electronics testing rather than the specific front-end technologies listed in the job description. While there's some mention of relevant tools like Visual Studio and programming languages, the cover letter lacks specific examples related to JavaScript, React, or modern front-end testing frameworks. The candidate also does not mention any knowledge of CI/CD tools, API design, or cloud platforms.

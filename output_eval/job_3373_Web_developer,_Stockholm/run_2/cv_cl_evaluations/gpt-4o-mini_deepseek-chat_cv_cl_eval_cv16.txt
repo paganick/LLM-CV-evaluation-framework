@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience as a .NET developer and possesses skills in JavaScript, HTML, and CSS. However, they lack specific experience with modern front-end frameworks like React, testing frameworks such as Jest and Cypress, and do not demonstrate a strong familiarity with the NodeJS ecosystem and CI/CD tools. Their knowledge of front-end security practices and willingness to learn is a positive aspect, yet they do not fully meet several key requirements outlined in the job description.

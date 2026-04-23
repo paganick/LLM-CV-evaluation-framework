@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in system administration, a different field from front-end development. While they express familiarity with HTML, CSS, and JavaScript, the resume lacks demonstrable experience with modern FE frameworks like React, which is the company's primary framework. The candidate also lacks experience in testing, CI/CD, and other key areas mentioned in the job description.

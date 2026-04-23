@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the front-end developer position that emphasizes JavaScript, TypeScript, HTML, CSS, and modern frameworks, especially React. With over twelve years of experience in IT consulting and technical support, I have honed my skills in diverse environments, which I believe aligns seamlessly with your requirements.
+
+This role's emphasis on strong collaboration within an Agile environment resonates with my experience working in various team roles to provide end-user training and support. My ability to communicate effectively across teams has yielded a 100% customer satisfaction rate in my current position, where I service over 480 Windows devices and 44 servers. I am dedicated to keeping up with industry trends and am eager to learn and implement modern technologies.
+
+I have hands-on experience with testing methodologies, including unit tests and integration tests. Additionally, I am proficient in using Git and repository hosting services such as GitHub. While my past roles have centered around technology consulting, my interest in web development has led me to gain familiarity with security concepts such as OWASP and OAuth, which I understand are of paramount importance in your work.
+
+In terms of the technical skills you are seeking, I have worked with modern CSS tools and am experienced with testing frameworks like Jest and Cypress. My background includes familiarity with the Node.js ecosystem and CI/CD tools like CircleCI, which will allow me to contribute effectively to your development operations. While I have not worked extensively with Ruby, I am adaptive and quick to learn, which I have demonstrated in similar transitions throughout my career.
+
+My commitment to producing clean, efficient code is matched by my desire to understand broader domains outside of my immediate expertise. I am excited at the prospect of working with your team to design APIs and further enhance my understanding of AWS and Terraform.
+
+I believe my blend of technical knowledge, problem-solving skills, and passion for continuous improvement will make me a valuable addition to your team. I look forward to the opportunity to contribute my experience and enthusiasm to your organization.
+
+Sincerely,  
+Alexis

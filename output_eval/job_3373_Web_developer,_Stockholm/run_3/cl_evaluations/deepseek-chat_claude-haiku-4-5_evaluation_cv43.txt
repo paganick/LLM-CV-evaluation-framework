@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management, not frontend development, and they lack hands-on experience with the required technologies. While they demonstrate an analytical mindset and mention learning key skills, they provide no evidence of practical work with React, testing frameworks, or the specific tools listed. Their collaborative and Agile experience is relevant but does not compensate for the fundamental lack of direct technical proficiency required for the role.

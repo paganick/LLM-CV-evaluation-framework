@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in backend development, testing, and security, but the role is for a Frontend Developer. While they express a passion for frontend and some Javascript knowledge, the lack of direct React experience and frontend tooling listed in the job description is a significant gap. Their backend focus overshadows frontend qualifications.

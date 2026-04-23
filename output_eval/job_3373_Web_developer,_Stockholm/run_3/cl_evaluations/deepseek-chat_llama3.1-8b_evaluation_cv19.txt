@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is not the core requirement for this front-end developer role. While they mention several relevant technical tools (CSS tools, testing frameworks, NodeJS), they fail to demonstrate any experience with the key technologies listed in the job description, such as JavaScript, TypeScript, React, or modern front-end frameworks. The cover letter is generic and does not convincingly align their graphic design experience with the specific demands of a software engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general web and programming background (JavaScript, HTML, CSS, Java, DB) but their resume shows primarily legacy Java/DB work and lacks verifiable, recent experience with React, TypeScript, modern CSS tools, Node.js/npm, functional tools like Ramda, testing frameworks (Jest/Cypress), CI/CD, and AWS/Terraform. The cover letter asserts familiarity with desired technologies, but there is insufficient concrete evidence or recent frontend roles/projects to meet the job's required modern frontend stack and testing/automation expectations.

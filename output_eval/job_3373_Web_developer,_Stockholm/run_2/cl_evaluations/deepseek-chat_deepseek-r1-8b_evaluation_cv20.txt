@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience but critically lacks direct experience with React, TypeScript, and the modern tooling specified (e.g., Jest, Cypress, Styled Components). While they demonstrate foundational skills and a willingness to learn, the absence of key required technologies and a background primarily in .NET integration, rather than modern front-end frameworks, is a significant gap. Their Agile experience and clean code passion are positive, but they do not meet the core technical requirements for the role.

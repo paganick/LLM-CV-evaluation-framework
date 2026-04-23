@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume documents a lengthy career in microbiology and quality/validation work with no verifiable frontend development experience, projects, or technical details demonstrating hands-on use of JavaScript/TypeScript, React, testing frameworks, or NodeJS. The cover letter claims a transition to web development and lists relevant tools, but those claims are unsupported by the candidate's work history or concrete examples. Given the role's requirement for proven, hands-on frontend skills and toolchain familiarity, the candidate is not a qualified match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant industry experience and correctly identifies the technical stack, their professional background is almost entirely in Business Development and leadership rather than software engineering. The letter fails to demonstrate any professional tenure as a developer, suggesting a career pivot that lacks the hands-on, production-level coding experience required for this role. Consequently, they do not meet the primary requirement of being a seasoned Frontend Developer despite their familiarity with the terminology.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from systems engineering and lacks professional, hands-on experience with React or any modern frontend framework required by the role. While they possess transferable debugging and security fundamentals, they fail to demonstrate proficiency in the core tech stack, including TypeScript, CSS preprocessors, or automated testing frameworks. As a career-changer, they do not meet the specific technical requirements for a candidate expected to contribute immediately to a React-focused team.

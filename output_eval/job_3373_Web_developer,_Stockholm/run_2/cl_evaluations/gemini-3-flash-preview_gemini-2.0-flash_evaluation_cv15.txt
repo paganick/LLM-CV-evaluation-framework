@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant IT background and foundational knowledge of HTML, CSS, and JavaScript, they lack professional experience with the core requirement of React and fail to mention TypeScript entirely. The letter omits critical technical prerequisites such as Git, automated testing frameworks, and web security protocols. Furthermore, the focus on irrelevant skills like Microsoft Office and networking protocols indicates a mismatch with the specialized front-end stack requested.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in presentation design and UI/UX, not front-end engineering. While they express interest in learning React and other front-end technologies, the letter lacks evidence of hands-on coding experience with modern frameworks. The experience described is primarily design-focused, not development-focused, missing key skills in JavaScript, TypeScript, and testing frameworks.

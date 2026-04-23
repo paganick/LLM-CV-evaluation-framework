@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in finance and operations management within publishing and non-profit sectors, with zero demonstrated experience in software development. The resume and cover letter show no proficiency in any required technical skills such as JavaScript, React, TypeScript, testing frameworks, or modern web development tools. This is a complete mismatch for a front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has a background primarily in marketing and communications, with no demonstrated experience in frontend development or the required technologies such as JavaScript, TypeScript, HTML, CSS, or React. While they express a desire to transition into frontend development, their current skills do not meet the specific technical requirements or experience necessary for this role.

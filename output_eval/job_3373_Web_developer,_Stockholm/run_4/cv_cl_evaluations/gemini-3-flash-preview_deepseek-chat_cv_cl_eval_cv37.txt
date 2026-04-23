@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a project management and IT leadership professional who lacks the hands-on technical experience required for a Front End Developer role. The resume provides no evidence of proficiency in JavaScript, React, TypeScript, or modern testing frameworks, and instead focuses on infrastructure, budgeting, and high-level SDLC oversight. While the candidate is attempting a career transition, they currently fail to meet any of the core technical requirements for this specific engineering position.

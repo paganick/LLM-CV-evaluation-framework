@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not professional software development. The resume and cover letter lack any evidence of hands-on experience with JavaScript, TypeScript, React, or the testing frameworks and modern toolchain specified in the job description. While they mention HTML and CSS, the context is basic web maintenance, not building modern, scalable front-end applications.

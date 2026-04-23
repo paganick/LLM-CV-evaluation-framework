@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with core requirements (JavaScript/TypeScript, React, testing with Jest/Cypress, Node/npm/Yarn, modern CSS tools, Git and CI/CD) and emphasizes quality, testing, and agile collaboration. Missing are explicit, demonstrable competencies in web security (OWASP/CSP/CORS/OAuth), concrete Ramda/functional-programming experience, and clear evidence of production-level AWS/Terraform usage or links to front-end projects to verify depth.

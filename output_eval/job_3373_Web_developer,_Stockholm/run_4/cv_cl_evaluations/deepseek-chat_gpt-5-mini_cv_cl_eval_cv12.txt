@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and soft skills, but critically lacks direct experience with React, TypeScript, and modern frontend testing frameworks as required. Their experience is heavily weighted towards PHP, C++, and system scripting, not the modern JavaScript/React ecosystem specified. While they show adaptability and foundational knowledge, they lack the specific, hands-on technical qualifications for this frontend role.

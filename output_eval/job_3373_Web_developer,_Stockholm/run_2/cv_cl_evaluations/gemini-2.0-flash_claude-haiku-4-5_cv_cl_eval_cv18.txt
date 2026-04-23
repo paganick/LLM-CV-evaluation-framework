@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions JavaScript, HTML, and CSS, there's a lack of depth and specific project examples using modern FE frameworks like React (the company's framework). The resume highlights older technologies and general IT consulting, rather than a focused FE development background. The cover letter attempts to bridge the gap, but the resume doesn't strongly support the required FE skillset for this role.

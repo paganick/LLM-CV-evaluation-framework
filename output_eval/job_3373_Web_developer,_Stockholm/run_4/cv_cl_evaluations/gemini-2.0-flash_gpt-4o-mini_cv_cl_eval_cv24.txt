@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight digital communications and content management experience, which is far removed from the front-end development requirements outlined in the job description. While the candidate expresses interest in learning, the lack of foundational skills in JavaScript, modern FE frameworks, and testing makes them unsuitable for this role. The resume lacks any projects or experience in software development.

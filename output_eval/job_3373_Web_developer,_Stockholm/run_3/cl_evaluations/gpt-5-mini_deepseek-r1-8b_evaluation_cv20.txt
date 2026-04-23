@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid front-end fundamentals (HTML, CSS, JavaScript, responsive design), testing experience, Git/GitHub use, and Agile collaboration, which are relevant to the role. However they lack direct experience with React and TypeScript and do not show familiarity with the modern tooling and ecosystem the job requires (Styled Components/SASS, Jest/Cypress, Node/npm/Yarn, linters, CI/CD, AWS/Terraform) nor explicit web security knowledge. Given these gaps against the stated requirements, they are not yet a strong match for this position.

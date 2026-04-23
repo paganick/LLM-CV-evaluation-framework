@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant educational background and some foundational knowledge in web technologies, but lacks proficiency in key skills outlined in the job description, such as JavaScript, TypeScript, and modern frontend frameworks like React. Additionally, there is no mention of experience with testing frameworks or tools, which are critical for the role. Overall, while the candidate shows potential, they do not meet the specific technical requirements needed for this position.

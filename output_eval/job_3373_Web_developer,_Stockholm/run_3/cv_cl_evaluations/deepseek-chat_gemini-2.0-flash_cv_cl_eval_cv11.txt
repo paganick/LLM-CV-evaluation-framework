@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing, not front-end development, which is the core of the role. While they list foundational web technologies (JavaScript, HTML, CSS), they lack demonstrable professional experience with React or any other modern front-end framework as required. Their testing experience is relevant for the testing aspects of the job description, but they do not meet the primary requirement of being a hands-on front-end developer.

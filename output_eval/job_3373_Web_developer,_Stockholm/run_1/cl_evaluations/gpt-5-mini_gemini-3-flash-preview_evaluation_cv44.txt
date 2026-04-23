@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant frontend and UX/UI experience, React familiarity, CSS tooling, Node/CICD awareness, and a CS background which align with the role. However, they do not show concrete, hands-on experience with TypeScript, automated testing frameworks (e.g., Jest/Cypress/TestCafe), or explicit Git/GitHub usage, and their JavaScript experience is described weakly. Given the job’s emphasis on TypeScript, test automation, and proven tooling experience, this is a relevant but not fully qualified fit.

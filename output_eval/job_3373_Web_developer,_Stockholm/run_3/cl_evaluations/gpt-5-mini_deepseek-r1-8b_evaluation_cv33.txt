@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate lacks demonstrated hands-on experience with JavaScript, TypeScript, React, modern CSS tools, testing frameworks, Git, and backend/CI/CD technologies required for this role. Their background in sales, project management, and training shows strong transferable skills (communication, Agile experience, and learning aptitude) but does not compensate for the missing core technical competencies. As a strict hire for a technical front-end role, they are not an immediate fit and would need demonstrable technical work or projects to be competitive.

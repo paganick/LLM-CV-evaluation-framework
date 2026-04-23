@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has significant experience in business development but lacks the required technical skills and experience in JavaScript frameworks like React, which is crucial for the position. Their background is more focused on sales and leadership rather than software development, making them unqualified for this technical role. Additionally, their limited understanding of testing frameworks and modern front-end technologies further diminishes their fit for the position.

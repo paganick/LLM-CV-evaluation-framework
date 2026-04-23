@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in C#/.Net backend development with limited, non-modern front-end exposure, directly conflicting with the job's core requirement for React and modern FE frameworks. Key technologies like TypeScript, testing frameworks (Jest, Cypress), CI/CD, and security concepts (OWASP, CORS) are absent from their resume. While they demonstrate strong general software engineering skills and mention JavaScript/HTML/CSS, their profile lacks the specific, hands-on experience with the required tech stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web development and Agile experience with solid JavaScript/HTML/CSS skills, Git proficiency, and familiarity with SASS and the Node ecosystem. However, they do not show hands-on experience with the team's core expectations—React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Ramda, or concrete AWS/Terraform and OWASP/CSP/CORS/OAuth knowledge. Overall, a relevant candidate who lacks several specific, required skills for this role.

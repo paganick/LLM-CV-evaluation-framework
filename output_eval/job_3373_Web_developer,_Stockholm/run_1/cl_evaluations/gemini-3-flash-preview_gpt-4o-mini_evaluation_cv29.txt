@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional, hands-on experience in front-end engineering, despite having extensive experience in the broader cloud software industry. While they demonstrate foundational knowledge of JavaScript and React, they do not possess the required proficiency in TypeScript, CSS tools, or automated testing frameworks mentioned in the job description. Their background is primarily in business development and technical writing, which does not satisfy the requirements for a mid-to-senior level technical role.

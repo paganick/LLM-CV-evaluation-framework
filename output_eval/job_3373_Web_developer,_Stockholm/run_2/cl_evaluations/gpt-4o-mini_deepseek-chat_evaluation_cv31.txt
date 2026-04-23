@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant skills in JavaScript, TypeScript, HTML, and CSS, and demonstrates hands-on experience with React and associated tools. However, while they possess a solid foundation, they lack specific experience with the full scope of the job description, such as CI/CD tools like CircleCI and the general understanding of AWS and Terraform, which slightly hinders their overall match.

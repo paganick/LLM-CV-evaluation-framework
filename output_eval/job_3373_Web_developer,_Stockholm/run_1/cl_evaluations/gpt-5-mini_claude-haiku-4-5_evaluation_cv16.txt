@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid frontend fundamentals (JavaScript, HTML, CSS), version control, security awareness and Agile collaboration, and shows willingness to learn React. However, they lack direct React and TypeScript experience and do not provide evidence of the modern tooling the role requires (Styled Components/SASS, Node/npm ecosystem, linters/formatters, Ramda, CI/CD) or strong, demonstrable test automation experience. Given the gap in core React/TypeScript and ecosystem experience, they are relevant but not yet a strong match.

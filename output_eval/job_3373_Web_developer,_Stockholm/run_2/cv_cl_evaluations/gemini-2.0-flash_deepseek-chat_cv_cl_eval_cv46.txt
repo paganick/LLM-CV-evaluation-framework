@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates familiarity with JavaScript, HTML, and CSS but lacks explicit project experience with React, the primary framework used by the company. Their resume highlights Java and database administration experience more prominently than front-end development. The cover letter expresses interest in learning React, but this indicates a need for training and development to meet the job requirements.

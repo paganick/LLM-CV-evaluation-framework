@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in digital marketing and Salesforce configuration, which aligns with technology but lacks direct experience in modern front-end frameworks such as React. While they exhibit skills in project management and clean code principles, they do not demonstrate hands-on experience with critical areas listed in the job description, such as testing automation, Git, or familiarity with modern CSS tools and JavaScript frameworks, making them an average candidate overall.

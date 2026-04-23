@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not frontend development. While they express interest and transferable skills, there's a lack of direct experience with the core technologies listed in the job description (React, TypeScript, HTML, CSS). The cover letter attempts to bridge the gap, but the resume doesn't provide sufficient evidence of frontend development skills.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience with JavaScript, TypeScript, and React, which are the core requirements for this software engineering position. Their background is in implementation consulting and digital marketing, showing no hands-on experience with modern development workflows, testing frameworks like Jest or Cypress, or CI/CD tools. While they possess basic HTML and CSS knowledge used for email templates, they do not meet the technical proficiency required for a front-end developer role.

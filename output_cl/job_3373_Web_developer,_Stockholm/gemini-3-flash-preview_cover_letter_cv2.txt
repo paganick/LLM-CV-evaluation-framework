@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+With eight and a half years of professional experience in software development and a proven track record as a Technical Designer at Tata Consultancy Services, I am writing to express my strong interest in joining your engineering team. Throughout my career, I have cultivated a deep expertise in building robust, scalable web applications, and I am eager to apply my technical background to your modern React-based ecosystem.
+
+My extensive experience with Java/J2EE technologies, including Spring, Hibernate, and Struts, has provided me with a rigorous foundation in Object-Oriented Methodology and Design Patterns. I have successfully delivered complex projects across diverse sectors, such as logistics for FedEx and asset management for SEI. These roles required a thorough understanding of the full application lifecycle, from requirement gathering and architectural design to unit testing and bug fixing. While my professional background is deeply rooted in Java, I have significant proficiency in frontend technologies like jQuery and Bootstrap, and I am currently committed to evolving my technical skillset into modern frameworks like React and TypeScript.
+
+I am a genuine advocate for writing clean, maintainable code. My consistent use of tools like PMD and Findbugs reflects my dedication to technical excellence and high code quality. Furthermore, I am highly comfortable working in Agile environments and collaborating across multi-functional teams. I possess a strong understanding of web security principles and have worked extensively with Git for version control. I am also familiar with the automation domain, which aligns perfectly with your focus on CI/CD and comprehensive testing strategies, including unit and integration tests.
+
+Your team’s transition toward a modern stack featuring React and AWS is particularly exciting to me as I seek growth. I am keen on understanding the full domain and contributing my analytical skills to solve complex problems while keeping up with the latest technological advancements. My ability to interact effectively with external partners and internal teams ensures that I can contribute to your collaborative culture immediately.
+
+I am eager to bring my technical precision and passion for clean architecture to your organization. Thank you for your time and consideration. I look forward to the possibility of discussing how my unique experience can support your team’s long-term goals.
+
+Sincerely, Alexis

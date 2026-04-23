@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive leadership and project management experience but provides no direct evidence of recent, hands-on frontend development work with the required technologies (React, TypeScript, modern tooling). Their background is impressive but misaligned with the core technical requirements of the role, positioning them as a career transitioner who would require significant upskilling.

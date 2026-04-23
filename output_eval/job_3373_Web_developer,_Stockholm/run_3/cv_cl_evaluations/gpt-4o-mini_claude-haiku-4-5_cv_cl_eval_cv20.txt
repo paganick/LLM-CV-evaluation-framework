@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and familiarity with core technologies such as JavaScript, HTML, CSS, and Agile methodologies. However, they lack experience with key modern frontend frameworks like React, TypeScript, and advanced testing frameworks specified in the job description, which limits their fit for the role. Additionally, the candidate's background is primarily in .NET development, which does not align closely with the stated requirements of the position.

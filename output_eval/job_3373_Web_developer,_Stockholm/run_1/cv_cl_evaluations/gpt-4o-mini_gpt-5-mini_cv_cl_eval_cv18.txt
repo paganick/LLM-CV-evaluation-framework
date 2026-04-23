@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has over 18 years of IT experience with a strong background in web design and development, specifically mentioning HTML5, CSS, and JavaScript. They demonstrate familiarity with modern CSS tools and a willingness to work with React, aligning with the job requirements. However, while they have experience with testing practices, there is no specific mention of modern testing frameworks like Jest or knowledge of CI/CD tools, which slightly impacts their overall fit.

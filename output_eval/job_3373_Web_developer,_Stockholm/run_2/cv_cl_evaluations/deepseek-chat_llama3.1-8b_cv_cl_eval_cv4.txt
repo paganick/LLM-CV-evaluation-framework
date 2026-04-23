@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and Python with minimal, non-professional front-end focus, lacking direct experience with React or modern FE frameworks as required. While the cover letter claims familiarity with key tools (React, Jest, Ramda, etc.), the resume provides no concrete evidence to support these claims, showing a significant skills mismatch. The candidate works in software development but lacks the specific, hands-on front-end and testing expertise outlined as critical in the job description.

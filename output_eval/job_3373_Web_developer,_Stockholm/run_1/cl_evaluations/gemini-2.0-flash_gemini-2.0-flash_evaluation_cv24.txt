@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate acknowledges a lack of proficiency in key technologies like React and TypeScript, which are core requirements for the role. While transferable skills from digital communications are mentioned, the cover letter heavily relies on enthusiasm and a willingness to learn, rather than demonstrable front-end experience. The cover letter does not address the majority of the job requirements such as testing, security knowledge, and specific tooling.

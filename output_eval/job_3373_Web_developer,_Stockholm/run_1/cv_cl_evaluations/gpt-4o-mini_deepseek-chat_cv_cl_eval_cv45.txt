@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in IT and cybersecurity, their direct experience with front-end technologies like JavaScript, TypeScript, and modern frameworks (specifically React) is not clearly demonstrated. Their cover letter expresses a transition to development, but it lacks the specific hands-on technical skills, testing frameworks, and modern CSS tools required for the position. Additionally, while they possess knowledge of security best practices, this alone does not fulfill the software development requirements.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is almost entirely rooted in electromechanical and electronics engineering rather than frontend software development. There is no demonstrated professional history with React, TypeScript, or modern CSS frameworks, and the resume lacks evidence of actual web applications built or maintained. While the candidate has a background in QA and hardware testing, they do not possess the specific technical expertise required for a specialized Frontend Engineer role.

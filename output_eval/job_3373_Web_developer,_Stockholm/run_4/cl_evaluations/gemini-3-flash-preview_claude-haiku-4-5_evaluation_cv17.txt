@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer transitioning from an unrelated industry (construction) with zero professional experience in software development. They lack the required hands-on experience in React, testing frameworks, and web security, explicitly stating they are still in the process of learning these core competencies. From a strict technical recruitment perspective, the applicant does not meet the baseline qualifications for a professional Frontend Engineer role.

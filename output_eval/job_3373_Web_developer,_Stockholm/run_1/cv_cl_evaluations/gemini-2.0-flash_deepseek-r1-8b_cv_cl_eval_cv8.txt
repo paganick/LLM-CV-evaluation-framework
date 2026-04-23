@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in hardware and system-level testing, with limited evidence of the required front-end web development skills (JavaScript, TypeScript, HTML, CSS, React, VueJS, Angular, Svelte). While the cover letter expresses interest in web security and mentions some relevant tools, the resume lacks concrete projects or experience in these areas. The candidate's skills lean towards test engineering in electronics manufacturing rather than modern web application testing.

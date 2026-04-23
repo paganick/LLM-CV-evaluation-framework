@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in general IT management and troubleshooting, not professional front-end development. While they list foundational web technologies, they lack demonstrable, current experience with the required React, TypeScript, modern testing frameworks, and the specific tools mentioned in the job description. The resume and cover letter indicate a broad, dated skill set that does not align with the specialized, modern front-end engineering role.

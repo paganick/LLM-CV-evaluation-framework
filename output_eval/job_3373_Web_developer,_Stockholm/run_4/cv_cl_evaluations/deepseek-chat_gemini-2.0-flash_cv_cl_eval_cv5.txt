@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in mainframe development (COBOL, CICS, DB2), which is a completely different technology stack and industry from modern frontend development. The resume and cover letter show no practical experience with JavaScript, TypeScript, React, or any of the required modern web technologies, testing frameworks, or tools listed in the job description. While the candidate expresses eagerness to learn, they lack the specific, hands-on experience required for the role.

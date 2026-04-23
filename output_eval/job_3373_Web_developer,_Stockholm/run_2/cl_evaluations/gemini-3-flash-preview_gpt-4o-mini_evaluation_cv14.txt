@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate professional experience with the primary requirements of React and TypeScript, instead highlighting a background centered on ASP.NET. While they possess foundational knowledge of web security and testing, they lack the specific hands-on expertise with the NodeJS ecosystem, CI/CD pipelines, and modern CSS-in-JS tools mentioned in the job description. As a result, the candidate does not meet the technical depth required for this modern front-end role.

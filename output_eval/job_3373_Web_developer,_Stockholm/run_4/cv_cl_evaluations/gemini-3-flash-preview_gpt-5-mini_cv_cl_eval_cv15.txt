@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern tech stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. Their work history is significantly outdated, with the last recorded professional role in 2012, and their skills focus primarily on legacy web technologies and general IT support. While they have foundational web knowledge, they do not demonstrate the necessary proficiency in CI/CD, modern CSS tooling, or functional programming required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in Java/JEE backend development, which is a different technology stack than the required JavaScript/TypeScript and modern frontend frameworks like React. While they show adaptability and mention some relevant concepts (Git, testing, Agile), they lack direct, hands-on experience with the primary technologies listed in the job description. Their experience with web security and Node.js is stated as familiarity, not practical application, making them a weak fit for this specific frontend-focused role.

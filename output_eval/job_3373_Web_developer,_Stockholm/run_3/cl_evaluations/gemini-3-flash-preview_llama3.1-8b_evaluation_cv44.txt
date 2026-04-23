@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate lists the required technologies, their professional background as a Presentation Designer suggests a significant skill gap for a software engineering role. The application fails to demonstrate professional experience with critical requirements such as Git, API design, CI/CD, or cloud infrastructure. A recruiter would find the transition from slide animation and graphic assets to high-level React development and web security lacks sufficient evidence of practical, technical proficiency.

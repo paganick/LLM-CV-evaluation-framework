@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong transferable skills, foundational HTML/web design familiarity, and a clear eagerness to learn modern JavaScript/React/TypeScript. However, the letter does not demonstrate hands-on experience with the specific technologies and practices listed (React/TypeScript projects, testing frameworks, Git/CI-CD, Node/npm/Yarn, modern CSS tooling, Ramda, AWS/Terraform, etc.). Given the role's technical requirements, this is a relevant-industry applicant who presently lacks the concrete, demonstrable experience needed for a stronger rating.

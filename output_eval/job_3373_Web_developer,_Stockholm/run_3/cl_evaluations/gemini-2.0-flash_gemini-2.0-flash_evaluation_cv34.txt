@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in implementation and coursework in web design, but lacks the required experience in JavaScript, TypeScript, and modern front-end frameworks beyond expressing eagerness to learn. There's also a lack of specific experience with testing, Git, security, and other tools mentioned in the job description. The letter focuses more on soft skills than demonstrable technical skills relevant to the Front-End Developer role.

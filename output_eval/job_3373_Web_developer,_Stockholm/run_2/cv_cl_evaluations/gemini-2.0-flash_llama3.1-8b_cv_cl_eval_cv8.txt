@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering for hardware and manufacturing, not software or web development. While the cover letter mentions JavaScript, TypeScript, HTML, CSS, and React, the resume lacks substantial evidence of practical experience in these technologies. The candidate's experience is more aligned with traditional test engineering roles.

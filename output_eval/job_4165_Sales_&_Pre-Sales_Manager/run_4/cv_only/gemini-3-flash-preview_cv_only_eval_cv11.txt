@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is a senior-level digital leader with a track record of driving revenue in agency environments, their experience is focused on marketing strategy and content rather than technical solution sales. They lack the mandatory sales experience in Application Services (API, Cloud, DevOps) or Business Analytics (Data Science) and do not demonstrate the required expertise in facilitating architectural design reviews or managing technical pre-sales for banking and telco clients.

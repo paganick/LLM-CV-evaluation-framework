@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has relevant experience with the required technologies such as JavaScript, TypeScript, HTML, and CSS, and demonstrates a solid understanding of modern frameworks, specifically React. They have practical experience with testing and Agile collaboration, which aligns well with the job description. However, there is no mention of familiarity with modern CSS tools mentioned in the job description, such as Styled Components or SASS, which prevents a perfect score.

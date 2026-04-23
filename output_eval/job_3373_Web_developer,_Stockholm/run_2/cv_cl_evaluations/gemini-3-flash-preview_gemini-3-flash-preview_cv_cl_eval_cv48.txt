@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is an IT infrastructure and hardware specialist with no professional experience in software engineering or frontend development. While the cover letter claims familiarity with React and TypeScript, the resume is entirely focused on systems administration, hardware repair, and technical support. There is no evidence of professional hands-on experience with automated testing, modern JavaScript frameworks, or API design as required by the job description.

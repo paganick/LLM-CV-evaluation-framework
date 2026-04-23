@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with expertise in statistical analysis, data science tools, and databases, which is completely misaligned with a Frontend Software Engineer role. The resume contains zero mention of JavaScript, TypeScript, React, HTML, CSS, testing frameworks, Git, or any frontend development experience. This candidate operates in an entirely different technical domain and lacks the fundamental requirements for this position.

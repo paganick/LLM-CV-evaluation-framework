@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree and mentions familiarity with IT and software lifecycles, the resume lacks concrete evidence of hands-on experience with modern frontend technologies like React, TypeScript, HTML, or CSS. The focus is primarily on project management, business development, and quality engineering, not frontend development. The cover letter expresses a willingness to learn, but the current skillset doesn't align with the job description's requirements.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate clearly exceeds the minimum experience and demonstrates strong Agile, research, prototyping (Axure), workshop facilitation, mentoring, and style-guide/UI consistency skills which align well with the role. However, they lack demonstrated proficiency with Figma (listed as highly desirable), have only foundational HTML/CSS and no JS exposure, and provide limited explicit evidence of owning the UX roadmap and day-to-day team management. Overall a strong candidate but not a perfect fit given the specified tool and roadmap/management gaps.

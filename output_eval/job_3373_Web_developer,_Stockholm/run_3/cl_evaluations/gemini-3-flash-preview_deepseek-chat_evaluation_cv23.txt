@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional experience with the required front-end stack, specifically TypeScript, HTML/CSS, and React. While they have a strong background in hardware validation and manual testing, they fail to demonstrate hands-on proficiency in software test automation, Git, or web security. The profile shows potential in logical reasoning and engineering principles but does not meet the immediate technical requirements for a developer position.

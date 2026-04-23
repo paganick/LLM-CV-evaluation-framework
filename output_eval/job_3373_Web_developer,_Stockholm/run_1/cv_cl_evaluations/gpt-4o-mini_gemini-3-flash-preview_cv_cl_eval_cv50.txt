@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in computer science and relevant experience in managing software projects, but lacks direct experience with key technologies specified in the job description, such as modern front-end frameworks (specifically React), testing frameworks, and CI/CD tools. While strong in technical project management and quality processes, there is insufficient evidence of hands-on skills with the required modern development stack and web security knowledge.

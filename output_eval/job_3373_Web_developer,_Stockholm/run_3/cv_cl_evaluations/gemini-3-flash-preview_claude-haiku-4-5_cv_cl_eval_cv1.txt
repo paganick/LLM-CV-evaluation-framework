@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant industry experience in full-stack development and React, their profile leans heavily toward Java backend and Selenium-based test automation rather than specialized frontend development. They lack documented experience with essential requirements like TypeScript, modern JavaScript testing frameworks (Jest, Cypress), and functional programming libraries like Ramda. Additionally, their CI/CD and build tool experience (Jenkins, Maven, Gradle) does not align with the modern frontend stack (CircleCI, Yarn) requested.

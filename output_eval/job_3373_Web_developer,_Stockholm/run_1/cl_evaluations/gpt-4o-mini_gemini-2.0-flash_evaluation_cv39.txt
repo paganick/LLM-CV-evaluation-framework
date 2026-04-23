@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in graphic and web design, they lack direct experience with key technologies required for the role, such as React, TypeScript, and modern CSS tools. Their knowledge of HTML and some ability to adapt are noted, but the absence of hands-on experience with testing frameworks, version control systems, and specific front-end development practices significantly limits their qualifications for this position.

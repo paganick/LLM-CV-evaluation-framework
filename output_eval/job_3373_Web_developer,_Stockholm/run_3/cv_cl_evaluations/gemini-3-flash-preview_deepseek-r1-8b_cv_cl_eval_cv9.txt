@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java developer whose professional experience is centered on the Spring ecosystem rather than the modern frontend stack required for this role. There is no evidence of professional expertise in React, TypeScript, or modern CSS tools, and their JavaScript experience appears limited to legacy implementations like JSP and Struts. While they possess strong general software engineering principles, they lack the specific technical skills and frontend testing experience essential for this position.

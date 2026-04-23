@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in information technology and some relevant skills in web design and development using HTML, CSS, and JavaScript. However, the lack of specific experience with modern front-end frameworks like React, TypeScript, and testing frameworks mentioned in the job description makes them a less-than-ideal fit. Additionally, their experience with Agile collaboration is not clearly demonstrated, which is a requirement for the position.

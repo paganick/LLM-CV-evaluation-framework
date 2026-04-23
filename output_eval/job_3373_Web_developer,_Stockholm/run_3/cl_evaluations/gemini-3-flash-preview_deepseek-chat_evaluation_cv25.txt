@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the core technical requirements, as they admit to only currently "upskilling" in JavaScript, TypeScript, and React rather than having the required hands-on experience. Furthermore, the application lacks any mention of testing automation, web security, or functional programming, all of which are explicitly required in the job description. While the candidate possesses relevant soft skills and design experience, they are technically unqualified for a role requiring proficiency in a modern development stack.

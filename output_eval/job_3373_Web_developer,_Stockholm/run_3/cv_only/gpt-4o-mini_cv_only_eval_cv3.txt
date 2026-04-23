@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development but lacks hands-on experience with key requirements such as modern JavaScript frameworks like React or VueJS, and test automation frameworks. Their knowledge of HTML, CSS, and JavaScript is noted, but there is no evidence of familiarity with Agile environments, CI/CD tools, or web security principles which limits their fit for the position.

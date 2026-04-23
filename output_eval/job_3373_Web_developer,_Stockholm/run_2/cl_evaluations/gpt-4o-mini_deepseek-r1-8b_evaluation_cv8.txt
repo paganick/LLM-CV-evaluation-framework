@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates extensive experience in test engineering and has relevant skills in automation and collaboration in Agile environments. However, they lack direct experience with the specific JavaScript frameworks and technologies mentioned in the job description, as well as experience with modern front-end tools and functional programming. This gap prevents them from being a strong match for the position.

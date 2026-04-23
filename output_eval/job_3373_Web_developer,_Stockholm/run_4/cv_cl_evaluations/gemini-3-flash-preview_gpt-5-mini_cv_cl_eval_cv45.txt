@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate possesses no professional experience or demonstrated proficiency in the required front-end technologies, including JavaScript, TypeScript, React, and modern CSS tools. Their background is exclusively centered on IT administration, cybersecurity, and government compliance rather than hands-on software engineering. While the candidate has relevant technical foundations in security, they are completely unqualified for a role requiring active development and front-end architecture.

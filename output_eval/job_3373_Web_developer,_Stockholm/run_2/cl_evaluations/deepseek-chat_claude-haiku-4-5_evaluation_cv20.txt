@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in web development, Agile collaboration, and core technologies like JavaScript, HTML, CSS, and Git. However, the cover letter lacks explicit mention of key requirements from the job description, including TypeScript, React, modern CSS tools (SASS/Styled Components), specific testing frameworks, and functional programming. While the foundational skills and collaborative mindset are a good match, the absence of direct experience with the specified modern tech stack prevents a higher score.

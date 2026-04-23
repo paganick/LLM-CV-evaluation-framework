@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in business development and some technical skills, particularly in HTML and C/C++. However, they lack direct experience with key requirements such as JavaScript, React, testing frameworks, and other modern front-end technologies outlined in the job description. While this candidate demonstrates strong leadership and project management skills, they do not fully meet the technical qualifications expected for the Front-End Developer position.

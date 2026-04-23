@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate demonstrates relevant skills in communication and project management, their lack of proficiency in essential front-end technologies like JavaScript, TypeScript, HTML, and CSS, as well as absence of hands-on experience with testing frameworks and CI/CD tools, limits their suitability for the role. Their background in marketing and public relations does not provide the technical foundation necessary for the position. The candidate shows willingness to learn, but they fall short of meeting the minimum requirements.

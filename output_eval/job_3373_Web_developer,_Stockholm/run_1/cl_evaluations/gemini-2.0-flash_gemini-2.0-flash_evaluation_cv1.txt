@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, ReactJS, and Git, aligning well with the job description. They also possess experience in testing and Agile methodologies. However, the cover letter lacks explicit mention of TypeScript, security knowledge (OWASP, CSP, CORS, OAuth), and modern CSS tools.

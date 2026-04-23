@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to meet the mandatory requirement of 2-3 years of commercial experience in a dedicated UX designer role, explicitly stating their background is in general design and leadership. They lack proficiency in Figma, the primary tool requested, and do not possess the necessary technical skills in HTML, CSS, or JS. While they have transferable leadership skills, they lack demonstrated experience in specific UX methodologies like customer journey mapping and formal user testing.

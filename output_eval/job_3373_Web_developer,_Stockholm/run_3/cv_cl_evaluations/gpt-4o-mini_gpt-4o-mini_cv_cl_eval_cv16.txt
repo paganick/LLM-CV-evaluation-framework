@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a strong background in JavaScript, HTML, and CSS. However, they lack direct experience with modern front-end frameworks such as React (which is specifically mentioned in the job description as the primary technology used), and their experience in testing frameworks and web security principles is not sufficiently robust. While they demonstrate potential, they do not fully meet several key requirements outlined in the job description.

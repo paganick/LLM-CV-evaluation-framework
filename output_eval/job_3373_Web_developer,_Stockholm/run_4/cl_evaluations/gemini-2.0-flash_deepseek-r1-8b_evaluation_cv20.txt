@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has some front-end experience, the cover letter highlights a .NET background, which isn't the primary focus of the job description. The letter acknowledges a lack of direct React experience, a key requirement. Their experience with JavaScript, HTML, CSS and Git is positive but not enough to overcome the lack of specific framework expertise.

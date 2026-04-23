@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's background is in graphic design, with limited experience in front-end development. While they express interest in learning, they lack the required skills in JavaScript, TypeScript, modern FE frameworks (React, VueJS, Angular, Svelte), and testing frameworks. The resume shows a completely different career path, therefore the candidate does not meet the job requirements.

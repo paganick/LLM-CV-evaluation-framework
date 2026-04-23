@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant frontend experience (React, CSS), testing and test automation experience, Git usage, and Agile collaboration, which align with parts of the job. However they do not explicitly state JavaScript/TypeScript or HTML proficiency, nor knowledge of the NodeJS ecosystem, modern CSS tools, specific testing frameworks, web security practices, or the CI/CD/AWS/infra tools listed in the JD. Given these significant gaps in required tooling and technologies, they are a relevant but incomplete match for the role.

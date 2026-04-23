@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in your Front-End Developer position. While my professional background for the last eight years has been in business development and technical sales within the cloud software industry, this represents a deliberate and passionate pivot. My career has been built at the intersection of technology and client needs, and I am now fully committed to transitioning into a hands-on development role, leveraging the extensive technical foundation and collaborative skills I have honed.
+
+My experience at Privacy Data Systems, LLC, where I supported a complex SaaS platform, provided me with deep, practical exposure to the full software lifecycle and the technologies you utilize. I worked directly with development teams, translating business requirements into technical specifications and gaining a firm understanding of API design, security considerations like OAuth, and the critical importance of clean, maintainable code. I administered our Salesforce CRM with custom applications, which required a logical, detail-oriented approach akin to development. Furthermore, my responsibility for the technical content of sales collateral demanded that I thoroughly understand and articulate the benefits of modern web technologies, security protocols, and seamless user experiences.
+
+I have proactively dedicated myself to building the precise technical skill set your role requires. I am proficient in JavaScript, TypeScript, HTML, and CSS, and have built projects using React. I am experienced with Git, modern CSS tools like SASS, and the Node.js ecosystem. I have a solid grasp of testing principles and have worked with Jest, and I am eager to apply functional programming paradigms. My background in competitive analysis and market research has cultivated a natural curiosity for new technologies and a keen interest in understanding full domains—traits directly aligned with your team's values.
+
+My career has proven my ability as a strong collaborator, a skilled communicator comfortable interacting across teams, and a dedicated professional committed to excellence. I am confident that my unique perspective, combined with my newly solidified technical skills, would make me a valuable asset to your Agile team.
+
+Thank you for considering my application. I look forward to discussing how my background and passion can contribute to your projects.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript, TypeScript, modern CSS, testing, and Agile. They show relevant experience with API integration, legacy code modernization, and a clear eagerness to learn the specific stack. The score is not a 9 because while they mention many desired tools, they do not explicitly confirm hands-on experience with several key items from the job description, such as web security fundamentals (OWASP, CORS), specific testing frameworks, or linters.

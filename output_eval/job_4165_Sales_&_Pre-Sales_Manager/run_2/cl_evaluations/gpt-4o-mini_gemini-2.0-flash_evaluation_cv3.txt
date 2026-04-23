@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has over 10 years of experience in digital sales and business development, aligning well with the role's requirements. Their past experience managing significant revenue and developing go-to-market strategies demonstrates relevant expertise. However, the cover letter does not specifically mention experience with the required technology stacks (API, Cloud, DevOps, Microservices) or facilitating architectural and design reviews, which lowers their score slightly.

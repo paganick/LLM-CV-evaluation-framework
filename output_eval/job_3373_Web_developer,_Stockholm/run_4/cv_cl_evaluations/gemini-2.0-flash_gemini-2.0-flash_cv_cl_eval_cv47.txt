@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development, with very limited front-end development experience. While they mention HTML proficiency, they lack the required JavaScript, TypeScript, React, and testing experience outlined in the job description. The resume focuses on sales, marketing, and management, making them unsuitable for a front-end developer role.

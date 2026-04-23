@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical requirements for this frontend role—no demonstrated JavaScript/TypeScript, no React or modern frontend framework experience, and no evidence of testing, Git, Node/npm, or CI/CD usage. Their background is primarily in media/marketing with basic HTML/CSS and database coursework, which is insufficient for the hands-on frontend responsibilities described. While they show willingness to transition and some relevant academic projects, they are not currently qualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and user experience but lacks direct experience with key technical skills mentioned in the job description, such as JavaScript, TypeScript, modern front-end frameworks like React, and test automation. While they possess valuable design skills and experience in collaborative environments, they do not meet the core technical requirements necessary for the role.

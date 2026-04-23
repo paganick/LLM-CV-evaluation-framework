@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in finance and operations within publishing/non-profit sectors, with zero mention of any technical skills required for the role (JavaScript, React, testing, Git, etc.). The cover letter attempts to draw parallels but demonstrates no actual experience with software development, modern web technologies, or the specific technical stack listed in the job description. This is a complete industry and skillset mismatch.

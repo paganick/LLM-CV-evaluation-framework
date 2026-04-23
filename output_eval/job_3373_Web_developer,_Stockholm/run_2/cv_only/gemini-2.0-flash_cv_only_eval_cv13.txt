@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses heavily on project management experience rather than hands-on front-end development. While they list Javascript, HTML/CSS, and Angular, the depth of their experience with these technologies is unclear. Their experience seems dated and lacks mention of modern frameworks like React or testing frameworks mentioned in the job description.

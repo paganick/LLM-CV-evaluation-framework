@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has relevant experience in JavaScript and modern front-end frameworks, specifically React, which aligns well with the job description. They also demonstrate familiarity with Node.js and testing methodologies. However, there is no mention of TypeScript or specific tools like Styled Components, SASS, or CI/CD tools mentioned, slightly lowering their match to the role.

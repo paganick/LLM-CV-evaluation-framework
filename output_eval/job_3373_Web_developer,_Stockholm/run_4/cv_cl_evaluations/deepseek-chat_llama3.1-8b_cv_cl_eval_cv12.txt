@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but critically lacks specific, recent experience with the core technologies listed in the job description, particularly React, TypeScript, and modern testing frameworks. The resume and cover letter emphasize older technologies like PHP, Perl, and Visual Basic, with no demonstrable hands-on experience in a modern React/TypeScript environment. While they possess foundational web skills and a long career, the mismatch with the specific technical stack and modern front-end practices is significant.

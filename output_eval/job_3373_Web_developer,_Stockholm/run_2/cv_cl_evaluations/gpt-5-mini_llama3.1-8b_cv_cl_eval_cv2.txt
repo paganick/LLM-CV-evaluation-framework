@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE backend experience, Git, and Agile exposure, but the resume and cover letter show only legacy web technologies (jQuery, JSP, Struts) and no demonstrated experience with JavaScript/TypeScript frameworks (React), modern front-end tooling, or front-end testing frameworks required for this role. There is also no evidence of NodeJS/npm/Yarn, CI/CD, modern CSS tools, functional libraries, or web security knowledge, so they are not qualified for this React/front-end focused position.

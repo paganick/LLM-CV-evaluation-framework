@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s background is in sales leadership with no demonstrated professional experience in JavaScript, TypeScript, React, modern frontend frameworks, testing, Git, Node.js, or related tooling required by the role. They list only basic HTML and express interest in learning, but provide no technical projects, code samples, or relevant hands-on experience. While their soft skills and leadership are strong, they do not meet the core technical qualifications for this frontend developer position.

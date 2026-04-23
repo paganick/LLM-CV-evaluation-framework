@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing automation and Eloqua administration, which is a completely different domain from front-end software engineering. The resume shows no experience with the required technologies like JavaScript, TypeScript, React, modern CSS, testing frameworks, or any other technical skills listed in the job description. This is a severe mismatch in core competencies and industry focus.

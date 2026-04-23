@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of experience in base web technologies and Agile environments, they fail to mention any experience with React or TypeScript, which are core requirements for this position. Their background is heavily focused on C#, .NET, and Python-based machine learning rather than the modern frontend and Node.js ecosystem specified. Additionally, the application lacks evidence of expertise in web security, Git, or the specific testing frameworks requested.

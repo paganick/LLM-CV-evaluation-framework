@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in program design and learning science with only "intermediate coding in R" and no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React (or other modern front-end frameworks), front-end testing, Git, Node, or CI/CD. While they show strong program management, collaboration, and rapid learning ability, they do not meet the core technical requirements for this front-end developer role and would require substantial upskilling before being productive.

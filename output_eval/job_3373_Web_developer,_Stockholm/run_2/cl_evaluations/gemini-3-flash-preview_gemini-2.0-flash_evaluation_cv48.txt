@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required tech stack, specifically JavaScript, TypeScript, and React, framing these as skills they hope to learn rather than established competencies. Their 12-year background is strictly in IT support and systems administration, which does not meet the requirements for hands-on software development, testing, or Git proficiency. While the candidate possesses foundational technical knowledge in networking and security, they are significantly underqualified for a front-end engineering position.

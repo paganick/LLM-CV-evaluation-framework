@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with a self-professed interest in transitioning to front-end development. While the cover letter mentions HTML, CSS, Javascript, Typescript, and React, the resume provides no evidence of practical experience with these technologies. The candidate lacks the required experience with modern FE frameworks and testing, and has no mention of important keywords such as Git, CI/CD, or Node.js.

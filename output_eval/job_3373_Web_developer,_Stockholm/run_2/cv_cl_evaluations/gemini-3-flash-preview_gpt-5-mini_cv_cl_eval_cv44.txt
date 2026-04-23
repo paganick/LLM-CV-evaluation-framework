@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a visual and presentation designer who lacks professional experience with the core technical requirements of the role, specifically React, TypeScript, and modern JavaScript. While they possess a Computer Science degree and basic HTML/CSS knowledge, there is no evidence of experience with automated testing frameworks, Git, CI/CD, or web security. Their profile focuses on creative assets and UI prototyping rather than the engineering-heavy demands of a front-end developer position.

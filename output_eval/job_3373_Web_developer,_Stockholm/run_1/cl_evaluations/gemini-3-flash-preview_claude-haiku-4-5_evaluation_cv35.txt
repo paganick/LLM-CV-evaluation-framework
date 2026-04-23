@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary tech stack, specifically React, TypeScript, and modern frontend testing frameworks, which are core requirements for the role. Their background is in marketing automation rather than software engineering, providing only "foundational" knowledge that does not meet the "hands-on experience" threshold. While the candidate possesses transferable soft skills and API knowledge, they would require extensive technical training to function in this specific development environment.

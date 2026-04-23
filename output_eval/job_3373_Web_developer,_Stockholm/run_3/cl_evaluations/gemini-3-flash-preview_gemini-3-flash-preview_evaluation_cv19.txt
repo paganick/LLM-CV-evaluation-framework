@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a background in the relevant industry and demonstrates strong transferable skills from engineering and design, they fail to show professional or practical experience with the core requirements of JavaScript and React. The application focuses on HTML and CSS but presents JavaScript and TypeScript as interests rather than established competencies. Furthermore, the candidate lacks the specific experience in automated testing, API design, and modern development tools required for this position.

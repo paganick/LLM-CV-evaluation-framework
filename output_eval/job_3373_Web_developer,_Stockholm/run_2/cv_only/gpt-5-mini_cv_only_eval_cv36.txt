@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, laboratory management, and regulatory training with no demonstrated experience in JavaScript, TypeScript, React, frontend frameworks, web technologies, testing frameworks, NodeJS, or CI/CD. Core technical requirements for the role (modern frontend development, web security, and tooling) are missing, placing them in the wrong industry for this position. While strong in lab validation and training, those skills are not relevant to the specified software engineering role.

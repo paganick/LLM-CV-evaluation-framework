@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses strong relevant experience in software development, test automation, and an understanding of web security. While their focus has been primarily on the server-side using Java, they demonstrate a readiness to learn front-end technologies, specifically React and TypeScript. However, a lack of direct experience with modern front-end frameworks and tools such as React and CI/CD practices slightly limits their overall match to the job description.

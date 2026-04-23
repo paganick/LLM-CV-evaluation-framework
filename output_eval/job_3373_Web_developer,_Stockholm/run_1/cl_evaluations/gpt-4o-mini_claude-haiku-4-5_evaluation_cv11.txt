@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and quality assurance, particularly with JavaScript and HTML, but lacks direct experience with modern frontend frameworks like React and libraries mentioned in the job description. While they demonstrate strong analytical skills and a commitment to quality, their background does not fully align with the specific requirements outlined in the job description, such as familiarity with tools like Styled Components, SASS, and knowledge about security on the web.

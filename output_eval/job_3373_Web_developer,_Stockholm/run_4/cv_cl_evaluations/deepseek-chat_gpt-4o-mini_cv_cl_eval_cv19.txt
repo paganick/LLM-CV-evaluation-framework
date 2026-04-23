@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, not professional front-end development. They lack the required hands-on experience with JavaScript, TypeScript, React, and modern testing frameworks listed in the job description. While they have basic HTML/CSS knowledge and express eagerness to learn, their current skill set is a fundamental mismatch for the role's core technical requirements.

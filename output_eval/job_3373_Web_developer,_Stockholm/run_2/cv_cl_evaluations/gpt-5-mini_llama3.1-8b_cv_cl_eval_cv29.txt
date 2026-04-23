@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in business development, sales and marketing with no demonstrated hands-on experience in JavaScript, TypeScript, HTML/CSS, React, modern frontend tooling, testing frameworks, Node.js, or cloud/infra technologies required by the role. The cover letter and resume mention API familiarity and collaboration with development teams but provide no evidence of coding, test automation, or frontend engineering skills. Therefore the candidate is not qualified for this frontend engineering position.

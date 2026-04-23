@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project and operations management but lacks direct experience with frontend development technologies such as JavaScript, TypeScript, React, and testing frameworks. While they have demonstrated some relevant skills related to web-based solutions and automation, they do not meet the core technical requirements outlined in the job description.

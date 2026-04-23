@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant industry transition and foundational knowledge of HTML, CSS, and Git, aligning with some job requirements. However, they lack hands-on experience with the core technologies listed in the job description, specifically JavaScript, TypeScript, React, and testing frameworks, which are mandatory. Their background is more adjacent than directly applicable, and they acknowledge significant gaps in the required technical stack.

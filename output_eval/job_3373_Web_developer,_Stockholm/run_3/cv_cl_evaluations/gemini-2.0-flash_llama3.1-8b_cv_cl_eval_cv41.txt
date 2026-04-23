@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: This candidate's resume and cover letter highlight system administration and IT support, which are not aligned with the front-end development focus of the job description. There is a complete absence of the required skills such as JavaScript, React, HTML, CSS, or any modern front-end frameworks. The candidate's experience is primarily in system maintenance, troubleshooting, and infrastructure support, making them unsuitable for this role.

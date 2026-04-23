@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose entire professional history is in metallurgy and materials analysis, which is completely outside the required industry for a Frontend Developer. While the cover letter claims self-taught technical skills, the resume contains zero professional experience, projects, or relevant certifications in software development to substantiate these claims. Consequently, the candidate lacks the necessary hands-on experience with React, TypeScript, and modern testing frameworks required for the role.

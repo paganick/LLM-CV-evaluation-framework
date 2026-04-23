@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development with proficiency in HTML, CSS, and JavaScript, which are relevant to the role. However, they lack experience with modern front-end frameworks like React and do not have hands-on experience with testing automation, CI/CD tools, or a strong understanding of security practices necessary for the position.

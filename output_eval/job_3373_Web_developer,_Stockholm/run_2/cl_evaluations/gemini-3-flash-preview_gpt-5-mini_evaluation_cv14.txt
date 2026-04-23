@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is an experienced web developer, they lack professional experience with the required modern tech stack, explicitly stating a "motivation to learn" React and TypeScript rather than possessing current proficiency. Furthermore, they do not demonstrate hands-on experience with the requested testing frameworks (Jest, Cypress) or CI/CD tools, making them a significant training liability for a senior-level requirement.

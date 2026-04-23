@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and Python for backend/data systems, with only basic, non-professional exposure to the required modern front-end stack (React, TypeScript). The resume lacks concrete evidence of professional experience with React, testing frameworks, modern CSS tools, or the specific technologies listed in the job description. While the cover letter attempts to align, it does not substantiate the claimed skills with professional work history, making the candidate underqualified for this specific front-end focused role.

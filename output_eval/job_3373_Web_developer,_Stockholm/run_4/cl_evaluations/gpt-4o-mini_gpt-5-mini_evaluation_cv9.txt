@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates relevant IT experience and a clear understanding of testing frameworks and modern front-end technologies. They show strong collaboration skills and a commitment to learning, aligning well with the Agile environment described in the job description. However, the candidate's primary experience is Java-centric, and while they express interest in front-end technologies, more direct experience with React and modern CSS tools could improve their fit.

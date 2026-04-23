@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, but lacks familiarity with TypeScript and the specific front-end framework required (React). While they demonstrate a general understanding of testing frameworks and CI/CD tools, they do not address other specific testing frameworks mentioned in the job description. Overall, they show potential but do not fully meet the expectations outlined for the position.

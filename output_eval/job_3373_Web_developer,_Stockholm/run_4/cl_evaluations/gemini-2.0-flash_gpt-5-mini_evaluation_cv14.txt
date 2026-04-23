@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant web development experience, but lacks specific experience with React, TypeScript and modern testing frameworks that are core to the job description. While they express a willingness to learn, the letter highlights past experience more than current skills in the required technologies. The candidate shows some awareness of security and collaborative workflows, but not necessarily at the depth required by the description.

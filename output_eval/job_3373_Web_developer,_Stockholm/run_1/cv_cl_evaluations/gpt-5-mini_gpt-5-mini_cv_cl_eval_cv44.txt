@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong UI/UX, HTML/CSS, prototyping and user-testing experience but lacks core technical skills required for this Front-End Engineer role: no demonstrated experience with JavaScript frameworks (React), TypeScript, modern JS toolchain (npm/Yarn, Node), testing frameworks (Jest/Cypress), Git, or CI/CD. Their background indicates potential to learn but not the immediate, hands‑on engineering experience needed for this position. Given the gap in essential front-end engineering technologies, they are not a strong match.

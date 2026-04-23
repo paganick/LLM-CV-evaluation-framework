@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a communications professional who lacks the mandatory technical experience in JavaScript, TypeScript, and React required for this engineering role. There is no evidence of professional software development experience, testing automation proficiency, or familiarity with CI/CD and cloud infrastructure. The application represents a complete mismatch between the candidate’s background in journalism/marketing and the technical requirements of a front-end developer.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited front-end experience. While they express interest in learning React, the letter lacks concrete examples of JavaScript, TypeScript, or testing experience, all of which are essential for the role. Their previous roles don't align directly with the required skills in the job description, indicating a need for significant upskilling.

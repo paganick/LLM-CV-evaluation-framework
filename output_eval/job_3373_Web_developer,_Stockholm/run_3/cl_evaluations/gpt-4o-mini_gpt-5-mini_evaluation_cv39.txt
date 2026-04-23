@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in design, with relevant skills in HTML and CSS, which aligns with the job description. However, they lack direct experience with key requirements such as JavaScript frameworks (specifically React), testing automation, modern CSS tools, and CI/CD practices, which limits their suitability for the front-end role.

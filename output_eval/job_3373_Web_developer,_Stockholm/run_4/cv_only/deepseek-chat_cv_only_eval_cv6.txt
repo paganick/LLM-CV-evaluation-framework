@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Drupal and PHP-based full-stack development, which is a different ecosystem than the modern React-focused frontend role described. While they have foundational skills in JavaScript, HTML, and CSS, they lack demonstrated hands-on experience with React, modern testing frameworks, and the specific toolchain (e.g., styled-components, Jest, Cypress, Node.js ecosystem) required. Their background shows strong general IT and project skills, but the specific technical fit for this frontend position is weak.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware and electronics test engineer with over a decade of experience in circuit design and manufacturing, which is fundamentally irrelevant to frontend web development. While the cover letter claims familiarity with JavaScript and React, the resume provides zero evidence of professional experience, projects, or formal training in these technologies. The candidate’s background in electrical engineering and hardware troubleshooting does not meet any of the core technical requirements for this software engineering position.

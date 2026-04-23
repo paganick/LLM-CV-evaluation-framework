@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design, with limited experience in the specific technologies outlined in the job description. While the cover letter indicates a transition to frontend development and mentions React, the resume lacks concrete evidence of hands-on project experience with modern FE frameworks and testing methodologies. The candidate's skills appear beginner level and the resume does not reflect the technologies required for the job.

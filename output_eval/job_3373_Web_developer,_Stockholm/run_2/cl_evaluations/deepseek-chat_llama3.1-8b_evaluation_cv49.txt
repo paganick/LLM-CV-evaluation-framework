@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's skills are almost entirely misaligned with the job requirements, which focus on front-end development, testing, and specific modern web technologies. The cover letter emphasizes data analysis, statistics, and backend tools like SAS, Python, and R, with only a superficial and incorrect mention of React. This demonstrates a fundamental misunderstanding of the role's required skill set.

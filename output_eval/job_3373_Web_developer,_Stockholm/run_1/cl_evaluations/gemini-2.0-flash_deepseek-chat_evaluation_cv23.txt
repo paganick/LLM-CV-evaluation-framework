@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate attempts to bridge their experience in hardware testing to front-end development, but lacks demonstrable experience with the core technologies listed in the job description, particularly React. While they express familiarity with JavaScript and SQL, the cover letter does not provide sufficient evidence of hands-on coding experience with the specific front-end frameworks and tools required. Their testing experience is focused on manual testing rather than the automated testing the job description prioritizes.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume highlights a strong background in software testing, but lacks demonstrable experience in front-end development beyond basic HTML, CSS, and Javascript. While they express eagerness to learn React and other modern frameworks, the resume doesn't showcase hands-on project work in these areas, a key requirement of the job description. Their experience is primarily in QA, making them a less direct fit for a front-end developer role.

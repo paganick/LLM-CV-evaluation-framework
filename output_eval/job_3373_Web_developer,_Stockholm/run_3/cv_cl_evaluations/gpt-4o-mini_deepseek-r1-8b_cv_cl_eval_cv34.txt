@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital marketing and project management but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they possess some familiarity with HTML and CSS, they do not demonstrate sufficient knowledge in important areas such as testing automation or web security, which are critical for the role. Overall, the applicant would need to significantly enhance their technical skills to be considered a strong fit for this position.

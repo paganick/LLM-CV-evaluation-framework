@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has relevant cloud-software exposure and mentions JavaScript/TypeScript, React, SASS and testing frameworks, but the letter does not demonstrate concrete, hands-on frontend engineering experience or deliverables. It lacks explicit evidence of Git/GitHub workflows, Node/npm, CI/CD, linters/formatters, Styled Components, Ramda usage, and ownership of unit/E2E test automation. The managerial/business-development background suggests strong domain knowledge but leaves a significant practical skills gap for this hands-on frontend role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate proficiency in core requirements including TypeScript, automated testing (Unit/E2E), and web security protocols. While they have relevant industry experience in Agile environments, their current focus is project management rather than active development, and their self-admitted "growing" React skills are insufficient for a role centered on that specific framework. Major technical gaps exist regarding modern tooling such as Git, CI/CD, and CSS preprocessors.

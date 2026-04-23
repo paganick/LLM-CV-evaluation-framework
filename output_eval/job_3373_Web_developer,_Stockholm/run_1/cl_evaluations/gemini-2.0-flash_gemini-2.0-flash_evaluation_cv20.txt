@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of core web development languages and Agile methodologies. However, the cover letter highlights experience with .NET technologies, which is not the primary focus of the job description. The candidate lacks specific experience with modern front-end frameworks like React, and other listed requirements are not explicitly addressed.

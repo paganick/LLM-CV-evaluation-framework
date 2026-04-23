@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily graphic design with only basic HTML/CSS experience and no demonstrated proficiency in JavaScript, TypeScript, React, testing frameworks, Git, or Node.js which are essential for this role. While they show transferable design skills and a willingness to learn, they currently lack the core frontend engineering experience and hands-on technical skills required. Recommend substantial upskilling and demonstrable development projects before being considered for this position.

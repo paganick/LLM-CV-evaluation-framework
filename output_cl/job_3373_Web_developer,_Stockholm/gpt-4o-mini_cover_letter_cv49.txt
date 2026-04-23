@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Software Engineer position at your company, where I can leverage my analytical skills and foundational knowledge in programming. I hold a Master’s degree in Industrial and Systems Engineering and have a strong background in data analysis, complemented by hands-on programming insights that align well with your requirements.
+
+My experience as a Data Analyst has honed my statistical and problem-solving abilities, skills that are essential for debugging and writing clean, efficient code. I am proficient in various programming languages and tools, including Python and SQL. While my direct experience with JavaScript, TypeScript, HTML, and CSS is limited, my passion for learning and adapting to new technologies is evident, and I am eager to expand my skills in modern frontend frameworks like React, which your team utilizes.
+
+In previous projects, I have demonstrated the ability to collaborate effectively in team settings, often assuming a leadership role in training newcomers and driving project success. My analytical approach has been instrumental in developing predictive models, performing regression analysis, and optimizing processes through statistical methods. Furthermore, my familiarity with testing methodologies is supported by my work on simulation and model validation, which ensures my commitment to delivering high-quality outcomes.
+
+I value the importance of testing and automation. My knowledge of statistical software is complemented by an understanding of best practices in code quality, utilizing tools that promote consistency and cleanliness such as ESLint and Prettier. My experience with Git and repository management will allow me to seamlessly integrate into your existing workflows.
+
+I am also enthusiastic about keeping pace with the evolving technology landscape and understanding how various components interconnect within a system. My experience with projects has instilled a solid foundation in API design and statistical methodologies, allowing me to approach challenges holistically.
+
+I am eager to bring my analytical mindset, collaborative spirit, and passion for technology to your innovative team. Thank you for considering my application. I look forward to the possibility of contributing to your organization.
+
+Sincerely, Alexis

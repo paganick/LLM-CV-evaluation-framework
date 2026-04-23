@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is entirely within sales and management, lacking any documented professional history or technical projects in software development. While the cover letter claims proficiency in the required tech stack, the resume fails to substantiate these claims with relevant work experience, technical certifications, or a related degree. As a result, the candidate does not meet the requirements for a technical role that demands hands-on experience with React, TypeScript, and automated testing.

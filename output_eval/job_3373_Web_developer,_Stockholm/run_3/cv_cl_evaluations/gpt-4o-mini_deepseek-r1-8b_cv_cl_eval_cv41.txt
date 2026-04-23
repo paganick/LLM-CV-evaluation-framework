@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in systems administration and some relevant skills related to software development and security. However, they lack direct experience with key technologies specified in the job description, such as JavaScript frameworks (React), testing frameworks, and CI/CD tools. Additionally, their focus has been primarily on infrastructure rather than the modern front-end development that the role requires.

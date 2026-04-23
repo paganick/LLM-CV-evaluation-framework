@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, CSS, and Git. However, the resume lacks concrete React experience, which is central to the job description, and uses older technologies like PHP. While the cover letter mentions an interest in transitioning to React, the lack of hands-on experience is a significant drawback.

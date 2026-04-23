@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from data analytics and shows strong analytical skills and a stated commitment to learn, but the resume contains no demonstrated hands‑on experience with JavaScript/TypeScript, React, modern CSS tooling, frontend testing (Jest/Cypress/TestCafe), Node/npm, or CI/CD—core requirements of the role. They have limited exposure to Git and front‑end concepts only mentioned in the cover letter rather than proven projects or work experience, so they are not yet qualified for an immediate frontend developer role.

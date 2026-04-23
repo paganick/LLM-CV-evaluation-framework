@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on data analysis and statistical modeling, with no mention of the required front-end development skills like JavaScript, TypeScript, HTML, CSS, or modern FE frameworks such as React. The candidate's experience with programming is mainly for data analysis and not web development. Therefore, the candidate is not a good fit for the job description.

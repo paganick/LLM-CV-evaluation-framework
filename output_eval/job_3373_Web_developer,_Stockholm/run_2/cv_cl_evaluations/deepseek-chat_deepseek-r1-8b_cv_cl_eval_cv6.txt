@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Drupal and PHP backend development, which is not aligned with the job's focus on modern React-based frontend engineering. While they list foundational skills like JavaScript, HTML, and CSS, they lack demonstrated, recent experience with React, modern testing frameworks, or the specific toolchain (e.g., Jest, Cypress, Styled Components, Ramda) required. The cover letter is generic and does not convincingly bridge the gap between their Drupal expertise and the role's specific technical stack.

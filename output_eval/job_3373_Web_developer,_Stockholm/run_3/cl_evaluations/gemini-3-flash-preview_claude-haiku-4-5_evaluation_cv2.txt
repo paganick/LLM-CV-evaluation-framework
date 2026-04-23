@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant overall software development experience, they lack professional hands-on expertise with the core requirements of React and TypeScript. Their background is primarily in legacy tools like jQuery and backend Java, meaning they do not meet the "modern frontend" or testing automation requirements at a senior level. Key technical areas such as web security (OWASP, CORS) and functional programming are not demonstrated, making this a transitional application rather than a direct skill match.

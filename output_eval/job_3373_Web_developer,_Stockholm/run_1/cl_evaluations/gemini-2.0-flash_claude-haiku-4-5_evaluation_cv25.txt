@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, with only a foundational understanding of HTML and CSS. They lack the required experience in JavaScript, TypeScript, React, and testing frameworks. While they express interest in learning, their current skill set doesn't align with the job description's core requirements.

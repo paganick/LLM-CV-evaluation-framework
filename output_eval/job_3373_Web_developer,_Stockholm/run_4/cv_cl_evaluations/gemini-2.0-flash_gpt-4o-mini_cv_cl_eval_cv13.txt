@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has project management experience with some exposure to front-end technologies, but the resume emphasizes project management over development. While they claim familiarity with some relevant technologies in the cover letter, the resume lacks concrete front-end development experience. The candidate mentions Angular, but the job description emphasizes React.

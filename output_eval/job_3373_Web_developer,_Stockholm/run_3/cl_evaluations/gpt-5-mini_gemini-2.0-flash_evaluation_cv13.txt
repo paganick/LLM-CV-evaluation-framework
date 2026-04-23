@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end exposure (JavaScript, HTML, CSS, Angular) and strong Agile/project leadership, but crucial role requirements are missing or weak. They report limited React experience and do not mention TypeScript, testing/test automation, Git/GitHub, Node/npm, modern CSS tooling, CI/CD, or web security/AWS—skills explicitly required. Given the gap in hands-on experience with the core tech stack and tooling, they are a relevant but underqualified candidate for this role.

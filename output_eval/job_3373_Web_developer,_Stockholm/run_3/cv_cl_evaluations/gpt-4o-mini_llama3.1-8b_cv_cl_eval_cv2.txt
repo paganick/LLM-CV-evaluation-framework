@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in Java/J2EE technologies and demonstrates experience in Agile development. However, they lack the required skills in JavaScript, React, TypeScript, and modern front-end frameworks mentioned in the job description. Additionally, there is no mention of experience with testing frameworks, which is essential for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in testing, not development, and lacks explicit TypeScript and React experience, crucial for the role. While they possess foundational knowledge in JavaScript, HTML, and CSS, their cover letter emphasizes testing frameworks over front-end development skills. The candidate demonstrates potential but doesn't directly meet the core requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development and Agile experience with HTML, CSS, JavaScript, Git and backend .NET work, but the resume shows mostly legacy front-end (jQuery/Bootstrap) and server-side/.NET responsibilities. There is no verifiable evidence of React, TypeScript, modern CSS tools, Node.js ecosystem, or hands-on automated front-end testing on the resume (the cover letter asserts these but is unsupported). Significant gaps remain for the modern React-focused front-end role, so they are not a strong match.

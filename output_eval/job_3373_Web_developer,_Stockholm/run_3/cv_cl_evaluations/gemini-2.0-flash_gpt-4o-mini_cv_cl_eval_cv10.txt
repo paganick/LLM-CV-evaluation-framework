@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with front-end technologies like HTML, CSS, and AngularJS, and has experience with testing and Agile methodologies. However, the resume lacks specific experience with React (the primary framework used by the company), TypeScript, and modern CSS tools like Styled Components or SASS. The candidate also only expresses "familiarity" with Node.js and is "gaining comfort" with AWS and Terraform, indicating a lack of hands-on expertise.

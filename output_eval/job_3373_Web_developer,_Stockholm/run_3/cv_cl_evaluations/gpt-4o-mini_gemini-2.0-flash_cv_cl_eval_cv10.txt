@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development with technologies such as HTML, CSS, and JavaScript, as well as exposure to AngularJS. However, they lack specific experience with React, modern testing frameworks, and CI/CD tools mentioned in the job description, which limits their fit for the position. Their background demonstrates some familiarity with Agile methodologies, but they do not fully meet the technical requirements outlined in the job description.

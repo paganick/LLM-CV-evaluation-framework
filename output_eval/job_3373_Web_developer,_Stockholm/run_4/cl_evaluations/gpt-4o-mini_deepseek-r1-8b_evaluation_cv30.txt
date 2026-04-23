@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant background in software development and quality assurance but lacks specific hands-on experience with the required front-end technologies, particularly modern JavaScript frameworks like React, as well as other essential tools and practices mentioned in the job description. While they demonstrate adaptability and a willingness to learn, their core skills are more aligned with data analysis and backend development rather than the desired front-end focus.

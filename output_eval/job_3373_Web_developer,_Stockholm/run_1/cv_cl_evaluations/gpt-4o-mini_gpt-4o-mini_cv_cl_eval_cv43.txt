@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in program management and education but lacks the necessary technical skills in JavaScript, TypeScript, HTML, and CSS. Their only coding experience is in R Studio, and they do not demonstrate adequate familiarity with modern front-end frameworks or testing automation. Although they express a willingness to learn, they would require significant training to meet the position's requirements.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate meets the core frontend requirements — JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, testing (Jest/Cypress), Git, linters, and Agile collaboration — and brings strong design-to-implementation experience. However, they explicitly state limited experience with NodeJS, functional programming (Ramda), CI/CD, and only “basic” knowledge of web security and AWS, lacking the hands-on backend/DevOps and infrastructure skills the role expects. These gaps prevent a higher score despite a solid frontend fit.

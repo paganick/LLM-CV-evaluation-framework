@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career Project Manager who lacks the mandatory hands-on experience with JavaScript, TypeScript, and React required for this engineering role. While they possess relevant industry experience and strong soft skills, their background is rooted in infrastructure and management rather than software development. They fail to demonstrate any proficiency in testing, version control, or modern front-end tooling, making them unqualified for a technical engineering position.

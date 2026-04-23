@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required technical stack, specifically failing to demonstrate proficiency in JavaScript, TypeScript, or React. While they possess strong business development experience and soft skills, their technical background in C/C++ is not a direct substitute for the modern front-end and testing expertise requested. The application confirms they are currently in a learning phase for the primary tools and frameworks essential to the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core tech stack, explicitly admitting to being a beginner in React, TypeScript, and modern JavaScript frameworks. While they possess relevant soft skills and an MIS background, they fail to demonstrate hands-on proficiency in automated testing, web security, or the specific front-end tools mandated by the job description. This profile represents a career-changer who does not meet the mandatory technical requirements for this engineering role.

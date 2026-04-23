@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and IT, but lacks direct hands-on experience with specific front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate knowledge of testing and version control, their background suggests a stronger focus on management rather than development, which does not fully align with the technical requirements of the position.

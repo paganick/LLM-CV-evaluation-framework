@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience with JavaScript, HTML/CSS and Git, but the resume shows primarily .NET/jQuery work and no demonstrated experience with React, TypeScript, modern testing frameworks, or the Node ecosystem. The cover letter makes many claims that are unsupported by the resume, indicating gaps in key required skills for this Front-End role. Due to these missing, role-critical modern front-end technologies and tooling, the candidate is not a strong fit.

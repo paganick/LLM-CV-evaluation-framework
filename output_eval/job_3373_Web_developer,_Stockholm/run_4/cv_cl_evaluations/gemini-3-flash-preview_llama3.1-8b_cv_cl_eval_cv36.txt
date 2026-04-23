@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a microbiologist with no professional experience or training in software development, failing to meet any of the core technical requirements such as JavaScript, React, or TypeScript. Their background in laboratory sciences and FDA compliance is entirely irrelevant to the front-end engineering role described. Despite mentioning interest in testing frameworks in the cover letter, the resume contains zero evidence of technical proficiency or projects in the required software stack.

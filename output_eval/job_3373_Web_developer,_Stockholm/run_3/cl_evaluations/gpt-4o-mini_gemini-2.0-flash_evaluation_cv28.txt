@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in data analysis and process improvement, they lack direct experience with core frontend technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks, particularly React. Their experience does not clearly demonstrate familiarity with testing and automation frameworks, Git, or web security practices, which are crucial for the role.

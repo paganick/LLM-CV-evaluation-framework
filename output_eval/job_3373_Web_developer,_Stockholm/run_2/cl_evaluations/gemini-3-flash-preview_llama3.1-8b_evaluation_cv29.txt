@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development executive applying for a hands-on technical engineering role, representing a total mismatch in career focus. While the applicant mentions high-level familiarity with APIs and cloud software, the cover letter fails to demonstrate any proficiency in the mandatory core requirements such as JavaScript, TypeScript, React, or automated testing. Consequently, the candidate lacks the fundamental programming expertise and software development background necessary to fulfill the responsibilities of this position.

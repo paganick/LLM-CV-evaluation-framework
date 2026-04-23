@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a long IT support/systems background and demonstrates transferable skills (troubleshooting, collaboration, agile comfort) and enthusiasm to learn, but provides no evidence of hands-on experience with the core requirements (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Node/npm, CI/CD). Given the role explicitly requires practical frontend development experience and testing/automation knowledge, this application is relevant but lacks the specific technical background to be considered a strong match.

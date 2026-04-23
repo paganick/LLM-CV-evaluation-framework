@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all the core technical requirements, including experience with React, TypeScript, modern CSS tools, and testing frameworks. Their education and technical skills are significantly outdated, focusing on obsolete technologies like Flash and ActionScript 3.0 rather than the modern stack specified. Furthermore, the candidate has no professional experience in software development, making them unqualified for a role requiring hands-on experience with CI/CD, AWS, and complex API design.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Front-End Developer position at your company. With a solid background in web technologies, including HTML, CSS, and foundational Java programming, coupled with my current pursuit of a Master's in Management Information Systems, I am excited about the opportunity to leverage my skills to contribute to your team.
+
+My familiarity with JavaScript and TypeScript complements my hands-on experience in HTML and CSS, which I have used effectively in my projects, including developing a Hospital Database Management System and an Accounts Receivable Application (ARA). While working on these projects, I implemented clean coding practices and ensured a user-friendly interface, highlighting my genuine passion for producing maintainable and optimized code.
+
+I am aware that your team utilizes React, and while I have experience with foundational web technologies, I am eager to learn and adapt to modern front-end frameworks. My proactive approach and strong interest in keeping up with the latest technologies empower me to quickly learn any new tools that your team employs. Additionally, I possess a fundamental understanding of testing frameworks such as Jest, and I am familiar with using version control tools like Git and GitHub, ensuring efficient collaboration within Agile environments.
+
+I have a keen awareness of web security principles, including OWASP standards, which aligns well with your requirements for basic knowledge of web security. My experience managing client relationships and collaborating within teams has honed my interpersonal skills, making me comfortable interacting with various stakeholders—both internal and external.
+
+Furthermore, I have had exposure to modern CSS tools such as SASS, and I have embarked on learning about CI/CD tools like CircleCI and have a budding interest in API design and cloud technologies like AWS. 
+
+I am excited about the possibility of embarking on a new career path in technology and confident in my ability to contribute positively to your team while continuing to grow within the front-end development field.
+
+Sincerely,  
+Alexis

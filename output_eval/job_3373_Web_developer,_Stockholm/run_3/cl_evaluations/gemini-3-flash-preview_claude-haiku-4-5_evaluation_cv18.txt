@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Despite 18 years of IT experience, the candidate fails to demonstrate professional proficiency in the core technical stack, specifically TypeScript, automated testing frameworks (Jest/Cypress), and CI/CD tools. The letter implies a lack of hands-on React experience by stating a goal to "master" the framework, which is insufficient for a role requiring specific expertise in modern frontend libraries. Essential requirements such as functional programming, AWS/Terraform, and modern CSS tools are either addressed with vague generalities or ignored entirely.

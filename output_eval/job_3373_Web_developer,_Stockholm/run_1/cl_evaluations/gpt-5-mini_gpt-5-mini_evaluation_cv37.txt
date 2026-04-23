@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong project management, SDLC, Agile experience, and general technical/operational aptitude, but provides no demonstrated hands-on experience with required front-end technologies (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, modern CSS tools, NodeJS/npm, or web security practices. Core job requirements for a React front-end engineering role are unmet, so they are relevant to the industry but lack the specific technical skills and proven coding experience needed to be considered a strong match.

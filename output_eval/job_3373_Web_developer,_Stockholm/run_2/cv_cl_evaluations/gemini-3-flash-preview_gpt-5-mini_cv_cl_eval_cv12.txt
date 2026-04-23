@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks hands-on experience with the primary technologies required for this role, specifically React and TypeScript, which are core to the current stack. Their professional history is heavily focused on PHP and legacy backend scripting rather than modern frontend frameworks or modern testing libraries like Jest and Cypress. While the candidate has relevant general engineering experience, they do not meet the specific technical requirements outlined in the job description.

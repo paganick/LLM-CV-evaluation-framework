@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's core expertise is in hardware and system-level test engineering, which is a different domain from the front-end and full-stack web development focus of the job. While they mention relevant secondary skills (Agile, Git, testing frameworks, security concepts), they lack direct, hands-on experience with the primary required technologies: JavaScript/TypeScript, React, and modern web development tooling. Their background is relevant to the testing aspect but misaligned with the core technical stack and role focus.

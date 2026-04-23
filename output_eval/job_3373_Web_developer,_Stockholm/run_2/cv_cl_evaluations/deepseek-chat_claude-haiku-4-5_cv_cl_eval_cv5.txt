@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL), which is a completely different industry and technology stack from modern frontend web development. While the cover letter expresses interest and a desire to pivot, the resume provides no demonstrable, professional experience with the required technologies like React, TypeScript, modern testing frameworks, or any of the listed tools. This represents a fundamental mismatch for the role.

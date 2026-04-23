@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in materials engineering and quality analytics with no evidence of frontend development skills (JavaScript/TypeScript, HTML/CSS, React) or related tooling (Git, Node, testing frameworks). Experience is focused on manufacturing processes, Six Sigma, and data analysis tools like Tableau, which is a domain mismatch for the role. Candidate is therefore completely unqualified for the advertised frontend developer position.

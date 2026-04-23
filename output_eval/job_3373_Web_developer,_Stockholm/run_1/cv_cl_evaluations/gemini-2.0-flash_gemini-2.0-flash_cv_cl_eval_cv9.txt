@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not the JavaScript-focused frontend technologies required. While they express interest in learning React and other modern tools, their resume lacks concrete experience with these technologies. Their experience with RESTful APIs and Agile environments is relevant but not enough to compensate for the lack of frontend skills.

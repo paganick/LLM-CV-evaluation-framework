@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some exposure to relevant technologies like JavaScript and mentions React in the cover letter. However, the resume is primarily focused on electronics engineering and lacks concrete experience with modern FE frameworks, testing frameworks, and other key technologies mentioned in the job description. There's a mismatch between the job requirements and the candidate's practical experience.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter focuses heavily on mainframe technologies like COBOL, CICS, and DB2, which are completely irrelevant to the listed job description's emphasis on modern front-end technologies like JavaScript, React, and associated tools. There's a significant mismatch in skillset and experience. The candidate's experience does not align with the requirements of a front-end developer role.

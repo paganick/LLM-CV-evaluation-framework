@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/J2EE developer and QA automation engineer, which deviates significantly from the core requirement for a modern TypeScript and React-focused frontend specialist. While they have relevant industry experience and mention React, their professional history lacks demonstrated depth in TypeScript, modern frontend testing frameworks (like Jest or Cypress), and functional programming. Crucial requirements such as web security knowledge (OWASP, CSP) and specific CI/CD tools (CircleCI) are also not substantiated in the resume.

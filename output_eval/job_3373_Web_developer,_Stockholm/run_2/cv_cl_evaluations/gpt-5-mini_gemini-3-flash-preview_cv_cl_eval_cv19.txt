@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual and HTML/CSS experience and demonstrates strong attention to detail, but lacks core technical qualifications required for this frontend role — specifically JavaScript/TypeScript, React, testing frameworks, Git/CI-CD, Node/npm, and experience with modern CSS tools and web security. Their background shows potential for an entry-level frontend or design-to-dev transition role, but they do not meet the practical skillset needed to contribute immediately to this React-based, test-focused engineering team.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in the financial industry, they lack the necessary professional-grade expertise in the modern frontend stack, specifically React and TypeScript. Their knowledge of web security and automated testing is purely foundational or limited to legacy mainframe systems, which does not meet the technical requirements for this role. Consequently, they are a career-changer who would require extensive training to handle the specific tools and libraries mentioned in the job description.

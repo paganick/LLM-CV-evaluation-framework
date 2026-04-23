@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on data analysis and statistical modeling, lacking direct experience with front-end development (JavaScript, React, etc.) which are key requirements in the job description. While the candidate mentions familiarity with Agile environments, their technical skillset doesn't align with the listed technologies. The letter demonstrates a general interest in technology but fails to showcase experience with the specific tools mentioned (Jest, Cypress, CI/CD).

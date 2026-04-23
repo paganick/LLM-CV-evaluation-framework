@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant industry experience with solid JavaScript/TypeScript, React familiarity, testing frameworks, Git usage, and web-security awareness, but their background is predominantly Java/backend-focused. They do not demonstrate required experience with several key frontend/ops items listed (Styled Components/SASS, linters/formatters, Node/npm/Yarn/Express, Ramda/functional programming, CircleCI CI/CD, and AWS/Terraform). These gaps mean they are relevant but lack several specific skills critical for this role.

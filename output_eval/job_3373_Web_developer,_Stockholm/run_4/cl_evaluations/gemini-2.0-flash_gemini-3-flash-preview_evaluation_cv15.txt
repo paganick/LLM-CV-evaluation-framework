@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant skills like JavaScript, HTML, and CSS, and mentions React indirectly, aligning with the job description. However, the cover letter emphasizes IT management experience over concrete frontend development experience, and the candidate expresses interest in learning TypeScript and automated testing, which are listed as required skills. While a collaborative attitude and Agile experience are noted, the lack of demonstrable expertise in critical areas lowers the overall score.

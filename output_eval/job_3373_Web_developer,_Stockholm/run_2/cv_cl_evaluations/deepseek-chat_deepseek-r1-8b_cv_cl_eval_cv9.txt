@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's primary expertise is in Java/JEE backend development, with minimal frontend experience (only basic JavaScript/HTML listed). The resume shows no experience with React, TypeScript, modern CSS tools, or the specific testing frameworks (Jest, Cypress) required. While they demonstrate strong general software engineering principles and Agile experience, their technical skills are a fundamental mismatch for a frontend-focused role.

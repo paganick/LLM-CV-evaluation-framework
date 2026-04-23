@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career IT project/operations manager with no demonstrated hands-on frontend development skills or technologies required by the job (JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Node/npm, CI/CD, AWS/Terraform, etc.). The candidate's experience is focused on project management, infrastructure, ERP and vendor coordination rather than software engineering or modern frontend development. This is a mismatch with the technical and hands-on development expectations of the role.

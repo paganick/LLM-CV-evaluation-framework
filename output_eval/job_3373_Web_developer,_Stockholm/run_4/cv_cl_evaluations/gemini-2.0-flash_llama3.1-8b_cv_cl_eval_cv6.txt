@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume and cover letter heavily focus on Drupal development, which is not the primary focus of the job description. While JavaScript is listed as a skill, the depth of experience with modern FE frameworks like React (which the company uses) is not evident. The resume lacks explicit mention of testing frameworks, CI/CD tools, or cloud platforms like AWS.

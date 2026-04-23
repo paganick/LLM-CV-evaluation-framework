@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe development, which is significantly different from the requested frontend technologies. While they express interest in learning React and possess some foundational knowledge of HTML and JavaScript, the resume lacks concrete experience with modern FE frameworks, testing frameworks, and other tools mentioned in the job description. Their experience in Agile and collaboration is a plus, but the skill gap is too wide.

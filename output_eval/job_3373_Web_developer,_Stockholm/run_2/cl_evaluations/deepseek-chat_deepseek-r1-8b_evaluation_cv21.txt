@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different tech stack (.NET, C#, SQL) and lacks the specific front-end technologies and modern tools required (React, TypeScript, modern CSS tools, Node.js ecosystem). While they demonstrate relevant soft skills and general development principles, the core technical requirements of the job description are not met. The experience is in the correct industry but is not a direct match for the role's specified technical needs.

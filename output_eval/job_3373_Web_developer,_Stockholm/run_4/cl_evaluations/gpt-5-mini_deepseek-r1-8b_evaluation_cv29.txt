@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The applicant's cover letter focuses exclusively on business development, sales, and marketing with no evidence of the required technical skills (JavaScript/TypeScript, React, testing frameworks, NodeJS, AWS, etc.) or hands-on front-end development experience. The profile aligns with a non-technical leadership role rather than the engineering-focused position advertised, so they are completely unqualified for this frontend developer role.

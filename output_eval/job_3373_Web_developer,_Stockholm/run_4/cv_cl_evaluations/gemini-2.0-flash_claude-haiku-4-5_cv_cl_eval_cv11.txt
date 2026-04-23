@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in software testing, which is tangentially relevant, but lacks demonstrable experience in modern FE frameworks such as React, VueJS, Angular, or Svelte. The resume shows some familiarity with JavaScript, HTML, and CSS, but the primary focus is on testing rather than development. While the cover letter expresses interest in transitioning to a frontend role, there is insufficient evidence of hands-on development experience to warrant a higher score.

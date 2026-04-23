@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a background in .NET and SQL with minimal modern front-end experience, lacking direct evidence of React, TypeScript, or the specific testing frameworks mentioned. The cover letter claims proficiency in required technologies but is not substantiated by the resume's project details. While they have relevant industry experience in web development and Agile, they lack the specific, hands-on skills in the core tech stack outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in a completely different industry with no demonstrated hands-on experience in any of the required technical skills (JavaScript, TypeScript, React, testing, Git, etc.). While they express an aptitude for learning and possess transferable soft skills, the cover letter provides zero evidence of frontend development capability, making them unqualified for the role as presented.

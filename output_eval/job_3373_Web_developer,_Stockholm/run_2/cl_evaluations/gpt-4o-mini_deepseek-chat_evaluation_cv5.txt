@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and has foundational knowledge in modern web technologies, specifically JavaScript, HTML, and CSS. However, they lack direct experience with many of the specific frameworks and tools mentioned in the job description, such as TypeScript, modern CSS tools, and certain testing frameworks, which are crucial for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and environmental science, lacking the required depth in front-end development. While the cover letter mentions some relevant technologies, the resume doesn't provide sufficient evidence of hands-on experience with modern FE frameworks like React, or testing frameworks like Jest or Cypress. The candidate's experience appears to be more aligned with backend data processing and analysis.

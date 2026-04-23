@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions the required technical stack including React and TypeScript, their professional history is centered on senior business development and program management rather than hands-on engineering. There is no mention of essential tools like Git, GitHub, or the Node.js ecosystem, which are critical for this position. The lack of practical, professional development experience makes this candidate a poor fit for a technical contributor role.

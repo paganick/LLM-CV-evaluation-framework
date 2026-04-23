@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant digital/web experience (HTML/CSS, Git, Agile collaboration and strong communication) but lacks the core, hands-on technical skills required: no demonstrated JavaScript/TypeScript or React experience, minimal testing/automation, and little exposure to NodeJS/CI/CD, Ramda, or AWS/Terraform. They express a willingness to learn modern tools and security concepts, but that does not replace the immediate practical experience this role requires.

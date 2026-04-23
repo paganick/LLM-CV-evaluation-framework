@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational background and hands-on experience with web technologies. However, they lack specific experience in modern front-end frameworks like React, testing automation tools, and familiarity with many of the other required technologies listed in the job description. While their construction background adds value, it does not fully compensate for the gaps in the web development skillset required for this position.

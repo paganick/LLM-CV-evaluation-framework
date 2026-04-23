@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant experience with JavaScript, HTML, CSS, and Git. However, the resume and cover letter primarily highlight experience with PHP, MySQL, and older technologies, not the React-focused modern FE environment the job description emphasizes. While the candidate mentions familiarity with testing and Agile, the depth of experience with specific tools like Jest, Cypress, and CI/CD pipelines is not clearly demonstrated.

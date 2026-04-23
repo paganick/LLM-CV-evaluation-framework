@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend and database developer whose experience in Java and SQL does not align with the job's core requirements for React, TypeScript, and modern JavaScript frameworks. While they possess a relevant technical background, they lack hands-on experience with the required frontend tools, testing suites, and CI/CD pipelines mentioned in the description. Furthermore, the candidate admits to only having a basic understanding of security and is "open to learning" the technologies that are mandatory for the role.

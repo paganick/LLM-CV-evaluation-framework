@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in web development but primarily with Java technologies, not the JavaScript ecosystem mentioned in the job description. While they list JavaScript and HTML as skills, the resume lacks depth in modern front-end frameworks. Their experience with SOA and web services might be relevant, but the core skills required for the role are missing.

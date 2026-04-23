@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET and C# with minimal exposure to the specific modern frontend stack (React, Vue, Angular, Svelte) required. While they have foundational web skills (JavaScript, HTML, CSS) and mention Agile collaboration, they lack demonstrable, hands-on experience with the key technologies listed, such as React, modern CSS tools, Node.js ecosystem, and functional programming with Ramda. The application shows a relevant industry background but a significant skills gap for this specific frontend role.

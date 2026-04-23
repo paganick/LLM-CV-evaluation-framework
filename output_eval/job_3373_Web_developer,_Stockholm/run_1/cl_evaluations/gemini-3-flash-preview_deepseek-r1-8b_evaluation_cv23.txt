@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s experience is heavily focused on electronics and hardware troubleshooting, which is largely irrelevant to a modern web development role requiring React, TypeScript, and CSS. Key technical competencies such as frontend frameworks, CI/CD pipelines, and modern testing libraries (Jest/Cypress) are entirely missing from the profile. Furthermore, the misspelling of "Java script" and a focus on C++ suggest a significant lack of professional experience with the required web technology stack.

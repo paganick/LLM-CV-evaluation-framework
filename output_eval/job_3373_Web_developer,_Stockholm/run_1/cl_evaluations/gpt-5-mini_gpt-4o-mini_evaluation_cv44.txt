@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid UX/UI and HTML/CSS background, Agile experience, and some awareness of web security and API concepts, but provides little concrete evidence of professional experience with React and TypeScript, modern CSS tooling (SASS/Styled Components), testing frameworks/E2E, Git/CI workflows, or the NodeJS ecosystem. Given the role’s strong emphasis on those specific front-end engineering skills and tooling, the profile is relevant to the industry but lacks the key technical depth required for a strong match.

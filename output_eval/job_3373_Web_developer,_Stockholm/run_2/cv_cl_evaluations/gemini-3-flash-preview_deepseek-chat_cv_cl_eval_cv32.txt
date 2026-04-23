@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate possesses no professional experience in software development, with a resume entirely focused on customer service and retail sales from over a decade ago. While the cover letter claims self-taught technical skills, there is no evidence of professional application, a relevant degree, or a portfolio to satisfy the specific technical requirements for JavaScript, TypeScript, and React. Furthermore, the resume indicates a significant employment gap and lacks any mention of the modern developer tools requested in the job description.

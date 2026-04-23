@@ -1,0 +1,2 @@
+Score: [6]
+Reasoning: The candidate has sales experience and some relevant technology exposure, but lacks specific experience in the digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, Business Analytics, Design Consulting). The resume highlights experience in aerospace and insurance, which are relevant industries but don't directly translate to the digitalization focus outlined in the job description. While the candidate demonstrates project management and client relationship skills, the technical depth required for the role seems limited.

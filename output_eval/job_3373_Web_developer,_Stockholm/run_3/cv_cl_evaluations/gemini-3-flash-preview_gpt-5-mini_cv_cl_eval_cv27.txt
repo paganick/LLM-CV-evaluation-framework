@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all the essential technical requirements, including professional experience with JavaScript, TypeScript, React, and modern testing frameworks. Their background is entirely in administrative management and the arts, with no evidence of software engineering experience or knowledge of CI/CD, cloud infrastructure, or API design. As the candidate is from a different industry and does not possess the required skill set, they are completely unqualified for this engineering role.

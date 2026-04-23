@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in hardware test engineering and electronics, which is a completely different industry from modern frontend software development. The resume shows no experience with JavaScript, TypeScript, React, or any other required frontend frameworks, and the cover letter's claims of relevant skills are not substantiated by the professional history. This is a fundamental mismatch for a frontend developer role.

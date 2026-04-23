@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary required tech stack, specifically React and TypeScript, which are essential for this role. Their testing background involves data-centric tools rather than front-end frameworks like Jest or Cypress, and they admittedly require training in the NodeJS ecosystem and functional programming. While they possess foundational web skills and Git experience, they do not meet the core technical requirements of a modern front-end developer for this specific environment.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant foundational skills (HTML/CSS), strong documentation and communication abilities, and experience working in Agile teams, but does not show hands-on experience with the core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, or web security. Their willingness to learn is positive, but there is insufficient evidence of practical experience or tooling familiarity required for this role, making them a partial but not yet fully qualified match.

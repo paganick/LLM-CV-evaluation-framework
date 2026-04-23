@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong backend experience (Java/J2EE), familiarity with Git/Agile, and full SDLC exposure, which is valuable. However, they lack demonstrated hands-on experience with core frontend requirements—JavaScript/TypeScript, React, modern CSS tooling (Styled Components/SASS), frontend testing frameworks, Node/npm ecosystem, and CI/CD—listed as essential. Given these significant gaps, they are a relevant but underqualified candidate who would require substantial upskilling to meet the role's expectations.

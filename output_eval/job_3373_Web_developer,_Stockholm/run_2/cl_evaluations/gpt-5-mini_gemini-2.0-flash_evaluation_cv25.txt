@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end adjacent experience (HTML/CSS and design) and demonstrates adaptability, but the cover letter shows no concrete experience with core job requirements such as JavaScript/TypeScript, React, testing/automation, Git, modern CSS tools, Node/npm, or web security. Given the role's emphasis on hands-on React, testing, and tooling, the candidate currently lacks the specific technical skills and examples needed to be considered a strong match. They may be trainable, but do not meet the position's immediate requirements.

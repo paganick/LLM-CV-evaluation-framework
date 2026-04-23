@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong visual design and Adobe experience, a relevant BA in Art/Graphic Design and many years in creative roles, but the resume lacks explicit UI/UX deliverables (wireframes, prototypes, storyboards, sitemaps) and no evidence of modern wireframing/prototyping tools (InVision, Wireframe.cc) or collaboration with UX researchers/engineers. Portfolio is not provided and there is no clear UX process or product-focused interaction described, so while industry-relevant, key specific UX skills and tool experience are missing.

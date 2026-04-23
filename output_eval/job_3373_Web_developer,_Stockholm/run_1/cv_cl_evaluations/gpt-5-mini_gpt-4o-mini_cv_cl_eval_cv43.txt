@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in program management and learning design with only "intermediate coding in R Studio" and no demonstrated hands-on experience with JavaScript, TypeScript, HTML/CSS, React, testing frameworks, NodeJS, Git, or CI/CD. While they show strong collaboration and Agile experience and express eagerness to learn, they do not meet the core technical requirements for this front-end developer role. Significant upskilling and practical experience would be required before they could competently fill this position.

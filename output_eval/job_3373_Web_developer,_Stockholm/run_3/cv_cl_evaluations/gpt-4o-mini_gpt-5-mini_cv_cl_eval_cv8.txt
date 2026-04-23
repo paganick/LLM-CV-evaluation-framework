@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering, but lacks direct experience with front-end technologies like JavaScript frameworks (specifically React). While they show a passion for learning new technologies and have relevant skills in test automation, their background does not align closely enough with the requirements of the front-end engineering position. Thus, they are relevant to the industry but lack specific experience and skills needed for this role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is almost exclusively in Java/J2EE backend development with outdated frameworks like Struts and EJB, which is a completely different tech stack from the required modern frontend role. While the cover letter claims self-study of JavaScript and React, there is no verifiable professional experience with React, TypeScript, modern CSS, testing frameworks, or any other key technologies listed in the job description. The candidate's background is in the wrong technical domain for this specific frontend position.

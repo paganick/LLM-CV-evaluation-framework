@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development, particularly on server-side systems, which could complement front-end work. However, there is a lack of demonstrated hands-on experience with modern front-end frameworks such as React, testing frameworks, and familiarity with specific tools mentioned in the job description, which is crucial for this role.

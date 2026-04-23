@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend development, particularly with React, JavaScript, and testing, which aligns well with the job description. They also showcase familiarity with Git, CI/CD, and web security principles. While the candidate's full-stack and test automation background isn't the primary focus, it provides a valuable, well-rounded perspective for frontend development.

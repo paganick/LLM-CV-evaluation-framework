@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET developer with experience in legacy technologies like jQuery, which falls significantly short of the modern frontend requirements for React and TypeScript. There is no evidence of professional experience with modern CSS tools, automated testing frameworks, or functional programming as explicitly requested in the job description. While the candidate has a relevant background in software development, they lack the specific technical mastery of the modern frontend ecosystem necessary for this role.

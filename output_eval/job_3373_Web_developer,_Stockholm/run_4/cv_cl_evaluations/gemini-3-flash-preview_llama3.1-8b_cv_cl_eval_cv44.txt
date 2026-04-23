@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree and relevant UI/UX experience, their professional history is primarily focused on presentation and multimedia design rather than front-end engineering. The resume fails to demonstrate any practical experience with the core requirements of React, TypeScript, or modern testing frameworks, listing instead legacy tools like Dreamweaver and jQuery. Consequently, the candidate lacks the technical depth and hands-on engineering background necessitated by the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a sales leader with only a brief mention of HTML and stated interest in learning React and other tools, but provides no demonstrable hands-on experience with JavaScript/TypeScript, React, testing frameworks, modern CSS tooling, Node/npm, Git, CI/CD, or web security — all explicit requirements. While they demonstrate strong collaboration and Agile experience, the application lacks the technical qualifications and concrete evidence of frontend development work required for this role.

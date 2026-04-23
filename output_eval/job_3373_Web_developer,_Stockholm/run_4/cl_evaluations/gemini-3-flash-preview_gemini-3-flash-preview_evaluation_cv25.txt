@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate provides a strong match for the primary technical requirements, specifically React, TypeScript, and the requested testing and styling frameworks. However, a strict evaluation reveals they lack hands-on experience with the company's specific backend/functional stack (NodeJS, Ramda, CI/CD), mentioning them only as areas for future growth. Their background as a transitioning designer suggests a high level of front-end polish but necessitates further technical vetting for architectural depth.

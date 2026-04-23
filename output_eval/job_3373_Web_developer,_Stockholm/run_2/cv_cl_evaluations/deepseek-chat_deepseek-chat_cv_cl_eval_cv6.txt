@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and foundational skills in JavaScript, HTML, and CSS. However, they lack direct, hands-on experience with the core requirements of React, modern frontend testing frameworks, and the specific modern toolchain (e.g., styled-components, Jest, Cypress, CI/CD). Their professional background is heavily centered on Drupal/PHP, which is a significant deviation from the React-focused role described.

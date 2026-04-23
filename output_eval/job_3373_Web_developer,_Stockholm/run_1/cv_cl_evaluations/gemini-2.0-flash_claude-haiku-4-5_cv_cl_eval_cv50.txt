@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and IT project management, lacking the required frontend development experience. While they possess a Computer Science degree, the resume does not showcase proficiency in JavaScript, TypeScript, React, or modern CSS tools. The cover letter acknowledges a desire to transition into frontend development, indicating a lack of current expertise.

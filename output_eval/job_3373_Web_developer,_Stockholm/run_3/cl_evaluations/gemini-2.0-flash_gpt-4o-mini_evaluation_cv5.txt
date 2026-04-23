@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant experience, particularly with JavaScript, HTML, Git, and testing concepts. However, their background is primarily in mainframe technologies, and while they mention React, it's framed as "recently acquired," suggesting a lack of extensive experience. The cover letter also highlights database experience with DB2, which isn't mentioned in the job description, further reinforcing the impression of a mismatch between their core skillset and the front-end focus of the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in JavaScript, TypeScript, HTML, and CSS, particularly in a React environment. They possess knowledge of testing and automation strategies but lack specific mention of modern CSS tools, testing frameworks, or CI/CD tools as listed in the job description. Overall, they show strong potential with a solid understanding of web security and Agile collaboration.

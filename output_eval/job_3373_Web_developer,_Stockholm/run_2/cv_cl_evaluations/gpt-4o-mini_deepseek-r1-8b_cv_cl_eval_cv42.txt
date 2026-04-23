@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in finance and operations; however, they do not meet the core technical requirements for the position, such as proficiency in JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate strong project management skills and the ability to implement process improvements, their lack of direct experience with web development technologies and testing tools makes them a less suitable fit for this technical role.

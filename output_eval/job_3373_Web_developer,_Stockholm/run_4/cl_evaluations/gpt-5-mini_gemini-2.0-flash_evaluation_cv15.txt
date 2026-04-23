@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end basics (HTML, CSS, JavaScript), some full-stack exposure, and collaboration experience, but fails to demonstrate many key requirements: no explicit React or TypeScript experience, no mention of Git/repo workflows, testing frameworks/test automation, Node/npm ecosystem, web security knowledge, or CI/CD/AWS tooling. This makes them a potentially trainable but currently underqualified match for the role. I would only consider them if junior mentoring and upskilling were available.

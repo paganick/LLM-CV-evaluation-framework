@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate primarily possesses a background in Java and legacy AngularJS (1.x), which does not align with the modern React and TypeScript requirements of the role. The resume lacks evidence of experience with modern frontend tooling, functional programming, or specific testing frameworks like Jest or Cypress. While technically competent in software engineering fundamentals, the candidate lacks the direct, recent frontend expertise necessary for this position.

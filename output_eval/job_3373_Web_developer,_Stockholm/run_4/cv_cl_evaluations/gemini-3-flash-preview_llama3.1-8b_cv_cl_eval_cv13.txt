@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager, while the job description specifies a highly technical role requiring deep expertise in React, TypeScript, and functional programming. Although the cover letter claims familiarity with the required stack, the resume fails to provide evidence of professional experience with modern frameworks, testing suites, or CI/CD tools, focusing instead on management and SEO. There is a significant misalignment between the candidate's management-heavy background and the hands-on engineering requirements of the position.

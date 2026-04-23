@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience primarily focuses on systems engineering and IT support, with limited direct experience in front-end technologies like JavaScript, React, or modern CSS tools. Although they show a willingness to stay updated with technology and have experience in automating processes, they lack specific front-end frameworks and testing frameworks mentioned in the job description. Thus, while they come from a relevant industry, they do not meet the specific skills required for a strong fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in hardware and system-level test engineering, which is a different domain from the front-end and full-stack web development focus of the job. While they mention some relevant keywords (Agile, Jest, Cypress, OWASP, Git), the cover letter lacks specific, demonstrable experience with the required technologies: JavaScript/TypeScript, React, modern CSS, Node.js, and the associated ecosystem. Their background does not align with the primary technical requirements of the role.

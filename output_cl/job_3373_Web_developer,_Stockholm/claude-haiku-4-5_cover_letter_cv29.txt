@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position at your organization. While my background has primarily focused on business development and technical sales strategy, I am excited about this opportunity to transition into a hands-on development role where I can directly contribute to building exceptional user experiences.
+
+Throughout my career, I have developed a deep understanding of technical ecosystems and software architecture by working closely with development teams. As Director of Business Development at Privacy Data Systems, I liaised extensively with technical teams to understand complex product capabilities, including web applications, APIs, and cloud-based solutions. This experience has given me valuable insight into modern development practices and the importance of clean, maintainable code.
+
+I possess foundational knowledge in several technologies listed in your requirements. My experience with Adobe Creative Suite demonstrates proficiency in web design principles and CSS concepts. Additionally, my work with API design and cloud platforms including AWS has exposed me to architectural patterns relevant to modern frontend development. I have also gained familiarity with Git and version control through collaborative technical projects and CRM system administration involving data management workflows.
+
+What truly excites me about this role is the opportunity to deepen my technical skills in React, TypeScript, and testing frameworks like Jest and Cypress. I am a fast learner who thrives when mastering new technologies, and I am genuinely passionate about writing clean, well-structured code. My background as a skilled trainer and communicator positions me well to thrive in your collaborative Agile environment and to effectively communicate across teams.
+
+My analytical mindset, combined with my talent for streamlining complex processes, will enable me to quickly grasp frontend best practices and contribute meaningfully to your development efforts. I am committed to staying current with industry trends and am eager to develop expertise in modern tooling such as ESLint, Prettier, and CI/CD pipelines.
+
+I am confident that my dedication to learning, collaborative spirit, and passion for technical excellence make me a strong candidate for your team. I welcome the opportunity to discuss how I can contribute to your frontend development initiatives.
+
+Sincerely, Alexis

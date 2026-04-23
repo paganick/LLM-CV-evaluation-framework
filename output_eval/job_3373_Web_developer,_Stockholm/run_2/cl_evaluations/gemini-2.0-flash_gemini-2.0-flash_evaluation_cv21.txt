@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant experience with front-end technologies and Agile methodologies. However, they lack specific mention of React, TypeScript, testing frameworks like Jest, and other tools outlined in the job description. The cover letter focuses more on general website design and C#, which are less relevant to the stated requirements.

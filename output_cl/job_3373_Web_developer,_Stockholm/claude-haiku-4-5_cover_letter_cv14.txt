@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With my solid foundation in web technologies and proven ability to deliver high-quality applications, I am confident I can make a meaningful contribution to your team.
+
+Throughout my career as an ASP.NET Web Developer, I have developed strong expertise in JavaScript, HTML, and CSS, which directly aligns with your core technical requirements. My experience designing storyboards and developing user interfaces has given me a deep appreciation for clean, maintainable code and modern web standards. I have successfully migrated the IU Print website from ColdFusion to ASP.NET, demonstrating my ability to work with evolving technology stacks and deliver results in dynamic environments.
+
+My technical skill set closely matches your needs. I have hands-on experience with testing frameworks and understand the importance of comprehensive test coverage, including unit and integration testing. I am proficient with Git and have worked extensively with GitHub for version control and collaboration. My background includes practical knowledge of web security principles, including secure data handling and user authentication patterns implemented across multiple enterprise applications.
+
+Beyond technical skills, I embody the collaborative and growth-oriented mindset you seek. I have consistently participated in code reviews and pair programming sessions, actively contributing to raising coding standards across teams. My recognition as Associate of the Month and membership in Team of the Month award-winning teams demonstrates my commitment to excellence and teamwork. I thrive in Agile environments and have proven my ability to work effectively with cross-functional teams and external stakeholders across various complex projects.
+
+I am genuinely passionate about staying current with modern development practices and technologies. While my primary expertise has been in the .NET ecosystem, I have invested time in expanding my knowledge to include contemporary frontend tools and frameworks. I am eager to deepen my React expertise and learn the functional programming practices your team values, including tools like Ramda and modern CSS solutions such as Styled Components.
+
+My experience with build processes, deployment pipelines, and infrastructure understanding will serve me well in your environment. I have worked on projects requiring secure data validation, bulk processing, and complex business logic, which has given me insight into the full development lifecycle and domain understanding you prioritize.
+
+I am excited about the opportunity to bring my technical expertise, collaborative spirit, and passion for clean code to your team. I am confident that my background positions me well to contribute meaningfully to your projects from day one.
+
+Sincerely, Alexis

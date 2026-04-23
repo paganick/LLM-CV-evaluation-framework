@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong graphic design background but no demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, or cloud/infra tooling. The cover letter expresses eagerness to learn but offers no verifiable technical work or projects to support immediate contribution as a Front-End Developer. This is a mismatch for the technical expectations of the role.

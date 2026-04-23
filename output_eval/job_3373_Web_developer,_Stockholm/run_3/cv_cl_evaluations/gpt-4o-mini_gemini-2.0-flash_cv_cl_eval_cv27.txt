@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in administrative roles and artistic fields, which is not directly related to front-end development or the specific technical skills required for the position. While there is some familiarity with HTML and web design, the candidate lacks core experience in JavaScript, TypeScript, modern frameworks like React, and hands-on testing or automation skills. Additional knowledge in security on the web and familiarity with tools such as Git, CI/CD, and testing frameworks were not demonstrated in the application.

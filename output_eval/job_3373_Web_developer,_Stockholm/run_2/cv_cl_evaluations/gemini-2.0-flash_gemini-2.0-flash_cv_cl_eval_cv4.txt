@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses some relevant skills, particularly JavaScript, HTML, and CSS, and has experience with API integration and database development. However, the resume lacks explicit mention of modern FE frameworks like React, and details on testing frameworks and CI/CD tools are absent, indicating a gap in the desired technologies. The resume focuses heavily on C# and .NET, which are not prioritized in the job description.

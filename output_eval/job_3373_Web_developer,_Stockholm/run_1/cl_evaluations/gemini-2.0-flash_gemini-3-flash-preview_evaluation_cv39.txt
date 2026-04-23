@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a long history in web design, which is adjacent but not directly aligned with frontend development. They mention recent efforts to learn the modern frontend stack, including React, but the depth of their experience isn't clear, particularly regarding testing and other tools listed in the job description. While they touch on some desired skills, the cover letter doesn't provide enough concrete evidence of hands-on project experience with the required technologies beyond basic familiarity.

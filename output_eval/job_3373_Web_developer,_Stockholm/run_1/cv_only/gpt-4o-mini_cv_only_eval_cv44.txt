@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in design and multimedia but lacks the core technical skills required for the position, such as JavaScript, TypeScript, and familiarity with modern front-end frameworks like React. Their background in user experience design does demonstrate some relevant industry knowledge, but it is insufficient to meet the technical demands of the job description.

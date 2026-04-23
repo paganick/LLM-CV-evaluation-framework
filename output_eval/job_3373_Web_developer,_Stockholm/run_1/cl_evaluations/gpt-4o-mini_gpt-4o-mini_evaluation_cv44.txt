@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and a solid background in user experience and interface design, which aligns with several of the job requirements. However, they lack experience with modern CSS tools like Styled Components and SASS, and their knowledge of testing frameworks seems insufficient compared to the position's expectations. Additionally, the candidate does not mention familiarity with Git or CI/CD tools, which are essential for the role.

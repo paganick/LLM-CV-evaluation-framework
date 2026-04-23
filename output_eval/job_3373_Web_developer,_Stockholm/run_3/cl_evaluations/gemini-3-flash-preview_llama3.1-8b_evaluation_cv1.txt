@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant experience in test automation, their profile is heavily centered on Java and Selenium rather than the required TypeScript and modern testing frameworks like Cypress or Jest. The application fails to address specific requirements such as web security (OWASP), NodeJS, and CI/CD tools mentioned in the job description. Additionally, the claim of being a "seasoned" developer with over three years of experience is inconsistent with the requirements and nature of an internship role.

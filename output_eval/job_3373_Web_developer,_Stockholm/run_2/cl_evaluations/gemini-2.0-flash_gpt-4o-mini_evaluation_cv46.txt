@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant web development experience, particularly with JavaScript, HTML, and CSS. However, the cover letter highlights more Java experience than direct React experience, the company's preferred framework. While they express willingness to learn, the limited hands-on experience with modern frameworks and some listed tools slightly weakens their application.

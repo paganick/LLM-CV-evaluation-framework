@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks demonstrated hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node/Git and modern frontend toolchain) and provides no portfolio or project evidence of development work. Strong transferable soft skills and leadership are noted, but they do not compensate for the absence of required technical competence; significant upskilling and verified practical experience would be needed before this candidate could perform in the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience with HTML and CSS, but lacks sufficient depth in JavaScript and modern FE frameworks like React (the company's framework). Testing experience is limited, a key requirement in the job description. While the candidate expresses interest in continuous learning, the current skill set doesn't align well with the job's technical demands.

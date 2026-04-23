@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses heavily on project management and IT leadership, skills that are not central to the job description's emphasis on front-end development. While the candidate mentions familiarity with IT concepts and collaboration, the required hands-on coding experience (JavaScript, React, testing, etc.) is largely absent. The letter does not demonstrate sufficient technical experience related to the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic and product design with only superficial web/HTML experience and no demonstrable skills in JavaScript, TypeScript, React, modern front-end frameworks, testing/automation, Node ecosystem, or CI/CD—core requirements of the role. Claims in the cover letter are not substantiated by the resume, which indicates the candidate is not a front-end engineer but a visual designer. This is a mismatch for the technical and collaborative expectations of the position.

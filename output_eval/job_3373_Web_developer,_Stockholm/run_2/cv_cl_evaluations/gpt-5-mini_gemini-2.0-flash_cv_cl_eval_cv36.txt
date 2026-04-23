@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in microbiology and regulatory consulting with no demonstrated skills in JavaScript, TypeScript, React (or other modern frontend frameworks), frontend testing, Git, or the Node ecosystem required by the role. While they list transferable strengths like documentation and collaboration, there is no technical evidence they can perform frontend development tasks. This is a wrong-industry profile and does not meet the job's core technical requirements.

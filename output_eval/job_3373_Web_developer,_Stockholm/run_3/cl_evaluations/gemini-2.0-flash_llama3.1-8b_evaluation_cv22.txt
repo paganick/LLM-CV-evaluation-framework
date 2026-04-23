@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions experience with relevant technologies like JavaScript, TypeScript, React, and testing frameworks. However, the cover letter lacks specific examples showcasing in-depth knowledge and application of these technologies in projects, especially React. The candidate also mentions experience in media planning and SAP, which is not directly related to the job description's focus on front-end development.

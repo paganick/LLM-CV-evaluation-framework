@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a visual designer who lacks the essential technical requirements for this role, specifically professional experience with JavaScript, TypeScript, and React. While they possess strong HTML/CSS skills, they are admittedly in the early stages of learning the core programming languages and testing frameworks required by the job description. Furthermore, there is no mention of experience with Git, web security protocols, or the NodeJS ecosystem, making them significantly underqualified for this specific engineering position.

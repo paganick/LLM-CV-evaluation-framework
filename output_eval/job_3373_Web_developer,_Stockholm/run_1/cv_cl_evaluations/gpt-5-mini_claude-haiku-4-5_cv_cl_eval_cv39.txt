@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical qualifications required for this frontend developer role — no demonstrated experience with JavaScript/TypeScript, React, testing frameworks, Git, or modern frontend tooling. Their background is overwhelmingly in graphic and product design with only superficial, dated HTML/web exposure. While they express willingness to learn, they do not meet the baseline technical skills needed to contribute effectively to an Agile frontend engineering team.

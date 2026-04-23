@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant technical foundation and strong transferable soft skills, aligning with the job's collaborative and Agile requirements. However, they lack direct, professional experience with the key modern technologies specified, particularly React, TypeScript, and the listed testing frameworks and tooling, which are required for the role. Their experience is primarily academic and based on older technologies, placing them as a candidate with potential but significant skill gaps for immediate contribution.

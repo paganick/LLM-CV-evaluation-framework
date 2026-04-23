@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant full-stack experience and demonstrates a strong understanding of Agile, core web technologies, and a willingness to learn React. However, they lack direct, hands-on experience with several key technologies from the job description, specifically TypeScript, React, modern CSS tools, and the Node.js ecosystem. Their foundational knowledge is good, but the absence of proven experience with the specific tech stack prevents a higher score.

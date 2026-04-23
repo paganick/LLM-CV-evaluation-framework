@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the essential technical requirements, including React, TypeScript, Git, and automated testing frameworks like Jest or Cypress. Their current toolkit relies on outdated software such as Dreamweaver and jQuery, which does not align with the modern engineering standards specified in the job description. While they possess foundational HTML/CSS skills, they are transitioning from a design-focused role and would require extensive training to meet the senior-level engineering expectations.

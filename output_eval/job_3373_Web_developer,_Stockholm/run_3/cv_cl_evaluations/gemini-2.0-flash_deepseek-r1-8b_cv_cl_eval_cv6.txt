@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has JavaScript experience but the resume is heavily focused on Drupal and PHP. There is no mention of React, TypeScript, or modern FE frameworks as requested in the job description. Testing frameworks and NodeJS ecosystem experience is also lacking.

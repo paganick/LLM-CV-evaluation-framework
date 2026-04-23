@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT support and system administration, not front-end development, which is a significant mismatch for the core role. While they express interest in learning and mention some relevant concepts like React and security, they provide no demonstrable hands-on experience with the required technologies (e.g., JavaScript, React, testing frameworks, Git). Their transferable skills are noted, but the lack of direct, proven front-end development experience makes them unqualified for the position as described.

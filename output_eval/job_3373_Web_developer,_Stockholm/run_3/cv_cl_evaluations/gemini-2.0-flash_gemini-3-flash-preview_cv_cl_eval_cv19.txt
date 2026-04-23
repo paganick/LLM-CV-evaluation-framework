@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design and electrical work, with limited explicit experience in the specific technologies mentioned in the job description such as React, TypeScript, and testing frameworks. While they express interest and some foundational knowledge of HTML/CSS, the lack of direct experience with modern FE frameworks and other required skills makes them a weak match. The cover letter attempts to bridge the gap, but the resume doesn't reflect the necessary skills.

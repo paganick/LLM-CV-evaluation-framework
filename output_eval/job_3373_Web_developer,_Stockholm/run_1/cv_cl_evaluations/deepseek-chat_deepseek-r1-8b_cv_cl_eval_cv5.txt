@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and a completely different domain, with no demonstrated professional experience in the required modern web stack (JavaScript, TypeScript, React, CSS). While they express a willingness to learn, the job requires hands-on experience with specific frameworks, testing tools, and web security concepts which they lack. This represents a fundamental industry and skillset mismatch for the role.

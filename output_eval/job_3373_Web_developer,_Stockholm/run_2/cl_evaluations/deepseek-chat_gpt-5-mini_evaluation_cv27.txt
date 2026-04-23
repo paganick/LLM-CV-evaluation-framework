@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills in project management, documentation, and a user-focused mindset, aligning with the job's collaborative and Agile requirements. However, they lack direct, hands-on experience with the core technical stack, including JavaScript, TypeScript, React, testing frameworks, and modern tooling, which are explicitly required. Their stated motivation to learn these skills is noted but does not substitute for the practical experience the role demands.

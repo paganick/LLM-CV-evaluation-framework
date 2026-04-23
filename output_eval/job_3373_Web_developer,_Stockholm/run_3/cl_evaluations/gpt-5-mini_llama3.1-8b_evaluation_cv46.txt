@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant software experience and matches several tooling items (testing frameworks like Jest/TestCafe, linters/formatters, CircleCI, Agile collaboration), but fails to demonstrate concrete, hands-on experience with several core requirements: React, TypeScript, modern CSS tooling (Styled Components/SASS), the Node/npm ecosystem, functional programming with Ramda, and basic web security/AWS knowledge. Given those gaps in essential front-end and ecosystem skills for this role, they are not a strong match in its current form.

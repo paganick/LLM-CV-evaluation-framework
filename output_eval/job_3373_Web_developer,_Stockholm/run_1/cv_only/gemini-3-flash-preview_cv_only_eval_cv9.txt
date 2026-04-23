@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a Java backend developer with an enterprise focus, lacking the required expertise in modern frontend technologies such as React, TypeScript, and Styled Components. Their professional background centers on legacy Java stacks and SOAP services rather than the modern JavaScript ecosystem, functional programming, and specific frontend testing frameworks like Cypress or Jest. Consequently, the candidate fails to meet the core technical requirements necessary for this modern web development role.

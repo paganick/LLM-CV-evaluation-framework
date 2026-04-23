@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong, relevant testing experience and Agile collaboration skills that align with the job's secondary requirements. However, the core requirement is front-end development with modern frameworks like React, which the candidate explicitly lacks as a primary background, despite showing eagerness to learn. Their testing expertise is an asset, but the direct hands-on development skills and specific tooling listed are not demonstrated.

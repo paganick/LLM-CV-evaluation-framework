@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant education in IT and skills in foundational web technologies such as HTML, CSS, and JavaScript. However, they lack hands-on experience with modern frameworks like React, testing frameworks, and CI/CD tools, which are necessary for the position. Additionally, while the candidate has a passion for web development, they may need more practical experience to meet the role's requirements effectively.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java-focused developer whose professional experience is significantly outdated, with the last listed role ending in 2017. They lack documented proficiency in the required modern JavaScript ecosystem, specifically failing to demonstrate experience with TypeScript, functional programming, or specialized JS testing frameworks like Jest and Cypress. While the candidate has basic React and CSS knowledge, their profile does not meet the strict requirements for a modern frontend specialist.

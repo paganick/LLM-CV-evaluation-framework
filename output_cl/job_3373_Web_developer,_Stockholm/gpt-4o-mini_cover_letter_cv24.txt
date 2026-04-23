@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end development position listed. With over a decade of experience as a Digital Communications Specialist, I have developed strong skills in managing complex projects and collaborating with cross-functional teams, making me a great fit for your dynamic Agile environment.
+
+My background includes a solid foundation in digital content management, leveraging tools and technologies that are critical to modern web development. I have a keen understanding of HTML and CSS, and while I may seek to expand my experience with JavaScript frameworks like React, I am enthusiastic about undertaking this journey. I am also familiar with Git and repositories, having collaborated closely with IT departments to manage and optimize project communications.
+
+In my previous roles, I coordinated with stakeholders to develop and implement multifaceted communication strategies, working hand-in-hand with subject matter experts to ensure that complex subjects were distilled into user-friendly content. This experience has honed my ability to write clean, effective code and communicate clearly across various platforms and partnerships.
+
+I am particularly interested in the modern CSS tools and testing frameworks mentioned in your job description. While I am currently familiarizing myself with Styled Components and SASS, I have a genuine passion for continuous learning, ensuring I stay updated with the latest technologies. My experience with software like Google Analytics, combined with my technical writing skills, will allow me to contribute meaningfully to creating and optimizing web content.
+
+Furthermore, I understand the importance of security in web development and would be eager to expand my knowledge of OWASP and OAuth as I join your team. I am excited about the opportunity to understand the full domain and engage with various platforms, driving successful collaboration across your organization.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team.
+
+Sincerely,  
+Alexis

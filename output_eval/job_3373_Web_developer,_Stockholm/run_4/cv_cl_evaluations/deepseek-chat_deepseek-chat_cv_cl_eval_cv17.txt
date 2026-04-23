@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is in civil engineering and construction management, which is a completely different industry from front-end software development. While the cover letter claims a career pivot and self-taught skills, the resume provides zero evidence of professional experience, projects, or education in JavaScript, React, or any other technologies listed in the job description. The core requirements for hands-on development experience are not met.

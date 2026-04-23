@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant degree and core knowledge of HTML, CSS, and JavaScript, they lack the required hands-on professional experience with React and TypeScript, identifying them instead as areas of interest. Furthermore, the application fails to address critical requirements such as Git proficiency, web security (OWASP/CORS), and functional programming. As a recent graduate, the applicant does not demonstrate the specific technical depth in testing and modern front-end frameworks necessary to meet the role's professional demands.

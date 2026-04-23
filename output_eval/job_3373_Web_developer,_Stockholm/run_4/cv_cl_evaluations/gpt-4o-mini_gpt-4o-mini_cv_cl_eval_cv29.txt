@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development and cloud software but lacks direct experience in front-end development, particularly with JavaScript frameworks like React, which is specifically mentioned in the job description. While they express interest in web technologies and mention experience with testing frameworks and Git, they do not demonstrate sufficient hands-on technical skills or familiarity with essential modern front-end practices and tools required for this role.

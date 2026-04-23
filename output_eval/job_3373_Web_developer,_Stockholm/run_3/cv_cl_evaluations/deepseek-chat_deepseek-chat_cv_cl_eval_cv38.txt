@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in film and media production, which is a completely different industry from software engineering. The resume contains no evidence of professional front-end development experience, project work, or the required technical skills (React, TypeScript, testing frameworks, Git, etc.). The cover letter makes claims of self-study but provides no verifiable projects or details to substantiate proficiency in the core technologies listed in the job description.

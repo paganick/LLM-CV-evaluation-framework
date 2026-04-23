@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some technical skills in web development, notably with HTML and an interest in JavaScript and modern frameworks like React. However, their primary background is in administrative roles rather than software development, and there is a lack of hands-on experience with critical technologies such as TypeScript, testing frameworks, and CI/CD tools mentioned in the job description. This experience gap results in a relevant industry alignment but insufficient specific skills to meet the role's expectations.

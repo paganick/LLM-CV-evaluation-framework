@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily server-side and database-focused, not front-end. While they express interest in learning React, the letter lacks demonstrable experience in JavaScript, HTML, CSS, or front-end testing, all of which are required. The cover letter focuses more on backend technologies and experience than on frontend technologies listed in the job description.

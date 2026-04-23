@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates basic front-end skills (HTML, CSS, JavaScript), some full-stack exposure and strong communication—relevant to the role—but provides no concrete evidence of required technologies such as React/TypeScript, testing frameworks and automation, Git/npm/Node ecosystem, or web security knowledge. They show willingness to learn but currently lack several critical, hands-on experiences listed in the job description, so they are a relevant but underqualified candidate.

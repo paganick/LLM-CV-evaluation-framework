@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed towards UX/UI design, not front-end development. They mention required technologies but fail to demonstrate hands-on coding expertise with React, testing frameworks, or the modern toolchain specified. While they touch on some soft skills and concepts like Agile and security, the lack of concrete, verifiable development experience makes them a weak match for the core technical requirements.

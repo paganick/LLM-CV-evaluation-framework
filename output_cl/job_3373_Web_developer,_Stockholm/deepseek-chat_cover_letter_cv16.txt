@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position, which I discovered through your job posting. With a solid foundation in software engineering and two years of hands-on experience in full-stack web development within an Agile Scrum environment, I am confident that my technical skills and collaborative approach align perfectly with your team’s needs.
+
+My professional experience as a .NET Developer involved extensive work with core web technologies including JavaScript, jQuery, HTML, and CSS, where I focused on creating responsive, user-centric interfaces using Bootstrap. While my previous role utilized the .NET stack, I have a proven and rapid ability to master new frameworks and paradigms. I am particularly drawn to your use of React and the modern JavaScript ecosystem. My hands-on experience with GitHub for version control, writing clean, maintainable code, and participating in the full SDLC—from daily scrums and sprint planning to QA demos and production support—has prepared me to integrate seamlessly into your Agile workflow.
+
+I am keenly interested in the technologies highlighted in your description. My background includes writing comprehensive unit tests and I am eager to deepen my expertise with modern testing frameworks like Jest and Cypress. I have practical experience with linters and formatters to enforce code quality, and a strong understanding of API integration and development from my work with web services and C# class libraries. Furthermore, my work with role-based authentication and secure data handling provides a foundational knowledge of web security principles that I am excited to expand upon in line with OWASP standards.
+
+What excites me most about this opportunity is the emphasis on collaboration, understanding the full domain, and a genuine passion for clean code. My experience working directly with QA teams, cross-functional units, and external partners to deliver high-quality applications demonstrates my strength as a communicator and team player. I am a lifelong learner, consistently driven to stay current with the latest technologies and best practices.
+
+Thank you for considering my application. I am eager to discuss how my background in development, my proactive approach to problem-solving, and my commitment to technical excellence can contribute to your team’s success.
+
+Sincerely, Alexis

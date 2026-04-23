@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks direct professional experience with the primary tech stack, specifically React and TypeScript, which are central requirements for this role. While they demonstrate senior-level expertise in Drupal and PHP, their familiarity with the requested modern tools—such as Jest, Cypress, and Ramda—is framed as an aspirational transition rather than established proficiency. Consequently, the applicant does not meet the core technical qualifications necessary for immediate integration into a specialized React development environment.

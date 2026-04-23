@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end experience, mentioning JavaScript, HTML, and CSS, but focuses heavily on .NET and C#, which are not the primary technologies sought. While the cover letter mentions React, VueJS, and Angular, the resume lacks concrete projects demonstrating proficiency in these specific frameworks. The candidate's experience with testing and Agile methodologies is a plus, but the overall fit is limited.

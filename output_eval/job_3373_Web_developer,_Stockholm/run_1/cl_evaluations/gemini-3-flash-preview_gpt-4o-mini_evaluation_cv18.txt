@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates extensive industry experience and addresses core requirements such as React, Agile collaboration, and automated testing with Jest and Cypress. However, they failed to mention TypeScript, which is a primary technical requirement, and overlooked secondary needs like functional programming (Ramda), API design, and cloud infrastructure. While the profile is strong, these specific omissions regarding the required tech stack preclude a higher rating.

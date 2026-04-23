@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in systems administration and network management, but lacks direct experience with key technologies specified in the job description, such as JavaScript, TypeScript, front-end frameworks like React, and testing automation tools. While the candidate has a strong background, they do not fulfill the specific technical requirements for this position.

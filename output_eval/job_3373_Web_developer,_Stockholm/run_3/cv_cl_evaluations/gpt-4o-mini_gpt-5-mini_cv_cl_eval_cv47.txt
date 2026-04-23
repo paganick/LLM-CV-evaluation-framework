@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a business development background with some technical knowledge in HTML and programming (C, C++). However, they lack direct experience in JavaScript, TypeScript, modern front-end frameworks (like React), testing frameworks, and other specified requirements in the job description. Their experience is largely unrelated to the core skills needed for the front-end developer role.

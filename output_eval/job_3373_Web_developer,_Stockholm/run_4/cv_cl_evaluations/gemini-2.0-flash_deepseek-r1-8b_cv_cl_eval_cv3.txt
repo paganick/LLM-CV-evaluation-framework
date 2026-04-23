@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant degree and some experience with web development concepts, but lacks professional experience and specific skills mentioned in the job description such as React, modern testing frameworks, and CI/CD tools. Their experience is primarily academic and with older technologies. While they express a willingness to learn, they are missing key requirements.

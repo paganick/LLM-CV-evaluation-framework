@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my professional background has been rooted in sales and leadership, I am making a deliberate career transition into software development, driven by a genuine passion for clean code and modern web technologies.
+
+My foundation in HTML and foundational web development aligns with your technical requirements. I am actively building expertise in JavaScript and TypeScript while pursuing hands-on experience with React, your framework of choice. I recognize the importance of mastering testing frameworks such as Jest and Cypress, and I am committed to developing proficiency in unit, integration, and end-to-end testing methodologies.
+
+What distinguishes my candidacy is my proven ability to thrive in collaborative, Agile environments. Throughout my tenure as Sales Director at JMF Solutions, Inc., I demonstrated exceptional teamwork by leading sales calls with team members, developing comprehensive training programs, and working seamlessly with vendors and external partners. These experiences have cultivated my ability to communicate across diverse teams and understand business domains beyond my immediate expertise—skills directly transferable to your collaborative development culture.
+
+My leadership background has instilled in me a commitment to continuous learning and staying current with industry advancements. I have already begun studying modern development tools including Git and GitHub, and I am enthusiastically pursuing knowledge in CSS tools, linters, and formatters. My analytical mindset, honed through years of budget analysis, sales reporting, and data interpretation, will serve me well in understanding complex codebases and API design principles.
+
+Additionally, my experience with Microsoft Excel and various software systems demonstrates my technical aptitude and ability to quickly master new tools and platforms. My educational background, including a Bachelor of Science in Leadership and Cultural Studies with emphasis on critical thinking and communication, has equipped me with the problem-solving and interpersonal skills essential for modern development work.
+
+I am genuinely excited about transitioning into frontend development and contributing to your team's success. I am prepared to invest the necessary time and effort to become proficient in your tech stack, including React, testing frameworks, and the NodeJS ecosystem. My combination of collaborative spirit, dedication to clean code, and proven ability to deliver results makes me a valuable addition to your organization.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my unique background and passionate commitment to software development can benefit your team.
+
+Sincerely, Alexis

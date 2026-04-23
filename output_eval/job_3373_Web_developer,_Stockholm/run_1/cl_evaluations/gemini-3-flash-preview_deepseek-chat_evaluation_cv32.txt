@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong theoretical knowledge and has tailored their self-study to perfectly match the required tech stack, including specific mentions of React, Jest, and Ramda. However, they lack any professional tenure in software development, as their entire decade of experience is in an unrelated industry. For a recruiter seeking proven "hands-on experience," a career-changer with no production-level background represents a significant risk and lacks the necessary technical track record.

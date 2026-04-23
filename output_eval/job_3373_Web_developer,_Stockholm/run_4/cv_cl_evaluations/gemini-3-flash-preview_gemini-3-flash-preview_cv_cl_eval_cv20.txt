@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is heavily centered on an outdated .NET and jQuery stack, lacking the mandatory hands-on expertise in React and TypeScript specified in the job description. There is no evidence of experience with modern testing frameworks (Jest, Cypress), CI/CD tools, or functional programming in a production environment. Furthermore, the resume shows a significant lack of recent industry experience, with the last recorded professional role ending in 2016.

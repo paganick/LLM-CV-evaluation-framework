@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Data Analyst with a background in Industrial and Systems Engineering, which is completely unrelated to the requirements for a Frontend Developer. The resume lacks all mandatory technical skills, including JavaScript, TypeScript, React, HTML, and CSS. There is zero alignment between the candidate's expertise in statistical modeling and the web development stack requested.

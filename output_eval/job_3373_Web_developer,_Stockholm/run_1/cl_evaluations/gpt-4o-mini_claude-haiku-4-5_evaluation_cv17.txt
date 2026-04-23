@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates a strong background in project management and a passion for frontend development, they lack direct experience in JavaScript, TypeScript, and frameworks such as React beyond "hands-on experience." Additionally, familiarity with modern CSS tools, CI/CD processes, and broader ecosystem knowledge is not explicitly stated, which lowers their fit for this specific technical role.

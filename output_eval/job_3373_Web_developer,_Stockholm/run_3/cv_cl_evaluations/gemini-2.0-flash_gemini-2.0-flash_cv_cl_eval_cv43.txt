@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management and learning design, with limited coding experience. The resume and cover letter lack substantial evidence of the required front-end development skills (JavaScript, React, HTML, CSS, testing frameworks, etc.). The candidate expresses interest in learning React, which indicates a lack of current proficiency, making them largely unqualified for the role.

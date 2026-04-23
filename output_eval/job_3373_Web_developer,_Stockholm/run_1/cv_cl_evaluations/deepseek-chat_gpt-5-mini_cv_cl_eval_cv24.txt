@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and content management, not software engineering. They lack any demonstrable experience with the core technical requirements: JavaScript, TypeScript, React, testing frameworks, Git, or modern front-end development. While they express motivation to learn, their current skills are from a completely different industry and do not align with the job's technical demands.

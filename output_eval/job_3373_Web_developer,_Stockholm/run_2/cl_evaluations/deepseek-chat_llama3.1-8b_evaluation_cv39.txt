@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic and product design, not front-end development, which is the core of the role. While they mention some relevant keywords (React, Git, security), they provide no concrete evidence of hands-on coding experience, testing, modern frameworks, or the specific technical stack listed. The letter emphasizes design skills over the required engineering competencies, indicating a significant skills gap.

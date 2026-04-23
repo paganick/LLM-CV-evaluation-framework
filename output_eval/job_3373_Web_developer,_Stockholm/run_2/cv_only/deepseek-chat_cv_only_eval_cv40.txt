@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows extensive senior leadership in product management within the media/tech industry, but it contains zero mention of the required technical skills (JavaScript, React, testing, Git, etc.) or hands-on development experience. The role described is a strategic business and product leadership position, not a hands-on software engineering role. This is a severe mismatch for a front-end developer position requiring deep technical execution.

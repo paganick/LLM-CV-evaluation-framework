@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT infrastructure, hardware support, and field service, with no demonstrated professional experience in front-end development, JavaScript, React, or any other required modern frameworks. The cover letter acknowledges a lack of production front-end development experience and attempts to pivot, but the resume provides no evidence of the core technical skills listed in the job description. This is a severe skills mismatch for a front-end engineering role.

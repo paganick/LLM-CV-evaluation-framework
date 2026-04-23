@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript, HTML, and CSS, but lacks crucial requirements mentioned in the job description. React experience is mentioned in the cover letter but not explicitly detailed in the resume. The resume focuses more on older .NET technologies and website design, not modern FE frameworks, testing, or the specific tools the job requires.

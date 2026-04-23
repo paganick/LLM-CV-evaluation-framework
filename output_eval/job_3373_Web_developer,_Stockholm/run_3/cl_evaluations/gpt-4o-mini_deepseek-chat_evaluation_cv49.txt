@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills in JavaScript, TypeScript, HTML, and CSS and demonstrates a strong analytical background; however, they lack specific experience with modern frameworks beyond mention of a desire to deepen knowledge in React. Additionally, there is no evidence of hands-on experience with testing frameworks or tools mentioned in the job description, which are critical for the position.

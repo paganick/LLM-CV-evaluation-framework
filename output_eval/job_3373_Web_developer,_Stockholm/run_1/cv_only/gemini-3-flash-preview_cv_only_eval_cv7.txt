@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer with no background in software engineering or modern front-end development. They lack all the critical technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. The resume focuses on visual arts and print media, representing a complete industry mismatch for this technical role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a wealth of experience in IT and cybersecurity but lacks direct hands-on experience with the specific technologies and frameworks outlined in the job description, such as JavaScript, TypeScript, modern frontend frameworks, and testing tools. While they express a strong willingness to learn and have transferable skills, they do not meet the technical requirements needed for the frontend developer role.

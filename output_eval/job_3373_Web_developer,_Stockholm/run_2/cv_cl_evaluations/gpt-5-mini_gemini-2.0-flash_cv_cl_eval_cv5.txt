@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong legacy/mainframe experience and proven analytical, testing, and team-lead skills, plus minimal exposure to HTML/JavaScript, but lacks hands-on experience with React/TypeScript, modern CSS, frontend testing frameworks, Git/GitHub, Node/npm, and CI/CD—core requirements for this frontend role. Significant upskilling and demonstrable practical experience in modern frontend tooling and frameworks would be required before being considered a match.

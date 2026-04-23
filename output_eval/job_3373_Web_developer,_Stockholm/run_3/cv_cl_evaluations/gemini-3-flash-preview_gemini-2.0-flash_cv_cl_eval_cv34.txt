@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical qualifications, including proficiency in JavaScript, TypeScript, React, and automated testing frameworks. Their professional background is rooted in digital marketing and Salesforce implementation rather than software engineering, and they explicitly admit to lacking experience with modern JavaScript frameworks in their cover letter. While they possess basic HTML and CSS knowledge, they do not meet the professional requirements for version control, CI/CD, or web security protocols.

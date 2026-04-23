@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML, CSS and JavaScript knowledge and some historical web development experience, but lacks any evidence of React, TypeScript, modern frontend frameworks, Node/npm, Git-based workflow, testing frameworks, CI/CD, or modern CSS tooling required for this role. Their background is largely IT/hardware-focused and dated, so they do not meet the specific modern front-end engineering skillset and toolchain expectations.

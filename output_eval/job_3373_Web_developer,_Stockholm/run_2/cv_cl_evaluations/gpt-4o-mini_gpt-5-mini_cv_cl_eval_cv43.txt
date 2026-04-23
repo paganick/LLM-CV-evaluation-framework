@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience in program design and project management, they lack the direct technical skills essential for the front-end developer role, specifically in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Their coding background in R does not sufficiently align with the requirements for front-end development and testing experience. Additionally, there is no evidence of familiarity with modern tools and practices relevant to the position.

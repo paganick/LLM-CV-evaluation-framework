@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and environmental science, not front-end development. While they express interest in JavaScript, HTML, and CSS, the resume lacks substantial evidence of practical experience with modern front-end frameworks like React. The cover letter mentions ASP.NET, which is not relevant to the job description's focus on modern FE technologies.

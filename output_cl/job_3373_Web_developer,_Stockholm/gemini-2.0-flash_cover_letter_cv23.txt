@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With my background in electronics engineering technology and hands-on experience in testing and troubleshooting, I am confident I possess a unique blend of skills that align well with your requirements.
+
+In my previous role as an Engineering Lab Technician, I was responsible for running software tests, building test cases, and performing regression, functional, and smoke testing. I utilized oscilloscopes to test wave patterns in circuits, and supported various platforms with software installation and testing. My experience with Microsoft Test Manager and Team Foundation Server allowed me to effectively write test cases, create bugs, and manage tasks within software development cycles. Furthermore, I am familiar with using Tera Term for SSH/Serial connections to Linux platform devices.
+
+My academic background in Computer and Electronics Engineering Technology, coupled with my familiarity with JavaScript and C++, provides a solid foundation for front-end development. I am eager to leverage my existing skills and quickly adapt to your technology stack, particularly React. My experience with troubleshooting and identifying faulty components, combined with my passion for clean code, will enable me to contribute effectively to your team.
+
+I am a strong collaborator and thrive in Agile environments. My experience interacting with software developers and understanding their testing strategies has honed my communication and teamwork skills. I am also keen on staying up-to-date with the latest technologies and expanding my knowledge of different platforms and domains.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to your team and further develop my skills in front-end development.
+
+Sincerely,
+Alexis

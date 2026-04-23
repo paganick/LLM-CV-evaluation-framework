@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly matching the core stack, testing, tooling, and security knowledge. Their non-traditional background is framed as a strategic asset, highlighting transferable skills in problem-solving and project leadership that are relevant to the role. The score is not a 9 because, while their skills are listed, direct, verifiable hands-on experience in a professional front-end development capacity is implied rather than explicitly proven.

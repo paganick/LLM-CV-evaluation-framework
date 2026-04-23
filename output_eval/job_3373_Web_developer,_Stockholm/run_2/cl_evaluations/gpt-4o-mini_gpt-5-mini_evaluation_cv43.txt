@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in program design and project management; however, their technical skills are limited to R and they do not demonstrate hands-on experience with required front-end technologies such as JavaScript, TypeScript, HTML, CSS, or popular frameworks like React. While they exhibit transferable skills, they lack specific experience in key areas outlined in the job description which could impede their immediate contribution to the role.

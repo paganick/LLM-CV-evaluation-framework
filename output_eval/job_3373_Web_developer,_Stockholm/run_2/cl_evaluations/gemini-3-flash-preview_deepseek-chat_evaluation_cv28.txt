@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: As a career-changer, the candidate lacks the requisite professional software development experience and fails to address critical job requirements including web security (OWASP) and cloud infrastructure (AWS). Although the candidate possesses relevant technical skills in React and TypeScript, their professional history in materials analysis is not a direct substitute for industry-specific experience. A strict assessment necessitates a lower score due to these technical omissions and the lack of a proven track record in a production environment.

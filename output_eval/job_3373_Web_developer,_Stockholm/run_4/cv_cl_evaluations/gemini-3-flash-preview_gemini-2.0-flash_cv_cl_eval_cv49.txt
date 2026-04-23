@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Data Analyst with zero professional or project-based experience in JavaScript, TypeScript, React, or front-end development as required by the job description. While the cover letter expresses a desire to learn, the resume shows a complete lack of the mandatory technical stack, including HTML, CSS, and modern testing frameworks. This candidate is entirely unqualified for an engineering role and belongs to a different industry.

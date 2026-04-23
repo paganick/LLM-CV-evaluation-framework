@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior finance and operations leader with no demonstrated hands-on front-end engineering skills or experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Git, NodeJS, CI/CD, or AWS/Terraform required for this role. Their strengths in project management, vendor management, and implementing business systems do not substitute for the technical competencies and coding/testing experience the job mandates. This profile is therefore completely unqualified for the advertised engineering position.

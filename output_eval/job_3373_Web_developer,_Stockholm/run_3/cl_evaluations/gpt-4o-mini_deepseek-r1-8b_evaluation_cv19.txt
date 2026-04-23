@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and some coursework in HTML/CSS, which shows a relevant interest in frontend development. However, they lack specific experience required in JavaScript, TypeScript, testing frameworks, modern frontend libraries, and other essential skills listed in the job description. Their proficiency in design tools does not compensate for the absence of actual development experience in the required technologies.

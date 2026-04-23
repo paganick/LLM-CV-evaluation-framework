@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has limited direct experience with the specific technologies mentioned in the job description, such as React, TypeScript, and modern CSS tools. While they express familiarity with JavaScript and a willingness to learn, their background is primarily in hardware validation and testing, not front-end development. The resume lacks demonstrable experience in modern FE frameworks, testing frameworks, and CI/CD tools.

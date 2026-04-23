@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in arts administration, dance instruction, video production, and facility management with no software development experience whatsoever. The resume demonstrates zero proficiency in JavaScript, TypeScript, React, or any of the required frontend frameworks and libraries. There is no evidence of testing frameworks, Git, CI/CD tools, or any modern web development skills that are fundamental to this senior frontend engineering role. This candidate is completely unqualified and in the wrong industry.

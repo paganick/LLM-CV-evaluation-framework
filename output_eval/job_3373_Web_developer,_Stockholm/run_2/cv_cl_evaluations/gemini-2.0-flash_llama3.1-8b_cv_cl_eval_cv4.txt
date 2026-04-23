@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a basic understanding of web technologies like HTML, CSS, and JavaScript, but lacks specific experience with modern front-end frameworks like React, which is crucial for the role. While the candidate mentions familiarity with related tools like Node.js and testing libraries, the depth of experience is not clearly demonstrated. The resume showcases experience in C#, Python, and SQL, which are not the primary focus of the job description, making the fit less ideal.

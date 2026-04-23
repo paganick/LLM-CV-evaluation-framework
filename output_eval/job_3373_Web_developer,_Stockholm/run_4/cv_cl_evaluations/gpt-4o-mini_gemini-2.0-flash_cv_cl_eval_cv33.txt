@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in business banking and project management but lacks direct experience in front-end development technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. While they demonstrate strong collaboration and training skills, there is no evidence of hands-on technical proficiency or familiarity with testing frameworks, Git, or web security concepts. Overall, the candidate is from a relevant industry but does not fulfill the specific technical requirements for the role.

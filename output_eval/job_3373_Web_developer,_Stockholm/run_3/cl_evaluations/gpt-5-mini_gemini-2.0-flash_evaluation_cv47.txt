@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable collaboration and project-management skills and basic HTML knowledge, but lacks clear, hands-on experience with the core technical requirements listed (JavaScript/TypeScript, React, testing frameworks, Git/CI, Node/npm, web security, and modern CSS toolchain). Their letter indicates willingness to learn React and other tools but provides no concrete examples of relevant technical work or testing/automation experience, making them underqualified for this role as described.

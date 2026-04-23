@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over eight years of solid experience in software development and Agile methodologies, their background is almost entirely focused on backend Java/J2EE technologies rather than the required frontend stack. The resume shows a significant lack of professional experience with React, TypeScript, and modern frontend testing frameworks like Jest or Cypress. Consequently, the candidate lacks the specific technical proficiency and hands-on frontend expertise required for this role.

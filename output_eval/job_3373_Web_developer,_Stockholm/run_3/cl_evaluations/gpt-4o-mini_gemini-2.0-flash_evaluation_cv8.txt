@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in test engineering and some understanding of web security concepts, but lacks specific experience with the required front-end technologies such as JavaScript, TypeScript, HTML, and CSS, as well as modern front-end frameworks like React. Their skills in Python and test automation do not directly translate to front-end development, limiting their suitability for the position.

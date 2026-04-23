@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal and PHP specialist, lacking the mandatory hands-on experience with React, TypeScript, and modern frontend testing suites required for this role. There is no evidence in the resume of professional exposure to the NodeJS ecosystem, functional programming, or the specific CI/CD and cloud tools listed as key requirements. Despite a solid background in general web development, the technical stack mismatch is too significant for this specialized React-focused position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate fails to mention TypeScript, which is a primary technical requirement for this role. While they possess a relevant degree and foundational React knowledge, their background as a Database Programmer/Analyst suggests a lack of specialized frontend depth. Additionally, the application misses several specific requested tools such as SASS, functional programming, and CI/CD, making them a suboptimal match for a high-level requirement list.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a career IT project/operations manager with infrastructure and leadership experience but contains no evidence of required frontend skills such as JavaScript/TypeScript, React or other modern FE frameworks, HTML/CSS, testing frameworks, Node/npm, or Git. There is also no indication of hands-on coding, web security knowledge, or relevant toolchain experience. This candidate is not qualified for the advertised frontend developer role.

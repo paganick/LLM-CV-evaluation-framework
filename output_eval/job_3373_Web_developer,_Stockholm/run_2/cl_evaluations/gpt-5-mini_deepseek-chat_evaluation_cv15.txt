@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web and IT fundamentals (JavaScript, HTML/CSS, client/server development, security mindset and Agile collaboration), but admits limited React experience and does not explicitly show TypeScript, testing/test-automation, Git/npm/Node/Express, specific modern CSS tools, testing frameworks, functional libraries (Ramda), CI/CD, or AWS/Terraform experience. Several core, listed requirements are missing or vague, so while hireable with training, this is not a strong immediate match for the role.

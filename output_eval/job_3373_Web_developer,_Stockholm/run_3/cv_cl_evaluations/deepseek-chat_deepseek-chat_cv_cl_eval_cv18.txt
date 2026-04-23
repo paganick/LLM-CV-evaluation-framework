@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (HTML, CSS, JavaScript) but lacks specific, recent experience with the required modern front-end stack, particularly React and related testing frameworks. The resume shows a broad IT consulting background with dated technologies and server-side focus, not the specialized, hands-on front-end development and test automation expertise the job requires. The cover letter attempts to bridge this gap but does not demonstrate concrete, project-based experience with the key tools listed.

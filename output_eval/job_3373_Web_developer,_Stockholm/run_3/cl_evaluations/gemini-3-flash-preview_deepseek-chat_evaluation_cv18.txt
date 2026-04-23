@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive general IT and web consulting experience, they lack professional proficiency in the core requirements of React and TypeScript. They explicitly admit to lacking hands-on experience with the requested testing frameworks (Jest, Cypress) and CI/CD tools, identifying these as areas for future growth rather than existing strengths. For a senior-level tenure of 18 years, the absence of modern front-end ecosystem mastery makes them a poor technical match for this specific role.

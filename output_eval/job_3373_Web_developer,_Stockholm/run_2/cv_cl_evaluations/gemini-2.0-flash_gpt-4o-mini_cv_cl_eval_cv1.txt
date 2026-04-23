@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of front-end technologies, particularly React, and has experience in test automation. They also possess a good grasp of related tools and concepts like Git, CI/CD, and web security. However, the resume focuses heavily on Java, while the job description is heavily focused on Javascript ecosystem, so the fit isn't perfect.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in marketing and media, transitioning toward frontend development, but lacks direct experience with key technologies such as JavaScript frameworks (React, VueJS, Angular), testing frameworks, and modern CSS tools. While they show foundational knowledge in HTML and CSS and are pursuing relevant education, they do not meet several specific requirements outlined in the job description.

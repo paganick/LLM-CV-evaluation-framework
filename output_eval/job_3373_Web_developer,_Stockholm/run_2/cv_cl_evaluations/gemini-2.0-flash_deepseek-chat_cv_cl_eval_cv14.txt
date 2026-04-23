@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but lacks specific experience with the technologies mentioned in the job description, such as React, TypeScript, and modern CSS tools. The candidate expresses a willingness to learn, but the resume focuses heavily on ASP.NET and C#, indicating a different primary skillset. While there's some overlap with JavaScript, HTML, and CSS, the candidate doesn't demonstrate the required depth in modern front-end frameworks.

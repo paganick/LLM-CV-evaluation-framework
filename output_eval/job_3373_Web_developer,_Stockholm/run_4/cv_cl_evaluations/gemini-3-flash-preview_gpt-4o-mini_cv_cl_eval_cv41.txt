@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume demonstrates a background in systems administration and IT support rather than front-end development, with no professional evidence of the required React, TypeScript, or modern CSS expertise. There is a significant disconnect between the skills claimed in the cover letter and the actual work history, which has not been updated since 2015. Consequently, the candidate lacks the necessary specialized experience in software engineering and modern web technologies to fulfill the role requirements.

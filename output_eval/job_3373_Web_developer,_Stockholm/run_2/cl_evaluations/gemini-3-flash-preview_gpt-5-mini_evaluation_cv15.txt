@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the required hands-on experience with the primary tech stack, explicitly stating they are "eager to adopt" React, TypeScript, and testing frameworks rather than currently possessing proficiency in them. While they demonstrate a strong background in general IT and legacy web development, they do not meet the mandatory requirements for modern front-end tooling, CI/CD, or automated testing protocols. As a result, the applicant would require significant training to be productive in the specified Agile environment.

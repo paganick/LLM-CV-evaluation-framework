@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate is an exceptional match who explicitly addresses nearly every technical requirement, including niche tools like Ramda, TestCafe, and specific web security protocols (OWASP, CSP). They demonstrate a rare blend of PMP-certified leadership and hands-on technical proficiency in the exact stack requested (React, NodeJS, CI/CD). The only minor omissions are specific mentions of TypeScript, AWS, and Terraform, but their overall profile perfectly aligns with the specialized nature of the role.

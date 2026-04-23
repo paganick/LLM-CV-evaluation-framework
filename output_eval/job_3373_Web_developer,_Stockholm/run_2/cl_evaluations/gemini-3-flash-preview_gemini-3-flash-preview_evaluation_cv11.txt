@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the testing-centric and security requirements of the role, supported by a Master’s degree and leadership experience. However, their professional background is primarily in Quality Assurance rather than core software development, and they notably failed to mention TypeScript, which is a primary technical requirement. While they exhibit a strong understanding of Agile and React, the lack of professional development tenure and missing specific technologies like Node.js prevent a higher rating.

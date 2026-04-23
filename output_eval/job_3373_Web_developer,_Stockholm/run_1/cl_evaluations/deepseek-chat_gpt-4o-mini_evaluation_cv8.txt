@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates a foundational understanding of many required areas, such as testing, Agile, and basic web technologies. However, the cover letter is vague on the specific, hands-on frontend development experience and modern tools (e.g., React, TypeScript, modern testing frameworks) demanded by the job description. The profile is heavily weighted toward test engineering, lacking clear evidence of professional frontend development work with the listed technologies.

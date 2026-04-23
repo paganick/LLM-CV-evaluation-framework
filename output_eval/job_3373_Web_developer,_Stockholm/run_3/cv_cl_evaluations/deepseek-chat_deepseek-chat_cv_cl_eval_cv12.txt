@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, modern front-end skills required. The job description emphasizes React, TypeScript, and modern testing frameworks, while the candidate's primary experience is in PHP, C++, and Perl with only foundational JavaScript. Key requirements like hands-on experience with React, TypeScript, and modern testing/CI/CD tools are not demonstrated.

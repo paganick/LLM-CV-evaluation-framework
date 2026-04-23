@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows foundational web skills (HTML, CSS), Agile experience, security awareness, and interest in modern CSS tools and frameworks, which align partially with the role. However, they do not demonstrate concrete, hands-on experience with React/TypeScript, specific testing/test-automation tools (Jest/Cypress/TestCafe), Git/Node/npm/CI/CD, or cloud/infra (AWS/Terraform) that the job explicitly requires, so they are not yet a strong match.

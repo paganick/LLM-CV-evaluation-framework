@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but lacks experience with React, which is a primary technology listed in the job description. While the candidate expresses willingness to learn, their current skill set is more focused on older technologies like ASP.Net and AngularJS, making them a less ideal fit. Their cover letter acknowledges a need to grow into several key areas mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in business banking, sales, and training, which doesn't align with the software development focus of the job description. While they express interest in learning the required technologies and mention some familiarity with Git and basic security concepts, they lack demonstrable hands-on experience with the core technologies like React, testing frameworks, and modern CSS tools. The cover letter highlights transferable skills but lacks concrete evidence of software development proficiency.

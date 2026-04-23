@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the required frontend stack, specifically with React, TypeScript, and automated testing frameworks, and is currently only in a learning phase. While they have a strong background in IT infrastructure, this does not compensate for the absence of hands-on web development expertise required by the job description. Consequently, the candidate is underqualified for a role that demands immediate technical proficiency and familiarity with modern development paradigms.

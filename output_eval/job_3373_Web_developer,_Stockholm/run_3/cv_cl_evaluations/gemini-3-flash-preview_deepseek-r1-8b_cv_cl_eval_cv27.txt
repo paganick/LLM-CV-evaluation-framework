@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, lacking any experience with JavaScript, TypeScript, or modern React frameworks. Their professional background is rooted in administrative management and the performing arts rather than software engineering. Furthermore, there is no evidence of the required expertise in testing automation, version control, or cloud infrastructure.

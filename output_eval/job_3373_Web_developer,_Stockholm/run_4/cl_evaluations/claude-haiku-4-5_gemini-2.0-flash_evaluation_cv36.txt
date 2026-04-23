@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background in microbiology and consulting work is completely unrelated to frontend development. The cover letter fails to demonstrate any of the required technical skills including JavaScript, TypeScript, React, or any testing frameworks. While soft skills like collaboration and documentation are mentioned, they cannot substitute for the complete absence of hands-on coding experience, web development knowledge, and familiarity with the specific tech stack required for this role.

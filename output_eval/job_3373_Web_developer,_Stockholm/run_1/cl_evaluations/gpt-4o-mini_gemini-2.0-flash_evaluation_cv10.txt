@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in front-end development and knowledge of key technologies such as JavaScript, HTML, and CSS, they lack specific experience with React, which is stated as a requirement in the job description. Additionally, there is no mention of testing frameworks or modern CSS tools like Styled Components and SASS, which are also preferred. Their experience seems to be more focused on AngularJS and Java, making them a less optimal fit for this particular role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is an experienced software engineer, their professional background is primarily in backend Java/Spring development rather than the required frontend specialization. They lack demonstrable professional experience with React and TypeScript, explicitly stating they are still in the process of learning these core technologies. As a result, they do not meet the technical requirements for a specialized Frontend Developer role despite their strong general engineering principles.

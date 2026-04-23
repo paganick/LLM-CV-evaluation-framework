@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and strong foundational skills in software engineering, problem-solving, and collaboration. However, they lack the specific, hands-on experience with modern front-end technologies (React, TypeScript, testing frameworks) and key web security concepts required by the job description. Their background is heavily server-side and database-focused, making them a candidate who would require significant upskilling for this specific front-end role.

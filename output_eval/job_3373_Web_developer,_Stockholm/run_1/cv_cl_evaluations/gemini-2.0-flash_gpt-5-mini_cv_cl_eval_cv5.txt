@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe development, which is a different technology stack than the modern front-end technologies required for the role. While the candidate expresses interest in learning React, TypeScript, and related tools, they lack demonstrable experience in these areas. Their limited exposure to JavaScript and HTML is insufficient for the job requirements.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development professional from the chemical industry and lacks the fundamental technical expertise required for a Senior Front-End Engineer. They possess no professional experience with the required core technologies such as React, TypeScript, or modern testing frameworks like Jest and Cypress. Their background in sales and marketing is entirely irrelevant to the specialized software engineering qualifications specified in the job description.

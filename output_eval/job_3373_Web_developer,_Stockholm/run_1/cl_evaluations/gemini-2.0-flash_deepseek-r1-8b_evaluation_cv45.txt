@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in backend and systems architecture, with a stated "aptitude" for frontend rather than direct experience. While they mention HTML, CSS, and JavaScript, the letter lacks concrete examples of projects utilizing React, the framework explicitly used by the company. The letter also doesn't showcase hands-on experience with the specific testing frameworks mentioned in the job description.

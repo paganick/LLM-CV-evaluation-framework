@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With over three years of hands-on experience in full-stack development and test automation, combined with my proven expertise in React, JavaScript, and modern web technologies, I am confident I can make significant contributions to your team.
+
+Throughout my career, I have developed comprehensive proficiency in the core technologies your role requires. My experience spans JavaScript, TypeScript, HTML, and CSS, with extensive practical application in React and AngularJS frameworks. I have successfully built interactive user interfaces and single-page applications, demonstrating my capability to deliver high-quality frontend solutions. Additionally, my background includes working with SASS and modern styling approaches, which aligns perfectly with your CSS tools preferences.
+
+My testing expertise is particularly relevant to your requirements. As a Test Automation Engineer, I designed and implemented robust test automation frameworks using Selenium, Cucumber, and Java. I have hands-on experience with unit testing using JUnit, behavior-driven testing through Cucumber, and integration testing approaches. This comprehensive testing background ensures I understand quality assurance best practices and can contribute effectively to your testing initiatives.
+
+I am deeply familiar with the development tools and practices your organization values. I have extensive experience with Git and GitHub for version control, npm for package management, and continuous integration tools like Jenkins. I have also worked with build tools including Maven and Gradle, and possess foundational knowledge of AWS cloud services. My understanding of web security fundamentals, including REST API design principles, positions me well to contribute to secure development practices.
+
+Beyond technical skills, I pride myself on being a collaborative team player with genuine passion for clean code and continuous learning. My experience working in Agile and Scrum environments has equipped me to thrive in dynamic team settings. I am genuinely interested in understanding complete domain knowledge and collaborating effectively across teams, which reflects your organizational culture and values.
+
+My background demonstrates both technical depth and a commitment to professional growth. I maintain an active GitHub profile showcasing my work and consistently pursue opportunities to stay current with emerging technologies. I am particularly drawn to your organization's emphasis on code quality and collaborative development practices.
+
+I am excited about the opportunity to bring my technical expertise, testing knowledge, and collaborative approach to your frontend development team. I would welcome the chance to discuss how my experience and enthusiasm can contribute to your organization's success.
+
+Sincerely, Alexis

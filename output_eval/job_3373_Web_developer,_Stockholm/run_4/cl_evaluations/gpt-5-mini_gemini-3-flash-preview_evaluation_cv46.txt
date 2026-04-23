@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core frontend requirements—JavaScript, HTML/CSS, React, testing (Jest/Cypress), Git, functional programming (Ramda), and familiarity with Node/AWS/CI concepts—making them a solid match for the role. However, they do not mention TypeScript, modern CSS tooling (Styled Components/SASS), linters/formatters (ESLint/Prettier), or explicit experience with npm/Yarn/Express and CI tools like CircleCI/Terraform, which are important to this position. With those gaps addressed, they would move closer to a top-tier fit.

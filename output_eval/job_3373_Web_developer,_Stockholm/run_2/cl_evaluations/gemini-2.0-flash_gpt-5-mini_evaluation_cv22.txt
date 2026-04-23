@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and account management, which is not directly relevant to front-end engineering. While they possess some foundational technical skills, they lack experience with modern JavaScript frameworks and testing practices, which are essential for the role. The letter does acknowledge this gap but emphasizes learning, which is positive but doesn't compensate for the lack of direct experience with React, TypeScript, and associated tools.

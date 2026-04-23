@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a Java backend and test automation engineer, not a modern front-end developer. While they have some exposure to React and JavaScript, the job requires deep expertise in React, TypeScript, and modern FE tooling which is not demonstrated. The resume shows dated experience (e.g., AngularJS) and a lack of specific, recent front-end project work matching the job's required technologies.

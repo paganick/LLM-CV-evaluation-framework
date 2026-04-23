@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required technologies, specifically React and TypeScript, which are central to the role. Their frontend expertise is outdated, focusing on legacy frameworks like AngularJS and jQuery rather than modern development workflows and testing automation. While the candidate has a strong computer science foundation, their professional background is heavily oriented toward Java and backend engineering, making them a poor fit for this modern frontend-focused position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer whose professional experience is entirely within the marketing and media planning industry rather than software development. They lack the required professional experience with React, TypeScript, and automated testing frameworks, as their technical exposure is limited to academic projects and foundational web technologies. Consequently, they do not meet the criteria for a modern front-end developer role which requires a proven track record in the specified tech stack.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates deep experience in mainframe technologies (COBOL, CICS, DB2) and legacy stack rather than modern frontend development; there is no evidence of React, TypeScript, modern CSS tooling, frontend testing frameworks, Node/npm, GitHub workflows, or AWS experience. A brief mention of HTML and JavaScript is insufficient to meet the role's core requirements. Substantial reskilling would be required for this candidate to be a viable match.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, and Agile collaboration. However, the cover letter lacks explicit, concrete mention of several key tools from the job description, such as specific testing frameworks (Jest, Cypress), linters (ESLint), or CI/CD experience with CircleCI. The experience is relevant and the foundational skills are present, but the application does not fully substantiate hands-on proficiency with the complete listed tech stack.

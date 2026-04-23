@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film and media, lacking the necessary front-end development skills listed in the job description (JavaScript, React, testing, etc.). While the candidate mentions website management, it doesn't align with the required technical expertise. The cover letter highlights skills that are irrelevant to the technical demands of the front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java backend development, not frontend. While they express interest in React and have basic JavaScript/HTML skills, there's a significant gap in required modern FE framework experience (React, VueJS, Angular, Svelte). The resume highlights Java, Spring, and related technologies much more prominently than frontend skills, and the cover letter acknowledges a desired transition.

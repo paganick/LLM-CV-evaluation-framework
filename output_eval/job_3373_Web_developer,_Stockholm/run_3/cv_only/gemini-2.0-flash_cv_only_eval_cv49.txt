@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on data analysis, statistical modeling, and tools like R, SAS, and Python for data science. There's no mention of JavaScript, TypeScript, HTML, CSS, or modern FE frameworks like React, VueJS, or Angular. The skills listed do not align with the requirements of a front-end developer role.

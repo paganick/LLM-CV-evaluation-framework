@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights creative direction, graphic design, and art skills, which are tangentially related to UX design. However, the resume lacks explicit experience in user research, prototyping with Figma, agile software development, or managing UI design systems. While the candidate lists HTML and JavaScript, the level of proficiency is basic, not sufficient for UI design system management.

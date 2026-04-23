@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the core requirements of the role, specifically React, TypeScript, Git, and automated testing frameworks, stating these are skills they have yet to acquire. Their technical background relies heavily on outdated technologies like Flash and Dreamweaver, which do not align with the modern development stack requested. While the candidate has a relevant degree, their self-admitted need for training across almost all listed competencies makes them a poor fit for this specific position.

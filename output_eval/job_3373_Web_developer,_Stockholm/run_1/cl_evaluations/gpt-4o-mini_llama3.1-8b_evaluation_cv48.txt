@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in IT and technical support, but lacks specific experience in the required technologies such as JavaScript, TypeScript, and modern front-end frameworks like React. While the candidate shows familiarity with some modern tools and concepts, they do not demonstrate hands-on experience in testing automation or web security principles indicated in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights a business development background with limited direct front-end experience. While they mention HTML and older languages like C/C++, they lack demonstrable experience with modern JavaScript frameworks (beyond expressing eagerness to learn React). The letter focuses more on soft skills and business achievements than on specific front-end development skills outlined in the job description.

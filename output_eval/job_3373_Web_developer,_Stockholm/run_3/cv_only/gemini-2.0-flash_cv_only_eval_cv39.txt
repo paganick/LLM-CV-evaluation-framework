@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic and product design, with limited exposure to web development. While they mention some HTML and Dreamweaver experience, they lack the JavaScript, TypeScript, modern FE frameworks (React, VueJS, Angular, Svelte), and testing experience required for the role. Their skills are more aligned with visual design and print media than front-end engineering.

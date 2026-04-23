@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid foundation in front-end technologies like HTML, CSS, and JavaScript and experience with AngularJS, but lacks direct experience with React, which is a key requirement. They have demonstrated understanding of testing practices and Agile methodologies and possess related skills in web services and version control. However, their experience with the specific tools and frameworks mentioned, like CI/CD, AWS, and functional programming, is limited, which prevents them from being a perfect match.

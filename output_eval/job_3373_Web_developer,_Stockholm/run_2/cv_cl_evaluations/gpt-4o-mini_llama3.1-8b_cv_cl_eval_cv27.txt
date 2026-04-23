@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in administrative roles with limited direct experience in web development, particularly with technologies like JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate a willingness to learn, they do not meet the specific technical requirements outlined in the job description or possess hands-on experience with testing, test automation, or CI/CD tools, which are crucial for this role.

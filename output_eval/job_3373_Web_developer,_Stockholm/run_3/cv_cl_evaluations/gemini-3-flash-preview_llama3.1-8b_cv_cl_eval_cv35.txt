@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is exclusively in marketing automation and CRM consulting, which is a fundamentally different career path than frontend software engineering. The resume provides no evidence of professional experience with the required tech stack, including React, TypeScript, or modern testing frameworks like Jest and Cypress. Despite claims in the cover letter, there is no documented history of writing production-level code, managing version control via Git, or participating in a professional software development lifecycle.

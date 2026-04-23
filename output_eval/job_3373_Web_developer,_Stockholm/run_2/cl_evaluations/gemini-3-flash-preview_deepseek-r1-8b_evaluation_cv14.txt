@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s core expertise lies in C# and the ASP.NET ecosystem, which fails to meet the primary requirement for proficiency in JavaScript, TypeScript, and React. While they demonstrate foundational knowledge of Git and general security principles, they lack the specific hands-on experience with the requested frontend stack and testing frameworks like Jest or Cypress. A strict evaluation identifies this candidate as a mismatch for a role requiring immediate technical contribution in a modern JavaScript environment.

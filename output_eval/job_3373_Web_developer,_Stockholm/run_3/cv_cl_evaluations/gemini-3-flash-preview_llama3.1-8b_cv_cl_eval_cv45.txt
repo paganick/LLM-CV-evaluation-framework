@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional background is centered on high-level IT management, cybersecurity policy, and government INFOSEC, which does not align with the technical requirements of a front-end developer. There is no evidence in the resume of hands-on experience with JavaScript, React, TypeScript, or modern CSS tools required by the job description. The candidate appears to be a management professional rather than a software engineer, making them unqualified for this specific technical role.

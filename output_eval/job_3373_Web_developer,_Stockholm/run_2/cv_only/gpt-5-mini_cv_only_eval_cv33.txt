@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate has extensive experience in banking, sales, training and operations but provides no evidence of the core technical skills required for this frontend role — no JavaScript/TypeScript, HTML/CSS, React or other modern frontend frameworks, testing frameworks, Git, Node/npm, or cloud/DevOps experience. The mention of consulting with tech/startups is vague and contains no concrete engineering projects or relevant tooling. Overall, this resume is a clear mismatch for the position.

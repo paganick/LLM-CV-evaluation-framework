@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong project management skills and relevant technical expertise in web development and Agile methodologies, aligning well with the job description. Their experience with React and various testing frameworks meets several key requirements. However, specific mention of TypeScript and AWS experience is lacking, which prevents a perfect match.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant experience with the required technologies and methodologies, such as JavaScript, TypeScript, HTML, CSS, Git, and Agile. However, the cover letter focuses more on project management experience than hands-on front-end development, and lacks concrete examples of using specific tools like React, Jest, or Styled Components. There is a stated interest in API design, but it does not reflect hands-on experience.

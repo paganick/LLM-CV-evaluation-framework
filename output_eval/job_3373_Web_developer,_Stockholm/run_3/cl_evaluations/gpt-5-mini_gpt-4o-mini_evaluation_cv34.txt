@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web fundamentals (HTML/CSS), security awareness, and Agile/project collaboration, but provides only high-level or adjacent experience (Salesforce Marketing Cloud, documentation) rather than concrete evidence of the specific technologies listed. Critical requirements such as demonstrable React/TypeScript work, Node/npm/Express experience, testing frameworks (Jest/Cypress/TestCafe), Git/GitHub usage, CI/CD, and cloud/infra (AWS/Terraform) are not shown, so they are a partial but not strong match.

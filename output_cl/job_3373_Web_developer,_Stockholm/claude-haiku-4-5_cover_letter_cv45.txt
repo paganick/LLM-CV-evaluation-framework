@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my career has primarily focused on cybersecurity and IT infrastructure within the Department of Defense, I am genuinely excited about transitioning into frontend development and bringing my technical expertise, security mindset, and collaborative approach to your team.
+
+Throughout my tenure as Branch Chief Information Technology Specialist, I have developed a comprehensive understanding of complex technical systems, security protocols, and the importance of clean, maintainable code. My experience with INFOSEC practices has instilled in me a deep appreciation for web security fundamentals including OWASP principles, CORS, and OAuth—knowledge that directly applies to secure frontend development. Additionally, my background in systems analysis and problem-solving has equipped me with the analytical thinking necessary for debugging and optimizing code.
+
+What particularly excites me about this opportunity is your use of React, Ramda, and modern testing frameworks. I recognize that while my hands-on experience with JavaScript, TypeScript, and frontend frameworks is still developing, my proven ability to master complex technical domains quickly and my passion for continuous learning make me confident in my ability to rapidly become a productive team member. My previous roles consistently required me to stay current with emerging technologies and advocate for innovative solutions, skills that directly translate to keeping pace with modern frontend development practices.
+
+I am particularly drawn to your emphasis on clean code and collaborative environments. My experience leading technical teams and working across multiple government agencies demonstrates my comfort in Agile-like settings where clear communication and cross-functional collaboration are essential. I understand the value of working with design systems, CSS tools like Styled Components, and testing frameworks such as Jest and Cypress, and I am committed to developing proficiency in these areas.
+
+My security background is an additional asset, ensuring that I will consistently consider security implications in frontend development, from API design to handling sensitive data. Additionally, my familiarity with version control systems and DevOps concepts, combined with my analytical mindset, positions me well to understand CI/CD pipelines and contribute meaningfully to your development processes.
+
+I am genuinely excited about this career transition and eager to apply my technical foundation, security expertise, and dedication to excellence in a frontend development role. I am confident that my work ethic, collaborative spirit, and commitment to mastering modern frontend technologies will make me a valuable addition to your team.
+
+Sincerely, Alexis

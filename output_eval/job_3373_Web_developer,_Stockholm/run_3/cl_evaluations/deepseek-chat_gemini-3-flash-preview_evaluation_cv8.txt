@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong, relevant background in test engineering and automation, directly matching the job's core requirements for testing, Agile, and collaboration. They demonstrate clear knowledge of the required tech stack, including React, NodeJS, security protocols, and modern CSS tools. The score is not a 9 because their extensive hardware/electronics experience, while impressive, is less directly applicable to the front-end and full-stack focus of this specific role.

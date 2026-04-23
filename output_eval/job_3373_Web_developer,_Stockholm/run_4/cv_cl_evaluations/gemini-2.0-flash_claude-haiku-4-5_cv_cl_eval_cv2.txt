@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in Java/J2EE, which is not the primary focus of the job description. While they express interest in frontend technologies and mention jQuery and Bootstrap, they lack direct experience with React, TypeScript, and modern testing frameworks. Their experience is primarily in backend technologies, making them a weak fit for a frontend developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but lacks specific experience with modern FE frameworks like React, which is a core requirement. While the candidate mentions AngularJS, the job description emphasizes React, suggesting a potential mismatch in skills. The resume focuses more on older technologies like ASP.Net and VB.Net.

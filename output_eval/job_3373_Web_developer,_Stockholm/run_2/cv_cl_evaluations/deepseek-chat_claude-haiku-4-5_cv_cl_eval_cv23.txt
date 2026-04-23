@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics and hardware testing, not professional frontend software development. They lack demonstrable, hands-on experience with the core requirements: React, TypeScript, modern CSS tools, and the Node.js ecosystem. While they show an aptitude for learning and mention some tangential skills, they are applying for a senior-level role with a completely different skillset and industry focus.

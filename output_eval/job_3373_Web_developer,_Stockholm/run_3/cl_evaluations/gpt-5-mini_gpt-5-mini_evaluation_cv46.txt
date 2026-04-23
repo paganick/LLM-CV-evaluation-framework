@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong server-side, database and systems engineering experience and good engineering practices, but provides only vague/minimal evidence of front-end work (mentions JavaScript and HTML) and explicitly states their front-end experience is weaker. They lack demonstrated hands-on experience with the core stack requested (React, TypeScript, modern CSS tooling, Node/npm, testing frameworks like Jest/Cypress, CI/CD, and web security practices). While motivated to learn, they are not an immediate match for the role as described.

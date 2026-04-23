@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates some transferable skills, but lacks direct, hands-on experience with the core technologies listed in the job description. While they express eagerness to learn React and modern CSS tools, they do not provide concrete evidence of professional experience with React, TypeScript, or the specific testing frameworks and tooling required. Their strong backend and API experience is valuable but does not fully compensate for the missing frontend-specific expertise.

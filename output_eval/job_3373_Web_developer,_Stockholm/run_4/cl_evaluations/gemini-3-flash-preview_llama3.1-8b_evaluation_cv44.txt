@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate lists the required technical keywords, their professional experience is primarily as a Presentation Designer and UI/UX specialist rather than a Software Engineer. The cover letter fails to demonstrate practical application of engineering principles like clean code, API design, or CI/CD, highlighting tools like Dreamweaver and Axure instead. This suggests a significant gap between their current design-focused responsibilities and the high-level front-end development expertise required for this role.

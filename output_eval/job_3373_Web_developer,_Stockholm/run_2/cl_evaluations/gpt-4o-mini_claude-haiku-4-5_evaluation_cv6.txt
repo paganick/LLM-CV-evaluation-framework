@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong experience in frontend development with relevant skills in JavaScript, HTML, and CSS, and mentions tools like Styled Components and SASS. However, they lack direct experience with TypeScript and specific modern testing frameworks such as Jest and Cypress, which are noted in the job description. Their interest in CI/CD and AWS is mentioned but lacks depth, slightly reducing their score.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with front-end technologies like JavaScript, HTML, CSS, and AngularJS. However, the resume heavily focuses on Java and back-end technologies, while the job description emphasizes React and other modern FE frameworks. The candidate lacks explicit experience with testing frameworks, CI/CD tools, and cloud platforms mentioned in the job description.

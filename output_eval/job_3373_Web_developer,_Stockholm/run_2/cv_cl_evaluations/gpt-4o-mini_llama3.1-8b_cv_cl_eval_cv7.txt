@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design, but their background lacks direct experience in software development, particularly with the specified technologies like JavaScript frameworks and testing frameworks. While there is mention of familiarity with HTML, CSS, and JavaScript, the absence of clear hands-on experience with React, Git, and the other required technical skills significantly limits their fit for this role.

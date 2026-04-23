@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in business development and sales, which is not directly relevant to the technical requirements of the position. They lack specific skills in JavaScript, TypeScript, modern front-end frameworks like React, and testing frameworks. Although they exhibit strong collaboration and leadership qualities, this does not compensate for the gap in technical expertise necessary for the role.

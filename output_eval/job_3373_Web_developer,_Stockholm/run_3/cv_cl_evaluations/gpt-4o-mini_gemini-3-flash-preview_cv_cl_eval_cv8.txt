@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in test engineering and some relevant skills in automation and scripting. However, they lack direct experience with web development technologies such as JavaScript, TypeScript, and modern front-end frameworks like React, which are crucial for the role. While they demonstrate a good understanding of testing practices, their background does not fully align with the web development focus of the job description.

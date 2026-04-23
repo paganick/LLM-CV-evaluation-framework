@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background and demonstrates a willingness to learn, they lack hands-on experience with many of the specific technologies and tools mentioned in the job description, such as modern CSS tools, testing frameworks, and certain frameworks like Angular and VueJS, which are also relevant. The transition from a scientific background to a technical environment is evident, but the lack of direct experience in key areas poses a significant gap for the role.

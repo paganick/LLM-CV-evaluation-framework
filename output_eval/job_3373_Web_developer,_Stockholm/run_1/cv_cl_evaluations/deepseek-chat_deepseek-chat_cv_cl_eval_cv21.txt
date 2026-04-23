@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET stack and AngularJS, not the modern React-focused frontend stack specified. While they express recent self-study in React/TypeScript, the resume lacks concrete, professional experience with key required technologies like React, TypeScript, modern testing frameworks, and CSS-in-JS tools. Their background is more full-stack/backend-oriented, showing a significant skills gap for a specialized frontend role.

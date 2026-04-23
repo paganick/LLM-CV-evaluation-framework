@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid front-end skills (JavaScript, React, HTML/CSS), testing experience (Jest, Cypress), Git proficiency, basic web security knowledge, SASS and exposure to the NodeJS ecosystem — aligning with many core requirements. However, they do not mention TypeScript, Styled Components, functional programming (Ramda), CI/CD, API design, or cloud/infra experience (AWS/Terraform), which are important to the role. Overall a strong fit for front-end work but missing several specific technologies the team expects.

@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates a near-perfect alignment with the technical requirements, specifically addressing React, TypeScript, and the niche use of Ramda for functional programming. They possess the required experience in testing automation and web security protocols that are often difficult to find in standard applicants. Furthermore, their background in design and experience in collaborative Agile environments directly supports the multidisciplinary nature of the role.

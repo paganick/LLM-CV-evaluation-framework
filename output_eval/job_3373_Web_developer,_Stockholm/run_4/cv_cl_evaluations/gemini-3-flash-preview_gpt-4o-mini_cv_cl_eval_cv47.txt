@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this role, as their professional experience is centered in business development and organic chemistry rather than software engineering. They lack any demonstrated experience with the core requirements of the role, including JavaScript, TypeScript, React, and modern testing frameworks. While they mention foundational knowledge of HTML and C++, their background does not align with the technical seniority or specific toolkit required for a front-end developer position.

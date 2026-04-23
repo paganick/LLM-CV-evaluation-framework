@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume reflects a background primarily in graphic design with no demonstrated experience or skills in JavaScript, TypeScript, React, or any modern front-end frameworks as outlined in the job description. Additionally, there is no mention of testing automation, Git, or relevant security knowledge, indicating a complete misalignment with the requirements of the role.

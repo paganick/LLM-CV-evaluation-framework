@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and has worked with technologies like HTML, CSS, JavaScript, and ASP.NET; however, they lack direct experience with the required modern front-end frameworks like React and testing automation tools. While they demonstrate strong collaborative skills and a passion for clean code, their background does not fully align with key aspects of the job description, such as React proficiency and modern CSS tools.

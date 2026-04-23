@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for this role, specifically professional experience with JavaScript, TypeScript, and React. While they have a strong foundation in graphic design and HTML/CSS, they explicitly state they are in the early stages of learning the core programming stack and testing frameworks required by the job description. The application fails to demonstrate any experience with Git, security protocols, or the Node.js ecosystem, making them a poor fit for a front-end engineering position.

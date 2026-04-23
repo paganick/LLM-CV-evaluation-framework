@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not professional front-end development, and they lack the required hands-on experience with React, TypeScript, testing, and the specific modern tools listed. While they demonstrate relevant soft skills, a strong work ethic, and foundational web knowledge, the absence of the core technical proficiencies demanded by the job description makes them currently unqualified for the role. The score reflects a relevant adjacent industry but a significant deficit in specific, required technical experience.

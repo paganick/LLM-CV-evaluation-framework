@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a relevant degree, they lack hands-on experience with nearly all the specific requirements, including React, TypeScript, Git, and modern testing frameworks. Their technical background relies on outdated technologies like Flash and Dreamweaver, and they explicitly list the job's core requirements as skills they have yet to learn. A strict evaluation identifies a significant gap between the candidate's current capabilities and the modern development stack required for the role.

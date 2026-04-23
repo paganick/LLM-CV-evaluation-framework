@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has some relevant skills in HTML, CSS, and JavaScript, they lack explicit experience with key technologies such as React, TypeScript, and testing frameworks, which are essential for the position. Their background in digital communications does not demonstrate sufficient direct experience in front-end development or the modern tools and practices mentioned in the job description, making them a less qualified candidate.

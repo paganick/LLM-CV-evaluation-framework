@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern front-end skills required. They have no demonstrated experience with React, TypeScript, modern CSS tools, or the testing frameworks mentioned in the job description. Their expertise is heavily centered on Drupal and traditional technologies, with only a stated interest in learning the required stack.

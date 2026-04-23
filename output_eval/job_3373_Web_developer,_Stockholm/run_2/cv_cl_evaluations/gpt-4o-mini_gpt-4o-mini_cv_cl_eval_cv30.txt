@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a solid background in analytics and some experience with web technologies such as HTML and ASP.NET, they lack strong proficiency in key front-end technologies specifically mentioned in the job description, such as modern JavaScript frameworks like React. Additionally, their experience with testing frameworks and tools is limited and not clearly aligned with the expectations for this front-end developer role.

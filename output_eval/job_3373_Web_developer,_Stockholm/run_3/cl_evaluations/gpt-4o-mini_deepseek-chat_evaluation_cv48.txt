@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has extensive experience in IT and demonstrates proficiency in the required front-end technologies such as JavaScript, TypeScript, HTML, CSS, and React. They mention relevant tools like ESLint, Prettier, and Jest, and align with the Agile environment requirement. However, there is limited mention of CI/CD tools or familiarity with all aspects of the tech stack, such as AWS and Terraform, which prevents a perfect score.

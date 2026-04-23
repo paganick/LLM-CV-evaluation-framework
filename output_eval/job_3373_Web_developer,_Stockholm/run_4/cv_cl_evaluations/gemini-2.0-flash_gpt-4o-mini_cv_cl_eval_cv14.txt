@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET, which is not the focus of the job description. While they mention HTML, CSS, and JavaScript, there is a lack of explicit experience with modern FE frameworks like React, despite their expressed interest. The resume lacks depth in areas like testing and security.

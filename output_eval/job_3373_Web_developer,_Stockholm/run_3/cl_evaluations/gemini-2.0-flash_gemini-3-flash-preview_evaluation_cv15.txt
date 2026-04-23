@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a broad IT background and some relevant frontend skills like JavaScript, HTML, and CSS, they lack explicit experience with TypeScript, a key requirement. The letter focuses heavily on IT management and older technologies rather than demonstrating in-depth, hands-on experience with modern frontend frameworks and testing methodologies. The candidate expresses interest in learning required skills, but lacks demonstrable proficiency.

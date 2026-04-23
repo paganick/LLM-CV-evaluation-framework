@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in related technologies like C#, ASP.NET, and SQL, which provides a decent foundation. While they mention Javascript, Typescript, and React in the job description, their experience seems less direct than desired. They show enthusiasm for modern tools but lack concrete experience in several required areas, suggesting a potential learning curve.

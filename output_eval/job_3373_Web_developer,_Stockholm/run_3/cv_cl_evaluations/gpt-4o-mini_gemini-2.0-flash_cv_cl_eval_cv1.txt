@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a solid background in front-end development technologies such as JavaScript, HTML, CSS, and frameworks like ReactJS, which aligns well with the job description. They also possess testing experience, Agile methodologies, and collaboration skills, making them a strong fit. However, while they have relevant experience, there is limited mention of modern CSS tools and some specific technologies requested, such as CI/CD practices, which prevents a perfect score.

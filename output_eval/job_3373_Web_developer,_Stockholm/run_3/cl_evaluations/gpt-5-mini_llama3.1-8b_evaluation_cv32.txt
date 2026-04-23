@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all core technical qualifications required for this front-end role (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git/CI, Node/npm, and cloud/infra familiarity). Their background is in customer service, sales, management and CRM systems, which do not demonstrate the necessary hands-on engineering experience. While they show motivation to learn, they are presently unqualified and would require substantial training before contributing to this position.

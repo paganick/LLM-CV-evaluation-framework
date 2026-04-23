@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in digital communications but lacks direct experience in front-end development technologies specified in the job description, such as JavaScript, TypeScript, and React. While they demonstrate a willingness to learn and have some foundational knowledge of HTML and CSS, their overall skill set is not aligned with the technical requirements needed for the role.

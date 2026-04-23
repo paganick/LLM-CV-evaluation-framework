@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in software engineering, collaboration, and Agile. However, they lack proven, hands-on professional experience with the core frontend technologies (React, modern CSS tools, testing frameworks) listed in the job description, presenting a significant skills gap. Their enthusiasm and capacity to learn are clear, but their current frontend proficiency is self-taught and aspirational rather than demonstrated.

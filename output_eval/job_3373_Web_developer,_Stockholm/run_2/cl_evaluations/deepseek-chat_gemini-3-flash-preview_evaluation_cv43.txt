@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the job's technical requirements, including React, TypeScript, testing, Git, Agile, and functional programming. However, the cover letter heavily emphasizes program management and design experience over direct, hands-on frontend development, which creates some uncertainty about the depth and recency of their technical execution. Their unique background is an asset, but the core engineering experience is implied rather than explicitly detailed.

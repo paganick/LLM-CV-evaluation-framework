@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different domain (materials analysis/manufacturing) with no demonstrated professional experience in front-end engineering or the required technologies. While they show strong analytical and collaborative skills relevant to the industry, they lack hands-on experience with JavaScript, React, testing frameworks, and the core technical stack specified. Their eagerness to learn is noted, but this represents a significant career pivot requiring substantial upskilling.

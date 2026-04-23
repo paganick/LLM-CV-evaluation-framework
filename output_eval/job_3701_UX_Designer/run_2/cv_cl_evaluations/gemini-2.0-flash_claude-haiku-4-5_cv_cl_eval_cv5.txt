@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has some design experience, it's primarily in 3D and graphic design, not UX. The cover letter attempts to bridge the gap, but the resume lacks demonstrable UX experience in an Agile software development environment. The candidate mentions Figma and HTML but lacks concrete examples of their use in a UX context.

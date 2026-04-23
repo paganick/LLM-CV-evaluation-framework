@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily focused on hardware support, POS systems, and legacy server administration, which is not aligned with the core front-end and full-stack development requirements of the job. While they mention some relevant modern tools, these are listed as personal interests rather than demonstrated professional experience. The letter fails to provide concrete evidence of proficiency in the required technologies like React, TypeScript, testing frameworks, or modern development practices.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience in front-end development technologies such as JavaScript, TypeScript, HTML, and CSS, and has significant hands-on experience with React. They express familiarity with testing frameworks and CI/CD pipelines, which aligns with the job requirements. However, the cover letter lacks specific mention of some tools and frameworks listed in the job description, such as SASS and certain testing frameworks, which prevents a perfect score.

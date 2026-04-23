@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in graphic design and some knowledge of HTML and CSS, but lacks the necessary JavaScript, TypeScript, and modern front-end frameworks experience specifically requested in the job description. While they demonstrate a willingness to learn and have strong design skills, they do not meet several key technical requirements such as experience with testing frameworks, Git, and CI/CD tools, which are crucial for the role.

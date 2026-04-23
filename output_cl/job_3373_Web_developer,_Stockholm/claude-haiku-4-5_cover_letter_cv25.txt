@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background is rooted in graphic design and visual communication, I possess a foundational understanding of HTML and CSS through my years of designing web pages and digital content. I am genuinely excited about transitioning into frontend development and leveraging my design expertise to create exceptional user experiences.
+
+My design career has instilled in me qualities that align perfectly with your team's values. I have consistently demonstrated a passion for clean, organized work—whether preparing layouts that adhered to strict brand guidelines or designing infographics with meticulous attention to detail. This commitment to quality translates directly to the clean code philosophy your organization prioritizes. Additionally, my experience collaborating with cross-functional teams during brainstorming sessions and coordinating multiple projects simultaneously has prepared me for working effectively in an Agile environment.
+
+Throughout my career, I have shown a genuine interest in staying current with the latest technologies and design trends. This same mindset will drive my commitment to mastering React, TypeScript, and the modern frontend ecosystem your team uses. My background in understanding visual hierarchy, user interface principles, and how design impacts user interaction positions me uniquely to bridge design and development.
+
+I recognize that transitioning into a developer role requires dedicated learning. I am prepared to invest the necessary time to develop proficiency in JavaScript, TypeScript, and testing frameworks like Jest and Cypress. My proven ability to quickly learn new tools—evidenced by my adaptability across Adobe Creative Suite, Dreamweaver, and various design platforms—demonstrates my capacity to rapidly acquire technical skills.
+
+My organizational mindset, resourcefulness, and ability to manage heavy workloads while maintaining quality make me confident I can succeed in your environment. I am genuinely excited about understanding the full domain of web development, learning from experienced team members, and contributing meaningfully to your projects.
+
+I would welcome the opportunity to discuss how my design foundation, strong work ethic, and enthusiasm for frontend development can contribute to your team's success. Thank you for considering my application.
+
+Sincerely, Alexis

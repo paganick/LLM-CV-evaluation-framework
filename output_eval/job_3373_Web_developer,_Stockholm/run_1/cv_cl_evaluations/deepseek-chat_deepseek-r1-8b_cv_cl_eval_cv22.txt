@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, not software engineering. While they have academic projects and list some relevant keywords (HTML, CSS, Java, SQL), they lack any professional experience with the core technologies required for the role, such as JavaScript, TypeScript, React, modern testing frameworks, or the specific tools mentioned in the job description. Their stated interest is in database roles, not front-end development, making this a significant industry and skills mismatch.

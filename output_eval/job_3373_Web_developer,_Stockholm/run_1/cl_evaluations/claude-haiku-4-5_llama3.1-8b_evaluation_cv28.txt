@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this frontend engineering role. The cover letter describes a materials analyst with expertise in metallurgy, Six Sigma, and process improvement—an entirely different industry with no relevant technical skills. There is no mention of JavaScript, TypeScript, React, HTML/CSS, testing frameworks, Git, or any of the required frontend development competencies. This appears to be a generic cover letter submitted to the wrong position.

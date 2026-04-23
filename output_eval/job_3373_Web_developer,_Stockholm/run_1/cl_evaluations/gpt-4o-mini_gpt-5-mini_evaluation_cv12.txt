@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong front-end fundamentals and a solid background in web development, but lacks specific experience with React and TypeScript, which are crucial for the role. Their familiarity with modern web development practices is noted, but the absence of specific testing framework skills and the direct mention of other requirements, such as CI/CD tools and functional programming, limits their match to the job description.

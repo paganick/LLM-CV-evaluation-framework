@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET/C# developer and lacks the required hands-on experience with React, TypeScript, and modern testing frameworks like Jest or Cypress. While they have a solid background in legacy web technologies and general software engineering, they do not possess the specific modern front-end stack or CI/CD experience requested in the job description.

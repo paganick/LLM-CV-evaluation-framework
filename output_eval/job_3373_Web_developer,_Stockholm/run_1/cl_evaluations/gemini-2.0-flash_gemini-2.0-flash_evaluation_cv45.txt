@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights experience in IT program management and systems analysis, but lacks specific frontend development skills mentioned in the job description. While it mentions adapting to technology stacks, it doesn't demonstrate proficiency in JavaScript, React, or other listed frontend technologies. The candidate's background is more aligned with IT management than hands-on frontend development.

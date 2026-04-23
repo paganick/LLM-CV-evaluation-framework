@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a solid background in engineering, which translates well to software development, particularly in their handling of complex systems and data lifecycles. They meet many of the technical requirements listed in the job description, such as proficiency in React and testing frameworks like Jest and Cypress. However, their experience with CSS tools and the specific mention of functional programming using Ramda is not clearly demonstrated, leaving some gaps in alignment with the job description.

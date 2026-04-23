@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant soft skills and a diverse background, but provides no concrete evidence of hands-on experience with the required technical stack, particularly React, TypeScript, testing frameworks, or modern development tools. The letter focuses on transferable skills from unrelated fields rather than proven front-end development work or project examples. While the learning mindset is present, the lack of demonstrable technical proficiency for a developer role is a significant gap.

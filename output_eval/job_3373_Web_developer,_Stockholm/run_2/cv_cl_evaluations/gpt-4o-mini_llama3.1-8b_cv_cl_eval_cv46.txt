@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a broad range of experience in software development and some exposure to relevant technologies. However, there is a lack of specific experience with the modern front-end frameworks and libraries outlined in the job description, such as React, as well as hands-on experience with testing and CI/CD tools. The skills in Java, EJB, and XML do not align closely enough with the primary focus of this position.

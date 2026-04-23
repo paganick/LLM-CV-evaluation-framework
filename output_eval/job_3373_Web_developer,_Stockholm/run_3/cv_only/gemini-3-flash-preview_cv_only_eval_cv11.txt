@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a QA/Test Analyst whose experience is fundamentally misaligned with the requirements for a modern Front-End Developer. They lack any professional experience with the React framework, TypeScript, or modern CSS methodologies, and their work history primarily focuses on testing rather than application development. Furthermore, the candidate's professional experience is significantly outdated, with no relevant web development history listed after 2015.

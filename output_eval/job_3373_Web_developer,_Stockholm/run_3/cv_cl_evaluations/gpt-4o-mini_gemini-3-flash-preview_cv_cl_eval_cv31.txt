@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in sales and a degree in Leadership, but lacks significant experience with the core technical skills outlined in the job description, such as JavaScript frameworks (specifically React), TypeScript, and test automation. While they demonstrate some foundational knowledge of HTML and desktop publishing tools, their overall technical qualifications do not align well with the requirements for a Frontend Developer role.

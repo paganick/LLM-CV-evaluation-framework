@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates general web development experience (JavaScript, HTML, CSS, SASS, Git, deployment scripting) and claims frontend work and Agile collaboration, but the résumé lacks concrete evidence of React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, CI/CD, and cloud/infra familiarity that the role specifies. Given these missing, verifiable core skills and tooling experience, they are relevant to the industry but do not meet the specific technical requirements for this position.

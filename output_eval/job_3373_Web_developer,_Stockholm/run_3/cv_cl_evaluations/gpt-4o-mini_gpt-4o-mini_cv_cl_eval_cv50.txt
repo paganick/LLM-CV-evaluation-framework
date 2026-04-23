@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Bachelor of Science in Computer Science and experience in project management, but lacks direct hands-on experience with essential front-end technologies like JavaScript, TypeScript, and specific frameworks such as React. While they mention familiarity with some tools, their background is more focused on business development rather than software development, making them only partly relevant for the position.

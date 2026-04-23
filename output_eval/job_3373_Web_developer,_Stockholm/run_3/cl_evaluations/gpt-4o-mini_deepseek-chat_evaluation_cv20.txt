@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in front-end technologies such as JavaScript, HTML, and CSS, and demonstrates familiarity with Agile practices and Git. However, while they show enthusiasm for learning React and other modern tools, they lack direct experience with some specific technologies and frameworks mentioned in the job description, such as Styled Components, SASS, and CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and mentions several required technologies, including JavaScript, CSS, testing frameworks, and Agile methodology. However, the cover letter is heavily back-end focused (Java, Spring, Oracle), while the job description is strongly front-end oriented, specifically requesting React and modern FE frameworks. Key requirements like TypeScript, React, security knowledge (OWASP, CSP), and Node.js/Express are not addressed, showing a significant skills mismatch for this specific role.

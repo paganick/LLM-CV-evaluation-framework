@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from systems engineering and lacks professional experience with JavaScript, TypeScript, and React. While they possess transferable debugging and security skills, they do not demonstrate the required hands-on experience with frontend testing frameworks or modern CSS tools. The application suggests a need for significant technical training rather than immediate proficiency in the specified tech stack.

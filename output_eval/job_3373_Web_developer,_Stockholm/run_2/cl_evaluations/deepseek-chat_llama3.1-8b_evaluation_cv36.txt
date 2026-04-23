@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in molecular genetics and microbiology, which is a completely different industry and skillset from modern front-end software development. While they mention adaptability, they provide no demonstrable experience with the core technologies listed in the job description, such as JavaScript, React, or any relevant frameworks. The application software and testing tools they cite (e.g., MS Office, Minitab) are not applicable to this role, making them fundamentally unqualified.

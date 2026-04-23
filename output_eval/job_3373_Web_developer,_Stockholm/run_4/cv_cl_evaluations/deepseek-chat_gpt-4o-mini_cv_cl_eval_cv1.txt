@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java backend and test automation, not modern front-end development with React. While they mention some relevant keywords in the cover letter, their resume shows dated experience (e.g., AngularJS) and lacks demonstrable, recent hands-on work with the required tech stack like TypeScript, modern React, and the specific testing frameworks. They are in the relevant software industry but lack the specific, current front-end engineering skills demanded by the job description.

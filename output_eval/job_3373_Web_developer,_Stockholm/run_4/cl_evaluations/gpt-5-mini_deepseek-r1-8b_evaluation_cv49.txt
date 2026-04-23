@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong analytical and programming experience (R, Python, SQL) and familiarity with Git and Agile, but provides no demonstrated hands-on experience with JavaScript/TypeScript, HTML/CSS, React, modern CSS tools, testing frameworks, Node ecosystem, CI/CD, or web security—core requirements of the role. They express a willingness to learn and transferable skills, but lack concrete frontend projects or testing/security experience required for an immediate fit.

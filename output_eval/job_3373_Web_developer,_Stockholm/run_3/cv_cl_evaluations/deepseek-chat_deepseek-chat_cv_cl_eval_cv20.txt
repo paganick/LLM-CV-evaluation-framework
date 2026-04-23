@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience in an Agile environment but lacks the specific, required modern front-end technologies. Their professional work is heavily centered on the .NET ecosystem (C#, ASP.NET MVC) with only basic JavaScript/jQuery, and they have no demonstrated production experience with React, TypeScript, or the listed testing frameworks. While they express eagerness to learn, the resume does not show the hands-on experience with the core tech stack outlined in the job description.

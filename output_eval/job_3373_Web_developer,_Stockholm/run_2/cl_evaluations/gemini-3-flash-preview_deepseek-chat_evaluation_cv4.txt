@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Alexis demonstrates five years of professional experience and a strong command of the core tech stack, specifically React, TypeScript, and Node.js. The candidate effectively addresses requirements for testing automation, API design, and Agile collaboration, though the letter misses specific mentions of web security (OWASP) and cloud infrastructure (AWS/Terraform). Overall, the profile represents a high-quality match with the technical and collaborative needs of the position.

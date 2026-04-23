@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's core experience is in Java/JEE backend development, not modern frontend engineering. While they mention basic JavaScript/HTML and an interest in React, they lack any demonstrable, professional experience with React, TypeScript, modern CSS tools, or the specific testing frameworks (Jest, Cypress) required. Their security and testing experience is backend-focused, and they do not meet the primary technical requirements of the role.

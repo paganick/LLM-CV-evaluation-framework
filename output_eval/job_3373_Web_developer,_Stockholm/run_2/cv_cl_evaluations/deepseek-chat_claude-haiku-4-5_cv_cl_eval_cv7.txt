@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and visual merchandising, not software development. The resume and cover letter show no professional experience with the required technologies (JavaScript, TypeScript, React, testing frameworks, Git, etc.). While they express a willingness to learn, they currently lack the specific technical skills and industry experience required for the role.

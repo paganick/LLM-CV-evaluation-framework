@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific mention of TypeScript and modern front-end frameworks like React (the company's primary framework). There's also no mention of testing frameworks, CI/CD tools, or other desired skills listed in the job description. While the candidate has relevant experience, it doesn't closely align with the specific technologies the company uses.

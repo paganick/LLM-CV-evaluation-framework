@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with Javascript, HTML, CSS and Angular, but lacks specific experience with React, Typescript, and testing frameworks outlined in the job description. While the cover letter expresses interest in React, the resume lacks concrete examples. The candidate's background is primarily in project management rather than hands-on front-end development.

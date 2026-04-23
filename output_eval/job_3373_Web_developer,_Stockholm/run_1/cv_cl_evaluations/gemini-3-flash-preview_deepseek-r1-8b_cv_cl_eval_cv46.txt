@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s resume is significantly outdated, with no professional experience listed since 2017, and focuses primarily on Java and database administration rather than modern frontend development. While the cover letter claims proficiency in React and TypeScript, the resume provides zero evidence of these skills being used in a professional or project-based capacity. The heavy emphasis on legacy technologies and the lack of recent, relevant work history make this candidate unqualified for a modern React-based role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but primarily within the .NET ecosystem, not the modern JavaScript frameworks the job requires. While they express interest in learning React, they lack direct experience. Their resume highlights database and backend skills more than frontend expertise, and lacks Node.js experience, which is a plus in the job description.

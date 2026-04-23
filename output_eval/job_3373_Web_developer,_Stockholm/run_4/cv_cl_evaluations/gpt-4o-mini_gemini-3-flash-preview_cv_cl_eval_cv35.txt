@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in marketing automation but lacks the specific technical skills and experience outlined in the job description, particularly with frontend frameworks like React, TypeScript, and more modern testing frameworks. While they demonstrate strong problem-solving skills and a technical background, their expertise is more focused on marketing technology rather than software development, which is crucial for this role.

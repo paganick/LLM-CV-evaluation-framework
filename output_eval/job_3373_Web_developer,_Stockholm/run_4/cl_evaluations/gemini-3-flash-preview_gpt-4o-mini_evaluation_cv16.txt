@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a high level of alignment with the requested tech stack, specifically mentioning React, Jest, Cypress, and CI/CD tools. However, they failed to explicitly mention TypeScript, which is a core requirement listed in the first sentence of the job description. Furthermore, their background as a Database Programmer/Analyst suggests a recent pivot to front-end development rather than a specialized career path in the field.

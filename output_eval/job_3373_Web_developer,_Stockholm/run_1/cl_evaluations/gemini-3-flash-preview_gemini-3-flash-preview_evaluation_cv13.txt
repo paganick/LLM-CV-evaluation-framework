@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant industry experience and strong Agile/Project Management skills, they lack the specific technical proficiency required for this role, specifically missing React and TypeScript expertise. The applicant focuses heavily on legacy libraries like jQuery and their background as a Project Manager, which does not align with the demand for a dedicated high-level Front-end Engineer. Additionally, they failed to mention modern tooling such as SASS, Styled Components, or the specific testing frameworks requested.

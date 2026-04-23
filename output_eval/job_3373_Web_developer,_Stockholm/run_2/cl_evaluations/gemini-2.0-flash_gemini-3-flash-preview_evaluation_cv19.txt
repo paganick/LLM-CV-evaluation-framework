@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a design background and some HTML/CSS knowledge, they lack explicit experience with key requirements like JavaScript, TypeScript, testing frameworks, and CI/CD tools. The cover letter focuses more on past experiences in unrelated fields and less on concrete frontend development skills. The candidate shows interest and potential, but doesn't fully align with the job description's technical expectations.

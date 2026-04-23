@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Developer position. The resume shows 12+ years of IT infrastructure, hardware repair, and field service experience with no mention of JavaScript, TypeScript, React, or any modern web development frameworks. There is no evidence of software development experience, testing frameworks, version control with Git, or web security knowledge. This candidate operates in an entirely different industry and lacks every core technical requirement for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in IT and leadership but lacks the specific frontend development skills required for the position, such as hands-on experience with JavaScript, modern frontend frameworks like React, and familiarity with testing frameworks and CI/CD tools mentioned in the job description. Additionally, there is no evidence of knowledge regarding modern CSS tools or API design which are critical for this role.

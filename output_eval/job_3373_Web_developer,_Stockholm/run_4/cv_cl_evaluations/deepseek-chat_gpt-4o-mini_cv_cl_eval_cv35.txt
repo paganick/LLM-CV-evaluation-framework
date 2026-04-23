@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation, not front-end development. The resume and cover letter lack concrete, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and modern CSS tools. While the cover letter attempts to map marketing automation tasks to development skills, it does not demonstrate the required professional experience for a senior front-end engineering role.

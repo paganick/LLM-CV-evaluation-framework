@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer and artist who lacks the mandatory technical proficiency in JavaScript, TypeScript, and React required for this role. Their experience with web development is limited to basic HTML and obsolete tools like Dreamweaver, with no evidence of professional experience in software engineering, testing frameworks, or CI/CD pipelines. While highly skilled in visual arts, they do not meet any of the core technical requirements for a modern Front End Developer position.

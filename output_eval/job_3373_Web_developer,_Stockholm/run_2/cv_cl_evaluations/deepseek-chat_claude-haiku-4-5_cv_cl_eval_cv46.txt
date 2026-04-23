@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in older technologies (Java, EJB, SQL) and IT support/administration, not modern frontend development. While they express interest in learning React and mention foundational web skills, their resume lacks any hands-on experience with the required technologies (React, TypeScript, modern testing frameworks, CI/CD). The cover letter attempts to bridge the gap but does not demonstrate the specific, recent, and practical experience demanded by the job description.

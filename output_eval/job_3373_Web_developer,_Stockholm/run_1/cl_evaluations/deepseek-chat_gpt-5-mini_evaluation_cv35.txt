@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent experience in QA, automation, and cross-functional collaboration, but lacks the core, hands-on technical skills required for the front-end engineering role. Their primary background is in marketing technology and systems integration, not in modern JavaScript, React, TypeScript, or the other specified front-end tools and frameworks. While they express eagerness to learn, the application does not demonstrate current proficiency in the job's mandatory technical requirements.

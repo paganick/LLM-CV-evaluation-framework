@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a strong academic background and relevant experience in testing and Agile methodologies, they lack professional proficiency in the team’s primary tech stack, React and TypeScript. The cover letter also fails to address critical requirements such as web security (OWASP, CORS) and modern CSS tooling. Consequently, the candidate would require significant training to bridge the gap between their legacy AngularJS experience and the modern development environment requested.

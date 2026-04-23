@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Candidate clearly meets and often exceeds the core requirements — demonstrated commercial UX experience in Agile, user research, workshops, roadmap ownership, mentoring, prototyping and design system management, plus HTML/CSS familiarity. The application does not explicitly state Figma experience (uses Axure, Sketch and Adobe), which is a preferred tool for this role and a notable omission. Overall a strong match but not perfect due to the missing Figma callout.

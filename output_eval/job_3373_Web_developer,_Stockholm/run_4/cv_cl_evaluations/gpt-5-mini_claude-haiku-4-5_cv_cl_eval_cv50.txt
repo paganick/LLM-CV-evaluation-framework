@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong technical program management, security clearance, and a foundational CS degree, but lacks demonstrated hands-on experience with core frontend technologies required for this role (JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm, Git, CI/CD, and AWS). Their cover letter expresses motivation to learn, however that does not replace the practical, recent development experience and tooling proficiency this position demands. Therefore they are not currently qualified for the frontend developer role.

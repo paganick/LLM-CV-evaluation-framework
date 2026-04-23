@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary required technologies, specifically React and TypeScript, relying instead on a background in .NET and legacy tools like jQuery. While they possess relevant Agile experience and a foundation in software engineering, they do not meet the core technical requirements for modern frontend frameworks or testing suites like Jest and Cypress. This profile indicates a need for significant upskilling rather than the immediate expertise requested in the job description.

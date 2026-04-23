@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in Front-End development and fails to demonstrate proficiency in core requirements such as TypeScript, React, and testing frameworks. While the applicant has a relevant background in IT, their expertise is limited to system administration rather than software engineering. The cover letter indicates a need for significant training in the specific tech stack and provides no evidence of familiarity with Git, web security, or modern development tooling.

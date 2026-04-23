@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant testing experience, electronics background, and familiarity with JavaScript plus strong collaboration in Agile environments, but lacks nearly all core front-end and tooling requirements. There is no demonstrated experience with React/TypeScript, modern CSS practices, front-end test automation frameworks (Jest/Cypress/TestCafe), Git/GitHub, Node/npm, or web security concepts (OWASP/CSP/CORS/OAuth). While the candidate could potentially upskill, they currently do not meet the technical expectations for this role.

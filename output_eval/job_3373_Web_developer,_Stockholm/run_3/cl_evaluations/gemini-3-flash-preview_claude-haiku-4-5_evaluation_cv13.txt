@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong professional background in technical project management, they lack the required hands-on experience with the primary tech stack, specifically React and automated testing frameworks. The cover letter admits to limited experience in testing and functional programming, indicating they are in a transitional phase rather than being an established developer. Given the strict requirement for hands-on expertise in Jest, Cypress, and modern frameworks, this candidate is underqualified for a mid-to-senior development role.

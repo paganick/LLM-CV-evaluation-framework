@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is senior IT/INFOSEC and program management with no demonstrated hands-on experience in JavaScript, TypeScript, React, HTML/CSS, modern front-end frameworks, or associated tooling (testing frameworks, Node.js, CI/CD). While they have strong IT/security and leadership experience, they lack the specific frontend development skills required for this role. The candidate would require substantial retraining to meet the job requirements.

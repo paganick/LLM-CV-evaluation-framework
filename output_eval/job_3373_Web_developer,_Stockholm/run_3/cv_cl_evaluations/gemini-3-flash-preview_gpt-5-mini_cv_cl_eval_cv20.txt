@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required professional experience with React, TypeScript, and modern automated testing frameworks, which are core requirements for this position. Their background is centered on the .NET ecosystem and legacy libraries like jQuery, and they explicitly mention being "eager to adopt" the modern stack rather than having existing proficiency in it. Furthermore, the experience provided is significantly dated and does not demonstrate familiarity with the modern CSS, CI/CD, or cloud infrastructure tools specified.

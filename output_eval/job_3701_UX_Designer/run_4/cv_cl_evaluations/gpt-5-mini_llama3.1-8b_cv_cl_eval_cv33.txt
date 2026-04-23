@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter show a long career in Master Data Management and technical architecture, not UX design; there is no evidence of Figma, user research, prototyping, UX strategy, or design system ownership. While the candidate has some HTML/CSS/JavaScript exposure and occasional scrum involvement, these do not satisfy the role's core requirements (user research, workshops, low/high-fidelity prototypes, mentoring designers). Overall this is a mismatch for the advertised UX Designer position.

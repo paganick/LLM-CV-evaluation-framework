@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, required technical skills. The job description emphasizes modern frameworks like React, TypeScript, and specific testing tools, which the cover letter does not explicitly confirm. While the candidate shows a willingness to learn, the letter relies on generalities and does not demonstrate hands-on experience with the core technologies listed in the role.

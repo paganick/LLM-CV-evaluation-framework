@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in the banking and mainframe application domain but lacks the specific front-end technology skills outlined in the job description, such as JavaScript, TypeScript, modern frameworks like React, and testing automation experience. The skills related to CSS and basic web security knowledge are also missing, making them a poor fit for this particular role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and quality assurance, specifically with manual and automation testing. However, they lack direct experience with specified frameworks like React, and testing tools/frameworks such as Jest, TestCafe, and Cypress as mentioned in the job description. Additionally, there is no mention of knowledge regarding security on the Web or modern CSS tools, which further highlights gaps in meeting the requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, which doesn't align well with the front-end developer role. While they express interest in React and web security concepts, their resume lacks concrete experience with JavaScript, TypeScript, modern FE frameworks, HTML, or CSS. The skills listed are too generic and do not showcase front-end expertise.

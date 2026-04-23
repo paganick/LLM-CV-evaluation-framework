@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks the core technical requirements specified, particularly TypeScript and deep proficiency in modern frontend frameworks like React. While they demonstrate backend knowledge and general automation skills, they fail to mention critical security standards, specific testing frameworks, or the Node.js ecosystem highlighted in the job description. Their background is primarily in PHP, making them an underqualified match for this modern frontend-heavy engineering role.

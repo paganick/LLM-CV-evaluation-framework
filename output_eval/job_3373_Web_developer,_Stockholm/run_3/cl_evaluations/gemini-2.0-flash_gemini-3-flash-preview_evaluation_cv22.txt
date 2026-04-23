@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is more focused on Java and database management, with only emerging skills in the JavaScript ecosystem needed for the role. While they express enthusiasm for React and functional programming, the letter lacks demonstrable experience in these key areas. The cover letter focuses on transferable skills rather than direct Frontend experience.

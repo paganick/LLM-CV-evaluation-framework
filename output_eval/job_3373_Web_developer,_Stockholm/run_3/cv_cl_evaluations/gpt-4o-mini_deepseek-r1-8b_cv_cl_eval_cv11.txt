@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and knowledge of JavaScript, HTML, and CSS, which aligns with the job description. However, they lack direct experience with modern frontend frameworks like React and specific testing frameworks mentioned such as Jest or Cypress. While the candidate shows some familiarity with Agile methodologies, they do not demonstrate comprehensive knowledge of the full tech stack required for the position.

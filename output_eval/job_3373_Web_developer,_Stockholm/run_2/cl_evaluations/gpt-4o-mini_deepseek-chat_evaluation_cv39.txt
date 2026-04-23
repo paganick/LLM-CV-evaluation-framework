@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a strong background in product design, which is valuable. However, they lack demonstrated proficiency in key technologies listed in the job description, such as modern JavaScript frameworks (React, VueJS, etc.) and testing frameworks. Their foundational knowledge of HTML and eagerness to learn is noted, but their experience does not fully align with the specific requirements of this role.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced information technology and cybersecurity leader with over two decades of progressively responsible experience supporting complex, mission-critical systems for Headquarters Air Force C4ISR. I am applying for the front-end engineer role because I bring a disciplined engineering mindset, deep operational systems experience, and a proven record of delivering secure, integrated solutions across cross-functional teams.
+
+In my current role as Branch Chief Information Technology Specialist I oversee multiple enterprise IT programs, serve as senior technical advisor, and lead systems development, integration, and implementation efforts. I have acted as technical lead on digital media and electronic publishing projects, defining requirements, guiding development teams, and ensuring timely, standards-compliant delivery. Those responsibilities required creation of clear, maintainable documentation, rigorous configuration management, and development and execution of test plans for unit, integration, and acceptance testing.
+
+My background in INFOSEC and NETOPS gives me a strong foundation in web and system security, vulnerability assessment, and authorization processes. I have practical experience with vulnerability tools (ACAS), Authority to Connect/Operate processes, and enterprise security practices, which I would apply to harden front-end applications and support secure API design and integration with backend services.
+
+I am a collaborative leader who regularly partners with program managers, contractors, vendors, and interagency stakeholders to research, recommend, and implement technical solutions. I am comfortable working in Agile settings and translating complex domain requirements into prioritized, testable deliverables. I enjoy learning new technologies and will quickly adopt React, TypeScript, modern CSS tools, testing frameworks, and Node-based toolchains to deliver truly clean, maintainable front-end code.
+
+My tenure has also required financial and programmatic oversight: I regularly develop budgetary analyses, perform cost comparisons, and formulate justifications to defend technology investments. I mentor and lead teams, foster professional development, and establish policies and procedures that improve delivery and reduce risk. Holding a Top Secret (SCI) clearance with CI polygraph, I am accustomed to handling sensitive information and operating under rigorous compliance requirements, attributes I will bring to uphold your security and quality standards while accelerating delivery. I am ready to contribute.
+
+I welcome the opportunity to discuss how my governance, integration, security, and testing experience can help your team deliver robust, secure front-end experiences. Thank you for considering my application.
+
+Sincerely, Alexis

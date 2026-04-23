@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in media production and shows a strong interest in web technologies, but lacks hands-on experience with several specific frameworks and tools mentioned in the job description, such as testing frameworks and modern CSS tools. While the candidate's collaboration skills and commitment to clean coding are notable, their familiarity with the Node.js ecosystem and CI/CD tools appears limited, making them less than a perfect match for the position.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a precise match for the technical stack, specifically highlighting niche requirements such as Ramda, CircleCI, and the transition from Ruby. However, the profile is heavily weighted toward business banking and sales, raising questions about the actual depth of recent hands-on frontend development versus management. While the candidate fulfills the soft skill requirements for stakeholder interaction, a strict evaluation notes the lack of a traditional, continuous senior-level engineering career path.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant degree and basic familiarity with React and security principles, but lacks the professional experience and proficiency in critical requirements such as TypeScript, automated testing, and Git. Most listed skills are academic or aspirational, failing to meet the job's demands for hands-on experience with the Node.js ecosystem, CI/CD tools, and modern API design. As a career changer from the construction industry, the applicant lacks the technical depth and proven track record necessary for this specific developer role.

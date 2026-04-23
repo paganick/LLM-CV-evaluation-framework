@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in civil engineering and construction project management, which is a completely different industry from front-end software development. The resume shows no experience with any of the required technologies such as JavaScript, React, testing frameworks, or modern web development practices. This is a severe mismatch for the role.

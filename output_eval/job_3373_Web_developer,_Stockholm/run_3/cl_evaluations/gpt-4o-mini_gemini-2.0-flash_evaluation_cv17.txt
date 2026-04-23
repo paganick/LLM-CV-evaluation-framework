@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in engineering and project management, which provides some transferable skills. However, they lack specific experience in frontend development technologies such as JavaScript, TypeScript, modern frameworks, and testing frameworks. Their proficiency in clean coding practices and collaboration in Agile environments is noted, but overall, they do not align closely with the technical requirements of the role.

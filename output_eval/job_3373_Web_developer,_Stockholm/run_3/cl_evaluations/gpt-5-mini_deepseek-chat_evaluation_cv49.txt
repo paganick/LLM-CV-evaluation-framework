@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant foundational skills in JavaScript/TypeScript/HTML/CSS, Git, Agile, and a strong analytical background, but lacks demonstrated production experience with React, modern CSS tools (Styled Components/SASS), Ramda/functional programming, and Node/Express. Claims around testing, CI/CD, web security, and cloud infrastructure are aspirational rather than evidenced. Given the role's explicit requirements, this is a relevant but underqualified fit.

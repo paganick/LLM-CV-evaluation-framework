@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in test engineering and has demonstrated familiarity with developing test procedures and automation scripts. However, they lack direct experience with the specific web technologies outlined in the job description, such as JavaScript frameworks (React), modern CSS tools, and specific testing frameworks, which are critical for the role.

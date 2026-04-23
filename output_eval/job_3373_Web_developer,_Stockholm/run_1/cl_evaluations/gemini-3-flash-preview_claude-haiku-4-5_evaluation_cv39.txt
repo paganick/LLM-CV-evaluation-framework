@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, React, and automated testing frameworks, explicitly identifying these as current knowledge gaps. While they possess relevant industry experience in design and basic HTML, they fail to demonstrate any hands-on experience with the required backend, security, or CI/CD tools. Consequently, the candidate does not meet the minimum technical requirements for this engineering role and would require extensive training.

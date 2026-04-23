@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java developer whose experience revolves around legacy technologies like Struts, EJB, and Spring, rather than the required modern frontend stack. They lack professional experience with React, TypeScript, and modern CSS tools, which are core requirements for this position. While the candidate has relevant software engineering experience and understands Agile methodologies, they do not possess the specific technical skills or modern testing expertise requested.

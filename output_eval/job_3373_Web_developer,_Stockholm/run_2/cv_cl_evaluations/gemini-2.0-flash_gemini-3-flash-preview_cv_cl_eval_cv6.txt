@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development, particularly with JavaScript, HTML, and CSS. However, the resume heavily emphasizes Drupal development, while the job description prioritizes React and modern FE frameworks. There's a lack of concrete experience with testing frameworks (Jest, Cypress) and CI/CD tools mentioned in the job description, despite claiming experience with Selenium and Behat.

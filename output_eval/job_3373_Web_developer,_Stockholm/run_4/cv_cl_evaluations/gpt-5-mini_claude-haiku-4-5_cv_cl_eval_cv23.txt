@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant QA and JavaScript exposure from hardware-focused roles and demonstrates strong testing and troubleshooting skills, but lacks demonstrated experience with core frontend requirements such as React, TypeScript, HTML/CSS, modern CSS tooling, and the Node/npm ecosystem. There is no evidence of experience with Git/GitHub, modern frontend testing frameworks (Jest/Cypress), CI/CD, or cloud/infra tools required for the role, so they are not currently qualified for this frontend position without significant upskilling.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced IT/project manager but provides no verifiable hands-on experience with JavaScript/TypeScript, React, frontend frameworks, testing frameworks, or NodeJS in the resume. The cover letter's claims about frontend development and testing are unsupported by concrete projects, code samples, or technical detail. This profile aligns with IT leadership rather than the developer-focused technical requirements of the role.

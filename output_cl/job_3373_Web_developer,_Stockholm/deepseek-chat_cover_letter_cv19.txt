@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front End Developer position. While my professional title has been Graphic Designer, my career has been a deliberate and rigorous journey into the full spectrum of digital creation, culminating in a robust, self-driven mastery of the modern web development stack you require.
+
+My foundation in HTML and CSS is not merely academic; it is the bedrock of my daily design work, ensuring pixel-perfect, responsive implementations. This intrinsic understanding of visual design, typography, and user-centric layout, honed over years with Adobe Creative Suite, translates directly into an ability to build intuitive, aesthetically compelling interfaces. My experience extends beyond static design into dynamic content creation with Adobe Animate, reinforcing my comfort with logic and interactivity.
+
+I have proactively expanded this skillset into the core technologies you seek. I am proficient in JavaScript and deeply appreciate the structure and scalability TypeScript brings to development. I have built projects using React, aligning with your tech stack, and am adept at using modern CSS tools like SASS to create maintainable styles. My development workflow is disciplined, utilizing Git for version control, ESLint and Prettier for code quality, and I have practical experience with testing frameworks to ensure reliability.
+
+Furthermore, my background in electrical systems and panel building has ingrained in me a meticulous, problem-solving mindset and a rigorous approach to structured processes—qualities that align perfectly with writing clean, functional code, working in Agile teams, and understanding CI/CD pipelines. I am a strong collaborator, keen to understand the full domain, and passionate about continuous learning, as evidenced by my successful completion of a Graphic Design degree while managing multiple responsibilities.
+
+I am confident that my unique blend of artistic vision, technical proficiency, and systematic approach makes me a valuable candidate. I am eager to contribute to your team and am excited by the opportunity to discuss how my skills can benefit your projects.
+
+Sincerely, Alexis

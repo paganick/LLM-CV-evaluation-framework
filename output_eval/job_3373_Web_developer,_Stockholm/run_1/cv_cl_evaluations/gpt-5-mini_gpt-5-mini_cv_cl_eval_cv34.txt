@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web fundamentals (HTML/CSS), strong QA/UAT, documentation, and client-facing experience, but lacks the core technical skills required for this role—notably hands-on JavaScript/TypeScript, React, Node.js ecosystem, automated testing frameworks, Git workflow, and modern CSS/tooling. Their cover letter expresses willingness to learn, but current experience does not meet the job's essential front-end engineering and automation requirements.

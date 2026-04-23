@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant technical skill set that closely matches the job description, including React, TypeScript, testing frameworks, and modern tooling. Their analytical background and process-oriented mindset are valuable assets that align well with the role's collaborative and domain-focused requirements. The score is not a 9 because they lack explicit mention of specific required areas like web security fundamentals (OWASP, CORS) and the listed CI/CD or infrastructure tools.

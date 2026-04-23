@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong theoretical alignment with the required tech stack, specifically mentioning React, TypeScript, Jest, and security protocols. However, they lack any professional experience in software engineering, relying entirely on self-directed study and transferable skills from an unrelated industry. A strict evaluation necessitates a lower score due to the absence of a proven track record in a production environment or experience with complex integrations like CI/CD and cloud infrastructure.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive experience is in product management and strategy, not in hands-on front-end development. The cover letter fails to mention any of the required technical skills (e.g., JavaScript, React, testing frameworks, Git) listed in the job description. While they demonstrate leadership and business acumen, the core technical qualifications for the engineering role are entirely unaddressed.

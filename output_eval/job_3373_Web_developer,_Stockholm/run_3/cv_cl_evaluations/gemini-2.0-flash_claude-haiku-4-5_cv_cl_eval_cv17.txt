@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in construction and project management, lacking the required frontend development skills (JavaScript, React, etc.) mentioned in the job description. While the cover letter expresses interest in transitioning, the resume does not reflect any relevant experience or projects in software development. The candidate's skills are focused on engineering and construction, making them unqualified for a Frontend Engineer role.

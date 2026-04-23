@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in finance and operations, their background does not align closely with the technical requirements of the position, such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is a lack of specific skills relating to testing automation, CI/CD tools, and familiarity with the NodeJS ecosystem, which are critical for the role.

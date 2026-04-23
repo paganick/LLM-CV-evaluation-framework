@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in construction and site management, which is completely irrelevant to the software development requirements of the job. While the candidate expresses interest in learning, there is a significant lack of foundational knowledge and experience in the required technologies (JavaScript, React, testing frameworks, etc.). The cover letter acknowledges the lack of direct experience, further solidifying the poor fit.

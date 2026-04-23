@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in mainframe/back-end enterprise systems, not modern front-end development. While they demonstrate strong general engineering discipline and a willingness to learn, they lack direct, hands-on experience with the specific technologies listed in the job description (React, TypeScript, modern CSS tools, Git, front-end testing frameworks). Their background is relevant to the industry but does not fulfill the specific technical requirements for the front-end engineering role.

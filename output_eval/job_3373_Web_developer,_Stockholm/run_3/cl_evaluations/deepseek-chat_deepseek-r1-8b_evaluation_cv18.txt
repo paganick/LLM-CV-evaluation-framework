@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but critically lacks mention of the specific technologies required. The job description explicitly requires modern frameworks like React, testing automation, and specific tools, none of which are addressed. The letter is generic, focusing on broad IT and web development rather than the detailed front-end and technical stack outlined in the role.

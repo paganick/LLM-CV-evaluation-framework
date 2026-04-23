@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has an extensive and successful background in the relevant digital media industry, their professional experience is exclusively in senior product management and executive leadership rather than hands-on software engineering. The resume provides no evidence of professional experience with the required technical stack, such as React, TypeScript, or automated testing frameworks. Despite the claims made in the cover letter, the candidate’s career trajectory is misaligned with the requirements of a Frontend Engineer role.

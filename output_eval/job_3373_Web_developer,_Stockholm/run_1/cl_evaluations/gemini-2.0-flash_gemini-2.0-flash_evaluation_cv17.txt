@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in civil engineering and construction management, a completely different industry than frontend development. While transferable skills like problem-solving and project management are mentioned, the cover letter lacks any evidence of practical experience with the technologies listed in the job description (JavaScript, React, HTML, CSS). The candidate focuses on their past roles and expresses enthusiasm for transitioning, but fails to demonstrate the necessary frontend development skills required for the position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong experience with the core tech stack, including React, NodeJS, and web security protocols, as well as testing frameworks. However, they failed to mention critical requirements such as TypeScript, Git, CI/CD tools, and functional programming, which were explicitly requested. Additionally, much of their "decade of experience" focuses on general IT management and hardware, which may indicate a lack of specialized depth in modern frontend engineering compared to the job description's specific needs.

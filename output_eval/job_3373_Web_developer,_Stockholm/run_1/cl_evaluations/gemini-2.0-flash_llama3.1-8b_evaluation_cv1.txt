@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, particularly in test automation with Selenium and experience in Agile environments. However, the cover letter overemphasizes Java and Spring Boot, while the job description focuses on JavaScript, React, and specific testing frameworks like Jest or Cypress, which are not highlighted in the letter. While the candidate mentions JavaScript, the depth of experience with the specific FE technologies and tools the job requires is unclear.

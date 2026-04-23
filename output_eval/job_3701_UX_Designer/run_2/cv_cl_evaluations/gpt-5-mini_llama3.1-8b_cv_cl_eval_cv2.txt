@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s background is in apparel and technical product design rather than digital UX; their resume shows no commercial UX design experience, no Figma or prototyping work, and no evidence of HTML/CSS/JS familiarity. They also lack documented experience conducting user research, managing a UX roadmap or maintaining a UI design system, which are core requirements of the role. While they claim transferable skills and some Agile exposure, the submission does not meet the specific UX toolset and practice requirements.

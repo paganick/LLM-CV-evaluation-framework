@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience as a software developer but lacks the specific modern front-end skills required. The job description emphasizes React, TypeScript, and modern testing frameworks, while the candidate's experience is heavily centered on legacy .NET, ASP, and AngularJS. There is no demonstrated experience with the core technologies listed, such as React, Node.js, or the specific testing and security tools mentioned.

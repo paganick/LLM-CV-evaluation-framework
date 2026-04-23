@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates a disciplined, test-first mindset that aligns with the role's core requirements. However, their hands-on front-end and React experience is aspirational rather than proven, creating a gap against the job's specific technical demands. Their backend expertise, collaboration skills, and explicit plan to learn the stack make them a strong, but not perfect, candidate.

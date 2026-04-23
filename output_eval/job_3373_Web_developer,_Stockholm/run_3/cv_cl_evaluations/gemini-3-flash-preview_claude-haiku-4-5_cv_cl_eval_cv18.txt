@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience in general IT consulting and web design, the resume fails to demonstrate professional proficiency in modern frontend requirements such as React, TypeScript, or automated testing frameworks. The technical profile is heavily weighted toward legacy technologies and systems administration rather than the specialized modern JavaScript ecosystem requested. Consequently, the candidate lacks the specific hands-on expertise required for a senior-level frontend engineering role.

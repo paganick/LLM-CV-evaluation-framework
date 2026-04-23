@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career switcher with no professional history as a software developer, failing to meet the requirement for hands-on experience in a production environment. They omit mention of several critical technical competencies listed in the job description, including web security (OWASP/CORS), functional programming, and CI/CD tools. While their soft skills and business background are transferable, they do not possess the specific technical depth or engineering track record required for this role.

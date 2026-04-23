@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior finance and operations executive with no professional experience or demonstrated technical proficiency in the required frontend stack, including JavaScript, TypeScript, and React. While the cover letter expresses interest in transitioning careers, the resume lacks any evidence of coding, testing, or web security expertise, making them completely unqualified for this engineering position. The applicant's background is in a fundamentally different industry and functional area than what is strictly required by the job description.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases relevant experience migrating systems and building web applications, aligning with the job requirements. They demonstrate familiarity with several relevant technologies like HTML, CSS, JavaScript, SASS, Bootstrap, and Agile methodologies. While they come from a C# background, their enthusiasm for transitioning to React and functional programming is evident, and they possess some knowledge of the NodeJS ecosystem, which strengthens their candidacy.

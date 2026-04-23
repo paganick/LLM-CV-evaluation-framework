@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics hardware testing and technician roles, which is the wrong industry for a frontend developer position. While they mention JavaScript and testing, they lack any professional experience with React, TypeScript, modern CSS, or any of the required frontend frameworks and tools listed in the job description. Their resume does not demonstrate the core competencies for the role, making them completely unqualified.

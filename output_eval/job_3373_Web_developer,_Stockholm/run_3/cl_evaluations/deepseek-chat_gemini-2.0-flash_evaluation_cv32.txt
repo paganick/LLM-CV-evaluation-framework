@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate expresses interest and highlights transferable soft skills, but lacks any demonstrable, hands-on professional experience in front-end development. The cover letter does not address the majority of technical requirements from the job description, such as testing, security, modern tooling, or specific frameworks beyond a basic mention of React. While the candidate is actively learning, the application is based on potential rather than proven capability for the role.

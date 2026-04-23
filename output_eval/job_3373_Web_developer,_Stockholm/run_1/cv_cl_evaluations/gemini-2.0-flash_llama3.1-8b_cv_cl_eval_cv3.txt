@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a foundation in HTML, CSS, and JavaScript, and mentions related technologies like PHP and ASP.NET. However, they lack demonstrable professional experience with modern front-end frameworks like React, which is a core requirement of the role. While they express interest in functional programming and modern technologies, this is not supported by the resume.

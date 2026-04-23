@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has sales and client management experience, but the experience is not clearly aligned with the specific digital solutions mentioned in the job description. While the candidate mentions software sales, there's a lack of direct experience with API, Cloud, DevOps, Microservices, Business Analytics, or Design Consulting. The candidate demonstrates experience in managing projects and teams, but the digital sales experience is not a strong fit.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in frontend development and demonstrates proficiency in JavaScript, HTML, and CSS. However, they lack specific experience with modern front-end frameworks like React, as well as essential testing frameworks mentioned in the job description, limiting their fit for the role despite a strong foundation in related skills.

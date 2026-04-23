@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks all core technical requirements, including professional experience with JavaScript, TypeScript, React, and modern CSS. Their technical background is limited to unrelated languages like C++ and outdated tools such as Dreamweaver, requiring total retraining for a modern frontend stack. Despite strong transferable soft skills, the complete absence of relevant industry experience and hands-on expertise in the specified ecosystem makes them unqualified for this role.

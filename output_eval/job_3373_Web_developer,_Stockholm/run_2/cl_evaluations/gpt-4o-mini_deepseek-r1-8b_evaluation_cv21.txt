@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software development and full-stack technologies, their main expertise lies in .NET and SQL, which does not align well with the job's focus on JavaScript and modern front-end frameworks like React. Additionally, the candidate lacks specific mention of the testing frameworks and tools required, as well as familiarity with CI/CD tools and AWS, which are critical for this role.

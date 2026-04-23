@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in JavaScript, HTML, CSS, and front-end frameworks including React and AngularJS, which aligns well with the job description. They also possess testing experience with Selenium and Cucumber, showing familiarity with test automation. However, the candidate lacks experience specifically with modern CSS tools and some DevOps concepts mentioned in the requirements, which prevents a perfect score.

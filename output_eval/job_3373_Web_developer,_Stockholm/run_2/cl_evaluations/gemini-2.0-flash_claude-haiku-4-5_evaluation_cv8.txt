@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights relevant experience in testing and automation, which aligns with the job description's emphasis on testing. However, the letter lacks specific examples of hands-on experience with the required frontend technologies (JavaScript, TypeScript, React) and modern CSS tools. While the candidate expresses a willingness to learn, the absence of concrete frontend skills is a significant gap.

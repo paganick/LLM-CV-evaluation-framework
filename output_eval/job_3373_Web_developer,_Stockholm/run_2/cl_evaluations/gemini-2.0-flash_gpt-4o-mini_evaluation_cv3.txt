@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a relevant educational background and some foundational front-end skills, aligning with the job description's technology stack. They express interest in modern CSS tools, testing frameworks, and API design, which are mentioned in the job description. However, the lack of direct professional experience in web development and demonstrable expertise in testing and CI/CD tools, as well as the limited knowledge of NodeJS ecosystem, limits their overall suitability for the role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong qualifications and relevant experience in both graphic design and frontend development, specifically with React, which matches the job description. Their familiarity with testing frameworks, Git, and modern CSS tools further supports their application. However, while they demonstrate a breadth of knowledge, additional details regarding their experience with functional programming and API design would strengthen their fit for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant but lacks the specific, hands-on experience required for the role. They demonstrate no proven expertise in the core technologies listed (JavaScript, TypeScript, React, modern testing frameworks) and instead focus on Java and SQL. While they show strong soft skills and a willingness to learn, their technical profile does not meet the job's essential requirements.

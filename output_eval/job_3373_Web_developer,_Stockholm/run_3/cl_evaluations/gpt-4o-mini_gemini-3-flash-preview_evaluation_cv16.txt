@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong relevant experience in JavaScript, HTML, and CSS, aligning with the position's requirements. They possess a solid understanding of Agile practices and have worked with collaborative tools like Git and GitHub. While they express eagerness to learn TypeScript and AWS, which are essential, they lack direct experience with modern testing frameworks, which slightly reduces their score.

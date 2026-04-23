@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required professional proficiency in JavaScript, TypeScript, and React, stating they are only currently "upskilling" in these core technologies. There is no evidence of hands-on experience with mandatory requirements such as automated testing (unit/E2E), web security, or CI/CD pipelines. While the candidate has a relevant background in design and HTML/CSS, they do not meet the technical seniority or skill set necessitated by the job description.

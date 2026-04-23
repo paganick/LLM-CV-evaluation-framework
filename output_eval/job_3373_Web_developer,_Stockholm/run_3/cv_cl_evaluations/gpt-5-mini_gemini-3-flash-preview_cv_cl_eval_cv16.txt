@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML, CSS, Git/GitHub, Agile) but the resume shows primarily .NET/jQuery work and only 2 years of experience. There is no demonstrated experience with React or TypeScript, no evidence of testing/test automation frameworks, modern CSS toolchains, Node.js/Express, functional libraries like Ramda, CI/CD, or AWS/Terraform. Given these gaps against the role's core requirements, they are a relevant but underqualified candidate.

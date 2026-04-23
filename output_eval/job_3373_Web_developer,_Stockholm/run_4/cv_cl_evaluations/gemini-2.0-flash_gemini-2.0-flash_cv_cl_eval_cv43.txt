@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight program management and learning design experience, with minimal mention of the technical skills required for a Front-End Developer role. While they express interest in learning new technologies, their coding experience seems limited to R studio, which doesn't align with the JavaScript, TypeScript, and React proficiency required by the job description. The candidate's experience doesn't showcase the necessary skills in modern FE frameworks, testing, or web security.

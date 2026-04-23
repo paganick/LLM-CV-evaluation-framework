@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in graphic design and has pursued learning front-end technologies, which aligns with the industry. However, they lack direct experience with key requirements such as TypeScript, specific modern frameworks, hands-on testing expertise, and essential knowledge of security practices, limiting their overall match for the role.

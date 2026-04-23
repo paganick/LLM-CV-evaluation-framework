@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but the cover letter is too generic and lacks the specific technical keywords from the job description. It mentions modern frameworks and React in passing but fails to address critical requirements like TypeScript, testing, Git, security, Agile, or any of the listed modern tools. The letter focuses heavily on general IT and systems administration, which dilutes the front-end specialization required for the role.

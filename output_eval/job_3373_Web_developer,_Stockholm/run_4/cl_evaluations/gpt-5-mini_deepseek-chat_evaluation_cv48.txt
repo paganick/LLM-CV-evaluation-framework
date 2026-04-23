@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate shows solid relevant background in JavaScript/TypeScript, React, unit testing (Jest), linters/formatters, Agile collaboration, CI/CD pipelines and basic web security/AWS awareness, making them a plausible front-end hire. However, they do not explicitly demonstrate essential ecosystem items requested (Git/GitHub, Styled Components/SASS, Node/npm/Yarn, Ramda), nor specific E2E testing and CI/CD tools (e.g., Cypress/TestCafe, CircleCI) or Terraform, indicating notable gaps against the listed stack.

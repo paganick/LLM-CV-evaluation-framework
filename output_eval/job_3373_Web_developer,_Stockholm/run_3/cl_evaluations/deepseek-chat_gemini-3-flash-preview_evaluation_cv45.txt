@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with the core technical requirements (React, TypeScript, security principles, testing, CI/CD) and soft skills (Agile, collaboration). The background in enterprise IT and security is a significant asset that exceeds the job description. However, the cover letter does not explicitly mention several listed tools (e.g., Styled Components, SASS, specific testing frameworks, Ramda), which prevents a perfect score.

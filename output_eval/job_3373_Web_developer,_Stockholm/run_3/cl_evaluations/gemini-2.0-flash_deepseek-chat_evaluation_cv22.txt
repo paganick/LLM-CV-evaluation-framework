@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a clear interest and effort in transitioning to front-end development. However, the cover letter highlights academic projects and foundational knowledge rather than direct, hands-on professional experience with the specific technologies mentioned in the job description (React, TypeScript, Styled Components). The candidate acknowledges gaps in areas like testing frameworks, which are crucial for the role.

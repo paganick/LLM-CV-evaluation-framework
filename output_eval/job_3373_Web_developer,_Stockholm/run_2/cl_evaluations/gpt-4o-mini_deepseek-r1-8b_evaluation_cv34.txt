@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML, CSS, SQL, and some understanding of scripting and logic development. However, they lack specific experience with JavaScript, TypeScript, React, modern testing frameworks, and other required tools. Their background in digital marketing and Salesforce configuration does not directly correlate with the software development skills needed for this role.

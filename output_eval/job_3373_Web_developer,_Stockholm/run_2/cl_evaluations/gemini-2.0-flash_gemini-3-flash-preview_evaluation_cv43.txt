@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a unique background, but lacks explicit Frontend experience, listing mostly tangential experiences. They express interest in the required technologies, but the letter doesn't showcase hands-on project experience with React, TypeScript, or other core FE skills mentioned in the job description. The applicant does address teamwork, curiosity, and Agile, but the focus remains on project management rather than technical execution.

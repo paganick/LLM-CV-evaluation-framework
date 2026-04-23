@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong enterprise software and testing experience and some JavaScript/HTML familiarity, plus leadership and disciplined engineering practices. However, they lack demonstrated hands-on experience with the core required modern front-end stack (React, TypeScript, modern CSS tooling), common front-end testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, Git/GitHub workflows, CI/CD, and explicit web security knowledge. Their stated willingness to learn is positive but does not meet the immediate hands-on requirements for this role.

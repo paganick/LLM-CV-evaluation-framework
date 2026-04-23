@@ -1,0 +1,2 @@
+Score: 4
+        Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically admitting to limited experience with JavaScript and TypeScript, which are core necessities. While they possess a design background and basic HTML/CSS knowledge, there is no evidence of practical experience with React, testing frameworks, or modern development workflows. The reliance on Adobe Dreamweaver further indicates a skill set that is not aligned with current industry standards or the specific modern tech stack requested.

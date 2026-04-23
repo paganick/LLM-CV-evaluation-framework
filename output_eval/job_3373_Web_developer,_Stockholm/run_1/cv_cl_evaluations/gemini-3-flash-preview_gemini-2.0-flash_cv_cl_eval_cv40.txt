@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a high-level executive specializing in Product Management and Business Development with no professional experience as a software developer. They fail to demonstrate any hands-on proficiency with the required technical stack, including JavaScript, TypeScript, React, or modern testing and CI/CD tools. While they possess relevant industry experience in digital media, they lack the foundational engineering skills necessary for this technical role.

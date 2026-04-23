@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in media production but lacks the specific front-end development experience required, particularly in JavaScript, TypeScript, and modern frameworks like React. While they express enthusiasm for technology and some relevant skills such as knowledge of Git and testing frameworks, this experience is not sufficient to fully meet the job requirements.

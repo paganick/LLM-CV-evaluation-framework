@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in product management but lacks direct hands-on experience in frontend development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate familiarity with Agile methodologies and some aspects of software development, their lack of specific technical skills and experiences such as testing automation and modern CSS tools hinders a stronger fit for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core front-end skills (JavaScript/TypeScript/HTML/CSS), testing experience, Git, and Agile collaboration, which are relevant to the role. However they do not explicitly demonstrate experience with the team's primary stack (React), modern CSS tools (Styled Components/SASS), Node/npm ecosystem, common testing frameworks (Jest/Cypress), CI/CD, or web security knowledge—important items listed in the job description. Overall, relevant but missing several specific and critical technologies required for a strong match.

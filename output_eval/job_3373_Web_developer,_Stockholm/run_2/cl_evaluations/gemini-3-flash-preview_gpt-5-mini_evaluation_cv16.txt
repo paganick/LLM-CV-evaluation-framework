@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant background in web development and .NET technologies, they lack professional experience with the required modern front-end stack, specifically React and TypeScript. Furthermore, the applicant does not demonstrate hands-on proficiency with the mandated testing frameworks or CI/CD tools, expressing only an interest in learning these skills rather than presenting established expertise.

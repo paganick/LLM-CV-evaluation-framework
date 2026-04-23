@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management and cybersecurity, not commercial front-end development. The resume and cover letter lack any demonstrable, hands-on experience with the core technologies listed in the job description (e.g., React, TypeScript, modern CSS tools, testing frameworks). While they express interest and some conceptual alignment with security and Agile processes, they provide no evidence of practical coding skills or project work relevant to the role.

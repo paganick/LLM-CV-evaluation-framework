@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight product management experience, but lack any indication of software development skills. The job description requires specific technical skills (JavaScript, React, testing frameworks), which are entirely absent from the candidate's profile. This candidate is not a suitable fit for a front-end development role.

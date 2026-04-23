@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, which is the wrong industry for a frontend development role. The resume and cover letter show no professional experience or demonstrable projects with the required technologies (JavaScript, TypeScript, React, testing frameworks). While the candidate expresses interest and a desire to learn, they lack the specific, hands-on technical skills and experience outlined in the job description.

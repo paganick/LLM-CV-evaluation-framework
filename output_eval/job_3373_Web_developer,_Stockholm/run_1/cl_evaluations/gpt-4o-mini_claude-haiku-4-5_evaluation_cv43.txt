@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant interest in frontend development and possesses some foundational knowledge of necessary programming languages and tools. However, they lack hands-on experience with key technologies mentioned in the job description, such as testing frameworks and modern CSS tools, which limits their qualifications for the role. Additionally, specific experience with React and the NodeJS ecosystem is not mentioned, making them a candidate with potential but not ideally suited for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in full-stack development and experience with some relevant technologies such as JavaScript, HTML, and CSS. However, they lack experience with specific modern frontend frameworks like React, as well as testing frameworks and practices emphasized in the job description. Additionally, their knowledge of key topics such as application security and more modern tools is not sufficiently detailed to meet the expectations for this position.

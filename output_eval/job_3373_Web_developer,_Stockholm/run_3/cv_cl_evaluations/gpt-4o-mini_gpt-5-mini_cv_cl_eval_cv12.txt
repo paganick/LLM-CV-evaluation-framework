@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has over seven years of experience in software engineering and mentions relevant skills in JavaScript, HTML, CSS, and SASS. However, they lack specific experience with React and TypeScript, as well as hands-on experience with modern testing tools and practices relevant to the job description. While they demonstrate a solid background, the absence of direct experience with key technologies and frameworks mentioned reduces their fit for this role.

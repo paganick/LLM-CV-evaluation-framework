@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, which doesn't align with the software engineering focus of the job description. While they mention HTML and CSS, the resume and cover letter lack the depth of experience in JavaScript, modern FE frameworks (React), testing frameworks, and other critical technologies listed in the job description. The candidate's skills are not a fit for the role's requirements.

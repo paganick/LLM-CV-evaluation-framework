@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate is an experienced IT/project manager with strong lifecycle and leadership experience but lacks demonstrable hands-on front-end development skills — there is no concrete evidence of JavaScript/TypeScript, React, modern CSS tooling, Node.js, testing frameworks, or related code contributions on the resume. The cover letter asserts familiarity with some technologies but offers no specific examples or measurable outcomes to validate the technical requirements, so they do not meet the core qualifications for this Front-End Developer role.

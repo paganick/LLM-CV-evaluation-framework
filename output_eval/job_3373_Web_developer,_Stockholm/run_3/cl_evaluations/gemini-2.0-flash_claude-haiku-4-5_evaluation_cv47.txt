@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, and while they express interest in frontend development, their technical skills are limited to HTML, C/C++, and design-adjacent tools. They lack demonstrable experience with JavaScript, modern FE frameworks (like React), testing frameworks, and other key technologies mentioned in the job description. The cover letter focuses more on transferable skills than directly relevant technical expertise.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript and CSS but lacks concrete experience with modern FE frameworks like React, which is a key requirement. While they express a willingness to learn, the resume and cover letter highlight PHP and other backend technologies more prominently. The candidate also mentions testing methodologies, but lacks specific experience with the testing frameworks mentioned in the job description.

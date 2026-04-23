@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the necessary technical skills in JavaScript, TypeScript, and contemporary front-end frameworks like React. While they demonstrate strong analytical and communication skills, their limited hands-on experience with software development, testing frameworks, and web security concepts makes them less qualified for this specific role.

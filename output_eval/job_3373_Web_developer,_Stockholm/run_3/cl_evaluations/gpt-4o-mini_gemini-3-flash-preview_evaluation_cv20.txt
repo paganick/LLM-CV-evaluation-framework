@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong qualifications with relevant experience in JavaScript, HTML, CSS, and front-end development using frameworks like React. They have experience in Agile environments, technical skills in Git, and an understanding of web security principles which closely align with the job description. However, while they show interest in additional tools mentioned in the job description, they lack direct experience with TypeScript and some testing frameworks, which holds back a perfect score.

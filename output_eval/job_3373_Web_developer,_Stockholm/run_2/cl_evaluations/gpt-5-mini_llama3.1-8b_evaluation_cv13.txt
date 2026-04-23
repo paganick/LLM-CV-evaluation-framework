@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with many core requirements (React, modern FE tooling, testing frameworks, linters, CI/CD, Node ecosystem, Ramda, Styled Components/SASS, Agile/PMP). However, they do not mention TypeScript or experience with Git/GitHub, and provide no evidence of AWS/Terraform familiarity, which are explicitly requested. Given these gaps, they are a strong candidate but not a perfect match.

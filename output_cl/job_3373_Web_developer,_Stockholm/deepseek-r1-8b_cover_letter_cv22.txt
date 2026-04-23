@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position as advertised. With a robust background in database systems and software development, coupled with a passion for writing clean code, I am confident I possess the skills and adaptability required to excel in this role.
+
+My academic foundation includes an MBA in International Business and a Master's in Management Information Systems, providing me with a comprehensive understanding of both business logic and technical implementation. This unique blend has equipped me with a keen interest in understanding complex domains and designing efficient solutions. My technical expertise lies heavily in databases and backend development, including extensive experience with SQL, MySQL, and Java. A recent project involved designing a relational database for a Hospital Management System using MySQL, focusing on data retrieval and centralization. Another significant undertaking was the Accounts Receivable Application (ARA) project, which required system analysis, design, and implementation using J2EE, further honing my problem-solving skills. While my core strength is in databases, my proficiency in Java, familiarity with modern web technologies like HTML/CSS, and exposure to tools like Git align with the technical requirements. I am eager to leverage my structured approach and technical knowledge to contribute effectively to your team.
+
+I am highly adaptable and thrive in collaborative environments, aligning well with Agile principles. My experience in project management and client interaction has sharpened my communication and teamwork skills. I am keen on staying updated with the latest technologies, including exploring modern JavaScript frameworks and testing methodologies. While my primary focus is on the database and backend side, I am proficient in SQL, possess a basic understanding of security concepts, and am open to learning new technologies like React and TypeScript. I am excited by the prospect of applying my analytical skills to solve complex technical challenges and contributing to the success of your projects.
+
+Sincerely,
+Alexis

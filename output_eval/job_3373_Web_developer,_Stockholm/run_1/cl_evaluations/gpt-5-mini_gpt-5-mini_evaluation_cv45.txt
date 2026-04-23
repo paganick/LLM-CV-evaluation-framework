@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong IT, INFOSEC, and leadership experience and a desirable TS/SCI clearance, which are valuable for secure development contexts. However, the cover letter does not demonstrate hands-on expertise with core front-end technologies required by the role (JavaScript/TypeScript, React, HTML/CSS), nor specific testing frameworks, Node ecosystem, or CI/CD/modern CSS tool experience. This is a relevant-industry applicant but lacks the concrete, demonstrable front-end engineering skills the job demands.

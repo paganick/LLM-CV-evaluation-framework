@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses extensive general industry experience and a strong grasp of testing methodologies, they fail to explicitly mention core requirements such as TypeScript, AWS, or specific security protocols like OWASP. Their React experience appears to be in the learning phase ("eager to apply") rather than professionally established, which does not meet the "hands-on experience" threshold required for this technical stack.

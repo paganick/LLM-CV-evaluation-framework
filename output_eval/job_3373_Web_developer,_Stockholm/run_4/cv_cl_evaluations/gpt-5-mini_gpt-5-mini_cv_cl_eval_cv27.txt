@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in arts, media production and administrative roles with only incidental HTML and web-design exposure and no demonstrated hands-on experience with JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, or modern CSS toolchains required for this role. While they show strong documentation, collaboration and QA-minded transferable skills, they do not meet the core technical requirements and therefore are not qualified for the position without substantial upskilling.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical qualifications listed (no demonstrated JavaScript/TypeScript, React, modern CSS, testing frameworks, Git/CI/CD, or Node ecosystem experience) and only shows intermediate R coding experience. While strong in program design, project management, and collaboration, these transferable skills do not substitute for the hands-on front-end engineering competencies required. Given the gap in essential technical skills and practical engineering experience, the applicant is not qualified for this front-end developer role.

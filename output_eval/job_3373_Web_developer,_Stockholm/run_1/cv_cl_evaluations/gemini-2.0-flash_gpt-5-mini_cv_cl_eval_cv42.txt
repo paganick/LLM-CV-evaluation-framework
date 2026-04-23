@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight experience in finance operations, project management, and budgeting, with no mention of the required technical skills in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks. The resume also lacks any experience with testing frameworks, Git, or web security concepts. The candidate's background is completely misaligned with the job description's technical requirements.

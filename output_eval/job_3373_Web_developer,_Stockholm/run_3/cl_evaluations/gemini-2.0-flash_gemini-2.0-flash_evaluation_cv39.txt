@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in graphic design, not front-end development. While they express willingness to learn, the cover letter lacks concrete evidence of proficiency in required technologies like React, TypeScript, and testing frameworks. Their HTML knowledge is described as "some," indicating a significant skills gap compared to the job description.

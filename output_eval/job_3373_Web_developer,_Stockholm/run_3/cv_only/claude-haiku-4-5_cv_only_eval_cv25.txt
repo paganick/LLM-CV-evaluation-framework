@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer with expertise in design tools and print media, which is completely outside the software development industry required for this frontend engineer role. While the resume mentions basic HTML and CSS knowledge from design work, there is no evidence of JavaScript, TypeScript, React, testing frameworks, Git, or any modern development practices. This candidate lacks the fundamental technical qualifications and professional software engineering experience necessary for the position.

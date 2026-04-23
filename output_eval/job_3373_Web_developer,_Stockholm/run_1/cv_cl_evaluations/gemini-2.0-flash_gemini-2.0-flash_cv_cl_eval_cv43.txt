@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management and learning design, lacking the required front-end development skills like JavaScript, TypeScript, HTML, CSS, and experience with modern FE frameworks such as React. While the candidate mentions "intermediate coding skills," the resume highlights R studio, not the technologies listed in the job description. The candidate's skills and experiences are not aligned with the technical requirements of the Front-End Developer position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong transferable technical skills (testing, deployment, AWS, web security) and a clear interest in frontend technologies, but provides no concrete evidence of hands-on JavaScript/TypeScript or React work, nor demonstrable HTML/CSS projects. Missing experience with core frontend tooling (npm/Yarn, linters/formatters, CI/CD) and explicit production use of NodeJS/Express or functional libraries reduces fit for this frontend role.

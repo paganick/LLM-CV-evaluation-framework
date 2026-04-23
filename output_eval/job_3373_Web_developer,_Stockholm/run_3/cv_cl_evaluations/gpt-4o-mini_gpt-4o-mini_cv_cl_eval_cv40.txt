@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in product management, which is relevant to the industry, but they lack direct hands-on experience in front-end development as a software engineer. While they have familiarity with some required technologies such as JavaScript, HTML, and CSS, the lack of specific experience with modern front-end frameworks like React, as well as testing and automation tools, limits their suitability for the role.

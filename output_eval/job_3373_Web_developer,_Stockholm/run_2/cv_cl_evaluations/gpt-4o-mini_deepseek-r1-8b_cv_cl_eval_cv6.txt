@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in web development and demonstrates familiarity with relevant technologies, including JavaScript, HTML, CSS, and PHP. However, they lack experience with modern frameworks like React, as well as hands-on experience with testing frameworks and CI/CD tools mentioned in the job description. Their experience is relevant but does not fully align with all the specific requirements of the position.

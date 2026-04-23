@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates a strong academic background and solid experience in test automation, they lack a dedicated professional history as a Frontend Developer and fail to mention TypeScript, which is a core requirement. The letter omits essential knowledge of web security (OWASP, CORS) and API design, indicating a gap in the "must-have" technical expertise. Ultimately, the profile represents a career pivot from Java/QA rather than a seasoned frontend specialist ready to contribute immediately to a complex React/TypeScript environment.

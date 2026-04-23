@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with extensive experience in graphic design but lacks the professional hands-on experience required for JavaScript, TypeScript, and React. While they possess transferable soft skills and design sensibilities, they do not demonstrate the technical proficiency in engineering practices, testing frameworks, or modern development ecosystems requested in the job description. The application fails to meet the core technical requirements necessary for a front-end engineering position.

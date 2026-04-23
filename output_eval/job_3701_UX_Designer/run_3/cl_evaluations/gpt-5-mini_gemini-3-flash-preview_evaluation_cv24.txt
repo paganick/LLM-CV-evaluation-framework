@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the role: commercial UX leadership, Agile collaboration, user research (journey mapping, interviews), running workshops, mentoring a junior, producing low/high-fidelity prototypes (Axure) and experience with HTML/CSS and UI Design System management. However, they do not mention Figma (listed as highly desirable) or any JavaScript exposure, and they do not quantify years of commercial experience. Given the strong overall fit but missing key tooling/JS specifics, this is a good but not perfect match.

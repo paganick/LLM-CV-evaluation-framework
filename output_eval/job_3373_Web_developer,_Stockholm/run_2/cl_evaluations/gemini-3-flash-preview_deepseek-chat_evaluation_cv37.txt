@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in the IT industry, the letter fails to demonstrate professional hands-on experience with the required technical stack, specifically JavaScript, TypeScript, and React. The applicant’s experience is heavily weighted toward management and infrastructure rather than active development, indicating a significant skills gap for a developer role. As a strict recruiter, interest in "rapidly expanding" proficiency does not compensate for the lack of proven, current expertise in coding and modern testing frameworks.

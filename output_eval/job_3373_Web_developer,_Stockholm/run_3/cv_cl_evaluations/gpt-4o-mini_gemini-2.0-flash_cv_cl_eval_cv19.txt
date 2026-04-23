@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design with some experience in HTML and CSS but lacks necessary skills in JavaScript, TypeScript, and modern front-end frameworks, specifically React, which is crucial for the role. While they demonstrate strong collaboration and adaptability, their current skill set does not align closely with the job description requirements, resulting in a low score.

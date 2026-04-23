@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analysis and industrial engineering, with no mention of frontend development skills like JavaScript, TypeScript, React, or modern CSS tools required by the job description. Their experience is centered on statistical modeling, data wrangling, and backend tools like Python and SAS, which are not relevant to this frontend engineering role. This represents a fundamental mismatch in industry and core technical competencies.

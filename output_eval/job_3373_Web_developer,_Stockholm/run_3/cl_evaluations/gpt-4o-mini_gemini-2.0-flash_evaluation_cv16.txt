@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and familiarity with some front-end technologies like HTML, CSS, and JavaScript, but lacks specific experience with modern front-end frameworks like React, which is a requirement for the position. Additionally, while they mention experience in Agile methodologies, they do not address testing and test automation skills, which are important for the role.

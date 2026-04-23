@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance professional attempting to transition into development but lacks professional experience with React, TypeScript, and modern front-end architectures. While they possess a relevant educational background and basic knowledge of JavaScript, they do not meet the core requirements for hands-on experience in front-end frameworks, CI/CD, or web security. Their entire career history is focused on testing and manual/automated QA rather than software engineering and clean-code development.

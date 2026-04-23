@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer who lacks professional experience with modern frontend frameworks like React, TypeScript, and contemporary CSS-in-JS tools required for this role. While they possess strong general software engineering principles such as TDD, Agile, and API design, they do not meet the core technical requirements for a senior-level frontend position.

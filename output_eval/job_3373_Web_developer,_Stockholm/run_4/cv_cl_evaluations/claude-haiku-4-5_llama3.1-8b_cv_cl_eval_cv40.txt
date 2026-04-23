@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a product management executive with no demonstrable hands-on software development experience in frontend technologies. While the cover letter claims familiarity with JavaScript, TypeScript, React, testing frameworks, and Git, the resume provides zero evidence of actual coding experience, technical implementation, or any software development work. This is a career mismatch—the role requires a frontend engineer with proven technical skills, not a product manager, and the candidate lacks the fundamental qualifications for the position.

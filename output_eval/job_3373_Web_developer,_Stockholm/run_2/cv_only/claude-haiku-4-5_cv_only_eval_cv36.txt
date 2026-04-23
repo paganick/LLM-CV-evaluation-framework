@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Microbiologist with expertise in laboratory operations, quality control, and regulatory compliance - completely unrelated to frontend web development. The resume contains zero mentions of JavaScript, TypeScript, React, HTML, CSS, or any web development technologies. There is no evidence of software engineering experience, testing frameworks, Git, or any skills required for this JavaScript/React frontend position. This candidate is in an entirely different industry and is fundamentally unqualified for this role.

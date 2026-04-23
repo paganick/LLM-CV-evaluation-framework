@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses core React and Agile experience, they failed to address the mandatory TypeScript and Web Security (OWASP, CORS, OAuth) requirements specified in the job description. The application focuses heavily on irrelevant backend technologies like Spring Boot and Microservices rather than demonstrating proficiency in the requested modern CSS tools, NodeJS ecosystem, or functional programming. Additionally, the candidate did not mention experience with the specific testing frameworks like Jest or Cypress that the role prioritizes.

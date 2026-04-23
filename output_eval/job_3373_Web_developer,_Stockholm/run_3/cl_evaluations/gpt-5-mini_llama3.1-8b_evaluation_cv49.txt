@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a data analyst with strengths in SAS, R, Python, and statistical methods but shows no demonstrable experience with essential front-end technologies (JavaScript/TypeScript, HTML, CSS) or with React beyond an unsupported claim. They provide no evidence of required tooling and practices such as front-end testing frameworks, NodeJS/npm, modern CSS tools, linters/formatters, CI/CD, or web security knowledge. Given the role's explicit, hands-on front-end and DevOps requirements, the application is not a suitable match.

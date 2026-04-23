@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant degree and foundational skills in web technologies, they lack practical hands-on experience with key tools and frameworks required for the position, such as React, unit testing, and CI/CD tools. Their background in construction does not directly translate to the technical skills specifically listed in the job description, limiting their immediate suitability for the role.

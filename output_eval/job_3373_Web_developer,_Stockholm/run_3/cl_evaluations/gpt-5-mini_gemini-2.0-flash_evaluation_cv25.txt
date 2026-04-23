@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant design experience and solid HTML/CSS skills, but does not demonstrate required hands-on experience with JavaScript/TypeScript, React, testing/automation, Git workflows, Node ecosystem, or web security—core requirements in the job description. Their willingness to learn is positive, but the application lacks the specific technical depth and tooling experience needed for this role.

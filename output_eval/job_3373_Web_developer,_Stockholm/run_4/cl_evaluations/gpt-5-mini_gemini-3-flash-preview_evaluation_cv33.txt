@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates familiarity with React, TypeScript, modern CSS (Styled Components, SASS), testing frameworks (Jest, Cypress), NodeJS, web security, and CI/CD—covering many key requirements. However, the cover letter lacks explicit evidence of recent hands-on frontend work, does not mention Git/GitHub, API design, or AWS/Terraform, and the most recent role was outside software engineering, raising concerns about recency and depth of practical implementation. Given these gaps, they are relevant to the industry but fall short of a strong match.

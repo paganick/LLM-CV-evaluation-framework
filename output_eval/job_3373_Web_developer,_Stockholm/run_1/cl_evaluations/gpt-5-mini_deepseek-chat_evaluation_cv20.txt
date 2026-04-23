@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience with JavaScript, HTML/CSS, Git, and Agile processes, but lacks demonstrated production experience with React and TypeScript which this role requires. They list learning/testing frameworks rather than hands-on proficiency and do not show experience with modern CSS tooling, the Node ecosystem, CI/CD, or explicit web security practices (OWASP/CSP/CORS/OAuth). Overall relevant to the industry but missing several key, role-specific skills.

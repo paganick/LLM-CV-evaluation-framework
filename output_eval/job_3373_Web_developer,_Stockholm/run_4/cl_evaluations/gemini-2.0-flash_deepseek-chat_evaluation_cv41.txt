@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background and mentions the required technologies, but focuses heavily on systems engineering rather than showcasing deep front-end expertise. While they claim proficiency in key skills, the letter lacks specific examples of projects or accomplishments that directly demonstrate their abilities in React, testing, or clean code practices within a front-end context. The cover letter reads as a transition from systems to front-end, which is a potential weakness.

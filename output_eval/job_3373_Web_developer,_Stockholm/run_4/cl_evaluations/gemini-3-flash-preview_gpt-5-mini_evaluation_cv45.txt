@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is significantly overqualified in management and security governance but lacks the required hands-on experience with the core technical stack, specifically JavaScript, TypeScript, and React. They explicitly state they would need to "quickly adopt" these technologies, indicating a lack of the mandatory professional experience requested in the job description. While the applicant has a strong technical leadership background, they do not demonstrate the functional programming or front-end engineering skills necessary for this specific role.

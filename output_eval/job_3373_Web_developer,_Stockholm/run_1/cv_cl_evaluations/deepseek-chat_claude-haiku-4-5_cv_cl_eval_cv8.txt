@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware test engineering and electronics manufacturing, which is a completely different industry from modern frontend software development. While they mention Python scripting and an interest in learning, the resume and cover letter show zero direct experience with the core required technologies: JavaScript, TypeScript, React, HTML, CSS, or any related web frameworks and tools. Their testing experience is with physical hardware, not software test automation frameworks like Jest or Cypress.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and lacks specific front-end development experience. While they express enthusiasm for modern front-end technologies, the resume showcases skills more aligned with data manipulation and statistical modeling. The candidate mentions HTML but lacks the depth in JavaScript, TypeScript, and modern frameworks (React, VueJS, Angular, Svelte) required for the role.

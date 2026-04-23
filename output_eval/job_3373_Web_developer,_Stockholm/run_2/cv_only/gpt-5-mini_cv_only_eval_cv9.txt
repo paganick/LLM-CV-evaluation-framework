@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong backend Java/Spring experience, solid testing automation, OAuth/security knowledge and familiarity with version control and CI tools, which are valuable. However they lack the core front-end requirements: no demonstrated experience with React, TypeScript, modern frontend frameworks, modern CSS tooling or Node/npm ecosystem and frontend test frameworks. Given the role is front-end React/TypeScript focused, this profile is relevant to software engineering but does not meet the primary technical expectations.

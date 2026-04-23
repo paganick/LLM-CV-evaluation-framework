@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some frontend experience (React, Angular, HTML, CSS) and testing background, but the resume is heavily focused on Java and backend technologies, with limited recent frontend roles. While the cover letter expresses interest in frontend, the resume does not strongly support this transition. There's a lack of depth in modern frontend tooling mentioned in the job description (e.g., Styled Components, Cypress, NodeJS ecosystem).

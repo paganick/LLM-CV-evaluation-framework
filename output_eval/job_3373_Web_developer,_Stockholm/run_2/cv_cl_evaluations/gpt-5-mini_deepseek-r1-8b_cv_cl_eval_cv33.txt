@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter show a background in banking, sales, and training with no demonstrated hands-on experience in JavaScript, TypeScript, React (or other modern front-end frameworks), testing, Git, or web security—core requirements for this role. While the candidate has strong project management and collaboration skills, those transferable strengths do not compensate for the absence of essential technical competencies. The candidate may be trainable but currently does not meet the minimum technical qualifications for this position.

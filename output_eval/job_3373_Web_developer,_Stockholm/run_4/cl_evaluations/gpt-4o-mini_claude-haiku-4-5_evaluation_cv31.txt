@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational knowledge of HTML and is actively learning JavaScript, TypeScript, and React, which aligns with some technical requirements. However, they lack hands-on experience with modern frameworks, testing methodologies, and specific tools mentioned in the job description. Their background in sales and leadership does not directly translate to the technical proficiency needed for the role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's career is in senior product management, not hands-on front-end development. The resume shows no professional experience with the required technical stack (React, TypeScript, modern testing frameworks). While the cover letter claims self-study, it lacks concrete proof of professional-level proficiency or project work to offset the complete absence of relevant job experience.

@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position. While my background is rooted in construction and project management, I am making a deliberate career transition into software development, bringing with me a proven track record of technical collaboration, problem-solving under pressure, and delivering results in complex environments.
+
+Throughout my career, I have demonstrated the core competencies your role requires. My experience managing large-scale projects with international teams of 350+ personnel has honed my ability to collaborate effectively in dynamic environments—skills that translate directly to Agile development teams. I have consistently communicated with diverse stakeholders, understood cross-functional requirements, and maintained laser focus on quality and timely delivery, mirroring the collaborative approach your organization values.
+
+My transition to frontend development is underpinned by a genuine passion for clean code and modern development practices. I am actively building proficiency in JavaScript and TypeScript, with hands-on experience in React—your primary framework. I am committed to mastering testing frameworks such as Jest and Cypress, understanding that robust test automation is essential for production-quality code. My natural affinity for process improvement and standardization aligns perfectly with the use of linters like ESLint and formatters like Prettier to maintain code consistency across teams.
+
+I am equally invested in understanding the broader technical ecosystem. My engineering background has equipped me with analytical thinking and attention to standards—competencies that extend naturally to learning web security principles including OWASP, CORS, and OAuth. I am comfortable navigating Git and GitHub workflows and am committed to staying current with evolving technologies and best practices.
+
+What sets me apart is my relentless drive for excellence and my ability to thrive in high-pressure situations while maintaining safety and quality standards. My experience negotiating complex contracts, managing multiple priorities, and delivering projects ahead of schedule demonstrates my capacity to meet demanding technical and interpersonal expectations.
+
+I am genuinely excited about transitioning my project management expertise and collaborative spirit into frontend development. I am confident that my problem-solving ability, commitment to continuous learning, and passion for clean code make me a strong candidate who will contribute meaningfully to your team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and enthusiasm can add value to your organization.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in the tech industry but lacks specific hands-on development skills in modern front-end frameworks and libraries essential for the role, such as React. While they mention familiarity with some technologies and concepts like Git and API design, the overall lack of direct experience in critical areas like testing frameworks, continuous integration, and modern CSS tools significantly limits their fit for the position.

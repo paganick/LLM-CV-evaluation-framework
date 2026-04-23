@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not professional front-end development, and they lack the required hands-on experience with core technologies like React, TypeScript, and testing frameworks. While they demonstrate transferable skills and a strong willingness to learn, they explicitly acknowledge not having the specific technical proficiencies listed in the job description. Their foundational knowledge of HTML, CSS, and JavaScript is insufficient for the role's technical demands.

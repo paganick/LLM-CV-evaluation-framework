@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant experience with HTML, CSS, and some Java, they lack direct experience with JavaScript, React, and testing frameworks outlined in the job description. The letter highlights a desire to learn these technologies, but it doesn't showcase existing practical application. The candidate's background is a mix of consulting and backend, not directly frontend focused.

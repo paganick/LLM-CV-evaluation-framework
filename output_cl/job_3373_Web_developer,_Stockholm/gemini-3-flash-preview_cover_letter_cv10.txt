@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my very strong interest in the Frontend Engineer position. With a Master of Science in Computer Science from Wichita State University and a proven track record in developing interactive, high-performance applications, I am eager to contribute my technical expertise to your innovative team. My background in both frontend and backend development, combined with a rigorous approach to testing, aligns perfectly with your requirements for a clean-code enthusiast.
+
+During my tenure as a Java Intern, I focused extensively on client-side scripting using HTML5, CSS, and JavaScript. I successfully developed a Single Page Application utilizing AngularJS, which mirrors the architecture of modern frameworks like React. My experience with the Leave Management System project involved integrating complex frontend modules with Spring MVC and Hibernate, ensuring a seamless user experience. I am particularly excited about your transition to React, as I have consistently demonstrated an ability to adapt to new libraries and prioritize functional programming principles, including libraries like Ramda.
+
+My experience as a Test Contractor for performance and benchmarking teams further distinguishes my candidacy. I am well-versed in executing test plans and performing root-cause analysis for performance degradation. I have hands-on experience with automation using Java and scripts, which translates directly to your need for proficiency in unit, integration, and E2E testing. I understand the importance of CI/CD pipelines and am familiar with Git for version control. Furthermore, my academic projects, such as optimizing algorithms on GPUs, have instilled in me a deep commitment to writing efficient, optimized code.
+
+I thrive in Agile environments and am comfortable collaborating with cross-functional teams to deliver high-quality software. Having managed diverse projects simultaneously, including high-level Unix programming and biometric system implementation, I possess the strong analytical skills necessary to navigate complex domains. I am eager to bring my knowledge of RESTful web services and web security to your team while expanding my expertise in AWS, Terraform, and modern CSS tools like SASS.
+
+Thank you for your time and consideration. I am confident that my technical proficiency and passion for clean, scalable code make me an ideal fit for your wonderful organization. I look forward to the possibility of discussing how my skills can support your ongoing projects and technological evolution.
+
+Sincerely, Alexis

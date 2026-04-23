@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in business development and chemistry with no demonstrated professional experience in JavaScript/TypeScript, React, modern frontend frameworks, frontend testing, Git, NodeJS, or web security. Only incidental skills listed are HTML and legacy tools (Dreamweaver, Flash) and C/C++, which do not meet the required front-end engineering competencies. The candidate is in the wrong industry and lacks the technical background needed for this role.

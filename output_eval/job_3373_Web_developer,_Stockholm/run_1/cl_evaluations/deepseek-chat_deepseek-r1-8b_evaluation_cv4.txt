@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with all core technical requirements and key soft skills from the job description. They explicitly mention required technologies, frameworks, testing, Git, and Agile collaboration. The score is not a 9 or 10 because the cover letter does not address several "nice-to-have" items from the description, such as modern CSS tools, specific testing frameworks, linters, Node.js ecosystem details, functional programming (Ramda), CI/CD, API design, AWS/Terraform, or web security basics.

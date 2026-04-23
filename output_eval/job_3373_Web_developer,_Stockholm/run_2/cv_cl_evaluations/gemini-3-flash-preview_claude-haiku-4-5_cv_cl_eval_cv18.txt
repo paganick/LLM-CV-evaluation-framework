@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive general IT experience, the resume lacks any specific evidence of professional experience with React, TypeScript, or modern frontend testing frameworks. Their background is primarily centered on system administration, IT consulting, and legacy web development (PHP, WordPress), which does not align with the modern engineering stack required. Furthermore, there is no mention of CI/CD, modern build tools, or functional programming expertise in a production environment.

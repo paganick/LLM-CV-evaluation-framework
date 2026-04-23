@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend technologies and has proficiency in languages and tools mentioned in the job description, such as HTML, CSS, JavaScript, and Git. However, the candidate lacks specific experience with TypeScript, modern CSS tools, and certain testing frameworks listed in the job description, which are essential for this role. Overall, while they are a strong candidate, they do not fully meet all the requirements.

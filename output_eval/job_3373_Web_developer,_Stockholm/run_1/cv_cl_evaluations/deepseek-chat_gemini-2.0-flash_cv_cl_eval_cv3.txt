@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in the correct industry but lacks nearly all specific technical requirements for the role. While showing foundational web knowledge and a strong work ethic, there is no demonstrable experience with React, TypeScript, modern testing frameworks, Git, security concepts, or the other listed tools and methodologies. This profile is that of a career-changer seeking an entry-level position, which does not align with the hands-on experience and specific technical stack demanded by the job description.

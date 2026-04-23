@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Strong match — candidate demonstrates clear commercial UX experience, Agile delivery, user research, prototyping, design system maintenance, and mentoring, all aligned with the role. Deducted points because they do not state Figma proficiency (listed tools are Axure, Sketch, Adobe XD) and do not mention any JS exposure; both were highlighted as desirable in the job description.

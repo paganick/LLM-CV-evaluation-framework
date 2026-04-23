@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background is primarily in administrative and creative fields, I am committed to transitioning into web development and am actively building the technical foundation required for this role.
+
+My existing skill set provides a unique advantage for this position. I have hands-on experience with HTML and web design, which I have utilized in previous roles. My background in video production, graphic design, and working with Adobe Creative Suite demonstrates my eye for user interface design and visual aesthetics—qualities essential for creating polished frontend experiences. Additionally, my experience with documentation, attention to detail, and ability to maintain organized systems translates well to writing clean, maintainable code.
+
+I am genuinely passionate about mastering the technical skills outlined in your job description. I am currently dedicating myself to becoming proficient in JavaScript and TypeScript, with a particular focus on React, as I understand this is your framework of choice. I am simultaneously building expertise in modern CSS tools, testing frameworks such as Jest and Cypress, and version control with Git and GitHub.
+
+My professional background has consistently demonstrated my ability to collaborate effectively across teams and adapt to new environments. As an Assistant Director, I successfully coordinated with internal and external stakeholders including architects, vendors, and public agencies. This experience has prepared me to thrive in your Agile environment and work comfortably with other teams and external partners.
+
+What particularly excites me about this opportunity is your emphasis on clean code and continuous learning. Throughout my career, whether as an Instructor, Videographer, or Administrative professional, I have maintained the highest standards of quality and organization. This same dedication to excellence drives my commitment to understanding best practices in web security, including OWASP, CORS, and OAuth.
+
+I am eager to deepen my knowledge of the NodeJS ecosystem, npm, Yarn, and CI/CD tools like CircleCI. My analytical mindset, combined with my ability to quickly master new systems and tools, positions me well to contribute meaningfully to your team while continuing to expand my technical expertise.
+
+I am enthusiastic about the opportunity to grow as a frontend developer at your organization and would welcome the chance to discuss how my commitment to excellence and collaborative spirit can support your team's success.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing and quality assurance, not in front-end development. While they list JavaScript, HTML, and CSS, they lack demonstrated professional experience with React or any modern front-end framework, which is a core requirement. Their experience with testing is a positive, but it does not compensate for the fundamental lack of hands-on development experience with the specified technology stack.

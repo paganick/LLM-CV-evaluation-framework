@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital communications and technical writing, not software development. While they express interest and mention learning some technologies, they lack any demonstrable, hands-on professional experience with the core requirements: JavaScript, TypeScript, React, modern frontend frameworks, testing, Git, or any of the listed tools. This is a fundamental mismatch for a frontend developer role.

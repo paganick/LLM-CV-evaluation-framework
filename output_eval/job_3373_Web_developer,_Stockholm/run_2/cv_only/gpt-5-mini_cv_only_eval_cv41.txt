@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates systems administration and infrastructure experience (UNIX/Windows, networking, J2EE, Oracle) but shows no demonstrable experience with JavaScript/TypeScript, React, HTML/CSS, modern CSS tooling, Node.js/npm/Yarn, frontend testing frameworks, or Git-based development workflows required for this frontend role. While security certification and clearance are strengths, they do not compensate for the lack of core frontend development skills and toolchain experience.

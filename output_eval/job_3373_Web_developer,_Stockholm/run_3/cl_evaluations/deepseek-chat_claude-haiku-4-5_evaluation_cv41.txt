@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in systems engineering, not frontend development, and they lack demonstrable, hands-on experience with the core technologies listed in the job description, particularly React and modern testing frameworks. While they show enthusiasm and mention transferable skills like debugging, they do not provide concrete evidence of proficiency in JavaScript, TypeScript, or the specific tools required for the role. The application is a career transition pitch rather than a match for the required technical qualifications.

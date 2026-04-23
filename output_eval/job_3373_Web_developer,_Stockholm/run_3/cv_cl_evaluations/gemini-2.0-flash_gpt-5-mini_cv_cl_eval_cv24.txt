@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in digital communications, not front-end development. While they express interest in learning the required technologies, they lack the necessary experience in JavaScript, React, testing frameworks, and other essential skills. Their experience is not directly transferable to the requirements of the job description.

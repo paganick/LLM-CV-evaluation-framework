@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in ASP.NET and C# back-end development, not the modern front-end stack required (React, Vue, Angular, Svelte). While they list foundational web skills and mention Agile collaboration, they lack demonstrable, hands-on experience with the specific technologies listed as essential in the job description, such as React, TypeScript, modern CSS tools, and the Node.js ecosystem. The cover letter makes claims that are not substantiated by the resume, indicating a significant skills mismatch for a front-end focused role.

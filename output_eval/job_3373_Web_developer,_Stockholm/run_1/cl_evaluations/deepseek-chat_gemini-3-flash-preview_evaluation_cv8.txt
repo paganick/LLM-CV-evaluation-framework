@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in testing, automation, and Agile environments, and directly addresses many required technologies like React, Git, and security concepts. However, the cover letter heavily emphasizes a hardware/electronics background, which is not directly relevant, and lacks explicit mention of several key front-end tools from the job description like Jest, Cypress, ESLint, and specific CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's core experience is in PHP and backend-focused tasks, which is a mismatch for a frontend-heavy role requiring deep expertise in React, TypeScript, and modern FE tooling. While they demonstrate relevant soft skills and a willingness to learn, they lack direct, hands-on experience with the specific technologies listed as primary requirements. The application shows a foundational understanding of the industry but misses on the precise technical qualifications.

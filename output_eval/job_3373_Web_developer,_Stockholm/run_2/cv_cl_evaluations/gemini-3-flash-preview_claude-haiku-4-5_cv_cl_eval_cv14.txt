@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required modern frontend stack, specifically React, TypeScript, and contemporary testing frameworks like Jest or Cypress. Their background is heavily centered on the .NET ecosystem and legacy technologies such as SharePoint 2010 and ColdFusion, which does not align with the modern JavaScript and functional programming requirements of the role. While they possess general web development experience, they do not demonstrate the specific technical proficiency requested in the job description.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the front-end engineering opportunity at your company. With more than ten years of experience as a digital communications specialist, I bring a strong blend of technical writing, content strategy, accessibility expertise, and cross-functional collaboration that positions me to transition quickly into a front-end-focused role and contribute to your React-based projects.
+
+In my current role at the Social Security Administration’s Ticket to Work program, I develop, write, and execute communication plans; manage social channels; and coordinate closely with the Information Technology team and clients to translate complex subject matter into clear, actionable content. I ensure accessibility compliance for PDFs under Section 508 and optimize content for web publication. These responsibilities have sharpened my attention to detail, my ability to work iteratively with technical teams, and my commitment to high-quality, maintainable deliverables.
+
+Throughout my career I have worked across organizational boundaries — partnering with subject matter experts, managers, external partners, and IT — to deliver projects on schedule. I bring experience using content management systems, Google Analytics, and social publishing tools such as Sprout Social, and I have a background in technical writing and editing that aligns with requirements for precise API documentation, clear component messaging, and rigorous testing of content flows.
+
+While my professional background has focused on communications rather than software engineering, I am highly motivated to learn JavaScript, TypeScript, React, testing frameworks, Git workflows, and the Node ecosystem. I am a quick study, comfortable in collaborative Agile environments, and I value well-structured, readable code and documentation. I am eager to contribute my strong communication skills, accessibility knowledge, and project experience while rapidly gaining the technical skills your team uses.
+
+My editorial training (B.A. in Communication from George Mason University) and strict adherence to AP Style have given me a disciplined approach to documenting interfaces and writing clear, maintainable component descriptions. I have written for national publications, produced annual reports, and led messaging for large-scale campaigns; these experiences taught me to prioritize user clarity, measurable outcomes, and accessibility. I am excited to apply discipline to front-end development processes and documentation.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my experience and enthusiasm can support your team’s goals.
+
+Sincerely, Alexis

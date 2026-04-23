@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development with some relevant skills in HTML, CSS, and JavaScript. However, they lack hands-on experience with modern front-end frameworks like React, testing frameworks, and tools such as Git. While they demonstrate strong problem-solving skills and a willingness to learn, their practical experience in the specific technologies mentioned in the job description is insufficient for an entry-level position.

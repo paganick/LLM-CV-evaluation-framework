@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their entire professional background is in civil engineering and construction management rather than software development. They lack any professional experience or demonstrable proficiency in the required technical stack, including JavaScript, TypeScript, and React. Despite their strong project management credentials in the oil and gas industry, they do not meet any of the core technical requirements for a frontend engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in enterprise IT management and cyber operations, not frontend development. The cover letter fails to mention any of the required technologies (e.g., JavaScript, React, testing frameworks) or demonstrate hands-on coding experience. While they claim to be a strong collaborator in Agile environments, the core technical requirements for the role are completely unaddressed.

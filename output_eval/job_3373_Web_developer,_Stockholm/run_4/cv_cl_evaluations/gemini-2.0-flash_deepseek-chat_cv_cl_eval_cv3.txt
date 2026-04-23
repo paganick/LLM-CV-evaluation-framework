@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a basic understanding of HTML, CSS, and JavaScript, but lacks practical experience with modern FE frameworks like React, which is a core requirement. Their experience is primarily academic and doesn't showcase the required depth in testing, CI/CD, or backend technologies. While the candidate expresses a willingness to learn, the gap between the job requirements and current skillset is significant.

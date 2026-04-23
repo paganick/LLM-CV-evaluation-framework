@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows strong marketing automation and integration experience (Eloqua, Salesforce) but contains no demonstrated hands‑on experience with JavaScript/TypeScript, React, modern CSS tools, or frontend testing frameworks required for this role. There is also no concrete evidence of Node/npm, Git workflow experience, CI/CD, or AWS/infra knowledge in the resume. Transferable skills in QA, cross‑functional collaboration, and problem solving are positive but insufficient to meet the core frontend requirements.

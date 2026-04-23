@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, specifically in JavaScript, HTML, CSS, and some familiarity with front-end frameworks. However, they lack experience with key modern frameworks and libraries specified in the job description, such as React, and do not demonstrate familiarity with modern CSS tools or testing frameworks mentioned. Additionally, while they express eagerness to learn, they do not mention some critical skills related to security and CI/CD tools that are important for the role.

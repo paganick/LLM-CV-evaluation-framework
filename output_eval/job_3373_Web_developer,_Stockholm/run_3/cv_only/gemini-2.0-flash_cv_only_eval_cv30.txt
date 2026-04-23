@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume focuses on data analysis, SQL, and environmental science, which are not aligned with the JavaScript, React, and front-end technologies mentioned in the job description. While there's mention of HTML, ASP.NET and C#, the resume lacks any significant experience with modern JavaScript frameworks or front-end development practices. The candidate's experience is primarily in data analysis and academia, not front-end engineering.

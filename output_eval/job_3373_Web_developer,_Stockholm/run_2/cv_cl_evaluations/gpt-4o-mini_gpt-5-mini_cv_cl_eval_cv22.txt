@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media planning and account management but lacks the specific front-end development experience required for the role, particularly in modern JavaScript frameworks like React, TypeScript, and advanced testing practices. While they have some foundational knowledge in HTML, CSS, and Core Java, their lack of extensive hands-on experience with front-end development tools and practices makes them a less suitable fit for this position.

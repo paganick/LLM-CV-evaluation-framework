@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in testing (Jest, Cypress), modern CSS tools, Git/GitHub, CI/CD exposure and strong collaboration skills, but the cover letter lacks concrete evidence of hands-on JavaScript/TypeScript and React development, API design, functional programming (Ramda), linters/formatters, and meaningful AWS/Terraform experience. Overall this is a relevant-industry applicant who appears to be transitioning from IT support/consulting rather than a proven front-end engineer, so they do not meet several key technical requirements.

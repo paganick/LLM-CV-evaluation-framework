@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a Computer Science degree and some experience with HTML/CSS, but lacks the required depth in modern front-end frameworks like React, TypeScript, and associated testing practices. While the cover letter expresses interest in learning these technologies, the resume showcases a stronger background in design-oriented roles. The candidate's experience is more aligned with UX/UI design than front-end engineering.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong transferable soft skills (leadership, collaboration) and basic HTML knowledge, and is actively learning JavaScript/TypeScript, React, and testing frameworks. However, they lack demonstrable hands-on experience with core technical requirements such as production React/TypeScript projects, Jest/Cypress, NodeJS/npm, Ramda, CI/CD, web security practices, and AWS/Terraform. Given the role's expectation for practical experience across these technologies, the application is relevant but currently underqualified.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a relevant degree and some front-end experience, the cover letter highlights AngularJS rather than React, the company's primary framework. The letter demonstrates some experience with testing and Git, but lacks mention of TypeScript and other desired skills like Styled Components, SASS, or specific testing frameworks. The candidate expresses interest in learning React, which is positive, but the lack of current proficiency is a concern.

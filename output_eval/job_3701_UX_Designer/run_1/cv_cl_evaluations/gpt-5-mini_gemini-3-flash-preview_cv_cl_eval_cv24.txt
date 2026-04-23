@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX experience (user research, wireframes, prototyping with Axure, HTML/CSS, and some team-lead responsibilities) and meets the minimum years in UX, but their recent roles focus on presentation/multimedia rather than continuous UX delivery. They lack evidence of Figma proficiency and explicit modern UI Design System ownership and only limited evidence of working in an Agile environment and JavaScript exposure. Overall, relevant but missing key tooling and recent, sustained UX/design-system experience required for a strong match.

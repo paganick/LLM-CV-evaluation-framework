@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter claims familiarity with React, TypeScript, testing, Git, Node, and modern CSS tools, but the resume shows no professional software development experience and only lists "intermediate coding in R studio," with no portfolio, GitHub links, or concrete frontend projects. For a role requiring hands-on React/TypeScript, testing, CI/CD and AWS knowledge, there is insufficient verifiable technical track record. The candidate may be a motivated career-changer but currently lacks the demonstrable experience needed for this position.

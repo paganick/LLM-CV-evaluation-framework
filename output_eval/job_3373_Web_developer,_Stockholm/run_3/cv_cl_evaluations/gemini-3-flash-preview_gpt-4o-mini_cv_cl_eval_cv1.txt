@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant industry experience and foundational knowledge of React and JavaScript, their professional background is predominantly focused on Java and backend development rather than modern frontend ecosystems. Furthermore, the resume shows no professional experience since 2017, and it lacks documented expertise in critical requirements such as TypeScript, functional programming (Ramda), and modern E2E testing tools like Cypress or TestCafe.

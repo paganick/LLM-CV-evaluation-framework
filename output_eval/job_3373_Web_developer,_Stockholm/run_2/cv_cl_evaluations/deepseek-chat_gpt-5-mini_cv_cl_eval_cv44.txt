@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in presentation/multimedia design and UX/UI, not in professional software engineering. While they mention HTML, CSS, and jQuery, they lack the required hands-on experience with React, TypeScript, modern testing frameworks, Git, and the other core technical skills listed in the job description. Their experience with testing is from a user acceptance perspective, not from writing automated unit or integration tests as an engineer.

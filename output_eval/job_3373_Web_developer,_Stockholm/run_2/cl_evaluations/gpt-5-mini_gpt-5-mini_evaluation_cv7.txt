@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design, collaboration, and production skills that are relevant, but lacks demonstrated hands-on experience with core technical requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, Node/npm, and CI/CD). Their letter expresses eagerness to learn rather than proven competence in the technologies and practices explicitly required for this role, so they are not yet qualified for the position.

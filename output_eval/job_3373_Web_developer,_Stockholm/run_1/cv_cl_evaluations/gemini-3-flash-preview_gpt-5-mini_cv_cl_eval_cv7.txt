@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer who lacks the fundamental technical requirements for a Front-End Engineering role, including proficiency in JavaScript, TypeScript, and React. Their experience is centered on visual design and legacy tools like Adobe CS5 rather than modern software development, testing frameworks, or CI/CD pipelines. While the candidate expresses a desire to transition into engineering, they currently possess zero years of the required professional programming experience.

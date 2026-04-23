@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant educational background and industry experience, they lack professional experience with the required modern tech stack, specifically React and TypeScript. Their frontend expertise is limited to legacy frameworks like AngularJS and jQuery, and they fail to demonstrate knowledge of web security standards or modern testing libraries like Jest and Cypress. The candidate is essentially a transition applicant who requires significant upskilling to meet the core technical demands of this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems administration and engineering, not front-end development. While the cover letter attempts to bridge the gap, the resume lacks concrete evidence of JavaScript, TypeScript, HTML, CSS, or modern FE framework experience. Their experience with web applications seems limited to maintenance and support rather than development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant adjacent experience (APIs, cloud exposure, CSS concepts, Git) and strong communication skills, but lacks demonstrated hands-on experience with core requirements such as React, TypeScript, automated testing (Jest/Cypress), modern Node tooling, and CI/CD. They are motivated to learn and have useful domain insight, yet do not currently meet the technical proficiency expected for this frontend engineer role. With focused upskilling and demonstrable projects in the listed technologies they could become a stronger match.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks nearly all the core technical requirements for this engineering role, including professional experience with JavaScript, TypeScript, React, and automated testing. While they possess basic HTML/CSS knowledge and a background in visual design, they are fundamentally unqualified for a modern front-end engineering position. The resume focus remains on graphic production and manual labor rather than software development or the NodeJS ecosystem.

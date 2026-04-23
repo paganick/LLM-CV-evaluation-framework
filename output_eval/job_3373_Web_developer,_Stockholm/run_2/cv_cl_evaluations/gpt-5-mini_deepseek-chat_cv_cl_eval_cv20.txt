@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience with JavaScript, HTML/CSS, Git and Agile practices, but their background is largely in ASP.NET MVC and jQuery rather than modern React/TypeScript front-end work. They lack demonstrated hands‑on experience with React, TypeScript, modern testing tools (Jest/Cypress/TestCafe), Node/npm ecosystem, and other stack items (Ramda, CI/CD, AWS) listed as required. Their stated intent to learn is positive but does not compensate for the immediate skill gaps for this role.

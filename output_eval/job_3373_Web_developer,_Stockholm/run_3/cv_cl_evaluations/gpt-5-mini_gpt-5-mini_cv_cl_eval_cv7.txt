@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate demonstrates extensive graphic and web design experience but provides no demonstrable hands-on experience with JavaScript/TypeScript, React, modern front-end frameworks, testing/automation, Node/npm, CI/CD, or web security required for this role. Their cover letter expresses willingness to learn but lacks evidence of the technical skills and tooling the position requires. Strong visual and collaboration skills are insufficient to qualify for this front-end engineering role as described.

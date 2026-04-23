@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant analytical experience and transferable problem-solving skills but provides no evidence of required front-end technical experience (JavaScript/TypeScript, HTML/CSS, React) nor essential tooling (testing frameworks, Git, Node/npm, modern CSS tools, web security, CI/CD). They appear motivated to learn but currently lack the practical skills and demonstrated experience this role requires, so substantial upskilling would be necessary.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial Java/J2EE experience, exposure to jQuery/Bootstrap, Git, and Agile practices, but their background is largely legacy backend/web (Struts, Java 6) rather than modern front-end development. They lack critical required skills such as React, TypeScript, modern testing frameworks (Jest/Cypress), Node.js/npm, CSS-in-JS/SASS, and web security/AWS experience, resulting in a poor fit for this role.

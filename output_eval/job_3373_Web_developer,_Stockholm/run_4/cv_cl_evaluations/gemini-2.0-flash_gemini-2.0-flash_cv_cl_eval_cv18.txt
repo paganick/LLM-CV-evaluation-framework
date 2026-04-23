@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a broad IT background but lacks explicit details on modern front-end development. While they mention JavaScript, HTML, and CSS, there's no concrete evidence of React or other specified technologies like testing frameworks or CI/CD tools. The resume focuses more on general IT consulting and systems administration.

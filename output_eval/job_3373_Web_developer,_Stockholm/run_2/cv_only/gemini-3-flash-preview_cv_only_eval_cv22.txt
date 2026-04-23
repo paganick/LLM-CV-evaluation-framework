@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing professional transitioning into technology and lacks any professional experience with the required modern JavaScript stack, including React, TypeScript, and functional programming. Their resume indicates only basic academic knowledge of HTML/CSS and focuses primarily on media planning and database management rather than front-end engineering. Furthermore, the candidate lacks essential experience with testing frameworks, CI/CD tools, and cloud infrastructure specified in the job description.

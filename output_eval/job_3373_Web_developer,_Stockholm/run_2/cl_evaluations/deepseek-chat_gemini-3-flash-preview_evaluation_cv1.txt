@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, testing automation, modern CSS, Node/npm, and functional programming with Ramda. They also effectively address the soft skills and Agile collaboration needs. The score is not a 9 or 10 because the cover letter does not explicitly mention TypeScript, which is a primary requirement, and only briefly touches on security practices without detailing hands-on experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in Mainframe development, which is significantly different from frontend development. While they express eagerness to learn React, they lack demonstrable experience with core frontend technologies like JavaScript, TypeScript, and testing frameworks. Their knowledge of HTML, XML and Java is foundational, not indicative of modern frontend expertise.

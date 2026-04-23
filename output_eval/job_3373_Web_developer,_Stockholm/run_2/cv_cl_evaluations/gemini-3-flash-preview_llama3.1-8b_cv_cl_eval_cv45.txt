@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional history is focused on high-level IT management, cybersecurity, and defense-sector operations, which does not align with the required technical expertise in modern front-end engineering. While the cover letter lists the job's keywords, the resume provides no evidence of experience with JavaScript, React, or TypeScript, indicating a complete lack of the necessary hands-on development skills. This is a fundamental industry mismatch between a senior IT administrator and a specialized software developer role.

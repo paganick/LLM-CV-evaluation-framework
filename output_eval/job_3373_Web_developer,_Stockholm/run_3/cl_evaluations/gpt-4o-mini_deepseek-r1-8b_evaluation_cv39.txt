@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in graphic design and web development, they lack specific proficiency in key technologies mentioned in the job description, such as JavaScript, React, and modern CSS tools. Their background suggests they may have relevant industry experience, but crucial technical skills are missing. Additionally, there is no mention of testing frameworks or familiarity with server-side technologies, which further limits their fit for the role.

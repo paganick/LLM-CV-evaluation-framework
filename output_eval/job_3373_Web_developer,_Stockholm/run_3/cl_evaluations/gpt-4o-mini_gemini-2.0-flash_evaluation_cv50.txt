@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a background in computer science and project management, they lack hands-on experience with modern front-end technologies such as React and testing frameworks mentioned in the job description. Their skills appear geared more toward management than specific front-end development roles. Moreover, there is no evidence of familiarity with CI/CD tools, security practices, or specific coding standards required for optimal front-end development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience or demonstrated proficiency in the core requirements of JavaScript, TypeScript, HTML, CSS, and modern React development. While they possess strong engineering fundamentals and knowledge of web security concepts, their background is predominantly in hardware testing and manufacturing rather than front-end software engineering. They offer no evidence of hands-on experience with the required front-end testing libraries, CI/CD pipelines, or the specified styling tools.

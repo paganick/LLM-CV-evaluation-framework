@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like HTML, CSS, and JavaScript, but lacks depth in modern FE frameworks (React, VueJS, Angular, Svelte) and testing frameworks mentioned in the job description. The resume focuses more on general IT support and troubleshooting rather than specific front-end development expertise. There is no mention of experience with TypeScript, Git, CI/CD or cloud platforms like AWS, crucial for the role.

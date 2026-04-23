@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Engineering and Quality Technician position at your organization, where I can leverage my technical expertise in software development and quality assurance. With over six years of experience in data analysis and engineering, I am confident that I possess the necessary skills to excel in this role.
+
+As a highly experienced skilled graduate with an Analytics degree, I have developed a strong foundation in programming languages such as R, SAS, Python, and C#. My expertise in web development includes experience with HTML, ASP.NET 4.5, and JavaScript. Additionally, I am well-versed in database management using Oracle and Microsoft SQL. My proficiency in data mining and machine learning techniques has enabled me to effectively analyze complex data sets and develop predictive models.
+
+I am impressed by your organization's emphasis on staying up-to-date with the latest technologies, including React, VueJS, Angular, Svelte, and functional programming. I have hands-on experience with testing and test automation using unit tests, integration tests, E2E tests, and CI/CD tools like CircleCI. My knowledge of security on the web includes familiarity with OWASP, CSP, CORS, and OAuth.
+
+As a strong collaborator with experience working in Agile environments, I am confident that I can effectively interact with other teams and external partners to ensure seamless project execution. My passion for writing clean code aligns with your organization's emphasis on coding best practices, including the use of modern CSS tools like Styled Components and SASS, testing frameworks (Jest, TestCafe, Cypress), linters, and formatters.
+
+I am particularly drawn to this role because it offers a unique blend of technical expertise and quality assurance responsibilities. I believe that my experience in data analysis, engineering, and software development makes me an ideal candidate for this position. My ability to identify uncovered information from hidden data and convert it into a story through visualization will enable me to provide valuable insights to your organization.
+
+Thank you for considering my application. I am excited about the opportunity to contribute my skills and experience to your team and look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

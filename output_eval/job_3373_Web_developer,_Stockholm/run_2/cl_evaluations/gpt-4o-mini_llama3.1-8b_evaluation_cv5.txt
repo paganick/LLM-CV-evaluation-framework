@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in legacy technologies such as COBOL, JCL, and database management but lacks essential skills directly mentioned in the job description, such as JavaScript frameworks (React, Angular), modern CSS tools, and knowledge of testing frameworks relevant to the position. While they have leadership and collaboration experience, their background does not align closely with the requirements for a modern front-end development role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in test engineering and related fields, but lacks any relevant skills in front-end development using JavaScript, TypeScript, HTML, or CSS. Additionally, there is no indication of experience with modern frameworks such as React, VueJS, or Angular. Overall, the candidate does not meet the fundamental requirements of the job description.

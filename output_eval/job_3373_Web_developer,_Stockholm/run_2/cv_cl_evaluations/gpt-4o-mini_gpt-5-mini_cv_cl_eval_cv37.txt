@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project management and IT, but lacks direct hands-on experience with the required front-end technologies like JavaScript, TypeScript, and modern frameworks such as React. Although they express a commitment to learning, there is no evidence of familiarity with testing automation, CSS tools, or Agile practices directly related to front-end development, making them less suitable for the role.

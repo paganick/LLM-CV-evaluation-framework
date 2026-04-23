@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the job requirements, specifically addressing niche mentions like the transition from Ruby and the use of Ramda for functional programming. They possess significant experience in React, automated testing frameworks (Jest/Cypress), and web security standards (CSP/CORS). However, the failure to explicitly mention TypeScript—a primary technical requirement—and specific cloud infrastructure tools like AWS or Terraform prevents a higher score.

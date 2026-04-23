@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a sales background with limited technical experience in frontend development. Although they mention familiarity with HTML and relevant certifications, they lack direct experience with key technologies listed in the job description, such as JavaScript, TypeScript, React, and modern testing frameworks. Overall, the candidate does not meet the specific requirements for the role.

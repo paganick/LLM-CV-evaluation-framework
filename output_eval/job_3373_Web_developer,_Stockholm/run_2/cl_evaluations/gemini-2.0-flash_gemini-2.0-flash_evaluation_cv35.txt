@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates experience with HTML, CSS, and JavaScript, their background is primarily in marketing automation. The letter lacks explicit examples of front-end projects or deep React experience, which is a key requirement. The candidate expresses a desire to "master" React, indicating a current lack of proficiency.

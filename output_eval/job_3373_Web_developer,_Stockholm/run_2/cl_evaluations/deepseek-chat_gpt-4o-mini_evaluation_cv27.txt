@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant technical awareness (React, Git, testing) and soft skills, but the cover letter is vague on concrete, hands-on development experience. Key job requirements like TypeScript, modern CSS tools, security basics, and specific testing framework experience are not explicitly claimed or demonstrated from a development role. The background is primarily administrative, making the direct technical proficiency for a front-end developer role unproven and insufficient.

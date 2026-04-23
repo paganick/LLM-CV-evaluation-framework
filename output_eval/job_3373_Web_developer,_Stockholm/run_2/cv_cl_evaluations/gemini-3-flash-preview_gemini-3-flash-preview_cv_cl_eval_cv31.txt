@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a career sales professional with no documented experience in software engineering or modern frontend development. The resume lacks any professional evidence of working with React, TypeScript, Git, or testing frameworks, focusing instead on sales management and leadership. Despite the technical claims in the cover letter, the candidate’s background is entirely unqualified for this specialized technical role.

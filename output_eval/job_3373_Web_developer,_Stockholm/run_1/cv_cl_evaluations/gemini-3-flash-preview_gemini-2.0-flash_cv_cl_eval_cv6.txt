@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in web development and the IT industry, they lack professional experience with the core requirements of React and TypeScript. Their background is heavily focused on Drupal, PHP, and legacy systems rather than modern frontend frameworks and ecosystems like Node.js, SASS, or Jest. The candidate's skills do not align with the specific technical stack or the senior frontend engineering expertise requested in the job description.

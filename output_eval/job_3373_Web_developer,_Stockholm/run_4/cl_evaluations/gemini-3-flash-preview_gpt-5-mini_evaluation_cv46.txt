@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of the role, including React, TypeScript, and front-end testing frameworks, explicitly stating a need to learn these technologies. While they have a solid background in backend engineering and database administration, they do not possess the specific technical expertise required for a front-end specialist. Consequently, the applicant is a poor match for a position that demands immediate proficiency in modern front-end toolchains and React.

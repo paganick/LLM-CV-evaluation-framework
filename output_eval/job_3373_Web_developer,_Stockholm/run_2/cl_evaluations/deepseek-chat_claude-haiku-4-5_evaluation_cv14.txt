@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong foundational web development skills and demonstrates a collaborative, growth-oriented mindset that aligns well with the role's soft requirements. However, they lack direct, hands-on experience with the core technologies specified, particularly React, TypeScript, and the modern frontend toolchain. Their proactive learning attitude and relevant transferable skills make them a viable but not ideal candidate.

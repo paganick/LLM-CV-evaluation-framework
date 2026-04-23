@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in web development, particularly in HTML, CSS, and JavaScript. While they have extensive experience in Drupal and related technologies, they lack direct experience with React and some modern CSS tools specified in the job description. However, their familiarity with clean code practices, testing tools, and collaboration in Agile environments makes them a strong candidate.

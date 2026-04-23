@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in software testing and some familiarity with JavaScript and HTML, but lacks proven experience in key required areas such as modern front-end frameworks (like React), testing frameworks (like Jest or Cypress), and CI/CD tools. Additionally, there is no mention of experience with basic web security principles or exposure to the full development lifecycle, which is critical for the role.

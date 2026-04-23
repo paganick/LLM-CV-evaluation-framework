@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer pivoting from marketing automation and lacks professional experience in a dedicated software engineering role. While they possess transferable logic and API skills, the application lacks evidence of hands-on production experience with TypeScript, React, or the specific testing frameworks (Jest/Cypress) required. The technical background is centered on platform-specific tools (Oracle/Salesforce) rather than the modern web development stack requested.

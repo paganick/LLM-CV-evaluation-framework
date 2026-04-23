@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from construction and has only academic project experience, lacking professional front-end development experience. They demonstrate foundational knowledge of core web technologies but have no hands-on experience with the required modern frameworks (React), TypeScript, testing tools, Git, or security concepts listed in the job description. While motivated and possessing transferable soft skills, they do not meet the specific technical requirements for the role.

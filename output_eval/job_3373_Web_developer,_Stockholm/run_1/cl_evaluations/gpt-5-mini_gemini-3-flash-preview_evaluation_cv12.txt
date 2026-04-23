@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong general front-end and full-stack experience (JavaScript, SASS, testing frameworks, API design, security, Git) and leadership in Agile environments, making them a good fit for the role. However, they do not clearly document production React and TypeScript experience or concrete familiarity with the Node ecosystem, modern CSS libraries (e.g., Styled Components), linters/formatters, specific CI/CD tools (e.g., CircleCI) or AWS/Terraform—important gaps given the job requirements.

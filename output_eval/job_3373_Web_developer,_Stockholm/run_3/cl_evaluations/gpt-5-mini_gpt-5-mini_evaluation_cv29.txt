@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong product, API integration, and cross-functional experience but provides no evidence of hands-on proficiency in JavaScript/TypeScript, React, frontend testing frameworks, Git/GitHub, NodeJS tooling or modern CSS patterns required by the role. Their active self-study and product-domain knowledge are positives, but do not meet the job's stated technical requirements for a front-end engineering position. Consideration would be more appropriate for an entry-level or transition role rather than the role as described.

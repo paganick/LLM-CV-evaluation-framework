@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in film/video production, which is a different industry. While the cover letter attempts to bridge this gap by mentioning JavaScript, TypeScript, HTML, and CSS skills, the resume lacks concrete evidence of professional experience in these technologies or relevant frameworks like React. The candidate shows interest in the technologies mentioned in the job description but lacks practical experience.

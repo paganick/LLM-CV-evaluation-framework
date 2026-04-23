@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in data analysis and industrial engineering, with no demonstrated professional experience in frontend development, JavaScript, TypeScript, React, or any other required web technologies. The cover letter acknowledges this lack of direct experience and attempts to transfer analytical skills, but it does not provide evidence of the hands-on technical competencies specified in the job description. This is a mismatch for a role requiring specific, current frontend engineering skills.

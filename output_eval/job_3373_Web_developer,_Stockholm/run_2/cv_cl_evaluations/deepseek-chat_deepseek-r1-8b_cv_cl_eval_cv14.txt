@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a different tech stack (C#, ASP.NET, SharePoint) and lacks the required hands-on experience with modern front-end technologies like React, TypeScript, and the specific testing frameworks mentioned. While they show an interest in learning and have some tangential experience with JavaScript and GitHub, they do not meet the core technical requirements for the role. Their collaborative and Agile experience is a positive, but insufficient to overcome the significant skill mismatch.

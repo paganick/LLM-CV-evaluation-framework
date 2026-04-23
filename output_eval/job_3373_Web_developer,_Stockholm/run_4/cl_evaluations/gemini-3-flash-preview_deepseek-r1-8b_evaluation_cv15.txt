@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses foundational web development skills but lacks professional experience with the primary tech stack, specifically TypeScript and React. They admit to a lack of hands-on experience with the required testing frameworks and linters, positioning themselves as a learner rather than an expert in those areas. Key requirements such as CI/CD, API design, and cloud infrastructure are entirely unaddressed, making this a weak match for a senior or specialized role.

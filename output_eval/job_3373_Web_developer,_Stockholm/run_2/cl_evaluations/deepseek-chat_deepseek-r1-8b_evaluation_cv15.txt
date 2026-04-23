@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a relevant industry but lacks the specific, required technical experience. The cover letter mentions only general JavaScript and HTML/CSS, with no mention of modern frameworks like React, TypeScript, or the extensive list of tools from the job description. While they show awareness of some concepts (Agile, Git, OWASP), the letter fails to demonstrate hands-on experience with the core technologies and methodologies required for the role.

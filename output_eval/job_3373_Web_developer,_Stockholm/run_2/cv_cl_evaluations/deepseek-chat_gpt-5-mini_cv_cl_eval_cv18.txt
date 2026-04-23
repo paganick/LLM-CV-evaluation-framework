@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (HTML, CSS, JS), but the resume and cover letter show a severe lack of specific, hands-on experience with the core technologies required. There is no demonstrable experience with React, TypeScript, modern testing frameworks (Jest, Cypress), or the specific tools (Ramda, Styled Components) mentioned in the job description. Their extensive background is in IT consulting and systems administration, not modern front-end software engineering.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily analytics, data processing and teaching with experience in SQL, Python, SAS, C# and basic HTML, but shows no practical experience with core front-end technologies required (JavaScript/TypeScript, React, modern CSS tooling). There is no evidence of front-end testing frameworks, Git/GitHub workflow, Node/npm or CI/CD, nor demonstrated web security or API/frontend integration experience. Motivation to learn React is positive but insufficient for this role's immediate technical requirements.

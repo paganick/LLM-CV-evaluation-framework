@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has an impressive background in cybersecurity and IT leadership, they lack professional, hands-on experience in front-end engineering and production-level React development. Their technical skills in JavaScript and TypeScript appear to be recently self-acquired rather than applied in a professional software development lifecycle. Consequently, the candidate does not meet the core requirement for a developer with a proven track record of writing clean code and implementing modern front-end architectures.

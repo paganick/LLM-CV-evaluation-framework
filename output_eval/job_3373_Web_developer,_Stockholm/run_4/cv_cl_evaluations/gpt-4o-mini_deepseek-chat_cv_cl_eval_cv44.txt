@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and some understanding of HTML and CSS. However, they lack specific experience with JavaScript, modern front-end frameworks (notably React), and essential testing practices which are critical for the role. While they express an interest in expanding their technical skills, the current qualifications do not meet the requirements for a front-end developer position.

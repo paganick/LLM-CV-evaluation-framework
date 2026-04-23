@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and meets some basic requirements like Git and Agile. However, they lack specific, required skills in modern front-end frameworks (React, etc.), TypeScript, and key testing tools, and do not address security knowledge or other listed technologies. Their background is heavily weighted toward .NET, which is not aligned with the job's tech stack.

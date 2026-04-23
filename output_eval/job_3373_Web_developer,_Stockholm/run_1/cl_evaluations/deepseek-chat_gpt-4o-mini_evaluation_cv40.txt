@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in product management, not direct front-end development, which is the core requirement. While they demonstrate awareness of some relevant technologies (React, Jest, Cypress, security principles), the letter lacks concrete evidence of hands-on coding experience, proficiency in key tools from the job description (TypeScript, modern CSS tools, CI/CD), or a proven track record of writing and delivering clean code. The experience described is managerial and collaborative, not technical execution.

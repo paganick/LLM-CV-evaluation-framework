@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in API management and automation, which aligns well with the job requirements. However, they lack specific mention of testing frameworks such as Jest or TestCafe, as well as familiarity with modern CSS tools like Styled Components or SASS, which are critical to the role. Overall, they demonstrate strong alignment with core technologies but miss some of the newer tools and frameworks listed in the job description.

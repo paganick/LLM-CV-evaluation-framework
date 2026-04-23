@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in IT management but lacks hands-on experience with the specific technologies mentioned in the job description, such as TypeScript, modern frameworks (React, VueJS, etc.), testing tools, and CI/CD processes. While they demonstrate a passion for continuous learning and code quality, their qualifications do not fully align with the technical requirements of the Front End Developer position.

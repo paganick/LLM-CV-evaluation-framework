@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a specialized Drupal developer whose professional experience is centered on PHP-based CMS architecture rather than modern React-based frontend engineering. They lack the required professional proficiency in TypeScript and React, explicitly stating an interest in learning these technologies rather than demonstrating current expertise. Additionally, their testing and toolset experience (Selenium, Behat) does not align with the modern JavaScript ecosystem (Jest, Cypress, SASS) requested in the job description.

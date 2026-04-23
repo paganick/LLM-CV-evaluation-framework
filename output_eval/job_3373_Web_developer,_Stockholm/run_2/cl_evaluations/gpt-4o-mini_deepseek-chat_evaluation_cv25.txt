@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid foundation in HTML and CSS and is actively upskilling in JavaScript, which aligns with some of the job requirements. However, they lack specific experience in modern frameworks like React, testing frameworks, and knowledge of security practices mentioned in the job description. Their background in design provides some relevant skills, but they do not fully meet the technical requirements for the role.

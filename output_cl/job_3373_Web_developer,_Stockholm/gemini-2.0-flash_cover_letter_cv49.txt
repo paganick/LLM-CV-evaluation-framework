@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position. While my background is in Industrial and Systems Engineering with a focus on data analysis, I've cultivated a strong interest in front-end technologies and believe my analytical skills and passion for clean code make me a valuable candidate.
+
+My experience as a Data Analyst has provided me with a solid foundation in data manipulation, analysis, and visualization using tools like Python, R, and SQL. This background, coupled with my understanding of statistical modeling and optimization, allows me to approach front-end development with a focus on efficiency and performance.
+
+Although my CV highlights data analysis, I've been actively expanding my skills to include front-end technologies. I am eager to apply my analytical problem-solving skills and learn quickly within your team. I am particularly drawn to your use of React, a framework I am keen to learn.
+
+My projects have honed my abilities in data extraction, data wrangling, and data analysis. I am adept at identifying key factors and developing models to aid decision-making, skills that translate well to building user-friendly and effective interfaces. My experience in process improvement using the DMAIC methodology has instilled in me a strong understanding of structured problem-solving.
+
+I am a strong collaborator and comfortable working in an Agile environment. My leadership experience as a Student Manager has equipped me with the ability to train and guide others. I am passionate about writing clean code and eager to learn about the full domain and other platforms, even those outside my immediate expertise.
+
+Thank you for your time and consideration. I am excited about the opportunity to contribute to your team.
+
+Sincerely,
+Alexis

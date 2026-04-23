@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a software tester attempting to pivot into development and lacks professional experience with the required React framework and TypeScript. While they possess strong testing and basic web security knowledge, their profile fails to demonstrate a track record of building frontend architectures or working with the requested NodeJS and functional programming tools. As a result, the candidate is underqualified for a developer-specific role despite their industry experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, which doesn't align well with the focus on modern FE frameworks like React in the job description. While they mention JavaScript, HTML, and CSS, their experience seems less focused on modern front-end development. They lack specific experience with React, VueJS, Angular, or Svelte.

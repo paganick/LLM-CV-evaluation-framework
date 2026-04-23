@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong foundation in web development, including relevant technologies like JavaScript, HTML, CSS, and Agile methodologies. They also have demonstrable experience in testing and collaboration. While the cover letter focuses more on .NET and legacy stacks, the candidate expresses a keen interest in modern front-end frameworks, aligning with the job description's emphasis on React.

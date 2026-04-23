@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills—systems integration, QA/testing practices, Git usage, and cross-functional collaboration—that align with the role at a conceptual level. However, they lack demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks (Jest/Cypress/TestCafe), and the NodeJS/CI/CD/AWS ecosystem, so significant upskilling would be required.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and a solid understanding of Agile methodologies, but lacks specific experience with modern front-end technologies such as React, TypeScript, and the associated testing frameworks and practices. Furthermore, while they mention an eagerness to learn these technologies, their primary background is in testing rather than front-end development, which may hinder their ability to meet the immediate technical requirements of the role.

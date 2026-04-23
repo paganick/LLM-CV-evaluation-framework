@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and mentions some required technologies, but the cover letter is primarily focused on project management experience. It lacks specific, demonstrable evidence of hands-on development skills, particularly in testing automation, modern CSS tools, and the other technical specifics listed. The application reads as a project manager pivoting to a developer role without concrete proof of recent, direct coding proficiency.

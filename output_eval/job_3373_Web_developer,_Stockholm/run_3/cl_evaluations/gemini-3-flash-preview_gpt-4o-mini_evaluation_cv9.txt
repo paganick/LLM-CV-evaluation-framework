@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/JEE backend developer who lacks specific professional experience with the required frontend stack, failing to mention React or TypeScript entirely. While they possess transferable skills in CI/CD and Agile, their testing experience is limited to backend tools (Mockito, WireMock) rather than the requested frontend frameworks like Jest or Cypress. As a strict recruiter, I find the candidate's transition from backend to frontend unproven regarding the core technologies demanded for this role.

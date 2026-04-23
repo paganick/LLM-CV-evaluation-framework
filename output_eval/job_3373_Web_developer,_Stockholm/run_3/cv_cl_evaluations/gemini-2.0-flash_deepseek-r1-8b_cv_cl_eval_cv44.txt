@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in presentation design and multimedia, lacking specific experience with modern FE frameworks like React, TypeScript, and associated testing methodologies outlined in the job description. While they possess some relevant skills like HTML, CSS, and a general understanding of web development, their expertise doesn't align with the core requirements of the role. The cover letter expresses interest but doesn't showcase demonstrable experience in the required technologies.

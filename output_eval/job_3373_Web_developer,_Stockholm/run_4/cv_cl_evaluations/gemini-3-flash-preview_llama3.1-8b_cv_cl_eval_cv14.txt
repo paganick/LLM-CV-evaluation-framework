@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is almost entirely focused on the ASP.NET, C#, and SharePoint ecosystem, which does not align with the required modern JavaScript/TypeScript and React stack. While the cover letter claims familiarity with React and testing frameworks, the resume lacks any evidence of these skills being applied in a professional or project-based capacity. Furthermore, there is no documented experience with mandatory requirements such as CI/CD, AWS, or modern testing automation (Jest/Cypress).

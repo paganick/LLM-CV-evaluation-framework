@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume lacks the required JavaScript, TypeScript, and modern FE frameworks experience. While they possess HTML and CSS skills, their experience is primarily in presentation and multimedia design, not software development. The resume does not demonstrate experience with testing, Git, or web security.

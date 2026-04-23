@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background but lacks explicit experience with TypeScript, which is a key requirement. While they mention JavaScript and React, they express only an "eagerness" to learn SASS, Ramda, and AWS, instead of demonstrating proficiency. The cover letter relies heavily on adjacent skills rather than directly addressing the core requirements.

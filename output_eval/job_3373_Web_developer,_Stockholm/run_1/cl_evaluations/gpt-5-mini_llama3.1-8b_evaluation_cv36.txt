@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s experience is primarily in microbiology, regulatory compliance, and lab systems with no demonstrated hands-on experience in JavaScript, TypeScript, React, modern front-end frameworks, or the Node ecosystem required for this role. Claims of familiarity with testing frameworks and “passion for clean code” are unsupported by concrete examples or projects. While strong transferable skills (attention to detail, regulatory rigor, training) are noted, they do not compensate for the lack of core front-end technical qualifications.

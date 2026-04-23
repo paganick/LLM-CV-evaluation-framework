@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with JavaScript, HTML, and CSS, along with a solid understanding of full-stack development. However, they lack specific experience with some of the tools and technologies listed in the job description, such as TypeScript, certain testing frameworks, and modern CSS tools. While they demonstrate a commitment to clean code and collaboration in an Agile environment, further knowledge of the specific technologies used by the organization would strengthen their candidacy.

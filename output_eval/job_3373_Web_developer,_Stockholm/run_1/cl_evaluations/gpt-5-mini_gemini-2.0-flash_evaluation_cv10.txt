@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic front-end fundamentals (HTML/CSS/JavaScript, REST, Agile) and some framework exposure (AngularJS), but lacks most of the specific skills required for this role. Missing items include TypeScript, React experience, modern CSS tooling (SASS/Styled Components), JS testing frameworks and E2E tooling, Git/GitHub, Node.js ecosystem familiarity, CI/CD, and basic web security knowledge. Their testing experience is Java-based and AngularJS is outdated, so they are not a strong match for the position.

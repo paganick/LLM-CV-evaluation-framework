@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate explicitly admits a lack of proficiency in the fundamental requirements of the role, including JavaScript, TypeScript, HTML, and CSS. Their professional background is entirely in marketing and public relations, which does not align with the technical demands of a front-end developer position. Despite expressing a willingness to learn, they currently possess none of the essential technical skills or hands-on experience required for this engineering team.

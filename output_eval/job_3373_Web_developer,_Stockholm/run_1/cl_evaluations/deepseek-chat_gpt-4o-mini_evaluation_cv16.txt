@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript, testing, Git, and Agile. They also address many desired skills like modern CSS tools, Jest/Cypress, NodeJS, and CI/CD. The score is not a 9 because the cover letter does not explicitly mention TypeScript, which is a listed primary requirement, and only implies rather than directly stating experience with linters/formatters.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is not the core requirement. While they demonstrate interest and some learning in front-end technologies like React and JavaScript, the cover letter lacks substantial evidence of hands-on experience, especially with testing frameworks and CI/CD tools mentioned in the job description. The candidate expresses a willingness to learn, but the gap between their current skillset and the job requirements is significant.

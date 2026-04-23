@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume mentions "Java script" (likely JavaScript), C++, and some testing experience, but lacks depth in modern FE frameworks like React, TypeScript, or relevant CSS tools. The experience is primarily in hardware and basic software testing, missing key aspects of the job description like Agile collaboration, CI/CD, API design, and web security. While there's a mention of Linux and some software tools, the overall fit is weak.

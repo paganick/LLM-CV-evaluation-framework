@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates foundational web skills (HTML5, CSS3, JavaScript) and broad IT/project management experience, but the resume lacks demonstrated, hands-on experience with the core stack requirements—React, TypeScript, modern Node tooling (npm/Yarn), testing frameworks (Jest/Cypress/TestCafe), and CI/CD. Claims of security knowledge and interest in learning modern tools are noted, but do not substitute for the required practical experience, so the fit is limited.

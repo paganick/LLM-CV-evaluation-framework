@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only foundational coursework in HTML/CSS, which is relevant to the industry but insufficient for the role. The job description requires hands-on experience with JavaScript, TypeScript, React, testing frameworks, and modern tooling, none of which are demonstrated. While the candidate expresses eagerness to learn and has relevant soft skills, they lack the specific, required technical competencies for a Frontend Developer position.

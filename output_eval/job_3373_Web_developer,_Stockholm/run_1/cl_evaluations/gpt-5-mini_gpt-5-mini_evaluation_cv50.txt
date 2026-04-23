@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong IT, quality engineering, security and leadership experience, but provides no concrete hands‑on evidence with the core frontend technologies required (React, JavaScript/TypeScript, modern CSS, testing frameworks, Node/npm, CI/CD, etc.). The letter emphasizes project leadership and a willingness to learn rather than demonstrated practical experience writing and testing frontend code, making them a potentially trainable but not immediately qualified hire for this role.

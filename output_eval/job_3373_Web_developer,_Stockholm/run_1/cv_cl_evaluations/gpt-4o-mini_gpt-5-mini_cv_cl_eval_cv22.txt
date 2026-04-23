@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some technical knowledge relevant to the role, such as HTML, CSS, and Core Java, but lacks experience with JavaScript frameworks like React, TypeScript, and testing automation tools specified in the job description. While they have a solid background in media planning and account management, their technical experience is limited and does not fully align with the requirements of a front-end engineering position.

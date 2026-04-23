@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is almost entirely focused on legacy Mainframe technologies like COBOL, CICS, and DB2, which does not align with the modern frontend requirements. There is no evidence of professional experience with React, TypeScript, or contemporary testing frameworks like Jest and Cypress. Furthermore, the candidate's last recorded professional experience ended in 2014, making their technical profile severely outdated for a modern web development role.

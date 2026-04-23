@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions the correct technologies, their professional background is primarily in Program Management and Design rather than software engineering. They lack a proven track record of professional frontend development in a production environment, and their technical foundation in R studio is not directly applicable to the core React/TypeScript requirements. The letter indicates a career transitioner who lacks the specific, hands-on engineering experience required for this role.

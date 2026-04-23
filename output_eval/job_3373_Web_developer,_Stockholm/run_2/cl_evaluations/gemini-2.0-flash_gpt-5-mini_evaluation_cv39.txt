@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in design, not front-end engineering. While they express interest in modern technologies like React and functional programming, the letter highlights a desire to *learn* these skills rather than demonstrating existing proficiency. The candidate lacks experience in testing, CI/CD, and the NodeJS ecosystem as outlined in the job description, indicating a significant skills gap.

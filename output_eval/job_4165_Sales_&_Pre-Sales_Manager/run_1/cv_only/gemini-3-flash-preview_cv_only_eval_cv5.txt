@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the minimum experience requirement and demonstrates a strong background in Business Intelligence and Data Analytics, aligning with one of the specified technical domains. They have proven success in the Telco and Retail sectors, although they lack documented experience in Banking, Insurance, or Utilities. While they possess significant commercial and leadership expertise, their resume lacks detail regarding modern application services like API/Cloud/Microservices and the architectural solutioning required for this role.

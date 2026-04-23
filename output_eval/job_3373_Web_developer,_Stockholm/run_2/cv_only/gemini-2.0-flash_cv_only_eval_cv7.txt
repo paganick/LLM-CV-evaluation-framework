@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses heavily on graphic design, visual merchandising, and traditional art skills. There is no mention of JavaScript, TypeScript, modern FE frameworks like React, or any relevant testing or CI/CD experience. The candidate lacks the technical skills outlined in the job description.

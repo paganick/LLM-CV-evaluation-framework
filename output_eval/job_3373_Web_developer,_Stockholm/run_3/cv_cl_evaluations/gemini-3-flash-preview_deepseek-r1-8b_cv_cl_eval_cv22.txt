@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from the marketing and advertising industry with no professional experience in software engineering. They lack almost all core requirements, including JavaScript, TypeScript, React, and automated testing, while expressing a preference for database roles rather than the front-end focus of this position. Their technical background is limited to basic academic projects and does not meet the standards for a modern software engineering role.

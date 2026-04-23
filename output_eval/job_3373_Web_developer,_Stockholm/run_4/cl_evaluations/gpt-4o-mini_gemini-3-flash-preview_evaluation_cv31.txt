@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in the technology sector and some transferable skills, particularly in HTML and familiarity with frontend concepts. However, they lack direct experience with several key technologies mentioned in the job description, such as React, TypeScript, testing frameworks, and CI/CD tools. The cover letter showcases potential but does not fully align with the specific requirements needed for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java developer whose professional experience lacks the required mastery of modern front-end technologies like React, TypeScript, and advanced CSS tools. While they have extensive software development experience, their knowledge of the specified frontend ecosystem is mostly theoretical or limited to legacy libraries like jQuery. There is no evidence of hands-on experience with modern testing frameworks (Jest, Cypress) or CI/CD tools mentioned in the job description.

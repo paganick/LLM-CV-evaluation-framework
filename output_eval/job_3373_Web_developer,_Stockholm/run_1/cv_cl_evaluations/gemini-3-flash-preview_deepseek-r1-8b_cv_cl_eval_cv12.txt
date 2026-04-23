@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a solid background in general software development and PHP, they lack the required professional experience with modern JavaScript frameworks like React and possess no mentioned experience with TypeScript. Their profile is missing key specific requirements, such as modern testing frameworks (Jest/Cypress), CI/CD tools, and cloud infrastructure (AWS/Terraform). The candidate’s experience is largely centered on legacy technologies, making them a poor fit for a modern frontend-focused role.

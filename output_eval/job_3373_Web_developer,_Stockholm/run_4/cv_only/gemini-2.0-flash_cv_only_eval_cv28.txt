@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume showcases a background in materials analysis, quality control, and process improvement within the manufacturing industry, completely unrelated to the software development requirements outlined in the job description. There is no mention of any of the required technologies (JavaScript, React, HTML, CSS, etc.) or related concepts. The candidate's skills and experience are focused on physical materials, manufacturing processes, and quality assurance, making them entirely unqualified for a Front End Developer role.

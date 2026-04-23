@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in frontend and backend development, showcasing skills in JavaScript, HTML, and CSS. However, they lack direct experience with modern frameworks like React, which is critical for the role. Their foundational knowledge in testing tools and security practices is commendable, but additional exposure to key technologies mentioned in the job description is necessary for a stronger fit.

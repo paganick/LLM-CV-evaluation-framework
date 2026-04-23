@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in digital marketing and Salesforce Marketing Cloud implementation, with limited direct experience in front-end development. While they express interest in JavaScript, TypeScript, and React, the resume lacks concrete projects or roles demonstrating proficiency in these technologies. The candidate mentions HTML and CSS, but the depth of knowledge isn't clear and doesn't align with the "modern FE frameworks" requirement.

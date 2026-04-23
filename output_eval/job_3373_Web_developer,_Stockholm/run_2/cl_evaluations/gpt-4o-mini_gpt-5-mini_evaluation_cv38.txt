@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and multimedia production, showcasing transferable skills in communication and organization. However, they lack specific technical experience in key areas noted in the job description, such as JavaScript frameworks (specifically React), testing automation, and modern CSS tools. Their eagerness to learn and adapt is notable, but their current qualifications do not fully meet the specific requirements of the Front-End Developer role.

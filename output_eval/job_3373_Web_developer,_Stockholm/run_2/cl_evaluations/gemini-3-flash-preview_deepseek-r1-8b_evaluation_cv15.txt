@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks hands-on experience with the core requirements of the role, specifically failing to demonstrate proficiency in React and TypeScript. While they possess foundational knowledge of HTML, CSS, and JavaScript, they explicitly state a need to learn the required testing frameworks and modern tooling rather than bringing existing expertise. Furthermore, their background in legacy technologies suggests a significant gap in modern frontend development practices and the specialized ecosystem requested.

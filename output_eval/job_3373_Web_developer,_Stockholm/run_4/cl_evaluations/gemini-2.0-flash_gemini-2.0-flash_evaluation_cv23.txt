@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is tangentially related to front-end development, focusing more on testing and electronics. While they mention JavaScript and C++, they lack demonstrable experience with core front-end technologies like HTML, CSS, TypeScript, or React, which are key requirements. The cover letter highlights transferable skills but doesn't adequately address the specific technical skills listed in the job description.

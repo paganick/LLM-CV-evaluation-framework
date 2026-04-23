@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced technical leader and project manager with a Bachelor of Science in Computer Science and more than thirty years of hands‑on experience in IT, quality engineering, and business development. I am excited to apply for this frontend developer position because I bring a proven record of managing full software lifecycles, implementing rigorous testing and quality processes, and delivering secure, mission‑critical systems.
+
+In roles ranging from Distributed Computer Systems Analyst to Senior Business Development Director and Quality Engineering Analyst, I have led cross‑functional teams, managed large budgets, and delivered complex software and infrastructure projects on time and within scope. I have directed international network installations, overseen Windows server deployments for hundreds of workstations, and led the construction of a state‑of‑the‑art supercomputing facility. As part of classified programs I provided information security support and have held Top Secret and Secret clearances, giving me a deep respect for secure design and operational controls.
+
+My background in Six Sigma, quality management, and process implementation has equipped me to introduce and maintain automated, repeatable testing practices and robust release procedures. I have trained teams in quality tools, led root cause analysis and continuous improvement initiatives, and driven measurable cost and schedule savings. I consult with clients to assess technology needs and translate requirements into delivered solutions, a skill that supports effective API and UI collaboration across teams and external partners.
+
+I am highly collaborative, comfortable leading and participating in Agile teams, and eager to apply my systems thinking to frontend development. While my recent work has focused on program and project leadership, my computer science foundation and long history of technical delivery make me a quick study of modern JavaScript frameworks, testing frameworks, and frontend toolchains. I am motivated to contribute clean, well tested code and to grow with your engineering team.
+
+I am available to begin transitioning into a hands‑on engineering role immediately and welcome opportunities for mentorship, focused training, and pair programming to accelerate my productivity with your specific React, TypeScript and testing toolchain in support of product goals.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my blend of technical leadership, quality focus, and cross‑discipline collaboration can support your team.
+
+Sincerely, Alexis

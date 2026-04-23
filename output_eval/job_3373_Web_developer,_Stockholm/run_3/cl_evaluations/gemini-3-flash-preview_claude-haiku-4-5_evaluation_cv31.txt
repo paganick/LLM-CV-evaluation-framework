@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks professional software development experience and does not currently possess the required technical proficiency in JavaScript, TypeScript, or React. While they demonstrate strong leadership and soft skills, they fail to meet the mandatory "hands-on experience" requirements for testing automation, web security, and modern frontend frameworks. Their background remains rooted in the sales industry, making them unqualified for a position requiring immediate technical contribution.

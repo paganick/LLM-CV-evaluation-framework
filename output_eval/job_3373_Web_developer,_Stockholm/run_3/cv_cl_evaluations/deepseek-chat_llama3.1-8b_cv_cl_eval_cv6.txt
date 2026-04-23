@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily centered on Drupal and PHP backend development, with only peripheral mentions of the required modern frontend stack (React, Vue, Angular, Svelte). The resume and cover letter lack any evidence of hands-on experience with key job requirements like test automation (Jest, Cypress), modern CSS tools (Styled Components, SASS), functional programming (Ramda), or CI/CD. While the industry is adjacent, the specific technical skill set is a significant mismatch for this frontend-focused role.

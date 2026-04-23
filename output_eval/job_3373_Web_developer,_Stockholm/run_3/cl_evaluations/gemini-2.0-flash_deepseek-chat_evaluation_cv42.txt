@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is transitioning from a completely different industry and highlights transferable skills rather than direct front-end experience. While they demonstrate some knowledge of the required technologies and practices like React, testing with Jest, and Git, the lack of professional experience in software development is a significant drawback. The cover letter focuses heavily on past accomplishments outside of the tech field.

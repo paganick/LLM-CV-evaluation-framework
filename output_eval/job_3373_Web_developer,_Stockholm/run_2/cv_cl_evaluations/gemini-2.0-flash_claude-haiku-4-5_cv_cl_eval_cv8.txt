@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering within electronics manufacturing, not frontend development. While they express interest in transitioning, they lack explicit experience with the core technologies listed in the job description such as Javascript, React, HTML, and CSS. The cover letter highlights relevant soft skills and a willingness to learn, but the resume doesn't reflect the required technical foundation.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates strong alignment with the core technical requirements, including JavaScript, modern frameworks, testing, Git, Agile, and OWASP. However, the cover letter does not explicitly mention several key technologies from the job description, such as TypeScript, Node.js, functional programming (Ramda), CI/CD tools, or AWS/Terraform. While a strong general match, the absence of these specific skills prevents a higher score.

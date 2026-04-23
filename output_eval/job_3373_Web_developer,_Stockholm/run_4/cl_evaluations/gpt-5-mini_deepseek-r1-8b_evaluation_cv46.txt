@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core frontend requirements (JavaScript/TypeScript, React, testing with Jest/Cypress, Git, Agile, CI/CD and web security basics), making them a solid match for the role. However, they do not explicitly show experience with several job-specific technologies (Styled Components/SASS, linters/formatters, NodeJS/Express, Ramda, API design, AWS/Terraform). The lack of concrete examples, metrics, or depth on those missing areas prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's resume demonstrates some relevant skills like Javascript, HTML, and database experience. The cover letter claims experience with React, testing, and CI/CD, but the resume lacks concrete examples, making it difficult to verify the depth of knowledge. The resume also contains outdated technologies and experience.

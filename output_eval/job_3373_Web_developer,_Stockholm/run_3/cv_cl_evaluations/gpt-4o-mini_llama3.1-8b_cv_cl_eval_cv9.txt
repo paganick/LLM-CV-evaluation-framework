@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive IT experience, particularly with Java and various backend technologies, but lacks direct experience with critical front-end technologies and frameworks like React, TypeScript, and modern CSS tools. While they demonstrate good knowledge in testing and web security, they do not fully meet the expectations outlined in the job description for a focused front-end role.

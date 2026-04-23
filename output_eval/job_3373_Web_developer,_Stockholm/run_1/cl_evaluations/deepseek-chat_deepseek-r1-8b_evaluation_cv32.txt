@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in customer service and management, not software engineering, and the cover letter provides no evidence of hands-on experience with the required technologies listed in the job description. While they discuss transferable skills and an eagerness to learn, they do not demonstrate any practical proficiency in JavaScript, React, testing, Git, or other specified tools. This application is for a role in the wrong industry relative to the candidate's proven experience.

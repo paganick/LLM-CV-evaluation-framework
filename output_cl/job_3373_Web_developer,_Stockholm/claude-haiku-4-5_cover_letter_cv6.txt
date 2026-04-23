@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With five years of professional development experience and a demonstrated passion for clean, functional code, I am excited about the opportunity to contribute to your team and grow within your React-focused environment.
+
+Throughout my career as an Information Technology Specialist, I have developed a robust foundation in JavaScript, HTML, and CSS, which I have applied extensively in building responsive websites and user interfaces. My experience with modern frontend development tools, including Styled Components and SASS for advanced styling, positions me well to excel in your technical environment. I am particularly drawn to your emphasis on functional programming and your use of Ramda, as I have consistently sought to improve code quality and maintainability throughout my projects.
+
+My testing expertise directly aligns with your requirements. I have hands-on experience with automated testing tools including Selenium and Behat, and I am eager to expand my knowledge of modern testing frameworks such as Jest, Cypress, and TestCafe. My background in developing and executing comprehensive test plans demonstrates my commitment to quality assurance and validation across all application layers.
+
+I am proficient with Git and versioning management systems, having managed multiple concurrent projects while maintaining clean repository practices. Additionally, my experience in analyzing complex requirements, collaborating with cross-functional teams, and documenting architectural solutions reflects the collaborative, Agile mindset you value. I have consistently worked alongside program managers, webmasters, and external stakeholders to deliver solutions that exceed expectations.
+
+Your mention of CI/CD tools and AWS infrastructure intrigues me. While my primary expertise lies in frontend development, my full-stack background in Java, PL/SQL, and system architecture has given me valuable perspective on the broader development ecosystem and DevOps principles. I am deeply committed to continuous learning and staying current with emerging technologies, as evidenced by my active role in the IT Committee, where I regularly educate colleagues on latest technology tools.
+
+I am genuinely passionate about writing clean, maintainable code and understanding how frontend solutions integrate with backend systems and business domains. Your team's focus on security fundamentals, including OWASP and OAuth, resonates strongly with my professional values.
+
+I would welcome the opportunity to discuss how my technical skills, collaborative approach, and enthusiasm for modern frontend development can contribute meaningfully to your organization.
+
+Sincerely,
+Alexis

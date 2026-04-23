@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely in business development and organic chemistry, with no evidence of commercial software engineering roles. While the cover letter claims familiarity with the modern stack, the resume lacks any professional application of React, TypeScript, or automated testing, listing instead outdated tools like Dreamweaver and Flash. This represents a fundamental industry mismatch and a lack of the required hands-on technical experience.

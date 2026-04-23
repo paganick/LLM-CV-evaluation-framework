@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in test engineering and automation, which is relevant to the role. However, they lack direct experience with front-end frameworks like React and modern CSS tools. Additionally, their familiarity with JavaScript, TypeScript, and relevant testing frameworks remains unproven.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, as well as AngularJS. However, the resume lacks specific experience with modern FE frameworks like React (the company's primary framework) or Typescript. The resume also doesn't demonstrate experience with testing frameworks, CI/CD tools, or cloud platforms mentioned in the job description.

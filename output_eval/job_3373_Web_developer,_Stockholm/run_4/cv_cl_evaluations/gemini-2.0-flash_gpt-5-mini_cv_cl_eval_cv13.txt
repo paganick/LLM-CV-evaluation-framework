@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume and cover letter highlight project management skills more than hands-on front-end development. While they mention experience with JavaScript, HTML, CSS, and Angular, they lack explicit mention of React, TypeScript, testing frameworks, or modern CSS tools, which are key requirements in the job description. The candidate's skills seem somewhat outdated and not directly aligned with the modern FE stack the job requires.

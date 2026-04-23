@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in software testing, not front-end development. While they mention JavaScript, HTML, and an interest in React, their resume lacks concrete, hands-on development experience with modern frameworks, TypeScript, or the specific tools listed in the job description (e.g., Styled Components, Node.js, Ramda). Their testing background is relevant but insufficient for a developer role requiring strong, current programming skills.

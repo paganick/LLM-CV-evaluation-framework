@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid decade of general web experience, they lack professional-level proficiency in the core required technologies, specifically React and TypeScript. They explicitly state a desire to "deepen hands-on experience" with the primary stack, indicating they are not yet experts in the tools needed for this specific role. Furthermore, the letter omits any mention of functional programming or the Node.js ecosystem, both of which are central to the job requirements.

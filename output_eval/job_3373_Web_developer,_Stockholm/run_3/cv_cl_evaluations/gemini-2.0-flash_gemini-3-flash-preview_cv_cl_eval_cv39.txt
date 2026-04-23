@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong design background but lacks demonstrable experience with key technologies like React, TypeScript, and testing frameworks mentioned in the job description. While they express interest in modern frontend development, their resume focuses primarily on graphic design and older web technologies. Their experience with HTML and CSS is a plus, but not sufficient to offset the lack of specific framework expertise.

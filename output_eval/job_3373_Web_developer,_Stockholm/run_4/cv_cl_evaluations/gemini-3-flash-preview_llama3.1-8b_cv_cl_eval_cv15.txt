@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional work history is significantly outdated, with the most recent experience ending in 2012 and focusing primarily on hardware troubleshooting and general IT management. Although the cover letter lists modern technologies like React and Cypress, the resume lacks any evidence of professional application, projects, or certifications to verify these claims. The candidate lacks the required proficiency in TypeScript and modern development workflows necessary for a mid-to-senior frontend role.

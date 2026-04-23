@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional history is focused entirely on marketing automation and consulting, with no documented professional experience in front-end development or software engineering. While the cover letter claims familiarity with the required tech stack, the resume lacks any evidence of using JavaScript, React, or TypeScript in a production environment. Consequently, the applicant fails to meet the core technical requirements and professional background necessary for this engineering role.

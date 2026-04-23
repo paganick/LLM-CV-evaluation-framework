@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but falls short in key technical areas required for the role, particularly in modern JavaScript frameworks and testing automation. While they have a solid background in HTML, CSS, and SQL/MySQL, their lack of hands-on experience with React and testing frameworks like Jest or Cypress limits their immediate fit for the position. Additionally, while they demonstrate an eagerness to learn, they do not address some other requirements like CI/CD tools or API design.

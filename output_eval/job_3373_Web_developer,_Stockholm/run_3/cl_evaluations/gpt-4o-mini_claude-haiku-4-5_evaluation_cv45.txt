@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a strong background in cybersecurity and IT infrastructure, their direct experience in frontend development and modern frameworks like React is still developing. They demonstrate relevant knowledge of security concepts and agile collaboration, yet lack substantial hands-on experience with key technologies listed in the job description, such as modern testing frameworks and specific CSS tools.

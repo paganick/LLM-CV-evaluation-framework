@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable soft skills (communication, collaboration, project management) and eagerness to learn, but provides no demonstrated hands-on experience with the required technical stack (JavaScript/TypeScript, HTML/CSS, React), testing, Git, or relevant tooling. Without evidence of technical proficiency, a portfolio, or specific training in front-end technologies, they are not qualified for this role as described.

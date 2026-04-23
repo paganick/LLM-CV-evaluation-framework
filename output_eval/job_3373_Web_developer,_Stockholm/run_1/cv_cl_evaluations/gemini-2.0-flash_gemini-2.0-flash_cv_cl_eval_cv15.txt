@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions HTML, CSS, and JavaScript but lacks depth in modern front-end frameworks like React, which is a core requirement. While they express eagerness to learn, the resume highlights a broader IT background rather than specialized front-end development. The experience seems more general IT management, not focused on the specific skills required.

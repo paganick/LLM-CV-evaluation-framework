@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in frontend development with the necessary skills in JavaScript, HTML, and CSS, and demonstrates familiarity with React, which is aligned with the company's tech stack. However, there is a lack of direct experience with TypeScript, some specific modern frameworks mentioned, and no mention of linters and formatters like ESLint. Overall, the candidate shows strong potential but does not fully meet all outlined requirements.

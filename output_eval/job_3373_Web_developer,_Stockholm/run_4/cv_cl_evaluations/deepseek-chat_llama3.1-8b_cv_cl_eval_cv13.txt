@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in project management, not hands-on front-end development, which is the core of the role. While the cover letter claims experience with many required technologies (React, Jest, Node.js, etc.), the resume provides no evidence of recent, professional development work, listing only basic HTML/CSS/JS from 2013-2014. The profile is a mismatch, as the job seeks a developer with project collaboration skills, not a project manager with outdated technical knowledge.

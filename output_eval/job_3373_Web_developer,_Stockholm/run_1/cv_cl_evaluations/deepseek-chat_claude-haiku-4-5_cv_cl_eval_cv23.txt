@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics hardware testing and technician roles, which is the wrong industry for a frontend developer position. While they mention JavaScript and testing, their experience is not with modern FE frameworks, libraries, or the specific tools listed in the job description. The cover letter attempts to bridge the gap, but the resume shows no professional experience in software development, React, or the required web technologies.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a foundational knowledge of web technologies such as HTML, CSS, and JavaScript, but lacks sufficient hands-on experience with modern front-end frameworks and libraries like React, which is specifically stated in the job description. Their background is primarily in business development rather than development roles, resulting in a lack of the direct experience in testing, version control, and other key aspects mentioned in the job description.

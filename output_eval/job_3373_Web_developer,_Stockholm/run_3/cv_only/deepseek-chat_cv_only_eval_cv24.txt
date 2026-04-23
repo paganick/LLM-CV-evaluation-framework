@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in digital communications and content management, with no mention of the required programming languages (JavaScript, TypeScript), modern front-end frameworks (React, Vue, Angular), testing, Git, or any other technical skills listed in the job description. This role is for a software engineer, and the candidate's experience is in a completely different industry and function. There is no overlap with the core technical competencies required for the position.

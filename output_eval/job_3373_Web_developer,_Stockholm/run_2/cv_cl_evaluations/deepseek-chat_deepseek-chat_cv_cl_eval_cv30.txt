@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, engineering, and teaching, which is the wrong industry for a front-end developer role. While they mention HTML and a desire to learn React, they lack any proven, hands-on experience with the core technologies required (JavaScript, TypeScript, modern CSS, React, testing frameworks). Their skills and experience do not align with the specific technical and collaborative requirements of the job description.

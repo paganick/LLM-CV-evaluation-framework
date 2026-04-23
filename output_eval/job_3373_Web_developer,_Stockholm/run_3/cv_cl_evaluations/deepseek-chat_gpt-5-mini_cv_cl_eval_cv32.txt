@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in customer service, sales, and management, with no demonstrated experience in software development, front-end technologies, or any technical skills listed in the job description. The resume and cover letter show no proficiency in JavaScript, React, testing, Git, or any other required technical area. This is a complete mismatch for a front-end engineering role, placing the candidate in the wrong industry for this position.

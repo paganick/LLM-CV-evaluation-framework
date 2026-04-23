@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background in software development and testing, they are primarily a Java/Backend specialist rather than the modern React/TypeScript developer required. They lack essential experience with TypeScript, functional programming (Ramda), and modern JS testing suites like Cypress or Jest, relying instead on a Java-based Selenium stack. Additionally, their React experience appears secondary to their backend expertise and lacks the depth in modern CSS tools and CI/CD pipelines specified in the job description.

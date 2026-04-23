@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant design and UX experience with some frontend overlap, but the cover letter lacks concrete, hands-on evidence of the core technical skills required. It mentions React, JavaScript, and testing in an aspirational or learning context rather than demonstrating proven professional experience. While soft skills and domain interest are a strong match, the direct technical proficiency in the key stack (React, TypeScript, modern testing frameworks) is not convincingly established.

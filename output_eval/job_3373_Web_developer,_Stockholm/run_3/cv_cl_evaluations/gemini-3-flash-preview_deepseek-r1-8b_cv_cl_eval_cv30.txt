@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the primary technical requirements for this front-end role, including proficiency in JavaScript, TypeScript, React, and modern CSS tooling. Their professional experience is centered on data analytics, machine learning, and semiconductor quality testing rather than modern web development. While they possess some background in ASP.NET and HTML, they are missing the specific experience in modern front-end frameworks and the testing ecosystem required for the position.

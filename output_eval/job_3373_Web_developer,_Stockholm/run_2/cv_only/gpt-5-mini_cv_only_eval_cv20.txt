@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general web development experience (HTML, CSS, JavaScript, Bootstrap, jQuery), .NET backend skills, and exposure to Agile and GitHub, but lacks the core modern front-end stack required: no React or TypeScript experience, no modern testing frameworks or test automation, and no Node/npm/Express or modern CSS tool usage. Several key requirements such as testing automation, modern FE frameworks, and familiarity with CI/CD, AWS/Terraform, and security best practices are missing, making them a weak fit for this role.

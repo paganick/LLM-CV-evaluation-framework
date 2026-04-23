@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background in front-end development through self-study and project work, particularly with JavaScript, TypeScript, HTML, CSS, and React. However, they lack traditional development experience and do not explicitly mention familiarity with several key technologies mentioned in the job description, such as testing frameworks beyond Jest, and CI/CD tools, which could be critical for the role. Overall, they show potential but require further experience to fully meet the requirements.

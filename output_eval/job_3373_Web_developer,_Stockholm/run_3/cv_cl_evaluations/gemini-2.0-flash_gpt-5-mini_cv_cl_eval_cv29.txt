@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and sales, not front-end engineering. While they express interest in learning React and other front-end technologies, the resume and cover letter lack demonstrable experience with the core technologies listed in the job description, such as JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. There's a significant skills gap between the job requirements and the candidate's current expertise.

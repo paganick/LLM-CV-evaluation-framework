@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in implementation consulting and Salesforce Marketing Cloud, not professional front-end engineering. They lack proven, hands-on experience with the core technologies listed in the job description, specifically JavaScript, React, TypeScript, and modern testing frameworks. While they show strong soft skills and a desire to learn, their current technical profile does not align with the specific, required engineering skills.

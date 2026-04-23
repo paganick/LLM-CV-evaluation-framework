@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, self-taught grasp of the core technical stack (JS, TS, React, HTML/CSS, Git) and relevant tools (SASS, ESLint, Prettier), directly aligning with the job requirements. Their design background is a unique asset for UI implementation. However, the cover letter lacks explicit mention of several key requirements from the job description, including web security basics, specific testing frameworks, CI/CD tools, and functional programming, which prevents a higher score.

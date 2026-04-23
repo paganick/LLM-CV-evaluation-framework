@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is fundamentally a graphic designer currently "upskilling" and lacks the professional JavaScript, TypeScript, and React experience explicitly required by the job description. There is no evidence of the mandated experience in automated testing, web security, or modern CI/CD pipelines, making them unqualified for an intermediate or senior-level engineering role. References to outdated tools like Dreamweaver further suggest a significant gap between the candidate’s current skill set and the requirements of a modern front-end environment.

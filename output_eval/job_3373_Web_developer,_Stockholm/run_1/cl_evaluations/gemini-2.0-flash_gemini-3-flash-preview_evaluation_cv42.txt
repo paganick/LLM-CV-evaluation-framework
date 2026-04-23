@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in operations and finance, with limited explicit frontend development experience. While they highlight project management skills and some technical initiatives, they lack demonstrable proficiency in core frontend technologies like JavaScript, TypeScript, HTML, CSS, and specific frameworks like React. The letter focuses more on transferable skills than direct technical expertise, failing to strongly align with the job description's requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate explicitly lacks professional experience with React and TypeScript, which are central requirements for this position. Their background is primarily focused on PHP, C++, and legacy web technologies, failing to demonstrate proficiency in modern frontend tools like Jest, Cypress, or functional programming. While they have extensive general engineering experience, they do not possess the specific technical stack required for this modern frontend role.

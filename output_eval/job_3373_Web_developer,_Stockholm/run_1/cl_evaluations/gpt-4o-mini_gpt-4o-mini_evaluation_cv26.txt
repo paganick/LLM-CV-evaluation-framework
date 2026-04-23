@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate demonstrates a strong interest in front-end development and possesses relevant soft skills from marketing and project management, they lack proficiency in key technical skills, specifically JavaScript, TypeScript, HTML, and CSS. Their limited hands-on experience with modern frameworks and testing automation is also a concern, as these are critical for the position. Overall, the candidate shows potential but does not meet the specific technical requirements needed for the role.

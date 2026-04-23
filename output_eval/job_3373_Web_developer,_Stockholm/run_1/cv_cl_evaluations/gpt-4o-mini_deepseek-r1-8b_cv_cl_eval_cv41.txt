@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in systems administration and experience related to IT infrastructure but lacks direct experience with key technologies specified in the job description such as JavaScript, TypeScript, and modern frontend frameworks like React. While they demonstrate problem-solving skills and a good understanding of web security principles, their expertise appears more aligned with systems rather than software development, making them a relevant candidate but lacking specific necessary skills.

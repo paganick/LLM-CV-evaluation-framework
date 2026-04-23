@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and front-end technologies but lacks hands-on experience with modern front-end frameworks like React, which is essential for this role. While they mention familiarity with testing and version control, their primary focus has been on .NET technologies. Overall, they show potential but do not fully meet the specific requirements laid out in the job description.

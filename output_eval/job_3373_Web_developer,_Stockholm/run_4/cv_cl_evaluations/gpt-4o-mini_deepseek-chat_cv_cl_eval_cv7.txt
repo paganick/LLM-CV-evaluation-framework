@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate some relevant skills in HTML and CSS, the absence of hands-on testing and automation experience, as well as familiarity with CI/CD tools and security knowledge, indicates a significant gap for the position. Overall, they are not fully qualified for the Front-End Developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital marketing and Salesforce implementation professional whose background does not align with the requirements for a high-level Frontend Engineer. While the cover letter claims experience with React and testing, the resume shows no professional history with JavaScript frameworks, TypeScript, or modern software development lifecycles. There is a fundamental lack of evidence for the required technical stack, including Git, NodeJS, AWS, and functional programming.

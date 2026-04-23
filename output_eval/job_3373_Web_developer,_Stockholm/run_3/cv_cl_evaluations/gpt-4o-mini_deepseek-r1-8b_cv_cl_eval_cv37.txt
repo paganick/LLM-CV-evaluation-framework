@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project management and IT leadership but lacks direct hands-on experience with the required technologies such as JavaScript, modern front-end frameworks (React, VueJS, etc.), and testing automation tools. Additionally, there is no mention of familiarity with security concepts outlined in the job description. While their background is relevant, they do not meet the specific technical qualifications for the role.

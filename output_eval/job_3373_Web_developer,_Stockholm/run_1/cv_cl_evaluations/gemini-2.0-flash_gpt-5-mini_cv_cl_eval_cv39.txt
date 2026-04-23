@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design and visual arts, with limited experience in modern front-end development technologies. While they express interest in learning React and other relevant tools, their resume lacks demonstrable experience with JavaScript, TypeScript, modern FE frameworks, testing, and other key requirements. The candidate's skillset does not align with the technical demands of the job description.

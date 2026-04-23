@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a strong foundation in core front-end technologies and experience with multiple frameworks, showcasing adaptability. However, the cover letter lacks specific examples demonstrating their expertise with React, the framework used by the company. There is also a lack of mention of security knowledge (OWASP, CSP, CORS, OAuth), modern CSS tools, linters/formatters, or CI/CD, and AWS/Terraform.

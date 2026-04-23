@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses the foundational language requirements (JS, TS, HTML, CSS), they lack practical, hands-on experience with the specific framework required for the role (React), admitting a need for training in this area. Their experience with testing automation and CI/CD tools appears theoretical or introductory rather than professional, failing to meet the "hands-on experience" requirement. Consequently, the candidate lacks the necessary seniority and specific technical expertise to be considered a strong match for this position.

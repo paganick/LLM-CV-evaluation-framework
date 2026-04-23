@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is entirely focused on film and multimedia production with no demonstrable experience in JavaScript, TypeScript, React (or other modern front-end frameworks), testing, Git, Node/npm, or cloud/CI tooling required by the role. There is no evidence of relevant technical skills such as modern CSS tools, testing frameworks, API design, or infrastructure knowledge. Strong production and creative skills do not meet the technical requirements for this front-end engineering position.

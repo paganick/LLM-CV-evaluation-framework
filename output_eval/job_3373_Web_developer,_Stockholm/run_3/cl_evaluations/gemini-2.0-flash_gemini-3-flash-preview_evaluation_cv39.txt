@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights extensive experience in web design and Adobe Creative Suite, which isn't the primary focus of the role. While they mention React, JavaScript, and TypeScript, it's framed as a "recent evolution," suggesting limited hands-on experience. The letter lacks concrete examples of testing, Git, or other key technologies mentioned in the job description, indicating a potential skills gap.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in marketing automation, not front-end development. While the cover letter mentions some relevant technical skills (HTML, CSS, JavaScript, APIs), the resume lacks concrete examples of building modern FE applications or using related frameworks. The candidate doesn't demonstrate sufficient experience with the specific technologies mentioned in the job description.

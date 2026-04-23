@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior business development and program management professional in the aerospace industry with no recent professional experience in software engineering. They lack the required technical skills in modern web development frameworks such as React, TypeScript, and contemporary CSS tools. While the candidate holds a degree in Computer Science, their career trajectory has focused on sales, quality engineering, and project management rather than hands-on web application development.

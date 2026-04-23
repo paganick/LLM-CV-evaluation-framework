@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions most keywords from the job description, they demonstrate a fundamental lack of technical literacy by claiming to use Express.js "for Git and GitHub," which are unrelated technologies. Additionally, the candidate’s professional experience is almost entirely in business development rather than software engineering, failing to meet the requirement for hands-on technical experience in a professional environment.

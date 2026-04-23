@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in business development and a foundational knowledge of some technologies mentioned, but lacks direct hands-on experience in frontend development and specific frameworks like React. Their understanding of API design and cloud platforms is an asset, however, they do not demonstrate experience with several key requirements including advanced CSS tools, testing frameworks, and CI/CD tools needed for the role.

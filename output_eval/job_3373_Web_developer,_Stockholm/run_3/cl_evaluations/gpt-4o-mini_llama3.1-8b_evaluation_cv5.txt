@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe programming and database administration but lacks specific skills and experience relevant to modern frontend technologies such as JavaScript, TypeScript, and frameworks like React, which are crucial for the role. While their background is impressive, it does not align well with the requirements outlined in the job description.

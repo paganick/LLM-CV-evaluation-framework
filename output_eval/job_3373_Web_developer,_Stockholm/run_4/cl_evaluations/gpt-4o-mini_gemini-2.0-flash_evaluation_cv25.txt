@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in Graphic Design and some experience with HTML and CSS; however, they lack direct experience with key technologies like JavaScript, TypeScript, and React, as well as familiarity with testing frameworks and modern CSS tools mentioned in the job description. While their enthusiasm for learning is noted, they do not fulfill several vital requirements of the position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills and a clear interest in frontend development and React, but their experience is primarily in data analysis and adjacent technologies. While they highlight transferable skills and a willingness to learn, they lack direct experience in several key areas mentioned in the job description, such as TypeScript, deeper CSS experience, and the NodeJS ecosystem. The cover letter does not clearly articulate examples of frontend projects using React, VueJS, Angular and Svelte.

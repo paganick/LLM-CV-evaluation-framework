@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some listed skills that overlap with the job description, such as Javascript and HTML. However, the resume lacks specific experience with modern front-end frameworks like React, Typescript, testing frameworks, and other tools mentioned in the job description. The described experience is also dated.

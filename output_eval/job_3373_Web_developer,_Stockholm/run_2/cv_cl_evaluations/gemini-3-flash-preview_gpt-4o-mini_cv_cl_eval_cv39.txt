@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic and product designer who lacks the required professional experience in modern front-end engineering. There is no evidence of proficiency in the mandatory tech stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. While the candidate has some web maintenance experience, their skills are focused on design and print media rather than the complex software development and cloud infrastructure required for this role.

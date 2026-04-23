@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Front-End Developer position, as advertised. With a strong foundation in JavaScript, HTML, and CSS, coupled with my experience in leading technical projects, I am confident in my ability to contribute effectively to your team.
+
+In my current role as a Technical Project Manager at PMA Media Group, I have successfully led multiple web development projects, collaborating closely with teams to implement user research, UX design, and technical solutions. My hands-on experience with front-end web development includes working with frameworks like Angular and using various libraries to enhance functionality. Additionally, I am familiar with testing methodologies such as unit tests, integration tests, and E2E tests, ensuring that our deliverables are of the highest quality.
+
+I have a keen interest in staying updated with modern technologies, particularly in the nuances of frameworks such as React, which I understand your team utilizes. My experience with Git and hosting services like GitHub ensures that I can seamlessly integrate into your collaborative environment. I am also familiar with modern CSS tools like SASS and Styled Components, as well as testing frameworks including Jest and Cypress, making me well-prepared to engage with your existing processes.
+
+As someone who thrives in Agile environments, I have implemented scrum processes in my current role, facilitating cross-team collaboration and fostering an adaptive approach to project management. I firmly believe that a genuine passion for writing clean, maintainable code is essential in delivering robust solutions that address client needs while adhering to best practices, including security measures identified by OWASP.
+
+In addition to my technical skills, my role as a project manager has honed my ability to communicate effectively with diverse stakeholders, ensuring alignment across teams and external partners. My background in digital marketing and analytics allows me to approach projects from a holistic perspective, enhancing not just the technical aspects but also the user experience.
+
+I look forward to the opportunity to contribute to your team and help drive innovative solutions.
+
+Sincerely, Alexis

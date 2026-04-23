@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is almost exclusively in electronics hardware and laboratory technician roles rather than modern front-end engineering. While the cover letter lists required keywords, the resume lacks any evidence of professional experience with React, TypeScript, or CI/CD pipelines, and even contains a misspelling of "JavaScript." The candidate is a hardware specialist attempting to pivot into software without the necessary commercial software development experience.

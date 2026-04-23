@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the core technical stack, React framework, and key soft skills like collaboration and Agile mindset. However, the cover letter lacks explicit mention of several required technical areas such as security fundamentals (OWASP, CORS), modern CSS tools (SASS), specific testing frameworks beyond Jest, and the listed DevOps/backend tools. The transition from a non-traditional background is well-argued but leaves some required experience unverified.

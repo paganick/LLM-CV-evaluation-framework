@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong theoretical and practical grasp of the specific tech stack, including niche requirements like Ramda and OWASP protocols. However, despite their twelve years in IT, their professional experience is rooted in infrastructure and support rather than dedicated front-end software engineering. As a career-transitioner, they lack a proven professional track record of shipping code in a commercial development environment, which is a significant gap.

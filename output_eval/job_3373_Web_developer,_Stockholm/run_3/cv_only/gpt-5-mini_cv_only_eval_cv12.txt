@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate shows broad software engineering experience and lists JavaScript, HTML, CSS and SASS plus Git, but the resume primarily documents backend/PHP and legacy languages with no demonstrable experience in React, TypeScript, modern JS tooling (Node/npm/Yarn/Express), or modern testing frameworks and automation. There is also no evidence of CI/CD, AWS/Terraform, web security practices, or current front-end framework experience required for the role. Overall relevant background but significant gaps in the specific frontend and tooling skills requested.

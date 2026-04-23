@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, a different domain than the modern front-end development described in the job description. While the cover letter mentions some exposure to JavaScript, HTML, and CSS, the resume highlights COBOL, CICS, and DB2, indicating a lack of deep experience with the required technologies like React, TypeScript, and modern CSS tools. The candidate shows interest in learning but lacks the hands-on experience necessary for this role.

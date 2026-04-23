@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates strong transferable skills (communication, project management, Agile) and enthusiasm for web development, but provides no concrete hands-on experience with core technical requirements (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git workflows, NodeJS ecosystem, or web security. The cover letter lacks demonstrable technical projects, tools, or measurable experience directly tied to the job description. While relevant to the industry, the applicant currently does not meet the specific skillset required for this role.

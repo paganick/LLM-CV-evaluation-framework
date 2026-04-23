@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and a foundational understanding of JavaScript and HTML. However, they lack direct experience with modern frontend frameworks such as React, TypeScript, and other specific tools mentioned in the job description. While their background in testing is solid, it does not fully align with the requirements for a frontend development role, particularly in writing clean code and familiarity with modern CSS tools and CI/CD processes.

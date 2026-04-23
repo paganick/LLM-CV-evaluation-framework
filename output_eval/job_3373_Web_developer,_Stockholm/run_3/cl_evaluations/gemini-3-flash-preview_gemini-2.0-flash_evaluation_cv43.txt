@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is transitioning from a non-technical background and fails to demonstrate professional experience with the required tech stack, including JavaScript, TypeScript, and testing frameworks. While they possess transferable soft skills in project management and collaboration, they lack the specific technical proficiency and hands-on development experience necessitated by the job description. The cover letter mentions an interest in React but provides no evidence of practical application or familiarity with web security and CI/CD tools.

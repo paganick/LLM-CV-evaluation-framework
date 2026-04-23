@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong systems/infrastructure and security background with transferable skills (troubleshooting, documentation, collaboration) but does not demonstrate hands-on experience with the core front-end requirements: JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks, or NodeJS/CI workflows. Their letter emphasizes willingness to learn rather than existing proficiency in the exact tech stack required. Given the role's explicit hands-on front-end expectations, this profile is relevant but underqualified.

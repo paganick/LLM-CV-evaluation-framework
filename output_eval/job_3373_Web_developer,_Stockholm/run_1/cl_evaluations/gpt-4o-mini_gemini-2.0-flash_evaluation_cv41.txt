@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in system administration but lacks specific front-end development skills, particularly in testing, modern frameworks, and tools outlined in the job description. While they express a willingness to learn, there is insufficient evidence of direct experience with React or any of the modern CSS tools and testing frameworks listed in the requirements, resulting in a low score.

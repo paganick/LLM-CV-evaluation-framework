@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in JavaScript and web technologies, which aligns with the job requirements. They demonstrate a good understanding of testing frameworks and Agile methodologies. However, they lack specific experience with some of the listed tools like TypeScript, modern CSS tools, and certain testing frameworks, limiting their qualification for the role.

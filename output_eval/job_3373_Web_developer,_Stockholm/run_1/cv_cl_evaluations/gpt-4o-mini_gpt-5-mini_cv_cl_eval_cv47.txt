@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in leadership, collaboration, and some technical skills such as HTML and C/C++. However, they lack direct experience with JavaScript, TypeScript, testing frameworks, modern front-end frameworks (specifically React), and many other technical requirements stated in the job description. There is insufficient evidence of the required hands-on experience in relevant technologies and practices for a front-end developer role.

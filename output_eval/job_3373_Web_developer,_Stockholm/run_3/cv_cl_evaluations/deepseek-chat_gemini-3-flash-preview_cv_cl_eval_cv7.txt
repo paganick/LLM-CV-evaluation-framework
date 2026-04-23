@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software engineering, and the resume provides no evidence of professional frontend development experience. The cover letter claims proficiency in required technologies like React, TypeScript, and testing frameworks, but these claims are entirely unsupported by the work history and skills listed in the resume. This is a severe mismatch for a role requiring hands-on engineering skills and modern development practices.

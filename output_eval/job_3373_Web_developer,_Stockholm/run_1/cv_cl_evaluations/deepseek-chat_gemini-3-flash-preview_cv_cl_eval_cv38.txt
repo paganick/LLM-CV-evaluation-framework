@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in film and media production, which is a completely different industry from software engineering. The cover letter claims proficiency in required technologies like JavaScript, React, and testing frameworks, but these claims are entirely unsupported by the resume, which shows no professional software development experience. The application does not fulfill any of the core technical requirements for the front-end engineering role.

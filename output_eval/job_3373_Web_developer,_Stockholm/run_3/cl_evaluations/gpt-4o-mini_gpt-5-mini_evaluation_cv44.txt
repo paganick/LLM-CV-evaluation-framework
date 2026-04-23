@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in design and relevant tools, as well as some experience in user testing and collaboration. However, they lack direct experience with modern frameworks like React, as well as specific knowledge in test automation frameworks and CI/CD tools, which are critical for the position.

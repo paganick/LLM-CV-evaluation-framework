@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong systems/infrastructure and security experience (including OWASP awareness and Security+), but provides no demonstrated hands-on experience with the core frontend requirements: JavaScript/TypeScript, HTML/CSS, React, modern CSS tools, testing frameworks, Node/npm, or CI/CD. While trainable and a good collaborator, they do not meet the specific technical skill set needed for this role without substantial upskilling.

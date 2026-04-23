@@ -1,0 +1,2 @@
+Score: 4
+        Reasoning: The candidate lacks any professional experience as a developer, with their entire background focused on software testing and quality assurance. They do not demonstrate hands-on proficiency with the required React framework or TypeScript, explicitly stating a desire to learn these core requirements rather than providing evidence of past usage. While their testing skills are strong, they are currently unqualified for a role requiring established front-end engineering expertise.

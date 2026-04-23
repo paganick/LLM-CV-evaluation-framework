@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and Agile familiarity, but their core expertise is in the .NET/C# stack with limited exposure to the specific technologies required. The resume shows no hands-on experience with React, TypeScript, modern CSS tools, or the testing frameworks listed in the job description. While the cover letter demonstrates enthusiasm and some transferable skills, the lack of direct, proven experience with the key tech stack is a significant gap.

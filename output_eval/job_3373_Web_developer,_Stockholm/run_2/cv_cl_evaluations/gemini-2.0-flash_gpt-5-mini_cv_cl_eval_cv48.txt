@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT support and infrastructure, not front-end development. While they express interest in learning React and related technologies, their resume lacks concrete experience with JavaScript, TypeScript, modern front-end frameworks, and testing methodologies required for the role. The cover letter acknowledges this gap, making them a weak fit despite some transferable skills.

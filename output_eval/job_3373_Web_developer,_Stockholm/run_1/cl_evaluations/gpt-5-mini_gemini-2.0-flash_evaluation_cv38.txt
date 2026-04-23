@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual and content production experience but provides no evidence of required front-end technical skills—no JavaScript/TypeScript, HTML/CSS, React, testing, Git, or Node experience is mentioned. Transferable strengths (design, CMS/website management, social media) are valuable but insufficient for a hands-on front-end developer role. Given the gap on core technologies and testing/CI practices, I assess them as below the bar for this position.

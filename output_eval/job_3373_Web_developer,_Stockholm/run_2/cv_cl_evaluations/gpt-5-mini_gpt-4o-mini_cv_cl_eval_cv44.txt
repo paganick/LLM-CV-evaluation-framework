@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX/UI and HTML/CSS experience plus a Computer Science degree, showing useful crossover with front-end work, but lacks demonstrated core front-end engineering skills. There is no clear evidence of JavaScript/TypeScript development, React or other modern framework experience, test automation (unit/integration/E2E), or familiarity with essential tooling like Git, Node/npm, and CI/CD. While strong on design and collaboration, the technical gaps mean they are not ready for this role without significant upskilling.

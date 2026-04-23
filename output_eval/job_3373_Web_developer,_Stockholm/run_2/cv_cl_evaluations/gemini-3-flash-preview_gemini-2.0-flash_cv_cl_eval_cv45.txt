@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the required technical skills for a Frontend Developer, including JavaScript, TypeScript, React, HTML, and CSS. Their experience is focused on high-level IT management, cybersecurity, and government systems administration rather than software engineering. There is no evidence of hands-on web development, testing, or experience with modern frontend tools and frameworks.

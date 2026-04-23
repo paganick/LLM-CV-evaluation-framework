@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has solid experience in IT and a good understanding of various technologies, but lacks direct experience with modern frontend frameworks like React, VueJS, or Angular as mentioned in the job description. While they have a foundation in JavaScript, HTML, and CSS, they do not specifically highlight experience with testing frameworks like Jest or Cypress, which are valued for this position. Overall, they show potential but need more relevant frontend experience to be a strong match.

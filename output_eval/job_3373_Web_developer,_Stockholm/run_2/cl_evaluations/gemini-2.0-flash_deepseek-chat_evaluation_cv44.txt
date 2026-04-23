@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant design experience with HTML and CSS, but lacks substantial experience with JavaScript, TypeScript, and modern FE frameworks beyond React. While they mention an interest in testing and the NodeJS ecosystem, the cover letter doesn't demonstrate hands-on experience with the specific technologies listed in the job description such as Jest, Styled Components, or CI/CD tools. They emphasize soft skills and design experience more than the required technical skills.

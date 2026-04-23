@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is tangentially related, but lacks direct front-end development experience. While they express willingness to learn, the cover letter doesn't showcase sufficient existing skills in JavaScript, TypeScript, React, or testing frameworks as required by the job description. The focus on project management and soft skills outweighs demonstrable technical proficiency.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the primary technical requirements, explicitly stating a lack of proficiency in JavaScript, TypeScript, React, and testing frameworks. While the applicant possesses a foundational understanding of HTML/CSS and relevant design experience, they require significant training to reach the competency level demanded by the job description. Consequently, the candidate is currently underqualified for a role requiring hands-on experience with modern frontend ecosystems and automated testing.

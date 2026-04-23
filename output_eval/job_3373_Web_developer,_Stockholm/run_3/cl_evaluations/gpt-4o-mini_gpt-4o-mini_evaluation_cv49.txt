@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant educational background and experience as a Data Analyst, which is beneficial for a Software Engineer role. However, there is a significant lack of direct experience with essential technologies such as JavaScript, TypeScript, HTML, CSS, and modern frontend frameworks like React, which are crucial for the position. While the candidate shows a willingness to learn, the limited familiarity with specific tools and frameworks places them below an optimal applicant level.

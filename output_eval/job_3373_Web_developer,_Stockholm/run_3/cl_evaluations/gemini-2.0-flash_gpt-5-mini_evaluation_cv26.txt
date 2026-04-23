@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses heavily on project management, communication, and legal experience, none of which align with the core technical skills listed in the job description (JavaScript, React, testing). The candidate attempts to connect their past experience to web security and quality assurance, but lacks demonstrable experience in front-end development. There's no evidence of the required technical skills beyond a stated interest in growing them.

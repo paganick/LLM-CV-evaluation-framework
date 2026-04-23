@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate acknowledges their career transition and highlights transferable skills, which is a good approach. They demonstrate proficiency in the core technologies mentioned in the job description, specifically mentioning React. They also show familiarity with other desired technologies and practices, like testing frameworks and functional programming, but experience level is unclear.

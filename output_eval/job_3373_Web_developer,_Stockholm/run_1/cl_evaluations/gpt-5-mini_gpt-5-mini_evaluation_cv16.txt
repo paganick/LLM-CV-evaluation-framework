@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end fundamentals (JavaScript, HTML, CSS), GitHub experience and Agile collaboration, and expresses clear motivation to learn React and modern tooling. However, they lack demonstrable experience with React/TypeScript, modern CSS solutions (SASS/Styled Components), testing frameworks/automation (Jest/Cypress/TestCafe), Node/npm ecosystem, CI/CD, and explicit web security practices required by the role. This makes them a potential junior/transition candidate but not an immediate strong match for the advertised position.

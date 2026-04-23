@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is senior product management and strategy with no demonstrated hands-on front-end engineering experience (no evidence of JavaScript/TypeScript, React, testing frameworks, NodeJS, Git, or related tooling). While strong on leadership, Agile, and cross-functional collaboration, they lack the core technical skills and practical development experience required for this role. Therefore they are not a suitable match for a modern front-end engineering position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer applying for a technical software engineering role and lacks the mandatory proficiency in JavaScript, TypeScript, and React. While they mention basic HTML, CSS, and SASS, their background in visual marketing and Adobe Creative Suite is irrelevant to the core requirements of API design, CI/CD, and backend ecosystems. The application fails to demonstrate any experience with software development or clean code practices, representing a fundamental industry mismatch.

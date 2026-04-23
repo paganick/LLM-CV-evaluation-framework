@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a degree in IT and experience with JavaScript, HTML, and CSS, but lacks hands-on experience with modern front-end frameworks like React, which is a key requirement of the job. While they demonstrate a willingness to learn and a solid foundation, their resume does not show familiarity with testing frameworks or the NodeJS ecosystem, and their experience is primarily academic rather than professional.

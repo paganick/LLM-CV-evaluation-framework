@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics hardware testing and validation, which is the wrong industry for a front-end developer role. While they mention familiarity with JavaScript and a desire to learn, they demonstrate no professional experience with React, TypeScript, modern CSS, testing frameworks, or any other technologies listed in the job description. The foundational problem-solving skills are present, but the specific technical qualifications are entirely lacking.

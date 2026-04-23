@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a software tester attempting to transition into development and lacks professional experience with the core requirements of React and TypeScript. While they possess strong testing skills and a basic understanding of web technologies, their lack of hands-on project experience with modern front-end frameworks and the broader Node.js ecosystem makes them an underqualified match for this specific developer role. Most of the advanced technical requirements, such as functional programming and CI/CD tools, are completely unaddressed.

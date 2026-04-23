@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid foundation in software engineering and front-end technologies, particularly with JavaScript, HTML, and CSS. However, there is a lack of specific experience with React as mentioned in the job description, and while they have some familiarity with modern tools like SASS, their overall experience does not fully align with the requirements for testing automation and modern CSS tools. The candidate shows potential but lacks direct experience with critical frameworks and tools outlined in the job description.

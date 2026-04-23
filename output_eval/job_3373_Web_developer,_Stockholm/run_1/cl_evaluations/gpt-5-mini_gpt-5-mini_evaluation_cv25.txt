@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive visual design and practical HTML/CSS experience, which is relevant, but the cover letter shows no concrete experience with core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, CI/CD, or web security. They express willingness to learn and familiarity with front-end priorities, but currently lack the specific hands-on skills and tooling experience the role requires. Given the gap between stated experience and the job's technical demands, they are not yet qualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer from media production who lacks the professional, hands-on experience in front-end development required for this role. While they mention the correct keywords, their description of their skills as "foundational" and expressing an "interest" in React indicates they are not yet proficient at a production level. A strict evaluation reveals a gap between their creative background and the technical depth required for API design, CI/CD, and professional software engineering.

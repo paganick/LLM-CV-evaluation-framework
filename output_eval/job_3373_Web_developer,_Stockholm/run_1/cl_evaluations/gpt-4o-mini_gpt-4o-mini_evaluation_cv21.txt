@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience as a frontend developer and strong collaboration skills within an Agile environment. However, there is a notable absence of experience with TypeScript, React, and specific testing frameworks mentioned in the job description, which could be crucial for the role. While the skills presented are relevant, they do not fully align with the key technologies required.

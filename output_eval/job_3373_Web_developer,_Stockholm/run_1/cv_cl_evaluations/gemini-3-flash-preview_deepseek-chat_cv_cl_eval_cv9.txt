@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized Java/Backend Engineer who lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and advanced CSS methodologies. While they demonstrate strong engineering fundamentals in TDD and Agile, their frontend skills are limited to basic scripting and they have no recorded history with the essential testing or functional programming tools mentioned in the job description.

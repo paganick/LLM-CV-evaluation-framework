@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a legacy Mainframe developer whose experience is entirely focused on COBOL, JCL, CICS, and DB2, which is completely irrelevant to the modern Front-End stack required. There is no evidence of experience with React, TypeScript, modern CSS, or testing frameworks like Jest or Cypress. The professional background is tailored toward backend mainframe systems rather than the modern web development ecosystem specified in the job description.

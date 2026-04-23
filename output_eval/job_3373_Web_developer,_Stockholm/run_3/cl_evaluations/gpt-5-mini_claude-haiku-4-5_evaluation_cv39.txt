@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong visual design experience and basic HTML/website work, but lacks demonstrated hands-on proficiency in JavaScript, TypeScript, React, testing frameworks, Node/npm ecosystem, CI/CD, and web security fundamentals required for this role. Stated willingness to learn is positive but insufficient for a position needing immediate technical contribution. As a strict evaluator, this profile is relevant to the industry but currently underqualified for the job's core technical demands.

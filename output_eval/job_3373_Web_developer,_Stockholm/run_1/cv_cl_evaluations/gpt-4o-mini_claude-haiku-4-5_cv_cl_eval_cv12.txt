@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience, particularly with JavaScript, HTML, and CSS. They also demonstrate familiarity with SASS and Git, but their specific hands-on experience with React and testing frameworks is not explicitly detailed. While they exhibit a strong understanding of software engineering principles and a passion for clean code, the lack of direct experience with certain requirements limits their overall fit for the role.

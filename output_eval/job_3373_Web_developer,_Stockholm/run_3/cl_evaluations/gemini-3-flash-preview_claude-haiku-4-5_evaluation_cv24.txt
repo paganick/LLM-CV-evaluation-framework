@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is completely unqualified as they lack professional experience with the mandatory technical stack, explicitly stating a need for training in JavaScript, TypeScript, and React. While they possess transferable communication and accessibility skills, they provide no evidence of proficiency in testing, version control, or modern development workflows required for the position. A twelve-year background in digital communications does not compensate for the absence of the core engineering competencies defined in the job description.

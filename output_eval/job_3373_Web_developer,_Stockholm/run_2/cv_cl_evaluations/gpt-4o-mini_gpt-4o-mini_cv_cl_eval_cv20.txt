@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundation in web development with relevant experience in JavaScript, HTML, and CSS. However, while they mention a proficiency in JavaScript frameworks like React, the job description emphasizes modern front-end frameworks and specific testing tools which are not clearly evidenced in their resume. The candidate also lacks mention of specific experience with advanced CSS tools, thorough testing frameworks, and CI/CD practices which are critical for this role.

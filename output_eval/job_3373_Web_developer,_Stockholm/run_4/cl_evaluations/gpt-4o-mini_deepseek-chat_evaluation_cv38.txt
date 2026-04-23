@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web development and familiarity with key front-end technologies such as JavaScript, TypeScript, HTML, and CSS. However, they lack direct experience with some specific frameworks and tools mentioned in the job description, such as functional programming with Ramda, modern CSS tools like Styled Components and SASS, and CI/CD tools. While they show potential with a strong foundation, additional relevant experience would strengthen their candidacy.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the relevant industry of web design, they lack the specific technical proficiency required for a modern Front-End Developer role, specifically JavaScript, TypeScript, and React. The letter admits to only "some HTML knowledge" and a need to learn the core technologies listed in the job description. Essential requirements such as testing, Git, and web security are not addressed, making the candidate unqualified for this technical position.

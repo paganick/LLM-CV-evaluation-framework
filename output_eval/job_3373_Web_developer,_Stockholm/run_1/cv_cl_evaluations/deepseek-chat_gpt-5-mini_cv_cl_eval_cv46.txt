@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in server-side Java, database administration, and legacy systems, which is not aligned with the core front-end focus of the role. While they have some exposure to JavaScript and HTML, they lack any demonstrable experience with modern front-end frameworks like React, testing automation, or the specific toolchain (e.g., Jest, Cypress, Styled Components) listed in the job description. Their experience is in a relevant industry but critically lacks the specific skills required for this front-end developer position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid systems engineering and security background but lacks demonstrable hands-on experience with core job requirements such as JavaScript/TypeScript, React, modern frontend tooling (CSS frameworks, Node/npm), and frontend testing/automation. Their experience is largely infrastructure-focused and dated, with no evidence of recent software engineering or CI/CD, AWS, or Terraform experience. While they show adaptability and security awareness, they do not meet the specific frontend development skillset required for this role.

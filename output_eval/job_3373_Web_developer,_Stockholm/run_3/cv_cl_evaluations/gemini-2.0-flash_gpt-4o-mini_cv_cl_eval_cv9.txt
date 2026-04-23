@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses experience in JavaScript, HTML, and CSS, their primary expertise lies in Java/JEE development. The resume lacks substantial experience with modern FE frameworks like React, VueJS, or Angular, which are core requirements. The candidate expresses interest in AWS and Terraform, but does not demonstrate relevant experience.

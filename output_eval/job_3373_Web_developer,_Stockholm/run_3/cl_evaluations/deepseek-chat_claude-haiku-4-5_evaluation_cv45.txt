@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's cybersecurity background provides relevant security knowledge and transferable technical skills, which aligns with the job's industry. However, they explicitly lack hands-on experience with the core frontend technologies (React, TypeScript, modern CSS tools) and testing frameworks listed as requirements. Their potential is noted, but the significant gap in direct, practical experience for the role is a major drawback.

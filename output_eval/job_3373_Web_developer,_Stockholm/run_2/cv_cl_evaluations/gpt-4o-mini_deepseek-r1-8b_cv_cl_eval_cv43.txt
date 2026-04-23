@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate does not possess the required technical skills in JavaScript, TypeScript, HTML, CSS, or experience with modern front-end frameworks like React. Their background is predominantly in program management and learning design with no relevant software development experience or familiarity with testing frameworks, CI/CD tools, and other technical requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design, but lacks direct experience in key technical skills outlined in the job description, such as modern front-end frameworks (specifically React), testing automation, and a deeper understanding of API design and security practices. While they express a willingness to learn, the foundational knowledge required for this role is insufficiently established.

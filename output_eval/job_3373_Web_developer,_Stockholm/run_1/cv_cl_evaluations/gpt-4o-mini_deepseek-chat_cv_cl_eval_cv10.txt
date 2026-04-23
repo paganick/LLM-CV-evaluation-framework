@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development with JavaScript and has worked with AngularJS, but lacks specific experience with React, which is the primary framework used by the company. They also mention a strong background in testing and Agile environments, yet their experience with modern CSS tools and testing frameworks is minimal, which affects their suitability for the position. Overall, while there is relevant experience, it falls short of fully meeting the job requirements.

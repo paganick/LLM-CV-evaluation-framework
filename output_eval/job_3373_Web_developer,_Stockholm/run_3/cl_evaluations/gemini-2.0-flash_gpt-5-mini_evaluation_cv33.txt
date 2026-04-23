@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct front-end engineering experience, focusing on transferable skills from other domains. While they express interest in the required technologies, the cover letter doesn't demonstrate hands-on experience with JavaScript, TypeScript, React, or testing frameworks. The reliance on future learning hinders immediate contribution to the role.

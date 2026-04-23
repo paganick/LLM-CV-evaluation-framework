@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a general IT background with some relevant skills like JavaScript, HTML, and CSS. However, the resume lacks concrete evidence of experience with modern FE frameworks (React specifically), testing, and CI/CD tools, which are crucial for the role. The cover letter attempts to address these gaps but doesn't provide sufficient detail to confirm proficiency.

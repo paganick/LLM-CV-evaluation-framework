@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has extensive experience in Information Technology and demonstrates strong expertise in front-end technologies such as JavaScript, TypeScript, HTML, and CSS, particularly with React. Their skills with testing tools like Jest and linters such as ESLint and Prettier align well with the job requirements. However, there is no mention of experience with specific CI/CD tools or the entire tech stack detailed in the job description, which slightly reduces their score.

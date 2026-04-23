@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in front-end development, Agile, and testing, and directly addresses many required technologies. However, the cover letter lacks explicit mention of several key requirements from the job description, including TypeScript, specific tools like ESLint/Prettier, Node.js, functional programming (Ramda), and CI/CD. The background is more weighted toward project management, raising a minor question about recent hands-on coding depth.

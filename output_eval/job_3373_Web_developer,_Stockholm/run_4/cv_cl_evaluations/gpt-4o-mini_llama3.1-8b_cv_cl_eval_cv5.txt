@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe technology, but lacks relevant experience in modern front-end technologies such as JavaScript, TypeScript, and frameworks like React, which are key requirements of the job description. Additionally, the candidate's experience with testing and automation does not align with the specific tools mentioned, and there is no evidence of familiarity with contemporary development practices like CI/CD or security knowledge relevant to web applications.

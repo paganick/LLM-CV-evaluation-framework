@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the cover letter claims proficiency in the required tech stack, the resume fails to provide any evidence of professional experience with React, TypeScript, or modern testing frameworks. The candidate's work history is significantly outdated, ending in 2012, and focuses primarily on hardware repair and general IT management rather than modern software engineering. There is a critical disconnect between the skills requested in the job description and the verifiable professional background presented.

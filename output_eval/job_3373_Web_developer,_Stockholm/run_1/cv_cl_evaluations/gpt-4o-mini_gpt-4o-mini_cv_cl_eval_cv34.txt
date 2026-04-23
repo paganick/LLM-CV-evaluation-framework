@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant web technologies experience, including HTML and CSS, and demonstrates a basic understanding of project management and collaboration in an Agile environment. However, they lack specific experience and skills in JavaScript, TypeScript, modern front-end frameworks (particularly React), testing frameworks, and CI/CD tools, which are critical for the role. Additionally, their background appears more focused on implementation consulting in digital marketing rather than software development.

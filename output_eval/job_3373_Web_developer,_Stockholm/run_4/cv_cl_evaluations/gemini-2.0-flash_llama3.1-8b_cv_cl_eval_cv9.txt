@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Java background, but the job description is heavily focused on front-end technologies. While the candidate mentions JavaScript, HTML, and CSS, their experience seems limited. The cover letter expresses interest in React, VueJS, Angular, and Svelte, but the resume lacks concrete experience with these frameworks.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media production, not software development. While the cover letter expresses interest in web technologies and mentions some relevant skills (Git, basic web security concepts), the resume lacks concrete experience with the specific technologies listed in the job description (React, TypeScript, Node.js, testing frameworks). The skills listed in the resume focus on media production software and social media marketing, not front-end development.

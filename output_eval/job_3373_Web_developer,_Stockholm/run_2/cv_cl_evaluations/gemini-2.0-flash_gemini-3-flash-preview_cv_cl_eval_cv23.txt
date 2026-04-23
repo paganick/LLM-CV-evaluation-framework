@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in electronics engineering and testing, with limited direct experience in modern front-end development. While the cover letter expresses interest in React and TypeScript, the resume lacks substantial evidence of hands-on experience with these technologies or the other required skills like CSS tools, testing frameworks, and CI/CD tools. The candidate's skills are more aligned with testing and hardware than software engineering.

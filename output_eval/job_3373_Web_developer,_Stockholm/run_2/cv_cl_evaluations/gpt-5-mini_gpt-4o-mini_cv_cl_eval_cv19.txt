@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual and HTML/CSS design experience but lacks core technical qualifications required for this role, including practical JavaScript/TypeScript, React, test automation, NodeJS, and CI/CD experience. Their resume and cover letter indicate only limited familiarity with version control and web security and no demonstrable engineering or testing work. While motivated to learn, they do not meet the specific technical prerequisites for this position.

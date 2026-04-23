@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates an exceptional alignment with the specified tech stack, explicitly referencing niche requirements such as Ramda, CircleCI, and OWASP protocols. However, their recent professional history is heavily centered on high-level management and business development rather than primary, hands-on software engineering. This transition from director-level oversight to a functional engineering role requires further validation of current technical velocity to be considered a perfect match.

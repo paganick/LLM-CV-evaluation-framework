@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for this role, explicitly stating they have limited experience with JavaScript, TypeScript, HTML, CSS, and React. While they possess a background in data analysis and Python, these skills do not translate to the modern frontend stack or web security protocols required. Their experience with testing is rooted in statistical simulation rather than the unit, integration, and E2E testing frameworks essential for this position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, not software development. The resume and cover letter show no professional experience with the required technologies (JavaScript, React, testing, Git, etc.), only mentioning intermediate R coding. While they demonstrate strong transferable soft skills, they lack the specific, hands-on technical qualifications mandated by the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in IT infrastructure and technical support but lacks direct experience with required frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. Although they express interest in transitioning to web development, their experience with web technologies is limited, primarily revolving around content management systems, which does not fulfill the specific skills needed for the position.

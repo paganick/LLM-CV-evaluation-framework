@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in test engineering, their background is heavily rooted in hardware and electronics manufacturing rather than the required web software domain. They lack professional proficiency in the core requirements of JavaScript, TypeScript, and React, and they only demonstrate an "interest" in web security rather than the requested hands-on expertise.

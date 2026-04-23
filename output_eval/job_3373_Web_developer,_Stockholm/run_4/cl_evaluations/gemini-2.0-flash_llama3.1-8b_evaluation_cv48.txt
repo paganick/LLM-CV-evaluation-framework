@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions some relevant technologies like modern CSS tools, testing frameworks, and linters. However, the cover letter focuses heavily on experience with POS systems, Windows Server 2003, and sales software, which are not core requirements for the role based on the job description. The candidate demonstrates an interest in keeping up to date, but lacks concrete experience in the specific technologies (React, JavaScript, TypeScript, etc.) required for the role.

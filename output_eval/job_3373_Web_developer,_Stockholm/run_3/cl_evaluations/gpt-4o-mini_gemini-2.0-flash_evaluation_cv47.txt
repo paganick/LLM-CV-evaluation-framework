@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and collaboration but lacks hands-on experience with key technologies listed in the job description, particularly React and testing frameworks. While they demonstrate a foundational knowledge in HTML, their programming skills do not appear to be at the level required for the Front-End Developer role, particularly concerning JavaScript and modern front-end frameworks.

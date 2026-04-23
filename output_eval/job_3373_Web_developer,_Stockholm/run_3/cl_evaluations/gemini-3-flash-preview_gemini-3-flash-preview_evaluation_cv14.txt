@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong educational background and understands core security concepts, their professional experience is primarily rooted in legacy stacks like ASP.NET and jQuery. They lack hands-on professional experience with the required React framework and TypeScript, explicitly stating a desire to "transition" rather than demonstrating current mastery. Furthermore, the application fails to mention specific experience with frontend testing frameworks or functional programming, which are critical requirements for this role.

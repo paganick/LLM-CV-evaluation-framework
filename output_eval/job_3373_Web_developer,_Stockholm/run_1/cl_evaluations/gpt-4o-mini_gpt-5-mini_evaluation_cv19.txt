@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in graphic design and basic HTML/CSS coding, but lacks proficiency in modern front-end frameworks such as React, and testing frameworks that are specified in the job description. While they show a willingness to learn, their current skill set does not sufficiently align with the requirements for the front-end role. Additional experience in collaboration within an Agile environment and with tools like Git is also not clearly demonstrated.

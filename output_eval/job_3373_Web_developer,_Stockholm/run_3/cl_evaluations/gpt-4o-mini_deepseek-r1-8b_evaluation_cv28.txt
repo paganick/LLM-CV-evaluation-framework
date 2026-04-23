@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in materials analysis and quality assurance but lacks direct experience with key technologies such as JavaScript, TypeScript, and modern frontend frameworks like React. Additionally, their familiarity with testing frameworks and advanced build tools is limited. While they demonstrate a willingness to learn, they do not meet the specific technical requirements outlined in the job description.

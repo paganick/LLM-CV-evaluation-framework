@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has some relevant front-end experience (HTML, CSS, JavaScript, jQuery, Bootstrap), they lack direct experience with React, the company's primary framework. The letter relies heavily on transferable skills and a willingness to learn, which isn't enough to offset the core skill gap. The experience mentioned is more related to backend integration than modern FE development.

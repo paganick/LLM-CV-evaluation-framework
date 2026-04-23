@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design, lacking the core skills required for a Frontend Developer role, such as JavaScript, TypeScript, and React. While they possess some HTML/CSS knowledge, they lack experience with modern FE frameworks. The resume focuses heavily on graphic design experience and lacks relevant technical projects.

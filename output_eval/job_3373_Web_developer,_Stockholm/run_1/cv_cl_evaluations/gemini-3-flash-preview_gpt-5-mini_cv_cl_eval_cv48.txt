@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a front-end engineering role, as their entire professional background is in IT infrastructure, hardware repair, and systems administration rather than software development. They lack all mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and modern testing frameworks. While they have extensive experience in technical support, they possess no professional experience in writing code or building web applications.

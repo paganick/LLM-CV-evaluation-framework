@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical skills but the cover letter is poorly targeted. It heavily emphasizes data analysis, machine learning, and backend technologies (R, SAS, C#, Oracle, ASP.NET) which are not mentioned in the job description. While some required front-end and testing skills are listed, they are buried within a narrative misaligned with the core focus of the advertised front-end engineering and quality role.

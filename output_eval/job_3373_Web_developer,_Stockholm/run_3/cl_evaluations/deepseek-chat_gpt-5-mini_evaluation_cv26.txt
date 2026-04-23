@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in communications and project management is relevant for cross-functional collaboration, but the cover letter demonstrates a critical lack of specific, hands-on technical experience required for the role. There is no mention of core technologies like JavaScript, React, testing frameworks, or version control, and the discussion of web security is theoretical rather than practical. The application is for a career transition into a technical position without providing evidence of the requisite technical skills.

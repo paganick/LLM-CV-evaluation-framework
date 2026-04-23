@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior finance executive with over 20 years of experience in budgeting and operations, which is entirely unrelated to the technical requirements of a software engineering role. While the cover letter mentions relevant frameworks like React and VueJS, the resume provides zero evidence of professional experience, projects, or technical skills in JavaScript, TypeScript, or modern web development. This is a complete industry and role mismatch, making the candidate unqualified for this position.

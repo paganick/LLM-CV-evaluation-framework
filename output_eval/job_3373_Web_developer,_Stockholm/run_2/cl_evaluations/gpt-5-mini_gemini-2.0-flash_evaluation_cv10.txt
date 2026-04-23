@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core front-end fundamentals (HTML5, CSS, JavaScript, AngularJS) and Agile/test experience, but lacks key required skills such as React and TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm tooling, modern CSS tooling, and explicit Git/security knowledge. The experience cited is partly backend/test-focused (Java) and uses older tech (AngularJS, jQuery) rather than the modern stack specified, so while trainable the candidate does not meet the role's immediate requirements.

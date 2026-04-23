@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights a background in systems engineering, which isn't the primary focus of the job description. While they mention proficiency in key technologies like React and TypeScript, the emphasis on their systems background overshadows their front-end expertise. The letter lacks concrete examples of front-end projects and contributions beyond mentioning familiarity with testing tools.

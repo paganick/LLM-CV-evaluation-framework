@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a designer whose experience leans heavily toward UI/UX and outdated tools like Adobe Dreamweaver rather than the required front-end development stack. They fail to demonstrate hands-on proficiency in TypeScript and modern JavaScript, and explicitly admit to a lack of alignment with the requested end-to-end testing requirements. While the applicant has a relevant educational background, their technical coding and automation skills do not meet the core requirements for a front-end developer role.

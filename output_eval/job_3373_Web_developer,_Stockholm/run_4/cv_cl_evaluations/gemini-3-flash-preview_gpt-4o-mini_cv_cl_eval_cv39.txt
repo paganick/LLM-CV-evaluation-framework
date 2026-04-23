@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and fine artist with no professional evidence of experience in JavaScript, TypeScript, or modern frameworks like React. Their technical skills are limited to basic HTML and design software, failing to meet any of the core engineering requirements such as automated testing, CI/CD, or functional programming. This profile represents a complete mismatch for a developer role, as the candidate's 34-year career is rooted in art and print media rather than software engineering.

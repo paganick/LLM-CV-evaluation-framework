@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all mandatory technical requirements for the role, specifically JavaScript, TypeScript, and React, expressing only an "eagerness to learn" these core technologies. There is no evidence of experience with testing frameworks, Git, CI/CD, or web security, which are essential for this position. While the candidate has a background in design and basic HTML/CSS, they are currently unqualified for the technical demands of this frontend development stack.

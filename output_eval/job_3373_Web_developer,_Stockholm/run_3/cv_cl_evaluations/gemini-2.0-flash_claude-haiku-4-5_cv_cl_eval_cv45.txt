@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in cybersecurity and IT infrastructure, lacking direct frontend development experience. While they express interest in learning React and modern testing frameworks, their resume doesn't demonstrate practical skills in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. Their security knowledge is a plus, but the skills gap is significant.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience in hands-on frontend engineering, currently working in business development rather than a technical development role. While they possess industry context, they do not demonstrate the required proficiency in JavaScript, TypeScript, or React, which are fundamental to this position. Key technical requirements like automated testing and CI/CD are mentioned as interests for future growth rather than established professional competencies.

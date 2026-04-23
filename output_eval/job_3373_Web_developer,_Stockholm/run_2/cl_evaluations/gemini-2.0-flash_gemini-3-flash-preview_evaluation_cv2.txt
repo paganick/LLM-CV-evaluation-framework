@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong Java background but lacks the required depth in modern frontend technologies like React, despite mentioning interest. While possessing some relevant skills like Git and Agile experience, they don't demonstrate sufficient hands-on experience with JavaScript/TypeScript, testing frameworks, or modern CSS tools listed in the job description. The letter focuses heavily on Java experience, making the fit less ideal for a React-focused role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, which is tangentially related but doesn't directly align with the front-end developer role. While the cover letter mentions self-learning in JavaScript, TypeScript, and React, the resume lacks concrete evidence of practical experience with these technologies. The candidate's experience in project management and collaboration is a plus, but the technical skills gap is too significant.

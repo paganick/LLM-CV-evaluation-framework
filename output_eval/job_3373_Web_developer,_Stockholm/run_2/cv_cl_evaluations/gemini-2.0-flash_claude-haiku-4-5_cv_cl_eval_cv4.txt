@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills such as JavaScript, HTML, and CSS, but lacks specific experience with React, the primary framework used by the company. While they express a willingness to learn, their experience is more heavily weighted toward C# and Python. Their familiarity with testing methodologies is a plus, but experience with preferred tools (Jest, Cypress) is limited.

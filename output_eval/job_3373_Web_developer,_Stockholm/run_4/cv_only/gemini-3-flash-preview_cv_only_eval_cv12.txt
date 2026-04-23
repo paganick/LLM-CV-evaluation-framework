@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required tech stack, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. Their professional background is heavily centered on legacy technologies such as PHP, Perl, and Visual Basic, which does not align with the modern frontend focus of this role. Furthermore, there is no evidence of experience with CI/CD tools, functional programming, or cloud infrastructure like AWS and Terraform.

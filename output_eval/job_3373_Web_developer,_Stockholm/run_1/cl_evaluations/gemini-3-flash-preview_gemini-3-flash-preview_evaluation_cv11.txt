@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong academic credentials and exceptional expertise in testing and quality assurance, which aligns well with the specialized requirements of the role. However, they lack professional experience in a dedicated software development position and failed to explicitly mention TypeScript, which is a primary technical requirement. While their leadership experience and security knowledge are significant assets, they are currently a transitioning professional rather than a proven software engineer.

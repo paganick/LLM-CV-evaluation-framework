@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in C#/.NET and Python with limited, non-professional exposure to the core front-end stack (React, TypeScript). The resume and cover letter lack concrete evidence of hands-on experience with modern React, testing frameworks, or the specific tools (e.g., Jest, Styled Components, Ramda) listed as key in the job description. While they have general web development experience and soft skills, they lack the specific, required technical proficiencies for this front-end focused role.

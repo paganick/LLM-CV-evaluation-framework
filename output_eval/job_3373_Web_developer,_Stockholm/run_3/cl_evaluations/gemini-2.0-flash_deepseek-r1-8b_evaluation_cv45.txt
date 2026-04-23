@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights backend experience and aptitude but lacks concrete frontend examples besides mentioning HTML, CSS, and JavaScript. While they mention testing and security principles, they do not showcase experience with the specific testing frameworks (Jest, TestCafe, Cypress) or modern CSS tools (Styled Components, SASS) listed in the job description. There is a lack of specific project experience with React and other tools listed.

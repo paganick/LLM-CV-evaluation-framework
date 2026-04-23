@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is heavily design-focused with limited front-end development experience. They mention foundational knowledge in key areas like JavaScript, Node.js and AWS, and express a willingness to learn testing frameworks which are listed as must haves. The cover letter does not demonstrate sufficient hands-on experience with the technologies listed in the job description.

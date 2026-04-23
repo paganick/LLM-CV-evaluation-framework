@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position, as advertised. With a robust background in project management coupled with an eye for detail and process optimization, I am excited about the opportunity to contribute to your team, leveraging my experience and passion for clean coding within modern web development.
+
+Although my primary experience lies in finance operations, I possess a keen interest in front-end technologies such as JavaScript, TypeScript, HTML, and CSS. I have proactively kept abreast of modern frameworks, particularly React, which I understand your team utilizes. My experience with Git and repo hosting services like GitHub has equipped me with the collaborative skills and version control knowledge essential for agile development environments.
+
+In my previous roles, I have consistently demonstrated my ability to streamline and enhance operational processes. For instance, I successfully eliminated manual budgeting processes by implementing an automated budgeting solution, showcasing my aptitude for technology integration. My passion for writing clean code aligns well with the emphasis your company places on code quality, and I am eager to apply this mindset to web applications.
+
+I also bring foundational knowledge about web security best practices, including regulations from OWASP and CORS, ensuring compliance and security standards in any project I partake in. My familiarity with modern CSS tools like SASS and Styled Components, along with testing frameworks such as Jest and Cypress, further strengthens my fit for this position.
+
+Furthermore, I excel in team collaboration, having led teams in finance operations where effective communication and understanding different departments were key to our success. My ability to engage with external partners and my commitment to understanding various technical landscapes further enable me to contribute to diverse projects successfully.
+
+I am genuinely enthusiastic about utilizing my skills in a forward-thinking organization that values innovation and collaboration. I look forward to the opportunity to discuss how I can be an asset to your front-end development team.
+
+Sincerely,  
+Alexis

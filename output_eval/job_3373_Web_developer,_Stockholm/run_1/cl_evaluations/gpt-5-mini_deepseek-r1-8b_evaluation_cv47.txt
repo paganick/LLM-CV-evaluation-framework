@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has a background in business development and sales leadership with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node.js, or cloud/CI tooling required by the role. The cover letter emphasizes transferable skills and willingness to learn but provides no technical evidence, projects, or measurable frontend experience. Given the technical nature and specific skill set required, the candidate is completely unqualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is heavily focused on legacy .NET and jQuery, lacking the required professional-level expertise in React, TypeScript, and modern testing frameworks like Jest or Cypress. There is no evidence of experience with functional programming (Ramda), Node.js, or the specified DevOps tools such as AWS and Terraform. Additionally, the candidate’s professional work history concludes in 2016, indicating a significant gap in recent, relevant industry experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, with limited explicit experience in the core technologies listed in the job description (JavaScript, TypeScript, React, etc.). While the cover letter expresses interest in transitioning to frontend development, the resume lacks substantial evidence of practical experience with modern frontend frameworks. The candidate demonstrates some familiarity with related concepts like Agile and Git, but overall, the skills and experience do not strongly align with the requirements.

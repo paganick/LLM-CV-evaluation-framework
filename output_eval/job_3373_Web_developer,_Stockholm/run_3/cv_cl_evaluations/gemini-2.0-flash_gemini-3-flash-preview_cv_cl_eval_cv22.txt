@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and buying, not software development. While they mention HTML and CSS, their experience seems basic. They lack demonstrable experience with JavaScript, modern FE frameworks like React, testing frameworks, or other tools listed in the job description.

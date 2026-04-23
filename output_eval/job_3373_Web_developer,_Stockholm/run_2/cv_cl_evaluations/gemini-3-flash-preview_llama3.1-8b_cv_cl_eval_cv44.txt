@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional history is centered on presentation and multimedia design rather than front-end engineering, with experience primarily in PowerPoint, Keynote, and Adobe Creative Suite. There is no evidence of professional experience with the core requirements of React, TypeScript, or modern testing frameworks like Jest or Cypress. While the candidate possesses a Computer Science degree, their career trajectory lacks the technical depth and hands-on software development experience required for this specific role.

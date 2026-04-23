@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in software testing and basic web technologies, they lack professional experience as a Frontend Developer and do not mention TypeScript proficiency. Their experience with React appears aspirational rather than hands-on, failing to meet the core requirement for a developer with experience in modern frameworks. The profile is more suited for a QA Engineer than a Frontend Developer, representing a significant gap in specific technical expertise.

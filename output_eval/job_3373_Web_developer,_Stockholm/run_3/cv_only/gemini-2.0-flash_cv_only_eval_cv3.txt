@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in construction and a recent degree in web multimedia, indicating a career change. While they possess knowledge of HTML, CSS, and JavaScript, the resume lacks specific experience with modern FE frameworks like React, TypeScript, and testing frameworks mentioned in the job description. Their experience is primarily academic and does not demonstrate professional application of the required skills.

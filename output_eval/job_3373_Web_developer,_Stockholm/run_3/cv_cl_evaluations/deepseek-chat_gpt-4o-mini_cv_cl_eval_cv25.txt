@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software development, and they lack the required professional experience with JavaScript, TypeScript, React, and testing frameworks. While they mention HTML/CSS and a willingness to learn, the core technical requirements for the front-end developer role are not met. Their soft skills and design sense are relevant but insufficient to compensate for the absence of key hard skills.

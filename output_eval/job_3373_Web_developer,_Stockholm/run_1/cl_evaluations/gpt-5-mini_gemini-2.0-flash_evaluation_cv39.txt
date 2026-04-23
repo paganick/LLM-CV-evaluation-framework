@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual and web design experience and some basic HTML knowledge, which is relevant, but they do not demonstrate hands-on experience with the core technical requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, CI/CD, and web security). Their cover letter emphasizes willingness to learn rather than proven competency in the required stack. Given the role requires immediate practical skills in these areas, the candidate is underqualified for this position.

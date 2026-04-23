@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in government IT management, cybersecurity, and policy, which is a completely different industry and skillset from modern frontend software development. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, or any other specific technologies listed in the job description. While they possess strong leadership and analytical skills, they lack the fundamental technical qualifications required for the role.

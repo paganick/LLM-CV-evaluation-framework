@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant degree and experience in systems engineering, which provides a foundational understanding of technical concepts. However, they lack specific hands-on experience with modern frontend frameworks like React, as well as familiarity with the required tools and testing frameworks mentioned in the job description. Their knowledge of security principles is a plus, but it does not sufficiently align with the practical requirements for the role.

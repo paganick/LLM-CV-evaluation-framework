@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with React, TypeScript, and modern front-end ecosystems, which are core requirements for this role. Their background is predominantly focused on legacy Java development, database administration, and hardware troubleshooting, with no evidence of hands-on work with modern CSS tooling or automated front-end testing frameworks. Additionally, the candidate has a significant gap in relevant work history since 2017, making their current technical proficiency in modern web standards highly questionable.

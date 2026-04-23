@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT and cybersecurity but lacks specific hands-on skills with JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for the role. While they demonstrate strong leadership and project management abilities, their direct experience with modern web development technologies and testing frameworks is insufficient. Overall, they are in a relevant industry but do not possess essential frontend skills required for the position.

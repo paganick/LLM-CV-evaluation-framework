@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter focus heavily on program management, learning design, and curriculum development, with only a brief mention of "intermediate coding in R studio". The job description is centered around front-end development technologies like JavaScript, React, and testing frameworks, none of which are demonstrated by the candidate. Therefore, the candidate is not a good fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid ASP.NET, C#, HTML/CSS and legacy JavaScript/jQuery experience but lacks the required modern front-end skills (React, TypeScript), modern testing frameworks, and NodeJS ecosystem experience. There is no evidence of CI/CD, AWS/Terraform, modern CSS-in-JS tools, or web security practices (OWASP, CSP, CORS, OAuth) mentioned. Overall relevant software development background but does not meet key technical requirements for this React/modern-JS front-end role.

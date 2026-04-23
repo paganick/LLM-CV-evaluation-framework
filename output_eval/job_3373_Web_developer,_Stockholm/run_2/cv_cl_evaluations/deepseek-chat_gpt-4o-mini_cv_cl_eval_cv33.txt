@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in banking sales, training, and management, with no professional software development experience. The cover letter mentions basic awareness of some technologies (HTML, CSS, JavaScript, React, Git) but provides no evidence of hands-on project work or proficiency. The resume contains zero relevant technical experience, skills, or projects, making them completely unqualified for this front-end engineering role.

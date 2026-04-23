@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience in frontend development, with their entire career history focused on quality assurance and test automation. Key technical requirements such as TypeScript, React, and web security protocols are not demonstrated in their past work experience. While the candidate has a relevant Master’s degree and strong testing skills, they fail to provide evidence of building production-level frontend applications.

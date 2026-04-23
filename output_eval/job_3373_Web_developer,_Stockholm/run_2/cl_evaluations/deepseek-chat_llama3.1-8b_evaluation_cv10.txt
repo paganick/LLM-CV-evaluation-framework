@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and mentions several required skills, including JavaScript, testing frameworks, and Agile methodology. However, the cover letter is heavily back-end focused and lacks specific, demonstrable experience with the core front-end technologies listed in the job description, particularly React and TypeScript. The application does not convincingly address key requirements like security knowledge, Node.js, or functional programming, making it an incomplete match.

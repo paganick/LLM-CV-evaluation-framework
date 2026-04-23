@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Front-End Developer position. With my extensive experience in software development and a strong foundation in JavaScript, TypeScript, HTML, and CSS, I am confident I possess the skills and passion to excel in this role and contribute significantly to your team.
+
+My background includes providing object-oriented design, programming, and implementation support. I have experience designing database systems for e-commerce websites utilizing persistence EJB platforms. I am proficient in developing test plans and user documentation.
+
+I am particularly drawn to your emphasis on modern front-end frameworks, specifically React. My skills include testing frameworks (Jest, TestCafe, Cypress etc.). I am familiar with the NodeJS ecosystem, npm, Yarn, Express.js. Furthermore, my understanding of API design and general knowledge of AWS and Terraform align well with your technology stack.
+
+My experience as a consultant has honed my ability to collaborate effectively within an Agile environment. I am comfortable interacting with other teams and external partners, and I am eager to expand my knowledge across different domains and platforms. I am passionate about writing clean code and staying current with the latest technological advancements.
+
+I am excited about the opportunity to contribute my skills and enthusiasm to your team. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Alexis

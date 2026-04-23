@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an industry switcher whose professional background is entirely in media planning and marketing rather than software engineering. They lack the required professional experience with React, TypeScript, and automated testing frameworks, and their technical skills are limited to academic projects and introductory knowledge. As a result, they do not meet the minimum technical requirements for a front-end developer position.

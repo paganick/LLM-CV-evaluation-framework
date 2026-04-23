@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is significantly different from the job requirements, lacking direct experience with JavaScript, TypeScript, React, and testing frameworks. While they express willingness to learn, the cover letter primarily emphasizes transferable skills from unrelated roles. The stated proficiency in HTML and web design is insufficient to meet the demands of a Front End Developer position focused on modern frameworks and tooling.

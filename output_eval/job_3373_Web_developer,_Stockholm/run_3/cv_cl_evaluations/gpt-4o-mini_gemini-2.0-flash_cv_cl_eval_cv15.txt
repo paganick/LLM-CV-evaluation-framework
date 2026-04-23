@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant IT experience and some knowledge of HTML, CSS, and JavaScript, but lacks hands-on experience with React and modern front-end frameworks, which are essential for the role. While they have demonstrated project management and client interaction skills, their experience with testing frameworks and CI/CD tools is not explicitly listed, indicating a gap in required skills.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is almost entirely in graphic design and art direction, not software development. While the cover letter claims proficiency in key technologies like React, TypeScript, and testing frameworks, the resume provides no concrete evidence of hands-on development experience, projects, or professional use of these tools. The mismatch between the job's core technical requirements and the candidate's documented career history is too significant.

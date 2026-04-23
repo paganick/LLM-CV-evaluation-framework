@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates strong graphic design and basic HTML/CSS skills but lacks virtually all required front-end engineering competencies such as JavaScript/TypeScript, React, modern testing frameworks, Git/tooling, Node/npm, and cloud/CI knowledge. The candidate's experience is primarily design-focused and does not show hands-on development, testing, or collaboration in an Agile engineering environment. Given the significant gap in core technical requirements, the candidate is not qualified for this role.

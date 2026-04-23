@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has clear presales and sales-engineer experience, a relevant Data Analytics master's, and technical skills (SQL, Tableau, R, Salesforce) with demonstrated RFP/SOW and architectural review exposure, matching many core job requirements. However, they do not state explicit years of client-facing sales experience, lack specific mention of platform-level experience (APIs, Cloud, DevOps/Microservices), and provide no concrete sales metrics or quota attainment, which prevents a higher rating.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is firmly in digital communications, content strategy, and accessibility with no demonstrated hands-on experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git workflows, or NodeJS required for this front-end engineering role. While they express strong communication skills and motivation to learn, they lack the specific technical skills and practical engineering experience the position requires, making them unsuitable without substantial retraining.

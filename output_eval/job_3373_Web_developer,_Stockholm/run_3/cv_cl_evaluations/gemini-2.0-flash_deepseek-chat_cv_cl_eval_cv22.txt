@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not software development. While they express interest and have some basic knowledge of HTML, CSS, and Java, they lack the required experience in modern FE frameworks like React, TypeScript, and testing frameworks. Their resume and cover letter highlight a career shift, but the demonstrated skills do not meet the job description's requirements.

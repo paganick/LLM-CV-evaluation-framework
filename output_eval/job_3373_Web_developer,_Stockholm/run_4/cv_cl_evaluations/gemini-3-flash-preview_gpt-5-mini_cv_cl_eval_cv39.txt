@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer and artist who lacks the essential technical qualifications for a modern front-end engineering role, specifically in JavaScript, TypeScript, and React. Their experience is centered on visual design and physical product development rather than software engineering, testing automation, or CI/CD pipelines. While they express an interest in learning the stack, they currently possess no professional experience with the core technologies required for this position.

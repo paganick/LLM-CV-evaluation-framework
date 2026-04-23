@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some familiarity with JavaScript, TypeScript, HTML, and CSS, and mentions practical experience with React, which is a plus. However, the majority of their experience is in media production, lacking extensive direct front-end development experience, testing frameworks, and modern development tools essential for the role. Their collaboration skills are noted, but without deeper technical expertise, they fall short of the ideal candidate profile.

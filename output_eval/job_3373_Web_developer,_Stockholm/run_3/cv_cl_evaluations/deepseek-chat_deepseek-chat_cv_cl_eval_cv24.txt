@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in digital communications and content management, which is the wrong industry for a front-end developer role. The resume shows no professional experience with the required technologies like JavaScript, TypeScript, React, or testing frameworks, and the cover letter describes only self-directed learning without verifiable work history. The core technical and hands-on development requirements from the job description are not met.

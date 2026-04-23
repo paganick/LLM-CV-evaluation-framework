@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is an executive-level professional with over twenty years of experience in Product Management and leadership, but lacks any professional work history as a Software Engineer. While the cover letter claims proficiency in the required tech stack, the resume provides no evidence of hands-on, professional experience with React, TypeScript, or modern frontend testing. This represents a significant functional mismatch, as the candidate’s career focus has been on product strategy rather than technical implementation.

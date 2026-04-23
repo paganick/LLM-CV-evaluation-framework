@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates experience in JavaScript, HTML, and CSS, but lacks specific mention of modern FE frameworks like React, VueJS, Angular, or Svelte, which is a key requirement. They show familiarity with testing and Git but lack details on specific testing frameworks (Jest, TestCafe, Cypress) and CI/CD tools mentioned in the job description. The resume focuses heavily on PHP and older technologies, making them a moderate fit for a modern JavaScript-focused role.

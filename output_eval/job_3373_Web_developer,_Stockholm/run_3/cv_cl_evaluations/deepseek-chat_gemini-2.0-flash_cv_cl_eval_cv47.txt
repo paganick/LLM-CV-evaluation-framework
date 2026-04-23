@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, with no professional experience in software development. The job requires hands-on expertise in modern front-end frameworks (React), testing, Git, and web security, none of which are demonstrated. While the candidate mentions HTML and a willingness to learn, they lack the specific technical skills and recent, relevant experience required for the role.

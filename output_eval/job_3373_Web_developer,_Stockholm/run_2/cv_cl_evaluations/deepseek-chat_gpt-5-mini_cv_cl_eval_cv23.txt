@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware validation and electronics, not modern front-end software development. They lack hands-on experience with React, TypeScript, modern CSS tooling, and the specific testing frameworks mentioned in the job description. While they express enthusiasm to learn, their direct experience does not align with the core technical requirements for the role.

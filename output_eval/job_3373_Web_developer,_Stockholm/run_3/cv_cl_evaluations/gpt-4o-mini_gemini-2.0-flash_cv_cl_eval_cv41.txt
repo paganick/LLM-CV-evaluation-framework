@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in the IT field but lacks specific front-end development experience and strong proficiency in required technologies such as React, TypeScript, and modern CSS tools. While they have some familiarity with HTML, CSS, and JavaScript, the overall skill set does not align well with the front-end role's expectations.

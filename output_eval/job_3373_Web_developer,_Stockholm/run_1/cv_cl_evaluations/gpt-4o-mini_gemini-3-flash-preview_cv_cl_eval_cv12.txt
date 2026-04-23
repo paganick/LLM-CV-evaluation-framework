@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in software design and development with over seven years of experience, showcasing skills in JavaScript, CSS, and HTML. While the candidate does not explicitly mention proficiency in React, their experience with front-end technologies and test automation aligns well with the job requirements. However, there is a lack of specific mention regarding modern CSS tools and CI/CD tools, which may limit their fit for the role.

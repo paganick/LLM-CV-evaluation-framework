@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a career in aerospace sales, business development, and quality engineering with no demonstrable professional experience in modern frontend development. The cover letter claims proficiency in required technologies like React and testing, but these claims are entirely unsupported by the detailed work history, which lacks any software engineering roles. This is a severe mismatch for a frontend developer position, placing the candidate in the wrong industry.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a different industry and lacks the required hands-on professional experience in frontend development. While they demonstrate strong transferable soft skills and are actively learning the technical stack, they do not meet the core requirement of practical experience with React, testing frameworks, Git, and the other listed technologies. Their foundational knowledge is a starting point, but not sufficient for the role as described.

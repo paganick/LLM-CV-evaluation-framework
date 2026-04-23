@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and some historical web/design tool exposure, but lacks production-level experience in core requirements (JavaScript/TypeScript/HTML/CSS and React), testing and test automation, Git workflows, modern CSS tools, Node/npm ecosystem, and web security knowledge. Their collaborative mindset and willingness to learn are positive, but they do not meet the technical baseline needed to perform this frontend developer role without substantial upskilling.

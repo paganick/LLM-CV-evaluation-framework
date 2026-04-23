@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer from system administration who lacks professional experience with the required front-end stack, including React and TypeScript. They provide no evidence of hands-on experience with testing frameworks, web security protocols, or modern development tooling specified in the job description. While they possess transferable analytical skills, they do not meet the core technical proficiency requirements for this developer position.

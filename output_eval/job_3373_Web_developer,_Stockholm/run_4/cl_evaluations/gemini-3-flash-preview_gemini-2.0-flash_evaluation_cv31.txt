@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from sales leadership who lacks nearly all the core technical requirements, explicitly stating a need to learn JavaScript, TypeScript, and React. While they possess transferable soft skills, they have no professional experience or demonstrated technical proficiency in frontend development, testing, or cloud infrastructure. This profile is fundamentally unqualified for a position requiring hands-on experience with modern development stacks and clean code principles.

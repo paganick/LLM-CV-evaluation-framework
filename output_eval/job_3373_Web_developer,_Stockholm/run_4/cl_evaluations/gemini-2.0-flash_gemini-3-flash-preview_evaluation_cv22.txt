@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant experience, including HTML, CSS, and Java. However, they lack direct experience with the JavaScript ecosystem, particularly React, TypeScript, and testing frameworks specified in the job description. Their experience is primarily in Java and database management, and they are only beginning to learn React.

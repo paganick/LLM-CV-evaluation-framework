@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant UX/UI experience with prototyping, user research, usability testing and basic front-end knowledge, and states proficiency with Figma, which addresses several core requirements. However, there is limited verifiable evidence of working in an Agile software development team, managing a UX roadmap or running day-to-day UX team ceremonies (stand-ups, sprint planning), and insufficient proof of maintaining a cross-team UI design system or enterprise release collaboration.

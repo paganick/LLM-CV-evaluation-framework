@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily centered on legacy .NET stack (C#, ASP.Net, VB) and SQL, with only brief mentions of AngularJS and jQuery, which does not align with the job's core requirement for modern JavaScript/TypeScript and React. There is no demonstrated experience with key listed technologies like TypeScript, React, Vue, Svelte, Node.js, modern CSS tools, or the specific testing frameworks. While the candidate shows general software development and Agile experience, the specific technical skill mismatch is severe.

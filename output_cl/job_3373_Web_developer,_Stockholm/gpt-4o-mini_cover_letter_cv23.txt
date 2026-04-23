@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front-End Developer position at your company, where my extensive background in electronics, software testing, and programming can contribute to your team's success. With hands-on experience in JavaScript, HTML, and CSS, along with familiarity with Modern Front-End frameworks, including React, I am eager to bring my technical expertise to your organization.
+
+In my previous roles as an Engineering Lab Technician, I developed a keen understanding of software testing methodologies, including unit tests, functional tests, and regression testing. I am proficient with various testing frameworks and tools, which aligns well with your requirement for testing automation experience. Additionally, my work utilizing Microsoft Test Manager and Team Foundation has equipped me with the skills to manage test cases effectively.
+
+Collaboration is key in any development environment, and my background in Agile practices has honed my ability to work seamlessly with cross-functional teams. I thrive on partnering with developers to deliver high-quality software solutions and have experience interacting with external partners, ensuring a comprehensive understanding of diverse perspectives and platforms. My commitment to coding standards drives my passion for writing clean, maintainable code.
+
+Moreover, my education in Computer and Electronics Engineering Technology provides me with a solid foundation in technical skills. I am familiar with essential tools and technologies such as SASS, ESLint, Prettier, and the NodeJS ecosystem, alongside a general understanding of CI/CD processes and API design. While I have basic knowledge of security principles like OWASP and OAuth, I aim to further broaden my expertise in this critical area.
+
+I am enthusiastic about continuing to learn and stay updated with the latest technologies in front-end development. Thank you for considering my application; I look forward to the opportunity to contribute to your team and help drive innovative solutions at your company.
+
+Sincerely,  
+Alexis

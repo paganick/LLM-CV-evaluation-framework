@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, modern front-end skills required by the job description. The resume shows extensive back-end and scripting experience (PHP, Perl, Bash) but no demonstrated, professional experience with React, TypeScript, modern testing frameworks, or the other listed tools. The cover letter claims React experience but the resume provides no evidence to support this claim, indicating a significant mismatch with the core requirements.

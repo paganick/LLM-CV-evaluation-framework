@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified for this front-end engineering position, lacking experience in the required stack of React, TypeScript, HTML, and CSS. Their background is heavily focused on hardware testing and electronics, which is irrelevant to a role requiring expertise in web security, modern UI frameworks, and CI/CD pipelines. Furthermore, the candidate fails to mention any experience with essential tools like Git, Jest, or NodeJS.

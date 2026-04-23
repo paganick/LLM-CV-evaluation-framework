@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and frameworks like AngularJS, jQuery, and Bootstrap. They highlight experience in testing, Git, and Agile environments. While the candidate lacks direct experience with React and some specific tools mentioned in the job description, they express a willingness to learn and apply modern front-end practices, making them a strong potential fit.

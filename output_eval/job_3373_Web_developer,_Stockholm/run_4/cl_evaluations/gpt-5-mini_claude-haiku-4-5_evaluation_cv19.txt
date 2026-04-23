@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant background in HTML/CSS, Git fundamentals, and strong collaborative/design skills, but lacks demonstrable hands-on experience with JavaScript/TypeScript, React, and the testing/Node/modern-CSS tooling the role requires. They acknowledge gaps in Jest/Cypress, Styled Components, the Node ecosystem, and CI/CD/cloud knowledge, which are critical for this position. Given the relevant industry background but insufficient specific technical depth and practical experience, this is a borderline fit requiring significant upskilling.

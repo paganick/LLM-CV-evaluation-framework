@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience and current proficiency in the core required technologies, specifically JavaScript, TypeScript, and React, stating they are only now beginning to learn them. While they possess strong soft skills and a background in information systems, they fail to demonstrate hands-on experience with testing frameworks, web security, or modern frontend build tools. Consequently, the candidate does not meet the minimum technical criteria for a role that demands immediate competence in the specified stack.

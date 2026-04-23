@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable frontend expertise. While they mention foundational technologies and a willingness to learn React, the letter is dominated by backend and systems architecture experience, with no concrete examples of modern frontend projects, frameworks, or the specific testing tools listed in the job description. The skills are claimed but not convincingly substantiated for a hands-on frontend role.

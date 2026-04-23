@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with JavaScript and React, along with familiarity in testing frameworks like Jest and Cypress. However, the resume lacks explicit mention of modern CSS tools, CI/CD tools, and specific experience with TypeScript and other modern frameworks. Overall, they align well with the job requirements but do not fully meet all expectations.

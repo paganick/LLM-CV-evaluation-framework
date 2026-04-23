@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like Javascript, HTML, and CSS, but lacks specific experience with React, which is the company's primary FE framework. The resume focuses on older technologies like ASP.Net and VB.Net. There is a general understanding of web development but a lack of depth in modern FE practices and tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a foundational knowledge of HTML, CSS, and SQL, they lack experience with JavaScript, TypeScript, and modern frontend frameworks like React, which are explicitly required in the job description. Their mention of a desire to learn React and testing frameworks is positive but does not compensate for the lack of hands-on experience. Additionally, other specifics like Git, security knowledge, and familiarity with CSS tools are not addressed.

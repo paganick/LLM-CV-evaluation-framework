@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational HTML, CSS, and JavaScript experience and a broad IT background, but the resume provides no demonstrable experience with React/modern front-end frameworks, TypeScript, testing frameworks/automation, Git/GitHub, Node/npm, CI/CD, or cloud/DevOps tooling required for the role. The cover letter's claims are aspirational and unsupported by concrete evidence of the specific modern frontend skills and security/API knowledge listed in the job description, so significant upskilling would be needed.

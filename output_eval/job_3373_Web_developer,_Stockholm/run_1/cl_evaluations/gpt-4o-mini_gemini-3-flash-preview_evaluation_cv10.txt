@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong qualifications in frontend development and experience with relevant technologies, including JavaScript, HTML, and CSS. They have hands-on experience with AngularJS, as well as a strong understanding of testing and performance, aligning well with many of the job requirements. However, there is no mention of TypeScript or specific familiarity with React, which is crucial for the position, preventing a higher score.

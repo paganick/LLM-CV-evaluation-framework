@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in web development and familiarities with technologies such as ASP.NET, HTML, CSS, JavaScript, and Git, which align with the job description. However, while they mention hands-on experience with testing frameworks and a basic understanding of web security, they lack specific mention of TypeScript, CI/CD tools, and some modern CSS tools listed in the job description, which keeps them short of a perfect match.

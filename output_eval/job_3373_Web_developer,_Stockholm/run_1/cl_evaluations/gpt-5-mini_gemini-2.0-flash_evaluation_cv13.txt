@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid JavaScript, HTML/CSS experience and Agile leadership, and has used Angular which is relevant, but they do not demonstrate required proficiency with React or TypeScript and only state "growing" React experience. Key gaps include no evidence of testing/test automation, modern CSS tools (Styled Components/SASS), Node ecosystem/CI/CD experience, or web security knowledge. Overall relevant background but missing several core technical requirements for this role.

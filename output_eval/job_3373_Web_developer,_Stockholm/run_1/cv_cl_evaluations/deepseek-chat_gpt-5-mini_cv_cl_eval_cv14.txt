@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, required modern front-end skills. There is no demonstrated experience with React, TypeScript, modern CSS tools, or the testing frameworks listed in the job description. While the candidate shows strong backend and full-stack ASP.NET experience and a willingness to learn, their technical profile does not align with the core requirements for a React-focused front-end engineering role.

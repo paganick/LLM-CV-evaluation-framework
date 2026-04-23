@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong experience with relevant technologies such as JavaScript, HTML, CSS, and modern frameworks including React and AngularJS. They possess hands-on experience with testing and test automation, and demonstrate a solid understanding of Agile methodology. However, the resume lacks explicit experience with certain tools and practices mentioned in the job description, such as Ramda, specific CI/CD tools like CircleCI, and a basic understanding of security related to the web.

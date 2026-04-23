@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all mandatory technical qualifications, specifically failing to demonstrate any professional experience with JavaScript, TypeScript, or the React framework. Their background in digital communications is not a substitute for the required engineering expertise in testing, API design, and web security. As the applicant explicitly states they require training to master the core technologies, they are completely unqualified for this mid-to-senior level development position.

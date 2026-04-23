@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate possesses a .NET background with some experience in JavaScript, HTML, and CSS, but lacks the depth and specific modern FE framework experience (React, VueJS, Angular, Svelte) emphasized in the job description. There's no mention of testing frameworks, modern CSS tools, or NodeJS ecosystem. The resume focuses on database programming/analysis rather than front-end development.

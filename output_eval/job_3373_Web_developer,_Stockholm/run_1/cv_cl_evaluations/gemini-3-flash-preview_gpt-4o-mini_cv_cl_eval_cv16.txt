@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is significantly outdated, concluding in 2016, and focuses primarily on a legacy .NET and jQuery stack rather than the required modern React/TypeScript ecosystem. While the cover letter claims familiarity with the requested technologies, the resume fails to provide evidence of professional experience with Jest, Cypress, CI/CD, or modern CSS tools. Consequently, the candidate lacks the specific, verifiable technical expertise and recent industry experience necessary for this role.

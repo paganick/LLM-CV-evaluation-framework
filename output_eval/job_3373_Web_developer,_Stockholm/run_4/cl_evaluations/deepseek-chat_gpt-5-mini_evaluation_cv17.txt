@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's leadership and transferable engineering discipline are strong, but they lack the specific, hands-on technical experience required for the role. Their admitted ongoing learning in JavaScript, TypeScript, and React does not meet the requirement for proven, practical experience with these core technologies and the associated modern toolchain. While their soft skills align well, the technical skill gap is too significant for a direct match.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, with limited experience in front-end development. While they mention HTML/CSS, the resume lacks substantial evidence of JavaScript, TypeScript, or experience with modern FE frameworks like React, which is a core requirement. The claimed familiarity with NodeJS, testing frameworks, and other listed technologies is not substantiated by concrete experience.

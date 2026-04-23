@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant technical strengths (HTML, JavaScript, SQL) and consultancy experience delivering client solutions and automation, which are useful for collaborating with development teams. However, there is no evidence of 2-3 years of commercial UX design experience, Figma/prototyping, user research, workshop facilitation, or working in an Agile UX team. Their examples focus on automation and systems rather than UX processes, design systems, or mentoring a design team, so they lack several core requirements for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration, education, and video production, which is a completely different industry from professional software development. The resume lists only basic HTML and web-design under skills, with no evidence of professional experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technologies from the job description. The cover letter attempts to draw parallels but does not demonstrate the required hands-on technical expertise.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is fundamentally unqualified for this technical role, as their professional experience is entirely within sales, management, and hospitality. They lack the required professional experience with React, TypeScript, and automated testing, which are central to the position's requirements. While the cover letter mentions an interest in transitioning to development, the resume provides no evidence of the technical proficiency or industry experience necessary for a front-end engineering position.

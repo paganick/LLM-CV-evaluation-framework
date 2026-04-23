@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s resume shows a long career in finance and operations with strong project management and process-improvement experience but no verifiable front-end engineering skills. There is no evidence of JavaScript/TypeScript, React, CSS, Node, testing frameworks, CI/CD, Git usage, or cloud/infra experience on the resume, and the cover letter’s technical claims are unsupported. While transferable leadership and program delivery skills are present, they do not meet the technical requirements of this role.

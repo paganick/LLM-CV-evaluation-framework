@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a specialized Microbiologist and consultant with no experience or training in software development or the specified tech stack. There is a total lack of required skills such as JavaScript, React, and TypeScript, as the candidate's background is entirely within laboratory research and clinical quality control. This is a complete industry mismatch, making the applicant unqualified for a frontend engineering role.

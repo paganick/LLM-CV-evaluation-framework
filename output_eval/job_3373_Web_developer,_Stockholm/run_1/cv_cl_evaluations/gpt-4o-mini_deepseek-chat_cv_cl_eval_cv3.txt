@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a degree in IT and relevant coursework in web technologies, but they lack hands-on experience with modern frameworks like React, which is crucial for the position. While they demonstrate a foundational knowledge of HTML, CSS, and JavaScript, their practical experience in testing, CI/CD tools, and collaboration within an Agile environment is inadequate. The skills listed in the resume do not fully align with the specific requirements outlined in the job description.

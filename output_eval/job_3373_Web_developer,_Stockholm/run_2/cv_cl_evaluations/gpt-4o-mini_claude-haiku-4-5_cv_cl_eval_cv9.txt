@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT and programming but primarily focuses on backend development with Java, lacking the specific frontend expertise required with React and modern frontend frameworks. While they demonstrate a strong understanding of testing and collaboration, the absence of focused frontend skills such as modern CSS tools or experience with React diminishes their fit for the role.

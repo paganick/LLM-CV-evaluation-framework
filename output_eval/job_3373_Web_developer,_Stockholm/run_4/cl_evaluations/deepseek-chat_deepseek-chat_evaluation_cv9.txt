@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong backend foundation and relevant industry experience, but lacks explicit, hands-on experience with the specific modern frontend tools listed in the job description (e.g., React, Jest, Cypress, Styled Components). They demonstrate transferable skills in testing, security, and Agile collaboration, and show a clear passion for learning the required stack. However, the direct frontend framework and tooling experience is implied through interest rather than proven, making them a good but not perfect match.

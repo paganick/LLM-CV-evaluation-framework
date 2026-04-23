@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in software development, their professional history is heavily centered on the legacy .NET/C# ecosystem rather than the modern React and TypeScript stack required. The resume lacks evidence of professional experience with core requirements such as TypeScript, modern CSS tools, or the NodeJS ecosystem. Furthermore, the candidate's recent focus on freelance website design and ASP.NET does not align with the specialized frontend engineering and testing automation standards requested.

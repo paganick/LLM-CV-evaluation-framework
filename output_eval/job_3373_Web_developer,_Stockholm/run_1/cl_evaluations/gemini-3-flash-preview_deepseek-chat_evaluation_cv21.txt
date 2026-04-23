@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate is a seasoned professional with over a decade of experience, yet their expertise in the specific React/TypeScript stack is a recent transition rather than a primary career focus. While they meet the core language requirements and demonstrate a strong quality-first mindset, the application lacks evidence of hands-on experience with web security protocols (OWASP, OAuth) and immediate proficiency in the requested modern testing frameworks.

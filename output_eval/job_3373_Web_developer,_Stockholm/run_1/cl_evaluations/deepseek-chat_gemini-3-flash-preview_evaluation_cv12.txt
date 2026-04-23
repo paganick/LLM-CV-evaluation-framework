@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in React, modern front-end technologies, testing, Agile, and security concepts like CSP/CORS, which aligns well with the job requirements. However, the cover letter lacks explicit mention of several key technologies from the description, such as TypeScript, specific Node.js tools (Express.js), CI/CD tools (CircleCI), and AWS/Terraform. The experience with Ruby and the team's transition away from it is a positive, but the absence of direct evidence for some listed tools prevents a higher score.

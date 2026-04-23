@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's industry experience is relevant, but they lack the required hands-on experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, and modern web development tooling. Their background is primarily in mainframe systems, and while they express a willingness to learn, they do not demonstrate current proficiency in the essential skills. The letter focuses on transferable concepts rather than proven, direct experience with the specific stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development, but their expertise lies in ASP.NET and C#, not the JavaScript/React stack required. They express interest in learning React, but lack demonstrable experience with modern FE frameworks and testing tools mentioned in the job description. While they mention familiarity with HTML, CSS, and JavaScript, the resume focuses on .NET technologies.

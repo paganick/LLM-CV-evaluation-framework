@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience with HTML, CSS, and JavaScript, as well as some server-side technologies. However, there's a lack of specific mention of React and other modern front-end frameworks listed in the job description. While the cover letter expresses interest in React, the resume doesn't showcase concrete experience with it.

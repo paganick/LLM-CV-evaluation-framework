@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate presents project management experience, they emphasize IT project management more broadly. The letter mentions experience with the required tech stack (JavaScript, TypeScript, React, testing frameworks), which is good, however, the letter mostly focuses on project management instead of technical expertise. There's a disconnect between the required front-end focus of the job description and the candidate's general project management background.

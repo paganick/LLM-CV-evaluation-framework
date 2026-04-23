@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior Product Manager with twenty years of experience, which is a significant mismatch for a hands-on Front-End Engineering role. The cover letter fails to mention any proficiency in the required technical stack—such as JavaScript, React, or TypeScript—and instead focuses on high-level strategy and Agile management. While the candidate has industry experience, they lack the specific, essential coding and testing skills explicitly demanded by the job description.

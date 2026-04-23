@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in data analysis and statistical modeling with no demonstrated hands-on experience in core frontend technologies required by the role (JavaScript/TypeScript, React, HTML/CSS, modern CSS tools). The cover letter expresses interest and high-level familiarity with NodeJS, testing, and AWS but provides no concrete frontend projects, code samples, or toolchain experience. Significant retraining and practical frontend experience would be needed before they could fulfill this Frontend Developer role.

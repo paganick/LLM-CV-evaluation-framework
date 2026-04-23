@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end experience (JavaScript, CSS, HTML) but focuses heavily on .NET and database roles. While they mention React and testing in the cover letter, their resume lacks concrete projects demonstrating proficiency in modern FE frameworks, testing frameworks, and tools mentioned in the job description. Their experience appears dated and geared towards backend development.

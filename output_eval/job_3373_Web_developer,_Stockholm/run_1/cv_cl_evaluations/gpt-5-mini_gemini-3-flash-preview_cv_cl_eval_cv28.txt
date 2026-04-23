@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume documents a long career in materials analysis with no verifiable professional experience in frontend development or core technologies required (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node ecosystem). The cover letter's claims of frontend skills are unsupported by projects, contributions, or measurable software engineering outcomes on the resume. Given the role's requirement for proven hands-on frontend and test automation experience, the candidate is not qualified.

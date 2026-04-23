@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career transitioner who lacks professional experience in software development, with their primary background being in administrative and executive roles. While they mention familiarity with React and Git, they fail to demonstrate hands-on proficiency in core requirements like TypeScript, modern CSS tools, or web security (OWASP). Most critical technical skills, such as test automation and CI/CD, are listed as interests rather than proven competencies, making the applicant unqualified for a role requiring established technical expertise.

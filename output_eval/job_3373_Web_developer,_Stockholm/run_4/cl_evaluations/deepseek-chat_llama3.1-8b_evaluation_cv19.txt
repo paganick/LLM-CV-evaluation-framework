@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in graphic design, which is a relevant adjacent field, but the cover letter lacks the specific, required front-end development experience. Key requirements like React, TypeScript, Git, and web security knowledge are not mentioned, while listed technical skills are presented as secondary to design work. The application shows some awareness of the tech stack but does not convincingly demonstrate hands-on proficiency in the core competencies of the role.

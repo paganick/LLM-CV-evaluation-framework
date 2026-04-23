@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front End Developer position. While my professional background is rooted in data analytics and engineering, my academic journey and technical skill set have been strategically converging towards modern web development. My recent Master of Science in Analytics, coupled with hands-on experience in ASP.NET, C#, HTML, and database technologies, provides a robust foundation upon which I am actively building expertise in the JavaScript ecosystem as specified in your job description.
+
+My career has been defined by a rigorous, detail-oriented approach to problem-solving, whether identifying product defects through SQL and quality testing in a semiconductor production environment or building predictive models using Python and R. This experience has ingrained in me a deep appreciation for clean, maintainable code and robust testing methodologies—principles I understand are paramount in your development culture. My role as an Engineering and Quality Technician required meticulous attention to detail in process development and a collaborative approach with scientists and engineers, directly mirroring the Agile, cross-functional teamwork you seek.
+
+I have proactively expanded my technical repertoire to include the core technologies you utilize. I possess practical experience with HTML and CSS, and I am deeply engaged in mastering modern JavaScript (ES6+), TypeScript, and React. My analytical background makes me naturally adept at understanding complex systems and domains, and I am keen to apply this to understanding your full platform. Furthermore, my extensive work with data layers, SQL databases, and API-driven analytics projects has given me a fundamental understanding of security considerations, data integrity, and the backend interactions that inform front-end development.
+
+The opportunity to contribute to a team that values functional programming, comprehensive testing with frameworks like Jest and Cypress, and modern tooling is incredibly compelling. My proven ability to quickly learn and apply cutting-edge technologies—from machine learning libraries to data visualization tools—demonstrates my commitment to continuous learning and my genuine passion for building high-quality, effective software.
+
+I am confident that my unique blend of analytical rigor, quality-focused engineering experience, and dedicated pursuit of front-end development skills would make me a valuable asset to your team. Thank you for considering my application. I look forward to discussing how my background and aspirations align with your needs.
+
+Sincerely, Alexis

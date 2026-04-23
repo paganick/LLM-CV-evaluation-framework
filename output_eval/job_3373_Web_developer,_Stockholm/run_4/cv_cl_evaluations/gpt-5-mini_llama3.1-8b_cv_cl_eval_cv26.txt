@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in marketing, communications, and public relations with no demonstrated experience in front-end development technologies (JavaScript, TypeScript, HTML/CSS, React) or related tooling (testing frameworks, Git, Node.js, CI/CD, AWS). Their cover letter explicitly states they lack direct technical experience, so they do not meet the core requirements for this role. While they show transferable soft skills, they are insufficient for a hands-on engineering position.

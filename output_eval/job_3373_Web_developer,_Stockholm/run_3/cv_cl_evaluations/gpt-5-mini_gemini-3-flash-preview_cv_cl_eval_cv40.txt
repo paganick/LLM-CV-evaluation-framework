@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong product leadership and domain expertise in digital media, and their cover letter asserts familiarity with frontend technologies, but the resume provides no verifiable hands-on engineering experience, code samples, or concrete React/TypeScript projects. Key required skills (practical React work, test automation artifacts, CI config, and modern frontend toolchain usage) are not evidenced in the CV. This profile is a better fit for senior product/management roles rather than the hands-on Frontend Engineer role described.

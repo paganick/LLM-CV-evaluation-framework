@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience as a software developer but lacks the specific modern frontend skills required. The job description emphasizes React, TypeScript, and modern testing frameworks, while the candidate's experience is heavily centered on legacy .NET stack, AngularJS, and freelance web design with no mention of React, TypeScript, or the specific testing tools listed. While the cover letter attempts to align, the resume does not substantiate experience with the core technologies or frameworks specified.

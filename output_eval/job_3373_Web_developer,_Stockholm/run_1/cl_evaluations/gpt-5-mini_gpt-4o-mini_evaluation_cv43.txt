@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong collaboration, Agile experience, and a clear willingness to learn, but lacks hands-on experience in JavaScript/TypeScript, React, and modern front-end tooling required for this role. They also provide no evidence of practical experience with Git/GitHub, testing frameworks (Jest/Cypress), NodeJS/npm, CSS tooling, or CI/CD, so are not qualified for the position as currently presented.

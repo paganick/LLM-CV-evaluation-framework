@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a basic understanding of web development technologies (HTML, CSS, JavaScript) but lacks specific experience with modern FE frameworks like React, which is a key requirement. While they express a willingness to learn, the resume showcases IT management and general troubleshooting skills more prominently than frontend development expertise. The cover letter attempts to bridge this gap but doesn't provide concrete examples of relevant project experience using the required technologies.

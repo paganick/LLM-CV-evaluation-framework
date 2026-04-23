@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight experience in media planning and buying, with limited technical skills. While they mention some relevant technologies like HTML and CSS, the depth of knowledge and experience with modern FE frameworks (React, VueJS, Angular, Svelte), testing, and other required tools are not evident. The candidate is attempting an industry switch but lacks sufficient demonstrable experience in the specific technologies outlined in the job description.

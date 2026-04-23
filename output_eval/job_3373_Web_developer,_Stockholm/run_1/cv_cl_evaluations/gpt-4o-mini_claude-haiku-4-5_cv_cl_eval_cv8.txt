@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid technical background and experience in test automation, but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks such as React. While the cover letter indicates a willingness to learn, the specific skills required for the role are not demonstrated in the resume, making the candidate only a partial fit for the position.

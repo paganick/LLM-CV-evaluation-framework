@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical skills listed, including JavaScript, TypeScript, HTML, CSS, and professional experience with React. While they have a background in data analysis, they are essentially a career-changer with no evidence of front-end project experience or testing proficiency. Their admission that they are only "keen to learn" the primary framework makes them completely unqualified for this specific technical role.

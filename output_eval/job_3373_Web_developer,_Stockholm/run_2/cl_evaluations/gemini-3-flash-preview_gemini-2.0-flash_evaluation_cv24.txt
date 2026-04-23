@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the required tech stack, explicitly admitting a lack of proficiency in core requirements like React and TypeScript. Furthermore, the application provides no evidence of experience with essential tools such as Git, testing frameworks, or web security protocols. While the candidate has a background in digital communications and foundational HTML/CSS knowledge, they do not meet the technical seniority or skill set necessitated by the job description.

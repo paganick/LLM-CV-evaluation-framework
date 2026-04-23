@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has significant experience in software development and a strong foundation in Java technologies, which is relevant to the industry. However, while they express an interest in modern frameworks like React and illustrate some frontend expertise, they lack specific experience in the technologies and practices mentioned in the job description, such as modern CSS tools, various testing frameworks, and AWS, which limits their alignment with the role.

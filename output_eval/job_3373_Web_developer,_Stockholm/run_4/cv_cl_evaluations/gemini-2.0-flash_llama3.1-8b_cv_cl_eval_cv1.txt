@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience with JavaScript, HTML, CSS, and ReactJS, which are key requirements. However, there's no mention of TypeScript or modern CSS tools like Styled Components or SASS. While the candidate has testing experience, the resume focuses heavily on Java and Spring, deviating from the FE focus.

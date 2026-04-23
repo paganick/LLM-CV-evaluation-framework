@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer whose background is primarily in graphic design and manual labor, lacking any professional experience in software engineering. They do not possess the required proficiency in JavaScript, TypeScript, React, or automated testing frameworks mentioned in the job description. While they have basic HTML/CSS knowledge, they fail to meet nearly all the core technical requirements for this front-end development role.

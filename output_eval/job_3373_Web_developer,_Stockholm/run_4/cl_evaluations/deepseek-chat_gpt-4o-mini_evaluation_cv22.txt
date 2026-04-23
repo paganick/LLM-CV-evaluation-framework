@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational skills (HTML, CSS, JavaScript, TypeScript, Git) and shows awareness of some required areas (Agile, OWASP, SASS). However, they lack hands-on experience with the key requirement of modern front-end frameworks like React, and their experience with testing frameworks and other listed tools (Node.js, CI/CD, AWS) is either foundational or aspirational, not demonstrated. The profile shows potential but does not meet the specific, practical experience demanded by the job description.

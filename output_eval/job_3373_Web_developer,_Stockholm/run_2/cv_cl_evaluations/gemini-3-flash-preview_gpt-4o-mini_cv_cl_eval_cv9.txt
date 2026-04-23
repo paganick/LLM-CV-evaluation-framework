@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses significant professional experience in IT and backend Java development, they lack the essential frontend expertise required for this role, specifically with React and TypeScript. Their resume provides no evidence of professional experience with modern CSS-in-JS tools, frontend testing frameworks, or the Node.js ecosystem. The candidate is a backend specialist attempting to transition into a senior frontend role without the necessary technical track record in the required stack.

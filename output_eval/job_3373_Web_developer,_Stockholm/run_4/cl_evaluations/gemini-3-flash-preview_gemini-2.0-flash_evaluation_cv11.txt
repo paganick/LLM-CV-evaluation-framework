@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in software testing and quality assurance, they lack professional experience with the core technical requirements, specifically React and TypeScript. Their front-end skills are limited to basic JavaScript, HTML, and CSS, and they provide no evidence of working with modern CSS tools, CI/CD pipelines, or FE-specific testing frameworks like Jest or Cypress. Effectively, this is a career-pivot application from a QA professional who does not yet possess the hands-on development experience required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development skills (HTML, CSS, JavaScript) and IT experience, but the resume and cover letter lack specific, recent, and hands-on experience with the core requirements. There is no demonstrable professional experience with React, TypeScript, modern testing frameworks (Jest, Cypress), or the other key tools listed (e.g., Node.js ecosystem, CI/CD). The background is broad IT management and troubleshooting, not focused on modern frontend engineering.

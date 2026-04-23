@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a clear understanding of the required technical stack, including React, JavaScript/TypeScript, and testing frameworks, and directly addresses key soft skills like collaboration and Agile. However, the cover letter lacks specific, demonstrable project experience in frontend development, relying heavily on transferable skills from a different industry. The technical mentions are aspirational ("actively building," "committed to mastering") rather than proven, which is a significant gap for a hands-on engineering role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a solid technical background and Agile experience, the cover letter focuses heavily on ASP.NET MVC and C#, which are not primary requirements for the frontend role. The candidate expresses interest in learning React and TypeScript, but lacks demonstrable experience. The letter is somewhat generic and does not sufficiently highlight frontend-specific projects or achievements.

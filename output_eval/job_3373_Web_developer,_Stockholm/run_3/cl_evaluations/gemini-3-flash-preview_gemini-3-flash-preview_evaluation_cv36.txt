@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates strong technical alignment by addressing nearly every requirement in the job description, including specific tools like Ramda, Terraform, and CircleCI. However, the candidate failed to mention the required knowledge of web security protocols (OWASP, CSP) and possesses no professional experience in the software industry. While the transfer of precision from a microbiology background is well-articulated, a strict evaluation must prioritize candidates with proven professional tenure and complete technical coverage.

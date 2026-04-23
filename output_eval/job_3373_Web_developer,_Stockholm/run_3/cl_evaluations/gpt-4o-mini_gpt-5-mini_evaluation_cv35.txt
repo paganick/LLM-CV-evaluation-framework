@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has strong experience in marketing automation and integrations, they lack direct hands-on experience with front-end frameworks, particularly React, and the specific technologies mentioned in the job description. Although they express a willingness to learn and have relevant skills in QA and testing, they do not demonstrate adequate familiarity with modern development practices such as CI/CD, testing frameworks, and security concepts. This renders them only somewhat qualified for the role.

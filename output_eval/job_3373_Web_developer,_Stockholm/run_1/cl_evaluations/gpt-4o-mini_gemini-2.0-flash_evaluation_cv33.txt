@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a background in business banking and sales, which is outside the primary focus of front-end development. While they express a passion for clean code and demonstrate some relevant project management experience, they lack specific technical skills, such as practical experience with JavaScript, React, and testing frameworks, which are essential for the role. Their previous positions do not sufficiently align with the requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong backend Java experience and basic JavaScript/HTML knowledge with good practices around TDD/BDD, testing, OAuth, Git and Agile, which are partially relevant. However, there is no demonstrated hands‑on experience with React, TypeScript, modern CSS tools (Styled Components/SASS), frontend testing frameworks (Jest/Cypress/TestCafe), or Node/npm tooling required for this role. While transferable skills exist, the lack of core frontend framework and tooling experience means they do not meet the specific requirements for this position.

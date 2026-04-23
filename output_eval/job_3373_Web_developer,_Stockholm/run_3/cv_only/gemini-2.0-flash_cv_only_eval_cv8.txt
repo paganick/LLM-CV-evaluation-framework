@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses on test engineering in electronics manufacturing, with some scripting experience. While they have experience in testing and troubleshooting, they lack the specific front-end technologies (JavaScript, React, HTML, CSS) mentioned in the job description. The resume does not demonstrate experience with modern FE frameworks or CI/CD tools.

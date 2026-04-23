@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a solid foundation in computer science and software development but lacks direct experience with the modern front-end stack required, specifically React and TypeScript. Their front-end experience is centered on legacy technologies like AngularJS and jQuery, and their testing background is in performance benchmarking rather than modern front-end unit and E2E testing frameworks like Jest or Cypress. Overall, the profile is more aligned with Java back-end development than the specialized front-end engineering role described.

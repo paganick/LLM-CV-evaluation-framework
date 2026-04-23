@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in system administration, not front-end development, representing a career change. While they express familiarity with HTML, CSS, and JavaScript, the letter lacks concrete examples of projects or experience using these technologies in a development context. The job description emphasizes React and TypeScript, but the candidate's experience with React is only implied, and TypeScript is mentioned as something they are "keen to learn."

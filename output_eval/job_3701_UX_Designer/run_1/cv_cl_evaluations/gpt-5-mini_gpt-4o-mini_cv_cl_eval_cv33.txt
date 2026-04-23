@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned IT/MDM architect but the resume provides no verifiable UX design experience, portfolio, or examples of Figma/prototyping work. Core job requirements—user research, design system ownership, running UX workshops, and mentoring within a UX team—are not demonstrated; only incidental HTML/CSS/JS and Agile exposure are present. The cover letter asserts UX skills that are not supported by the CV, so overall the candidate lacks the specific, demonstrable UX experience required.

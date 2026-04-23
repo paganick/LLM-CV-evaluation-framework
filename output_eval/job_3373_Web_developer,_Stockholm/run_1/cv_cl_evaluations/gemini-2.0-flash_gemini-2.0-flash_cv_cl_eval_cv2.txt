@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, not the JavaScript/React stack specified in the job description. While they express a willingness to learn frontend technologies, they lack the hands-on experience with modern FE frameworks, testing frameworks, and CSS tools that are crucial for the role. Their experience in Agile and collaboration is relevant, but not enough to compensate for the lack of core skills.

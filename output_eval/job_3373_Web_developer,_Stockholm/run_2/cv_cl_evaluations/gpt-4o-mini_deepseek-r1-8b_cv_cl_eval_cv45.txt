@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in IT and some skills in web technologies like HTML, CSS, and JavaScript. However, they lack hands-on experience with modern frontend frameworks such as React, which is crucial for this position. Additionally, their focus seems more aligned with backend and systems analysis rather than frontend development and design, which diminishes their overall fit for the role.

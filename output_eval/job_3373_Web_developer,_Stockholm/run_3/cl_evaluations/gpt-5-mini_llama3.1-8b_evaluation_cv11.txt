@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid QA background (manual and automation testing, JavaScript/HTML/CSS, Selenium, ISTQB, Agile) which is relevant to the role. However they provide no evidence of key required skills such as React or TypeScript, modern frontend testing frameworks (Jest/Cypress/TestCafe), Git/GitHub experience, Node/npm/Yarn or modern CSS tooling, nor basic web security or CI/CD knowledge. Given multiple core front-end and toolchain gaps, they are a partial but not strong match for this position.

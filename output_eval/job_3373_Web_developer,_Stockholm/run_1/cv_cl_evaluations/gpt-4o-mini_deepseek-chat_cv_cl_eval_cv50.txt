@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development and program management rather than a direct focus on front-end development. While they possess a Bachelor of Science in Computer Science and mention experience with JavaScript and React, they lack hands-on experience with modern frameworks and testing automation, which are crucial for the role. Their skills may be relevant to the technology industry, but they do not meet the specific requirements for the Front End Developer position.

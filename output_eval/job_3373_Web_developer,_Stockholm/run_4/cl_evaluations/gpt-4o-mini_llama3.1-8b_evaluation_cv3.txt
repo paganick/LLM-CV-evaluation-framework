@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development and relevant programming skills but lacks hands-on experience with some crucial technologies mentioned in the job description, such as TypeScript and modern front-end frameworks like React. Additionally, the cover letter does not address experience with testing and automation frameworks, Git, or knowledge of web security, which are also important for the role.

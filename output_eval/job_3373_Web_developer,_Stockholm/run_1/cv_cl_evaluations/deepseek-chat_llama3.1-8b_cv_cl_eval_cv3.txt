@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in construction, not software development, making them a wrong industry fit. While they have an IT degree and mention foundational web technologies, they lack any professional experience or demonstrated skills in the specific requirements: React, TypeScript, modern testing frameworks, Git, security concepts, and the other listed tools. Their experience is outdated (e.g., Flash, ASP.NET) and not aligned with the modern tech stack.

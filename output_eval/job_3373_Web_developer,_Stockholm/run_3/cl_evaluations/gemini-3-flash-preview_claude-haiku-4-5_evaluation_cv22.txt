@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks hands-on experience with nearly all the core technical requirements, including React, TypeScript, Git, and automated testing frameworks. While they possess a relevant academic background and strong soft skills, their admission of needing to "rapidly acquire" fundamental skills listed as requirements makes them underqualified for this specific role. The profile aligns more with an internship or entry-level training position rather than the developer role described.

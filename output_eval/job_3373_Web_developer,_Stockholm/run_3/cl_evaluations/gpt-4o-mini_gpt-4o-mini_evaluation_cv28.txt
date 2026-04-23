@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background and an understanding of front-end technologies, but lacks hands-on experience with JavaScript frameworks and testing frameworks as specified in the job description. While they convey a willingness to learn and grow in the role, the absence of direct experience with key tools and languages such as TypeScript and NodeJS limits their suitability for the position.

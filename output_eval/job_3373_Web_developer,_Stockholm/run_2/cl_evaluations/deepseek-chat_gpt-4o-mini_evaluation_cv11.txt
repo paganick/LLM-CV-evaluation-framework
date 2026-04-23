@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required technologies (JavaScript, Git, Agile, Jest). However, the cover letter is heavily skewed towards a software testing background, with limited evidence of hands-on frontend development using modern frameworks like React. Key requirements such as TypeScript, modern CSS tools (Styled Components), and specific testing frameworks (Cypress, TestCafe) are not explicitly addressed, indicating a significant skills gap for a Frontend Developer role.

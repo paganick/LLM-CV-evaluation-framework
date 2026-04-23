@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills like HTML and CSS, but lacks experience with JavaScript, React, and testing frameworks mentioned in the job description. The resume focuses heavily on design roles rather than front-end development. While the cover letter expresses interest in learning new technologies, the current skillset does not align well with the job requirements.

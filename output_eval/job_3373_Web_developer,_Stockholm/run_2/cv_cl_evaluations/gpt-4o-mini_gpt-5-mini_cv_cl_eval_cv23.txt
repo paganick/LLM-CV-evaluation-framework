@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in engineering and testing, which provides a relevant foundation, but lacks significant experience in frontend technologies such as JavaScript frameworks (React specifically), CSS tools, and the modern frontend ecosystem. While they express enthusiasm for learning, their current skill set does not meet the specific requirements outlined in the job description.

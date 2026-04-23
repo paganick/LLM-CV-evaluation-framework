@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the mandatory tech stack, including JavaScript, TypeScript, and React, and explicitly states they are only "keen to learn" these core skills. While they demonstrate proficiency in Git and Agile workflows, they offer no evidence of competency in web security, frontend testing frameworks, or modern CSS tools. Consequently, the profile represents a significant skill gap for a role requiring an established frontend engineering background.

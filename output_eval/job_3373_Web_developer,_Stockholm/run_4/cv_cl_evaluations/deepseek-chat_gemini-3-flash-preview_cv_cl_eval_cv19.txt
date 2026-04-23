@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and electrical work, which is not the relevant industry for a modern frontend developer role. The resume and cover letter show only basic HTML/CSS knowledge and no experience with JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. While the candidate expresses eagerness to learn, they lack the specific, hands-on technical experience required for the position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience, including modern web development, security awareness, Agile collaboration, and a clear interest in the tech stack. However, the cover letter lacks explicit, direct mention of key requirements like TypeScript, modern testing frameworks (Jest, Cypress), and specific CSS tools (Styled Components). The experience is primarily in C#/ASP.NET and jQuery, requiring a stated transition to the React/Node.js stack.

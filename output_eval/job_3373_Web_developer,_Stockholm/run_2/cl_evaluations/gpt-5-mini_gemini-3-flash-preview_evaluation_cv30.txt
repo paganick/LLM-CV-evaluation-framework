@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates strong analytical background, experience with backend/.NET, databases, QA and a testing mindset, they do not provide concrete, hands-on experience with JavaScript, TypeScript, or React — technologies listed as core requirements. Claims of familiarity with tools like SASS, Ramda, Jest/Cypress and AWS are vague and framed as eagerness rather than proven outcomes, so they are a relevant industry candidate but lack the specific front-end and Node ecosystem experience required for this role.

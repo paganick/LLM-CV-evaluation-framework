@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and cybersecurity, demonstrating analytical skills and an understanding of security fundamentals, which can be advantageous in frontend development. However, the lack of hands-on experience with the specific tools and frameworks mentioned in the job description, such as React, modern CSS tools, and testing frameworks, limits their immediate suitability for the role.

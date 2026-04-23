@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses a solid foundation in the required technical skills including JavaScript, TypeScript, HTML, CSS, and React. They also have experience with testing frameworks and tools like Jest and Cypress, and demonstrate strong collaboration skills in Agile environments. However, the cover letter does not mention any familiarity with security fundamentals or CI/CD tools, which are also part of the job description, preventing a perfect score.

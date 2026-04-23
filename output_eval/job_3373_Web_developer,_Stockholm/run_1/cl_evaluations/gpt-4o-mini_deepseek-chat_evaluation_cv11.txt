@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software testing and quality assurance but lacks direct experience with modern front-end frameworks such as React, which is a critical requirement for the position. They do show enthusiasm for learning and have transferable skills in JavaScript, HTML, and testing frameworks, making them a strong candidate but not a perfect match. Their background aligns well with the collaboration and Agile environment needs, but gaps in knowledge of some specific technologies mentioned are present.

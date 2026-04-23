@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational web skills (HTML, CSS, JavaScript) and strong transferable traits (work ethic, attention to detail, Agile experience), but lacks direct experience with the key technologies listed in the job posting (React, TypeScript, testing/test automation, NodeJS/npm, modern CSS tooling, linters, CI/CD, security practices, and Git). Their background indicates potential and willingness to learn, but does not meet the specific technical requirements for a role expecting hands‑on experience with the modern frontend ecosystem.

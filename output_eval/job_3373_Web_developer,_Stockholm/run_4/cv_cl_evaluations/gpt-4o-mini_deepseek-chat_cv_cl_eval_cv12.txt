@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development but lacks specific hands-on experience with React, a critical requirement of the job. While they have a foundation in JavaScript, HTML, and CSS along with some knowledge of SASS, their lack of direct experience with modern front-end frameworks, testing automation tools, and the NodeJS ecosystem indicates they fall short of the ideal match for the role. However, their background in full-stack development provides some relevant skills that could be built upon.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates general programming foundations (HTML, C/C++), strong business and cross-functional experience, and familiarity with Git and basic web security. However, they explicitly lack hands-on experience with core requirements—JavaScript/TypeScript, React, modern CSS tooling (Styled Components/SASS), testing frameworks (Jest/Cypress), Node ecosystem, and CI/CD/AWS—and only express willingness to learn. This gap makes them a weak match for a front-end role that expects immediate, practical expertise.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in graphic design but lacks specific experience in front-end development, particularly with JavaScript, TypeScript, and modern frameworks like React. While they express an interest in expanding their technical skills, the resume does not demonstrate hands-on experience with the required technologies or testing automation. Overall, they are in a relevant industry but do not meet the necessary qualifications for the role.

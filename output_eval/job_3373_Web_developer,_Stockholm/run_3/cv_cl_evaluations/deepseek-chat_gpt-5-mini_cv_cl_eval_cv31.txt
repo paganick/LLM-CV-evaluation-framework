@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales and management, not software engineering. While they mention basic HTML and a desire to learn, they demonstrate no professional experience with the required technologies (React, TypeScript, testing frameworks, Git, etc.) or methodologies (Agile development, CI/CD). This is a career transition attempt with no evidence of the technical skills listed in the job description.

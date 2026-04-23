@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analysis, environmental science, and engineering, with no demonstrated professional experience in modern front-end development using React or similar frameworks. The resume and cover letter mention only basic, outdated web technologies (ASP.NET, HTML) and lack evidence for the required skills in TypeScript, testing automation, modern CSS tools, and the Node.js ecosystem. This is a significant industry and role mismatch for a Front-End Developer position.

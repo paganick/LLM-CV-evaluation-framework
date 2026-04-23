@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant academic background and foundational web skills (HTML, CSS, JavaScript), but severely lacks the specific, hands-on experience required by the job description. There is no demonstrated experience with React, TypeScript, modern testing frameworks, Git, security concepts, or any of the other listed modern tools and practices. The candidate is seeking an entry-level role, while the job description implies a need for practical, production-level experience.

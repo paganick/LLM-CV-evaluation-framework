@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant experience in the software industry, they lack direct experience with frontend technologies essential to the role, such as JavaScript, TypeScript, and modern frameworks like React. Their background is more focused on business development and technical sales rather than hands-on coding or frontend development. Additionally, there is no mention of key skills like testing frameworks or CSS tools, which are crucial for this position.

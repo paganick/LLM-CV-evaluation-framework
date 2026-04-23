@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant IT background and fundamental knowledge of JavaScript and TypeScript, they explicitly admit that their experience with React— the primary framework required—is still evolving. The letter fails to demonstrate hands-on experience with the specified testing frameworks (Jest, Cypress), web security protocols (OWASP, CORS), or modern CSS tools (SASS, Styled Components). Consequently, the candidate lacks the specific professional expertise and technical depth required for this specialized front-end role.

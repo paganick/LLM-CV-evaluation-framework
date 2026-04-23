@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has extensive IT and web design experience and basic JavaScript/HTML/CSS skills, but the resume lacks demonstrable experience with React, TypeScript, modern frontend frameworks, frontend testing/automation, Node.js tooling, and CI/CD/AWS — all stated requirements. The cover letter's claims of quick learning and familiarity are not substantiated by concrete, recent frontend project experience. Given relevant industry background but missing critical frontend-specific skills, this is a borderline fit.

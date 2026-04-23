@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate lacks demonstrated hands-on experience with React, TypeScript, modern CSS tooling (Styled Components/SASS), and front-end testing frameworks (Jest/Cypress), which are core requirements for this role. There is no evidence of Git/GitHub workflow, web security knowledge (OWASP/CSP/CORS/OAuth), or involvement with NodeJS/npm, CI/CD, or relevant frontend ecosystems. While the candidate shows strong validation/testing discipline and embedded/software troubleshooting skills, those strengths do not compensate for the missing essential front-end skills.

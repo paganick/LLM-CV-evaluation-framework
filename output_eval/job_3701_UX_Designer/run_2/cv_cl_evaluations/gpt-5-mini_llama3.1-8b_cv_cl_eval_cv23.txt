@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrated commercial UX design experience (required 2-3 years) and the resume contains no UX roles, portfolio, or examples of prototyping or user research. There is no evidence of working in an Agile software development environment or managing a UI design system, and the Figma/HTML/CSS/JS claims in the cover letter are unsupported by the CV. While strong in operations and process improvement, these transferable skills do not meet the core UX requirements for this role.

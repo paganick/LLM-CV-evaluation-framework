@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has relevant web development experience (JavaScript, HTML/CSS, Node.js, Git) and mentions basic security and some testing exposure, but their materials do not demonstrate hands-on experience with React or TypeScript, modern CSS tooling (Styled Components/SASS), comprehensive test automation, CI/CD, or cloud/infra (AWS/Terraform). They lack clear evidence of the specific frontend framework and tooling required for this role, so they are a partial fit who would need significant upskilling.

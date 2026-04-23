@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in web development, their expertise is heavily focused on Drupal and PHP rather than the modern React and TypeScript stack required for this role. There is no documented professional experience with modern frontend libraries, functional programming (Ramda), or specific testing frameworks like Jest or Cypress. Consequently, the candidate lacks the core technical competencies and specific toolset experience necessary to meet the high standards of this position.

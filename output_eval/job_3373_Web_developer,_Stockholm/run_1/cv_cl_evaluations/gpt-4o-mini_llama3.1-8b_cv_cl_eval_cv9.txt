@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and possesses a strong background in Java and web technologies; however, they lack direct experience with modern front-end frameworks like React, which is critical for the position. While they have some familiarity with JavaScript and HTML, their focus has primarily been on back-end development and Java-related technologies, which may hinder their immediate effectiveness in a front-end role that prioritizes React and related tools.

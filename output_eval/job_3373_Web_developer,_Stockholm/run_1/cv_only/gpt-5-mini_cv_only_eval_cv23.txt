@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics and lab testing with only a brief, ambiguous mention of "Java script" and no demonstrated experience with HTML, CSS, TypeScript, or modern frontend frameworks such as React. There is no evidence of hands-on experience with frontend testing frameworks, NodeJS/npm, CI/CD, linters, or web security practices required by the role. While the candidate shows general testing and troubleshooting skills, they do not meet the specific frontend engineering qualifications needed for this position.

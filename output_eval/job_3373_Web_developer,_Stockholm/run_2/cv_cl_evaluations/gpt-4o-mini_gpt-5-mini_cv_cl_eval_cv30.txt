@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in data analysis and testing, but lacks hands-on experience with key front-end technologies specified in the job description, such as JavaScript, TypeScript, and modern frameworks like React. Additionally, while they demonstrate an understanding of quality control and collaborative work, their technical skills do not align closely enough with the specific requirements of the role.

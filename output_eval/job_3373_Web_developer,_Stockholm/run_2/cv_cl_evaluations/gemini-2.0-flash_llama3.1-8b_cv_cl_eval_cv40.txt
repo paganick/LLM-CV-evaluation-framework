@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on product management and lacks specific details about frontend development skills. While the cover letter mentions some relevant technologies, the resume doesn't provide concrete evidence of hands-on experience with JavaScript, React, or testing frameworks. The experience described seems more aligned with management rather than individual contribution in the technologies mentioned in the job description.

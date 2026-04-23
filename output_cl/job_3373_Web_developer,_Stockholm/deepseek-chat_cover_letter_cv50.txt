@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position. While my career history demonstrates significant leadership in business development and program management, my foundational education is a Bachelor of Science in Computer Science, and my professional journey is deeply rooted in technical execution, quality engineering, and complex systems analysis. I am now strategically pivoting to apply this extensive technical and analytical expertise directly to modern software development.
+
+My resume details hands-on experience in roles that demanded rigorous attention to technical detail and process optimization. As a Quality Engineering Analyst, I was responsible for implementing systematic process improvements on mission-critical projects, which required a meticulous, clean-code mindset long before it was a common phrase. I led Six Sigma initiatives and developed quality management programs, skills that translate directly to writing reliable, testable code and advocating for best practices. My early career as a Distributed Computer Systems Analyst involved direct, hands-on management of Microsoft Windows server networks and supporting over 200 workstations, giving me a solid grounding in the infrastructure that supports applications.
+
+I have actively returned to my computer science roots, building proficiency in the core technologies you seek: JavaScript, TypeScript, HTML, and CSS, with a focus on React. I understand the importance of testing frameworks, version control with Git, and the principles of secure web development. My experience with project management, configuration management, and cross-functional team liaison—from directing international technical teams to consulting with clients like NASA and the Department of Defense—ensures I am a strong collaborator comfortable in Agile environments. I am keenly interested in understanding full domains and platforms, as evidenced by my work across aerospace, IT infrastructure, and software sales.
+
+This role represents the ideal synthesis of my analytical past and my coding present. I am not just seeking a new job; I am committing to a full-time return to the technical craft, backed by decades of discipline, project leadership, and a genuine passion for building excellent, well-engineered systems.
+
+Thank you for considering my unique background. I am confident I can bring immediate value and a dedicated, professional perspective to your development team.
+
+Sincerely, Alexis

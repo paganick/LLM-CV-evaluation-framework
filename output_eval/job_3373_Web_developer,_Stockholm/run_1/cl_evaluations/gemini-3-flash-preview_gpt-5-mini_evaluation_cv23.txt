@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a solid engineering background and transferable testing discipline, they lack any professional experience with the required core technologies, specifically React, TypeScript, and modern CSS. The applicant admits to being in the learning phase for the primary tech stack and automated testing frameworks, failing to meet the "hands-on experience" requirement. Consequently, this profile is better suited for an entry-level validation role rather than a front-end engineering position.

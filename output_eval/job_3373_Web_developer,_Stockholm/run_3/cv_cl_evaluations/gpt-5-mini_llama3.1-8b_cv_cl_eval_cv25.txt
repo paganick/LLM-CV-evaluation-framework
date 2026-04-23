@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer with only superficial HTML/CSS experience and no demonstrated JavaScript/TypeScript, React, testing, Git, Node.js, or cloud/infra skills required for this front-end engineering role. While they claim transferable strengths and a willingness to learn, they lack the core technical competencies and hands-on experience the role requires. This makes them unsuitable for the position without significant training or proof of rapid upskilling.

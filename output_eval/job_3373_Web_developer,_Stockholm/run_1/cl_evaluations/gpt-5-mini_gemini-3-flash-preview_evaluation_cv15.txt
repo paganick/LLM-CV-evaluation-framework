@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid general web and IT experience (JavaScript, HTML5, CSS3, performance tuning, web security) and familiarity with modern CSS tools, but many required skills are presented as interests or goals rather than proven deliveries. They do not show explicit, hands-on experience with React, TypeScript, testing/test automation (Jest/Cypress/TestCafe), CI/CD pipelines, or clear Git/repo workflow experience. Relevant background but lacking the specific modern frontend and automation expertise this role requires.

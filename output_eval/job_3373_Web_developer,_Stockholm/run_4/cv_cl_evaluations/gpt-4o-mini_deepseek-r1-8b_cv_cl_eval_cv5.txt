@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe development and a solid banking background, which is relevant. However, they lack specific experience with JavaScript frameworks like React, testing automation practices, and modern web technologies, which are crucial for this role. Their willingness to learn is noted, but it does not compensate for the lack of current expertise required for the position.

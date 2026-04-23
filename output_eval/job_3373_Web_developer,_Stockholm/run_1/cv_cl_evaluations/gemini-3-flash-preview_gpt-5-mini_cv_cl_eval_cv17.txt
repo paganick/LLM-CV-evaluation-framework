@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Civil Engineer with zero professional experience in software development, React, or the associated tech stack required for this role. While they possess extensive project management experience in the construction and oil industries, they lack the fundamental technical skills, such as JavaScript, TypeScript, and automated testing, necessary to perform the job. Consequently, this is a complete industry mismatch and the candidate is entirely unqualified for a front-end engineering position.

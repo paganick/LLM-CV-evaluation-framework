@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and some web development experience, including HTML and CSS. However, they lack demonstrated proficiency in key areas such as JavaScript, modern front-end frameworks, testing frameworks, and CI/CD tools, which are essential for the role. Their experience with design does not fully align with the technical requirements of the position, resulting in a gap in relevant skills.

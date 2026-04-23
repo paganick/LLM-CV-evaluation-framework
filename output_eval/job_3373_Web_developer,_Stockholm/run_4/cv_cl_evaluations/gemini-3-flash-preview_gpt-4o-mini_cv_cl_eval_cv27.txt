@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in administrative management and the arts, with no documented professional experience or technical training in software engineering. While the cover letter mentions familiarity with modern tools like React and Jest, the resume provides no evidence of these skills or the required proficiency in JavaScript, TypeScript, and web security. The candidate is transitioning from a completely different industry and does not meet the technical requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks professional proficiency in TypeScript, a primary requirement, and relies on an outdated frontend toolchain including Grunt and Bower. While they have extensive testing experience, it is heavily Java-centric (Selenium/Spring Boot) rather than the modern JavaScript-based frameworks like Jest or Cypress specified in the job description. Furthermore, the application fails to demonstrate necessary experience with functional programming or the specific web security standards requested.

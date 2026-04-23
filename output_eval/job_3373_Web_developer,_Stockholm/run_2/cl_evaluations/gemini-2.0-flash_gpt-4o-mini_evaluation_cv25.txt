@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and marketing, not front-end development. While they express interest in learning and possess basic HTML/CSS skills, they lack the required hands-on experience with JavaScript frameworks like React, testing frameworks, and other core front-end technologies mentioned in the job description. The letter focuses heavily on transferable skills rather than demonstrable technical abilities.

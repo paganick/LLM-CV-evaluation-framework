@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience (React, Jest, Node/npm/Yarn, Styled Components/SASS, Ramda, CircleCI, API design, AWS/Terraform familiarity) and fits the Agile/collaboration aspects. However, they do not explicitly state TypeScript experience, Git/repo hosting familiarity, or basic web security knowledge (OWASP/CSP/CORS/OAuth) and provide limited evidence of E2E/integration testing tools. These gaps prevent a higher score despite a solid overall match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis, which is not the primary focus of the job. While the candidate highlights transferable skills, there's a lack of direct experience with key technologies like TypeScript, HTML, CSS, and React besides a general interest in React. The candidate mentions knowledge of Git and Agile environments, but lacks depth and experience in other areas listed in the job description.

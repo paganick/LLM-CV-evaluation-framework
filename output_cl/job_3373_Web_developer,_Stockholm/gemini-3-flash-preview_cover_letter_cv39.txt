@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. With over 34 years of professional experience as a Product and Web Designer, I bring a unique blend of deep artistic foundation and technical execution. My career has been defined by a commitment to thinking outside the box and delivering high-quality visual expressions across both print and digital platforms.
+
+Throughout my tenure as a Web Designer, I have translated complex PSDs into launch-ready pixel-perfect formats, ensuring site appearance remains consistent with corporate brand standards. I possess hands-on experience with HTML and CSS, and I am proficient in the Adobe Creative Suite, including Dreamweaver and Illustrator. My experience managing large e-commerce websites has given me a solid understanding of web maintenance and the necessity of building user-friendly interfaces that drive engagement.
+
+I am particularly drawn to your team's use of React and modern development workflows. While my background is rooted in visual design, my recent evolution has been focused on mastering the modern frontend stack, including JavaScript, TypeScript, and React. I am a firm advocate for writing clean, maintainable code, a philosophy that mirrors my disciplined approach to fine art, where every line and value serves a specific purpose. I am eager to apply my understanding of modern CSS tools like Styled Components and SASS to create scalable, aesthetic web components.
+
+Collaboration is at the heart of my work ethic. Having worked extensively in diverse environments from large-scale tourism distribution to freelance projects and educational settings, I am comfortable interacting with cross-functional teams and external partners. I thrive in Agile environments where transparency and iterative improvement are prioritized. Furthermore, my background in teaching has honed my ability to explain complex concepts and listen to others' ideas, fostering an environment of mutual inspiration and innovation.
+
+I am a self-disciplined, resourceful researcher with a genuine passion for staying current with evolving technologies. Whether it is exploring API design or understanding the security principles of OWASP and OAuth, I approach every technical challenge with the same dedication that has sustained my 34-year career. I am excited to bring my design strategy, technical aptitude, and creative problem-solving skills to your development team.
+
+Sincerely,
+Alexis

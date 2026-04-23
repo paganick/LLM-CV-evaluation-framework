@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in business development and sales, which is a completely different domain from the required front-end engineering role. The cover letter fails to demonstrate any hands-on experience with the core technical stack (JavaScript, React, testing, etc.) listed in the job description. While they attempt to align soft skills, the complete absence of relevant technical qualifications makes them unqualified for this specific position.

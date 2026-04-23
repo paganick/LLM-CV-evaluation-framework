@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript and HTML in their skills and cover letter, but their experience is heavily focused on database administration and older technologies like Java and EJB. While they claim experience with testing frameworks and CI/CD, the resume lacks specific projects demonstrating these skills in a modern front-end context. Their skills are outdated for the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience with the required modern front-end stack, including React, TypeScript, and automated testing frameworks like Jest or Cypress. Their background is rooted in marketing automation and consultancy rather than software engineering, failing to demonstrate proficiency in CI/CD, functional programming, or cloud infrastructure. While the cover letter expresses interest in transitioning, the resume does not show the technical depth or hands-on development experience required for this specific role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in software engineering, coming instead from a background in marketing and legal administration. They do not demonstrate proficiency in the core technical requirements such as React, TypeScript, or Node.js, expressing only an interest in learning these technologies. Consequently, they are completely unqualified for a role requiring hands-on experience with testing frameworks, API design, and CI/CD tools.

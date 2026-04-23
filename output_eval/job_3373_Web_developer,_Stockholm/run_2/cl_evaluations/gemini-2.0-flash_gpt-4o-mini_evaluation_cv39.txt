@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant design and some front-end experience, they lack sufficient depth in key required technologies like React and testing frameworks. Their JavaScript and Node.js experience is described as foundational, which doesn't align with the job description's expectations. The letter highlights design skills more than the core front-end development requirements.

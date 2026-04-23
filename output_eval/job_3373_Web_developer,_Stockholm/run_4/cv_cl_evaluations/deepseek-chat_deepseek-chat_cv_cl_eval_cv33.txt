@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows no professional experience in software development, front-end technologies, or any relevant technical roles, placing them in the wrong industry. The cover letter claims self-taught skills but provides no verifiable projects, portfolio, or professional context to substantiate proficiency in the required technologies like React, TypeScript, or testing frameworks. The core qualifications from their banking career do not translate to the hands-on technical and collaborative development environment specified in the job description.

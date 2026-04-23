@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to nearly all technical and soft skill requirements, including React, testing, Git, Agile, and security knowledge. The letter is well-structured and professionally highlights relevant experience. It loses points for not explicitly mentioning TypeScript, functional programming/Ramda, or API design, which are specified in the job description.

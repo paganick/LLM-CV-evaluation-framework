@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant educational background and some practical experience in web development technologies but lacks specific experience with modern frameworks and testing tools mentioned in the job description. While there are transferable skills from the construction industry, the limited direct experience in JavaScript, TypeScript, React, and testing frameworks reduces their overall fit for the position.

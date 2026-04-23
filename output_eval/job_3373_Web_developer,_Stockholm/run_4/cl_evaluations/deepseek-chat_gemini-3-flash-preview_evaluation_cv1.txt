@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the core technical requirements, including React, testing automation, modern CSS, Node/npm, functional programming with Ramda, and security knowledge. The cover letter effectively connects their full-stack and test automation background to the role's needs. The score is not a 9 because the letter does not explicitly mention several "nice-to-have" tools from the job description, such as TypeScript, specific CI/CD tools (CircleCI), linters (ESlint/Prettier), or API design.

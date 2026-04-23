@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a career-changer from the civil engineering and construction industry with no professional experience in software development. They fail to meet any of the mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and automated testing frameworks. While they possess strong project management skills, they lack the foundational engineering background required for a front-end developer role.

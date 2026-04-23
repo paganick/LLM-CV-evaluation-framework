@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not a hands-on front-end developer. While they mention JavaScript, HTML, CSS, and Angular, the job description requires deep, current expertise in React and modern tooling (testing, linters, functional programming), which the candidate lacks. Their project management and agile experience are relevant to the collaborative aspects, but they do not meet the core technical requirements for the developer role.

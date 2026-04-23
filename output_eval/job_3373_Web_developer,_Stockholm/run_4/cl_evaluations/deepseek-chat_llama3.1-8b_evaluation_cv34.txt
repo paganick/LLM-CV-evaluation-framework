@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and mentions several required technical skills like React, Git, and security concepts. However, the cover letter is heavily weighted towards email platform implementation and project management, with insufficient detail on the core front-end technologies, testing frameworks, and modern toolchain (e.g., TypeScript, testing libraries, CI/CD, Node.js) specified in the job description. The alignment is partial but lacks the depth and focus required for a strong match.

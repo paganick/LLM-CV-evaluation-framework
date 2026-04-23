@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in finance operations, lacking direct experience in front-end development and modern web technologies. While they express a keen interest in JavaScript, TypeScript, HTML, and React, the resume does not provide evidence of hands-on experience with these technologies or modern frameworks. Additionally, their knowledge of testing frameworks and CI/CD tools seems limited, making them a relevant candidate but not a strong fit for the position.

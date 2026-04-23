@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only basic HTML/CSS experience, which is relevant but insufficient. The cover letter fails to demonstrate any required technical skills like JavaScript, React, testing, Git, or modern tooling mentioned in the job description. While showing adaptability and a willingness to learn, the candidate lacks the specific, hands-on development experience required for the role.

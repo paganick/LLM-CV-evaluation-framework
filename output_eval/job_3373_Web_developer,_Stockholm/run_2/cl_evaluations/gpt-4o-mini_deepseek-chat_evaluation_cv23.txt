@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in a technical role and demonstrates familiarity with essential skills, such as JavaScript and testing frameworks. However, they lack specific experience with modern front-end frameworks like React, knowledge of TypeScript, and familiarity with the tools and practices listed in the job description, which limits their suitability for this position.

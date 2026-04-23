@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications and some foundational knowledge in HTML, CSS, and Git, which aligns with the industry. However, they lack hands-on experience with JavaScript frameworks, testing automation, and the specific technologies listed in the job description, limiting their suitability for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a broad IT background with foundational web skills (HTML, CSS, JavaScript) and demonstrates problem-solving ability. However, they lack direct, recent experience with the core requirements: modern React, TypeScript, testing frameworks, and the specific toolchain (e.g., Jest, Cypress, Styled Components, CI/CD). Their experience is dated and leans heavily towards IT support and systems administration, not modern front-end development.

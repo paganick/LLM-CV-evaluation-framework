@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong visual/front-end design skills, solid HTML/CSS/SASS experience, and familiarity with linters and Agile collaboration, which are relevant to the role. However, they do not demonstrate required core technical competencies: no explicit experience with React or TypeScript, only a working understanding of JavaScript, limited testing and test-automation experience, no mention of Git/GitHub, web security knowledge, or key ecosystem tools (Ramda, CI/CD, full Node.js experience), so they fall short of the specific technical requirements.

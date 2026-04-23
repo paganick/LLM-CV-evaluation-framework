@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in operations and has led technical initiatives that align with some aspects of the frontend development role. However, they do not demonstrate specific experience with key technologies required, such as JavaScript, TypeScript, modern frontend frameworks like React, or testing frameworks like Jest or TestCafe. Overall, while relevant, the candidate lacks the direct technical skills and experience critical for the position.

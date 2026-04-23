@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT support and infrastructure but lacks direct hands-on experience in front-end development with React and modern JS frameworks, as well as familiarity with specific tools and practices outlined in the job description. While they demonstrate a willingness to learn and have some transferable skills, they do not meet several key technical requirements for the role.

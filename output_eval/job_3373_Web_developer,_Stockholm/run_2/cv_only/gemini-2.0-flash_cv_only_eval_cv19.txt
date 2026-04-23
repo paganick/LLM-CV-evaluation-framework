@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's experience is primarily in graphic design, which is not the focus of the job description. While they list HTML/CSS skills, there's no mention of JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), testing, or backend technologies. The resume does not align with the core requirements of a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate fails to meet any of the mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and automated testing frameworks. Their background is exclusively in business development and sales, representing a total lack of the engineering expertise necessitated by the job description. Transferable leadership skills cannot substitute for the essential software development competencies and domain knowledge required for this role.

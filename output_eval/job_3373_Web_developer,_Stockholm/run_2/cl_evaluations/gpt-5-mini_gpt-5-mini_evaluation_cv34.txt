@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant digital implementation, HTML/CSS, testing/UAT, and strong documentation and client-facing skills, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, modern testing frameworks and automation, Git/GitHub workflows, Node.js/npm, and other listed front-end tooling and security knowledge. Given the role's emphasis on modern front-end engineering, automated testing, and the Node/React ecosystem, the profile does not meet the key technical qualifications required for a strong match.

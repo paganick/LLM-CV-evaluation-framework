@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in information technology and systems engineering but lacks direct experience with key front-end technologies such as JavaScript, TypeScript, modern frameworks like React, or knowledge of CSS preprocessors. While they demonstrate skills in automation and problem-solving, their resume does not provide specific examples related to front-end development, testing frameworks, or collaborating in Agile environments. Overall, they are relevant to the industry but do not meet the specific skills required for the position.

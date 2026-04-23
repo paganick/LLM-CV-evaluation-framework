@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a design background with some HTML and CSS experience but lacks the necessary JavaScript, TypeScript, and modern FE framework experience (React, VueJS, Angular, Svelte) for the role. While they express willingness to learn, the resume doesn't demonstrate practical experience in the core technologies listed in the job description. The cover letter attempts to bridge the gap, but the lack of concrete examples is a significant drawback.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match with over five years of experience and direct expertise in React, Node.js, and API design. They explicitly address security standards and testing methodologies, which are key requirements; however, they fail to mention TypeScript or specific modern CSS tools like Styled Components or SASS. While the profile is highly relevant, the omission of these specific technologies prevents a perfect score under strict evaluation.

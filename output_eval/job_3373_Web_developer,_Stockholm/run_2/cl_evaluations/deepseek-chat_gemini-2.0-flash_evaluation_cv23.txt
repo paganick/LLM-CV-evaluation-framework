@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics testing, not professional frontend development. While they mention JavaScript and an eagerness to learn React, they lack demonstrable hands-on experience with the core technologies listed (e.g., TypeScript, modern React, CSS tools, testing frameworks). Their testing experience is in hardware/embedded software, not the web-based test automation required for the role.

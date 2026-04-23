@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in Java/JEE and experience in Test-Driven Development and clean coding practices, which are relevant. However, they lack specific experience with modern frontend frameworks like React, as well as TypeScript and the requisite testing frameworks mentioned in the job description. While there is a foundational knowledge of JavaScript and Git, the overall fit for the frontend-focused role remains moderately lacking.

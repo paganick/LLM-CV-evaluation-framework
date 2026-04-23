@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong design background, collaboration skills, and a history of learning complex tools, which are partially relevant. However they lack demonstrated production experience in core requirements (JavaScript/TypeScript, React, modern CSS, testing, Git, Node ecosystem, CI/CD, and web security). Their examples rely on outdated tools (Dreamweaver/Flash) and contain no evidence of hands-on projects, tests, or repos showing proficiency. This profile suggests potential but not readiness for the role as described.

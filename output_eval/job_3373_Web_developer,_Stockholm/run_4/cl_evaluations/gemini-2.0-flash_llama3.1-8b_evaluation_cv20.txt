@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses many of the required technical skills, especially with React, testing tools, and modern CSS. They also demonstrate experience in Agile environments and collaboration. While they mention Ruby (which the company is moving away from), their overall skillset aligns well with the job description.

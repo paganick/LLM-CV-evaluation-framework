@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong design/engineering and CAD background with Adobe skills and a portfolio, which is relevant to the role. However, the cover letter does not demonstrate explicit UI/UX experience or a UI/UX job history, does not list required wireframing tools (e.g., InVision, Wireframe.cc) and relies on CAD tools (AutoCAD, ESRI) that do not equate to UI prototyping. Education is not stated and examples of UI-specific deliverables (menus, widgets, interactive prototypes) are missing, so they lack several key, role-specific qualifications.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in hardware test engineering, not professional front-end software development. While the cover letter claims self-taught skills in JavaScript, React, and testing, the resume provides no evidence of commercial experience with the required technologies (React, TypeScript, modern CSS tools, Jest/Cypress). The core expertise is misaligned with the job's focus on building and testing web applications.

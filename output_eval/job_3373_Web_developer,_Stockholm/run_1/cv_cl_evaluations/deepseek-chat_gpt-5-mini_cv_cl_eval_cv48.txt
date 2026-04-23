@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT infrastructure, hardware support, and field service, with no demonstrated professional experience in front-end development, JavaScript, React, or any other technologies listed in the job description. While they express motivation to learn, they lack the required hands-on experience with modern FE frameworks, testing, Git, and the specific technical stack. This is a severe skills mismatch for a front-end engineering role.

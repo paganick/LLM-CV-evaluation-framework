@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in C#/.NET backend development with limited, non-professional exposure to the core frontend stack (React, TypeScript, modern CSS). While they list JavaScript/HTML/CSS, there is no evidence of professional experience with React, testing frameworks, or the specific tools mentioned in the job description. Their background is relevant to software development but lacks the specific frontend and modern tooling expertise required for this role.

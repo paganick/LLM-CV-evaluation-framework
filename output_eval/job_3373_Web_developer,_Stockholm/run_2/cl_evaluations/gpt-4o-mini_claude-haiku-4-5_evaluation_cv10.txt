@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and proficiency in core technologies like JavaScript, HTML, and CSS. However, they lack specific experience with React, which is central to the job description, and do not mention expertise in the required modern CSS tools or familiarity with CI/CD practices, which indicates some gaps in the qualifications sought.

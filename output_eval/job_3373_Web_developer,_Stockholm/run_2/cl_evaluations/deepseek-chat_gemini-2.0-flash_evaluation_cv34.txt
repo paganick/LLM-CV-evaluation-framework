@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant but lacks the core technical experience required. They mention foundational web skills but have no demonstrable hands-on experience with JavaScript frameworks (especially React), testing, version control, or the other specific technologies listed. While their soft skills and eagerness to learn are positive, they do not meet the essential technical qualifications for the role.

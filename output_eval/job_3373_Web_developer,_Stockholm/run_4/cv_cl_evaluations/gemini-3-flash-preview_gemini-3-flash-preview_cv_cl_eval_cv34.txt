@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience with the required JavaScript frameworks, TypeScript, or modern front-end testing suites such as Jest or Cypress. Their background is focused on marketing automation and implementation consulting rather than software engineering, failing to meet the core technical requirements for this developer role. There is no evidence of experience with CI/CD, AWS, or modern CSS-in-JS tools beyond basic HTML and CSS.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in media planning and buying, lacking direct experience with the required frontend technologies like JavaScript, TypeScript, or React. While they express interest and foundational knowledge in HTML, CSS, SQL and Java, these are not sufficient for a frontend developer role focused on modern frameworks. The resume highlights database projects and ERP implementation which are not directly relevant to the job description.

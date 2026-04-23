@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's core expertise is in Java/JEE backend development, not modern frontend frameworks like React. The resume and cover letter show minimal, non-professional experience with the required JavaScript ecosystem, testing tools, and specific technologies like Node.js, AWS, or Terraform. While they have some tangential experience (e.g., Agile, Git, OAuth), they lack the primary, hands-on frontend development skills and recent experience demanded by the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in general IT support and management, not modern frontend software engineering. The resume and cover letter show no experience with React, TypeScript, modern testing frameworks, or any of the specific tools listed in the job description. While they mention basic web technologies, their experience is outdated and lacks the depth and specialization required for this role.

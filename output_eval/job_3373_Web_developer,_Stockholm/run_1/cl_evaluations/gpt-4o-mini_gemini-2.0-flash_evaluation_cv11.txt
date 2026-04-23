@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and front-end technologies but lacks direct experience with the requested modern front-end frameworks like React, VueJS, or Angular. While they show a willingness to learn, the lack of specific knowledge in security practices and modern CSS tools mentioned in the job description further diminishes their suitability for the role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development professional who lacks all the mandatory technical requirements, including professional experience with React, TypeScript, and front-end testing frameworks. Their background is exclusively in sales and marketing, with no documented history of software engineering or clean code implementation. They do not possess the hands-on coding expertise required to fulfill the responsibilities of this technical role.

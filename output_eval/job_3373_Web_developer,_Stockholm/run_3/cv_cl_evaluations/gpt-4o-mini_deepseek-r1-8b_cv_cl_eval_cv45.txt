@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in IT and cybersecurity, with experience in systems analysis and software development. However, they lack specific frontend development experience and proficiency in frameworks like React, as well as the modern frontend testing frameworks mentioned in the job description. Their cover letter demonstrates a willingness to learn and adapt but does not provide assurance of direct expertise in the required technologies.

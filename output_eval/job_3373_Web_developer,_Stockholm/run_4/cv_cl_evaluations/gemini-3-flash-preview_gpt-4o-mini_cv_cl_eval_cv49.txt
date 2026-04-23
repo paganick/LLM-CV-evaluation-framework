@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with no professional experience or demonstrated technical proficiency in the required frontend stack, specifically JavaScript, TypeScript, React, and modern CSS tools. Their background is strictly limited to industrial engineering and statistical data analysis (R, SAS, Python), which lacks the foundational software engineering skills requested. Furthermore, the candidate does not possess experience with the specified testing frameworks, web security protocols, or CI/CD pipelines essential for this role.

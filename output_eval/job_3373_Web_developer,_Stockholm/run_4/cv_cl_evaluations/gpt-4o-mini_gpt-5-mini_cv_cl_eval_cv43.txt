@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program design and project management, but lacks direct experience with JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. Their technical skills seem concentrated in R rather than front-end development, and they do not demonstrate hands-on experience with relevant testing frameworks or CI/CD tools. While they show a strong collaborative mindset and experience in stakeholder engagement, they do not fulfill the core technical requirements for the role.

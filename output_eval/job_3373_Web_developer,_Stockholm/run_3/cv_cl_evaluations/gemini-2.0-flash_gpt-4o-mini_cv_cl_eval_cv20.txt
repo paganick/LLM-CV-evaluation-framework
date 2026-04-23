@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates familiarity with relevant technologies like JavaScript, HTML, CSS, and React, but their experience is largely within the .NET ecosystem. While they mention Git and some security concepts, they lack depth in modern FE frameworks and specific testing frameworks outlined in the job description. The resume highlights database programming more than front-end development, making the fit not ideal.

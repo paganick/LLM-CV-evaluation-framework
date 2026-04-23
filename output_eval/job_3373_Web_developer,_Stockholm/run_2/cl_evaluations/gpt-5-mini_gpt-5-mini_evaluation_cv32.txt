@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any demonstrable hands‑on experience with core technical requirements (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Git, Node, and basic web security) listed in the job description. Their strengths are in customer service, management, and process improvement, which are relevant soft skills but do not substitute for the required front‑end engineering experience. With formal training or a junior/transition role they might become a fit, but for this position they do not meet the technical qualifications.

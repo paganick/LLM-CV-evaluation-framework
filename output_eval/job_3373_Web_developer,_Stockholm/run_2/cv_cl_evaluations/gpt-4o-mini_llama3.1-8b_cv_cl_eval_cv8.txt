@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in test engineering but lacks critical front-end development skills and knowledge of JavaScript frameworks and libraries, particularly React, which is central to the job description. Although there is some familiarity with modern web technologies, the absence of significant experience with the specific tools and practices mentioned in the job description limits their relevance to the role.

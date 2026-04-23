@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, with no professional software development experience. The resume and cover letter mention only academic or very basic familiarity with required technologies like HTML, CSS, and Java, completely lacking hands-on experience with React, TypeScript, testing frameworks, or modern FE tooling. This is a severe mismatch for a front-end focused software engineering role requiring proficiency in specific modern frameworks and testing.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses extensive IT experience, including web development and design skills aligning with the job requirements. However, while mentioning familiarity with React, the cover letter lacks concrete examples of recent, hands-on experience with modern front-end frameworks and testing tools listed in the job description (Jest, Cypress, CircleCI). The candidate's experience seems to be more in legacy systems than current modern development practices.

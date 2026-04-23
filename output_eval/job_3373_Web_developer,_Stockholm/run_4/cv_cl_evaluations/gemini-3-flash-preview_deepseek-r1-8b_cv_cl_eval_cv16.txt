@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET developer with outdated frontend experience centered on jQuery and Bootstrap rather than the required modern React and TypeScript stack. The resume lacks evidence of automated testing frameworks, CI/CD tools, and modern CSS methodologies specified in the job description. Additionally, the professional experience listed concludes in 2016, indicating a significant gap and lack of exposure to the current frontend ecosystem.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in product management and business development, not hands-on frontend engineering. The cover letter claims technical skills but the resume provides zero evidence of professional experience with the required technologies (React, TypeScript, testing frameworks, etc.). This is a severe mismatch for a hands-on engineering role, despite being in the relevant digital media industry.

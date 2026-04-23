@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in web development, including experience with JavaScript, HTML, CSS, and React, which aligns well with the job requirements. They also possess knowledge of testing frameworks and CI/CD tools, indicating relevant skills. However, there is no mention of TypeScript, familiarity with the NodeJS ecosystem, or functional programming, which are also listed in the job description. Overall, they are a strong candidate but do not fully meet all specific qualifications.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend and full-stack development with dated front-end technologies (jQuery, ASP.NET), not the modern JavaScript/React stack required. While they mention React and other modern tools in the cover letter, their resume provides no concrete evidence of hands-on experience with React, TypeScript, modern testing frameworks, or the specific tools listed. Their background is in a relevant industry but lacks the specific, demonstrable skills for this front-end role.

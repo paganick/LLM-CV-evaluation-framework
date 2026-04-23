@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the cloud software industry, their professional background is exclusively in business development, sales, and marketing rather than software engineering. The resume provides no evidence of professional experience with the required technical stack, including React, TypeScript, or automated testing tools. A career pivot mentioned in the cover letter does not compensate for the lack of hands-on, professional development experience required for this role.

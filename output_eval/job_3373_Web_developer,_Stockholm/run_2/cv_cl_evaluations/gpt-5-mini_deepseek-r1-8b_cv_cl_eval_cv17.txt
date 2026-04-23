@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in construction and project management with no demonstrated skills in JavaScript, TypeScript, React (or other modern frontend frameworks), CSS tooling, testing frameworks, Node/npm, or Git, which are core requirements for this role. The cover letter emphasizes transferable project management and Agile experience but provides no technical evidence or examples of software development work. This profile is therefore completely unqualified for the frontend engineering position.

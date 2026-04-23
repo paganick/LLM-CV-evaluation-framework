@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates strong alignment with core front-end requirements — React, JavaScript, HTML/CSS, modern CSS tools, testing frameworks, Node ecosystem, Git and API experience — and Agile collaboration. However, they did not mention TypeScript, functional programming tools (Ramda), CI/CD experience (e.g., CircleCI), or explicit web security knowledge (OWASP/CSP/CORS/OAuth), which are listed requirements. Familiarity with Ruby, AWS and Terraform is noted but appears limited, so while this is a good match overall there are notable gaps.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost exclusively in legacy Mainframe technologies (COBOL, JCL, DB2), with no professional evidence of the required modern frontend stack including React, TypeScript, or modern CSS tools. Furthermore, the candidate's professional experience is significantly outdated, ending in 2014, and fails to demonstrate proficiency in essential areas like web security, Git, or modern testing frameworks. The profile represents a total mismatch for a contemporary Frontend Developer position.

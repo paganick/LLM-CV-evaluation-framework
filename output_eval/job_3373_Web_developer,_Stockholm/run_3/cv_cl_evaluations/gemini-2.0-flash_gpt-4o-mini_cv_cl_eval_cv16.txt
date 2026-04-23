@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, particularly in JavaScript, HTML, and CSS, and mentions React. However, the resume highlights a background primarily in .NET development and database programming, which is not the focus of the job description. While the cover letter expresses interest in modern FE tools, the resume lacks concrete experience with many of the specific technologies listed as preferred, such as Jest, Cypress, or CI/CD tools.

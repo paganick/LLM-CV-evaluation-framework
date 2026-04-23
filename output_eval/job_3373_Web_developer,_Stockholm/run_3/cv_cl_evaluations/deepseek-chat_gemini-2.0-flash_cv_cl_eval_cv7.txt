@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software development, and they lack any demonstrable experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing, Git, etc.). While they express eagerness to learn, their resume shows no relevant technical skills or professional experience in front-end engineering. This is a fundamental mismatch for a role requiring hands-on development expertise.

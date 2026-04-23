@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics and hardware test engineer whose experience is almost entirely focused on circuit design, manufacturing, and physical troubleshooting. The resume demonstrates zero professional experience with the required modern web stack (JavaScript, TypeScript, React) or cloud infrastructure (AWS, Terraform). Despite claims in the cover letter, the core technical background represents a complete industry mismatch for a frontend-focused software testing role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience with the mandatory React and TypeScript stack, describing their frontend knowledge as merely foundational. While they possess transferable skills in API design and general testing from their marketing automation background, they fail to demonstrate hands-on expertise with the specific frontend libraries, web security protocols, or modern CSS tools required. As a strict recruiter, I find their technical profile insufficient for an immediate developer role without significant upskilling.

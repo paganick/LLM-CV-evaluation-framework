@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on front-end development. While they mention JavaScript, HTML, and CSS, they lack demonstrable, recent experience with the required modern frameworks (React, Vue, Angular, Svelte) and specific tools (Jest, Cypress, Styled Components, etc.). Their experience with testing is from a user research perspective, not from writing unit/integration/E2E tests, and they do not substantiate claims about security knowledge or functional programming.

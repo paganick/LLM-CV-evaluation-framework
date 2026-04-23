@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, not professional front-end development. While they list HTML/CSS, they lack any experience with the required JavaScript, TypeScript, React, testing frameworks, or modern tooling specified in the job description. The core skills and professional experience are a severe mismatch for a senior front-end engineering role.

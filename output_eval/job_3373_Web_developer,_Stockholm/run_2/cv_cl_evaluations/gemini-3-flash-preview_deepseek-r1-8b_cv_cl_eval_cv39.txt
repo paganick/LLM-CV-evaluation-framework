@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer and fine artist who lacks the essential technical skills required for this frontend engineering role, including JavaScript, TypeScript, React, and automated testing. Their experience is centered on visual design, print media, and elementary education rather than software development or modern web architecture. Consequently, there is a total mismatch between the candidate's profile and the deeply technical requirements of the position.

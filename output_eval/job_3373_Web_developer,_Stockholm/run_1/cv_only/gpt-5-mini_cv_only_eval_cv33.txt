@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in banking, sales, training, and operations with no demonstrated hands-on front-end development skills (JavaScript/TypeScript, React, HTML/CSS), testing, Git, NodeJS, or cloud/CI experience required by the role. The brief mention of consulting for tech/startups does not provide evidence of the specific technical competencies or code-level experience needed. This candidate is in the wrong industry and lacks the core technical qualifications for the position.

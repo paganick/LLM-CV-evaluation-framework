@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is rooted in electrical engineering and hardware testing, which is fundamentally different from the required expertise in modern frontend web development. While the cover letter mentions web technologies, the resume provides no evidence of professional experience with JavaScript, React, or TypeScript. The candidate lacks the necessary skills in web security, frontend testing frameworks, and modern CSS tools specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern front-end stack, specifically React and TypeScript, relying instead on legacy AngularJS and jQuery. Their background is predominantly focused on Java backend development and performance testing, missing key competencies in modern CSS tools, front-end testing frameworks like Jest or Cypress, and functional programming. Additionally, the technical experience presented appears outdated and does not align with the seniority or specific toolkit requested for this role.

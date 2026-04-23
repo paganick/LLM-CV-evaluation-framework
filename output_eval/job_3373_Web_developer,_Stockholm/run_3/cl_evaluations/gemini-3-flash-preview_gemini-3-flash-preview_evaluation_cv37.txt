@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong technical match by explicitly addressing the core requirements for JavaScript, TypeScript, React, and comprehensive testing methodologies. Their background in security standards and AWS provides valuable architectural context that exceeds the basic requirements of the role. However, the candidate's recent history as a Director of IT and Project Manager raises concerns about the transition back to a high-volume, hands-on development role compared to a candidate currently immersed in daily coding.

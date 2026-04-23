@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications and a foundational knowledge of HTML and CSS. However, they lack hands-on experience with essential requirements such as JavaScript frameworks (specifically React), testing frameworks, and familiarity with the NodeJS ecosystem. Additionally, their knowledge of security concepts is basic and does not demonstrate significant expertise in the areas stated in the job description.

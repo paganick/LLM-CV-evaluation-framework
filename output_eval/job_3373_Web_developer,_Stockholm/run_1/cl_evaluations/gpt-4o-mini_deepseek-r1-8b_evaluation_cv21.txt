@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid background in web technologies and full-stack development, their experience primarily focuses on .NET technologies, which does not align with the core requirement of proficiency in JavaScript and modern front-end frameworks, particularly React. Additionally, the candidate lacks explicit experience with several specific tools and practices mentioned in the job description, such as testing frameworks like Jest or Cypress, alongside modern CSS tools and the NodeJS ecosystem.

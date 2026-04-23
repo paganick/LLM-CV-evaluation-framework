@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background in UX/UI design and some coding experience, they lack hands-on experience in the specific front-end frameworks (especially React) and testing methodologies emphasized in the job description. The letter highlights design experience more prominently than front-end development skills, and the candidate admits their testing experience is not fully aligned with E2E tests. The letter lacks mention of crucial tools such as Git or linters/formatters.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in test engineering but lacks specific experience in front-end development and technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate knowledge of testing methodologies and tools, their background is primarily hardware-focused rather than web or software development, which is essential for the role.

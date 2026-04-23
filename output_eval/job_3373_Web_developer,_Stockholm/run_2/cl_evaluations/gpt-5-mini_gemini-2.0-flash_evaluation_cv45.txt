@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong enterprise IT leadership, systems integration, cybersecurity planning, and Agile collaboration, but provides no concrete evidence of required frontend skills (JavaScript/TypeScript, HTML/CSS, React, modern CSS tools, NodeJS/npm, testing frameworks, or frontend testing/automation). Security+ and program management are relevant but do not substitute for hands‑on frontend development experience. Given the lack of demonstrated core technical frontend competencies, the candidate is not a strong fit for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic and UX designer whose experience is centered on presentation design and multimedia rather than software engineering. They lack nearly all the core technical requirements, including proficiency in React, TypeScript, modern testing frameworks, and CI/CD pipelines. While they possess a Computer Science degree, their professional history does not demonstrate the hands-on frontend development experience necessitated by this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the mandatory technical requirements, including professional experience with JavaScript, TypeScript, React, and automated testing. Their background is almost exclusively in graphic design and fine arts, with only foundational knowledge of HTML and no evidence of modern software engineering practices. Consequently, they are fundamentally unqualified for a technical front-end engineering role.

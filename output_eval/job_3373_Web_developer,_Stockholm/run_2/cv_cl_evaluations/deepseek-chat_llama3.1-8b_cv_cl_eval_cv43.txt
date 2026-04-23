@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, which is a completely different industry from the required front-end software engineering role. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, or any other technical skills listed in the job description. The mention of "clean code" and "React" in the cover letter appears to be a misaligned keyword insertion, not supported by any demonstrable experience.

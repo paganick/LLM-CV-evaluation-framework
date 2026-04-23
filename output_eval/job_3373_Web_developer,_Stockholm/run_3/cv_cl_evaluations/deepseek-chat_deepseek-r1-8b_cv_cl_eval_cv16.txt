@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend and full-stack development with minimal, outdated frontend exposure (jQuery, Bootstrap). The resume shows no experience with React, TypeScript, modern CSS tools, testing frameworks, or the specific technologies listed in the job description. While they have Agile experience and a software development background, they lack the specific, required modern frontend skillset.

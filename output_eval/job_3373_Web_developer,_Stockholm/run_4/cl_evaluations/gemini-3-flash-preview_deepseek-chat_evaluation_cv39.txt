@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, explicitly stating a need to learn these core technologies rather than demonstrating existing expertise. Additionally, there is no evidence of experience with testing frameworks, Git, or web security protocols, which are critical requirements for the position. While the candidate has relevant experience in the creative and web design industry, they do not currently possess the functional development skills required for this role.

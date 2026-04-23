@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable hands-on experience with the core technical requirements. While they mention the required technologies, the cover letter emphasizes a graphic design background and expresses interest rather than proven expertise in key areas like React, testing automation, and modern CSS tools. The alignment with soft skills is good, but the technical depth and direct experience for a senior frontend role are insufficient.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks the fundamental technical requirements for this role, specifically professional experience with JavaScript, TypeScript, and React. Beyond basic HTML/CSS mentioned in a design context, there is no evidence of experience with testing frameworks, modern front-end libraries, or backend ecosystems like Node.js. This profile represents a career-changer at an entry-level stage, making them unqualified for a position requiring specific expertise in software engineering and cloud infrastructure.

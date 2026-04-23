@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the specific technical proficiency required for this role, failing to mention mandatory experience with React and TypeScript. While they possess general web development knowledge and Agile experience, they did not address critical requirements such as web security (OWASP, OAuth) or the modern CSS and Node.js ecosystems. Their background is predominantly centered on the .NET framework, which is not aligned with the specialized modern front-end stack requested.

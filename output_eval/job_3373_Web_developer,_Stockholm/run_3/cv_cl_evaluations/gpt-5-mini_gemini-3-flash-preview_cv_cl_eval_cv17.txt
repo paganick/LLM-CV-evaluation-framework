@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a long career in civil/construction engineering with no verifiable professional frontend development experience, code samples, or platform references (GitHub, portfolio). The cover letter asserts familiarity with JavaScript/React, testing, and NodeJS but provides no concrete evidence or prior software roles to support those claims. While strong project-management and collaboration skills are transferable, the submission does not meet the technical requirements for this front-end developer role.

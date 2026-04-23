@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position described in the job posting. With my background in graphic design and a passion for creating visually appealing and functional solutions, I am confident that I can make a significant contribution to your team.
+
+My expertise lies in developing creative graphics, designing marketing materials, and ensuring brand consistency across various platforms. I am proficient in Adobe Creative Suite, including Illustrator, Photoshop, and InDesign, and I have experience with HTML, CSS, and CSS preprocessors like SASS. I am also familiar with testing frameworks and linters, ensuring that all design elements meet high standards.
+
+Throughout my career, I have successfully managed multiple projects in fast-paced environments, adhering to strict deadlines and design standards. My collaborative approach and experience in Agile settings allow me to work effectively with teams and external partners. I am eager to apply my skills in testing, Git, and security practices to further enhance the quality of your projects.
+
+I am excited by the opportunity to bring my creative vision and technical proficiency to your team. Thank you for considering my application. I look forward to the possibility of discussing how my skills and experience align with your needs.
+
+Sincerely,  
+Alexis

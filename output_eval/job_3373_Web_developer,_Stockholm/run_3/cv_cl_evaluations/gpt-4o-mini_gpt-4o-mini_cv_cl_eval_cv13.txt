@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and front-end development, particularly with JavaScript, HTML, and CSS. However, they lack hands-on experience with React, which is specifically mentioned in the job description, and their familiarity with testing methodologies and CI/CD tools is not clearly established. Overall, while they present relevant qualifications, the lack of direct experience with critical technologies limits their fit for the role.

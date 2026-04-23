@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not front-end development, and the cover letter fails to demonstrate any of the required technical skills listed in the job description. While they mention an eagerness to learn React, they provide no evidence of hands-on experience with JavaScript, TypeScript, modern frameworks, testing, or any other core technologies. The letter highlights transferable soft skills but does not address the specific, technical requirements of the role.

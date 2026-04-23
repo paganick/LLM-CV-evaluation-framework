@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, with limited explicit frontend experience. While they express a willingness to learn and highlight some transferable skills, they lack concrete experience with the core technologies listed in the job description such as React, TypeScript, and modern CSS tools. Their experience with HTML is very high level.

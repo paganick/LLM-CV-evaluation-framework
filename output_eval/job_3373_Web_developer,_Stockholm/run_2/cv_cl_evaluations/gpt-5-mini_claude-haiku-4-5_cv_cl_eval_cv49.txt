@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong analytical and programming fundamentals and expresses a clear intent to transition to frontend development, but their resume shows no demonstrable experience with JavaScript/TypeScript, HTML/CSS, React, frontend testing frameworks, or the NodeJS ecosystem required for this role. There are no portfolio projects or professional frontend work presented to verify hands-on capability. Given the gap between stated goals and required skills, they are not yet qualified for this position.

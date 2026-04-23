@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a software tester transitioning into development and lacks professional experience with the core requirements of TypeScript and React. While they possess relevant knowledge of testing automation and Agile methodologies, they fail to demonstrate proficiency in modern CSS tools, the Node.js ecosystem, or the specific functional programming requirements mentioned in the job description.

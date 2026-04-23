@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has transferable skills in technical design, stakeholder collaboration, field research and mentoring but lacks commercial UX experience, no evidence of working in an Agile environment, and no demonstrated proficiency with core UX tools (Figma) or front-end technologies (HTML/CSS/JS) required for the role. These gaps mean they do not meet the key qualifications for managing a UX roadmap, producing interactive prototypes, running formal user research, or maintaining a UI design system.

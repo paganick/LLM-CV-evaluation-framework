@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has utilized core technologies such as JavaScript, HTML, and CSS. However, they lack direct experience with modern frameworks like React, TypeScript, or tools specific to testing automation as outlined in the job description. While their background in ASP.NET is notable, it does not fully align with the role's primary focus on frontend development and modern JavaScript frameworks.

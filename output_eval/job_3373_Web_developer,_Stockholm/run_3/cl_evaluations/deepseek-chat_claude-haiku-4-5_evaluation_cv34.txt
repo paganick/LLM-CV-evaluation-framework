@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but lacks the specific technical skills required. The job description demands proficiency in JavaScript/TypeScript and React, which the candidate explicitly does not have, instead listing older technologies like WordPress and Dot Net Nuke. While their collaborative skills and eagerness to learn are positive, the absence of core, hands-on experience with the modern frontend stack is a critical mismatch.

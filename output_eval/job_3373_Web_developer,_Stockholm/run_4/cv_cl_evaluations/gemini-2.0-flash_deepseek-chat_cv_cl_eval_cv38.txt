@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media production, lacking the demonstrable depth in front-end development required. While the cover letter mentions self-study and projects, the resume doesn't reflect practical experience with the specific technologies mentioned in the job description (React, testing frameworks, CI/CD tools). The candidate expresses interest in learning, but the current skill set is not aligned with the job requirements.

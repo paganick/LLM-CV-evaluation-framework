@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is in the correct industry and demonstrates foundational knowledge of core web technologies (HTML, CSS, JavaScript, TypeScript, Git). However, they lack hands-on experience with the required modern front-end framework (React) and have only a fundamental or budding familiarity with several key requirements like testing frameworks, CI/CD, and specific tools mentioned in the job description. Their eagerness to learn is noted but does not substitute for the specific, practical experience demanded.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate fails to meet any of the core requirements, including the minimum 2-3 years of commercial UX experience and proficiency in Figma or Agile methodologies. Their background is entirely rooted in interior design and sales, which is a different industry and does not translate to the technical demands of software design and digital user research. Additionally, they lack the necessary technical expertise to manage a UI Design System or mentor a junior designer in this field.

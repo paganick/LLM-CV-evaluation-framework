@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is from a different industry with no professional development experience and lacks nearly all specific technical requirements listed in the job description, such as React, TypeScript, modern testing frameworks, Git, and security concepts. While they demonstrate foundational web skills and a strong willingness to learn, their profile aligns with an entry-level, career-changing candidate, not the experienced developer role described. The application shows a fundamental mismatch in required hands-on experience and current technical proficiency.

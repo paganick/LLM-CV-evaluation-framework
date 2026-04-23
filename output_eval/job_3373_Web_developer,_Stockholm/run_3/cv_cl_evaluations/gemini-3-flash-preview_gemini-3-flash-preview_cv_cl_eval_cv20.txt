@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory modern frontend stack, specifically React and TypeScript, relying instead on an older .NET and jQuery background. Their resume shows no hands-on experience with modern testing frameworks like Jest or Cypress, nor with the CI/CD and cloud tools required for the role. Additionally, the candidate's professional work history concludes in 2016, suggesting their technical skills may not be current with modern industry standards.

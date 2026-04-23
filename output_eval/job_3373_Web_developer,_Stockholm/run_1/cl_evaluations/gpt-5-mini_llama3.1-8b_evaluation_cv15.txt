@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong front-end and testing experience (JavaScript, React and other frameworks, Jest/TestCafe/Cypress, linters, Node ecosystem, API design) and describes effective Agile collaboration, matching many core requirements. However, they do not mention TypeScript, Git/GitHub, modern CSS tools (Styled Components/SASS), CI/CD, Ramda, or cloud/infra (AWS/Terraform), which are expected or desirable for this role. Their broad IT/manager background shows transferable skills but these specific gaps reduce overall fit.

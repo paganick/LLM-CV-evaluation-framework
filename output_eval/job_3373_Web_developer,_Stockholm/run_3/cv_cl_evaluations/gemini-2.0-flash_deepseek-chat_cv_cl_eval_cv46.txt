@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest in front-end development and lists JavaScript, HTML, and CSS as skills, the resume highlights database administration and consulting roles. The cover letter mentions a desire to deepen experience with React, suggesting a lack of current expertise. The candidate's experience doesn't strongly align with the modern FE frameworks and testing experience mentioned in the job description.

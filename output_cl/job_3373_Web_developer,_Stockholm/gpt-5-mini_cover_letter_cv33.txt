@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the front-end engineer position. With over nine years of experience leading cross-functional teams, designing and delivering scalable training programs, and eight years consulting and managing tech startups, I bring a proven track record of quickly mastering complex domains, collaborating with diverse stakeholders, and driving measurable results.
+
+As a Business Banking Specialist I repeatedly delivered high-impact outcomes: I deployed original training programs, trained up to 600 employees annually, and directed sales operations and marketing for more than 100 events per year. I exceeded aggressive targets early in my tenure, closing $1.2 million in product sales and surpassing 794% of quarterly business goals. These achievements reflect my discipline for rigorous planning, data-driven decision making, and commitment to consistent execution.
+
+My background working with startups required translating ambiguous problems into customer-focused solutions, converting client liabilities into assets, and coordinating across executive, technical, and partner teams. I am comfortable operating in fast-paced environments, coaching colleagues on new processes, and shaping workflows that support scale. I bring strong communication skills, experience interacting with external partners, and a collaborative leadership style that values clarity, testing, and iteration.
+
+I am excited to transition these strengths into front-end engineering. Although my professional history centers on operations, sales enablement, and training, I have spent years advising and managing technology-focused organizations and I learn technical tools quickly through deliberate practice. I am eager to gain hands-on experience with React, modern JavaScript and TypeScript, testing automation, Git workflows, and the Node.js ecosystem, and to apply my attention to detail and passion for clean, maintainable work to product development.
+
+I value working in Agile environments and enjoy close collaboration with product managers, designers, and external partners to ensure features meet user needs. My training and coaching experience has given me a strong discipline for documenting processes, writing clear acceptance criteria, and mentoring teammates. I am committed to continuous learning and will prioritize acquiring hands-on competence with testing frameworks, CI/CD pipelines, modern CSS tooling, and web security best practices so I can contribute to maintainable, secure, and well-tested front-end code immediately.
+
+I am available to start learning immediately and would welcome a conversation to explore how I can contribute to your products and engineering goals while continuing to grow as a developer.
+
+Sincerely, Alexis

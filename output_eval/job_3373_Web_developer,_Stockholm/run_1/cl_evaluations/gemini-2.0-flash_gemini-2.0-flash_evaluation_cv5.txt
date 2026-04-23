@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in mainframe development, which is quite different from modern frontend development. While they express interest in React and mention some foundational web technologies, they lack demonstrable experience with the core technologies listed in the job description, such as Javascript, Typescript, modern CSS tools, and testing frameworks. The cover letter focuses more on transferable skills and a willingness to learn than on tangible frontend expertise.

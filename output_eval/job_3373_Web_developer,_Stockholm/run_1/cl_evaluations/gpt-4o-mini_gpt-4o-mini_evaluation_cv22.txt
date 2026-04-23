@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills in foundational web technologies and expresses a strong willingness to learn modern frameworks like React. However, they lack hands-on experience with testing frameworks and the NodeJS ecosystem, which are essential for the position. Their knowledge of CI/CD tools and cloud technologies is still developing, indicating a need for further growth in key areas.

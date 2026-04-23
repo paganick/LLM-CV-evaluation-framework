@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills in web development but lacks sufficient professional experience with React, the framework used by the company. While possessing a broad IT background, the letter reveals limited direct experience with testing frameworks, CI/CD tools, and other specific technologies mentioned in the job description. The letter focuses more on past accomplishments in IT management rather than highlighting specific projects showcasing front-end development skills aligning with the job requirements.

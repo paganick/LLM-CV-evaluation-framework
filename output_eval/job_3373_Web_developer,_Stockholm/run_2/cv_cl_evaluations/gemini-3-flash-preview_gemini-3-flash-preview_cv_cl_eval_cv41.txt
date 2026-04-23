@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional experience is exclusively in Systems Administration and IT support, failing to demonstrate any hands-on experience with the required frontend stack of React, TypeScript, or modern CSS tools. While the candidate possesses a security certification, the resume lacks evidence of software development expertise, version control usage, or automated testing frameworks. Furthermore, the provided professional history is outdated and does not align with the functional programming or modern web ecosystem requirements.

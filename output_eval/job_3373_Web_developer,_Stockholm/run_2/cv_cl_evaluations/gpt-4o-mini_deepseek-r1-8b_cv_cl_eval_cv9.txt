@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in software development and Agile methodologies but lacks direct experience with key technologies listed in the job description, particularly JavaScript, TypeScript, and modern frontend frameworks like React. While they demonstrate knowledge in testing methodologies and version control, their primary experience in Java may not fully align with the expectations of the role focused on modern frontend technologies.

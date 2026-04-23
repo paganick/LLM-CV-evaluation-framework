@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a foundational understanding of HTML and is actively learning JavaScript and TypeScript, but lacks substantial experience with critical technologies listed in the job description such as React, modern CSS tools, testing frameworks, and Git. Their background in sales does not align well with the technical requirements of the position, indicating a significant gap in the necessary skills and experience for a frontend development role.

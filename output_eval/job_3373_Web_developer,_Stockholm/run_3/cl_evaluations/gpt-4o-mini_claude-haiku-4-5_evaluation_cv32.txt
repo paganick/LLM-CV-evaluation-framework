@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills from their customer service and management experience, which could be beneficial in a collaborative environment. However, the lack of hands-on experience with the required technologies (JavaScript, TypeScript, React, testing frameworks, etc.) significantly limits their suitability for the role. Additionally, they do not mention familiarity with Git, security practices, or modern CSS tools, which further detracts from their qualifications.

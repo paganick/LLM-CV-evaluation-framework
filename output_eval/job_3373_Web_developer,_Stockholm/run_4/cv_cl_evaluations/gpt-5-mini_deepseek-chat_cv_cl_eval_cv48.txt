@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume documents an extensive IT support and field-service background but contains no verifiable professional front-end development experience, projects, or code samples in JavaScript/TypeScript/React. The cover letter asserts familiarity with the required front-end stack and testing tools, but this is uncorroborated by the employment history or technical deliverables. While the candidate demonstrates strong systems troubleshooting and collaboration skills, they lack the specific, demonstrable front-end engineering experience required for this role.

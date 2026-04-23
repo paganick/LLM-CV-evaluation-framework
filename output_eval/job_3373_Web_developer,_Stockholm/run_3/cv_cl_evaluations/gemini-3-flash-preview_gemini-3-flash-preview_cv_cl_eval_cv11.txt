@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance professional rather than a Software Engineer, lacking the required professional experience in frontend development frameworks like React. Their resume does not demonstrate proficiency in TypeScript, functional programming, or modern CSS tools mentioned in the job description. While their testing expertise is extensive, they do not possess the hands-on development experience necessary for this position.

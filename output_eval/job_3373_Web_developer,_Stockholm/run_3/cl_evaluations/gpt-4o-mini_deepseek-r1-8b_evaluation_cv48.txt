@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses relevant experience in IT support and systems administration, they lack direct experience with key technologies specified in the job description such as JavaScript, TypeScript, and frontend frameworks like React. Their aptitude for learning is noted, but the absence of hands-on experience with testing frameworks, modern CSS tools, and an understanding of the required development environment makes them a less competitive candidate for this particular position.

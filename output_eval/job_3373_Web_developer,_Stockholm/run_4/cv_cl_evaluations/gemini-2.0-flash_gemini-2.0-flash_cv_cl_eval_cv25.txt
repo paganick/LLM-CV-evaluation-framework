@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, which is a different field than front-end development. While they mention HTML and CSS experience, it's within the context of graphic design and lacks the depth required for a front-end developer role. The candidate lacks experience with modern FE frameworks like React and testing frameworks, crucial requirements for the job.

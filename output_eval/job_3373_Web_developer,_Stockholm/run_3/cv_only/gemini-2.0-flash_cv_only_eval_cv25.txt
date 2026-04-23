@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on graphic design, with skills like Adobe Creative Suite, QuarkXpress, and extensive print design experience. While they list HTML and CSS, the resume lacks any mention of the required JavaScript, TypeScript, modern FE frameworks like React, or testing frameworks. The candidate's experience is heavily geared towards print and visual design, not front-end development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development but lacks experience with the core required technologies such as React, TypeScript, and modern testing frameworks like Jest or Cypress. Their professional experience is heavily focused on the .NET ecosystem and legacy tools like jQuery, which does not align with the modern frontend stack and CI/CD requirements specified. Furthermore, there is no evidence of familiarity with functional programming, AWS, or modern CSS-in-JS libraries.

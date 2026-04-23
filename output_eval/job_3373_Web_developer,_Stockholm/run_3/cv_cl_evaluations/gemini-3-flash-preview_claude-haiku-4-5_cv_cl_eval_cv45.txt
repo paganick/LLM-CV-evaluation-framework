@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience or documented proficiency in the required technical stack, including JavaScript, TypeScript, React, and modern CSS tools. While they possess a strong background in cybersecurity and IT management, these skills do not translate to the hands-on frontend development requirements specified. The profile indicates a career transition rather than the qualified technical expertise necessary for this role.

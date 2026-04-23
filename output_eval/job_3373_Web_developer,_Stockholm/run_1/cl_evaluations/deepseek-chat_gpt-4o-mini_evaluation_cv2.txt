@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in Java/J2EE back-end development, not modern front-end frameworks. While they show interest and mention some relevant tools (Git, Agile, OWASP), they lack hands-on experience with the core requirements: React, TypeScript, and modern front-end testing tools. Their skills are adjacent but not directly aligned, indicating a relevant industry background with significant gaps in the specific required expertise.

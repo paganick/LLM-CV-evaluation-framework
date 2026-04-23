@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in graphic design and traditional art, with limited exposure to modern front-end technologies. While they have some HTML and Dreamweaver experience, they lack the necessary skills in JavaScript, TypeScript, React, and related testing frameworks required for the position. Their resume does not reflect the required expertise in web security, CI/CD, or API design.

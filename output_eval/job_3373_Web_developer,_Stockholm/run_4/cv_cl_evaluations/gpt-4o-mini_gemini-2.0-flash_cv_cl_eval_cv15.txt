@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and familiarity with HTML, CSS, and JavaScript, but lacks hands-on experience with React, modern front-end frameworks, and testing frameworks specifically mentioned in the job description. Their background suggests potential, but they do not fully meet the requirements for the position, particularly in areas like test automation and CI/CD tools.

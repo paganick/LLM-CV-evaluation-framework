@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program design and learning, not professional front-end development. While they mention intermediate coding skills and an interest in React, the cover letter provides no concrete evidence of hands-on experience with the required technologies (e.g., JavaScript, TypeScript, testing, Git) or the specific tools listed in the job description. Their project management and stakeholder collaboration skills are relevant to the "soft" requirements, but the critical technical qualifications are unproven.

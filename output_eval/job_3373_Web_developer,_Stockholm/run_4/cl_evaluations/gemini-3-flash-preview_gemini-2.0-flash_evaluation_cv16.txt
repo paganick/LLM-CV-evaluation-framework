@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the primary tech stack, explicitly stating a need to learn React rather than demonstrating proficiency. Furthermore, the application fails to address several mandatory requirements, including TypeScript, web security standards, and the critical requirement for experience in testing and test automation. While the candidate has relevant industry experience in Agile environments, they are fundamentally underqualified for a specialized front-end role requiring immediate technical autonomy.

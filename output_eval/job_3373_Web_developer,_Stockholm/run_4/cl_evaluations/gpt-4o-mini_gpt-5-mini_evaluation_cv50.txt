@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive general technical and project management experience, but lacks specific hands-on experience with modern frontend technologies such as React, TypeScript, and relevant testing frameworks which are crucial for the role. While they demonstrate strong collaboration and leadership skills, their recent focus has not been on frontend development or the specific tools mentioned in the job description, resulting in a qualification gap for this position.

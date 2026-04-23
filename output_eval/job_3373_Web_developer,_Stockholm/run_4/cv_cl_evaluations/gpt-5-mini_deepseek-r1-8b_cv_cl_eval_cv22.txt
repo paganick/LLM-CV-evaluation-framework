@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a technical foundation (MBA in MIS, SQL, MySQL, Java, basic HTML/CSS and some Git) but their professional experience is predominantly in media/marketing rather than software engineering. They lack demonstrated hands-on experience with core requirements: JavaScript/TypeScript, React, modern frontend tooling, testing frameworks, Node.js/npm, CI/CD, and cloud/infra technologies. Their cover letter expresses interest and willingness to learn but does not evidence the practical skills or recent project work required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Backend Java Developer whose professional experience is centered on legacy enterprise systems and Java-based architectures rather than modern frontend development. They lack any documented experience with React, TypeScript, or modern CSS tools, which are core requirements for this position. While the candidate has a strong background in Agile and backend testing, their lack of hands-on experience with the specific frontend stack makes them an unsuitable fit for this role.

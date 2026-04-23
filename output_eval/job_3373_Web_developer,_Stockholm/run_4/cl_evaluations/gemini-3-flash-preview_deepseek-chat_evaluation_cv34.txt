@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is in a career transition and lacks professional, hands-on experience with the primary tech stack, specifically JavaScript and React, which are fundamental to the role. While they demonstrate strong soft skills and experience in Agile environments, their technical background is limited to CMS maintenance and conceptual knowledge rather than demonstrated proficiency in software engineering. Key requirements such as automated testing and web security are mentioned as "upskilling" efforts rather than proven professional competencies.

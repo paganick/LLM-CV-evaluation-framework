@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With over three years of professional experience in software testing and quality assurance, combined with my technical foundation in JavaScript, HTML, and CSS, I am confident in my ability to contribute meaningfully to your React-focused development team.
+
+Throughout my career, I have developed a comprehensive understanding of modern web technologies and best practices. My experience spans functional testing, integration testing, and automation testing across various web applications, which has provided me with deep insights into frontend quality standards and user experience. I have worked extensively with JavaScript and HTML, and my background in test automation using Selenium WebDriver demonstrates my hands-on technical capabilities. Additionally, my experience with cross-browser and cross-platform testing on desktop browsers and mobile devices has equipped me with a keen eye for detail and quality.
+
+What particularly excites me about this opportunity is the emphasis on clean code and collaborative development. My professional journey has consistently reinforced the importance of code quality and teamwork. I have actively participated in Agile environments, daily stand-ups, and cross-functional meetings throughout my tenure as a Quality Analyst and Test Engineer. I have successfully mentored teams and collaborated with developers, business analysts, and project coordinators, demonstrating my ability to work seamlessly across departments.
+
+My technical skill set aligns well with your requirements. I possess strong scripting abilities in JavaScript and basic knowledge of HTML markup. My extensive background in test automation frameworks positions me well to leverage testing tools like Jest and Cypress. I am familiar with version control through Git and have worked in environments utilizing modern development practices. My ISTQB certification further validates my understanding of software quality principles.
+
+I am genuinely passionate about continuous learning and staying current with industry developments. My Master of Engineering in Software Engineering from the University of Auckland, combined with my practical experience in diverse domains including e-commerce, banking, and insurance, has cultivated my ability to understand complex systems and learn new technologies quickly.
+
+I am eager to transition my testing expertise into a frontend development role where I can leverage my technical foundation and commitment to quality. I am confident that my analytical mindset, problem-solving skills, and passion for delivering excellent software will make me a valuable addition to your team.
+
+Thank you for considering my application. I look forward to discussing how my experience and enthusiasm can contribute to your organization's success.
+
+Sincerely, Alexis

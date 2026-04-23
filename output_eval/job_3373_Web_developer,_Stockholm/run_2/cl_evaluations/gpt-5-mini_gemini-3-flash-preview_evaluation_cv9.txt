@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate has strong relevant experience in JavaScript/HTML/CSS, frontend testing (TDD/BDD, Jest, Cypress), web security, Node ecosystem and Agile collaboration, making them a solid match for the role. However, they do not explicitly state TypeScript experience, provide limited evidence of hands-on React/Ramda production work or use of CI/CD tools like CircleCI, and omit mention of linters/formatters and Express.js, which prevents a higher score.

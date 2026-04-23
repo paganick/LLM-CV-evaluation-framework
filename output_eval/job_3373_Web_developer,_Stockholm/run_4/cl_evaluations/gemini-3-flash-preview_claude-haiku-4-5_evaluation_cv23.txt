@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary requirements, including React, TypeScript, and modern CSS tools. While they have a foundation in testing, it is derived from a hardware-focused technician role rather than software engineering. Furthermore, the application fails to demonstrate proficiency in Git, Node.js, or web security, which are essential for this position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost exclusively in legacy Mainframe technologies (COBOL, CICS, DB2) and lacks any professional experience with the required modern front-end stack, such as React, TypeScript, or modern CSS tools. Additionally, the resume shows no professional employment in software development since 2014, and the candidate lacks hands-on experience with mandatory tools like Git, Jest, and AWS.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate acknowledges a career transition and lacks direct frontend development experience. While transferable skills are highlighted, there's a significant gap in the technical skills listed in the job description (React, Git, testing, security). The stated foundational knowledge is insufficient for the role's requirements.

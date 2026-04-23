@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong relevant experience in frontend development and test automation, including proficiency in JavaScript and React, which align well with the job requirements. Their familiarity with Agile environments and experience in working closely with QA teams further enhance their candidacy. However, there is no mention of modern CSS tools like Styled Components or the specific testing frameworks outlined in the job description, which slightly lowers their match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows solid visual design, prototyping (HTML/Dreamweaver) and collaborative/mentoring experience, which are relevant to the role. However they do not state the required 2–3 years in a commercial UX role or any Agile experience, and give no evidence of Figma proficiency, CSS/JS exposure, or explicit user research methods (journey mapping, field studies, user testing). There is also no mention of managing a UI Design System or owning a UX roadmap, so key job requirements are unmet.

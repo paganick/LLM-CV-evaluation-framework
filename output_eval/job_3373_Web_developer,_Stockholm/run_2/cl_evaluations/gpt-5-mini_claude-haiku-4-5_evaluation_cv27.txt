@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong transferable skills in UI/visual design, collaboration, and a clear commitment to learning frontend technologies, but lacks demonstrated hands-on experience with core requirements (JavaScript/TypeScript, React, testing frameworks, Node/npm/Yarn, CI/CD, and related tooling). Their cover letter describes active learning rather than proven delivery of the specific stack and practices we require. With practical, demonstrable experience in the listed technologies and testing/CI workflows, they could become a good match.

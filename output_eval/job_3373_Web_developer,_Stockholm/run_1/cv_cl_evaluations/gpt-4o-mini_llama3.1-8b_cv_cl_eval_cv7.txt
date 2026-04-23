@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design, but lacks direct experience with core technical requirements such as JavaScript, TypeScript, and modern front-end frameworks like React. While they express a willingness to learn and have some basic knowledge of HTML and CSS, they do not demonstrate hands-on experience with testing automation, CI/CD tools, or familiarity with essential security concepts. Overall, their background suggests they may struggle to meet the demands of the role without significant additional training.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks specific front-end experience with modern frameworks like React, VueJS, or Angular. While they mention HTML, their experience is primarily in data analysis and engineering roles using Python, R, and SQL. The cover letter expresses enthusiasm for learning, but the resume doesn't demonstrate practical experience with the core technologies listed in the job description.

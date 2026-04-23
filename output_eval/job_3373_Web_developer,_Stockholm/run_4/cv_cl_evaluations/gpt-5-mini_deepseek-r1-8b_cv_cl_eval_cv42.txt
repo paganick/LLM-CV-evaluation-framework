@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is senior finance and operations with no demonstrated experience in JavaScript, TypeScript, React, modern frontend frameworks, testing frameworks, Node.js, or web security—core requirements for this role. While strong in process improvement and project management, they lack the technical skills and hands-on development experience required to perform the job. Their cover letter expresses willingness to learn but does not present any transferable technical qualifications or concrete examples of relevant engineering work.

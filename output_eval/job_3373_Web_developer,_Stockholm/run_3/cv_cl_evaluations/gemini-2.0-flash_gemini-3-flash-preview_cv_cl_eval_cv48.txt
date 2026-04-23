@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in IT support and system administration, lacking explicit project experience with modern FE frameworks like React as the job description requires. While the cover letter attempts to bridge this gap by mentioning recent learning, the resume does not reflect sufficient practical application in JavaScript, TypeScript, or relevant testing frameworks. The candidate demonstrates adjacent skills, but doesn't have the direct experience the role necessitates.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT and cybersecurity within a government/DoD context, lacking the specific front-end development skills (JavaScript, React, HTML, CSS) emphasized in the job description. While the cover letter mentions familiarity with some relevant technologies, the resume does not provide concrete evidence of hands-on experience in these areas. The resume focuses more on security protocols, INFOSEC/NETOPS, and management roles, which are not the core requirements for this front-end focused position.

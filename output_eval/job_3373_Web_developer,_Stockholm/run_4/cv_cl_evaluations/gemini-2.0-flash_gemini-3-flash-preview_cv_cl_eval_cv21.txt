@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, and CSS, and has experience in Agile environments. However, the resume and cover letter highlight AngularJS experience more prominently than React, which is the primary framework used by the company. There is also a lack of explicit experience with testing frameworks (Jest, Cypress) and CI/CD tools mentioned in the job description.

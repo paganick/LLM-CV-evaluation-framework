@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is an electronics and hardware test engineer with experience in circuit design and manufacturing, which is entirely irrelevant to the web development focus of this role. There is no mention of JavaScript, TypeScript, React, or any modern frontend frameworks required by the job description. The resume lacks the fundamental software engineering skills and web security knowledge necessary for this position.

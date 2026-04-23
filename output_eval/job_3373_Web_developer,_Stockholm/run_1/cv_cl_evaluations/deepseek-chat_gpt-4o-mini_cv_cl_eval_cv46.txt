@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java backend development and IT support, with very limited and outdated front-end experience. They lack demonstrable, hands-on experience with the core requirements of modern React, TypeScript, and associated testing frameworks. While they express eagerness to learn and have some tangential knowledge, their practical skills do not align with the specific, modern front-end developer profile sought.

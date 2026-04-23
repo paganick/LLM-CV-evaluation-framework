@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, CSS, and experience with AngularJS. However, the resume lacks experience with React (the primary framework used by the company), TypeScript, modern CSS tools, testing frameworks (Jest, Cypress), and other technologies mentioned in the job description. The candidate's experience seems primarily focused on Java and backend technologies.

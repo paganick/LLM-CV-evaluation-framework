@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume reflects extensive experience in business development and sales strategies within the cloud software industry, but there is no relevant technical experience in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React, nor any indication of testing, automation, or knowledge of security protocols as outlined in the job description.

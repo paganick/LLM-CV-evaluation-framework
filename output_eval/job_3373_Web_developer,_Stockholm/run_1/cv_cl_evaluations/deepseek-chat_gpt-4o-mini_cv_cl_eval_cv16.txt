@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and mentions Agile, JavaScript, and Git, which are required. However, their primary experience is in .NET/C# back-end and full-stack development, with no demonstrable hands-on experience in React or the other modern front-end frameworks specified. The resume and cover letter lack concrete evidence for key requirements like test automation frameworks, modern CSS tools (SASS/Styled Components), Node.js, and functional programming with Ramda.

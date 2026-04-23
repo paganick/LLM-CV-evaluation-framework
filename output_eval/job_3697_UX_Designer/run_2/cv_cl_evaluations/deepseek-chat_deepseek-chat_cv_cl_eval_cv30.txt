@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software and demonstrates an understanding of user-facing design principles from an implementation perspective. However, they lack the specific, dedicated UI/UX design experience, formal design education, and proven proficiency with required tools (e.g., Figma, Adobe XD, InVision) as outlined in the job description. Their background is primarily in engineering, not in the core UI/UX design activities of creating wireframes, storyboards, and prototypes from a design-first approach.

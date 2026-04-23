@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design industry experience and demonstrates strong soft skills, but lacks the core technical requirements for a front-end engineering role. The cover letter mentions only basic HTML/CSS and no experience with JavaScript, React, testing frameworks, version control, or the other specific tools and practices listed in the job description. While the candidate expresses eagerness to learn, the application is based on adjacent skills rather than the required hands-on engineering proficiency.

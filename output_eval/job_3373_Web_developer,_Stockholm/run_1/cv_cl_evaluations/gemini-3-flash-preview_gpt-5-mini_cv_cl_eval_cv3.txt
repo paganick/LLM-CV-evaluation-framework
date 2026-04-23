@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all the required technical skills, including proficiency in React, TypeScript, and modern testing frameworks like Jest or Cypress. Their experience is rooted in an unrelated industry (construction), and their technical background is heavily focused on outdated technologies such as Flash, ActionScript, and Dreamweaver. There is no evidence of experience with Git, CI/CD, or modern CSS tools, making them unqualified for this mid-to-senior level front-end position.

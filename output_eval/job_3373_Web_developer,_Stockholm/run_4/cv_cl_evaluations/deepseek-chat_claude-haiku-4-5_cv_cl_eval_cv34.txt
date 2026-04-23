@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital marketing implementation and project management, not professional frontend development. They lack any experience with the core technologies required (JavaScript, TypeScript, React, modern testing frameworks, Git, etc.) listed in the job description. While they have basic HTML/CSS knowledge and soft skills, their technical profile is a severe mismatch for a modern frontend developer role.

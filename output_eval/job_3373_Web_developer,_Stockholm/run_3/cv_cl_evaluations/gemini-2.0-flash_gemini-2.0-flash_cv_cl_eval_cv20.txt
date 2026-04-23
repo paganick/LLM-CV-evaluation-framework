@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundation in HTML, CSS, and JavaScript, but their experience is heavily skewed towards .NET development. The cover letter expresses interest in front-end frameworks, but the resume lacks hands-on experience with React, VueJS, Angular, or Svelte. Testing experience is mentioned, but specific frameworks like Jest, TestCafe, or Cypress are not detailed, and there is no mention of CI/CD tools.

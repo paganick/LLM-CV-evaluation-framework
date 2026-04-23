@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some front-end experience with AngularJS, HTML, CSS, and JavaScript, which are relevant. However, there's a lack of explicit experience with React, TypeScript, modern FE frameworks and libraries, and testing frameworks mentioned in the job description. The resume focuses more on Java and back-end technologies.

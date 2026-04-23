@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in design, not modern front-end engineering. They lack direct, hands-on experience with the required technologies (React, TypeScript, testing frameworks, Git, CI/CD) and mention them only as areas for desired growth. While their design background and soft skills are relevant to the industry, they do not meet the specific technical requirements of the role.

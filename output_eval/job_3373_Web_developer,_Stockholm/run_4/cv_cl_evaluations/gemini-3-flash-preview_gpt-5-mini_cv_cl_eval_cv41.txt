@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Systems Administrator and IT Specialist whose profile lacks any professional experience or documented skills in JavaScript, TypeScript, React, or modern CSS tools. While they possess strong systems and security knowledge, they do not meet the core technical requirements for a Front-End Engineer. Consequently, there is a fundamental mismatch between the candidate's background and the specific development stack required for this position.

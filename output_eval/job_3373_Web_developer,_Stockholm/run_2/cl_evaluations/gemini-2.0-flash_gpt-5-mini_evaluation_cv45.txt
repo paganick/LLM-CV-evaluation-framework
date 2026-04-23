@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in IT and cybersecurity leadership, not front-end engineering. While they express a willingness to learn React and related technologies, the letter lacks demonstrable experience with the specific technologies listed in the job description like JavaScript, TypeScript, modern CSS tools, and testing frameworks. The focus is more on high-level leadership and security rather than hands-on front-end development.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analysis and industrial engineering, with no demonstrated experience in frontend development, JavaScript, TypeScript, React, or any other required web technologies. The cover letter expresses interest and a willingness to learn, but the resume shows zero relevant skills or projects for a Frontend Engineer role. This is a complete mismatch for the job's technical requirements.

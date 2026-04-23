@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Technical Project Manager rather than a dedicated Software Engineer, lacking the professional-level depth required for a senior React developer role. Their technical experience focuses on older technologies like jQuery and PHP, with no evidence of professional expertise in TypeScript, React, or modern automated testing frameworks. While they have a background in web development, their career trajectory and skill set are aligned with management and marketing rather than high-level technical implementation and clean code standards.

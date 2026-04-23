@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT and leadership experience, Agile experience, and a Security+ certification which are positive but not sufficient for this frontend role. The cover letter does not demonstrate any hands-on experience with JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, frontend testing frameworks, Node/npm, Git-based workflows, or web security practices requested in the job description. Given the lack of core frontend technical skills and tooling experience, the fit is weak despite strong program management background.

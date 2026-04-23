@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions several specific tools from the job description, such as Ramda, CircleCI, and TestCafe, their primary professional experience (4+ years) is in media planning and buying rather than software engineering. The letter fails to address critical requirements including Git, web security (OWASP/CORS), and cloud infrastructure (AWS/Terraform). The applicant appears to be a career-changer who lacks the professional depth and industry-specific tenure required for this technical role.

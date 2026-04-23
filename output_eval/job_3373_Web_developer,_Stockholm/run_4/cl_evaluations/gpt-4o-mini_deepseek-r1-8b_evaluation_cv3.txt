@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic qualifications and some hands-on experience with web technologies but lacks practical experience in a professional setting. They show an interest in learning about React and modern JavaScript development, but their limited familiarity with essential requirements like specific testing frameworks, CI/CD tools, and modern CSS tools makes them only a moderately suitable match for the position.

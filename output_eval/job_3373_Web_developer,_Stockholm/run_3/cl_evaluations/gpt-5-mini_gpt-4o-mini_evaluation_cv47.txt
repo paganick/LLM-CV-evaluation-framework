@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience (HTML, Git, basic web security, Agile collaboration) and strong business/leadership skills, but lacks demonstrated hands-on experience with core technical requirements such as JavaScript/TypeScript, React, modern CSS tools (Styled Components/SASS), testing frameworks (Jest/Cypress) and the NodeJS/CI ecosystem. They express willingness to learn, but do not meet the key technical prerequisites listed in the job description.

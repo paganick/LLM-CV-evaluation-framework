@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant digital communications experience, HTML/CSS familiarity, and collaborative Agile experience, but lacks hands-on JavaScript/TypeScript and React experience which are core requirements. They also do not demonstrate practical experience with testing frameworks, NodeJS/npm ecosystem, CI/CD, functional programming (Ramda), or concrete web security knowledge, making them underqualified for this role. Their stated willingness to learn is positive but does not compensate for the current gaps in required technical skills.

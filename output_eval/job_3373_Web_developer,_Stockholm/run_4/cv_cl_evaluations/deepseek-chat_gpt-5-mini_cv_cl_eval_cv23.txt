@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware testing and electronics, not modern front-end software development. While they mention JavaScript and a willingness to learn, they lack any professional experience with React, TypeScript, modern CSS, testing frameworks, or the specific tools listed in the job description. Their skills are from a different domain and do not align with the core requirements for this front-end engineering role.

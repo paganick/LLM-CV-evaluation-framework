@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in web development and does not possess the required proficiency in modern technologies like React, TypeScript, or testing frameworks. Their educational background from 2013 focuses on legacy tools such as Flash and ActionScript, which are irrelevant to the current job description. Furthermore, the candidate provides no evidence of experience with CI/CD, cloud infrastructure, or advanced security protocols required for this position.

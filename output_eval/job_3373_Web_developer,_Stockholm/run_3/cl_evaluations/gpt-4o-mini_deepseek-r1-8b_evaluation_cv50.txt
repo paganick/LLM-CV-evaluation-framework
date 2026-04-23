@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in project management and quality improvement; however, they lack specific technical skills and hands-on experience with the required technologies, such as JavaScript, React, and modern front-end frameworks. Additionally, the candidate does not mention familiarity with testing frameworks, version control, or CI/CD tools, which are essential for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, not the required JavaScript, TypeScript, and modern FE frameworks. While the cover letter mentions a proactive interest in these technologies, the resume lacks concrete experience. The candidate also lacks direct experience with the specified testing frameworks and CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for this modern frontend role, lacking experience with React, TypeScript, and automated testing. Their technical background is outdated, focusing on legacy technologies like Flash and ActionScript, with no professional experience in software development. Furthermore, the resume shows no familiarity with essential modern tools such as Git, CI/CD, or cloud infrastructure.

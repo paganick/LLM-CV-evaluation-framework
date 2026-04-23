@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design and HTML/CSS experience and ~3 years in a commercial design role, but there is no documented UX-specific experience (no UX job title), no evidence of working in an Agile environment, no Figma or prototyping experience, and no demonstrated user research, testing, or design system management. The cover letter expresses intent to transition to UX, but the resume does not substantiate the core requirements of the role such as running sprints, managing a UX roadmap, or mentoring within a UX team.

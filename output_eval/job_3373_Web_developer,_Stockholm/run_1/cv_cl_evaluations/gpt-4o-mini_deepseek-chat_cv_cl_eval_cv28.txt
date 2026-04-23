@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has transitioned from a materials analysis and quality engineering background, which is not directly relevant to front-end development. While they mention knowledge of JavaScript, TypeScript, React, and familiarity with testing frameworks, their experience seems limited in the required technologies and front-end frameworks specified in the job description. They demonstrate some relevant skills but lack depth in the specific technical requirements outlined.

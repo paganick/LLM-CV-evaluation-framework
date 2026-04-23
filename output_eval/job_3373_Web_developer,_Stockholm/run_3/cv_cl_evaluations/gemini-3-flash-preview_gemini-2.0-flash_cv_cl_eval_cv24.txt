@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a communications professional who lacks nearly all the mandatory technical requirements for a Front End Developer role, including professional experience with React, TypeScript, and automated testing frameworks. While they have experience in web content management and accessibility, their resume demonstrates no professional software engineering background or mastery of the modern JavaScript ecosystem. This candidate is effectively transitioning industries and does not meet the criteria for an experienced developer.

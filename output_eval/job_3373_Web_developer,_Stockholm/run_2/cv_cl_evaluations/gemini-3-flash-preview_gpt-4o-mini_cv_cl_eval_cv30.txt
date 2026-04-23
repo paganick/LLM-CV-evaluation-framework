@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a data analyst and quality technician whose background lacks professional experience with the modern front-end stack, specifically React, TypeScript, and contemporary testing frameworks like Jest or Cypress. While the candidate mentions HTML and ASP.NET, there is no evidence of JavaScript proficiency or experience with the NodeJS ecosystem, CI/CD, or cloud infrastructure requested. The profile represents a significant mismatch in core technical competencies and industry focus for a Front-End Developer position.

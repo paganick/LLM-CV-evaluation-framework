@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and a strong understanding of user experience, which is beneficial. However, they lack direct experience with several key technical requirements listed in the job description, such as JavaScript frameworks (specifically React), testing frameworks, and modern CSS tools. Their technical understanding is promising, but without specific experience in the required technologies, they only partially meet the qualifications.

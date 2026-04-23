@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a data analyst and academic with no professional experience in modern front-end development, JavaScript frameworks, or TypeScript. Their technical background is concentrated in data science and legacy backend technologies, failing to meet nearly all of the specific requirements listed for this position. The applicant lacks the necessary expertise in CSS tools, front-end testing frameworks, and the React ecosystem essential for the role.

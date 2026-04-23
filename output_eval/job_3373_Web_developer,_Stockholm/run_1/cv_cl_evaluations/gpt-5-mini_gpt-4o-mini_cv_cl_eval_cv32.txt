@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows extensive customer service and management experience but no demonstrable hands-on frontend development skills (JavaScript/TypeScript, React, testing frameworks, Git, Node, CI/CD) or technical projects. The cover letter expresses willingness to learn and some conceptual familiarity with security and tools, but provides no concrete evidence of experience, code samples, or relevant certifications to meet the role's core requirements. Strong soft skills are transferable but insufficient for a hands-on frontend developer role.

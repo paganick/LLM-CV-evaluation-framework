@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer whose professional background is in marketing automation rather than dedicated software engineering, failing to meet the requirement for professional experience in front-end development. While they list several required technologies, they provide no evidence of production-level experience with TypeScript or functional programming. As a transitioning professional, their profile lacks the established technical depth and proven track record necessary for this position.

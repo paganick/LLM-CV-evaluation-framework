@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front End Developer position, as advertised. While my career has been rooted in digital communications, a deep and abiding passion for web technologies, clean code, and user-centric development has driven a significant, self-directed transition into modern software engineering. My unique background equips me with not only the technical proficiencies you seek but also a rare, holistic understanding of content, user experience, and cross-functional collaboration.
+
+For over a decade as a Digital Communications Specialist, my core mission has been to translate complex information into clear, accessible, and engaging digital experiences. This required intimate collaboration with IT and systems departments to architect and manage web content, ensuring both technical compliance (such as Section 508 accessibility standards) and optimal user engagement. This experience forged a strong foundation in HTML and CSS, a meticulous eye for detail, and a commitment to standards that directly parallels the discipline required for writing clean, maintainable code.
+
+My technical transition is focused and hands-on. I have built proficiency in the core stack you utilize: JavaScript, TypeScript, React, and modern CSS methodologies like Styled Components. I am committed to robust development practices, utilizing Git for version control, employing linters and formatters like ESLint and Prettier, and writing comprehensive tests with Jest. My exploration of the Node.js ecosystem, functional programming principles, and API design complements this practical skillset. Furthermore, my professional history is defined by Agile collaboration, direct interaction with diverse teams and external partners, and a keen desire to understand full domains—exactly the soft skills you highlighted.
+
+I am particularly drawn to your mention of a genuine passion for writing truly clean code. My entire career has been built on the clarity and precision of language, whether for a national publication or a social media campaign. I apply that same rigor to code, viewing it as the fundamental language of user experience. I am eager to contribute this perspective, along with my rapidly growing technical capabilities, to your team.
+
+Thank you for considering my application. I am confident that my unique blend of communication expertise and dedicated front-end development skill makes me a compelling candidate for this role.
+
+Sincerely, Alexis

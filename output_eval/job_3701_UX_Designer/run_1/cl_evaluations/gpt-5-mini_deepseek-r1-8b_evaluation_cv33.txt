@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's cover letter focuses entirely on Master Data Management and TIBCO integration expertise with Java/Oracle experience, which is a different discipline than User Experience design. There is no evidence of UX-specific skills (Figma, prototyping, user research, UI design systems) or relevant experience running UX workshops and producing prototypes. Given the job requires 2-3 years in a UX designer role and demonstrable UX practice, this application is completely unqualified.

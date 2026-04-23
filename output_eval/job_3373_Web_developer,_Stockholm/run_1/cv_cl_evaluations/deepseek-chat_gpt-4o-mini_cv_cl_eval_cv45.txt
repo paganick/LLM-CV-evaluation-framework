@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management and cybersecurity, not professional frontend software development. The resume shows no direct experience with the required technologies (React, TypeScript, modern FE frameworks) or professional coding. The cover letter makes claims but lacks supporting evidence from the resume, indicating a significant mismatch with the core technical requirements of the role.

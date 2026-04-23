@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and direct match to nearly all technical requirements, including React, testing, Git, security, and modern CSS tools. They also effectively address the collaboration and soft skill requirements from the job description. The score is not a 9 or 10 because they do not explicitly mention TypeScript, functional programming/Ramda, or several other listed technologies like API design, AWS, or Terraform.

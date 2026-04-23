@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, which is the wrong industry for a frontend developer role. They lack any professional experience or demonstrable skills in the required technologies like JavaScript, TypeScript, React, or modern testing frameworks. While they express a willingness to learn, they do not meet the fundamental technical qualifications outlined in the job description.

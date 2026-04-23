@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React, which is a key requirement. Their experience with AngularJS is outdated, and there's no mention of TypeScript or the other technologies listed in the job description. While they demonstrate some understanding of testing and Agile, their skills don't align closely with the job requirements.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience and a strong educational background in analytics, along with skills in front-end technologies such as HTML and C#. However, the cover letter does not mention specific frameworks like React or modern CSS tools required for the role. There is also no evidence of experience with testing frameworks, which is a key requirement outlined in the job description.

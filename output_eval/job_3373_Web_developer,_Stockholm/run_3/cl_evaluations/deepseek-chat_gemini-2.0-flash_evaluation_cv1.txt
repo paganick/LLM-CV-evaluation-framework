@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience and mentions key technologies like React, testing, and Agile, which aligns with the job description. However, they fail to address several specific requirements, including TypeScript, modern CSS tools, specific testing frameworks (Jest, Cypress), security basics, and the listed ecosystem tools (Node.js, CI/CD). The letter is generic and does not demonstrate direct experience with the company's stated tech stack beyond the broadest requirements.

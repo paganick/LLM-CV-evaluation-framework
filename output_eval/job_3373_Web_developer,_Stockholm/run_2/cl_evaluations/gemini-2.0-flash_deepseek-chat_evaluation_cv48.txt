@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of the required front-end technologies and expresses relevant experience with React, testing, and code quality tools. They also highlight their collaborative skills and familiarity with Agile environments, aligning well with the job description. While their background is primarily in full-stack infrastructure, their proactive transition to front-end development is promising.

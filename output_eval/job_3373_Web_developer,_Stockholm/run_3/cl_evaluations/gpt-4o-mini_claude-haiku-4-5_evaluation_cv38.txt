@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in media production and some exposure to web technologies, but lacks hands-on experience with modern frontend frameworks like React and testing frameworks which are explicitly required in the job description. While they demonstrate enthusiasm for learning and have a strong foundation in relevant areas, their lack of direct experience in key technical skills limits their qualifications for the position.

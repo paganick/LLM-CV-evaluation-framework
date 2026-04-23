@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid experience in the IT industry with a strong foundation in Java/J2EE technologies and Agile development, but lacks direct experience with the specific frontend technologies and frameworks outlined in the job description, particularly with React and modern CSS tools. While they express a willingness to learn these technologies, their current skill set does not fully align with the expectations for a Frontend Developer position.

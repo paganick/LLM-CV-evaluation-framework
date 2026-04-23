@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems engineering, not frontend development. They express interest in transitioning to frontend but lack demonstrable experience with the core technologies mentioned in the job description (React, TypeScript, modern CSS tools, etc.). While the candidate highlights transferable skills, the absence of direct frontend experience is a significant drawback.

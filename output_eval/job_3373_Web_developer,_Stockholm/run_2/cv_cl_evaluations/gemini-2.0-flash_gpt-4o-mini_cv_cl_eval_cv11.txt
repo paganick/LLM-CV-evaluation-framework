@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume and cover letter highlight software testing experience, but there is a lack of explicit front-end development experience with modern JavaScript frameworks like React, which is a core requirement. While the candidate mentions familiarity with HTML, CSS, and JavaScript, the depth of knowledge is unclear. The resume emphasizes test automation, but the overall fit for a front-end developer role is weak.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe, COBOL, and DB2, which doesn't align well with the JavaScript, React, and modern FE frameworks mentioned in the job description. While the candidate mentions HTML and JavaScript, it's in the context of bridging legacy systems, not modern frontend development. The resume and cover letter highlight skills and experience that are not directly applicable to the requirements of the job.

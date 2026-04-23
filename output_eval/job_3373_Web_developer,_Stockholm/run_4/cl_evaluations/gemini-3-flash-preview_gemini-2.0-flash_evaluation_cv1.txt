@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in React, testing, and Agile, they failed to address critical "must-have" requirements such as TypeScript and Web Security (OWASP, CSP, OAuth). The cover letter highlights legacy frameworks like BackboneJS and backend Java skills rather than modern front-end tooling like Styled Components, CI/CD, or the specific testing libraries requested.

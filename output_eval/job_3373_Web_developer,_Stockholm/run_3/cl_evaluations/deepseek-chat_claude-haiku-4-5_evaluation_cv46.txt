@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in the relevant industry but lacks specific, hands-on experience with the core technologies listed in the job description. They admit their React knowledge is foundational and do not demonstrate experience with TypeScript, testing frameworks (Jest, Cypress), modern CSS tools, or other key requirements like security basics or functional programming. While they express eagerness to learn and have transferable skills, the letter does not provide concrete evidence of proficiency in the mandatory tech stack.

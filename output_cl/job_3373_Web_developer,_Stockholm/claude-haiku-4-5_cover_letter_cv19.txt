@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background as a Graphic Designer may appear unconventional for this role, my technical foundation and demonstrated commitment to continuous learning make me an ideal candidate for your team.
+
+My educational journey at Penn Foster College provided comprehensive coursework in HTML and CSS coding, which I have actively applied in design projects. This technical grounding, combined with my natural problem-solving abilities honed through electrical work and panel building, positions me well to develop clean, functional code. I am genuinely passionate about expanding my expertise into JavaScript and TypeScript, and I am committed to mastering React and modern frontend frameworks.
+
+Throughout my career, I have demonstrated the collaborative spirit and adaptability your team values. My experience working with customers, colleagues, and cross-functional teams in various technical roles has reinforced my ability to thrive in Agile environments. As a graphic designer, I consistently communicated complex visual concepts with clients and refined designs based on feedback, mirroring the collaborative nature of development teams.
+
+I bring strong attention to detail and quality control—skills essential for writing clean code and conducting thorough testing. My background with Adobe Creative Suite required understanding technical specifications, file formats, and system optimization, translating directly to comprehending API design and modern development workflows. Additionally, my experience with Git fundamentals and basic web security concepts from my coursework provides a solid starting point.
+
+I am genuinely passionate about understanding complete domains and platforms beyond my area of expertise. This is evidenced by my diverse career path, where I successfully learned new technical systems—from electrical troubleshooting to 3D printing—by immersing myself in their principles and best practices.
+
+I recognize that testing frameworks like Jest and Cypress, CSS tools such as Styled Components, and the NodeJS ecosystem are areas where I will require focused development. However, my proven ability to rapidly acquire technical knowledge and my genuine enthusiasm for staying current with industry standards make me confident in quickly becoming proficient in these tools.
+
+I am excited about the opportunity to transition into frontend development with your organization. My unique perspective, combined with my technical foundation and unwavering commitment to clean code and continuous improvement, will enable me to contribute meaningfully to your team.
+
+Sincerely, Alexis

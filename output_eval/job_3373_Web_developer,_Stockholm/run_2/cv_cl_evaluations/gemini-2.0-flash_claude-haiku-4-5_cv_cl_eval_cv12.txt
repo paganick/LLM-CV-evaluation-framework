@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a general understanding of frontend technologies and claims experience with JavaScript, HTML, and CSS. However, the resume lacks concrete examples of using modern FE frameworks like React, which is a key requirement. While the cover letter expresses interest in clean code and collaboration, the resume focuses more on backend and full-stack experiences with older technologies.

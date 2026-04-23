@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant IT experience and knowledge of JavaScript, HTML, and CSS. However, they lack specific experience with TypeScript, modern frameworks like React, and testing frameworks mentioned in the job description, as well as familiarity with CI/CD tools and the NodeJS ecosystem. While they have some knowledge of RESTful APIs and testing methodologies, they did not address other key requirements such as security knowledge and functional programming.

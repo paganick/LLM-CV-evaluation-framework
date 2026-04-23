@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core technical competencies required for a Front-End Developer, specifically failing to demonstrate any professional experience with JavaScript, TypeScript, or React. While they possess strong engineering fundamentals and an understanding of web security, their background is predominantly in hardware testing and manufacturing rather than web development. As a career-changer, they provide no evidence of a portfolio or hands-on web projects to bridge the significant skill gap between test engineering and front-end architecture.

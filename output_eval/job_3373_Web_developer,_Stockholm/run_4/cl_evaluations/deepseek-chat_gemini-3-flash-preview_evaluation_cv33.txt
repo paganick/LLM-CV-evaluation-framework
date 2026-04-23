@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical stack, including React, TypeScript, security concepts, and modern tools like Jest and Cypress. Their consulting background and emphasis on collaboration, Agile, and clean code directly match the job's soft skills and domain requirements. The score is not a 9 because the cover letter heavily emphasizes non-development achievements (sales, event management), which, while impressive, slightly dilute the direct focus on hands-on frontend development experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in test engineering and demonstrates skills in scripting and automation. However, there is a significant lack of proficiency in modern front-end frameworks like React, as well as a limited understanding of the specified web technologies and security practices mentioned in the job description. Overall, while they possess some relevant technical skills, they do not fully meet the critical qualifications for the role.

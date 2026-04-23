@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has no relevant experience or skills in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks such as React. Their background is focused solely on media production with no indication of any technical proficiency or knowledge in web development, testing automation, or CI/CD tools. This position requires a strong technical foundation that the candidate does not possess.

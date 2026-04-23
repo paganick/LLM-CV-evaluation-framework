@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and direct match to the technical requirements, including React, TypeScript, testing frameworks, security fundamentals, and the specific tools mentioned. Their leadership and business background provide valuable complementary skills. The score is not a 9 or 10 because the cover letter's narrative is heavily focused on a non-technical past career, which, while impressive, slightly overshadows the depth of hands-on engineering experience typically expected for a senior role.

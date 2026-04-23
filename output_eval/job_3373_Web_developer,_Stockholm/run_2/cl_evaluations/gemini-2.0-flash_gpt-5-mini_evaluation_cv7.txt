@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a design background and is attempting to transition to front-end engineering. While design skills can be valuable, the cover letter lacks concrete evidence of proficiency in the required technologies (JavaScript, TypeScript, React, testing). The candidate expresses eagerness to learn, but the current skill set does not align with the job description's requirements for experience.

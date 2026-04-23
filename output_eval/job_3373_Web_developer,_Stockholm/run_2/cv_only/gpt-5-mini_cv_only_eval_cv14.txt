@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience (HTML, CSS, JavaScript, Bootstrap, MVC, and GitHub) and strong backend/.NET skills, but their resume shows legacy/front-end work (jQuery, SharePoint) rather than modern frontend frameworks. They do not demonstrate React or TypeScript experience, modern CSS tooling, front-end testing/automation, Node/npm ecosystem, CI/CD, or explicit web security knowledge required by the role. Overall applicable domain experience is present, but key required skills for this React/modern-JS role are missing.

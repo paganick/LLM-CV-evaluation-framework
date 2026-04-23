@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and lacks demonstrable experience with the core technologies listed in the job description (JavaScript, TypeScript, React, HTML, CSS). Although the candidate expresses a willingness to learn, the resume and cover letter do not provide sufficient evidence of hands-on experience in front-end development, testing frameworks, or other relevant skills mentioned in the job description. The candidate's skillset aligns more closely with a data analysis role than a front-end software engineer position.

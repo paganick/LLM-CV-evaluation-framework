@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, hands-on experience with React and modern front-end frameworks required by the job description. Their background is heavily in ASP.NET and C#, with only peripheral mentions of the required technologies like TypeScript, testing frameworks, and modern CSS tools. While they demonstrate strong collaborative skills and a willingness to learn, their direct technical fit for this React-focused front-end role is weak.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program design and learning, not professional front-end development. They mention "intermediate coding skills" but provide no concrete evidence of proficiency in the required technologies (JavaScript, TypeScript, React, testing, Git, etc.). While their project management and collaboration experience is relevant to the soft skills, they lack the specific, hands-on technical qualifications demanded by the job description.

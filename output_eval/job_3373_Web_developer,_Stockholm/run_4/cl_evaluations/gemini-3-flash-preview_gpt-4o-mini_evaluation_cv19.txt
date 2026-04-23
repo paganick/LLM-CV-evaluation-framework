@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the essential technical proficiency required for this role, specifically admitting to limited experience with core languages like JavaScript and TypeScript. While they possess a design background, they demonstrate a lack of practical experience with mandatory tools such as testing frameworks, React, and CI/CD pipelines, expressing only a desire to learn rather than current competency. Furthermore, the reliance on outdated software like Adobe Dreamweaver indicates a significant disconnect from modern front-end development standards.

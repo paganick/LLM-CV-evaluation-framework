@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing automation, not software development, and they lack any demonstrable professional experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks, etc.). While they express interest and claim transferable skills, their resume provides no evidence of hands-on frontend development work, making them unqualified for this specific technical role.

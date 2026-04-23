@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with a background in media planning and marketing, lacking any professional experience in frontend development or modern JavaScript frameworks like React. Their technical skills are limited to basic SQL, Java, and academic database projects, which do not meet the core requirements for JavaScript, TypeScript, testing automation, or version control. Overall, the profile lacks the necessary technical proficiency and hands-on engineering experience required for this specific role.

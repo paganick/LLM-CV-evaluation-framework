@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks core, required front-end skills — no demonstrated experience with JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks, or Node/npm in the resume. Their background is primarily business development with incidental HTML and C/C++ exposure, which does not meet the technical expectations for this role. While they express willingness to learn, they are not currently qualified for the position's immediate needs.

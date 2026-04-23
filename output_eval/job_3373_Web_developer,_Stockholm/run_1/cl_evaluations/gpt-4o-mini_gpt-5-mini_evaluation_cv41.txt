@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in systems engineering and operations but lacks direct experience with specific modern front-end technologies such as React, as well as familiarity with tools and frameworks mentioned in the job description like Jest, TestCafe, and specific CSS tools. While there is a commitment to keeping up with front-end technologies, the application does not provide sufficient evidence of hands-on experience in front-end development or testing, which is critical for the role.

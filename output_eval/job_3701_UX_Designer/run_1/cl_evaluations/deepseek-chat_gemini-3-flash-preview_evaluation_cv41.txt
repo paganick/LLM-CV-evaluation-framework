@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, but critically lacks the required technical proficiency in Figma for prototyping and has no stated experience with HTML, CSS, or JS for managing the UI Design System. While they mention Agile and mentoring, their hands-on UX design and research methodology experience is implied rather than explicitly aligned with the job's specific duties like user testing and journey mapping.

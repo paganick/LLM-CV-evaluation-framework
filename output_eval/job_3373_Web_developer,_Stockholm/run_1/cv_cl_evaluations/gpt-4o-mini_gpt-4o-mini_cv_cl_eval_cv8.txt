@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant skills in scripting and automation along with experience in testing, but lacks direct experience with modern frontend technologies such as JavaScript frameworks (specifically React) and CSS tools outlined in the job description. Their background is heavily focused on test engineering rather than frontend development, which limits their applicability for this position.

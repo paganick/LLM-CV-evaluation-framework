@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates client-facing experience and digital marketing skills, the cover letter lacks specific examples aligning with the required technology stacks (API, Cloud, DevOps, Microservices, BigData, Data Science, or UX/UI). The letter vaguely mentions "digital solutions" without demonstrating depth in the areas specified in the job description. Therefore, while relevant, the candidate doesn't fully meet the required technical expertise.

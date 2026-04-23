@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks experience with almost every core requirement, including React, TypeScript, and modern testing frameworks like Jest or Cypress. Their technical skills and degree are significantly outdated, focusing on deprecated technologies like Flash and ActionScript 3.0 rather than the modern stack requested. While the candidate has a degree in the field, they have no professional web development experience and do not demonstrate the necessary proficiency in current front-end or back-end ecosystems.

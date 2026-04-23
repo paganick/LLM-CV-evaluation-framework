@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates foundational alignment with the role's core requirements. However, the cover letter is critically vague, failing to provide specific, demonstrable evidence for key required skills such as TypeScript, modern React, testing frameworks, and security knowledge. The lack of concrete examples for the job's technical stack and methodologies prevents a higher score.

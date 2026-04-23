@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core technology stack, specifically React and TypeScript, admitting a need to "expand" into these primary requirements. While they possess a relevant educational background and general knowledge of testing, they fail to address specific needs such as functional programming, CI/CD, and AWS. This profile represents a transition from the Java ecosystem rather than a qualified JavaScript expert, necessitating significant training to meet the job's technical demands.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the core required technologies, specifically React, TypeScript, and Git, relying instead on a legacy .NET and AngularJS background. There is no evidence of proficiency in modern testing frameworks like Jest or Cypress, nor familiarity with essential web security protocols or CI/CD pipelines. While the candidate has extensive experience in the software industry, their technical stack is fundamentally misaligned with the modern frontend specialization required for this role.

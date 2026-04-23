@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, React, HTML/CSS, SASS, Node/npm, Git, AWS and strong test automation background (Selenium, Cucumber, CI pipelines), which aligns with many core role requirements. However, they lack demonstrated TypeScript experience, modern JS testing frameworks (Jest/Cypress/TestCafe), linters/formatters (ESLint/Prettier), and other stack specifics mentioned (Ramda, CircleCI/Terraform), so they do not fully meet the job's specified frontend/tooling expectations.

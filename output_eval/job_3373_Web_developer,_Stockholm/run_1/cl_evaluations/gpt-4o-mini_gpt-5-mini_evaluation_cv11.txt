@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and some knowledge of the required technologies. However, they lack direct experience with React, modern front-end frameworks, and specific testing frameworks mentioned in the job description, such as Jest or Cypress. Additionally, the cover letter does not provide evidence of familiarity with Git or security practices relevant to web development.

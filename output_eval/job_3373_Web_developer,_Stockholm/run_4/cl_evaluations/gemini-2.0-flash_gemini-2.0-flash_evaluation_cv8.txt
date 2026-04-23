@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, not front-end development. While they mention Python scripting and networking knowledge, their experience with Javascript, Typescript, HTML, CSS, and React is not demonstrated. The cover letter focuses heavily on their past roles, not specific front-end skills, indicating a career change rather than direct experience.

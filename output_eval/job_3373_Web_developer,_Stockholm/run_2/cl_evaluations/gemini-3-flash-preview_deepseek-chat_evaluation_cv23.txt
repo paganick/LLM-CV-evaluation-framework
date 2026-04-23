@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the essential technical stack, specifically TypeScript, React, and modern CSS tools. While their background in engineering validation provides a foundation in testing, they do not demonstrate the required proficiency in web-specific automated testing frameworks or version control systems. The profile describes a career transition rather than a qualified developer ready to contribute to a modern front-end environment.

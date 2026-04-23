@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in frontend technologies such as JavaScript, HTML, and CSS, along with a commitment to clean code. However, they lack specific experience with modern frameworks like React, testing frameworks, and tools mentioned in the job description. While they exhibit a solid technical foundation, their familiarity with key modern practices and tools is insufficient for a strong match.

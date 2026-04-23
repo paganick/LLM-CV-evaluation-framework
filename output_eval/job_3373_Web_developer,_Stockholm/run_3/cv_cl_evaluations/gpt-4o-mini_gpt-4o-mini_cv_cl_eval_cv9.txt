@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and a solid understanding of JavaScript, HTML, and CSS. However, they lack substantial hands-on experience with modern frontend frameworks like React, which is critical for the position. Their familiarity with testing frameworks and CI/CD tools is commendable, but the absence of direct experience with the specified frameworks and concepts limits their fit for the role.

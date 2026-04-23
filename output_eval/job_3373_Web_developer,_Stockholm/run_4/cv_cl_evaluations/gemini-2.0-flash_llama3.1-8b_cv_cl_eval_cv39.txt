@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic and product design, with limited demonstrable experience in the specific front-end technologies (React, TypeScript) listed in the job description. While the cover letter mentions familiarity with some web security concepts and Git, this is not substantiated by concrete examples in the resume. The resume focuses more on print and traditional design skills, making the candidate a weak fit for a modern front-end development role.

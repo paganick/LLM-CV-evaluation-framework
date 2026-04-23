@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in digital communications but lacks hands-on experience and specific front-end development skills such as testing and test automation, modern CSS tools, and framework familiarity beyond a basic knowledge of React. While the applicant shows a willingness to learn and adapt, they do not meet many of the specific technical requirements outlined in the job description.

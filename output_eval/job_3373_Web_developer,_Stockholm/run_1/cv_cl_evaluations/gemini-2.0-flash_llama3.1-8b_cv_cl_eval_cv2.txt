@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume and cover letter highlight Java/J2EE experience, which is not the focus of the job description that is primarily focused on JavaScript, TypeScript, and modern FE frameworks like React. While the candidate mentions jQuery and Bootstrap, the depth of experience in the required technologies is not evident. The listed skills do not align with the modern front-end technologies required for the role.

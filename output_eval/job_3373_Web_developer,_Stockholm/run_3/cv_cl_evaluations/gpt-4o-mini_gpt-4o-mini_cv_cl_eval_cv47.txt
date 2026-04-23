@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in business development with some basic programming skills in HTML, C, and C++. However, they lack hands-on experience with modern front-end frameworks, testing automation, and key technologies like React, TypeScript, and CSS tools mentioned in the job description. Their experience does not adequately align with the technical requirements of the position.

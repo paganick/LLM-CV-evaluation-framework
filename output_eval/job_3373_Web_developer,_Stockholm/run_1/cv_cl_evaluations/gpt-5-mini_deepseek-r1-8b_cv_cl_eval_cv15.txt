@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general IT and basic JavaScript/HTML/CSS experience but lacks demonstrated, hands-on experience with the core requirements such as React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm tooling, and CI/CD/cloud tooling. Their resume shows older, broad IT skills and web coursework rather than recent front-end development or test automation accomplishments. While they express willingness to learn, they do not meet the specific technical expectations for this role.

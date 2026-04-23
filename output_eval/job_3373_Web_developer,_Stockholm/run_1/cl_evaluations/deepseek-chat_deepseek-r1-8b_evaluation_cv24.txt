@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in communications and technical writing, which is a completely different domain from the required front-end software engineering role. The cover letter demonstrates no experience with the specified technical stack (JavaScript, React, testing, Git, etc.) or the core requirement of writing clean code in a programming context. While some soft skills like collaboration are mentioned, the fundamental technical qualifications are entirely absent.

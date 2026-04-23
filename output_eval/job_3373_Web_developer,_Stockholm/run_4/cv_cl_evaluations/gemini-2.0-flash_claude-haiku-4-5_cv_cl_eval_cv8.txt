@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and quality assurance, not frontend development. While they express interest in transitioning to frontend, they lack demonstrable experience with JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. Their skills are more aligned with testing the frontend, not building it.

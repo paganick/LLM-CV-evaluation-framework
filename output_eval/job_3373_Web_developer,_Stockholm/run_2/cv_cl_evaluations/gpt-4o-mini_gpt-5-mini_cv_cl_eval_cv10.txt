@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development with HTML, CSS, JavaScript, and frameworks like AngularJS, but lacks direct experience with React and modern front-end testing frameworks such as Jest or Cypress mentioned in the job description. While they show a solid grasp of Agile methodologies and test automation, their skills in more current technologies and frameworks are limited, impacting their overall fit for the role.

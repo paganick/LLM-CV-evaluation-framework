@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is predominantly mainframe (COBOL, DB2, CICS) with only minimal mention of JavaScript/HTML/CSS and no demonstrated experience with React, TypeScript, modern CSS tooling, Node.js/npm, CI/CD, or web testing frameworks required for this role. Strong leadership, QA discipline, and domain knowledge are positives, but they do not compensate for the lack of concrete modern frontend and tooling experience. Significant upskilling would be required before this person could contribute effectively to the advertised position.

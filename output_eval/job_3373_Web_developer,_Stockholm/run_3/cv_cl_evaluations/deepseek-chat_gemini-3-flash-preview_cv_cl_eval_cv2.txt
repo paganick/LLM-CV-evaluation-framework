@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in Java/J2EE back-end development with minimal, outdated front-end exposure (jQuery, Bootstrap). They lack the required hands-on experience with React, TypeScript, modern CSS tools, testing frameworks, and the Node.js ecosystem listed as core requirements. While they demonstrate professional experience and an eagerness to learn, their current technical skills are a severe mismatch for the specific front-end and modern full-stack role described.

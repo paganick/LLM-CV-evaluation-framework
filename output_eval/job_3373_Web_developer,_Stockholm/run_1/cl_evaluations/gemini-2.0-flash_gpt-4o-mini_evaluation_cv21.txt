@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and Agile methodologies. They also possess familiarity with testing frameworks, Git, and modern CSS tools. While they mention AngularJS instead of React (the framework used by the company), their willingness to learn new frameworks and functional programming experience partially compensate for this gap.

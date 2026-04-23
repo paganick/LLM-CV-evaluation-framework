@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in managing teams and problem-solving but lacks significant direct experience in front-end development, particularly in testing frameworks and CI/CD tools mentioned in the job description. While they have some familiarity with essential technologies like JavaScript and React, the overall fit for a front-end development role is limited due to insufficient hands-on coding experience.

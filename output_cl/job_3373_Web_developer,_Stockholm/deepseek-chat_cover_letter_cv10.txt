@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position, which I discovered through your job posting. With a Master’s in Computer Science and over two years of professional experience developing full-stack web applications, I possess a strong technical foundation and a keen passion for writing clean, maintainable code that aligns perfectly with your team’s requirements.
+
+Your stack, centered on React, modern JavaScript, and a commitment to robust testing, is an excellent match for my skill set. My hands-on experience includes developing a Single Page Application using AngularJS, with deep proficiency in core front-end technologies: HTML5, CSS, and JavaScript. I am confident in my ability to quickly transition to and excel within your React environment. Furthermore, I have direct experience consuming and producing RESTful web services (JSON) and working within Agile Scrum teams, ensuring seamless collaboration and iterative development.
+
+My technical background extends to the practices you value. I have practical experience with Git for version control and a strong foundation in writing and executing comprehensive test plans, from unit to performance testing, using tools like JMeter. While my professional work has utilized Java-centric frameworks like Spring MVC and Hibernate, my academic projects involved significant low-level programming in C and performance optimization, demonstrating the analytical mindset and attention to detail required for understanding complex systems and ensuring security best practices. I am particularly drawn to your emphasis on functional programming and clean code architecture, principles I am eager to apply using modern tools like ESLint and Prettier.
+
+I am a strong collaborator, as evidenced by my role automating processes within a performance benchmarking team and participating in daily scrums. My academic achievements, including a 3.93/4.0 GPA, reflect my dedication and ability to master new domains—a trait that will serve me well in understanding your full platform. I am keen to contribute my rigorous approach to testing, performance analysis, and clean development to your team.
+
+Thank you for considering my application. I am very excited about the opportunity to discuss how my background in development, testing, and collaborative problem-solving can benefit your projects.
+
+Sincerely, Alexis

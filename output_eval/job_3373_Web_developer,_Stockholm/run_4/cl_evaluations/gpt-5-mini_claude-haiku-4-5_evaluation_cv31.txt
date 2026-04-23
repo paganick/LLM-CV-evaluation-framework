@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong transferable skills (leadership, Agile collaboration, communication) and basic HTML/Git knowledge, but lacks proven, hands-on experience with the core technical requirements: JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), NodeJS ecosystem, modern CSS tooling, web security, CI/CD, and related technologies. They express commitment to learn and have relevant soft skills, yet currently do not demonstrate the specific technical proficiency or project experience this role requires.

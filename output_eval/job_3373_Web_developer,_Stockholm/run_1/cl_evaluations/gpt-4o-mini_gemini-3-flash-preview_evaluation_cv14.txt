@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate holds a relevant degree in Computer Science and demonstrates strong experience in web applications and Agile methodologies. They meet several requirements in the job description, including security awareness and familiarity with CSS tools; however, they lack direct experience with some specified modern frameworks like VueJS or Angular, as well as testing frameworks like Jest or Cypress, which are crucial for the role.

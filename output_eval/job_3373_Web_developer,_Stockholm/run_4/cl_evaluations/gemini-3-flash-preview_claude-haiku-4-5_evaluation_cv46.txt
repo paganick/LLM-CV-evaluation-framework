@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a relevant educational background and general IT experience, they fail to meet the core technical requirements, specifically admitting a lack of proficiency in React and Styled Components. There is no mention of TypeScript or web security protocols (OWASP, CORS), and their testing experience is limited to plan preparation rather than the required automated test implementation. The profile aligns more with a career transitioner than a specialist ready to contribute to a React-focused environment.

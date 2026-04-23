@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience (HTML, CSS, JavaScript), familiarity with testing (Jest, Cypress), SASS, Git, and Agile collaboration, which align with parts of the role. However, they lack explicit TypeScript and strong React/Node ecosystem experience (npm/Yarn, Express), CI/CD, linting/formatting tooling, and AWS/API/Infrastructure exposure that the position requires. These missing, key modern JavaScript stack skills and platform knowledge prevent a stronger match despite solid foundational experience.

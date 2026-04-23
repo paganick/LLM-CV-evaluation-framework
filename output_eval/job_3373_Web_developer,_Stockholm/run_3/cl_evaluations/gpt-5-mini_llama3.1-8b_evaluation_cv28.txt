@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials analysis and metallurgy with no mention of JavaScript, TypeScript, React, HTML/CSS, frontend frameworks, testing frameworks, Git, or other required web development tooling. There is no evidence of relevant web security, NodeJS/ecosystem, CI/CD, or Agile software development experience. This is a complete mismatch with the job's technical requirements and responsibilities.

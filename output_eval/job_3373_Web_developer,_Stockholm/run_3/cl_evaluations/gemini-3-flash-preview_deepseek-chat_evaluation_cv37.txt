@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in the IT industry and understands the SDLC, they lack professional, hands-on experience as a software developer. The application confirms they are in a transitional phase, needing to "rapidly expand" their proficiency in the core technical stack rather than demonstrating current mastery of React, TypeScript, or functional programming. As a strict recruiter, I find their managerial perspective valuable but insufficient to fulfill the technical requirements of this specific engineering role.

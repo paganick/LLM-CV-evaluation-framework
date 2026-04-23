@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced web developer but lacks the essential expertise in modern frontend frameworks like React and TypeScript mandated by the job description. Their professional background is centered on the .NET ecosystem and legacy tools, with no evidence of experience in automated testing, CI/CD workflows, or cloud infrastructure like AWS.

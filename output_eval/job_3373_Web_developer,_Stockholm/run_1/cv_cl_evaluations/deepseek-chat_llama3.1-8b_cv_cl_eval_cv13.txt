@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and digital marketing, not in hands-on front-end software development as required. While the cover letter mentions many specific technologies from the job description, the resume does not substantiate this technical depth, showing only broad, dated, or tangential experience (e.g., "Multiple libraries (Jquery, Angular, etc.)", "Html/Css"). The core requirement for a developer role with modern React, testing, and clean code expertise is not met by a project manager profile.

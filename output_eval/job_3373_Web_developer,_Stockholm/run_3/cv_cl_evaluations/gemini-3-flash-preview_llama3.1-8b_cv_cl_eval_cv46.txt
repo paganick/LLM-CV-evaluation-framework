@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of React and TypeScript, with a resume that primarily highlights legacy Java, database administration, and IT support ending in 2017. While the cover letter mentions modern tools like Jest and CircleCI, these are not substantiated by the professional work history provided. The candidate's background is that of a generalist/DBA rather than a modern Front-End Engineer, making them a poor fit for this specialized role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in digital marketing and Salesforce Marketing Cloud implementation, not front-end engineering. While they possess some HTML and CSS skills, they lack the JavaScript, React, and testing experience crucial for the role. Their experience with documentation and client interaction is relevant but not sufficient.

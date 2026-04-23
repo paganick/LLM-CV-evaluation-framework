@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analytics and industrial engineering, with no professional experience or demonstrated projects in frontend development, React, or the required technologies. While they express interest and are self-learning, they lack the hands-on experience with JavaScript, TypeScript, modern frameworks, and testing tools explicitly required by the job description. This represents a significant career transition with no proven track record in the target field.

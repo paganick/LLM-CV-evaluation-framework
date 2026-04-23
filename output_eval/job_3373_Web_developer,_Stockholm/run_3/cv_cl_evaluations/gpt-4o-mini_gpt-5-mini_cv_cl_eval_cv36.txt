@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in a regulated environment and showcases skills related to testing, collaboration, and documentation, which are relevant to front-end development. However, they lack direct experience with essential technologies outlined in the job description, such as JavaScript, TypeScript, modern front-end frameworks (specifically React), and knowledge of CI/CD tools. Their transition to front-end engineering seems motivated but underprepared for the technical requirements of the role, leading to a low score.

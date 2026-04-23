@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation, not software development, and they lack direct, professional experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks). While the cover letter expresses interest and mentions foundational knowledge, the resume provides no evidence of hands-on frontend development work, project portfolios, or proficiency in the required technical stack. This is a significant career transition into a highly technical role for which they are not qualified.

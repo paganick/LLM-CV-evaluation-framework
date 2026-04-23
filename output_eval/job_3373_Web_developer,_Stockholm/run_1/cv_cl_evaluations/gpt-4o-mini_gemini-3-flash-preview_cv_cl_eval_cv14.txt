@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has worked with essential web technologies such as HTML, CSS, and JavaScript. However, they lack direct experience with the stated modern frontend framework (React) and testing frameworks mentioned in the job description. While they demonstrate familiarity with Git and have a foundation in Agile methodologies, there are gaps in knowledge regarding modern CSS tools and security best practices relevant to the role.

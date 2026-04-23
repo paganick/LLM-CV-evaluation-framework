@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core technical requirements, specifically React, TypeScript, and automated testing frameworks, expressing only an intent to learn them. Their background is primarily in presentation and UX design using outdated tools like Dreamweaver and jQuery, which does not translate to modern front-end engineering expectations. While the candidate possesses a Computer Science degree, they are currently unqualified for a role requiring immediate proficiency in modern JS toolchains and CI/CD practices.

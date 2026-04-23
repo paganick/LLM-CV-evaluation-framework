@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements for this role, including JavaScript, TypeScript, and modern frameworks like React. Their professional experience is centered on digital marketing and Salesforce implementation rather than software engineering. Furthermore, there is no evidence of experience with essential tools like Git, testing frameworks, or the NodeJS ecosystem.

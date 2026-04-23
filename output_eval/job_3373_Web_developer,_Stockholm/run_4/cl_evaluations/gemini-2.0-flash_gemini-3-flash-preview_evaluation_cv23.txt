@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates familiarity with JavaScript, HTML, CSS, and Git, their React experience is not explicitly highlighted. The letter focuses heavily on testing in previous roles, which is relevant but not a primary focus of a Frontend Engineer. The candidate expresses interest in several desired technologies, but a lack of demonstrated experience lowers the overall match score.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in sales and management but lacks the hands-on software development experience required for the role. They have some foundational knowledge in web development and tools, but their exposure to modern front-end frameworks and testing frameworks is insufficient. The lack of specific experience with React, testing automation, and modern CSS tools lowers their qualification for this position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions JavaScript, TypeScript, HTML, CSS, and React, they lack specific examples of testing and test automation experience. The letter also doesn't demonstrate knowledge of security on the Web (OWASP, CSP, CORS, OAuth) or modern CSS tools like Styled Components and SASS, as outlined in the job description. The cover letter is generic and lacks quantifiable achievements.

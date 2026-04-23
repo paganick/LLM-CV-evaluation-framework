@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but is heavily focused on backend Java/J2EE technologies and outdated frameworks. The cover letter demonstrates almost no alignment with the job's core requirements for modern front-end development (React, TypeScript), testing frameworks, or the specific tools listed. While some soft skills and general Agile experience are mentioned, the specific technical skill mismatch is severe.

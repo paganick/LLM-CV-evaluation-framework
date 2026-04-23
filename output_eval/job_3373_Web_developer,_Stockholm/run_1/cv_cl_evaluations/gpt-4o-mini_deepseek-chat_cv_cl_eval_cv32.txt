@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a demonstrated interest in front-end development and claims proficiency in many required technologies such as JavaScript, TypeScript, HTML, CSS, and React, which is positive. However, their resume primarily reflects experience in customer service and sales management, lacking substantial hands-on development experience and specific skills in modern testing frameworks, CI/CD tools, and familiarity with the Node.js ecosystem as mentioned in the job description.

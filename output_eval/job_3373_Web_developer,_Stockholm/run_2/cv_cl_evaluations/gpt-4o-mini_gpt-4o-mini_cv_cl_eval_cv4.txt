@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and mentions familiarity with JavaScript and HTML/CSS. However, they lack specific experience with modern front-end frameworks like React, as well as hands-on testing automation frameworks listed in the job description. While they possess some foundational knowledge of security principles, they do not demonstrate sufficient expertise in the required technologies, resulting in a score that reflects relevant yet insufficient experience.

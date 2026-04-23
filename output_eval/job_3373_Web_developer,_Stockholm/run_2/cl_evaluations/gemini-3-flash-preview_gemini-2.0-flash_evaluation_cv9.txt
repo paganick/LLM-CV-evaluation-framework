@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer who lacks the mandatory professional experience with React, TypeScript, and modern frontend testing frameworks like Jest. They explicitly state an eagerness to learn the core technologies required for the role, confirming a lack of hands-on expertise in the specified frontend stack. Despite relevant experience in Agile environments and API design, they do not meet the primary technical requirements for this position.

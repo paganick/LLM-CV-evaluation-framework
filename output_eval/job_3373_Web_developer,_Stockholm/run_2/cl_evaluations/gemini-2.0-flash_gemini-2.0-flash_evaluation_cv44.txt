@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights some relevant experience like HTML, CSS, and UX design. However, there is a lack of demonstrable experience with JavaScript, TypeScript, React, testing frameworks, and Git, which are core requirements. The cover letter relies heavily on potential and transferable skills, not concrete accomplishments using the required technologies.

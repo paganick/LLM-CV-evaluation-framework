@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in advertising and media planning with limited exposure to the required technical skills in JavaScript, TypeScript, React, and modern testing frameworks. While there is some experience in web technologies like HTML and CSS, the lack of proficiency in modern front-end frameworks and relevant development practices does not meet the job requirements adequately.

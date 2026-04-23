@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web development technologies like JavaScript, HTML, and CSS, but lacks experience with React, which is a key requirement in the job description. The candidate mentions AngularJS, which is outdated. While they claim experience with testing, it is not clear if they've used the specific testing frameworks mentioned in the job description.

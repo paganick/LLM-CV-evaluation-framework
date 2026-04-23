@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development, particularly with front-end technologies like HTML, CSS, and JavaScript. They demonstrate understanding of Agile methodologies and some exposure to cleaning code practices. However, they lack direct experience with key requirements such as React, TypeScript, and modern testing frameworks like Jest and Cypress, which are critical for the position.

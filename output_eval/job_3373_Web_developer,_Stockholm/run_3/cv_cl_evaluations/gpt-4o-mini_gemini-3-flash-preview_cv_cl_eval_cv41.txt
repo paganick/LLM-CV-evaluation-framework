@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in systems engineering and IT, but lacks direct experience with the modern front-end technologies and frameworks specifically mentioned in the job description, such as React, TypeScript, and modern CSS tools. While they express a solid understanding of security principles and have some familiarity with testing frameworks, the lack of specific hands-on experience with the required technologies limits their fit for the role.

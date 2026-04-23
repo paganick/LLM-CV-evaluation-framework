@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in system administration, not front-end development, which is a significant mismatch for the core role. While they mention foundational knowledge of HTML, CSS, and JavaScript, they lack demonstrable experience with React, TypeScript, testing, and the other specific technologies listed in the job description. Their problem-solving and collaboration skills are relevant, but the absence of direct, hands-on front-end development experience makes them unqualified for the position as advertised.

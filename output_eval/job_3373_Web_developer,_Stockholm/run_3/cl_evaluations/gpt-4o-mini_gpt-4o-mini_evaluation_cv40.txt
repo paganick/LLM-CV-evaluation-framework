@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in product management but lacks direct software development experience, particularly with frameworks like React, which is crucial for the role. While they demonstrate familiarity with relevant web technologies and a proactive learning attitude, they do not meet specific technical requirements such as hands-on experience with TypeScript, Git, or testing frameworks mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a background in microbiology and quality control, which is not relevant to frontend development. While they express enthusiasm and mention learning JavaScript, TypeScript, HTML, CSS, and React, they lack significant hands-on experience with the specific technologies, frameworks, and practices outlined in the job description. The limited experience with testing frameworks and understanding of web security concepts further diminishes their qualifications for this role.

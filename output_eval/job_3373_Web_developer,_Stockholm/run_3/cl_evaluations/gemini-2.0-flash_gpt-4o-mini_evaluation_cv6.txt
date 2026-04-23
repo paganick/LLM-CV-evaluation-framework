@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in full-stack development and key technologies like JavaScript, HTML, and CSS, as well as Git and CI/CD tools. While they mention familiarity with the NodeJS ecosystem and API design, they lack explicit experience with React, the primary framework used by the company. The cover letter demonstrates a willingness to learn and collaborate, but the lack of direct experience with React and specific testing frameworks mentioned in the job description holds them back.

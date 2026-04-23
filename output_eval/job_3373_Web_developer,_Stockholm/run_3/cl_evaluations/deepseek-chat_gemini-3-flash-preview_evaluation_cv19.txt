@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry exposure and demonstrates a strong, unique background with transferable skills in precision and systems thinking. However, the cover letter lacks concrete, hands-on experience with the core technical stack, specifically React, TypeScript, and modern testing frameworks, which are explicit requirements. While the potential is evident, the application does not provide sufficient evidence of proficiency in the listed job technologies.

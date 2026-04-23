@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, ReactJS, and testing frameworks. They also mention experience with Agile methodologies and Git, which aligns with the job description. However, the cover letter and resume focus more on Java/Spring and less on modern front-end tools like Styled Components, SASS, or CI/CD tools mentioned in the job description.

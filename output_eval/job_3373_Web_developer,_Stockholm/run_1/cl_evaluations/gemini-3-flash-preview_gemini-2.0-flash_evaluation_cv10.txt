@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant educational background and basic front-end knowledge, they fail to demonstrate proficiency in the core required technologies, specifically React and TypeScript. Their testing experience is limited to Java-based automation rather than the requested front-end frameworks like Jest or Cypress, and they lack mentions of modern CSS tools, Git, or web security. The reliance on legacy libraries like jQuery and AngularJS indicates a significant skill gap compared to the modern stack specified in the job description.

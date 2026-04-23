@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a degree related to web development and some basic knowledge of HTML, CSS, and JavaScript. However, they lack professional experience with modern FE frameworks like React (which the job description specifically uses) and testing frameworks. Their experience is primarily academic and in older technologies.

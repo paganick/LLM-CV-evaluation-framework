@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and backend/data science, not modern front-end development with React. The resume and cover letter lack specific, demonstrable experience with TypeScript, React, modern CSS tools, and key testing frameworks like Jest or Cypress as required. While they have general web skills and mention some relevant concepts, they do not meet the specific technical requirements for a React-focused front-end role.

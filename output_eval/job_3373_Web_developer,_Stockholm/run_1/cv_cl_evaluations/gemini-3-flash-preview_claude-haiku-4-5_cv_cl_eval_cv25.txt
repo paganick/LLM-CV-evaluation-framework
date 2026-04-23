@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional graphic designer who lacks nearly all the core technical requirements for a frontend developer role, including JavaScript, TypeScript, React, and automated testing. While they possess foundational knowledge of HTML and CSS, their experience is rooted in visual design and print media rather than software engineering or Agile development environments. There is no evidence of experience with Git, security protocols, or modern web deployment tools required for this position.

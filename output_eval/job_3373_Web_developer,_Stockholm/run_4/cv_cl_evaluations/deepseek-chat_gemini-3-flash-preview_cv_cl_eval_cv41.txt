@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in systems administration and IT support, not modern front-end software engineering. The resume and cover letter lack any demonstrable, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern CSS tools, or testing frameworks. While the candidate attempts to draw parallels, the direct technical fit for this specific web development role is extremely weak.

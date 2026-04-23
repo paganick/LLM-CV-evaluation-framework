@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and some familiarity with front-end technologies like JavaScript, HTML, CSS, and AngularJS. However, they lack hands-on experience with React, modern CSS tools, testing frameworks mentioned in the job description, and CI/CD tools like CircleCI. There is also limited evidence of collaborative work in Agile environments beyond basic mentions.

@@ -1,0 +1,2 @@
+Score: 4
+        Reasoning: The candidate lacks professional experience with the primary required technologies, specifically React and TypeScript. Their front-end background is centered on legacy technologies like AngularJS and jQuery, which does not meet the standards for a modern front-end developer role. Furthermore, there is no evidence of experience with the specified testing frameworks, modern CSS tools, or CI/CD pipelines mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in web development, specifically with Drupal and related technologies. However, they lack direct experience with React, TypeScript, modern CSS tools, and several testing frameworks mentioned in the job description. Their experience with testing is notable, but it primarily focuses on Selenium and Behat rather than the specific frameworks desired. Overall, while they have relevant experience, they do not fully meet the specific requirements of the position.

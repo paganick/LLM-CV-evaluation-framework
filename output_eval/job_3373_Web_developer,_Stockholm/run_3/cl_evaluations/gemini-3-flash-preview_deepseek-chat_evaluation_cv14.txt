@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid foundation in general web development and the .NET ecosystem, they lack the essential hands-on experience with React and TypeScript specifically required for this role. Their profile fails to demonstrate the required proficiency in automated testing frameworks or specific web security protocols like OWASP and CSP. Consequently, the candidate would require significant upskilling to meet the technical demands of the current frontend stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career changer who lacks professional, commercial experience in software development, which is a primary requirement for this role. While they have successfully identified and learned the specific technical stack including React and Ramda, their "hands-on" experience is limited to self-directed study rather than a production environment. A strict evaluation necessitates a lower score due to the high risk associated with a lack of industry-specific tenure and proven performance in an engineering team.

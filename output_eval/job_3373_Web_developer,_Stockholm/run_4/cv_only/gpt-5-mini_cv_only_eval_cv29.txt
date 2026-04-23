@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's background is in sales, marketing, and business development with no demonstrated hands-on frontend engineering skills (JavaScript, TypeScript, React, HTML/CSS), testing frameworks, or Node/Git/AWS experience required by the role. Resume shows no technical development, coding, or modern web security knowledge; therefore they are not qualified for this position.

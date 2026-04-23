@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and project management, lacking direct experience with the required frontend technologies. While they possess a computer science degree, the resume does not demonstrate hands-on experience with JavaScript, React, or modern testing frameworks. The cover letter acknowledges this gap, indicating a career transition rather than established expertise.

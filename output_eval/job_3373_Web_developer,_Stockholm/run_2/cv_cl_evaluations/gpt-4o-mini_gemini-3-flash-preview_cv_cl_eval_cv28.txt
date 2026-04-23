@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in a relevant industry, demonstrating strong analytical skills and project management in their role at Nike. However, they lack direct experience with core frontend technologies such as JavaScript, TypeScript, and modern frameworks like React, which are critical for this role. Their technical skills seem to be more theoretical rather than practical application in a web development context.

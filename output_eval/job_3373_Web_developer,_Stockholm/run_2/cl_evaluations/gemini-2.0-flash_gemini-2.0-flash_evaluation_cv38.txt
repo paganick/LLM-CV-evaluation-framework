@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film and media, lacking the core technical skills required for a Front-End Developer position. While they mention website management and digital content creation, they don't demonstrate proficiency in JavaScript, TypeScript, modern FE frameworks (like React), or testing methodologies, all of which are essential for the role. The cover letter highlights skills that are tangential to the job description's core requirements.

@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design, with limited experience in front-end development. While the candidate possesses HTML/CSS skills, they lack the required JavaScript, TypeScript, and modern FE framework (React) expertise. The resume and cover letter demonstrate a mismatch with the job description's core technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java developer who lacks the required professional experience in the core technology stack, specifically React and TypeScript. While they possess relevant foundational knowledge in testing and web security, they explicitly state a need for training in the primary framework requested. Consequently, they do not meet the "hands-on experience" criteria necessary for this specialist position.

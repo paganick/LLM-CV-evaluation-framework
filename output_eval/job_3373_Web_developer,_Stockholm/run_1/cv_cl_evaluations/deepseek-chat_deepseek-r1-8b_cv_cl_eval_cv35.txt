@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing automation, not software development, which is a completely different industry and skillset. The resume and cover letter show no direct, hands-on experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing frameworks, etc.). While they attempt to draw parallels with systems integration and testing, these are in the context of marketing platforms, not modern web development, making them unqualified for this specific technical role.

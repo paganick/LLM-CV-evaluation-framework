@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has over seven years of experience in the banking and financial sectors but lacks direct experience with modern frontend technologies such as React, TypeScript, and associated testing frameworks. While they have a foundation in JavaScript, HTML, and CSS, their resume primarily focuses on mainframe technologies, which does not align well with the requirements of the job description. Their familiarity with Git and some backend principles is noted, but there is no evidence of adequate exposure to modern frontend practices or relevant tools.

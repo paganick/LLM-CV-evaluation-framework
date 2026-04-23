@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate brings substantial visual design and UX experience, but provides no evidence of core technical skills required (JavaScript/TypeScript, React, testing, Git, Node ecosystem, web security, CI/CD). Stating eagerness to learn does not substitute for the hands-on experience this role demands. Relevant background but insufficient technical match for the position.

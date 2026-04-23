@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong test engineering, automation, and cross-functional collaboration experience that is partially transferable to the role. However, they do not demonstrate hands-on experience with the core requirements: JavaScript/TypeScript, React, modern JS testing frameworks (Jest/Cypress/TestCafe), or the NodeJS ecosystem and CI/CD tools specified. Motivated to learn but currently lacks the specific front-end and tooling experience the position requires.

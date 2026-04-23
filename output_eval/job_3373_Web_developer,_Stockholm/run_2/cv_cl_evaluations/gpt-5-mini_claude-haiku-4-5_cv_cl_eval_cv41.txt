@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong systems engineering, debugging, testing, and security fundamentals (CompTIA Security+) but provides no concrete experience with core frontend technologies required for this role (JavaScript/TypeScript, HTML/CSS, React) or modern frontend tooling (CSS-in-JS/SASS, Node/npm, Jest/Cypress, linters, CI/CD). There is also no evidence of Git/GitHub workflow or hands-on frontend API/integration work. Given these gaps, they are relevant to tech but lack the specific frontend skills to be a strong immediate fit.

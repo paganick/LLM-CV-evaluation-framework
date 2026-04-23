@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not front-end engineering. While they possess some HTML and CSS skills, they lack experience with JavaScript, TypeScript, modern front-end frameworks (React, VueJS, Angular, Svelte), testing frameworks, and other key technologies mentioned in the job description. Their experience doesn't align with the requirements, despite their eagerness to learn.

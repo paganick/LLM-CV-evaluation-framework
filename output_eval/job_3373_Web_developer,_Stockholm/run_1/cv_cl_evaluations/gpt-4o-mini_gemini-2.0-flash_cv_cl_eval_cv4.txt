@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, which aligns with the job description; however, their expertise primarily lies in C#, SQL, and .NET, which does not meet the specific requirements for modern frontend frameworks such as React. While they mentioned testing and working in Agile environments, there is a lack of concrete experience with the preferred frameworks and security knowledge outlined in the job description.

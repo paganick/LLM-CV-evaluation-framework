@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in customer-facing roles and design, yet lacks direct experience in a UX design role, particularly in an Agile software development environment. They do not mention proficiency in Figma or exposure to HTML, CSS, or JS, which are critical for managing the UI Design System. Overall, while there are transferable skills, the absence of specific UX experience and tools results in a lower score.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume is significantly outdated, with the last relevant technical experience ending in 2017 and focusing on legacy technologies like EJB, JSP, and Windows XP. There is no evidence in the work history to support the modern React, TypeScript, or testing framework claims made in the cover letter. As a result, the candidate fails to demonstrate the required hands-on experience with the modern front-end stack specified in the job description.

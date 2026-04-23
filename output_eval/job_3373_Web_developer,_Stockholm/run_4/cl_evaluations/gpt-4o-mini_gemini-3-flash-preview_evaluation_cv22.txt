@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web technologies and a strong foundation in programming, specifically with Java and databases. However, they lack direct experience with the specific JavaScript frameworks and tools mentioned in the job description, such as testing frameworks, Git, and modern CSS tools. Additionally, their familiarity with functional programming, while noted, does not sufficiently align with the role's requirements, limiting their overall match for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong hardware/validation testing experience and some familiarity with JavaScript plus a clear willingness to learn, which are positives. However they lack hands‑on experience with core role requirements: React, TypeScript, modern CSS tooling, JS test frameworks (Jest/Cypress), automated testing and Node/npm, and they do not mention Git/GitHub or basic web security knowledge. Their QA discipline and troubleshooting skills are relevant, but they do not currently meet the position's core front-end technical expectations.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in JavaScript, HTML, and CSS, and relevant experience in web development, particularly with frameworks like React, which is a direct match for the job requirements. They also demonstrate familiarity with testing frameworks, Git, and Agile environments. However, their experience with some specific tools mentioned in the job description, such as TypeScript and CI/CD tools, is not clearly stated, preventing a perfect score.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend development, particularly with JavaScript, HTML, CSS, and React. They highlight experience with testing, code quality, and collaborative development, aligning with the job description. While they don't explicitly mention TypeScript or specific testing frameworks like Jest or Cypress, their overall skill set and experience make them a strong candidate.

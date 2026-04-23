@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in web development with strong experience in Drupal, HTML, and CSS, which is relevant. However, their experience with modern frontend frameworks like React, TypeScript, and testing frameworks such as Jest or Cypress is lacking. Additionally, there is no evidence of experience with Git or the specific security knowledge required for the role.

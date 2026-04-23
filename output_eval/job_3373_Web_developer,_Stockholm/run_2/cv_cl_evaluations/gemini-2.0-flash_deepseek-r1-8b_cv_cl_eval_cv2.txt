@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align well with the job description's emphasis on JavaScript, TypeScript, and React. While the cover letter expresses a willingness to learn, the resume lacks demonstrable experience in the core technologies required. The candidate possesses some relevant skills like Git and Agile experience but lacks the necessary frontend expertise.

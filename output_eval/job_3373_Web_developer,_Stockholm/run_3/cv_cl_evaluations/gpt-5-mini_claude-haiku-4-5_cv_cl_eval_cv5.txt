@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate's experience is overwhelmingly mainframe (COBOL, DB2, CICS) with only minimal mention of HTML and JavaScript and no verifiable, hands-on experience with React, TypeScript, modern CSS tooling, Node/npm, or frontend testing frameworks. They demonstrate strong engineering fundamentals and collaborative experience but lack the specific, practical frontend skills and toolchain knowledge required for this React-focused role. Significant upskilling or proven frontend project experience would be required before hiring.

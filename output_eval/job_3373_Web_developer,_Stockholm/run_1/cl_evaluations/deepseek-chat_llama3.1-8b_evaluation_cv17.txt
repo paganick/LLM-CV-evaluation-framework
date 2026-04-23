@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in a completely different industry (construction/engineering) and they lack all the required technical skills listed in the job description (JavaScript, TypeScript, testing, Git, modern frameworks, etc.). While they demonstrate transferable soft skills and a willingness to learn, they are effectively applying for a senior technical role with no direct, hands-on experience in the field. The application shows a fundamental mismatch between the candidate's qualifications and the core technical requirements of the position.

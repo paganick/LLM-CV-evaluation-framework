@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales and leadership, with no professional experience in software development. While the cover letter expresses interest and self-study, the resume lacks any evidence of the required technical skills in JavaScript, TypeScript, React, testing, or modern web development tools. This is a significant career transition into a role demanding specific, hands-on technical expertise not demonstrated in the provided materials.

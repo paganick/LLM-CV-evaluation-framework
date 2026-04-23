@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in IT management and cybersecurity, not frontend development. While the cover letter mentions familiarity with HTML, CSS, and JavaScript, the resume lacks concrete evidence of hands-on experience with modern FE frameworks like React, VueJS, or Angular, which are core requirements of the job. The candidate expresses interest in learning, but lacks the necessary practical experience.

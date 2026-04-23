@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows extensive web and backend experience, a strong testing/process mindset, and familiarity with security concerns, but provides no proven hands-on experience with React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), modern CSS tooling (Styled Components/SASS), or GitHub/NodeJS ecosystem that the role requires. As a strict evaluator, this is a relevant but insufficient match for a front-end-focused position that expects demonstrated competence with the specified modern stack and tools.

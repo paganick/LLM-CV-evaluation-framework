@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional background is entirely rooted in film and media production, lacking any verifiable professional experience in software engineering or the specified tech stack. While the cover letter claims self-taught knowledge of React and TypeScript, the resume provides no evidence of technical projects, contributions, or relevant industry roles. The candidate is fundamentally unqualified for a technical front-end position that requires hands-on experience with testing, CI/CD, and cloud infrastructure.

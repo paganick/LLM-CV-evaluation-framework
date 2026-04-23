@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates extensive visual design and front-end experience, claims wireframing/prototyping and cross-functional collaboration, and provides a portfolio — all relevant to the role. However, they do not explicitly show a UI/UX job title or 3+ years in a dedicated UI/UX role, nor do they list the specific wireframing/prototyping tools requested (e.g., Wireframe.cc, InVision/Figma), and their degree is not in design/engineering, so several explicit requirements are unmet.

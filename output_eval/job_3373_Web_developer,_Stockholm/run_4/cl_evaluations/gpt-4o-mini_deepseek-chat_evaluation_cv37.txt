@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in project management and IT leadership, they lack substantial hands-on experience with the specific technologies outlined in the job description, such as JavaScript, TypeScript, and modern front-end frameworks. The enthusiasm for transitioning into a developer role is noted, but the lack of direct experience with testing frameworks and CI/CD tools limits their candidacy for this position.

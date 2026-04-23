@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not professional front-end development, which is a significant mismatch. They mention relevant technologies but lack demonstrable hands-on experience or projects in the core requirements like React, testing frameworks, and modern CSS tools. While they show awareness of some desired concepts, their application is aspirational rather than proven, indicating they lack the specific technical skills required for the role.

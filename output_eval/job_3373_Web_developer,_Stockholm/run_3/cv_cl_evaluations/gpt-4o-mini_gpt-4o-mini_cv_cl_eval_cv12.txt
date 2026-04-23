@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has substantial experience in software development with relevant skills in JavaScript, HTML, CSS, and familiarity with React. They demonstrate hands-on experience with testing frameworks and Git, aligning with the job requirements. However, their experience with modern CSS tools and specific frameworks like Svelte or knowledge of functional programming using Ramda is not clearly indicated, which prevents a higher score.

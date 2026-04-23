@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in product management and some relevant experience in technology, but lacks direct experience as a Front End Developer, specifically in modern frontend frameworks like React. While they possess some knowledge of essential technologies and security principles, they do not demonstrate hands-on coding skills or the depth of expertise in JavaScript, TypeScript, and testing automation required for the role.

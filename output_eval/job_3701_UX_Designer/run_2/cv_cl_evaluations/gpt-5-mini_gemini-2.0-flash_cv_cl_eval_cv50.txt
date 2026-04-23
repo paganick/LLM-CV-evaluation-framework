@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive senior technical and product architecture experience but provides no documented commercial UX design experience or examples of running UX research, prototyping (Figma) or design-system work required by the role. There is no clear evidence of Agile delivery, hands-on UI/HTML/CSS/JS exposure, or specific workshop/facilitation and mentoring experience in a UX context. While strong on systems leadership, the resume and cover letter do not demonstrate the core, recent UX skills this position requires.

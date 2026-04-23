@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React as emphasized in the job description, and has limited experience (2 years) . The candidate's experience is more focused on .NET development, and they only claim "fundamental understanding" of API design and web security, which are important aspects of the role. While they mention Git, there is no mention of testing frameworks or CI/CD tools.

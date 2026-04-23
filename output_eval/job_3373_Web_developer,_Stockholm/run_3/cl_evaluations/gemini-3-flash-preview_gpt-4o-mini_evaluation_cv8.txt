@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career test engineer attempting to pivot into development and lacks professional experience with the core requirements of TypeScript and React. While they possess strong testing credentials and familiarity with secondary tools like SASS and Git, their primary coding experience is in Python scripting rather than frontend engineering. As a result, they do not meet the seniority or technical depth required for a specialized Frontend Developer position.

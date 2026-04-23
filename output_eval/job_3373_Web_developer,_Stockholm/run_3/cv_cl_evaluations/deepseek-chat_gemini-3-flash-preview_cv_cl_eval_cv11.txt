@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in software testing, not in front-end development as required by the job description. While they mention JavaScript, HTML, and CSS, there is no demonstrated hands-on development experience with React or other modern frameworks, nor with key tools like Node.js, styled components, or functional programming (Ramda). Their security and Agile collaboration experience is a positive, but the fundamental mismatch in primary role and technical skills makes them a weak fit for a software engineer position.

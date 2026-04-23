@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks specific frontend skills, particularly in modern frameworks and testing methodologies that are heavily emphasized in the job description. While the candidate expresses eagerness to learn, their background is primarily backend-focused, which may not fully align with the requirements for a frontend developer role. Their experience with Java and existing skills in coding and testing are positive, but they do not sufficiently meet the expectations for frontend technologies.

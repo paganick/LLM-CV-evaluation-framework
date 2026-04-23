@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has project management experience in web development but lacks in-depth, recent experience with the specific technologies listed in the job description, particularly React, TypeScript, and modern testing frameworks. While they mention JavaScript, HTML, and CSS, the resume highlights project management responsibilities over hands-on development. The cover letter acknowledges limited React experience, indicating a need for significant upskilling to meet the role's requirements.

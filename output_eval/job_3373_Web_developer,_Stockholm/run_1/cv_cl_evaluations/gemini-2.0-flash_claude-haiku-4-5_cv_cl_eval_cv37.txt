@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights project management and IT leadership experience, but lacks demonstrable frontend development skills with the technologies listed in the job description. While the cover letter expresses interest in frontend development and familiarity with Agile methodologies, it doesn't provide concrete evidence of hands-on coding experience with React, TypeScript, or modern CSS tools. The resume shows no indication of the required skills.

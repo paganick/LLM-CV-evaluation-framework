@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT support and systems administration but lacks direct experience in modern front-end development technologies and frameworks such as React, VueJS, or Angular. While they express a keen interest in learning and have some relevant skills in JavaScript, TypeScript, HTML, and CSS, their qualifications do not fully align with the specific requirements of the front-end developer position.

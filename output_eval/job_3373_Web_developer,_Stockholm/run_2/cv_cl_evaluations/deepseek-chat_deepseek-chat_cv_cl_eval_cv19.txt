@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not professional software development. While they claim self-taught proficiency in JavaScript, TypeScript, and React, their resume provides no verifiable work experience or projects to substantiate these claims against core job requirements like testing automation, security basics, or modern FE frameworks. Their foundational skills are in a related but different field, making them a career transition candidate who lacks the proven, hands-on experience required for the role.

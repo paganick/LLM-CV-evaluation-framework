@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is in sales leadership with only minimal HTML and design tool exposure and no demonstrated hands-on experience in JavaScript/TypeScript, React (or other modern frameworks), testing/automation, Git, NodeJS, or web security fundamentals required for this Front-End Engineer role. While they express motivation to transition and strong soft skills, they lack the core technical skills and practical engineering experience to fulfill the position. This gap makes them unsuitable for the role as described.

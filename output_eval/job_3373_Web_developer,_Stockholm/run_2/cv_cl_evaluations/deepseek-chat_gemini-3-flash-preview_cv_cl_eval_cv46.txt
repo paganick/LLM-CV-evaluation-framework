@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in backend Java, database administration, and older technologies, with no demonstrable hands-on experience in the core requirements of modern React development, testing frameworks, or CSS tools. While they mention some relevant keywords and a willingness to learn, their resume and cover letter lack concrete evidence of professional frontend development work with the specified stack. Their background is in a relevant industry but lacks the specific, recent skills required for this frontend role.

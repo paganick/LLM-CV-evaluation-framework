@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a high-level IT Project Manager and Director whose experience is centered on infrastructure, budgeting, and organizational leadership rather than software engineering. The resume contains zero evidence of proficiency in JavaScript, React, TypeScript, or any of the specific front-end development tools required for this role. Consequently, there is a total mismatch between the candidate's professional background and the technical requirements of the position.

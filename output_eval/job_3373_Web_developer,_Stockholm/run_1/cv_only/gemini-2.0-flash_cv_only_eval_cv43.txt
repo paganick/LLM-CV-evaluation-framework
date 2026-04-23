@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on program management and learning design, with only intermediate coding experience in R. There is no mention of the required front-end technologies like JavaScript, React, or related testing frameworks. Therefore, the candidate's skills do not align with the job description.

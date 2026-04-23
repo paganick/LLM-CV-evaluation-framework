@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, CSS, and Git. However, the resume is heavily focused on ASP.NET, and lacks the depth in modern front-end frameworks like React that the job description requires. While the cover letter mentions React, it's not substantiated by concrete experience in the resume.

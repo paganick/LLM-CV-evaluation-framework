@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic knowledge in web development technologies such as HTML, CSS, and JavaScript, but lacks hands-on experience with modern frameworks like React, and does not mention familiarity with testing frameworks, version control, or security standards specified in the job description. While there’s a solid foundation, the absence of specific practical experience and knowledge of key tools and concepts results in a moderate score indicating potential but considerable gaps.

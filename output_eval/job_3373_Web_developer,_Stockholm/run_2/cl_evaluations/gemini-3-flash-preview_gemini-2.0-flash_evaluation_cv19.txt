@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks almost all the core technical requirements for the role, specifically JavaScript, TypeScript, and hands-on experience with React. While they have a background in the relevant industry through graphic design and basic HTML/CSS, they do not possess the necessary engineering skills such as testing, Git, or web security knowledge. The cover letter indicates they are still in the learning phase for the primary technologies required for this position.

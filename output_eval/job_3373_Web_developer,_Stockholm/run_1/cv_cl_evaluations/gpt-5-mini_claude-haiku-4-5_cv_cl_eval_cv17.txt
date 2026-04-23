@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume is rooted entirely in construction and project management with no verifiable frontend engineering experience or technical projects demonstrating required skills. The application lacks evidence of proficiency in JavaScript/TypeScript, React, testing frameworks, Git workflows, Node ecosystem, modern CSS tooling, and web security practices required for the role. While transferable collaboration and project-delivery skills are present, they do not meet the specific technical qualifications for this frontend position.

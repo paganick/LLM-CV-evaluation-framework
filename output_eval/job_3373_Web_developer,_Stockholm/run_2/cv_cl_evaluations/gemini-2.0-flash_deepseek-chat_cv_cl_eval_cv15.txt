@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a general IT background but lacks specific, demonstrable experience with modern front-end frameworks like React, which is central to the job description. While they mention JavaScript, HTML, and CSS, the resume emphasizes troubleshooting and IT management rather than deep front-end development. The cover letter acknowledges limited React experience, further solidifying the mismatch.

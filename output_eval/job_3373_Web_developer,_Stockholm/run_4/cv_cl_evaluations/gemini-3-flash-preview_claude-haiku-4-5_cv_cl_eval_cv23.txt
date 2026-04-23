@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience in frontend development and does not possess the required proficiency in React, TypeScript, or modern CSS frameworks. Their background is almost entirely rooted in hardware engineering and electronics testing, with no evidence of building web applications or using the specified CI/CD and cloud tools. While they have a foundation in general software testing, they are unqualified for a role requiring specialized modern web development expertise.

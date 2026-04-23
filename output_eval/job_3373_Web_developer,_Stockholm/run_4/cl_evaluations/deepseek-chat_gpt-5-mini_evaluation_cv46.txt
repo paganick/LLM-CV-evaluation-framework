@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is heavily skewed towards server-side, database, and legacy systems, with minimal direct front-end development experience. They lack demonstrated, practical experience with the core requirements: modern React, TypeScript, CSS tools, and front-end testing frameworks/automation. While they show strong general engineering principles and a willingness to learn, they do not currently meet the specific technical qualifications for the role.

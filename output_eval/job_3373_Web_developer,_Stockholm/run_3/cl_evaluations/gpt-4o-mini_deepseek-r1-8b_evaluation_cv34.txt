@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML, CSS, and SQL, as well as some technical aptitude from their work in digital marketing and Salesforce. However, they lack direct hands-on experience with JavaScript, TypeScript, or React, and do not mention familiarity with modern testing frameworks or tools that are critical for the role. Their project management background is a positive, but it does not fully compensate for the lack of specific development skills required for this position.

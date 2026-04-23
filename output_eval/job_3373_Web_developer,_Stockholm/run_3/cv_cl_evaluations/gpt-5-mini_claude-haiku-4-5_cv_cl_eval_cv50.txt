@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a technical foundation (BS in Computer Science) and extensive IT/project management experience but lacks any demonstrated hands-on frontend development experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, or CI/CD and cloud infra required for this role. Their cover letter expresses willingness to learn but does not provide evidence of the specific skills or recent practical experience needed to be a good fit for the position.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience in relevant technologies such as JavaScript, TypeScript, HTML, and CSS, with specific mention of React, which aligns with the company's requirements. They also highlight testing and collaboration skills, along with experience in Agile environments. However, there is no mention of modern CSS tools, familiarity with the NodeJS ecosystem, or CI/CD tools, which slightly lowers their score.

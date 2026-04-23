@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general web and backend experience (HTML, CSS, JavaScript, Node.js, APIs) and 5 years of development experience, but lacks key, explicit front-end qualifications required for this role: no React or TypeScript experience, no mention of modern front-end tooling (Styled Components/SASS), no testing frameworks/automation (Jest/Cypress/TestCafe), and no Git/CI/CD/AWS/Terraform or web security experience. Overall relevant industry background but missing the specific, modern front-end and testing skills needed to be a strong fit.

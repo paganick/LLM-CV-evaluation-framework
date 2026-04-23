@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development, but primarily with the .NET stack, not the JavaScript-focused environment described in the job description. While they express interest in learning React and other modern frontend tools, their current skillset doesn't align strongly with the requirements. They lack direct experience with many of the listed technologies like React, testing frameworks (Jest, Cypress), and CI/CD tools.

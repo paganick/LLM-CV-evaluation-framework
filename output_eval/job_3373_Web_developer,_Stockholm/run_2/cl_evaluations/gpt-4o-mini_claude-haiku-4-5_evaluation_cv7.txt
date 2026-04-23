@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses relevant skills in graphic design and has an understanding of web concepts, they lack direct experience with essential technologies required for the frontend developer role, including JavaScript, TypeScript, HTML, and CSS with React. Though there is a willingness to learn and a collaborative mindset, the absence of practical experience in the core technologies and frameworks makes them a lesser match for the position.

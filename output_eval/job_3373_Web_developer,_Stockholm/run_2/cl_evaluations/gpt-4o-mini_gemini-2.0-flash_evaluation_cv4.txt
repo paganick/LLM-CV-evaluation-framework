@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software development and mentions JavaScript, HTML, and CSS, they lack specific experience with React, a key requirement of the job description. Additionally, there is no mention of TypeScript, modern CSS tools, or the other required technologies such as testing frameworks and CI/CD tools, which are crucial for the role. The candidate demonstrates strong collaboration and a commitment to clean coding, but the gaps in specific skills prevent a higher score.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design and HTML/CSS experience, demonstrating a good foundation for a transition. However, they lack proven, hands-on experience with the core requirements: modern JavaScript frameworks (React), testing, Git, web security, and the specific tools listed. Their academic and self-directed learning is noted but does not substitute for professional experience in these key areas.

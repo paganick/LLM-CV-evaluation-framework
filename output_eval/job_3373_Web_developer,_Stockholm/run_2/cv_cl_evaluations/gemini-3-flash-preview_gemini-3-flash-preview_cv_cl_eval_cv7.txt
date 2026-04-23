@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer whose professional resume shows no evidence of experience with JavaScript, TypeScript, React, or any of the required modern frontend engineering tools. While the cover letter claims these skills, the resume focuses entirely on print media, Adobe Creative Suite, and visual merchandising, failing to provide any professional history or technical validation for a software development role. The candidate does not meet the minimum technical requirements for the position.

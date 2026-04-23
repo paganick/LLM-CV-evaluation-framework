@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a background in Graphic Design and relevant knowledge of HTML, CSS, and basic web security concepts, they lack substantial experience with JavaScript and TypeScript, as well as hands-on experience with modern testing frameworks and tools that are critical for the front-end developer position. The enthusiasm for learning is commendable, but the gaps in key technical skills prevent them from being a strong candidate for the role.

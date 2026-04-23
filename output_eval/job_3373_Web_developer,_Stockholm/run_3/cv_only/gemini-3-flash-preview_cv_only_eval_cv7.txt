@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer with no evidence of experience in software engineering or modern frontend development. They lack all the mandatory technical skills including JavaScript, TypeScript, React, and testing frameworks. Their background in print media and Adobe Creative Suite does not meet the requirements for this technical programming role.

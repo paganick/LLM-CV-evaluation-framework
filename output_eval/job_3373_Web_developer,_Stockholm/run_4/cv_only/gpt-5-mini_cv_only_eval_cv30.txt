@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is concentrated in data analytics, SQL, SAS, Python and some ASP.NET/C#, with only HTML listed and no demonstrated JavaScript/TypeScript, React (or other modern front-end) experience, front-end testing, Node/npm, modern CSS tools, or CI/CD exposure. These are core requirements for the role, so they do not meet the essential technical qualifications. While they show strong analytical and data-handling skills, they lack the necessary front-end technology stack and hands-on web development experience to be considered a fit.

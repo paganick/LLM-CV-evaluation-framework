@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer from business banking and sales who lacks the necessary professional experience in JavaScript, TypeScript, and front-end development. There is no evidence of hands-on proficiency with testing frameworks, CI/CD tools, or the NodeJS ecosystem required by the job description. The application focuses on soft skills and business acumen rather than the technical engineering competencies essential for this role.

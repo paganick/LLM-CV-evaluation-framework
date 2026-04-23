@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in web development, their background is predominantly centered on the ASP.NET and SharePoint ecosystems, which does not align with the required modern JavaScript stack. The resume lacks evidence of professional experience with React, TypeScript, Node.js, or the specific testing and CI/CD tools mentioned in the job description. Despite claims in the cover letter, the core technical skills demonstrated in the work history are largely irrelevant to the specific requirements of this role.

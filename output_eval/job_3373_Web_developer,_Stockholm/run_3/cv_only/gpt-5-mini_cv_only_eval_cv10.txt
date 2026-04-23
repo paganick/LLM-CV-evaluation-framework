@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has basic front-end skills (HTML, CSS, JavaScript) and AngularJS experience, plus Git and Agile exposure, but lacks required modern stack experience — no React or TypeScript, no modern testing frameworks (Jest/Cypress), no Node/npm/Yarn or CI/CD/AWS/Terraform knowledge. The resume indicates back-end/Java and legacy front-end work rather than the React/modern FE tooling and automated testing expertise this role requires. Overall relevant industry background but missing multiple core skills, so not a good match.

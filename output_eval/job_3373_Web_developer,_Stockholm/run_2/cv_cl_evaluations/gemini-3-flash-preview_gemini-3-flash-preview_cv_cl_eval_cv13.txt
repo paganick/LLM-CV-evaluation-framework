@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Project Manager whose hands-on development experience is significantly dated and lacks the required proficiency in React and TypeScript. While they have a relevant background in the tech industry and Agile methodologies, they fail to demonstrate current professional experience with modern testing frameworks (Jest/Cypress), CI/CD tools, or web security protocols. The profile does not meet the technical depth required for a modern front-end engineering role.

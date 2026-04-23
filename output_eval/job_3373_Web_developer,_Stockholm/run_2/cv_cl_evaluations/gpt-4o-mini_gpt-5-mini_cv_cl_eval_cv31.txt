@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in sales and team leadership, they lack the technical skills and experience explicitly required for the Front-End Engineer role, such as proficiency in JavaScript, modern front-end frameworks, testing automation, and web security knowledge. Their technical foundation appears limited to HTML and desktop publishing tools, which do not align with the demands of the position.

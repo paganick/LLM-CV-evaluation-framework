@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions Javascript, HTML, and CSS in the cover letter, the resume lacks concrete front-end development experience, focusing instead on lab technician duties. There's a stated familiarity with some tools, but not a demonstrated proficiency with the core requirements like React or testing frameworks. The candidate would need significant upskilling to meet the job requirements.

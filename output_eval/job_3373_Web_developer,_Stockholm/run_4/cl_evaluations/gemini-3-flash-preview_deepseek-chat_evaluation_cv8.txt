@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career changer with over a decade of experience in hardware test engineering but no professional history as a front-end developer. While they possess strong transferable skills in testing and automation, they lack demonstrated professional experience with the modern web stack, specifically missing requirements for functional programming, web security protocols (OWASP/CORS), and cloud infrastructure. The application fails to show evidence of working on production-level front-end codebases in a commercial environment.

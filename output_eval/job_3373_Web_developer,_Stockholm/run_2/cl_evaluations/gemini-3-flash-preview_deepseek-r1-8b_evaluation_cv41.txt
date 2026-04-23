@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the essential hands-on experience required for this role, specifically failing to demonstrate proficiency in JavaScript, TypeScript, or React. While they possess a relevant background in systems engineering and security, their admission of needing to "ramp up" on the core frontend technologies makes them unqualified for a position demanding immediate technical contribution. The absence of experience with testing frameworks and modern web development tools further separates the candidate from the established requirements.

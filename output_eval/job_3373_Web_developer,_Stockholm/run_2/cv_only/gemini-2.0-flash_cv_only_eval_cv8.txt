@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume indicates experience in test engineering within electronics manufacturing, but lacks specific mention of modern front-end technologies like JavaScript, React, or related frameworks. While Python scripting is listed, it's for test automation in a different context. The resume doesn't demonstrate the required web development skills or familiarity with the NodeJS ecosystem, security on the web, or CI/CD tools mentioned in the job description.

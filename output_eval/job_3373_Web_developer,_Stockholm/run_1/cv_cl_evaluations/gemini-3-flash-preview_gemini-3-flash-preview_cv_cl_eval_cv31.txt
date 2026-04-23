@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is professionally established in sales management and hospitality, lacking any verifiable work history or technical experience in software development. While the cover letter mentions required frameworks like React and TypeScript, the resume provides no evidence of hands-on professional application, focusing instead on sales targets and leadership. The candidate does not meet the minimum technical requirements for a frontend developer role.

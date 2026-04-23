@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in electronics and some software testing experience, but they do not have the required skills in JavaScript, TypeScript, or modern front-end frameworks like React. Their experience in test automation and CI/CD tools is limited and does not align with the needs of the position. Overall, they lack specific and relevant experience for the job described.

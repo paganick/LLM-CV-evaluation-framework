@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is heavily focused on legacy .NET technologies and jQuery, failing to demonstrate the required professional expertise in React, TypeScript, or modern frontend ecosystems. There is a total lack of evidence regarding modern testing frameworks, functional programming, or CI/CD tools mentioned in the job description. Furthermore, the candidate's work history is significantly outdated, with no professional experience listed after 2016.

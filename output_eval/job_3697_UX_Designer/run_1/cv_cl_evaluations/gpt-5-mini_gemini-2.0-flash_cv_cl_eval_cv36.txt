@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a Fine Art degree, illustration experience and Photoshop skills and claims web/design work and a portfolio, which shows basic relevance to UI/UX. However the resume lacks demonstrable UI/UX roles, no evidence of wireframing/prototyping tools (Wireframe.cc, InVision), Adobe Illustrator, or collaboration with product/engineering on UX deliverables. Employment history is largely non-design (sales, security, maintenance), so they do not meet the job's explicit UX experience and tool requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not software development. While the cover letter mentions a career transition and some relevant skills, the resume lacks demonstrable experience with the core technologies listed in the job description, such as React, TypeScript, and modern front-end testing frameworks. The listed technical skills are very basic and not aligned with the requirements.

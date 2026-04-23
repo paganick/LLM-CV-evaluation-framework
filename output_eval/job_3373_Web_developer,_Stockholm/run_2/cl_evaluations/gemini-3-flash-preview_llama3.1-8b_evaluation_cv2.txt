@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses significant IT experience and Agile knowledge, their background is heavily focused on legacy Java/J2EE technologies, which creates a significant skills gap for this React and TypeScript-centric role. The applicant fails to mention any experience with modern frontend frameworks, cloud infrastructure, or the specific testing and security protocols required by the job description. Consequently, the candidate lacks the core technical competencies necessary to fulfill the requirements of this specific position.

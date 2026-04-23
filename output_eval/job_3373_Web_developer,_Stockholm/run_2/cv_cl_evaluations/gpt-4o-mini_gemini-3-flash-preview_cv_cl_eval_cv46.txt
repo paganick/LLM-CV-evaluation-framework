@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant educational background and has experience with core web technologies like JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frontend frameworks such as React, which is crucial for this role. While they have some understanding of testing and version control, the overall alignment with the job description is limited, resulting in a lower score.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates significant relevant experience in frontend development and has a solid understanding of the required technologies, including React, TypeScript, and modern CSS tools. Their consulting background and leadership skills in Agile environments align well with the job's needs. However, while they express familiarity with many required tools, the cover letter lacks explicit mention of some specific tools and concepts like linter or specific API design experience, which prevents a perfect score.

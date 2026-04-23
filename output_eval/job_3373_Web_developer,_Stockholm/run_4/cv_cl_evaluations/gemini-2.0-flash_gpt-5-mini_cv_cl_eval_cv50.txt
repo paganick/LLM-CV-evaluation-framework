@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights project management, business development, and quality engineering, with a computer science degree from 1984. There is no mention of JavaScript, TypeScript, React, or modern FE frameworks outlined in the job description. While the cover letter mentions a willingness to learn, the lack of demonstrable frontend experience is a significant drawback.

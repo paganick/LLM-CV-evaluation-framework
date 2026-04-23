@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in design and some understanding of web technologies, but lacks substantial experience with JavaScript and modern frameworks such as React. Their limited hands-on experience with testing frameworks and the NodeJS ecosystem also indicates a gap compared to the job requirements. Additionally, while they demonstrate a willingness to learn, they do not sufficiently meet the technical qualifications outlined in the job description.

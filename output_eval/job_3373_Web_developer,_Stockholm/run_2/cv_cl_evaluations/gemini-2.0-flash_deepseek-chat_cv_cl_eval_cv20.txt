@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but primarily with .NET technologies, not the JavaScript ecosystem emphasized in the job description. While they express interest in React and modern tools, their experience is limited to older technologies like ASP.NET and jQuery. The resume demonstrates database and backend experience more than front-end expertise.

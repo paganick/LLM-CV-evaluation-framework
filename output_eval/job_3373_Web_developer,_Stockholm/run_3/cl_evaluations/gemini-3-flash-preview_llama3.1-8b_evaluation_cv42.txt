@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's 20-year professional history is centered in financial operations and publishing, representing a complete industry and functional mismatch for a software engineering position. While the letter lists required technologies, it offers no evidence of professional hands-on development experience, testing proficiency, or clean code practices. As a senior executive in finance, the candidate lacks the technical tenure and engineering background necessary to fulfill the requirements of this developer role.

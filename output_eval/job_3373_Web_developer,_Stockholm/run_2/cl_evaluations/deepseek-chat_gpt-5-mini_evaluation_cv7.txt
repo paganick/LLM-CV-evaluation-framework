@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive design experience is in a relevant industry but lacks the specific technical skills required for the front-end engineering role. The cover letter demonstrates no hands-on experience with the listed technologies (React, TypeScript, testing frameworks, Git, modern tooling) and fails to provide concrete evidence of programming proficiency. While the candidate's soft skills and eagerness to learn are assets, they do not offset the fundamental lack of required technical qualifications.

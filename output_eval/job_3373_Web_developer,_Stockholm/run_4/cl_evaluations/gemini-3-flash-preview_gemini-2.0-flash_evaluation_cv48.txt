@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required professional experience with JavaScript, TypeScript, and modern React frameworks, positioning themselves as a career-changer rather than an established developer. While the applicant has a strong IT infrastructure background, they fail to demonstrate any hands-on experience with testing, Git, or front-end development tools mentioned in the job description. The letter focuses on a desire to learn these technologies rather than possessing the skills necessary to perform the role immediately.

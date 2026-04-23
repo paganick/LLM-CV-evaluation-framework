@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong security knowledge, systems thinking, and leadership experience that align with the role's security and collaboration expectations. However, they explicitly admit limited hands-on experience with JavaScript/TypeScript, React, Ramda, and test automation—core technical requirements—and provide no concrete frontend projects or demonstrable outcomes. Given the clear gap in practical frontend development experience, they are relevant to the industry but currently lack the specific skills needed for this position.

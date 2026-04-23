@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in front-end development, particularly with JavaScript, HTML, and CSS. However, they lack specific mentions of TypeScript and the modern frameworks mentioned in the job description, such as React, VueJS, or Angular. Their experience in testing is mentioned but does not align with the specific frameworks noted in the job listing. Overall, the candidate shows promise but does not fully meet the key requirements.

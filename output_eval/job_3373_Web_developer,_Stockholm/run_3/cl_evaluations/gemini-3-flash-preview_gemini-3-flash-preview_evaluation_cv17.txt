@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a strong theoretical grasp of the specific technical stack, including niche requirements like functional programming with Ramda and web security protocols. However, their entire professional history is within the Civil Engineering and Oil & Gas sectors, lacking any verifiable professional experience as a software developer. From a strict recruiting perspective, the candidate is a career-changer without the proven commercial tenure required for a production-level frontend role.

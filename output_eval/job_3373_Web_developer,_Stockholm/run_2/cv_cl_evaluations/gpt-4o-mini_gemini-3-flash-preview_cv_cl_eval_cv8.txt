@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering and a solid technical background, but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the position. While they have relevant skills in Python and testing automation, their profile does not demonstrate familiarity with the specific technologies and tools outlined in the job description.

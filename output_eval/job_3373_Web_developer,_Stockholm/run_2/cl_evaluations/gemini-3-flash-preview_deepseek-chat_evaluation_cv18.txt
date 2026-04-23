@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive general IT and web consulting experience, they lack professional hands-on proficiency in the core required technologies, specifically React and TypeScript. They explicitly admit to needing further development in essential areas such as automated testing (Jest, Cypress) and CI/CD pipelines. The profile focuses heavily on legacy server technologies and general web design rather than the modern front-end engineering expertise demanded by the job description.

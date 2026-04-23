@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in the technology sector and has some familiarity with the required technologies, such as HTML, React, and testing frameworks. However, there is a lack of specific mention of hands-on experience with JavaScript and TypeScript, as well as testing automation tools and CI/CD practices that are essential for the role. Overall, while the candidate shows potential, they do not fully meet all the criteria outlined in the job description.

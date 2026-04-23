@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT Systems Administrator whose experience is centered on infrastructure, hardware maintenance, and network support rather than software development. There is no evidence of proficiency in the required tech stack, specifically JavaScript, TypeScript, React, or modern testing frameworks. While the candidate mentions these technologies in the cover letter, the resume fails to demonstrate any professional application of the skills necessary for a frontend engineering role.

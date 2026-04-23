@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has 8.5 years of experience in software development and mentions working with web technologies, which aligns with the industry. However, they lack direct experience with JavaScript frameworks like React, TypeScript, and modern testing automation tools, which are critical for the position. Their background in Java/J2EE indicates a strong technical foundation, but the specific competencies required in the job description have not been sufficiently demonstrated.

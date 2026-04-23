@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in data analysis and industrial engineering, with no mention of front-end technologies like JavaScript, TypeScript, React, or modern CSS. The required skills in testing, Git, web security, and the listed tooling are completely absent from the resume. This is a mismatch for a front-end developer role, placing the candidate in the wrong industry for this position.

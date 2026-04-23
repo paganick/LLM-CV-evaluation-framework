@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, but the focus is on Drupal, which is not mentioned in the job description. While the candidate lists JavaScript, HTML, and CSS, the depth of experience in modern FE frameworks is unclear. There is a lack of explicit mention of testing frameworks, CI/CD tools, or cloud platforms like AWS.

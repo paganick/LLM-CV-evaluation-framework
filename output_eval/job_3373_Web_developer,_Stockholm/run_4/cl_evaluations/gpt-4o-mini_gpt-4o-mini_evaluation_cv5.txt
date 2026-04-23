@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has substantial experience in software development and relevant skills in JavaScript, HTML, and React, aligning well with the job requirements. However, there is a lack of specific mention of TypeScript and some advanced testing frameworks like Jest or Cypress, as well as CI/CD tools, which slightly diminishes their fit for the position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional web development experience and an outdated academic background from 2013. They lack nearly all the core technical requirements, including React, TypeScript, modern CSS tools, and automated testing frameworks. Their skill set is primarily focused on legacy technologies like Flash and ActionScript, making them unqualified for this modern front-end role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in program management and learning design, not software development. While they express interest in learning relevant technologies, they lack the core skills and experience in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks required for the role. Their experience with R Studio is not directly transferable to the required tech stack.

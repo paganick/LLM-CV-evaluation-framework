@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in your Front-End Developer position. With a strong foundation in HTML and CSS from my professional experience, combined with a deep-seated passion for clean, user-centric code and a proven track record in collaborative, Agile environments, I am confident I possess the skills and mindset to excel on your team.
+
+My career has been dedicated to translating complex requirements into intuitive, visually compelling digital experiences. As a Presentation and Multimedia Designer, I have honed my skills in HTML, CSS, and the Adobe Creative Suite to build functional mobile sites, interactive prototypes, and marketing assets. This role required meticulous attention to detail and a relentless focus on delivering polished products under deadline—a discipline I am eager to apply to modern web development. Furthermore, my experience as a User Experience and Interaction Designer, where I led projects from wireframing and prototyping in Axure RP through to usability testing and implementation, directly aligns with your need for a professional who understands the full domain and thrives on cross-functional collaboration.
+
+I have proactively expanded my technical skill set to include JavaScript and modern frameworks like React, and I am deeply interested in the principles of functional programming and robust testing practices. My background in Computer Science provides a solid foundation for quickly grasping the Node.js ecosystem, API design, and security fundamentals. The technologies listed in your description, from testing with Jest to styling with Styled Components, represent the exact toolkit I am passionate about mastering and applying to build secure, scalable, and maintainable applications.
+
+I am particularly drawn to your emphasis on clean code and Agile collaboration. My history of working closely with producers, project teams, and external partners to resolve design challenges and deliver on client briefs has ingrained in me the communication and teamwork skills essential for success in a dynamic engineering environment.
+
+Thank you for considering my application. I am eager to discuss how my unique blend of design sensibility, technical aptitude, and collaborative drive can contribute to your team's success.
+
+Sincerely,
+Alexis

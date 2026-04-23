@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The applicant has relevant adjacent experience (HTML/CSS, design, security awareness) and a clear willingness to learn, but explicitly lacks core technical requirements—no JavaScript/TypeScript, no React experience, no testing/test automation, and no demonstrated Git/Node tooling knowledge. Those are essential for this position, so despite transferable skills the candidate is not currently qualified for the role.

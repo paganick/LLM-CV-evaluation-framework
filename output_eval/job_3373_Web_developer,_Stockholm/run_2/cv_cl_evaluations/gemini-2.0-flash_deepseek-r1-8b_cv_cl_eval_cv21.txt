@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript, HTML, and CSS but lacks experience with modern FE frameworks like React, which is a key requirement. The resume leans heavily towards .NET technologies, and there's no mention of crucial aspects like testing frameworks, CI/CD, or modern CSS tools. While the cover letter expresses interest in modern practices, the resume doesn't provide sufficient evidence of hands-on experience.

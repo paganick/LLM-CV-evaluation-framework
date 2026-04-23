@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant skills in JavaScript/TypeScript, React, testing frameworks (Jest, TestCafe, Cypress), Git, web security basics, Agile collaboration and a proven focus on clean code — matching core requirements. However, their background is primarily Java/JEE and they do not demonstrate explicit experience with the Node.js ecosystem (npm/Yarn/Express), modern CSS tools (Styled Components/SASS), functional libraries like Ramda, CI/CD (CircleCI) or AWS/Terraform, which prevents a higher score.

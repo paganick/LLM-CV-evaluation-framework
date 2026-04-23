@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume showcases extensive experience in graphic design, which is not aligned with the JavaScript, React, and related technologies mentioned in the job description. While the candidate lists HTML and CSS, the resume lacks any mention of modern FE frameworks, testing, or backend technologies needed for the role. The candidate's skills are primarily focused on design software and print media, making them unsuitable for a front-end development position.

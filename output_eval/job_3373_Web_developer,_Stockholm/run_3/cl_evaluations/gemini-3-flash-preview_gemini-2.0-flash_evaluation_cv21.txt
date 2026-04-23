@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to mention any experience with the primary technologies requested, specifically React and TypeScript, focusing instead on an outdated AngularJS stack. While they possess general software development experience and understand Agile, they omit critical requirements such as Git, web security (OWASP), and modern testing frameworks like Jest or Cypress. As a strict recruiter, the lack of alignment with our specific tech stack and failure to address the core requirements results in an unqualified evaluation.

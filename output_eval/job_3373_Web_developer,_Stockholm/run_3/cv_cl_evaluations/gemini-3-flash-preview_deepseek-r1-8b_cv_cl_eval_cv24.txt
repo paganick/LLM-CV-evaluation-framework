@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical software engineering role, as their professional background is in journalism and digital communications rather than web development. They lack all required technical competencies, including JavaScript, TypeScript, React, and experience with testing automation or CI/CD pipelines. This application represents a complete industry mismatch with zero overlap in the essential programming skills requested.

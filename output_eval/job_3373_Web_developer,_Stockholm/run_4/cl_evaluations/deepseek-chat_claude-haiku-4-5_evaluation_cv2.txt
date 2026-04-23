@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a strong foundational understanding of key technologies like JavaScript, Agile, and Git. However, they lack direct, hands-on experience with the core React and modern frontend stack specified in the job description, presenting themselves as a career-transition candidate. Their enthusiasm, collaborative skills, and clean code principles are strong cultural fits, but the absence of proven, practical experience with the required tools lowers the score.

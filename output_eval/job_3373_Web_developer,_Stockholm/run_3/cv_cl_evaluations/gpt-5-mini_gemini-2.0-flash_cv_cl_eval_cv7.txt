@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has 15+ years in graphic design but shows no demonstrable experience with JavaScript/TypeScript, React (or other modern frameworks), testing, Git, Node/npm, or web security and cloud/CI tooling required for this front-end developer role. Their strengths in visual design, UX sensibility, and collaboration are relevant but do not meet the technical bar. Significant upskilling and verifiable coding work would be required before being considered for this position.

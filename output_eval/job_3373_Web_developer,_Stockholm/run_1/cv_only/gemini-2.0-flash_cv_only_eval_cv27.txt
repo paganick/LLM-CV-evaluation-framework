@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume primarily showcases experience in administrative, artistic, and supervisory roles, lacking specific experience with JavaScript, modern FE frameworks, or related technologies mentioned in the job description. While the resume mentions "html" under skills, it's insufficient to demonstrate the required depth of knowledge for the role. There is no indication of experience with testing, Git, or web security concepts.

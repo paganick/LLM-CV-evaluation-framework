@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background in web development with experience in JavaScript, HTML, and CSS, but the resume lacks explicit projects showcasing modern FE frameworks like React, which is a core requirement. While the cover letter mentions React, the resume focuses more on older technologies and general IT consulting, suggesting a gap in current, hands-on front-end development. The candidate touches upon testing and security aspects, but the depth of experience is not clearly demonstrated.

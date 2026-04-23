@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in test automation, modern web technologies, and Agile collaboration, which aligns well with the job's core requirements. However, the cover letter heavily emphasizes Java/Spring and Selenium, while the role prioritizes modern JavaScript/TypeScript, React, and specific tools like Jest or Cypress. The candidate's skills are transferable and demonstrate capability, but the direct technical match is not perfect.

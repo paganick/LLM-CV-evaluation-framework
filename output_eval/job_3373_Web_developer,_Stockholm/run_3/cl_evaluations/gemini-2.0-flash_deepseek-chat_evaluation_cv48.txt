@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in front-end development with React, JavaScript, and testing frameworks, aligning with the job description. Their experience in Agile environments and understanding of security principles like OWASP and CORS are also positive. However, the cover letter emphasizes past roles more than showcasing current front-end projects or contributions, which could be strengthened.

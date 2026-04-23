@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume documents a long career in construction and engineering with no verifiable professional experience, portfolio, or projects in front-end development. The cover letter's claims of JavaScript/TypeScript, React, testing, and tooling knowledge are unsubstantiated by the resume, certifications, or links to work. Given the job's requirement for hands-on modern front-end experience, testing/CI skills, and proven toolchain use, the candidate does not meet the necessary qualifications.

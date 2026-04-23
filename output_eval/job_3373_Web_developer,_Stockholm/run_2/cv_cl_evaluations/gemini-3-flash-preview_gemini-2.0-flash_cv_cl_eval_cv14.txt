@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced web developer, their professional background is heavily centered on ASP.NET, C#, and legacy tools like jQuery, rather than the modern React/TypeScript stack required for this role. The resume lacks evidence of professional experience with mandatory skills such as modern testing frameworks (Jest/Cypress), CSS-in-JS, or functional programming (Ramda). Despite claims in the cover letter, the project history does not demonstrate the necessary front-end specialization or familiarity with the specified modern ecosystem.

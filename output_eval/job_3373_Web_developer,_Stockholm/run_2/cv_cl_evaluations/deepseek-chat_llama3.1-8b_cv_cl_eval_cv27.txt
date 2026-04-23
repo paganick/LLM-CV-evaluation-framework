@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration and education, with no professional experience in software development. The resume lists only "html" as a technical skill, with no mention of JavaScript, TypeScript, CSS, React, testing, Git, or any other technologies from the job description. The cover letter expresses interest but does not demonstrate any practical, hands-on experience required for the role.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Developer position. While my formal background is in assistant direction, media production, and arts education, my career has been built around design, technical troubleshooting, cross‑functional collaboration and clear documentation—strengths I will bring to a React-based frontend team.
+
+In roles as an Assistant Director and Video/Media Director I designed and delivered user-facing media, maintained web‑design and graphic assets, and produced polished front-end content. I have practical experience with HTML and web design, Creative Suite, Final Cut Pro and camera/editing workflows. I routinely created and maintained written materials—policies, procedures, budget reports, project proposals and technical documentation—that improved team efficiency and reduced errors.
+
+My work has required rigorous inspection and troubleshooting: evaluating construction and maintenance work, coordinating asbestos containment, monitoring safety programs, and responding to emergencies. That operational discipline translates directly into a strong testing and quality mindset: I approach features with care for edge cases, reproducibility, and clear acceptance criteria. I am experienced in facilitating meetings and workshops, supervising staff, and collaborating with external partners such as vendors, architects and public agencies to deliver complex projects on time and within budget.
+
+I am eager and highly capable of transitioning into a hands‑on frontend engineering role. I learn new technologies quickly and enjoy mastering modern toolchains; I am motivated to gain expertise in JavaScript, TypeScript, React, modern CSS solutions, testing frameworks, NodeJS tooling and CI/CD practices. My strengths in writing and documentation support producing clean, maintainable code and clear API designs. I value humility, kindness, and teamwork, and thrive in environments that prioritize collaboration and continuous improvement.
+
+Across many roles I have led small teams, coordinated multi‑vendor schedules, managed budgets, and maintained detailed archives of media and project assets. Those responsibilities developed a disciplined workflow habit—tracking changes, documenting rationale, and ensuring reproducible results—that will support high-quality frontend development and accelerate team onboarding efforts.
+
+I would welcome the opportunity to contribute my project management, user-focused design sensibility, and disciplined testing approach to your team while rapidly building the specific technical skills you use. Thank you for considering my application; I look forward to the possibility of discussing how my background can support your goals.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in senior product management and business strategy, with no evidence of hands-on software development experience. The cover letter claims proficiency in JavaScript, TypeScript, React, and testing frameworks, but these skills are not substantiated anywhere in the provided resume. This is a severe mismatch for a frontend engineering role requiring deep technical execution skills.

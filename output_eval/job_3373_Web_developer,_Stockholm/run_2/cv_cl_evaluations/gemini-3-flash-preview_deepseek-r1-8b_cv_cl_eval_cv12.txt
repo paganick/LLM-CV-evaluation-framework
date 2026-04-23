@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant general software engineering experience, they lack professional proficiency in the specific modern frontend stack required, such as React, TypeScript, and functional programming. The resume shows no evidence of using modern testing frameworks like Jest or Cypress, nor does it demonstrate experience with CI/CD tools or AWS. The candidate's background is primarily centered on PHP and legacy technologies, making them a poor fit for a modern React-focused role.

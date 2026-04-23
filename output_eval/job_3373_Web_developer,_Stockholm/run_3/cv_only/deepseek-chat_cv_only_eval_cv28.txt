@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials engineering, quality analysis, and supply chain within the apparel/manufacturing industry, with no mention of any front-end development technologies, frameworks, or practices listed in the job description. The required skills in JavaScript, React, testing, Git, and modern web development are entirely absent from the resume. This is a complete industry mismatch, and the candidate is unqualified for the software engineering role.

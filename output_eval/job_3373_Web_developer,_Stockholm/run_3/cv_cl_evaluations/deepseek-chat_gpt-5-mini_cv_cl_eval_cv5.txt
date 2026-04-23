@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and is completely misaligned with the required modern front-end stack (React, TypeScript, Node.js). While they mention JavaScript and HTML, there is no demonstrated professional experience with any of the required frameworks, testing libraries, or modern web development tools. Their background is in a different industry and technology paradigm, making them unqualified for this specific role.

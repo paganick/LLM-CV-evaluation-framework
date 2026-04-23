@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a construction and project management background to frontend software development, which indicates a significant lack of direct experience in the required technical skills such as JavaScript, TypeScript, and modern frontend frameworks. While they demonstrate strong project management and collaboration skills, they do not have sufficient hands-on experience with the core technologies or testing frameworks outlined in the job description.

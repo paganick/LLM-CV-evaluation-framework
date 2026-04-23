@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume indicates a strong background in executive administrative and artistic roles but lacks critical technical skills and experience directly related to web development, specifically the required JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks such as React. There is no mention of testing automation, Git, or security knowledge which are essential for the job description.

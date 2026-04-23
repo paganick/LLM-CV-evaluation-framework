@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of experience with core technologies like JavaScript, HTML, and CSS, they fail to mention proficiency in React and TypeScript, which are central requirements for this role. The cover letter focuses heavily on C#, .Net, and Machine Learning frameworks that are not requested in the job description, suggesting a misalignment with the desired tech stack. Furthermore, the applicant lacks specific mentions of modern frontend tooling, Node.js, or the required testing libraries such as Jest or Cypress.

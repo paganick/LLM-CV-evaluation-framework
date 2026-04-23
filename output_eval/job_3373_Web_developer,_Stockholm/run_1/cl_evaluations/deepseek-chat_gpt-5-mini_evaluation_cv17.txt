@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's leadership and engineering discipline are impressive, but they lack the specific, hands-on technical experience required for the front-end role. Their stated skills in JavaScript, TypeScript, and React are aspirational ("actively building practical competence") rather than demonstrated professional experience. While their soft skills align, the absence of proven, recent work with the core technologies, testing frameworks, and modern toolchain listed in the job description makes them unqualified for the position as advertised.

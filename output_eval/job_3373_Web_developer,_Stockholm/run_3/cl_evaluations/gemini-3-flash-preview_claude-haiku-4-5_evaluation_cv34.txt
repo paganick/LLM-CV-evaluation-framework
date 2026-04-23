@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, which are central to the role's requirements. While they possess a basic foundation in HTML and CSS, they have no professional experience with modern frontend frameworks, version control, or the testing suites specified in the job description. Their background as an Implementation Consultant is relevant to the tech industry, but they do not meet the minimum engineering standards for this position.

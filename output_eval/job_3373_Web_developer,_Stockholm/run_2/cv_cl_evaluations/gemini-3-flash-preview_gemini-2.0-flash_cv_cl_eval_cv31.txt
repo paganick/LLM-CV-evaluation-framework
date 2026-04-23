@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional experience is entirely within sales management and administrative roles rather than software engineering. They lack the required technical proficiency in JavaScript, TypeScript, React, and testing frameworks essential for the role. The resume demonstrates no history of professional web development, making them a poor fit for a frontend developer requirement.

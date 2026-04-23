@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in Mainframe development and some experience with HTML, JavaScript, and databases, but lacks hands-on experience with modern frontend technologies such as React and TypeScript. They also do not demonstrate experience with testing frameworks or web security knowledge, which are critical components of the job description.

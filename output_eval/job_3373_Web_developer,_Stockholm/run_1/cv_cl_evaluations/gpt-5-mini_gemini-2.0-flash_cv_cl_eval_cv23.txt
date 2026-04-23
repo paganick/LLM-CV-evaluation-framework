@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong electronics/testing background and lists basic familiarity with JavaScript and software test practices, but lacks demonstrated experience with core frontend requirements such as React, TypeScript, HTML/CSS, modern JS tooling (Node/npm, GitHub), frontend testing frameworks (Jest/Cypress), and CSS-in-JS/SASS. Their resume and cover letter show lab-focused and hardware testing roles rather than hands-on frontend development, so substantial upskilling would be required to meet this role's expectations.

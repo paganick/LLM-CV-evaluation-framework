@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant software development and QA experience (JavaScript, HTML, testing, CI/CD, web security, Agile) but their background is primarily analytics/ASP.NET and is unclear on several required frontend specifics. They do not demonstrate TypeScript proficiency, concrete React or modern frontend framework experience, nor explicit experience with Git/GitHub, the Node/npm ecosystem, API design, or AWS/Terraform. Given the gap on key frontend and tooling requirements, they are a relevant but incomplete match for this role.

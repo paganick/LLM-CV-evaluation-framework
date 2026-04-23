@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career transitioner who lacks professional, hands-on experience as a dedicated Front-End Developer with the required React and TypeScript stack. While they possess strong collaborative skills and a technical background in implementation, their experience with automated testing frameworks and modern development workflows appears theoretical rather than proven in a production environment. Key requirements such as Git proficiency and web security fundamentals are also not explicitly evidenced through past professional roles.

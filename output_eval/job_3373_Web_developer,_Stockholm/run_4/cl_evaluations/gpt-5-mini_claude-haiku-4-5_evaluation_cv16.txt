@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has basic front-end skills (JavaScript/HTML/CSS), Git experience, Agile exposure and some security awareness, but their primary framework experience is ASP.NET and they emphasize jQuery/Bootstrap rather than React or TypeScript. They do not demonstrate direct experience with the required modern tooling (React, Jest/Cypress/TestCafe, Node/npm, Styled Components/SASS, linters, CI/CD) which are central to the role. Because of these gaps they are relevant to the industry but lack the specific experience needed for a strong match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but primarily with the .NET stack, which isn't the focus of the job. While they mention HTML, CSS, and JavaScript, the depth of experience with modern FE frameworks like React is unclear. The candidate expresses interest in learning the required technologies, but lacks demonstrable experience in the core tech stack.

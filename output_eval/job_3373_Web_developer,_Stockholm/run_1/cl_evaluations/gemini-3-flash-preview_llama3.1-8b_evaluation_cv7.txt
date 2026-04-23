@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with no professional software development experience, failing to meet the requirement for a "skilled technologist" capable of hitting the ground running. They lack essential skills explicitly mentioned in the job description, including TypeScript, Node.js, Web Security (OWASP/OAuth), CI/CD, and API design. While they possess basic front-end knowledge and a design background, their profile is missing the technical depth and professional track record required for this complex engineering stack.

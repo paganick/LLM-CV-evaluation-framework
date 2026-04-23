@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional with a background in manual and automated testing, which does not align with the core requirements for a modern Frontend Developer role. They lack documented experience with the primary tech stack, specifically React, TypeScript, and functional programming, and their professional history is significantly outdated with the last role ending in 2015. While they possess basic scripting and testing knowledge, they do not demonstrate the application development, API design, or cloud infrastructure expertise required.

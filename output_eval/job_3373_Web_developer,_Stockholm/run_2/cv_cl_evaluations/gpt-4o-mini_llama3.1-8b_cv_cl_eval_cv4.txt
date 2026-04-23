@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with JavaScript, HTML, CSS, and Node.js, but lacks direct experience with React, which is explicitly mentioned in the job description. They have a strong understanding of the software development lifecycle and have worked in Agile environments, which is a plus. However, while they mention familiarity with tools relevant to modern development, their experience with testing libraries and CI/CD tools is not well-defined, which slightly hinders their fit for the role.

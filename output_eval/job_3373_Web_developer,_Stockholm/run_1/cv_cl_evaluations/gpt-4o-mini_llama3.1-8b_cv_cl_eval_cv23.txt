@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and some knowledge of programming languages, including JavaScript. However, they lack specific experience with modern front-end frameworks like React, which is a primary requirement. Their knowledge in the area of web security and testing frameworks is minimal, which is crucial for the position.

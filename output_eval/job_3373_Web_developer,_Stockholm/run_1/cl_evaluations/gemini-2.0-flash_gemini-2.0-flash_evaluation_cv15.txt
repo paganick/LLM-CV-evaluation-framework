@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions HTML, CSS, and JavaScript, along with familiarity with modern CSS tools and testing, aligning with the job description. However, the cover letter lacks explicit mention of TypeScript, specific testing frameworks like Jest or Cypress, and version control systems like Git. The candidate's experience with React is mentioned as eagerness to learn, not hands-on experience, and crucial areas like security on the web are completely omitted.

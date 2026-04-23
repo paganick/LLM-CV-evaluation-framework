@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a solid background in web development and CMS architecture, they lack professional experience with the core requirements of React and TypeScript. Their expertise is heavily centered on Drupal and PHP, with no evidence of hands-on work in modern frontend frameworks, CI/CD pipelines, or the specific testing stack (Jest/Cypress) requested. As a strict recruiter, the reliance on "interest" rather than proven professional application of the required modern JS ecosystem makes them an underqualified fit.

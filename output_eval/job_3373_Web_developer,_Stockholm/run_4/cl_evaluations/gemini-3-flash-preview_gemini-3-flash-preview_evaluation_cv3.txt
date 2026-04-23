@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant IT degree and strong transferable professional discipline, they lack hands-on experience with the mandatory React and TypeScript tech stack. Their portfolio focuses on legacy or unrelated technologies such as ActionScript and PHP, failing to demonstrate proficiency in modern frontend frameworks, Git, or web security protocols. As a recent graduate without professional engineering experience, the applicant does not currently meet the technical requirements for this mid-level or specialized role.

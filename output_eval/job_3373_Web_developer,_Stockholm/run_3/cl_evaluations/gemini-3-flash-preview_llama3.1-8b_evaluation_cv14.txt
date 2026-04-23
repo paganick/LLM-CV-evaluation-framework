@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant experience in web development, their primary professional background is in the .NET ecosystem, which does not align with the core JavaScript/TypeScript requirements of this role. They fail to mention essential skills such as TypeScript, Web Security (OWASP/CORS), and CI/CD tools, which are explicitly requested in the job description. Their exposure to the React and Node.js stack appears to be supplementary rather than a demonstrated professional core competency.

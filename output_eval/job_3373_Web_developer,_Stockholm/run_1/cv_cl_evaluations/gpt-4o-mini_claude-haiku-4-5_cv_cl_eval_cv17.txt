@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a construction and project management background, which is unrelated to frontend development. While they express a strong interest in transitioning to software development and mention some relevant skills, they lack direct experience with the required technologies such as JavaScript, TypeScript, and modern frameworks like React. Their knowledge of web security principles and testing frameworks is also not demonstrated with sufficient depth to meet the role's demands.

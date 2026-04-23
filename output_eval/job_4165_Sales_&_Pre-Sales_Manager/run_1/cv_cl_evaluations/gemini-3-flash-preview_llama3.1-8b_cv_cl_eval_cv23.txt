@@ -1,0 +1,2 @@
+Score: 5
+        Reasoning: While the candidate has extensive sales experience in the digital sector, their background is primarily in interactive marketing and media agencies rather than the enterprise IT services required, such as Cloud, DevOps, or BigData. The resume is significantly outdated, with no listed experience past 2014, and fails to demonstrate the technical depth in AI/ML or complex architectural design necessary for this specific Go-To-Market lead role.

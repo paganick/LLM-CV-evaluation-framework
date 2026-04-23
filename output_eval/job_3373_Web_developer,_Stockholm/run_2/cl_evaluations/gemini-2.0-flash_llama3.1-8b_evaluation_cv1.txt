@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has experience in test automation and relevant technologies like Selenium and Git, the cover letter emphasizes Java and Spring Boot, which are not highlighted in the job description. The letter mentions JavaScript and related FE frameworks, but the focus seems less pronounced than the job description requires. They need to highlight these points even more.

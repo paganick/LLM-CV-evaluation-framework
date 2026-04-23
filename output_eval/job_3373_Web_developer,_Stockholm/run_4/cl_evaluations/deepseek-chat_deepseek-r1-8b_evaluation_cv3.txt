@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's academic background is relevant but lacks direct professional web development experience. While they mention foundational web technologies and a willingness to learn, they do not demonstrate hands-on experience with the key required technologies like React, TypeScript, modern testing frameworks, or the specific tools listed. Their unique background provides transferable skills, but the core technical requirements from the job description are not met with proven experience.

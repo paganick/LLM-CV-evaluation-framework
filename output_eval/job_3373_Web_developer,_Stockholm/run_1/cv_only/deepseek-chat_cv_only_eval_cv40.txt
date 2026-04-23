@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is for a Senior Director of Product Management role with 20+ years in product, marketing, and business development. It contains zero mention of the required technical skills (JavaScript, TypeScript, React, testing, Git, etc.) or any hands-on software development experience. This is a complete mismatch for a front-end engineering position, representing the wrong industry and skillset entirely.

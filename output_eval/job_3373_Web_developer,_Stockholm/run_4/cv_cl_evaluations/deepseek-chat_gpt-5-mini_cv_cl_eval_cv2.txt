@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost entirely in server-side Java/J2EE development, with no demonstrated professional experience in the required front-end technologies (React, TypeScript, modern CSS) or the JavaScript ecosystem. While they express motivation to learn, they lack the hands-on experience with the core tech stack, testing frameworks, and modern tooling specified in the job description. Their background is in a different domain, making them currently unqualified for this specific front-end role.

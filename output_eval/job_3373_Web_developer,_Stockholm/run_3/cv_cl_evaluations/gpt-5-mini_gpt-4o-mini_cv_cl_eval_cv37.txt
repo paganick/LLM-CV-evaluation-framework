@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career project/IT manager background with no demonstrable hands-on experience in JavaScript, TypeScript, React, modern CSS, testing frameworks, or NodeJS required for this front-end developer role. The cover letter asserts familiarity with development practices but provides no concrete evidence of coding work, repositories, or technical deliverables. While strong in project management and cross-functional collaboration, the candidate does not meet the core technical qualifications and is therefore not qualified for the position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, presentation design, and UX/UI, not in modern front-end software engineering. The resume shows only basic HTML/CSS knowledge from tools like Dreamweaver and lacks any required experience with JavaScript, TypeScript, React, testing frameworks, Git, or the other core technical skills listed. While they work in a collaborative environment, their technical profile is a mismatch for the software development role described.

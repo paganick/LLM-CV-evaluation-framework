@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a primarily project management background with limited technical skills in the specific technologies required for the Front End Developer position. While they demonstrate some familiarity with JavaScript, HTML, and CSS, there is a notable lack of experience with modern front-end frameworks like React, as well as the required testing and automation experience. Additionally, the candidate's resume does not reflect the necessary hands-on development experience with relevant tools and practices essential for the role.

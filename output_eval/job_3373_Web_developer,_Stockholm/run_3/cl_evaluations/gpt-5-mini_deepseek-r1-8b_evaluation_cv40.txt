@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The cover letter describes a product management background and leadership in process and Agile practices but contains no evidence of the hands-on front-end development skills required (JavaScript/TypeScript, React, modern CSS, testing frameworks, NodeJS, CI/CD, etc.). The candidate states interest in staying current with technologies but does not demonstrate the technical experience or tooling knowledge the role explicitly requires. This is a mismatch in domain and core technical qualifications.

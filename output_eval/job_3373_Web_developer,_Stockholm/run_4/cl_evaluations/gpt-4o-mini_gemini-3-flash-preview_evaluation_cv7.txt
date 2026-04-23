@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses strong experience in graphic design, which provides a unique perspective for frontend development. They match the required skills in JavaScript, TypeScript, HTML, CSS, and React, and demonstrate hands-on experience with testing frameworks and Git. However, a more explicit mention of familiarity with tools like ESLint and Terraform, as well as a deeper understanding of AWS, could strengthen their application to achieve a perfect score.

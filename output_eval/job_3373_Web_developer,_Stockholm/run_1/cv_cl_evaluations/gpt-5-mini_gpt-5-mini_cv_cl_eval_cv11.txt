@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant QA and test-automation experience, familiarity with JavaScript/HTML, and proven Agile collaboration which align with the role's testing and quality expectations. However, they lack hands‑on experience with core front-end requirements (React, TypeScript, modern CSS tooling), common JS testing frameworks (Jest/Cypress/TestCafe), and no clear evidence of NodeJS/npm, Git/GitHub, CI/CD, or AWS experience, making them not yet a strong match for this front-end focused position.

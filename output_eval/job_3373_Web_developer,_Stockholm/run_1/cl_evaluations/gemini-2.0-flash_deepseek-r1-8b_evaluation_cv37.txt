@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's cover letter focuses on project management and leadership, with limited direct experience in the specific technologies listed in the job description. While they mention familiarity with some IT concepts, they lack hands-on experience with JavaScript, React, testing frameworks, and other crucial front-end development tools. The letter highlights project management skills rather than technical proficiency in the required areas.

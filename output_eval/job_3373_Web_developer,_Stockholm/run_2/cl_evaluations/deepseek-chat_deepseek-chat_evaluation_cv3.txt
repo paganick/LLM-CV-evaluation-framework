@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates foundational academic knowledge and a strong willingness to learn, aligning with the role's soft skills like collaboration and Agile mindset. However, they lack the required hands-on, professional experience with the specific technologies listed, such as React, TypeScript, testing frameworks, Node.js, and CI/CD tools. Their background is not a direct match, placing them in the category of a relevant industry aspirant who currently lacks the specific technical qualifications.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses foundational knowledge in HTML, JavaScript, and some experience in web development; however, they lack hands-on experience with modern frontend frameworks like React, VueJS, Angular, or Svelte, which is critical for this role. Additionally, there is no indication of familiarity with testing frameworks, CI/CD tools, or modern CSS tools required by the job description, placing them in a relevant industry but lacking specific experience.

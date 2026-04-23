@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong match for the core technical requirements, including JavaScript, TypeScript, React, testing, Git, and web security. However, the cover letter lacks explicit mention of several specific tools and concepts from the job description, such as modern CSS tools (SASS, Styled Components), specific testing frameworks, Node.js, functional programming, and CI/CD. While the foundational fit is excellent, the absence of these details prevents a higher score.

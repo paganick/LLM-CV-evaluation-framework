@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and journalism, not software development. The resume and cover letter show no professional experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, testing frameworks, or Git. While the candidate expresses interest and self-study, they lack the required hands-on, professional engineering experience for a frontend developer role.

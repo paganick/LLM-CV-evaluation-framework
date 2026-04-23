@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design with proficiency in HTML and CSS but lacks extensive experience with JavaScript frameworks, testing automation, and other important technical skills specified in the job description. While there is some familiarity with SASS and testing frameworks, the overall skill set does not align well with the requirements for the position, particularly in a modern development context.

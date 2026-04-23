@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer who lacks the mandatory technical experience in JavaScript, TypeScript, and modern front-end development requested in the job description. While they possess transferable soft skills from sales and banking, they fail to demonstrate any professional experience with testing frameworks, security protocols, or CI/CD tools. There is no evidence of a technical portfolio or hands-on engineering work to justify a role in software development at this level.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer whose professional background is rooted in product management and strategy rather than hands-on software engineering. While they demonstrate high-level familiarity with the required tech stack and modern development workflows, they fail to provide evidence of professional experience writing production-grade JavaScript, TypeScript, or React code. Consequently, the applicant lacks the specific technical depth and "hands-on" engineering experience mandated by the job description.

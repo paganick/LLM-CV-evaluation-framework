@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a Computer Science background and basic HTML/CSS knowledge, they lack experience in almost every core technical requirement, including JavaScript, TypeScript, React, and automated testing. The reliance on outdated tools like Adobe Dreamweaver and the admission of needing to learn the primary tech stack indicates they are not prepared for a professional engineering role. Their profile is heavily skewed toward design rather than the required software development and security standards.

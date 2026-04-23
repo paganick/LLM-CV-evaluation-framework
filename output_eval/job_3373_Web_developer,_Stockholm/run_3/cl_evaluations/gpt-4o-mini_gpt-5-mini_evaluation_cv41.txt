@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in systems engineering and operations but lacks specific hands-on experience with the modern front-end frameworks and libraries listed in the job description, particularly React. While they have knowledge of testing and automation, there's a limited mention of familiarity with tools such as Jest, TestCafe, or Cypress. Overall, the candidate is a good fit for a role that requires a blend of systems knowledge and development practices, but may need further development in specific front-end technologies and tools.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in marketing, communications, and law, lacking substantial experience in frontend engineering. While the cover letter expresses interest and some self-taught skills, the resume does not reflect practical experience with JavaScript, React, or other core technologies mentioned in the job description. The listed skills are primarily administrative and marketing-related, making them an unsuitable fit for a frontend engineer role.

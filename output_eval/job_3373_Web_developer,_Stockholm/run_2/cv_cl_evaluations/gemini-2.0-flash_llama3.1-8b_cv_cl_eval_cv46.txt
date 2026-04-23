@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS but lacks explicit experience with modern FE frameworks like React, which is heavily used by the company. While they mention testing frameworks and CI/CD tools, the resume lacks concrete examples of using these in a front-end context. Their experience seems more oriented towards database administration and general IT consulting rather than modern front-end development.

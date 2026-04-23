@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundation in core frontend technologies like HTML, CSS, and JavaScript, but lacks explicit experience with React, a key requirement for the role. While they express a willingness to learn new tools, the cover letter doesn't showcase hands-on experience with testing frameworks or modern CSS tools mentioned in the job description. The candidate's background leans more towards general IT management and security, rather than specializing in modern frontend development.

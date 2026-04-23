@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a marketing professional transitioning to technology and lacks the professional experience or technical stack required for this Frontend Developer role. There is no evidence of experience with React, TypeScript, modern testing frameworks, or CI/CD tools, all of which are core requirements. Their background is almost entirely in media planning and advertising, making them completely unqualified for this position.

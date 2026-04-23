@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in digital media and marketing technology, including product development and sales growth. However, the resume lacks explicit demonstration of experience with Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science), or Design Consulting (UX/UI, Design Thinking, UX Research) as required by the job description. While there's experience with CRM and e-commerce, the specific digital solutions experience is not clearly highlighted.

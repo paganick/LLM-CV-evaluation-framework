@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong Java/Spring backend and test automation background, but the job requires deep, modern front-end expertise with React and associated tools. The resume shows dated, brief exposure to ReactJS and relevant CSS tools but lacks substantial, recent professional experience with the core technologies listed. While they have transferable skills like Agile and testing, the specific front-end framework and library proficiency is insufficient for the role's primary focus.

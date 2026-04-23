@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in your Front End Developer position. With a strong foundation in modern JavaScript development, a proven track record in technical project leadership, and a genuine passion for clean, well-tested code, I am confident I possess the unique blend of skills you are seeking.
+
+My technical expertise aligns directly with your stack. I have hands-on production experience in front-end web development using JavaScript, HTML, and CSS, and have worked with libraries including Angular. I am deeply familiar with Agile environments and collaborative tools like JIRA, and I am keen to deepen my specialization in React, which I understand is your framework of choice. My project management background has ingrained in me the critical importance of rigorous testing, code quality, and security best practices—principles I am eager to apply directly in a development capacity.
+
+What sets me apart is my dual perspective as both a developer and a technical project manager. At PMA Media Group, I have not only led the implementation of Scrum processes for technical development but have also been directly involved in the full project lifecycle—from user research and UX design to development, analytics, and deployment. This experience has given me a comprehensive understanding of the business domain and a strong collaborative instinct, making me comfortable and effective when interacting with other teams and external partners. I am inherently driven to understand the full system, not just my immediate code.
+
+My career progression from Content Publisher and Front End Developer to Technical Project Manager demonstrates a sustained commitment to the web development ecosystem. I am now seeking to return to a hands-on coding role where I can leverage my strategic and managerial experience to write truly clean, maintainable, and impactful code. I am particularly drawn to your mention of functional programming and modern tooling, and I am a dedicated lifelong learner, committed to keeping pace with the latest technologies.
+
+I am excited by the opportunity to contribute to your team with both technical skill and a product-focused mindset. Thank you for your time and consideration.
+
+Sincerely, Alexis

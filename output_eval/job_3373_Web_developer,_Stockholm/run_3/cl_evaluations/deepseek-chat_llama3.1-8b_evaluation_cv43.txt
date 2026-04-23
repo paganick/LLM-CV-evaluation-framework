@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management, learning design, and facilitation, which is a relevant industry but does not align with the core technical requirements of a front-end developer role. The cover letter mentions React and Git, but lacks any specific evidence of experience with JavaScript, TypeScript, testing, or the other key technologies listed in the job description. The application focuses on soft skills and tangential experience, failing to demonstrate the hands-on technical proficiency required for the position.

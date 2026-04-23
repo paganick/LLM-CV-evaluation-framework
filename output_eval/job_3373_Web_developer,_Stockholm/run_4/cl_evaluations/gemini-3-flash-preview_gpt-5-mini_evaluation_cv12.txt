@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is an experienced engineer with a strong background in general web development and automation, they explicitly lack experience in the two primary requirements: React and TypeScript. A strict evaluation identifies these as critical gaps for a specialized frontend role that necessitates immediate productivity within a specific modern stack. The candidate’s background is more aligned with backend and legacy systems than the modern frontend architecture required by the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in web design and relevant skills in HTML, CSS, and modern development tools, particularly React. However, they lack specific experience with key requirements such as testing frameworks and CI/CD tools, as well as a deeper understanding of the NodeJS ecosystem and functional programming, which are important for the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a Software Engineer position, as their professional background is entirely within customer service and sales rather than technology. They lack hands-on experience with the required tech stack—including JavaScript, TypeScript, and React—and explicitly mention they are only now preparing to learn essential tools like Git and testing frameworks. Despite having transferable soft skills, the applicant fails to meet any of the core technical competencies required for this engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in web development and programming but lacks specific proficiency in critical areas mentioned in the job description, such as modern frontend frameworks (especially React), testing frameworks, and web security knowledge. While they demonstrate a willingness to learn and have a strong foundation in JavaScript and HTML, the lack of hands-on experience with the desired technologies limits their fit for the position.

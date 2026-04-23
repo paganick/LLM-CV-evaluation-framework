@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the core technologies mentioned in the job description (JavaScript, TypeScript, React). While they express willingness to learn, the cover letter focuses more on program management and learning design, which are not the primary requirements for a front-end developer role. The technical experience cited is primarily in R, which is not relevant to the job description's focus on web development.

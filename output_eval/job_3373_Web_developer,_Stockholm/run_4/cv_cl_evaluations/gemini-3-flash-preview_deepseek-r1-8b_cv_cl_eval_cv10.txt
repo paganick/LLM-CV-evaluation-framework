@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is primarily focused on Java and legacy frontend technologies like AngularJS and jQuery, rather than the modern React and TypeScript stack required. The resume lacks evidence of proficiency with essential tools mentioned in the job description, such as modern testing frameworks (Jest, Cypress), functional programming, or CI/CD pipelines. While the candidate has a strong academic background, their technical profile does not align with the specific modern frontend requirements of the role.

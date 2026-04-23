@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, lacking direct experience with modern front-end frameworks like React, despite claiming to be learning them. While they possess some relevant skills like HTML and CSS, the resume doesn't demonstrate hands-on experience with the specific technologies mentioned in the job description, such as testing frameworks or CI/CD tools. The cover letter attempts to bridge this gap but highlights a focus on learning rather than proven application.

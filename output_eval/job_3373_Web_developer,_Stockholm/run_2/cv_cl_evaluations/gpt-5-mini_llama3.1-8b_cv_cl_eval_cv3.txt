@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has academic exposure to HTML, CSS and JavaScript and completed a database-driven project, but lacks professional front-end experience with React/TypeScript and modern tooling. There is no evidence of Git/GitHub usage, testing frameworks, NodeJS ecosystem experience, CSS-in-JS/SASS, CI/CD, or web security practices required for this role. Background is primarily in construction with coursework/projects rather than demonstrable workplace experience in the technologies specified.

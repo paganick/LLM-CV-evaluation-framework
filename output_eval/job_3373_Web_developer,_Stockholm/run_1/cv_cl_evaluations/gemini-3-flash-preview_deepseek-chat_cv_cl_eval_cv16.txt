@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of the role, including React, TypeScript, and modern testing frameworks like Jest or Cypress. Their background is heavily focused on the legacy .NET ecosystem and jQuery, which does not meet the standards for a modern front-end developer position. Additionally, their professional experience is significantly outdated and fails to demonstrate proficiency in the modern JavaScript toolchain or CI/CD practices.

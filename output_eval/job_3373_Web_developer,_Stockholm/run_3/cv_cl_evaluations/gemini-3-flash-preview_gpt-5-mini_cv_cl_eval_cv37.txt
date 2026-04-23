@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for a front-end engineering role, as their professional background is exclusively in project management and IT infrastructure. There is no evidence of experience with JavaScript, React, TypeScript, or any of the mandatory development tools and testing frameworks listed in the job description. While the candidate has relevant experience in the broader IT industry, they lack the specific technical skills required to perform the duties of a developer.

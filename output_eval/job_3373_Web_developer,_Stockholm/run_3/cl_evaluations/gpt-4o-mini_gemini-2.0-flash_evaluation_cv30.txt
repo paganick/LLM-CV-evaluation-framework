@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant background with a master's degree in Analytics and experience with SQL, but lacks direct experience with the specific front-end technologies and frameworks mentioned in the job description, such as JavaScript, TypeScript, React, and modern CSS tools. Their eagerness to learn React and contribute to front-end projects is commendable, yet they do not fulfill the more technical aspects of the role, such as testing frameworks and CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates relevant HTML/CSS knowledge and strong transferable skills from design and electrical engineering, including attention to detail and systems thinking. However, they lack demonstrable hands-on experience with JavaScript/TypeScript, React, testing and test automation, Git/GitHub, Node/npm, functional programming (Ramda), CI/CD, and API design required for this role. Overall this profile aligns more with a junior/transition candidate rather than the experienced frontend engineer the job requires.

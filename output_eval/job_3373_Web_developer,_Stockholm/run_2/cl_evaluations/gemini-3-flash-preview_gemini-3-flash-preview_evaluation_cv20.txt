@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant background in software development and Agile methodologies, they lack the mandatory professional hands-on experience with the specific modern stack of React and TypeScript. Key requirements such as testing frameworks (Jest, Cypress) and CI/CD tools (CircleCI, Terraform) are mentioned only as interests rather than proven competencies. Their primary experience is rooted in the .NET ecosystem and legacy libraries like jQuery, which does not satisfy the immediate technical needs for this role.

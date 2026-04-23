@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of the required technologies and possesses relevant skills, particularly in React, testing, and CI/CD. Their unique background and emphasis on quality control align well with the job description's focus on clean code. While the background is unconventional, the candidate makes a clear case for transferable skills.

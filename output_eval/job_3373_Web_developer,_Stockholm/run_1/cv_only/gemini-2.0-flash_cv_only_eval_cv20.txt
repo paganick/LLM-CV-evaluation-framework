@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, which aligns with the job description. However, the resume focuses heavily on .NET technologies and lacks mention of modern FE frameworks like React, VueJS, Angular, or Svelte. There's also a lack of detail around testing frameworks and other modern front-end tools mentioned in the job description.

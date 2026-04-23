@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a visual and presentation designer who lacks the mandatory technical proficiency in JavaScript, TypeScript, and modern frameworks like React. There is no evidence of experience with testing automation, Git, web security, or CI/CD pipelines as specified in the job description. While they have a computer science background, their professional history does not demonstrate the engineering depth required for this senior-level front-end role.

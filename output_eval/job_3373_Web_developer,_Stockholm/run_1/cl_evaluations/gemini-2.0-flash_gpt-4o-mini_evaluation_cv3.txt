@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a relevant degree and some front-end skills mentioned in the job description (JavaScript, HTML, CSS, React). However, the letter lacks concrete examples of hands-on experience with testing/test automation, Git, and modern CSS tools (beyond mentioning SASS), as highlighted in the job description. The candidate mentions interest and basic knowledge rather than demonstrable experience in several key areas.

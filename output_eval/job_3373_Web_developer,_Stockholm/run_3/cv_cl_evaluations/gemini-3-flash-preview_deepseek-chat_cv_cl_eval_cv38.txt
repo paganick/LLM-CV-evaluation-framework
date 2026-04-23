@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely from a different industry, with a professional history and education focused exclusively on film and media production rather than software engineering. There is zero evidence of professional experience with JavaScript, TypeScript, or React on the resume, and the technical skills mentioned in the cover letter are self-taught without commercial application. The applicant fails to meet any of the core technical requirements or seniority levels implied by the job description.

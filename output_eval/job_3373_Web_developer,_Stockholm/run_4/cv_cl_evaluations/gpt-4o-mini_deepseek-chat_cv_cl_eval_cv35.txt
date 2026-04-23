@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in marketing automation and a technical foundation, but lacks direct experience with the required modern front-end technologies such as React, VueJS, and full proficiency in JavaScript, TypeScript, HTML, and CSS. While they demonstrate an understanding of security protocols and testing processes, their previous roles do not reflect sufficient hands-on experience in front-end development or the specific technologies outlined in the job description.

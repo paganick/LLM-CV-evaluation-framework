@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a high level of alignment with the required tech stack, specifically React, TypeScript, and modern CSS tools. Their professional background as a Test Automation Engineer and experience with DevOps tools like Terraform and CircleCI provide the requested full-domain perspective. However, the omission of specific testing libraries and API design experience, coupled with only "basic" knowledge of web security, falls slightly short of an ideal score under strict evaluation.

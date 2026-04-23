@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in communications and project management, but lacks direct hands-on experience with essential front-end technologies such as JavaScript, TypeScript, modern frameworks like React, and specific testing frameworks mentioned in the job description. Their background does not adequately demonstrate the technical skills required for the Front-End Engineer position, which negatively impacts their fit for the role.

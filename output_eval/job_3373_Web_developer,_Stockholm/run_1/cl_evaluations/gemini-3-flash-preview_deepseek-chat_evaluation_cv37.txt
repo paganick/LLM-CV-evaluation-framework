@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in IT leadership and project management, they lack the required professional, hands-on experience with JavaScript, TypeScript, and React. The letter explicitly states they are currently "expanding" their proficiency, which does not meet the job description's requirement for established expertise in modern front-end frameworks and testing automation. Consequently, the applicant is a career-changer who lacks the proven technical track record necessary for this specific developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional experience is entirely within the marketing and media planning sectors, lacking any professional software engineering tenure. They do not possess the required expertise in React, TypeScript, or modern testing frameworks, with their technical exposure limited to basic academic projects and introductory HTML/CSS. Their background and skill set do not align with the technical or professional requirements for a mid-to-senior level front-end development role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate claims proficiency in technologies like React, TypeScript, and NodeJS, but this is not substantiated by their resume which focuses on customer service, sales, and management roles. While the cover letter mentions familiarity with CI/CD pipelines and AWS, the resume lacks any technical projects or experience. The candidate's background is primarily in a different field, lacking the required depth of experience for this frontend developer role.

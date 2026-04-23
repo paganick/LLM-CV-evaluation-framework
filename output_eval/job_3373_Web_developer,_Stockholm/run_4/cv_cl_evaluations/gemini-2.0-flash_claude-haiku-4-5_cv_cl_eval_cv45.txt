@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in cybersecurity and IT infrastructure, lacking direct experience with modern frontend frameworks like React, VueJS, Angular, or Svelte. While the candidate expresses interest in learning, the resume doesn't demonstrate hands-on experience with JavaScript, TypeScript, HTML, or CSS. The cover letter acknowledges a developmental need in frontend technologies, suggesting a significant learning curve.

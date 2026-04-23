@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a project manager and IT director, lacking any professional hands-on experience with the required technical stack of JavaScript, TypeScript, and React. While they possess relevant industry knowledge and Agile experience, they fail to demonstrate the specific coding proficiency, testing expertise, or frontend architectural skills mandated by the role. The profile is a mismatch for a developer position, focusing on oversight rather than technical execution.

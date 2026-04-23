@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses strong transferable soft skills and familiarity with the required tech stack, they lack professional experience in a front-end development role. Their knowledge of critical requirements like Git, Web security, and CI/CD appears theoretical rather than hands-on, failing to meet the "experience" benchmarks set in the job description. As a career changer, they do not demonstrate the proven technical track record required for a role involving complex domain architectures and infrastructure tools.

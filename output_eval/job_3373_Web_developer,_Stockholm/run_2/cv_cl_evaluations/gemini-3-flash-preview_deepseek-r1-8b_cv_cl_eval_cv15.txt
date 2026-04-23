@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a general IT background and foundational knowledge of HTML, CSS, and JavaScript, but lacks any professional experience with modern frontend requirements like React, TypeScript, or automated testing. Their work history is significantly outdated, focusing primarily on hardware support and systems management rather than software engineering. Consequently, they do not meet the specific technical standards or experience levels required for this modern development role.

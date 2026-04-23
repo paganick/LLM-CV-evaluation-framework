@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong technical alignment with over five years of experience, specifically addressing the React, Node.js, and automated testing requirements. They provide high-impact metrics and explicitly mention security standards like OWASP, which is a key requirement. However, the letter fails to mention TypeScript, Git, or functional programming, which are listed as core and desired skills in the job description.

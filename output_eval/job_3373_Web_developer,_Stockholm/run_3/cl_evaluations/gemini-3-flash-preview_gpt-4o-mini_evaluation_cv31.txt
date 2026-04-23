@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer from sales who lacks professional experience in software development and does not meet the technical requirements of the role. They explicitly admit to having no hands-on experience with testing frameworks, NodeJS, or CI/CD, all of which are listed as core requirements. While they possess transferable soft skills, their lack of professional engineering background makes them unqualified for this specific technical position.

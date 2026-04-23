@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates deep marketing automation and platform-integration experience (Eloqua, Salesforce) but shows no evidence of required front-end skills such as JavaScript/TypeScript, HTML/CSS, React, Node.js, testing frameworks, or Git. The candidate is in a different domain (marketing technology) and lacks the specific technical experience and tooling required for this front-end engineering role, so they are not qualified.

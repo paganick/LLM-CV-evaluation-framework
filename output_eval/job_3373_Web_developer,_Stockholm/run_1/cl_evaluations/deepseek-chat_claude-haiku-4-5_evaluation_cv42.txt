@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a clear understanding of the role's requirements and is actively developing the necessary technical skills, including React, testing, and modern tooling. However, they lack direct, professional frontend engineering experience, which is a critical gap for a role requiring hands-on expertise. Their strong transferable skills in analysis and collaboration are positive, but do not fully compensate for the absence of proven, production-level development work.

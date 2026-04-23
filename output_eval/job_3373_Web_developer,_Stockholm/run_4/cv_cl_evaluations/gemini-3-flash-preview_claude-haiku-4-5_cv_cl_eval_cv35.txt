@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation specialist with no professional experience in frontend development or the required React/TypeScript stack. While they express an interest in transitioning roles, they fail to demonstrate proficiency in core requirements such as modern CSS tools, testing frameworks (Jest/Cypress), or CI/CD pipelines. Their background is rooted in CRM and marketing platform configuration rather than software engineering, making them unqualified for this technical role.

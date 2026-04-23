@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience in web development and possesses a technical skill set that is significantly outdated, featuring technologies like Flash and ActionScript. They do not meet the core requirements for React, TypeScript, modern CSS tooling, or automated testing frameworks. Despite having a relevant degree, it was completed over a decade ago and has not been utilized in a professional capacity, making them unqualified for this mid-to-senior level role.

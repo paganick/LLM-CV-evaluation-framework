@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience (HTML, CSS, JavaScript, jQuery), Git, and Agile experience and demonstrates some front-end accomplishments and code refactoring skills. However they lack hands-on experience with the primary technologies listed (React, TypeScript), testing frameworks and test automation, modern Node/npm ecosystem, modern CSS tooling, CI/CD, and cloud/infra knowledge required for the role. They are learning relevant tools but currently do not meet the core technical requirements for this position.

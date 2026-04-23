@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with modern frontend frameworks like React and essential languages such as TypeScript, focusing instead on legacy backend and database technologies. There is no evidence of proficiency in modern CSS tools, testing frameworks (Jest/Cypress), or CI/CD pipelines as required by the job description. Furthermore, the candidate's professional software experience appears to have ended in 2017, representing a significant gap in relevant industry practice.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe development, which is significantly different from frontend development. While they mention foundational knowledge of relevant technologies and an eagerness to learn React, they lack practical experience with modern frontend frameworks, testing methodologies, and essential tools like Git. Their experience in a similar industry is notable, but their current skill set doesn't align with the job requirements.

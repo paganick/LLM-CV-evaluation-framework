@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, admitting to only a willingness to learn these core requirements. While they have a strong background in the relevant industry of web design, they provide no evidence of experience with testing frameworks, Git, or modern front-end tooling. Consequently, the applicant is fundamentally underqualified for a front-end engineering role that requires established hands-on expertise in a modern software stack.

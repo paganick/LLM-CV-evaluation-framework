@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in graphic design is relevant but they lack the core technical requirements. They admit to limited experience with JavaScript and TypeScript, which are essential, and provide no evidence of experience with React, testing frameworks, or modern CSS tools like Styled Components. While they show enthusiasm and mention some adjacent skills, the absence of hands-on experience in the key technologies listed in the job description makes them a weak match.

@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates exceptional alignment with the technical requirements, explicitly referencing nearly every tool in the stack including React, TypeScript, Jest, and specific niche technologies like Ramda. Their professional transition from graphic design provides a high-value bridge between aesthetic UI and functional code, satisfying the "clean code" and "collaborator" requirements. They also address the security and infrastructure "nice-to-haves," making them a nearly perfect match for this specific engineering profile.

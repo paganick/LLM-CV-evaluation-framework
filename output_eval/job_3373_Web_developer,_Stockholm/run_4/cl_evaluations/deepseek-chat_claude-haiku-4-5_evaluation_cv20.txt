@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant web development experience and demonstrates several required soft skills like collaboration and Agile familiarity. However, the cover letter critically lacks mention of the specific technologies listed in the job description, most notably React, TypeScript, and modern testing frameworks. The technical experience described is more aligned with traditional web development stacks (jQuery, Bootstrap, .NET) rather than the modern frontend ecosystem explicitly required.

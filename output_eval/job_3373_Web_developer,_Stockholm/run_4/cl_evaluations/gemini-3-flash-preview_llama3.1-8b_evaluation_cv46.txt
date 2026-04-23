@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions the required modern front-end stack, their 15-year professional history is heavily rooted in database and network administration, which does not align with the specialized seniority required for this role. The application fails to provide evidence of professional experience in functional programming, modern CSS frameworks, or web security protocols like OAuth and CSP. Consequently, the candidate appears to be a generalist pivoting from legacy backend systems rather than a dedicated expert in modern React ecosystems.

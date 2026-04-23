@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in relevant technologies, including JavaScript, TypeScript, and modern CSS tools such as SASS and Styled Components, which align well with the job description. Their experience with testing frameworks and CI/CD tools further supports their qualifications. However, they lack mention of basic knowledge about web security and Ruby, which slightly detracts from an ideal match.

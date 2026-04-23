@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mirrors the job description's technical keywords, their professional experience is rooted in sales leadership rather than professional software engineering. Key requirements such as web security (OWASP), AWS, and Terraform are entirely unaddressed, suggesting a lack of the required technical depth. As a strict recruiter, the lack of a proven track record in a production development environment makes this candidate a high-risk career-changer rather than a seasoned developer.

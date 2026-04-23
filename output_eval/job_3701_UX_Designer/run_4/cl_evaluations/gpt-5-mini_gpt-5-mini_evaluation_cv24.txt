@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates 5 years of relevant UX experience, leadership, user research, prototyping, design system work, mentoring and HTML/CSS/JS exposure, matching most core responsibilities. However they do not mention Figma (listed as highly desirable) and do not explicitly state Agile rituals like stand-ups/sprint planning; toolset emphasis on Axure/Photoshop and jQuery reduces fit for a team preferring modern Figma/JS workflows.

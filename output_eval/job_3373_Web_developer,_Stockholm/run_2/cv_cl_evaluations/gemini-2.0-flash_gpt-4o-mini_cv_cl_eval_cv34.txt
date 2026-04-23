@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some familiarity with HTML and CSS but lacks demonstrable experience with Javascript, Typescript, modern FE frameworks like React, and testing frameworks. Their experience is primarily in digital marketing and Salesforce Marketing Cloud implementation, which is not a direct fit for the job description's emphasis on front-end development. The cover letter attempts to bridge the gap, but the resume does not provide enough evidence of the required skills.

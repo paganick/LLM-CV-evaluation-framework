@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in testing, validation, and cross-functional collaboration, which could apply to front-end engineering. However, they lack direct experience with specific front-end technologies such as JavaScript, TypeScript, React, and modern CSS tools that the job requires. Their motivation to transition is noted, but concrete relevant skills are missing.

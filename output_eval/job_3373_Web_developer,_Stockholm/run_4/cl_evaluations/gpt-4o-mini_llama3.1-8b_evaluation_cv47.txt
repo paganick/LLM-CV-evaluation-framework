@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant business development experience but lacks the specific technical skills required for the role, particularly in modern front-end frameworks like React, and testing frameworks such as Jest. While they have some programming background, it does not align closely with the job description for this position. Additionally, their experience with HTML and C++ does not address the core requirements of JavaScript, TypeScript, or familiarity with the specific frameworks and tools mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in presentation/multimedia design and UX/UI, not professional front-end development. The resume lists only basic HTML and CSS, with no mention of JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical requirements from the job description. While there is some relevant industry overlap in web design, the candidate lacks the specific software engineering skills and experience required for the role.

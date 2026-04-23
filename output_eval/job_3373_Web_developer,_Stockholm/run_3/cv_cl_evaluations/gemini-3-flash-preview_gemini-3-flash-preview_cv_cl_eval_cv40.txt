@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's 20-year professional history is exclusively in Product Management and executive leadership, with no documented experience as a professional Software Engineer. While the cover letter claims proficiency in the required tech stack, the resume fails to provide evidence of professional application of JavaScript, TypeScript, or React in any production environment. This represents a fundamental mismatch between the candidate’s career trajectory and the core technical requirements of the engineering role.

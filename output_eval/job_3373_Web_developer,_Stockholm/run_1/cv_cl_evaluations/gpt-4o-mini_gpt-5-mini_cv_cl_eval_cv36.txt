@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in regulated environments and a strong foundation in process validation and testing methodologies, which are somewhat relevant to front-end development roles. However, they lack direct experience with key technologies such as JavaScript, React, and modern front-end frameworks, as well as specific knowledge in web security, API design, and CI/CD practices. Their transition to front-end engineering is commendable, but they do not meet the core technical requirements outlined in the job description.

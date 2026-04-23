@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily centered on Java/J2EE and Selenium-based test automation, which lacks the depth required for a specialized modern React and TypeScript frontend role. There is no evidence of TypeScript or modern JavaScript testing frameworks like Jest or Cypress in the professional history, and CI/CD experience is limited to Jenkins rather than the requested CircleCI. While the candidate mentions React, their professional background suggests it was used as a secondary tool within a backend-heavy stack.

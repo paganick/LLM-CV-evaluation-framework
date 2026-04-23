@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate displays a strong alignment with many of the key requirements outlined in the job description, including proficiency in JavaScript, HTML, CSS, and experience with React. They have significant experience in test automation using Selenium and Cucumber and are familiar with Git and CI/CD practices, particularly Jenkins. However, while they mention basic knowledge of web security, they do not detail experience with specific modern CSS tools and some advanced requirements, like AWS and Terraform, which prevents a perfect score.

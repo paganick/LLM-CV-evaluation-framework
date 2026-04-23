@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has sales experience, but it is primarily in aerospace and insurance, not the specific digital solutions areas listed in the job description. While the cover letter attempts to bridge this gap, the resume lacks concrete evidence of experience with API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, or Design Thinking. The candidate's experience seems more aligned with program management and quality engineering, which are not the primary focus of this sales role.

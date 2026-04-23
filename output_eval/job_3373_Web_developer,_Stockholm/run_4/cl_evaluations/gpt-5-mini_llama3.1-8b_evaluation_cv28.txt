@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate’s background is in materials engineering and process improvement with no evidence of software development experience or familiarity with required technologies (JavaScript, TypeScript, React, Node, testing frameworks, Git, CI/CD, AWS/Terraform). The skills and domain expertise presented are from a different industry and do not map to the technical stack or responsibilities in the job description. This is a complete mismatch for the role as described.

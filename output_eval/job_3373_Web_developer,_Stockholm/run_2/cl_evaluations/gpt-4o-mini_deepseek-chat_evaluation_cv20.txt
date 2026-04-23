@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases relevant experience with key technologies like JavaScript, HTML, CSS, and Git, aligning well with the job description. However, there is no mention of experience with some listed frameworks (e.g., VueJS, Angular, Svelte) or modern CSS tools and CI/CD practices, which slightly limits their candidacy. Overall, the experience and interest in learning new technologies make them a strong match, but not a perfect one.

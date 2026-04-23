@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has made a transition towards software development and demonstrates some relevant skills in JavaScript, TypeScript, HTML, CSS, and React, their overall experience is primarily rooted in program management and design. The lack of extensive hands-on experience with frameworks, testing methodologies, and CI/CD tools as outlined in the job description limits their qualification. Additionally, their background does not fully align with the technical and collaborative expectations required for the role.

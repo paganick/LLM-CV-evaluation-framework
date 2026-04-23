@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java/JEE, not the required JavaScript, TypeScript, or React. While they express interest in frontend technologies, their documented experience in the resume heavily favors backend development. There's a lack of concrete evidence demonstrating proficiency in modern frontend frameworks or testing tools mentioned in the job description.

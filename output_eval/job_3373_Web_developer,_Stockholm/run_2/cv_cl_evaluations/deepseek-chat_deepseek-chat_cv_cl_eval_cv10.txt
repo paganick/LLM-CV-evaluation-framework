@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed toward Java back-end development and outdated front-end technology (AngularJS), with no demonstrable experience in the required React, TypeScript, or modern CSS tools. While they have relevant foundational skills (Agile, Git, testing concepts) and a strong academic record, they lack the specific, hands-on experience with the core technologies and frameworks listed in the job description. The fit is based on adjacent skills and learning potential, not on current proficiency.

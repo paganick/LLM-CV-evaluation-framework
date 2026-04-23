@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Mainframe specialist with experience in legacy technologies like COBOL, CICS, and DB2, which bears no relevance to the required modern Front-end stack. There is no professional evidence of experience with React, TypeScript, or modern web development workflows. The candidate's background is entirely focused on backend banking systems and does not meet any of the core technical requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically omitting any mention of JavaScript or TypeScript proficiency and admitting a lack of experience with React and testing frameworks. While they possess relevant soft skills and basic HTML/CSS knowledge, they do not meet the professional experience level required for the stated tech stack. The application reflects a career-changer who is not yet qualified for a position requiring hands-on expertise in modern frontend development and automated testing.

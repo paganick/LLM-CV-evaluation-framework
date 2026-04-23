@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware and electronics test engineering, which is a completely different industry from modern front-end web development. The resume and cover letter show no practical experience with the required technologies like JavaScript, TypeScript, React, or any modern web frameworks, testing libraries, or web security concepts. While they mention a desire to learn, they lack the specific, hands-on skills and professional experience the job description mandates.

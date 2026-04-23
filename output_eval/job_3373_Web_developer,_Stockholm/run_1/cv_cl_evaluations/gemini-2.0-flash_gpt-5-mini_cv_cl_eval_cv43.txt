@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management and learning design, not front-end development. While they express interest in learning front-end technologies, the resume lacks demonstrable experience with JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React, which are core requirements for the job. The candidate's skillset is misaligned with the technical demands of the role.

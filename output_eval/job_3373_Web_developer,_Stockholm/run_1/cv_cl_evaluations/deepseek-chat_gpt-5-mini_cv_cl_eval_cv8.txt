@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware and electronics test engineering, which is a completely different industry from modern front-end web development. While they mention test automation and Python, they lack any demonstrated experience with the core technologies required for the role, such as JavaScript, TypeScript, React, HTML, CSS, or any related web ecosystem tools. Their cover letter acknowledges this fundamental mismatch, indicating they would need to learn the entire required tech stack from scratch.

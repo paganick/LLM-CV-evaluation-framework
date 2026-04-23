@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in a technical capacity but predominantly in marketing automation rather than front-end development. While they show familiarity with some skills required for the position, such as testing and collaboration, they lack direct experience with key technologies like JavaScript frameworks (React), modern CSS tools, and hands-on front-end development, which are critical for this role.

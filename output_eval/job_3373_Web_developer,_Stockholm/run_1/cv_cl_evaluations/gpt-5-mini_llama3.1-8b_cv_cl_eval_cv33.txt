@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and training with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern front-end frameworks, testing/automation, Git, NodeJS, or related tooling required by the role. While they show strong collaboration, training, and communication skills, these are not substitutes for the core technical competencies the position requires. Given the complete lack of relevant technical experience and evidence of real development work, the candidate is not qualified for this role.

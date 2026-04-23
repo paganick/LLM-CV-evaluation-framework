@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume showcases a strong background in graphic design and art direction, which is not aligned with the JavaScript, TypeScript, and modern FE frameworks required for the job. While they mention HTML and CSS, the resume lacks any indication of experience with React or other modern JavaScript frameworks. The candidate's skill set is geared towards print and visual design, making them unsuitable for this front-end development role.

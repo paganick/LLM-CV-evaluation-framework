@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in email marketing and Salesforce Marketing Cloud, which doesn't align well with the core requirements of a front-end developer role focusing on JavaScript, React, and related technologies. While the candidate mentions HTML, CSS, and some web technologies, the resume and cover letter lack demonstrable experience in the modern front-end frameworks and testing methodologies emphasized in the job description. The candidate's experience is more aligned with marketing automation than front-end development.

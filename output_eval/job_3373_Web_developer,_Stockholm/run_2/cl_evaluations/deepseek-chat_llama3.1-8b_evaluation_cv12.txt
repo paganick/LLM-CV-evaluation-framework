@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required skills like React, Agile, and testing. However, the cover letter fails to address the majority of specific technical requirements from the job description, such as TypeScript, modern CSS tools, specific testing frameworks, Node.js, functional programming, and security knowledge. The experience described is broad but not closely aligned with the detailed stack and priorities listed.

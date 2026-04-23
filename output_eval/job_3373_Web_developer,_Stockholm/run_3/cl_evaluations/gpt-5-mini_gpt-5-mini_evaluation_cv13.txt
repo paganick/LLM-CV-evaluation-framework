@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end and Agile project management experience (JavaScript, HTML, CSS, Angular) and strong collaboration/product skills, but does not demonstrate key required hands‑on skills. There is no evidence of React or TypeScript experience, testing/test automation (Jest/Cypress/TestCafe), Git/GitHub usage, Node/npm ecosystem, modern CSS tooling, CI/CD, web security practices, or cloud/infra (AWS/Terraform). While trainable and a solid PM, they lack the specific modern frontend and devops toolchain experience this role requires.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is primarily a back-end Java specialist whose seven years of experience do not demonstrate the required seniority in React and modern front-end development. They lack documented professional experience with key requirements such as the Node.js ecosystem, functional programming, and CI/CD tools like CircleCI or Terraform. While they meet the general criteria for security and Agile collaboration, the application suggests a career transition rather than the established expertise expected for a consultant-level role in this specific stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills such as HTML, CSS, and JavaScript, along with experience in AngularJS. However, there is a lack of explicit experience with React or modern FE frameworks mentioned in the job description. The resume also does not highlight testing frameworks or CI/CD tools.

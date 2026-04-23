@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong general IT support experience, customer-facing skills, and mentions familiarity/interest in modern CSS tools and testing frameworks, which aligns with some cultural and soft-skill requirements. However, they do not demonstrate concrete, hands-on experience with core technical requirements for this role—JavaScript/TypeScript, React, testing and test automation, Node/npm/Yarn, Git, CI/CD, API design, and cloud tooling—making them a partial but not fully qualified match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and mentions key technologies like React, CSS tools, and Agile. However, the cover letter is vague and lacks concrete, hands-on examples of core requirements like TypeScript, modern testing frameworks, Git, and specific security knowledge. The background is heavily weighted toward non-development roles, creating significant doubt about practical, current engineering proficiency.

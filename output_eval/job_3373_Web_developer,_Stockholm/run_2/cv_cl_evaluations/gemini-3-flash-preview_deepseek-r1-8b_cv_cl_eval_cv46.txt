@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in Information Technology and basic web languages, the resume lacks evidence of professional experience with React, TypeScript, or modern frontend testing frameworks. The work history is outdated, ending in 2017, and focuses primarily on Java, database administration, and hardware rather than the modern frontend stack required for this role. There is a significant discrepancy between the claims made in the cover letter and the technical experience documented in the professional resume.

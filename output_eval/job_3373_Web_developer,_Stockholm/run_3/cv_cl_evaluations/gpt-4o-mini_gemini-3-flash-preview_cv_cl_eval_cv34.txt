@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in digital marketing and possesses some technical skills in HTML, CSS, and SQL, they lack direct experience with modern JavaScript frameworks like React and TypeScript, which are essential for the role. Their background is more aligned with implementation consulting rather than front-end development, particularly lacking demonstrated hands-on testing and automation skills required in the job description.

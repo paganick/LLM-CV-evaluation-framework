@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and statistical modeling but lacks the specific front-end development skills required for the position, particularly in JavaScript, TypeScript, and modern front-end frameworks like React. While they express a willingness to learn and adapt, their experience does not align well with the job's technical requirements, resulting in a lower score.

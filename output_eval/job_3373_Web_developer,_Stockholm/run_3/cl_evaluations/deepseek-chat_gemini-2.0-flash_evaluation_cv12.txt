@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience and covers core technical requirements like JavaScript, TypeScript, React, and testing. However, the cover letter fails to address several key requirements from the job description, including web security basics (OWASP, CSP), modern CSS tools, specific testing/linting frameworks, Node.js, functional programming, and CI/CD. The experience presented is broad but lacks the specific, detailed alignment needed for a strong match.

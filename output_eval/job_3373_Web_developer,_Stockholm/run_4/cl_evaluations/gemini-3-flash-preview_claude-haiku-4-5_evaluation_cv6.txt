@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary requirements of React and TypeScript, framing these core competencies as areas for future growth rather than current strengths. Furthermore, their testing background relies on legacy tools like Selenium and Behat rather than the modern JavaScript frameworks specifically requested. While they possess relevant foundational web knowledge and soft skills, the significant gap in modern framework proficiency makes them an underqualified applicant for this specific role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend and backend development, specifically with JavaScript, HTML, and CSS. However, they lack direct experience with modern frameworks like React, which is critical for this role, and their testing skills do not align closely with the specified tools (Jest, TestCafe, Cypress). While they demonstrate collaboration and communication skills, their overall fit is not strong enough for a higher score.

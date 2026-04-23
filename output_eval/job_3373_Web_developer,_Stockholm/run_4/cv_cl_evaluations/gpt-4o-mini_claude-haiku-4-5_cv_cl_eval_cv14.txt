@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and is familiar with core technologies such as JavaScript, HTML, and CSS. However, they lack specific hands-on experience with modern frontend frameworks like React, which is essential for this role. Additionally, while they mention knowledge of testing frameworks, there is no detailed evidence of practical experience with specific tools like Jest or Cypress that are crucial for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end-adjacent skills (HTML/CSS, security awareness, collaboration/Agile experience) and strong design tooling expertise, but lacks hands-on experience with core job requirements: JavaScript/TypeScript, React, testing frameworks, Node/npm ecosystem, and modern frontend tooling. Their stated willingness to learn is positive but does not compensate for the absence of practical experience in the critical technologies the role demands. Given the technical gaps, this candidate is not currently qualified for the position.

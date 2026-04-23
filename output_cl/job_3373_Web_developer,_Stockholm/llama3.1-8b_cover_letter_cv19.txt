@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the position at your esteemed organization. As a highly motivated Graphic Designer with a strong foundation in creative skills and technical expertise, I am confident that my unique blend of experience and qualifications make me an ideal fit for this role.
+
+As a skilled user of Adobe Creative Suite, particularly Photoshop and Illustrator, I possess a vast knowledge of typography and visual design principles. My proficiency in HTML/CSS coding has enabled me to create engaging marketing materials and promotional advertisements that have generated significant sales revenue and grown customer bases. In addition, my experience with Google Sheets and exceptional quality control skills have allowed me to maintain production of high-quality images under tight deadlines.
+
+I am excited about the opportunity to leverage my technical skills, including proficiency in modern CSS tools like Styled Components and SASS, as well as testing frameworks (Jest, TestCafe, Cypress), linters, and formatters (ESLint and Prettier). My familiarity with the NodeJS ecosystem, npm, Yarn, Express.js, and functional programming concepts will enable me to seamlessly integrate into your team's technical environment.
+
+As a collaborative individual with experience working in team-based environments, I am comfortable interacting with other teams and external partners. I possess strong problem-solving skills, honed through my experience in identifying causes of issues and implementing troubleshooting techniques. My ability to learn and retain knowledge quickly will enable me to adapt to the latest technologies and keep pace with your organization's evolving needs.
+
+I would welcome the opportunity to bring my unique blend of technical and creative expertise to your team. Thank you for considering my application.
+
+Sincerely,
+Alexis

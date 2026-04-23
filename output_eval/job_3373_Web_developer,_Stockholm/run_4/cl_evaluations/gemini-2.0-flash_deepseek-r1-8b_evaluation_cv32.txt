@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in customer service, lacking the required technical skills in JavaScript, React, testing frameworks, and web security as outlined in the job description. While the candidate mentions an eagerness to learn, the cover letter does not demonstrate any concrete experience or projects related to the specified technologies, making them underqualified for a Software Engineer role requiring those proficiencies. The focus on transferable skills is appreciated, but insufficient without relevant technical experience.

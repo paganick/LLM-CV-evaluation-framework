@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is heavily focused on electronics testing and manufacturing, which is not the primary focus of the job description. While the cover letter expresses interest in frontend technologies, the resume lacks concrete experience with JavaScript, TypeScript, React, or other modern FE frameworks. The candidate does demonstrate experience with test automation and Python scripting which are beneficial but insufficient to strongly align with the role's requirements.

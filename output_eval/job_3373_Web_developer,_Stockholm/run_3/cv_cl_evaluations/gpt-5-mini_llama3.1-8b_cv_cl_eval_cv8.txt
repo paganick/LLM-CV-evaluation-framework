@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a long history in hardware/test engineering, electronics manufacturing, and Python scripting but provides no verifiable, hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, NodeJS, or frontend test automation required by the role. The cover letter asserts familiarity with frontend frameworks and testing tools, but those claims are not substantiated in the resume or work history. Overall this is a different domain (hardware/test engineering) and does not meet the core frontend engineering requirements.

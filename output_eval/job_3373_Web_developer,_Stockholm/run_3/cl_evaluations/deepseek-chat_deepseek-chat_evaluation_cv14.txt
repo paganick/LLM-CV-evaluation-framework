@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, collaboration, and Agile. However, the cover letter lacks direct, hands-on experience with the specific modern frontend stack (React, TypeScript, modern CSS tools) and testing frameworks listed as core requirements. While the candidate expresses eagerness to learn, they do not provide concrete evidence of proficiency in the key technologies for the role.

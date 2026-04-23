@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications, yet lacks the required technical skills in JavaScript, TypeScript, and modern front-end frameworks like React. There is no evidence of hands-on experience with testing or automation, and the resume does not demonstrate any familiarity with web security principles or CI/CD tools. The transition from a communications role to a technical position may require significant upskilling.

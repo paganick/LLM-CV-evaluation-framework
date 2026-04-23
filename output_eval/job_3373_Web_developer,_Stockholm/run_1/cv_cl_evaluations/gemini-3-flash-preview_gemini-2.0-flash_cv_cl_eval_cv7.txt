@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer with no professional experience or demonstrated proficiency in JavaScript, TypeScript, React, or modern software engineering practices. While they possess strong visual design skills, they lack the required technical stack, including experience with automated testing, CI/CD, and web security. The resume and cover letter confirm they are currently in a different industry and would require foundational training in front-end development.

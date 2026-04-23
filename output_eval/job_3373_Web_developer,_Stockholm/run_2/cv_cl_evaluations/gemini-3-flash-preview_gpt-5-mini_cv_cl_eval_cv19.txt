@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks nearly all the core technical requirements for a Front-End Engineer role, including JavaScript, TypeScript, and React. While they possess basic HTML/CSS knowledge, they have no professional experience with software testing, Git, web security, or modern development frameworks. This application represents a career-transition attempt that does not meet the minimum engineering qualifications or experience levels specified.

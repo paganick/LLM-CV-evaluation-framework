@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong visual design expertise and basic HTML/CSS with stated progression into JavaScript, TypeScript, and React, which is relevant to the role. However, the letter lacks concrete evidence of required hands-on experience with testing (unit/integration/E2E), modern CSS tools and tooling (Styled Components/SASS, linters/formatters), Node/npm ecosystem, Git/GitHub workflows, CI/CD, and web security/cloud knowledge. Overall, relevant industry background but insufficient demonstrated technical depth for this position.

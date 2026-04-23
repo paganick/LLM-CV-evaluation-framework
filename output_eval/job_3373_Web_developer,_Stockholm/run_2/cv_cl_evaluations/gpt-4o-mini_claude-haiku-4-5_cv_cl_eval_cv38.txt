@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in media production with limited experience in web technologies and frontend development. While they express a strong interest in transitioning to this field and have some exposure to HTML and CSS, they lack specific experience with JavaScript frameworks like React and the required testing frameworks, which are critical for the role. Their skills in collaboration and project management in a different industry do not compensate for the absence of technical expertise.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development with JavaScript, HTML, and CSS, as well as knowledge of Git. However, they lack experience specifically with modern frameworks mentioned in the job description (React, VueJS, Angular, Svelte) and specific testing frameworks required for the role. Basic knowledge about web security is also missing, which is important for the position.

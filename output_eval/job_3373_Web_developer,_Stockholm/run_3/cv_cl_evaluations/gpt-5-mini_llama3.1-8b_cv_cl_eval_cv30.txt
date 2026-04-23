@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is predominantly data analytics and legacy ASP.NET/C# work with only minor HTML/JavaScript references and no substantiated experience in React, TypeScript, or modern frontend frameworks. There is no evidence of familiarity with the Node ecosystem, modern CSS tools, or the testing and CI tools (Jest/Cypress, CircleCI) that the role requires. Claims in the cover letter are not corroborated by the resume, so the candidate does not meet the essential frontend engineering qualifications.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant background in graphic design and foundational knowledge in HTML and CSS, but lacks the required experience with JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is no mention of experience with testing frameworks, Git, or knowledge of important web security concepts, which are critical for the role. The gaps in necessary technical skills, along with limited hands-on experience, make them a less suitable candidate for this position.

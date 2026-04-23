@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant skills in design and project management, they lack specific hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. Their background is more aligned with media production and arts education rather than the technical requirements outlined in the job description. Additionally, the candidate does not mention familiarity with testing frameworks or CI/CD tools, which are crucial for the position.

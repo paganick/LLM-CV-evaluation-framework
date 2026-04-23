@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate demonstrates relevant experience with JavaScript, HTML/CSS, SASS, testing practices, Git, Agile, and 7+ years of full‑stack work, which aligns with core frontend expectations. However, the letter lacks explicit, concrete evidence of several key requirements for this role—notably React and TypeScript experience, specific testing frameworks (Jest/Cypress/TestCafe), Node/npm/Yarn/Express, functional tooling (Ramda), CI/CD, and cloud/infra (AWS/Terraform)—so they are a partial but not complete fit.

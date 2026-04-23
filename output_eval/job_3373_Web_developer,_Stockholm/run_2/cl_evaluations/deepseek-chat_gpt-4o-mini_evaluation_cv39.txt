@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in design is relevant but lacks the specific technical requirements for the role. They demonstrate minimal experience with JavaScript, no mention of React or modern frameworks, and limited testing experience, which are core to the job description. While they show strong soft skills and a willingness to learn, their technical profile does not align with the required hands-on development skills.

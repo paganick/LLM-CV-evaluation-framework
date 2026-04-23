@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, lacking the specific front-end development skills (JavaScript, React, HTML, CSS) detailed in the job description. While the candidate mentions a "technical foundation," there's no demonstrable experience with modern front-end frameworks or testing methodologies. The resume focuses on project leadership and infrastructure management, not hands-on coding or web development.

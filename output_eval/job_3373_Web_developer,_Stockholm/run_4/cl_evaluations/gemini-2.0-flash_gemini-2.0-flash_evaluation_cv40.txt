@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's cover letter focuses heavily on product management and marketing, which are not the primary requirements for a Front End Developer role. While the candidate mentions a computer science background, there is a lack of specific details or demonstrable experience with the technologies listed in the job description (React, JavaScript, TypeScript, HTML, CSS, testing frameworks). The cover letter does not adequately address the core technical skills required.

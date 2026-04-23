@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Test Engineer position advertised. With over ten years of experience in test engineering and a proven track record in developing robust test processes and automation, I am confident I possess the skills and passion necessary to excel in this role and contribute significantly to your team.
+
+My expertise lies at the intersection of hardware, software, and system-level testing. I have extensive experience designing, developing, and maintaining test procedures and automation scripts, primarily using Python, for complex electronic systems, including servers and network hardware. This aligns with my passion for writing truly clean code and ensuring high standards in testing methodologies. I am proficient in managing the entire test lifecycle, from initial validation and failure analysis to ongoing reliability testing and RMA processing, ensuring product quality and customer satisfaction. I am adept at utilizing a wide array of test equipment and software tools for root cause analysis, including oscilloscopes, network analyzers, and specialized test automation environments.
+
+I am a strong collaborator accustomed to working within Agile principles, effectively interacting with cross-functional teams and external partners to achieve common goals. I am keen on understanding the broader domain, including system integration and API interactions, even outside my direct test expertise. While my background is rooted in hardware and system testing, I am deeply interested in modern web security principles (OWASP, CSP, CORS, OAuth) and am eager to expand my knowledge in this area, recognizing its critical importance in today's digital landscape.
+
+I am proficient with Git and various testing frameworks (Jest, Cypress, etc.), linters (ESLint), formatters (Prettier), and CI/CD concepts, understanding the importance of standardized and automated testing practices. My experience encompasses not only the execution of tests but also the development of standards and procedures, ensuring consistency and efficiency. I am proficient with tools like MES and have a strong interest in understanding API design and concepts related to cloud platforms like AWS.
+
+My background in electronics manufacturing and test engineering provides a solid foundation for contributing to your team, particularly in enhancing test automation, improving process efficiency, and ensuring product quality through rigorous validation and failure analysis. I am eager to apply my skills in this challenging environment and am confident in my ability to quickly learn and master any required technologies.
+
+Sincerely,
+Alexis

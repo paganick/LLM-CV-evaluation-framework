@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in data analysis and industrial engineering, with no demonstrated experience in the required front-end technologies (JavaScript, TypeScript, React, CSS) or related web development skills. The cover letter attempts to force a connection by mentioning React and "clean code," but the resume provides zero evidence of front-end, testing, security, or the specific tools listed in the job description. This is a misalignment of core profession and required technical skill set.

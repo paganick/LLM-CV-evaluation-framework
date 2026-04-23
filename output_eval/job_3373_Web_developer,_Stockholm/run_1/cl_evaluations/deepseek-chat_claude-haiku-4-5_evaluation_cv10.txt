@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates proficiency in core front-end technologies, testing, Git, and Agile collaboration. However, they lack direct, hands-on experience with the specific modern technologies listed in the job description, most critically React, and do not address key requirements like web security, modern CSS tools, or the Node.js ecosystem. Their background in AngularJS is noted, but the transition to React is presented as aspirational rather than proven.

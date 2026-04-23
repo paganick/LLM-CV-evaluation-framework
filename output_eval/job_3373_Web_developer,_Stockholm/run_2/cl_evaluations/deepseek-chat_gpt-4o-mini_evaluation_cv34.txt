@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing and implementation consulting, not dedicated front-end development, which is a significant mismatch. While they mention some relevant technologies (HTML, CSS, React, Agile, OWASP/CORS), they lack demonstrable hands-on experience with the core technical stack (TypeScript, testing frameworks, Git, modern CSS tools) specified in the job description. Their experience is presented as ancillary to a client-facing role rather than as primary, production-level development work.

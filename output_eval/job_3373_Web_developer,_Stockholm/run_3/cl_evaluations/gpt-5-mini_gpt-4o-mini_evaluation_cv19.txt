@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid HTML/CSS, design sensibilities, Git familiarity, and soft skills, but explicitly states limited JavaScript/TypeScript and does not demonstrate practical React experience or test automation expertise which are core to the role. They show basic knowledge of web security and eagerness to learn NodeJS, CI/CD, and testing tools, however the current skillset falls short of the technical requirements for this position.

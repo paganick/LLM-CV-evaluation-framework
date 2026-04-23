@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical position, as their professional background is in marketing automation rather than software engineering. They lack professional experience with React, TypeScript, and modern frontend testing frameworks, which are primary requirements for the role. Their technical exposure is limited to platform-specific configuration and foundational web concepts, making them an unsuitable match for this developer profile.

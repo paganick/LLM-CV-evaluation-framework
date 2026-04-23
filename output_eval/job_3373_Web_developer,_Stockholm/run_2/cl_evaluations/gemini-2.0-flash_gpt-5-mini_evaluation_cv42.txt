@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in finance and operations, with limited direct experience in front-end development or the technologies listed in the job description. While they express eagerness to learn modern front-end practices and contribute to project delivery and quality assurance, the cover letter lacks demonstrable experience in the required JavaScript, React, or testing frameworks. Their skills seem mostly transferrable rather than directly relevant.

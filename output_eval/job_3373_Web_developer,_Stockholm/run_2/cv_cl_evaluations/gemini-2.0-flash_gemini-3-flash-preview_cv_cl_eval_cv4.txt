@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, and CSS, with experience in API integration and database development, aligning with the job description's core requirements. They also highlight their familiarity with testing methodologies and Agile environments, showcasing relevant experience. However, they lack specific mentions of React, TypeScript, or modern CSS tools outlined in the job description, and also lack testing frameworks.

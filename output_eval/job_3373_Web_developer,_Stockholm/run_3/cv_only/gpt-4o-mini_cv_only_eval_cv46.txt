@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in areas related to programming and database management but lacks specific expertise in modern front-end technologies such as React, TypeScript, and testing automation frameworks outlined in the job description. Additionally, there is no evidence of collaboration in an Agile environment, experience with web security basics, or familiarity with modern CSS tools and CI/CD processes.

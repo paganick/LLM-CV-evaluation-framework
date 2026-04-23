@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, TypeScript, testing, Agile, and security concepts. However, the direct professional experience is from a different industry, and the cover letter relies heavily on transferable skills rather than proven frontend development work history. The match is good on skills and mindset, but the lack of formal software development tenure is a limitation.

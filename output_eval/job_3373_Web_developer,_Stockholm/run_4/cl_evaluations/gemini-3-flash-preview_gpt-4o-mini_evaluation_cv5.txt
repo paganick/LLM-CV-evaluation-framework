@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has seven years of software experience, their background is primarily in mainframe technologies, and their modern front-end skills like React are "recently acquired" rather than established. They failed to mention TypeScript, a mandatory requirement, and possess only "basic familiarity" with the Node.js ecosystem and CSS tools. The applicant's profile suggests a career transition rather than the specialized front-end expertise required for this specific role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong technical background in electronics and testing, but lacks specific experience with the required technologies such as React, TypeScript, and modern front-end frameworks. While they do have exposure to JavaScript and a collaborative work environment, they do not demonstrate hands-on experience with testing frameworks or Git, which are critical for this role. Overall, the candidate's skills in engineering and validation are relevant but insufficiently aligned with the requirements of the position.

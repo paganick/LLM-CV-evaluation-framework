@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The applicant's background is entirely in microbiology, regulatory compliance, and training with no demonstrated experience in JavaScript/TypeScript, React, front-end frameworks, testing frameworks, NodeJS, or related toolchain required by the role. The cover letter does not provide any examples of relevant technical skills, projects, or contributions to software development. Transferable skills in project management and documentation are noted but are insufficient to meet the core technical requirements for this frontend engineering position.

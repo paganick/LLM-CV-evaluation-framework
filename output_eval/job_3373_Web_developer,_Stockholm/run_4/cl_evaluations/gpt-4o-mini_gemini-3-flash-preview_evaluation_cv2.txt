@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in Java and some experience with frontend technologies, but lacks direct experience with modern JavaScript frameworks like React, which is essential for the role. While they demonstrate familiarity with Agile practices and a passion for clean code, the specific experience with testing frameworks, modern CSS tools, and AWS mentioned in the job description is not strongly highlighted.

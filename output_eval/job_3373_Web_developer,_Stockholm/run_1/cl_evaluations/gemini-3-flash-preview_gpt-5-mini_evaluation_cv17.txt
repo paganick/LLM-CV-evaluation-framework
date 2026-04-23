@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer from a completely different industry who lacks professional experience in JavaScript, React, or software development. While they possess significant leadership and engineering discipline in civil construction, they do not satisfy the core technical requirements, such as hands-on testing, web security knowledge, or modern CSS tooling. As a strict recruiter, high-level project management experience cannot substitute for the specific technical proficiency and professional track record required for this front-end role.

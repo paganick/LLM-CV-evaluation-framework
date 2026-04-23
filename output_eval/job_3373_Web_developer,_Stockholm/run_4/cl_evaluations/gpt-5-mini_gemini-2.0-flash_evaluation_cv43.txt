@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong program management, collaboration, Agile experience, and a user-focused mindset, but provides no concrete evidence of the core front-end technical skills required (JavaScript/TypeScript, HTML/CSS, React), testing experience, Git usage, or familiarity with modern CSS/Node/CI tools. Stated "intermediate coding skills" and eagerness to learn are positive but insufficient for this role as described. With targeted upskilling and demonstrable technical projects, the candidate could become a stronger match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong project management, collaboration, and Agile experience but provides no evidence of hands-on frontend skills required (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, CI/CD, or web security knowledge). While transferable skills and eagerness to learn are positive, they do not substitute for the technical experience this role demands. Not qualified for the role as stated without substantial upskilling or prior hands-on frontend work.

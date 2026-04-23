@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in test automation and quality engineering, not frontend development, and they lack direct, hands-on experience with the core technologies listed in the job description (JavaScript, TypeScript, React). While they demonstrate relevant soft skills and a foundational understanding of testing principles, they do not fulfill the specific technical requirements for the role, presenting as a career transition candidate who would require significant training.

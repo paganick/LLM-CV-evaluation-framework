@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position you are seeking, as advertised on [Platform, if applicable, or state "your company"]. With a comprehensive background in Information Technology, encompassing software development, system management, and digital design, I am confident I possess the technical skills and collaborative spirit required to excel in this role.
+
+My expertise aligns closely with your requirements. I have substantial experience with the core technologies listed: JavaScript, HTML, and CSS. Although my CV details a range of programming languages including Java, PHP, and ActionScript, my hands-on work includes JavaScript, positioning me well for frontend development tasks. While my experience primarily involves general scripting, I am adept at learning and applying testing frameworks like Jest or Prettier to ensure code quality, mirroring your need for clean code. I am familiar with Git for version control and possess knowledge of basic security principles, including concepts related to OWASP.
+
+Furthermore, my background includes experience in planning and executing projects, often within collaborative team environments, which I believe aligns with the need for Agile collaboration and understanding broader domains. I am passionate about clean code practices and continuously strive to keep my skills updated, mirroring your interest in staying current with technologies.
+
+I am eager to bring my diverse IT background, technical proficiency, and proven ability to deliver impactful results to your team. Thank you for considering my application. I look forward to the possibility of discussing how my skills and experiences can benefit your organization.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal/PHP developer and lacks professional experience with the core requirements of React and TypeScript. While they possess general web development knowledge, they lack the specific expertise in modern testing frameworks (Jest, Cypress), functional programming (Ramda), and the Node.js ecosystem requested in the job description. The profile aligns more with CMS management and backend-heavy roles rather than a modern frontend engineering position.

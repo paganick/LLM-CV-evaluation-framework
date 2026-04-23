@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic front-end foundations (HTML/CSS), strong communication/documentation skills, and Agile experience, but lacks nearly all core technical requirements listed (no JavaScript/TypeScript, no React experience, no testing, no Git/Node/npm, and no web security or modern CSS tooling experience). Their willingness to learn is positive but insufficient for the hands-on expectations of this role. This makes them relevant to the industry but missing critical, immediate skills needed for the position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not professional front-end development. The resume shows only foundational, outdated web skills (HTML, CSS, SQL) and no experience with JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. While the cover letter expresses enthusiasm, there is no demonstrated, hands-on experience to meet the technical requirements of the role.

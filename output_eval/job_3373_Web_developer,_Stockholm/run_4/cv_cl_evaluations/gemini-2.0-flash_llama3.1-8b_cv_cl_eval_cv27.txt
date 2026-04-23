@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administrative and arts-related roles, lacking the necessary technical skills and experience in web development. While the cover letter expresses interest in learning, there's no demonstrable experience with JavaScript, TypeScript, modern FE frameworks, testing, or other key requirements. The resume highlights skills like Final Cut Pro, video production, and office administration, which are not relevant to the job description.

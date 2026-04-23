@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in web technologies relevant to the frontend developer role, including HTML, CSS, and an active pursuit of React and TypeScript knowledge. While the candidate shows significant experience with digital communications and accessibility, they could benefit from more hands-on experience with modern frameworks and tools listed in the job description, particularly in testing and CI/CD processes.

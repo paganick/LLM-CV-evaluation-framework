@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in IT, their background is heavily focused on legacy Java/J2EE technologies rather than the modern React, TypeScript, and Node.js stack required for this role. The cover letter fails to demonstrate experience with modern front-end frameworks, automated testing tools like Jest or Cypress, or cloud infrastructure such as AWS. Consequently, there is a significant technical mismatch between the candidate’s expertise and the specific requirements of the job description.

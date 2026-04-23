@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic background and some transferable skills. However, the candidate lacks sufficient experience with the technologies listed in the job description, particularly React, testing frameworks, and modern CSS tools. The cover letter focuses more on past experiences in media planning than on demonstrable front-end engineering skills.

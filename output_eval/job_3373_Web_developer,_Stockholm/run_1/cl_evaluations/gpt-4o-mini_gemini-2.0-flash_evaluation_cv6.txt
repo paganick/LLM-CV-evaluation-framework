@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in frontend development and a strong grasp of essential technologies such as JavaScript, HTML, and CSS. However, while they have expressed eagerness to learn tools and practices mentioned in the job description, they lack direct experience with some key requirements like TypeScript, specific testing frameworks, and modern CSS tools like Styled Components, which limits them from being considered a strong match.

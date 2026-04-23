@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong senior product and design experience in apparel and physical products with demonstrated cross-functional leadership and mentoring, but lacks commercial UX design experience and explicit experience in an Agile software environment. There is no evidence of Figma or digital prototyping, exposure to HTML/CSS/JS, formal user research methods, or management of a UI Design System. Transferable skills (workshops, specifications, team management) are present but do not satisfy the core technical and domain requirements for this role.

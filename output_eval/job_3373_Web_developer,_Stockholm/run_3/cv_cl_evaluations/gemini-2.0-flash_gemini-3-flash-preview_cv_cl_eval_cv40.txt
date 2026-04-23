@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in product management and mentions familiarity with some relevant technologies in their cover letter. However, the resume lacks concrete evidence of hands-on experience with the specific front-end technologies mentioned in the job description (React, TypeScript, HTML, CSS). The experience seems more leadership and management focused rather than engineering.

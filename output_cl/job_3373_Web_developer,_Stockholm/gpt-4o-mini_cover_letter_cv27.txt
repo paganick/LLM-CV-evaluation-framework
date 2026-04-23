@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position advertised. With a diverse background in both the sciences and the arts, alongside substantial administrative experience, I bring a unique perspective to the role that aligns beautifully with your needs.
+
+Though I have previously focused on executive administrative tasks, my experience with web design and HTML, coupled with my continued interest in emerging technologies, positions me well to contribute to your team. I am well-versed in modern development frameworks, particularly React, which I recognize is a key part of your operations. My familiarity with Git and various hosting services, such as GitHub, further strengthens my technical capabilities.
+
+Moreover, I have a clear dedication to writing clean and maintainable code. In my role as Assistant Director, I was responsible for preparing a wide variety of written materials, ensuring clarity and precision in documentation and communication. I am keen to apply this diligence to test automation frameworks such as Jest and Cypress, promoting quality assurance throughout the development process.
+
+Your emphasis on collaboration within Agile teams resonates with my previous experiences in managing and supervising diverse groups. My role often required me to interact across various departments, ensuring smooth communication and effective problem-solving. I pride myself on my ability to approach challenges analytically and strategically, which I believe is crucial in today’s fast-paced tech landscape.
+
+Furthermore, my professional journey has instilled in me a commitment to continuous learning and improvement. I am eager to enhance my skills in areas such as AWS and CI/CD tools like CircleCI, as I recognize their importance in modern software development.
+
+I am excited about the opportunity to contribute my diverse skills to your team and help drive innovative front-end solutions. Thank you for considering my application. I look forward to discussing how my background can benefit your organization.
+
+Sincerely, Alexis

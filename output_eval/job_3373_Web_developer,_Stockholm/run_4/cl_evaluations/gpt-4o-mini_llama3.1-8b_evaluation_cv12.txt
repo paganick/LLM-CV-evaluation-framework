@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience and technical skills, particularly in software development and modern frameworks like React. However, they do not mention specific experience with JavaScript, TypeScript, modern CSS tools, or testing frameworks that are highly emphasized in the job description. Although they demonstrate some familiarity with Agile environments, they lack knowledge of additional required tools and technologies, which limits their qualifications for the role.

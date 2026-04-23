@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for a role that leverages my technical expertise in software development and my passion for clean code. As a highly motivated and detail-oriented professional with a Master's degree in Computer Science from Wichita State University, I am confident that I would be an excellent fit for your team.
+
+With over 8 years of experience in back-end programming, relational databases, and performance testing, I possess a strong foundation in structuring, developing, and implementing interactive websites. My expertise in Java, Spring MVC, Hibernate, and Oracle 11g has allowed me to design and implement scalable and efficient systems. In my previous role as a Java Intern at Company Name, I successfully designed and implemented the Leave Management System using Spring MVC, which improved employee attendance logging and reduced manual errors.
+
+In addition to my technical skills, I have hands-on experience with testing and test automation, having executed test cases and analyzed performance numbers against benchmarks in my role as a Test Contractor. I am well-versed in Agile Software development methodology and have worked effectively in team environments, collaborating with colleagues to meet project deadlines.
+
+My proficiency in JavaScript, HTML5, CSS, and AngularJS has allowed me to craft robust and user-friendly front-end applications. I am also familiar with modern CSS tools like Styled Components and SASS, testing frameworks (Jest, TestCafe, Cypress), linters and formatters (ESLint and Prettier), and CI/CD tools like CircleCI.
+
+I am impressed by your organization's emphasis on clean code, security, and staying up-to-date with the latest technologies. As a lifelong learner, I appreciate the opportunity to work with a team that prioritizes innovation and excellence.
+
+In conclusion, my unique blend of technical expertise, passion for clean code, and experience in Agile development make me an ideal candidate for this role. I am excited at the prospect of joining your team and contributing to the success of your organization.
+
+Sincerely,
+Alexis

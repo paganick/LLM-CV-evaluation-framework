@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical position, as their 20-year career is exclusively in finance, operations, and executive leadership rather than software engineering. There is no evidence of experience with JavaScript, React, TypeScript, or any of the required front-end development frameworks and testing tools. While the candidate has managed software implementations from a business perspective, they lack the foundational coding skills and engineering expertise specified in the job description.

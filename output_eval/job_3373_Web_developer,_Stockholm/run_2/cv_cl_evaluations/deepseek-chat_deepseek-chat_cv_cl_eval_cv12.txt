@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, modern front-end skills required. The job demands hands-on experience with React and modern testing frameworks, which are not demonstrated in the resume. While the candidate shows strong backend and systems skills, the front-end experience is dated and not aligned with the React-centric, modern tooling stack specified.

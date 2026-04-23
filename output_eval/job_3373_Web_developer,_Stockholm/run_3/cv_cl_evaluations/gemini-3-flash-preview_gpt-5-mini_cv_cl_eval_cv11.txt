@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized QA/Test Analyst, whereas the job description clearly specifies a requirement for a Front-end Developer proficient in React, TypeScript, and modern CSS tools. While they possess strong testing fundamentals and basic JavaScript knowledge, they lack any professional experience with the core frameworks, API design, or cloud infrastructure required for this role. As a result, the candidate is underqualified for a development position and would require extensive retraining.

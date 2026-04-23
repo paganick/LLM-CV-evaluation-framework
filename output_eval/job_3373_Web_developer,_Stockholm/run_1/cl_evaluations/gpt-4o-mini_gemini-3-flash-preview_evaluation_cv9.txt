@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong experience in relevant technologies such as JavaScript, HTML, CSS, and React, along with a good understanding of web security protocols. Their hands-on experience with testing methodologies like TDD and BDD aligns well with the job requirements. However, there is no mention of TypeScript, which is a significant aspect of the role, and their familiarity with AWS and Terraform is only mentioned as general, not specific experience.

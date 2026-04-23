@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and a decent understanding of programming, but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks like React, which are crucial for the position. Additionally, while the candidate expresses interest in transitioning to a development role, their resume does not demonstrate hands-on experience with technologies and tools mentioned in the job description, such as testing frameworks and CI/CD tools.

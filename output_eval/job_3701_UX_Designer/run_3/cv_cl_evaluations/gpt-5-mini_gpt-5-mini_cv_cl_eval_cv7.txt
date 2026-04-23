@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX experience (Agile practice, user research, prototypes, style guides and team leadership) and clearly meets the core responsibilities of the role. However, they do not show explicit Figma experience and have only partial evidence of front-end exposure (HTML/CSS but no JS), and the resume lacks recent commercial roles/date continuity which raises questions about current tooling familiarity. These gaps prevent a higher score despite overall strong domain fit.

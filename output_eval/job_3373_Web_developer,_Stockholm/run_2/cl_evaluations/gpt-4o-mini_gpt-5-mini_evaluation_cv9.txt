@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and testing automation, aligning well with the job description. However, their primary background in server-side development makes them less of a perfect match for a front-end focused role, and there's no mention of experience with React, which is specifically required.

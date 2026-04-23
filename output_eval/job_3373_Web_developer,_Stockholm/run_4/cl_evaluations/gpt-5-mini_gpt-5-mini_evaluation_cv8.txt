@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong, relevant experience in test engineering, automation, debugging, and cross-functional collaboration which are valuable for a testing-focused role. However, they lack explicit hands-on experience with core job requirements—JavaScript/TypeScript, React, modern CSS, front-end testing frameworks (Jest/Cypress/TestCafe), Git/Node ecosystem, CI/CD, and web security—making them not an immediate fit. With significant upskilling and proven front-end project experience they could become a viable candidate.

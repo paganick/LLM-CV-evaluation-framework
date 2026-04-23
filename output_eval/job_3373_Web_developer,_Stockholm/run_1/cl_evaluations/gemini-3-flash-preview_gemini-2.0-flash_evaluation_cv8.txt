@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience in the core technologies required, specifically JavaScript, TypeScript, and modern CSS. While they possess transferable skills in test automation and security, they fail to demonstrate any hands-on proficiency with React or the front-end testing ecosystem (Jest, Cypress) demanded by the role. The background is heavily weighted toward hardware and electronics engineering rather than software development, making them underqualified for a specific front-end position.

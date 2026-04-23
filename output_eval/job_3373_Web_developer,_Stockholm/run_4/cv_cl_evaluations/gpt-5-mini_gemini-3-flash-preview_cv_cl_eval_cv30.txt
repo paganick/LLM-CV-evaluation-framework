@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong analytics, QA, and backend/data experience (SQL, C#, HTML, testing mindset) and mentions familiarity with Git, but their resume shows no demonstrated experience with JavaScript/TypeScript, React (or other modern frontend frameworks), modern CSS tooling, Node/npm, frontend testing frameworks, or CI/CD — all core requirements for this role. Significant frontend- and tooling-specific upskilling would be required before they could meet the job's expectations.

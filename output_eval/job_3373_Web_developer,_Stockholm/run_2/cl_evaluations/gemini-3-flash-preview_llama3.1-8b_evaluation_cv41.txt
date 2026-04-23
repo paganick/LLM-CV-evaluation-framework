@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: Despite having an IT background, the candidate is a Systems Administrator who lacks the mandatory professional experience in JavaScript, TypeScript, and React required for this software engineering role. The cover letter highlights infrastructure and networking skills that do not align with the job’s focus on frontend development and modern web frameworks. Furthermore, the candidate demonstrates a clear lack of understanding of software development principles by incorrectly equating "clean code" with system reboots and preventive maintenance.

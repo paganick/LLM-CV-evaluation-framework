@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in test engineering and automation but lacks direct experience with front-end development, specifically in JavaScript, TypeScript, and relevant frameworks like React. Their knowledge of key web security concepts is promising; however, they do not meet several primary technical requirements stated in the job description, such as hands-on experience with modern front-end frameworks and testing automation specific to web applications.

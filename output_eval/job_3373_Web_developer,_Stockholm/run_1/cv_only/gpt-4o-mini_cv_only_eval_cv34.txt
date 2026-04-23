@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some experience with HTML and CSS but lacks direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and testing frameworks. Their background is more focused on digital marketing and Salesforce Marketing Cloud, which does not align well with the technical requirements of the position. While there are some relevant skills, they do not have the necessary technical expertise required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on data analysis and statistical modeling, while the job description is heavily focused on front-end development with React, JavaScript, and associated technologies. While the candidate mentions an analytical mindset and interest in new technologies, they lack demonstrable experience in the core skills required for the role. The letter doesn't adequately address the listed requirements, such as testing, Git, or web security.

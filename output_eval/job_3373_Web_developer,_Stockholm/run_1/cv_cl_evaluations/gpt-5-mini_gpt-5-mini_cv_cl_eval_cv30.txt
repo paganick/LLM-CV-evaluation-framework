@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong data engineering, testing, and some HTML/C# experience, but lacks hands-on experience with core front-end requirements—JavaScript/TypeScript, React, modern CSS tools, front-end testing frameworks, Git workflow, and the Node ecosystem. They would require significant upskilling to meet the technical expectations of this Front-End Engineer role.

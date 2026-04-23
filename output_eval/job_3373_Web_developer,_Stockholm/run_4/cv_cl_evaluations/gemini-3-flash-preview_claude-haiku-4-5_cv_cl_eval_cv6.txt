@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Drupal and PHP specialist whose professional experience lacks the required hands-on expertise with modern frontend frameworks like React and TypeScript. While they possess fundamental web knowledge and experience with legacy testing tools, they do not demonstrate professional proficiency in the specific modern ecosystem (Node.js, Jest, Cypress, CI/CD) required for this role. Most of the core technical requirements are addressed as interests in the cover letter rather than established skills in the work history.

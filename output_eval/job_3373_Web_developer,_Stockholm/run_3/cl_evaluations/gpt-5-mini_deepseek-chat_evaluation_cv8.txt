@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates core front-end qualifications (JavaScript/TypeScript/React/HTML/CSS), testing experience (Jest/Cypress), Git, Node/npm familiarity, and strong collaborative/Agile experience, matching many key requirements. However, they do not explicitly cite several listed toolchain and ecosystem items (Styled Components/SASS, ESLint/Prettier, Ramda/functional programming, CircleCI, Express.js, AWS/Terraform), so they are a good but not perfect fit.

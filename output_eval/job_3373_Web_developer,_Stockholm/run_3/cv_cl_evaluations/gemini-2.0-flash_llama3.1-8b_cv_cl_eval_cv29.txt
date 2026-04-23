@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter focus on business development, sales, and marketing, with no demonstrable experience in front-end development or the technologies listed in the job description. While the candidate mentions working with software development teams and API design, this is insufficient to meet the technical requirements of the role. The candidate lacks the necessary skills in JavaScript, TypeScript, React, HTML, CSS, testing frameworks, and other development tools mentioned in the job description.

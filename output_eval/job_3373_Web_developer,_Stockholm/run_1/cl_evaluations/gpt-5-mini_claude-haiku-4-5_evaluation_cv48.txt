@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial IT experience and a strong learning attitude, but their background is primarily in infrastructure/technical support with only cursory exposure to web technologies (WordPress/Joomla) and no demonstrated hands-on experience with JavaScript/TypeScript, React, testing frameworks, Git workflows, or web security—key requirements in the job description. Their stated commitment to learn is positive, but the current lack of specific, proven frontend and testing skills makes them underqualified for this frontend developer role.

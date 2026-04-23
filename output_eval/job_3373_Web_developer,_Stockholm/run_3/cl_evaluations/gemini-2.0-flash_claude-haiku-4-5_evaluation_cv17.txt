@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a completely different field, construction and project management, which is a weak foundation for a frontend engineer role. They mention their efforts to learn JavaScript, TypeScript, and React, but lack demonstrable experience. Their experience with testing frameworks and other key technologies appears limited, making them a risky hire.

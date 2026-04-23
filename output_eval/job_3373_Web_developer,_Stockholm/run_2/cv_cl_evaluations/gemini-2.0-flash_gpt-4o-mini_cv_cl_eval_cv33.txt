@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in banking, sales, and training, which is a significant departure from the front-end development role. While the cover letter mentions some technical exposure and a willingness to learn, the resume lacks concrete evidence of hands-on experience with the core technologies (JavaScript, React, etc.) listed in the job description. The skills listed are also primarily soft skills.

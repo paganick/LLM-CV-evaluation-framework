@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume reflects a background in microbiology, quality control, and training within the pharmaceutical/aseptic environment. There is no demonstrable experience or skills related to the required technologies in the job description (JavaScript, React, HTML, CSS, etc.). The candidate's experience is entirely unrelated to front-end development.

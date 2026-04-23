@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant frontend experience and mentions many required technologies, including Agile collaboration and testing. However, they fail to explicitly mention the key framework (React) and lack any reference to TypeScript or the specific security knowledge listed in the job description. The experience with AngularJS is outdated, and the cover letter does not convincingly address several modern tooling requirements.

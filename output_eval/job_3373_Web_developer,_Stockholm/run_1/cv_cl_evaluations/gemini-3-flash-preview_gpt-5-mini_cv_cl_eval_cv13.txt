@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager rather than a dedicated Software Engineer, lacking the specific expertise in React, TypeScript, and modern testing frameworks (Jest, Cypress) required for the role. Their technical experience is centered on dated libraries like jQuery and basic content management, which does not meet the standards for a senior-level front-end developer. While they possess strong Agile and collaboration skills, they lack the hands-on engineering depth in CI/CD, security protocols, and modern CSS tools specified.

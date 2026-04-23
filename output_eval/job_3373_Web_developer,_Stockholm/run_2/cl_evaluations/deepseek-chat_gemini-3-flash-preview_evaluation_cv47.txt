@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with nearly all technical requirements, including React, TypeScript, testing, security, and CI/CD. The transition from business leadership is a potential risk for a pure engineering role, but the cover letter effectively argues for the value of this hybrid perspective. The application shows a clear understanding of the specific tech stack and aligns well with the collaborative and quality-focused aspects of the job description.

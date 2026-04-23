@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the front-end developer position, as my diverse skill set and extensive experience in production support a solid foundation for coding and development in your dynamic team. While my background is predominantly in media production, I have cultivated a strong interest in web technologies, particularly JavaScript, TypeScript, HTML, and CSS frameworks.
+
+Having worked extensively on multimedia projects, I am adept at collaborating with various teams and stakeholders, which aligns with your needs for a strong collaborator who thrives in Agile environments. My role as Co-CEO at The "Jill-of-All-Trades" has honed my ability to oversee projects from inception to completion, ensuring high-quality finished products through effective organization and execution. I am drawn to the opportunity to contribute to your projects using React, a modern framework I am eager to further explore.
+
+I am continually learning and adapting to new technologies; I keep up with modern development tools and methodologies. My knowledge of Git, alongside experience using repo hosting services such as GitHub, ensures efficient project management and teamwork. Additionally, I possess a foundational understanding of web security principles including OWASP and CORS, which I recognize as critical in today's development landscape.
+
+Furthermore, I have experience with testing automation and various testing frameworks, which parallels your requirements. My attention to detail and commitment to writing clean, maintainable code will ensure the successful development of responsive and user-friendly applications.
+
+I am particularly drawn to the prospect of working with modern CSS tools and the NodeJS ecosystem, where I can leverage my creative background in producing quality digital content. My commitment to building relationships and understanding cross-platform dynamics will facilitate seamless collaborations with external partners.
+
+I look forward to the opportunity to bring my unique skills and innovative ideas to your team.
+
+Sincerely,  
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong electronics and testing background with some exposure to JavaScript and software test practices, but there is no demonstrated experience with core frontend technologies required by the role (React, TypeScript, HTML/CSS), modern frontend toolchain (Node/npm, bundlers), or frontend testing frameworks (Jest, Cypress). They also lack evidence of Git/GitHub usage, CSS tools, and building production-facing frontend applications, making them unsuitable for this frontend developer position without significant upskilling.

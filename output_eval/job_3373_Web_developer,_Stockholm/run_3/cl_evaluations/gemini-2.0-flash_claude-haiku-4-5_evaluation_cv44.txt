@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in UX/UI design, which is relevant but not a direct match for a Frontend Developer role. While they express interest in deepening their JavaScript and TypeScript skills, the cover letter doesn't showcase significant hands-on experience with React or testing frameworks mentioned in the job description, beyond expressing a willingness to learn. Their experience with UATs and FUTs is a plus, but not sufficient evidence of hands-on testing experience with unit, integration, and E2E tests.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the required hands-on experience with React, testing automation, and CI/CD tools, explicitly stating a desire to learn these core requirements rather than possessing professional proficiency. Despite mentioning basic languages like JavaScript and TypeScript, their ten-year professional history is entirely administrative rather than technical. This application fails to demonstrate the necessary engineering maturity or familiarity with the complex tech stack, such as AWS and security protocols, required for the role.

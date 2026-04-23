@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in materials analysis and cross-functional team leadership but lacks the specific technical skills and experience directly related to front-end development, JavaScript, or any modern frameworks like React or similar. Additionally, there is no mention of familiarity with testing frameworks or CI/CD tools, which are essential for the role described. Overall, skills are more aligned with analytical roles than the technical requirements of this position.

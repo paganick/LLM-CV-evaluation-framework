@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over 10 years of business development experience and familiarity with matrix environments, the application fails to demonstrate the mandatory technical sales expertise in Application Services, Business Analytics, or Design Consulting. The background in Hotel Management and general digital marketing is insufficient for a role requiring the facilitation of architectural reviews and the sale of complex IT solutions like Microservices and AI/ML platforms.

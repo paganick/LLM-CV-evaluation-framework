@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses some relevant experience in software development and testing but lacks the required expertise with specific modern front-end frameworks, particularly React, as mentioned in the job description. While they have a background in JavaScript and testing methodologies, there is insufficient evidence of their hands-on experience with the complete stack and modern tools outlined in the job requirements.

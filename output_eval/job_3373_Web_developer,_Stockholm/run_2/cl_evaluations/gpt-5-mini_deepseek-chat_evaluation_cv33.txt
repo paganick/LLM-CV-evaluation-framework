@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate demonstrates familiarity with core front-end technologies (JavaScript/TypeScript/React/HTML/CSS), testing with Jest, Styled Components/SASS, and Git, and emphasizes Agile and security awareness. However, there is limited evidence of hands-on, production-level experience (E2E/integration testing, CI/CD, Express/Node backend work, AWS/Terraform, API design) and no concrete examples or links to projects/portfolio. As a strict recruiter, this makes them a relevant but not yet fully qualified match for the role.

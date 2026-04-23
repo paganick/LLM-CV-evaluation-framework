@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's profile is heavily focused on software testing and quality assurance, which is a different primary discipline than the front-end development role described. While they list some relevant technologies like JavaScript and HTML, the job requires deep, hands-on experience with modern FE frameworks (React), modern CSS tools, testing frameworks, and functional programming, which are not demonstrated. The core skills and recent professional experience do not align with the development-centric requirements of the position.

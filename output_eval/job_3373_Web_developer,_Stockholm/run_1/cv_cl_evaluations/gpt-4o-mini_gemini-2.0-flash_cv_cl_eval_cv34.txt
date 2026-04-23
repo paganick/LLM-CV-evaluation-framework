@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience with HTML and CSS but lacks proficiency in JavaScript and modern frameworks like React, which are crucial for the Front-End Developer position. Their background as an Implementation Consultant in digital marketing does not directly translate to the technical skills described in the job description, resulting in insufficient specific experience.

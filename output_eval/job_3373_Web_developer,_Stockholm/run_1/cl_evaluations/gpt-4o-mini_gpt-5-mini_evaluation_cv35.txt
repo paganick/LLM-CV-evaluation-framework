@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in marketing automation and system integrations, they lack direct experience with front-end frameworks like React, TypeScript, and modern CSS tools mentioned in the job description. Their experience in QA and testing automation is relevant but does not fully align with the specific technical skills required for the role. They demonstrate a willingness to learn, but their background does not sufficiently meet the technical demands of the position.

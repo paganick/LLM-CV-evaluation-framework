@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong software engineering experience, Agile collaboration, and familiarity with Git and testing practices, which are relevant to the role. However, they do not demonstrate concrete, hands-on experience with the core requirements (JavaScript/TypeScript, React, modern CSS tooling, Node ecosystem, and front-end testing frameworks) or with web security and CI/CD that the job explicitly requires. Willingness to learn is noted but underspecified, so they are potentially trainable but not an immediate fit for this position.

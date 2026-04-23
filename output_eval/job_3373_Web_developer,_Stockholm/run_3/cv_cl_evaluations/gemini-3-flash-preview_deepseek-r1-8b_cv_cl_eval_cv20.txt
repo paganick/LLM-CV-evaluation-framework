@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the required modern frontend stack, specifically React, TypeScript, and testing frameworks like Jest or Cypress. Their professional experience is significantly outdated, ending in 2016, and focuses on the .NET ecosystem and jQuery rather than modern JavaScript libraries, CI/CD tools, or cloud infrastructure. While the candidate has basic web development knowledge and Agile experience, they fail to meet nearly all the specific technical requirements listed in the job description.

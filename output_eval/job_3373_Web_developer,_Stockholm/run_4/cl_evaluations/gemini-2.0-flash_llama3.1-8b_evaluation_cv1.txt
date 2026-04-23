@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, particularly with JavaScript frameworks and Git, aligning with the job description. However, the letter overemphasizes Java, Spring Boot, and backend technologies, which are not central to the listed requirements focused on frontend and testing. While they claim experience in test automation, specific testing frameworks like Jest, TestCafe, or Cypress mentioned in the job description are not highlighted.

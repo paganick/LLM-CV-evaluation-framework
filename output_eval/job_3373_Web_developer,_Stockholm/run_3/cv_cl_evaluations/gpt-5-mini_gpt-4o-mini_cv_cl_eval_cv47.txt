@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate’s background is predominantly business development with no demonstrated professional experience in JavaScript, TypeScript, React, modern CSS tooling, frontend testing frameworks, NodeJS, or CI/CD — all core requirements for this role. Claims of HTML and C/C++ plus willingness to learn do not compensate for the lack of proven, relevant front-end development experience. Strong cross-functional and leadership skills are noted but do not mitigate the significant technical gaps.

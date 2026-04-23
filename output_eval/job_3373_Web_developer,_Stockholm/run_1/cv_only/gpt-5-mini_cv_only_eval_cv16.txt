@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general web development experience (HTML, CSS, JavaScript, Git) and Agile exposure, but their work is primarily legacy .NET/jQuery-based and dated (no React, no TypeScript, no modern frontend frameworks or tooling). They lack hands-on experience with testing frameworks/automation, Node/npm/Yarn/Express, modern CSS patterns (SASS/Styled Components), CI/CD, and cloud/infra (AWS/Terraform), which are core to the role. Overall relevant industry background but missing multiple essential skills required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory professional experience in JavaScript and TypeScript, listing only C, C++, and HTML as current technical proficiencies. While they demonstrate strong leadership and business acumen, they explicitly state a need to learn the core technologies required for the role, such as React and testing frameworks like Jest or Cypress. As a career-changer with no evidence of hands-on frontend development in a production environment, they do not meet the technical requirements of the position.

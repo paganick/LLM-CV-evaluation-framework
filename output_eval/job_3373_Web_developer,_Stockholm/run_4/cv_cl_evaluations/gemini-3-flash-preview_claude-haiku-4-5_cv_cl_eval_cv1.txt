@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a solid background in software development, their professional experience is heavily focused on Java-based backend systems and automation testing rather than modern frontend development. They lack the required expertise in TypeScript, functional programming (Ramda), and specific JavaScript testing frameworks like Jest or Cypress mentioned in the job description. Furthermore, the name mismatch between the cover letter and resume indicates a lack of attention to detail that is disqualifying for a high-level placement.

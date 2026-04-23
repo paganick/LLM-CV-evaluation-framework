@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced analyst with a strong background in materials data analysis, quality assurance, and cross-functional collaboration, seeking to bring my analytical rigor, testing mindset, and proven communication skills to your front-end engineering team. Over 15+ years working in product and manufacturing environments, most recently as a Senior Materials Analyst, I have led data-driven initiatives that informed product planning, supplier performance, pricing targets, and process improvements across global teams.
+
+My strengths align with your needs in several ways. I have deep experience designing and executing rigorous test and validation protocols for materials and product performance—defining metrics, running experiments (DOE), performing root cause analysis, and maintaining validation standards. This experience has produced measurable results, including a process improvement that reduced scrap by 75% and saved over $800k annually. I bring a Six Sigma Green Belt mindset and a disciplined approach to unit-level verification, integration of data sources, and continuous validation that I will apply to software testing and automation.
+
+I am highly collaborative and comfortable working in matrixed, cross-functional environments. At Nike and in my current role I partnered with product creation centers, manufacturing, sourcing, and vendors worldwide to align metrics and move action closer to source teams. I have led initiatives, facilitated meetings and presentations to senior leadership, and managed project milestones and resource coordination.
+
+I am a fast learner with advanced technical fluency—extensive experience with Tableau, statistical tools, and advanced Excel—and a demonstrated ability to adopt new technologies as required. I am passionate about clean, maintainable processes and documentation, and I am eager to translate my domain knowledge, testing discipline, and communication strengths into front-end engineering. I am particularly excited to learn React, modern testing frameworks, and CI/CD practices, and to contribute to a team that values quality, collaboration, and continuous improvement.
+
+I bring a client-focused approach, integrity, and the adaptability developed through cross-border collaboration; I am comfortable interacting with external partners and can travel as needed. I am motivated to develop practical skills in JavaScript/TypeScript, modern CSS (SASS, Styled Components), Node.js tooling, and web security best practices so I can contribute quickly right away.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my analytical background and quality-first approach can support your engineering goals.
+
+Sincerely, Alexis

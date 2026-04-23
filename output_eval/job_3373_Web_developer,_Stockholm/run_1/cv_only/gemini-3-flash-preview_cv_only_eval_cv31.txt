@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional who lacks the necessary technical expertise in JavaScript, React, and modern software engineering required for this role. Their experience is entirely centered on sales management and leadership within the telecommunications and service industries rather than software development. Aside from a minor mention of HTML under desktop publishing, the resume fails to address any of the core technical requirements such as TypeScript, CI/CD, or testing frameworks.

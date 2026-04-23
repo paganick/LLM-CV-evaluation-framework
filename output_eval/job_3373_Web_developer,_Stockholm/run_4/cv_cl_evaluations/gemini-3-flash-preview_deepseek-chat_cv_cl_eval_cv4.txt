@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses five years of general software development experience but lacks the specific modern frontend stack required, notably failing to demonstrate professional experience with React or TypeScript. Their background is heavily focused on C#, .NET, and Python-based data science rather than the modern JavaScript ecosystem and testing frameworks (Jest, Cypress) specified in the job description. While the candidate has relevant industry experience, the significant gap in core technologies makes them a poor fit for this specific technical role.

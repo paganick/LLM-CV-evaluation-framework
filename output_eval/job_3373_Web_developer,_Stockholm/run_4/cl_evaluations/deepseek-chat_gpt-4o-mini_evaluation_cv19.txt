@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in graphic design is relevant to the industry, but they lack the specific, required technical experience. They admit to limited direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, and they do not address key requirements such as testing, modern CSS tools, or the NodeJS ecosystem. While they show enthusiasm and some alignment with soft skills, the absence of hands-on technical proficiency in the core job requirements is a significant deficit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project and construction management, but lacks specific front-end development skills, such as hands-on experience with JavaScript frameworks like React, and tools like SASS and Styled Components. While they demonstrate strong collaboration and communication skills, which are essential in Agile environments, their technical expertise does not meet the requirements of the job description.

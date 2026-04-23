@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience with the required modern front-end stack, specifically React, TypeScript, and contemporary CSS tools. Their recent career history is focused on business development and project management in the aerospace industry, showing no practical application of modern software engineering or testing frameworks. While they have a foundational degree in Computer Science, it is severely outdated and does not compensate for the lack of hands-on technical experience required for this role.

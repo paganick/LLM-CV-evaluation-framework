@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has substantial experience in web design and development, which is relevant to the role. However, they lack direct experience with React, TypeScript, and several specific technologies and practices outlined in the job description, such as testing frameworks and CI/CD tools. Their eagerness to learn and adapt is noted, but the lack of hands-on experience in key areas is a significant gap.

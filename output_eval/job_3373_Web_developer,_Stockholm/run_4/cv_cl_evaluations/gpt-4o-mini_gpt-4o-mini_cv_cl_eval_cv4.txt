@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and knowledge of languages like JavaScript and HTML/CSS. However, they lack direct experience with modern front-end frameworks such as React, as well as specific tools and testing frameworks mentioned in the job description. This places them at a disadvantage for this particular position, even though they have some relevant background.

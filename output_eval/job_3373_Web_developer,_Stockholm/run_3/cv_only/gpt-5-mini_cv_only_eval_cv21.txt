@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive web and software development experience with HTML5, CSS3, JavaScript and legacy frameworks (AngularJS) and Agile methodology, but lacks demonstrated experience with React or TypeScript, modern JS tooling (Node/npm/Yarn), Git/GitHub, modern testing frameworks (Jest/Cypress/TestCafe), CSS-in-JS/SASS, and web security practices. These missing core requirements make them insufficiently qualified for this React-focused modern frontend role. They may be trainable but are not a strong immediate fit.

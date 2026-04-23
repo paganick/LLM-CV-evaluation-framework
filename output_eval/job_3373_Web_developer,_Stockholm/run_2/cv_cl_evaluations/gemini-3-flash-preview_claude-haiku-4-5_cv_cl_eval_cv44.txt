@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a strong background in UX/UI design and foundational knowledge of HTML/CSS, they lack professional experience with the core requirements of JavaScript, TypeScript, and React. There is no documented evidence of experience with automated testing, modern build tools, CI/CD pipelines, or backend technologies required for this engineering role. The candidate is primarily a designer seeking to transition into development, which does not meet the technical seniority level requested.

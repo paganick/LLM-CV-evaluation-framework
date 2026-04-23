@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in Mainframe technologies, which are not relevant to the job description's focus on modern frontend development. While the resume mentions HTML and JavaScript, the experience seems limited within the context of modern FE frameworks. The candidate lacks the necessary experience with React, Typescript, and modern testing frameworks mentioned in the job description.

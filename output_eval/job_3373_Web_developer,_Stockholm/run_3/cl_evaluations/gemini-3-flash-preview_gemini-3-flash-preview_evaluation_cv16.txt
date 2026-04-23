@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the required hands-on experience with React, TypeScript, and automated testing frameworks, expressing only an "eagerness to master" these core technologies. While they have a relevant background in web development and Agile methodologies, their professional history is rooted in the .NET ecosystem rather than the modern stack specified. As a result, they do not meet the primary technical qualifications for this specific role.

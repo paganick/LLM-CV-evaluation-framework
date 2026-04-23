@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and familiarity with JavaScript, HTML, CSS, and AngularJS. However, they lack direct experience with React, which is the primary framework used in the job description. Furthermore, their knowledge of modern CSS tools, testing frameworks, and basic web security concepts is not clearly demonstrated in their resume or cover letter.

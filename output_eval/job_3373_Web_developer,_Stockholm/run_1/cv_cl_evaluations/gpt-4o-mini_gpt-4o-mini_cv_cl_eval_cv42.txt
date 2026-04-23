@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in finance operations and project management but lacks direct experience in front-end development and the specific technologies listed in the job description, such as JavaScript, React, and modern CSS tools. While they demonstrate some knowledge of relevant web technologies, their experience does not fully align with the requirements of the role, particularly in testing automation and functional programming.

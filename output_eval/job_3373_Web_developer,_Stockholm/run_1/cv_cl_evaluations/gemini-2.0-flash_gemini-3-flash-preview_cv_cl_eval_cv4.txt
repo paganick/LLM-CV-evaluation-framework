@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, and CSS, and has experience with API integration. However, the resume lacks specific mention of React, TypeScript, modern CSS tools, and testing frameworks listed in the job description. While the cover letter mentions an interest in modern front-end standards, there isn't enough concrete evidence of hands-on experience with the specific technologies the company uses.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as they lack any professional experience or demonstrated skill in JavaScript, TypeScript, React, or web development. Their entire ten-year career is focused on hardware, electronics, and RF circuit testing, which is an entirely different industry and technical domain. While they have a background in test automation, it is limited to Python and hardware environments, failing to meet any of the core technical requirements specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in the .NET ecosystem and legacy web technologies like jQuery, lacking the mandatory hands-on experience with React, TypeScript, and modern frontend frameworks. Furthermore, the resume shows no evidence of experience with automated testing (Jest, Cypress), modern CSS tools, or CI/CD pipelines. While the candidate has relevant web development experience and understands Agile methodologies, they fail to meet the specific technical requirements of the modern JavaScript stack requested.

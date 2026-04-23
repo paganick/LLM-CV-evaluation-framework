@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks proficiency in essential modern technologies specified in the job description, such as TypeScript, Git, and automated testing frameworks. Their technical background includes several obsolete technologies like Flash and Java Applets, indicating a significant skill gap compared to the required modern frontend stack. While the candidate demonstrates relevant foundational knowledge, they lack the specific professional experience with React and CI/CD tools necessary for this role.

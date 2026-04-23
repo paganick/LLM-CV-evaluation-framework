@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on systems administration and infrastructure, lacking any mention of front-end technologies like JavaScript, React, or modern CSS tools. While they possess experience with Unix and Linux, the resume does not demonstrate the required skills in web development, testing frameworks, or CI/CD tools, making them unsuitable for this front-end developer role. The skills listed are too generic and don't align with the specific technologies mentioned in the job description.

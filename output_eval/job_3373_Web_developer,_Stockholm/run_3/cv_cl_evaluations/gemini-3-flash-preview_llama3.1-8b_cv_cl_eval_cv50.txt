@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is almost entirely focused on business development, sales, and aerospace program management, rather than hands-on frontend engineering. While the cover letter claims familiarity with modern web technologies, the resume provides no evidence of professional experience with React, TypeScript, or modern CI/CD pipelines in the last two decades. The candidate is a senior-level manager whose background does not align with the technical requirements of a senior software development role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer and Art Director who lacks the required professional experience in JavaScript, TypeScript, and modern React-based development. Their technical background is limited to basic HTML/CSS and design tools, with no evidence of skills in automated testing, web security, or CI/CD pipelines. This profile represents a complete mismatch for a mid-to-senior level Front-End Developer role.

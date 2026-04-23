@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is centered on legacy Java/EJB systems and database administration, lacking any documented professional experience with React, TypeScript, or modern front-end testing frameworks. Furthermore, their technical work history appears to end in 2017, indicating a significant gap in current industry practices and modern ecosystem tools like CI/CD and AWS. While the candidate possesses a foundational computer science background, they do not meet the specific requirement for a high-level front-end specialist.

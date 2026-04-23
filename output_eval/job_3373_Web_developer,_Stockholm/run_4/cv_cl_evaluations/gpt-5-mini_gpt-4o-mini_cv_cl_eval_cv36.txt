@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume is entirely rooted in microbiology and regulatory/quality consulting with no verifiable experience in core front-end technologies required (JavaScript/TypeScript, HTML/CSS, React) nor in testing frameworks, Node ecosystem, or CI/CD tools. The cover letter expresses interest and willingness to learn but does not provide concrete examples, projects, or demonstrable skills that match the job requirements, so significant retraining would be necessary before they could perform this role.

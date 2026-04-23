@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Web Developer position as described in the job posting. As a recent graduate with a Bachelor of Science in IT, specializing in Web Multimedia and Animation, and drawing upon 15 years of experience in the construction industry, I am eager to bring a unique blend of practical problem-solving skills and technical expertise to your team.
+
+Throughout my academic career, I have gained hands-on experience developing various web projects, including a PHP/MySQL-driven e-commerce website and interactive sites utilizing JavaScript, ActionScript, and other scripting languages. My coursework provided a solid foundation in HTML, CSS, JavaScript, and other web technologies, complemented by studies in software development principles, data structures, and project management.
+
+My background in construction has instilled in me a systematic approach to problem-solving, an appreciation for detail, and strong collaborative skills – qualities I believe align well with your requirements for someone comfortable working in an Agile environment and collaborating effectively. I am a fast learner with a genuine passion for writing clean, maintainable code, and I am keen on understanding the broader domain and continuously updating my skills with the latest technologies.
+
+While my formal work experience is limited to academic projects, my construction career demonstrated dependability, the ability to translate complex requirements into actionable steps, and a commitment to quality and efficiency. I am proficient in Git and possess a basic understanding of web security principles. I am particularly drawn to your use of React and am eager to learn more about modern JavaScript development and testing practices.
+
+I am confident that my unique background, combined with my technical skills and dedication to learning, makes me a strong candidate for this position. I am excited by the prospect of contributing to your team and am eager to discuss how my skills and experiences can benefit your organization.
+
+Sincerely,
+Alexis

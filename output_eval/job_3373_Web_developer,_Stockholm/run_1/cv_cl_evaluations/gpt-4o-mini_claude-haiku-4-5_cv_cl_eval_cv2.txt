@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in software development and demonstrates interest in transitioning to frontend development with frameworks like React and TypeScript. However, the resume lacks direct experience with modern frontend technologies such as JavaScript, React, and various testing frameworks mentioned in the job description. There is also no explicit mention of experience with CSS tools or functional programming, which are important for this role.

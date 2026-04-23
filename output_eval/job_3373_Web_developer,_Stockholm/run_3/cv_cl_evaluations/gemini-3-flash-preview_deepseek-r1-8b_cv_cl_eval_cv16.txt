@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks documented professional experience with the required modern frontend stack, specifically React, TypeScript, and automated testing frameworks. Their resume focuses on legacy .NET and jQuery technologies with work history that ended in 2016, failing to demonstrate proficiency in current industry standards like CI/CD, modern CSS tools, or cloud infrastructure. While the cover letter claims familiarity with newer tools, the resume provides no evidence of these skills being applied in a professional or project-based environment.

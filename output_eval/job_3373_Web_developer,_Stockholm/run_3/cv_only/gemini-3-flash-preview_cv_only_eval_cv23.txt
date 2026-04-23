@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics and hardware technician whose background is entirely focused on circuit testing, soldering, and mechanical troubleshooting rather than modern web development. They lack professional experience with React, TypeScript, and the modern frontend ecosystem required for this role. While they mention basic familiarity with JavaScript and manual QA testing, their profile belongs to the hardware engineering industry and does not meet the technical requirements for a software engineering position.

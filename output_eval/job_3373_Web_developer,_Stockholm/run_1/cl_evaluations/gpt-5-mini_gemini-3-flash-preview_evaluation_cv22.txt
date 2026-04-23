@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates foundational skills (HTML/CSS, Java, SQL) and strong collaboration/Agile experience, but only reports learning React rather than proven JavaScript/TypeScript production work. They lack many critical requirements: hands-on React/TypeScript, testing frameworks and automation, Git/GitHub experience, Node/npm/Express ecosystem, modern CSS tooling, Ramda/functional programming, CI/CD, and clear web security/AWS exposure. Given these significant gaps against the role's core frontend expectations, the application is a low fit.

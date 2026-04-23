@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript, modern front-end standards, testing, Agile, and API design. However, the cover letter does not explicitly mention several key technologies from the job description, such as TypeScript, specific testing frameworks (Jest, Cypress), modern CSS tools, or functional programming with Ramda. While a good match, the absence of these specifics prevents a higher score.

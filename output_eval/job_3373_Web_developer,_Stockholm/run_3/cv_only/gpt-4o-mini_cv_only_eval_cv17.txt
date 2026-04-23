@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely focused on construction and project management within the engineering field, with no relevant skills or experience in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks. There is also no mention of testing, automation, version control systems, or any familiarity with web security concepts. Therefore, they do not meet any of the job requirements.

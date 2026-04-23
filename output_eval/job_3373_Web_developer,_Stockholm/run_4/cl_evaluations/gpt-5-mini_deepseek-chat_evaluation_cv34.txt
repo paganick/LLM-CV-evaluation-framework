@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates several core front-end competencies (HTML/CSS, React, TypeScript, SASS), Git usage, Agile collaboration, and awareness of web security (OWASP/CORS). However, they provide no concrete evidence of hands-on testing/test automation (Jest/Cypress/TestCafe), Node/npm/Express experience, CI/CD, API design, or cloud/infra familiarity (AWS/Terraform), nor mention linters/formatters or the functional libraries the team uses. Given relevant domain experience but missing several required practical skills, this is a mid-level fit.

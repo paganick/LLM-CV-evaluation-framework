@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and has expanded their skillset to include necessary frontend technologies such as JavaScript, HTML, and CSS. However, they lack direct experience with several specific tools and frameworks mentioned in the job description, such as TypeScript, the full suite of testing frameworks, and some modern CSS tools. Their experience with Java and related technologies does not fully align with the primary focus on modern frontend development as specified.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience in a regulated industry and demonstrates transferable skills such as collaboration and attention to detail, they lack direct experience with the specific technologies and frameworks listed in the job description, including JavaScript, React, and relevant testing frameworks. Their background in microbiology does not align well with the requirements for a Frontend Developer role.

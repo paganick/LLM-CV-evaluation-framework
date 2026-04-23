@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT support and hardware, with no demonstrated professional experience in the required frontend technologies (JavaScript, TypeScript, React) or modern development practices (testing, CI/CD, Agile development). The cover letter acknowledges a significant lack of relevant skills and frames the application as a career transition based on self-study, not proven capability. This profile does not meet the core technical requirements of the job description.

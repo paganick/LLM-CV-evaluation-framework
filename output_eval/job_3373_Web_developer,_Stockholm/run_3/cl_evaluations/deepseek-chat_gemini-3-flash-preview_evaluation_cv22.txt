@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant but lacks the specific, hands-on experience required for the role. The job description emphasizes modern JavaScript/TypeScript and React, while the candidate's primary technical experience is in Java and SQL, with only self-study in React. Key requirements like testing frameworks, modern CSS tools, Git, and web security are not addressed, showing a significant skills gap.

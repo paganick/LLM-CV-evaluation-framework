@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and web development; however, they lack relevant experience in key areas of the job description such as modern front-end frameworks (specifically React), hands-on experience with testing frameworks, and foundational knowledge of AWS. Moreover, while they mention JavaScript, there's no evidence of proficiency, which is crucial for this role.

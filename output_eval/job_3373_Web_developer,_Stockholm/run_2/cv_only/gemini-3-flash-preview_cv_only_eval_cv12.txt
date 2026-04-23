@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate possesses general software engineering experience and familiarity with JavaScript, they lack the mandatory expertise in modern front-end frameworks like React and the TypeScript language. Furthermore, the resume provides no evidence of experience with automated testing suites, CI/CD pipelines, or modern web security standards. The candidate's background is heavily focused on PHP and legacy technologies, which does not align with the modern tech stack required for this role.

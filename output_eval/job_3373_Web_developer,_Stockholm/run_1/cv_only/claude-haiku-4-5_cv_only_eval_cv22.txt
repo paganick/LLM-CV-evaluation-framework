@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in advertising, media planning, and business management with no professional frontend development experience. While the resume mentions basic HTML, CSS, and Java knowledge from academic projects, there is a complete absence of required skills including JavaScript, TypeScript, React, testing frameworks, Git/GitHub, security concepts, and modern development tools. The candidate explicitly states a desire to switch from marketing to database/backend work, demonstrating misalignment with this senior frontend engineering role.

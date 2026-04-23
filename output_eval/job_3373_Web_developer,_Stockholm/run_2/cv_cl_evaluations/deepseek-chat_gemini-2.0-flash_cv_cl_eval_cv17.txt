@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in civil engineering and construction management, which is completely unrelated to frontend development. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, or any other technical requirements listed in the job description. While the candidate highlights transferable soft skills, they lack the specific, mandatory technical expertise for the role.

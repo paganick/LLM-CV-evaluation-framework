@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in business development and possesses transferable skills such as collaboration and technical understanding. However, they lack direct experience with critical technologies listed in the job description, including JavaScript, TypeScript, and React, as well as specific testing frameworks and CI/CD tools, which are essential for the Front End Developer position.

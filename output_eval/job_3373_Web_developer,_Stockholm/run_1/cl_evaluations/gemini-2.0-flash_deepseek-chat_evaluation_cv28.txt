@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in the core technologies listed (JavaScript, TypeScript, HTML, CSS, React, Git). They also possess experience with testing frameworks (Jest, Cypress), linters/formatters (ESLint, Prettier), and Styled Components, which are all desired. The cover letter highlights relevant soft skills like collaboration and Agile experience, making them a potentially strong fit, despite the career transition.

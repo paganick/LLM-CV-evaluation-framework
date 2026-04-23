@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in the .NET ecosystem with classic web technologies (jQuery, ASP.NET) and lacks direct, hands-on experience with the modern front-end stack specified (React, TypeScript, modern CSS tools, testing frameworks). While they demonstrate relevant Agile experience and foundational web skills, they are missing the core, required technologies and frameworks listed in the job description. Their eagerness to learn is noted, but the specific technical fit is low.

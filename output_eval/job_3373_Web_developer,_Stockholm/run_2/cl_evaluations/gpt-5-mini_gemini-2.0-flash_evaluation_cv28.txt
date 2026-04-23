@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong analytical, process improvement, and collaboration skills that are transferable, but provides no concrete experience with required frontend technologies (JavaScript, TypeScript, React), testing frameworks, modern CSS tools, or Node ecosystem tooling. Their stated ability to learn is positive but unproven for the specific stack and level of hands-on experience this role requires. Given the gap between their materials-analytics background and the technical requirements, they are not currently qualified for this position.

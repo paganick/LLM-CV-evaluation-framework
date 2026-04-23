@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has basic front-end experience with HTML, CSS, JavaScript, jQuery and some GitHub and Agile exposure, but their experience is primarily legacy .NET/webforms work and not with modern front-end stacks. They lack demonstrated experience in React/TypeScript, modern CSS tools (Styled Components/SASS), Node/npm/Express, testing frameworks (Jest/Cypress/TestCafe), CI/CD, and web security practices required by the role. Given the significant gaps in core required technologies and tooling, they are not a good fit for this position.

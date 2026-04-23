@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern front-end skills required. There is no demonstrated experience with React, TypeScript, modern CSS tools, testing frameworks, or the Node.js ecosystem listed in the job description. Their professional background is heavily centered on .NET and backend-focused tasks, making them a weak fit for a front-end role emphasizing React and modern JavaScript tooling.

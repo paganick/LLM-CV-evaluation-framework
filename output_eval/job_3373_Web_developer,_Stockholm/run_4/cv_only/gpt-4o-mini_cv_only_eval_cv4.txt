@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, as well as some familiarity with Node.js, which aligns with the job requirements. However, the resume lacks specific experience with modern front-end frameworks like React, testing frameworks, and CI/CD tools, as well as knowledge of security practices pertinent to web development. Overall, while the candidate has a foundation in related technologies, they fall short in several key areas required for this role.

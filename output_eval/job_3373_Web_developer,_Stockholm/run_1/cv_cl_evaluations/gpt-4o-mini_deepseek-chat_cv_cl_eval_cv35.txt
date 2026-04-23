@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a diverse background in marketing automation and some relevant technical skills, they lack direct experience in front-end development, specifically in JavaScript, modern front-end frameworks like React, testing frameworks, and CI/CD tools. Their experience primarily revolves around marketing systems and not the core technical requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, including JavaScript, React, or CSS, and explicitly admits to needing to acquire these skills. While the applicant has extensive leadership experience, it is entirely within the financial operations sector and does not translate to the technical demands of a Front-End Developer role. This application lacks the foundational engineering experience and specific skill set mandated by the job description.

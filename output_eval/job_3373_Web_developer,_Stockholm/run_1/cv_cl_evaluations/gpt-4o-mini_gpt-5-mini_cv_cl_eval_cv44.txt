@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant design experience and a background in computer science, but lacks direct experience with critical technologies such as JavaScript, TypeScript, and modern front-end frameworks like React. While they have some experience with HTML and CSS, their claims regarding testing and automation are minimal and do not align with the specific requirements of the job description.

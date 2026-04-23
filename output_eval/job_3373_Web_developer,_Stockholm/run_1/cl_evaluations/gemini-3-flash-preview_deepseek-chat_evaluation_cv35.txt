@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a foundational knowledge of HTML, CSS, and JavaScript, they fail to demonstrate any experience with the core requirements of React and TypeScript. Their professional background is focused on marketing automation rather than modern web application development, and they omit mention of essential tools like Git, SASS, or specific testing frameworks. The application highlights a significant skill gap regarding the modern front-end ecosystem and the specific technical stack requested in the job description.

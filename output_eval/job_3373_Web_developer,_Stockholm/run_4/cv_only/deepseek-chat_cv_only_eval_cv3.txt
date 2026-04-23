@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional web development experience and their academic background is over a decade old, focusing on outdated technologies like Flash, ASP.NET, and ActionScript. The resume shows no evidence of the required modern frameworks (React, Vue, Angular, Svelte), testing tools, version control proficiency, or any of the specific technologies listed in the job description. While motivated, the candidate's skills are foundational and not aligned with the professional, modern tech stack required for the role.

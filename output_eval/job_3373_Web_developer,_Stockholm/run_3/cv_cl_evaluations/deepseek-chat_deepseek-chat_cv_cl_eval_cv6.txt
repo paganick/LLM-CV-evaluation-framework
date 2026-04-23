@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (HTML, CSS, JavaScript, Git). However, they lack hands-on experience with the specified modern frontend framework (React) and most of the listed modern tooling (Styled Components, Jest/Cypress, ESLint/Prettier, Ramda, CircleCI). Their professional experience is heavily centered on Drupal and PHP, not the React/Node.js ecosystem required for the role.

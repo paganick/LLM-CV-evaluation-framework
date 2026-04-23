@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Engineer position. The resume and cover letter demonstrate extensive experience in materials analysis, manufacturing, quality control, and Six Sigma processes—entirely unrelated to web development. There is no evidence of any JavaScript, TypeScript, React, HTML/CSS, testing frameworks, Git, or any of the required technical skills for this role. The candidate's background in metallurgy and business analytics shows no transferable skills to modern frontend development.

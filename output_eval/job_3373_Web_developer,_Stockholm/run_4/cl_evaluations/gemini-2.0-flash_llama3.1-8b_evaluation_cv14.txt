@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with web development, including ASP.NET, and lists familiarity with React, testing frameworks, and Git. They also highlight collaboration skills and an agile mindset. While the focus is on ASP.NET, the mention of React and associated front-end technologies makes them a potentially strong fit, despite the job description emphasizing JavaScript/TypeScript more directly.

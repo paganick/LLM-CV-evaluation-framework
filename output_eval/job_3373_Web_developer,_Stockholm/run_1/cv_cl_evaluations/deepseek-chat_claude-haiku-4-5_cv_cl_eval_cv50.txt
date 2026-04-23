@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development, sales, and IT project management within aerospace/defense, which is a completely different industry from modern frontend development. The resume shows no hands-on experience with JavaScript, React, testing frameworks, or any of the core technologies listed in the job description. While the cover letter expresses interest and cites a computer science degree from decades ago, it does not demonstrate any practical, recent experience relevant to the role's technical requirements.

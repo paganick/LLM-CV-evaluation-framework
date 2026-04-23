@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills, such as HTML, CSS, and JavaScript, but lacks practical experience with modern FE frameworks like React, which is a key requirement. While they express interest in learning, their experience is primarily academic. The resume also highlights older technologies and a career history unrelated to web development, making them a junior candidate requiring significant training.

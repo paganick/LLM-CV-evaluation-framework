@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an infrastructure and systems administration professional who lacks nearly all the core technical requirements for this frontend engineering role, including JavaScript, TypeScript, and React. There is no evidence of experience with modern web development, frontend testing frameworks, or CI/CD pipelines in the provided resume. Furthermore, the candidate's professional experience is significantly outdated, with the most recent role ending in 2015.

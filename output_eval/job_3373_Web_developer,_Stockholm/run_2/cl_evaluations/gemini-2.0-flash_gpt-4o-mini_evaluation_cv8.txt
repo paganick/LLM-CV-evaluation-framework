@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in test engineering and some familiarity with frontend technologies. However, the letter highlights experience with test automation and scripting more than concrete frontend development experience, such as React (which the job description explicitly states they use). The candidate also mentions "basic understanding" in key areas, which doesn't indicate strong proficiency.

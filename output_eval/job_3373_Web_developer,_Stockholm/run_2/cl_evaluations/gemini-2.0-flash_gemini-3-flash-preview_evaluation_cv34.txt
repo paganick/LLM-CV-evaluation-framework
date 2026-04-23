@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, like HTML and CSS, but primarily within the context of marketing tools, not modern front-end development. While they mention React and TypeScript, the letter lacks demonstrable experience and depth. Their background in Agile and testing is a plus, but the overall fit is not strong enough considering the job description's focus on modern FE frameworks and testing.

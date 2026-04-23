@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate explicitly states they have no professional coding experience, which is the core requirement for this highly technical JavaScript development role. While they possess transferable project management skills, they lack the mandatory proficiency in TypeScript, React, testing automation, and Web security protocols. From a technical recruitment standpoint, the applicant is completely unqualified as they do not meet any of the essential engineering criteria.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software engineer with more than seven years of hands-on experience building and maintaining web applications, and I am excited to apply for the frontend engineering role on your React team. My background combines strong front-end fundamentals (JavaScript, HTML, CSS, SASS) with back-end and automation experience, a thorough understanding of the full software development lifecycle, and a proven record of integrating third-party services and shipping reliable production systems.
+
+In my role as Full Stack Engineer at LogonTutor LLC I designed and implemented an ecommerce website using MVC and object-oriented PHP, integrated multiple third-party APIs (payment gateways and online collaboration tools), and created administrative interfaces that tracked user behavior and operational metrics. I routinely wrote Bash scripts to automate deployments and backups, and I have experience using Git for source control. My earlier co-op and component engineering work involved writing scripts (Perl, Visual Basic), parsing and manipulating data, and updating internal web pages—work that reinforced my attention to detail and commitment to testable, maintainable code.
+
+I focus on producing clean, well-structured code and take testing and debugging seriously. My resume highlights software testing, troubleshooting and production support experience across multiple platforms and databases (MySQL, PostgreSQL, SQLite, NoSQL). I am comfortable collaborating with teams, leading student project teams as a project manager, and interacting with external partners to integrate services and meet business needs. I enjoy diving into domains outside my immediate expertise to deliver reliable solutions.
+
+Although my CV does not list React or TypeScript, I am eager to apply my JavaScript and front-end skills to modern frameworks and to adopt the team's tools and testing practices quickly. I am familiar with the Node ecosystem through package management and scripting, and I have used Docker and shell automation in production workflows. I am also attentive to web security basics, API design, and continuous improvement of developer workflows.
+
+I hold a Bachelor of Science in Electrical Engineering from the University of Cincinnati and was awarded the Outstanding Senior Design Project Award, demonstrating disciplined engineering practice, project delivery, and the ability to lead efforts from concept through testing and production deployment.
+
+I would welcome the opportunity to discuss how my practical experience, collaborative approach, and commitment to clean code can contribute to your team.
+
+Sincerely, Alexis

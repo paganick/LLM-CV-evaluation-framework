@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is a highly experienced IT leader with strong security and governance credentials, they lack the specific, hands-on front-end engineering skills required for this role. The letter explicitly states an intent to learn the core technical stack (React, TypeScript, modern CSS, Node.js) rather than demonstrating current proficiency. For a technical engineering position, a "willingness to learn" does not substitute for the required industry-standard development experience.

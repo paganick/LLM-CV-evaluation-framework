@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a marketing automation background and lacks professional-level experience with the required tech stack, specifically React and TypeScript. While they possess transferable skills in Agile and API design, they fail to demonstrate proficiency in essential tools like Git, modern CSS preprocessors, or web security standards. Their stated goal to "master" React confirms they do not currently meet the technical proficiency required for this role.

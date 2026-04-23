@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience but lacks direct experience with React and modern CSS tools such as Styled Components and SASS, which are specified in the job description. They demonstrate a solid foundation in JavaScript and Agile practices, but their limited exposure to the required technologies and frameworks may hinder their ability to meet the demands of the role effectively.

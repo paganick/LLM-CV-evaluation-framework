@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not software engineering, and they lack demonstrable, professional experience in the core technologies listed. While they mention HTML and a desire to learn React, they provide no evidence of hands-on experience with JavaScript, TypeScript, modern frameworks, testing, or any other technical requirements from the job description. Their soft skills are relevant, but the severe deficit in mandatory technical qualifications makes them unqualified for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a broad IT background but lacks specific, demonstrable experience with modern FE frameworks like React. While they claim to be keeping pace, the resume emphasizes older technologies. There's a significant gap between the required skills (React, testing frameworks, CI/CD) and the candidate's listed expertise.

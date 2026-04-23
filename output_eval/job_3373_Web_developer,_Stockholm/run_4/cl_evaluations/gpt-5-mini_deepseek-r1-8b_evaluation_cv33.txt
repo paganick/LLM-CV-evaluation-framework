@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, modern CSS tooling, and web security) required for this role. While strong in project management, training, and collaboration, those transferable skills do not compensate for the absence of demonstrated technical proficiency or coding experience. This profile may be suitable for a non-technical or entry-level apprenticeship role but is not qualified for the advertised developer position.

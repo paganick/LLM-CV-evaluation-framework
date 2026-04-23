@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is concentrated in marketing automation (Eloqua/Salesforce) and integrations with no demonstrated hands-on experience in frontend technologies required (JavaScript/TypeScript, React, HTML/CSS). There is no evidence of modern FE frameworks, frontend testing frameworks (Jest/Cypress/TestCafe), Node.js/npm/Yarn, or CI/CD and cloud infrastructure experience. While strong in QA processes and systems integration, those skills do not meet the technical expectations for this frontend engineering role.

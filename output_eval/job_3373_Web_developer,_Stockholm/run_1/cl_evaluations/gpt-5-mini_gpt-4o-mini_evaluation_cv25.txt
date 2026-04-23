@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant front-end adjacent skills (HTML/CSS, design, Git, Agile collaboration) and a willingness to learn, but lacks the core, required hands-on experience in JavaScript/TypeScript, React, and modern testing frameworks (Jest/Cypress) that this role demands. Key parts of the job (React, testing/test automation, Node/npm ecosystem, and modern CSS tooling) are not demonstrated, making them underqualified for the position despite transferable strengths and motivation.

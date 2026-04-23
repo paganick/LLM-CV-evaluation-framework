@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has substantial experience in product management and development but lacks specific hands-on experience with modern front-end technologies such as React, TypeScript, and CSS tools noted in the job description. Furthermore, there is no mention of testing frameworks or CI/CD tools, which are essential for the role. Overall, they have relevant industry experience but do not fully align with the technical requirements outlined.

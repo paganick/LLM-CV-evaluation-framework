@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the leadership and research requirements, specifically mentioning experience in mentoring junior designers and managing Agile workflows. However, they fail to mention Figma, which is explicitly listed as a highly desirable tool, instead focusing on Axure and Adobe Creative Suite. While their technical background in HTML/CSS and stakeholder collaboration is solid, the lack of the primary requested prototyping tool prevents a higher rating.

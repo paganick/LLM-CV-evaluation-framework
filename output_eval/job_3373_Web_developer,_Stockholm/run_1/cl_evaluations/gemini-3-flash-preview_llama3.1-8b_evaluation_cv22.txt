@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's professional background is primarily rooted in media planning and SAP consulting, which does not provide the required depth of experience in professional software engineering. Key mandatory requirements from the job description, such as Git, web security (OWASP/CORS), and API design, are completely unaddressed in the letter. While the candidate mentions the correct tech stack, the lack of professional tenure in a dedicated development role makes them an underqualified candidate for this specific position.

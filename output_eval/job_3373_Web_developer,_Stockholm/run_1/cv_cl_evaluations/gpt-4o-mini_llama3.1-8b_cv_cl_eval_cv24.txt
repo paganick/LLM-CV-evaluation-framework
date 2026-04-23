@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in digital communications but lacks the specific technical skills and experience required for the front-end development role, particularly in JavaScript, TypeScript, and modern frameworks like React. Additionally, while the candidate demonstrates an eagerness to learn, they do not provide evidence of hands-on experience with testing frameworks, CI/CD tools, or the security practices mentioned in the job description.

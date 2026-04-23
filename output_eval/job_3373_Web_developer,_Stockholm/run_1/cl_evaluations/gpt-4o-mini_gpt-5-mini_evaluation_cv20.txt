@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development with a solid foundation in JavaScript, HTML, and CSS. However, they lack specific experience with modern frameworks such as React, as well as hands-on testing and test automation tools mentioned in the job description. Their mention of a willingness to learn these skills is positive, but they do not currently demonstrate the necessary experience required for the position.

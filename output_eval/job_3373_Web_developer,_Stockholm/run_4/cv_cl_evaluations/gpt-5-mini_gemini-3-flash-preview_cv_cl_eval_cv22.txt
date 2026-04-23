@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate comes from a media/marketing background with only basic HTML/CSS and academic Java/SQL projects and does not demonstrate hands-on experience with core frontend technologies required (JavaScript/TypeScript, React), testing frameworks, Git, or the Node ecosystem. They show willingness to learn and some transferable collaboration and analytical skills, but they currently lack the essential practical experience to perform this frontend developer role.

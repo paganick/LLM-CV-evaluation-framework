@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in arts, administration, and media production with only incidental HTML and web-design experience, and no demonstrated professional experience in JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, or modern frontend toolchains required by the role. While they show strong soft skills, project coordination, and a willingness to learn, they currently lack the core technical qualifications and hands-on frontend development experience necessary to perform this position.

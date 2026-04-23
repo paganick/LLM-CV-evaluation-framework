@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET stack (C#, ASP.NET MVC) with only basic frontend skills (jQuery, Bootstrap) from 2014-2016, which does not align with the requirement for modern React and frontend frameworks. While they mention Agile and Git, they lack demonstrable hands-on experience with the specific technologies listed (React, TypeScript, modern testing frameworks, Node.js ecosystem, functional programming). Their cover letter overstates familiarity with the job's tech stack, but their resume shows no relevant, recent experience.

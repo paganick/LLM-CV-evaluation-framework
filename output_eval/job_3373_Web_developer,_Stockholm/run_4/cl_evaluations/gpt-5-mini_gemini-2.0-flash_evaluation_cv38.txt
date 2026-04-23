@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter shows strong experience in film, media production, and content/website management but does not demonstrate proficiency in core front-end technologies required for this role (JavaScript/TypeScript, HTML/CSS, React) nor experience with testing, Git, Node ecosystem, or web security. Transferable skills like visual aesthetics and social media are noted but insufficient for the technical demands of the position. Candidate would need substantial hands-on front-end development experience to be considered a match.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Quality Assurance professional applying for a Front-End Engineering role, lacking the required professional experience in React, TypeScript, and modern CSS-in-JS libraries. Their resume focuses entirely on manual and automated testing rather than software development, failing to demonstrate the "clean code" development skills or modern framework expertise specified. Furthermore, the candidate’s technical experience is outdated and does not align with the current web ecosystem described in the job requirements.

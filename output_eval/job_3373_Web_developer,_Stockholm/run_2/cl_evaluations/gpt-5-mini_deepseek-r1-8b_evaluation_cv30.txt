@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant software and QA experience (SQL, Python, C#, ASP.NET) and demonstrates transferable skills, but does not show hands-on experience with core front-end requirements such as JavaScript/TypeScript, React, HTML/CSS, modern FE tooling (Node/npm, styled-components/SASS) or front-end testing frameworks. Their interest in learning is noted but insufficient for this role's stated technical stack and expectations.

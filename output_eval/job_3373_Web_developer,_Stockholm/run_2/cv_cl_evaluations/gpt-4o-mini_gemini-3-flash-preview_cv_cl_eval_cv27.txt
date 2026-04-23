@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in leadership roles and technical design but lacks specific skills in JavaScript frameworks, testing frameworks, and modern CSS tools mentioned in the job description. While there is some familiarity with HTML and web design, the overall technical proficiency needed for this Frontend Developer position is insufficient. Additionally, the resume showcases more administrative and artistic roles rather than direct software development experience.

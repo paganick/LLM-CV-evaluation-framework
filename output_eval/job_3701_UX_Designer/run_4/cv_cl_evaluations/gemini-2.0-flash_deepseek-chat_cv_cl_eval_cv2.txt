@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in apparel and accessories design, a different industry than UX design for software. While the cover letter attempts to bridge the gap by highlighting transferable skills, there's a significant lack of direct experience with UX methodologies, software prototyping (Figma), and front-end technologies (HTML, CSS, JS) as mentioned in the job description. The candidate also lacks experience in an Agile software development environment.

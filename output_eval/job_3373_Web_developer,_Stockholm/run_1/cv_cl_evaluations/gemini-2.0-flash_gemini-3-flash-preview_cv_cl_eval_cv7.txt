@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate attempts to bridge a graphic design background to a frontend developer role, showcasing some relevant skills like HTML, CSS, JavaScript, and React. However, the depth of experience in these technologies, as well as testing and CI/CD, appears limited compared to the job description's expectations. While the cover letter expresses interest in modern tools and security practices, the resume lacks concrete examples to demonstrate proficiency.

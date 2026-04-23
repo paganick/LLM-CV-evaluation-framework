@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern tech stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. Their resume reflects a background primarily in hardware and general IT support from over a decade ago, with no evidence of recent professional software development or familiarity with CI/CD and cloud infrastructure. While they possess foundational web knowledge, they do not meet the criteria for a modern front-end engineering role.

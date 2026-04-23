@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in testing, not front-end development. While they express proficiency in JavaScript, HTML, and CSS, and eagerness to learn React, the cover letter doesn't demonstrate sufficient hands-on experience with modern front-end frameworks or the tools mentioned in the job description beyond basic testing. The focus on testing experience overshadows their front-end capabilities.

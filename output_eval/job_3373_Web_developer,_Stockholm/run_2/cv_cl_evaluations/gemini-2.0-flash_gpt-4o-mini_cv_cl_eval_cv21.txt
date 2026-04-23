@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks experience with modern FE frameworks like React, which is the primary framework used by the company. The candidate mentions AngularJS, which is outdated. The resume also lacks experience with testing frameworks mentioned in the job description (Jest, TestCafe, Cypress).

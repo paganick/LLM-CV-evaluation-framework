@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and familiarity with some of the required technologies like HTML, CSS, and basic JavaScript. However, they lack direct experience with modern frontend frameworks such as React, which is a critical requirement for the position. Their background is primarily in ASP.NET, which may not fully align with the expectations for a Front-End Developer role focused on modern JavaScript frameworks.

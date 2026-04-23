@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in related technologies, particularly API management and data integration, but lacks explicit experience in the required front-end frameworks beyond HTML/CSS. The letter attempts to bridge the gap between marketing automation and software development, but more direct experience with JavaScript, TypeScript, and React would be preferred. While enthusiasm for modern technologies is evident, concrete examples of projects using them are missing.

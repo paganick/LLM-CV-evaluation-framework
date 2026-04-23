@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX experience (end-to-end product design, user research, usability testing, journey maps, workshops) and experience supporting Agile rituals and mentoring, matching most core duties. However they do not list Figma (highly desirable) and only mention HTML5 with no clear CSS/JS exposure, which reduces fit for managing a UI Design System and development handoff. Overall a solid match but missing two key technical preferences.

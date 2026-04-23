@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering within electronics manufacturing, not front-end development. While they express interest in learning React and TypeScript, they lack demonstrable experience with the core technologies listed in the job description. Their skills are more aligned with hardware and systems testing, not web development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant general software engineering experience, they lack professional proficiency in the core technologies required for this role, specifically React, TypeScript, and modern CSS tools. The applicant is attempting a transition from backend to frontend development and explicitly admits to having "developing" skills in essential areas like testing frameworks. This profile presents a high training overhead for a position requiring immediate technical competence in a modern frontend stack.

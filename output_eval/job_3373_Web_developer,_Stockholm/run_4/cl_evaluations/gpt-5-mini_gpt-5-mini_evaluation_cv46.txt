@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid backend, database and API design experience and some practical JavaScript/HTML knowledge, plus familiarity with version control and Agile—making them relevant to the role. However they lack demonstrated hands-on experience with the specific front-end stack required (React, TypeScript, modern CSS tools), front-end testing frameworks and automation, NodeJS ecosystem tooling, CI/CD, and explicit web security practices. With training they could become a good contributor, but currently do not meet the job's core front-end requirements.

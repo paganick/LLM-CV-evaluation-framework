@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and addresses many required technical skills, including React, testing, Git, and Agile. However, the cover letter lacks explicit mention of several key requirements from the job description, such as TypeScript, specific testing frameworks (Jest, Cypress), modern CSS tools beyond SASS, and CI/CD tools. The background in mainframe technologies suggests a transition, creating uncertainty about the depth of their modern front-end expertise.

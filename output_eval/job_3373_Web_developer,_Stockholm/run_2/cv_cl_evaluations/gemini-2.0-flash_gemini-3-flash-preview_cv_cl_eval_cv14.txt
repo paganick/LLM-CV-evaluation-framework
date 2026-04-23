@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development but primarily with Microsoft technologies like ASP.NET and C#. While they mention familiarity with JavaScript, HTML, CSS, Bootstrap, and GitHub, the resume lacks demonstrable experience with modern FE frameworks like React, which is a core requirement. The cover letter attempts to bridge this gap but doesn't provide enough concrete evidence to suggest proficiency in the specific technologies listed in the job description.

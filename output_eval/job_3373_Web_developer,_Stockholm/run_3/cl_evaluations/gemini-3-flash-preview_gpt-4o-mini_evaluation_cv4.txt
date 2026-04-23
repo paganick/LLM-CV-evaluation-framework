@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses the required five years of experience and explicitly addresses core competencies in JavaScript, TypeScript, React, and testing frameworks like Jest. However, the application fails to mention specific "nice-to-have" requirements such as functional programming (Ramda), CI/CD tools, or cloud infrastructure (AWS/Terraform). While the candidate is a strong match, their primary highlighted project utilizes a C# and SQL stack, which does not fully demonstrate the specialized front-end mastery expected for this specific role.

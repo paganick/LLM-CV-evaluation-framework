@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight administrative and creative experience, which do not align with the technical skills required for a Frontend Developer role. While the candidate expresses interest in learning the necessary technologies, they currently lack the core competencies in JavaScript, modern FE frameworks, and testing frameworks mentioned in the job description. The resume showcases skills related to video production and office management, rather than software development.

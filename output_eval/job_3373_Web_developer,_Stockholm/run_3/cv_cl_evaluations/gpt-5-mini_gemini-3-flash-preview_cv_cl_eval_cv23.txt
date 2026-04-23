@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows transferable QA/testing experience, basic JavaScript/HTML/CSS familiarity, and comfort with Agile processes, but their resume and cover letter lack demonstrated hands-on experience with React and TypeScript, modern frontend frameworks and styling tools, frontend testing frameworks (Jest/Cypress), and the Node/CI/AWS toolchain required for this role. Given the gap in core front-end and tooling experience, they are relevant to the industry but underqualified for this position.

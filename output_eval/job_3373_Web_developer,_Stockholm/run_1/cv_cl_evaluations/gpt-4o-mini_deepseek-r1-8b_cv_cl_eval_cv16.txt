@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and is familiar with JavaScript, HTML, CSS, and various frontend technologies, but lacks significant experience with modern frameworks such as React and TypeScript, which are emphasized in the job description. Additionally, their direct experience with testing frameworks and CI/CD tools is limited, which does not fully meet the requirements of the role.

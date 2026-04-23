@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's industry experience is relevant but they lack the specific, hands-on technical skills required for the role. Their background is primarily in mainframe technologies, and they admit to needing to learn the core stack (JavaScript, TypeScript, React). While they demonstrate transferable skills and a strong aptitude for learning, they do not currently fulfill the job's key technical requirements.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume is entirely in microbiology and quality/validation roles with no documented professional frontend development experience, projects, or technical employment history to verify the claimed skills. While the cover letter asserts familiarity with JavaScript, TypeScript, React, testing frameworks and CI/CD, those claims are not substantiated on the resume or with concrete evidence, so the candidate does not meet the minimum demonstrated qualifications for this frontend role.

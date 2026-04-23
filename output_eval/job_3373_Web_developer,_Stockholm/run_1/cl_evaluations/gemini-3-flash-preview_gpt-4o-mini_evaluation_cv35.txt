@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is transitioning from a marketing automation background and lacks professional experience as a dedicated Front-End Developer. While they mention several required tools like React and Jest, they fail to address key requirements such as TypeScript and functional programming (Ramda). The profile indicates a lack of proven, high-level engineering experience in a production environment, despite meeting several baseline technical keywords.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a broad IT background and mentions JavaScript, HTML, and CSS, the resume lacks concrete examples of modern FE frameworks like React, which is a key requirement. The cover letter expresses interest and a willingness to learn, but doesn't provide evidence of hands-on experience with the specific technologies mentioned in the job description beyond basic web development. There is no information about testing, modern CSS tools, or CI/CD.

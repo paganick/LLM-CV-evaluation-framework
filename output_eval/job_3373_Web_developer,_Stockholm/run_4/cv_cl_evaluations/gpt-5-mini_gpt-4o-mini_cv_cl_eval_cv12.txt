@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates general software development experience and lists JavaScript, HTML/CSS and SASS, but the resume does not provide clear, verifiable experience with modern front-end frameworks (React/TypeScript), contemporary testing frameworks, Node.js tooling, CI/CD, or AWS/Terraform required for this role. The cover letter asserts many required skills, but those claims are not substantiated by the resume, indicating relevance to the industry yet a lack of the specific front-end and toolchain expertise needed.

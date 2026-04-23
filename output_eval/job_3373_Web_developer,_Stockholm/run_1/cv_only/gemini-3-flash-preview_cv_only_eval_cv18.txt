@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience in general IT consulting and systems administration, they lack the specific expertise in modern front-end engineering required for this role. There is no evidence of experience with React, TypeScript, or automated testing frameworks, and their web development background appears centered on legacy technologies and general CMS management. The profile fails to meet the core technical requirements for modern software development practices, CI/CD, and cloud infrastructure.

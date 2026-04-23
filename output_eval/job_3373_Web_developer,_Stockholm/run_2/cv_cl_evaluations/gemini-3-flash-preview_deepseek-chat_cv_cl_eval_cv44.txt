@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: Although the candidate has a Computer Science degree and foundational knowledge of HTML/CSS, their professional experience is almost entirely focused on presentation and UX design rather than software engineering. There is no evidence of professional experience with JavaScript, TypeScript, React, or automated testing, which are central requirements for this role. The technical stack listed is largely outdated or design-oriented, making the candidate unqualified for a modern front-end engineering position.

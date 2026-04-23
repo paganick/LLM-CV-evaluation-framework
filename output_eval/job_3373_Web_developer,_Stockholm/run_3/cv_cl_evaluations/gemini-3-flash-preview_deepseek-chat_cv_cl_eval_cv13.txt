@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a background in web development, their professional experience over the last seven years has been almost exclusively in project management rather than hands-on engineering. They lack the mandatory experience with React and TypeScript, and their resume shows no evidence of proficiency in modern testing frameworks or functional programming. Consequently, the candidate does not meet the technical requirements for a mid-to-senior level developer role in the specified stack.

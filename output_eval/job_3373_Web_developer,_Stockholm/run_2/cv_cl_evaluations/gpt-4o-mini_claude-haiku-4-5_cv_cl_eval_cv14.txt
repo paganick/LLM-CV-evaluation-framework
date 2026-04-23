@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience with JavaScript, HTML, and CSS, but lacks specific expertise in the modern front-end frameworks and libraries mentioned in the job description, particularly React. While they show familiarity with testing frameworks and version control, their experience seems focused primarily on ASP.NET and does not fully align with the requirements for a Frontend Developer role. Therefore, they are considered relevant but lacking specific skills necessary for this position.

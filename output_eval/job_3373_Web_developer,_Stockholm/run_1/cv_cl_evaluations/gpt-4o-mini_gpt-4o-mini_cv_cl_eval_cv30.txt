@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in data analysis and web development but lacks specific hands-on experience with front-end frameworks like React, VueJS, or Angular, which are crucial for this role. Their skills in coding with ASP.NET and HTML do not fully align with the modern front-end development stack emphasized in the job description. Additionally, familiarity with testing frameworks and tools mentioned is minimal.

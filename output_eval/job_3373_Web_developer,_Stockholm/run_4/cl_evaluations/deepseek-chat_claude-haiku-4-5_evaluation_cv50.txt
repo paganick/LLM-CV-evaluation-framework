@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development and IT project management, not hands-on frontend development, which is the core requirement. While they demonstrate foundational knowledge and a strong desire to learn, they lack direct, practical experience with the key technologies listed in the job description, such as React, TypeScript, and modern testing frameworks. Their transferable skills are relevant to the industry, but the absence of proven development experience makes them a weak match for the specific technical demands of the role.

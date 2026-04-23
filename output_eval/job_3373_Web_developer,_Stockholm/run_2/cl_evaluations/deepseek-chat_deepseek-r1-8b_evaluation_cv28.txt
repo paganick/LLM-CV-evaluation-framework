@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in materials analysis, not frontend development, making this a significant industry shift. They openly lack direct experience with the core technologies (JavaScript, TypeScript, React) and specific tools (Jest, Cypress) listed as requirements. While they demonstrate relevant soft skills and a willingness to learn, their technical qualifications do not align with the job's specific demands.

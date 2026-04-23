@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience and basic front-end skills (HTML/CSS/JavaScript, AngularJS), plus some Agile and Git exposure, but lacks the specific modern frontend stack required (no React or TypeScript), modern testing frameworks/tools, CSS-in-JS/SASS experience, and NodeJS/CI/cloud familiarity. There is also no demonstrated knowledge of web security (OWASP/CSP/CORS/OAuth) or current JS ecosystem practices, so they are not a strong match for this role.

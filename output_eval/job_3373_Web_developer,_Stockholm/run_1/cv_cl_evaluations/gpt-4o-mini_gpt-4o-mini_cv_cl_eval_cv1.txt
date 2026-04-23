@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has significant experience with relevant technologies such as JavaScript, TypeScript, HTML, CSS, React, and AngularJS, and a strong background in test automation. They have hands-on experience with Agile methodologies, Git, and a solid understanding of web security concepts. While they have experience with some tools mentioned in the job description, they may lack detailed experience in specific areas like CI/CD tools mentioned or advanced familiarity with the NodeJS ecosystem.

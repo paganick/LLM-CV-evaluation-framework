@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume showcases a strong background in data analysis, statistical modeling, and data science tools like R, Python, and SAS. However, it lacks any mention of the required front-end development skills such as JavaScript, TypeScript, HTML, CSS, or experience with modern FE frameworks like React. The candidate's skills and experience are misaligned with the job description, making them unsuitable for the role.

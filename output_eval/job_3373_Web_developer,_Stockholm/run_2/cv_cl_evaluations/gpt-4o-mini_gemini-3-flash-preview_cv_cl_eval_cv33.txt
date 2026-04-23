@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in business banking and project management but lacks direct experience with core frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. While they mention familiarity with the NodeJS ecosystem and some testing frameworks, their overall technical skills do not strongly align with the specific requirements outlined in the job description.

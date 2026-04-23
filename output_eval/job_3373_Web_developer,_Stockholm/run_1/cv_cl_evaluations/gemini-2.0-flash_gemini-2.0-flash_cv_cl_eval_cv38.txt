@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film and media production, lacking the required front-end development skills like JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. While the candidate mentions website management and content creation, it doesn't align with the technical expertise expected for a Front-End Developer role, focusing more on visual media. Their skills in DSLR's and Adobe software are irrelevant to the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience seems tangential to the requirements outlined in the job description, particularly the emphasis on JavaScript, TypeScript, and modern front-end frameworks. The cover letter focuses more on program management and curriculum development rather than hands-on coding skills. While the candidate mentions React and Git, the lack of specific examples related to the other required technologies (HTML, CSS, testing frameworks) is concerning.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a background in media production, but lacks direct experience with key technologies such as React and modern front-end frameworks. While they express proficiency in JavaScript and CSS, they do not provide concrete examples of hands-on software development experience or familiarity with testing frameworks and CI/CD tools. Additionally, their primary experience is not in a software engineering role, indicating a need for further relevant technical skills.

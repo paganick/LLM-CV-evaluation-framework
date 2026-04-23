@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not front-end development, which is a significant misalignment. They lack hands-on experience with core technologies like JavaScript frameworks (React), testing, and modern tooling, instead framing these as areas for future learning. While they demonstrate some relevant soft skills and an eagerness to learn, their technical proficiency does not meet the specific, required criteria listed in the job description.

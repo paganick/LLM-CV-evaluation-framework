@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in systems administration, not front-end development. While the cover letter expresses interest and adaptability, the resume lacks demonstrable experience with JavaScript, modern FE frameworks, or testing frameworks mentioned in the job description. The candidate's skills are more aligned with infrastructure and system maintenance, not the development-focused requirements of the role.

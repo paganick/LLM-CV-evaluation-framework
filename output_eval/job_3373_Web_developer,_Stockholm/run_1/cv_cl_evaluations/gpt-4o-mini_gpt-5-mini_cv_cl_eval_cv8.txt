@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering but lacks direct experience in front-end languages such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate strong collaboration and testing methodologies, they do not meet the core technical skills and knowledge required for the front-end engineer role.

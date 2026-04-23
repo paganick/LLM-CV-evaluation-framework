@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in project management and digital marketing but lacks direct and extensive experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they have a background in web technologies, their resume does not demonstrate sufficient hands-on experience with testing frameworks, CI/CD tools, or specific knowledge of the technologies mentioned in the job description. Overall, they are a relevant candidate but do not meet the specific technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong, long-standing visual and web design background with some HTML/CSS and PSD-to-HTML experience, which is tangentially relevant. However, their resume shows no verifiable hands-on experience with JavaScript/TypeScript, React, testing frameworks, Git/CI, Node ecosystem, or web security—core requirements for this role—and the cover letter assertions are not substantiated by the CV. Given the significant gaps in modern frontend engineering skills, they are not qualified for this position at the required level.

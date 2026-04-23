@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong background in IT leadership and infrastructure, the letter lacks evidence of hands-on proficiency in the core requirements of JavaScript, TypeScript, and CSS. They speak conceptually about the tech stack and "recognize its value" rather than demonstrating practical experience with React, testing frameworks, or web security. This profile suggests a management-to-development pivot without the specific technical experience required for this frontend role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid foundation in software development and general JavaScript, they explicitly state their primary expertise is in C# and Python rather than the required React/TypeScript stack. They fail to mention any experience with TypeScript and admit to lacking hands-on experience with the specific testing frameworks (Jest, Cypress) mandated by the job description. As a strict recruiter, the reliance on "eagerness to learn" over existing mastery of the core technology stack makes them an underqualified candidate for this specific role.

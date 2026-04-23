@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in software development and front-end technologies, particularly React, aligning with the job description's core requirements. The cover letter highlights experience with testing, Git, and security concepts like CSP and CORS. While the candidate mentions experience in PHP, the interest in transitioning away from Ruby is a plus, as mentioned in the job description.

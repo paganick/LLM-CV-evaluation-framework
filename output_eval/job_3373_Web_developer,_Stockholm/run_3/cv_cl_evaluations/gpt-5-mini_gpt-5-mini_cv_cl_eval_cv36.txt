@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in microbiology and regulatory validation with no demonstrated experience in JavaScript/TypeScript, React, modern front-end frameworks, front-end testing frameworks, Node/npm, Git-based workflows, or CSS tooling required for this role. While they present strong testing, documentation and cross-functional collaboration skills that are somewhat transferable, there is insufficient evidence of practical front-end development experience or relevant technical proficiency to meet the job requirements.

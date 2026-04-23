@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume highlights graphic design experience, which is not aligned with the JavaScript, TypeScript, and modern FE frameworks required for the job. There is no mention of relevant programming languages, testing frameworks, or CI/CD tools. The candidate's skills are focused on design software and visual merchandising, rather than software development.

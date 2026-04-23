@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of the role, specifically JavaScript, TypeScript, and React, which are fundamental to the position. While they possess strong transferable soft skills and foundational programming knowledge in C/C++, they do not meet the mandatory criteria for hands-on experience in modern front-end testing and styling tools. This profile represents a career transitioner who requires significant technical training to fulfill the job description's specific demands.

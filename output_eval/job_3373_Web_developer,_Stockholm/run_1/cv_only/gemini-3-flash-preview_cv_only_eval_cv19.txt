@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer whose experience and skills are entirely unrelated to the requirements of a Senior Front-End Engineer. They lack any professional experience with JavaScript, TypeScript, React, or modern software development practices like testing and CI/CD. The resume describes a career in visual design and manual labor, making the candidate completely unqualified for this technical engineering role.

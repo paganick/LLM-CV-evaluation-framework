@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with no professional history in software development, having spent their entire nine-year career in an unrelated industry. While they demonstrate a strong theoretical grasp of the tech stack, they provide no evidence of professional experience in a production environment or with critical requirements like CI/CD, AWS, and API design. As a strict recruiter, I find the lack of a verified technical track record disqualifying for a role requiring this breadth of expertise.

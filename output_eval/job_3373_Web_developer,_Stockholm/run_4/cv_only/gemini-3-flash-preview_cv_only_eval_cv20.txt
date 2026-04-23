@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a .NET-focused developer whose experience relies on legacy technologies like jQuery and ASP.NET rather than the required modern React/TypeScript stack. They lack nearly all specific requirements, including modern testing frameworks (Jest/Cypress), CI/CD tools, and cloud infrastructure experience. Furthermore, the resume shows no professional software engineering experience since 2016, indicating a lack of familiarity with current industry standards.

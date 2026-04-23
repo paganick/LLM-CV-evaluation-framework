@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in programming, databases, and problem-solving, which is applicable to the front-end developer role. However, the cover letter lacks specific experience with modern front-end frameworks like React, as well as testing frameworks and tools mentioned in the job description. The candidate also shows eagerness to learn but does not sufficiently demonstrate experience in key areas such as testing and automation, which are critical for this position.

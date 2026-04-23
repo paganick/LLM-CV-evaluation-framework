@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in information technology and cybersecurity, but lacks specific experience with modern front-end frameworks like React, as well as in-depth knowledge of JavaScript, TypeScript, and associated technologies required for the role. Although they mention understanding security on the web, their hands-on experience with testing and test automation, which is crucial for this position, is not demonstrated. Overall, the candidate has relevant industry experience but lacks the specific skills and expertise desired.

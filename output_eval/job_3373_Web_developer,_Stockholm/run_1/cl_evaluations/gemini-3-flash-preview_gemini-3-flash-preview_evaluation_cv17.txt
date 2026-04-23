@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong theoretical understanding of the required technical stack, including specific mentions of niche tools like Ramda and Terraform. However, their career history is entirely within civil engineering and lacks any professional experience as a frontend developer. This absence of industry-specific tenure and professional software experience makes them a higher-risk candidate despite their technical qualifications.

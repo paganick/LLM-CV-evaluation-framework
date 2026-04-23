@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience in management and strong collaboration skills, they lack direct experience in the required technical skills such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is no evidence of proficiency in testing methodologies or modern CSS tools, which are crucial for the position. Their background primarily in construction and project management does not align with the technical demands of this development role.

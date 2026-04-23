@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in .NET development, which isn't the focus of the job description. While they have some front-end experience (HTML, CSS, JavaScript), they lack direct experience with React and modern CSS tools. Their experience with testing is mentioned but not detailed, and AWS/Terraform knowledge is absent.

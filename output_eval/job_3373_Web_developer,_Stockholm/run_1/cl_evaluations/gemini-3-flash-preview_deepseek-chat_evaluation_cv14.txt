@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core requirements of the role, specifically React and TypeScript, which they admit needing to "master." While they possess a solid foundation in general web development and Agile practices, their background is heavily focused on backend-centric technologies like ASP.NET and jQuery rather than a modern frontend ecosystem. There is no mention of specific testing frameworks, CSS tools, or functional programming experience required by the job description.

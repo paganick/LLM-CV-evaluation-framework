@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing, not front-end development, which is the core requirement. While they mention JavaScript, HTML, and CSS, there is no demonstrated professional experience with React, TypeScript, or modern front-end frameworks and tools listed in the job description. Their testing experience is relevant for the testing automation aspect, but the fundamental mismatch in primary role and technical skills makes them underqualified for a Front End Developer position.

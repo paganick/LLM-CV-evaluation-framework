@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like Javascript, HTML, and CSS, but lacks concrete experience with modern FE frameworks, particularly React, which is heavily used by the company. While they express willingness to learn, the resume focuses heavily on older technologies and Java, and omits key desired skills like Typescript and testing frameworks. The candidate's background as a consultant and DBA is not directly aligned with the front-end focus of the job description.

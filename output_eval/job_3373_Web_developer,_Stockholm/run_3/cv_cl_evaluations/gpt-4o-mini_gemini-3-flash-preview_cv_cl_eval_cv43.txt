@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses relevant experience in project management and design but lacks specific frontend development skills and experience, particularly in JavaScript, TypeScript, React, CSS, and testing frameworks mentioned in the job description. Their technical background is limited and does not meet the key requirements for this role.

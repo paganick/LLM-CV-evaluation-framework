@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a background in software development and experience with some relevant technologies such as C# and GitHub. However, they lack specific experience with the JavaScript frameworks (especially React) and testing tools mentioned in the job description, which limits their qualifications for the role. Their interest in learning new technologies is noted but does not compensate for the gaps in required skills.

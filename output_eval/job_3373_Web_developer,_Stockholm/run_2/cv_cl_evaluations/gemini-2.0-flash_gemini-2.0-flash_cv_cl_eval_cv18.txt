@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a broad IT background but lacks specific, in-depth experience with modern front-end frameworks and testing methodologies crucial for the role. While they mention JavaScript, HTML, and CSS, the resume highlights older technologies and lacks emphasis on React or other modern FE tools mentioned in the job description. The experience with server administration and project management is relevant but doesn't compensate for the lack of required front-end skills.

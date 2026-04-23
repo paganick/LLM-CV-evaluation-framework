@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in film and video production, lacking the required front-end development skills in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks like React. While the candidate expresses a willingness to learn, the resume and cover letter do not demonstrate sufficient foundational knowledge or experience in the specified technologies, making them unqualified for the position. There is no evidence of experience with testing, Git, or web security principles.

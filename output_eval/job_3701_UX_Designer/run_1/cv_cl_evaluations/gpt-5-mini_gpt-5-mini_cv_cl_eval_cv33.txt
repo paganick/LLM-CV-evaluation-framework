@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong enterprise software and stakeholder-management experience, plus some front-end (HTML/CSS/JS) and scrum exposure, but their background is overwhelmingly MDM architecture rather than hands-on UX design. There is no evidence of core UX deliverables (wireframes, Figma/visual prototypes, usability testing, UX portfolio) or explicit experience managing a UI Design System. They could potentially transition given mentoring and technical skills, but they currently lack the specific, demonstrable UX design experience this role requires.

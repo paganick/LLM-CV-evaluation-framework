@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: This candidate's resume is primarily focused on business development, sales, and marketing roles within the chemical industry. While they mention HTML among a long list of skills, the resume lacks any demonstrable experience with JavaScript, modern FE frameworks like React, testing, or other technologies listed in the job description. The candidate's experience does not align with the requirements of a front-end developer role.

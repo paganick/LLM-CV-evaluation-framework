@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume and cover letter demonstrate a career in business development, quality management, and aerospace project roles with no demonstrated hands-on experience in modern front-end technologies (JavaScript/TypeScript, React, CSS), testing frameworks, NodeJS/npm, Git/GitHub, or web security. There is no evidence of software development, front-end framework usage, or relevant tooling/CI/CD/AWS experience required for this role. Consequently the candidate is completely unqualified for the position.

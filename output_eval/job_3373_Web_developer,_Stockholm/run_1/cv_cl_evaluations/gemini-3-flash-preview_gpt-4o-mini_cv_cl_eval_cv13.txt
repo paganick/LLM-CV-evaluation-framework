@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has spent the last seven years in project management roles rather than as a dedicated software engineer, lacking recent professional experience with the modern front-end stack. There is no evidence in the resume of professional proficiency in React, TypeScript, or automated testing frameworks like Jest and Cypress. While the cover letter mentions these tools, the work history does not support the level of hands-on technical expertise or "clean code" experience required for this position.

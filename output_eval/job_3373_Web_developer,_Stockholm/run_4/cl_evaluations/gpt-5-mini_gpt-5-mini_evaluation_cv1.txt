@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant frontend and strong test automation experience (React, JavaScript, HTML/CSS, SASS, npm/Node, Git, AWS) and solid QA automation skills. However they lack explicit TypeScript experience and modern frontend testing frameworks (Jest/Cypress/TestCafe), and do not show familiarity with Styled Components, linters/formatters (ESLint/Prettier), or the CI/CD and infra tools (CircleCI, Terraform) emphasized in the job. Given the role's specific stack requirements, they are a relevant but incomplete match.

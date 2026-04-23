@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a highly experienced graphic and product designer but lacks the essential technical proficiency required for a modern Front-End Developer role, specifically in JavaScript, TypeScript, and React. Their background is centered on visual arts and print media, providing no evidence of experience with automated testing, Git, CI/CD, or modern CSS frameworks. While they have a strong design portfolio, they do not possess the software engineering skills mandated by the job description.

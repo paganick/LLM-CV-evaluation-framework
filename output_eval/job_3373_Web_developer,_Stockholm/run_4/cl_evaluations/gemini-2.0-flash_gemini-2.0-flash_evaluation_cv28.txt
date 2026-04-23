@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in materials analysis, not software development. While they mention an aptitude for learning and some relevant skills like data analysis and process improvement, they lack demonstrable experience in the core technologies (JavaScript, TypeScript, React, HTML, CSS, Git) required for the frontend developer role, relying instead on their "confidence" in acquiring those skills. They do not mention experience with testing or security.

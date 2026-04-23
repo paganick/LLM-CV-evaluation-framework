@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in product management, not direct front-end development, which is the core requirement. While they mention relevant technologies and soft skills, they lack demonstrable hands-on coding experience with the specific frameworks and tools listed, such as React, TypeScript, and modern testing libraries. Their background is adjacent but insufficient for a hands-on developer role, placing them in the relevant industry but lacking specific experience category.

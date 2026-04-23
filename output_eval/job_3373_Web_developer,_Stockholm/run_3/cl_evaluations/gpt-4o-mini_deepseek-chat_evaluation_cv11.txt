@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and quality assurance but lacks direct experience as a Front End Developer, particularly with frameworks like React, which is specified in the job description. They do express a willingness to learn and have some foundational knowledge of Node.js and web security principles, but their skills in modern CSS tools, testing frameworks, and CI/CD practices are not clearly demonstrated.

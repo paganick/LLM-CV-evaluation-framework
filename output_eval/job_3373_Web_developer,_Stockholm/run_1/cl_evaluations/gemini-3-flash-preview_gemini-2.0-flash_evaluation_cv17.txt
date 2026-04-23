@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is transitioning from a completely unrelated industry and fails to demonstrate any professional experience or technical proficiency in the required stack, including React, JavaScript, or TypeScript. While the applicant has an impressive background in large-scale construction management, the letter provides no evidence of hands-on frontend development, testing, or version control skills. As a strict recruiter, I find the candidate completely unqualified for a technical engineering role based on the specific requirements provided.

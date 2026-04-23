@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates solid front-end fundamentals (JavaScript, HTML, CSS), testing experience (unit/integration/E2E, Jest, Cypress), modern CSS tools (SASS, Styled Components), Git/GitHub, and strong Agile/project management skills. However, they lack explicit experience with TypeScript, demonstrated React work (only expressed interest), and key ecosystem requirements such as Node/npm/Express, functional tooling like Ramda, CI/CD (CircleCI), API design, and AWS/Terraform, which prevents a higher score.

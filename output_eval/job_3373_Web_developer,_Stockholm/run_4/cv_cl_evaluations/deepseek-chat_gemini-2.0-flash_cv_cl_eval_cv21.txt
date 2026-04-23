@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and mentions some required technologies like JavaScript, HTML, and CSS. However, the resume and cover letter show a heavy focus on legacy .NET stack (C#, ASP.Net, VB) and AngularJS, with no mention of the specified modern React ecosystem, TypeScript, testing frameworks, or other key tools like Git, Node.js, or AWS. The experience is largely outdated and does not align with the specific, modern front-end and tooling requirements of the role.

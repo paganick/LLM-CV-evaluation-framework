@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a solid background in software testing and basic JavaScript, but lacks professional experience with the primary requirements of React, TypeScript, and modern CSS. Their experience is heavily hardware-focused and relies on outdated version control systems (TFS) rather than the required Git/GitHub ecosystem. As a transitioner, they fail to demonstrate proficiency in core web security, CI/CD, or the modern frontend tooling necessary for this specific role.

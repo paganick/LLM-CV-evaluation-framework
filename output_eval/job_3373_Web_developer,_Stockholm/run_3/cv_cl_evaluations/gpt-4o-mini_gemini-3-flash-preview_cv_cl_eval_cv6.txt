@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in web development with proficiency in JavaScript, HTML, and CSS, which aligns well with the job description. However, their experience primarily revolves around Drupal development, and they lack direct experience with modern frontend frameworks like React. While they demonstrate good collaborative skills and familiarity with some testing frameworks, their overall fit is not a perfect match for the specific technical requirements needed for this role.

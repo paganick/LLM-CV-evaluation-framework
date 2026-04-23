@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses some relevant skills, like Javascript, and experience with testing and troubleshooting. However, the resume lacks specific experience with modern FE frameworks like React, Typescript, HTML, CSS, Git, or any of the modern CSS tools or testing frameworks mentioned in the job description. The candidate's experience is more aligned with hardware and electronics testing, rather than front-end web development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web technologies like JavaScript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React, which is central to the job description. Their experience is more backend focused with Java and database administration. While they mention testing and documentation, the specific testing frameworks mentioned in the job description are not evident in their resume.

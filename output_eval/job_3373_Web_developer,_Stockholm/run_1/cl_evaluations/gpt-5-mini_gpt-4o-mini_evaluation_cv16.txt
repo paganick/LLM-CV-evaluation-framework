@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid front-end fundamentals (JavaScript, HTML, CSS), familiarity with React, testing (Jest/Cypress), Git/GitHub, modern CSS tools, NodeJS ecosystem and CI/CD — matching many core requirements. However, they do not explicitly list TypeScript, have only two years of experience, and show limited/no concrete experience with Ramda, linters/formatters (ESLint/Prettier), and AWS/Terraform, and only "foundational" knowledge of some security areas (CSP/CORS/OAuth), which prevents a higher score.

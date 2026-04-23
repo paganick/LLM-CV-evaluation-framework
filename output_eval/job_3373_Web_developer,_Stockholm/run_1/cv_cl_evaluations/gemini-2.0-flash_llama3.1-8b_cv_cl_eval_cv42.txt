@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter focus exclusively on finance and operations roles. There is no mention of the required technical skills in JavaScript, modern FE frameworks, testing, or web security. The candidate's claimed experience with FE frameworks is unsubstantiated and contradicted by the rest of their application materials.

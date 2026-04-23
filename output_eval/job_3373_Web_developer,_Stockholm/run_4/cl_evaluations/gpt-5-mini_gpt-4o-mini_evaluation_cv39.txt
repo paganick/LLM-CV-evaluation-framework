@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant strengths in HTML/CSS, design, SASS/Styled Components familiarity, and Agile collaboration, which align with parts of the role. However they lack demonstrated hands‑on experience with React (the team's stack), TypeScript, testing frameworks (Jest/Cypress), and explicit Git/GitHub and web security knowledge, all of which are core requirements. Their Node/AWS experience is only foundational and testing experience is limited, so they would require significant upskilling to meet the role's expectations.

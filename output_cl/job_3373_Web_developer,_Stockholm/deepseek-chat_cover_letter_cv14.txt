@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position, which I believe aligns perfectly with my extensive experience in full-stack web development and my deep commitment to writing clean, maintainable code. With a strong foundation in JavaScript, modern frameworks, and a proven track record in Agile environments, I am confident in my ability to contribute to your team from day one.
+
+My professional experience has been built on a diverse technical stack. While I have significant expertise in ASP.NET MVC and C#, my work has consistently involved core web technologies like JavaScript, HTML, and CSS, which form the bedrock of my development practice. I have directly utilized JavaScript and jQuery for front-end interactivity across multiple projects, such as designing storyboards and building the UI for the Supplier Portal. Furthermore, my hands-on experience with GitHub for source control, coupled with my rigorous involvement in code reviews, pair programming, and application deployment, demonstrates my collaborative approach and commitment to code quality—principles I understand are central to your team’s ethos.
+
+I am particularly drawn to your tech stack and development philosophy. My academic background includes a Master’s in Computer Science, which provided a strong theoretical foundation that I am eager to apply to modern frontend ecosystems like React. I am a quick and passionate learner, as evidenced by my successful migration of a major website from ColdFusion to ASP.NET MVC. I am keen to apply this adaptability to master React, TypeScript, and modern CSS tools. My experience in building data-intensive applications like DEBTS and eRFA, which required meticulous validation logic and secure file processing, has given me a practical appreciation for application security and robust testing—areas explicitly mentioned in your job description.
+
+My accomplishments, such as winning the Associate of the Month award and contributing to the Team of the Month for projects like DEBTS, underscore my ability to collaborate effectively and deliver results in a team-oriented, Agile setting. I am keen to bring this same dedication, along with my passion for understanding full domains and writing truly clean code, to your organization.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background and skills can benefit your team.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant industry background in digital marketing and Salesforce configuration, which provides some transferable skills. However, there is a distinct lack of direct experience with JavaScript, TypeScript, React, and modern testing frameworks. While they demonstrate project management experience and a passion for coding, the absence of required technical expertise does not align well with the job's core qualifications.

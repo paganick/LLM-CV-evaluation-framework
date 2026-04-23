@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in creative direction and graphic design, which is somewhat relevant. However, they lack the specific UX design experience, particularly in an Agile software development environment and with Figma, as required by the job description. While they mention JavaScript, it's basic knowledge and doesn't equate to the HTML/CSS/JS exposure desired for UI Design System management.

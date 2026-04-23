@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background in the tech industry, they lack professional hands-on experience with the specific core requirements, including React and TypeScript. They explicitly admit to limited experience with automated testing frameworks, which is a non-negotiable requirement in the job description. Most of their eight years of experience is in project management rather than dedicated frontend development, making them a high-risk hire for a technical role requiring immediate proficiency.

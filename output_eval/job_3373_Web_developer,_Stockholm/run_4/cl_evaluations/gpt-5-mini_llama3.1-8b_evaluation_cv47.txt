@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily business development and sales, not front-end engineering, and they lack core technical requirements such as JavaScript/TypeScript, React, modern CSS tooling, testing frameworks (Jest/Cypress), and the NodeJS ecosystem. While they mention HTML, C++, CircleCI, and API design, these do not compensate for the absence of the essential front-end skills and web-security/AWS knowledge the role requires. Given the substantial skill and domain mismatch, they are not qualified for this position.

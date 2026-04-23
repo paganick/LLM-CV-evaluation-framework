@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Front End Developer position at your company, as advertised. With two years of experience specializing in web development, I have honed my skills in JavaScript, HTML, and CSS while also gaining familiarity with various frameworks, including React, which aligns directly with your existing tech stack.
+
+In my previous role as a Database Programmer/Analyst, I developed web-based applications using C#, ASP.NET, and JavaScript, alongside frameworks such as jQuery and Bootstrap CSS. I have implemented the Software Development Life Cycle (SDLC) and engaged actively in Agile methodologies, collaborating effectively with cross-functional teams to deliver quality software solutions. My experience includes creating class libraries, integrating web services, and utilizing data manipulation techniques with ADO.NET and SQL databases.
+
+My technical expertise is complemented by hands-on experience in testing and test automation, allowing me to implement unit and integration tests to ensure the highest code quality. I am also proficient with Git and GitHub for version control, and I have some foundational knowledge of web security principles, including OWASP guidelines and role-based authentication.
+
+Collaboration is at the heart of my work ethic. I am comfortable interfacing with various teams and external partners, always eager to understand different domains and platforms. My genuine passion for writing clean, maintainable code drives me to stay current with the latest technologies, such as modern CSS tools like SASS and Styled Components, as well as testing frameworks like Jest and Cypress.
+
+Additionally, my familiarity with the NodeJS ecosystem, CI/CD tools like CircleCI, and API design further amplifies my capability to contribute effectively to your development team. I am also open to expanding my skill set in AWS and Terraform, and I understand the functional programming paradigm, which is an area your team values.
+
+I am excited about the opportunity to bring my background in front-end development and my collaborative spirit to your company. Thank you for considering my application.
+
+Sincerely,  
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced web developer in the .NET ecosystem, but they lack professional experience with the primary technologies required, specifically React, TypeScript, and modern front-end testing frameworks like Jest or Cypress. Their background is heavily focused on legacy stacks, jQuery, and ASP.NET, which does not align with the modern JavaScript-centric requirements of this role. While they show strong professional achievements, they would require extensive training to bridge the gap to the requested technical stack.

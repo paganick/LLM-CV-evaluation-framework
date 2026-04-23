@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in software development and web technologies, with experience in Java, HTML, CSS, and JavaScript. However, they lack specific experience with modern front-end frameworks like React, which is a key requirement for the role. While they demonstrate familiarity with testing and collaboration, their experience is not fully aligned with the job description's expectations for a JavaScript Developer.

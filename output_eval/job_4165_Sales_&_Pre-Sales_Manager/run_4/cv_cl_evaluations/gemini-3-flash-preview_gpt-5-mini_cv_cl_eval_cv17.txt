@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant sales leadership experience within the insurance sector, the bulk of their career is rooted in Aerospace and Quality Engineering rather than modern digital transformation. The resume fails to demonstrate the "must-have" technical experience in Application Services, Cloud, or AI/ML-driven loyalty platforms required by the role. Consequently, the candidate lacks the specific technical depth in API-led architectures and data science necessary to lead architectural reviews and workshops for this specific product suite.

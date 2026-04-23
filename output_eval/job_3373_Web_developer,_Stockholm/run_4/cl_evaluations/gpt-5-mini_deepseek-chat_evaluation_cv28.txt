@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates the core front-end skills required (JavaScript/TypeScript/HTML/CSS, React, Styled Components), testing experience with Jest and Cypress, and solid tooling/Git and Agile collaboration, making them a strong match for the primary role. However, they do not explicitly show experience with web security practices (OWASP/CSP/CORS/OAuth), CI/CD (e.g., CircleCI), AWS/Terraform, or the functional libraries/tools the team uses (Ramda/Express.js), so they fall short of an ideal/exceedingly strong fit.

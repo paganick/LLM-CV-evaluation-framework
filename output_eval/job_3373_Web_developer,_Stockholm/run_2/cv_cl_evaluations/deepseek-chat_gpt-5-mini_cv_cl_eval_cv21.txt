@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive full-stack .NET experience and relevant soft skills, but lacks the specific modern front-end technologies required. There is no demonstrated experience with React, TypeScript, modern CSS tools, Node.js, or the testing frameworks mentioned. While they have a strong testing mindset and are eager to learn, their technical background is misaligned with the core stack and requirements of the role.

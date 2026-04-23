@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong visual design skills and solid HTML/CSS experience, which are relevant, but the resume lacks demonstrated hands-on experience with core technical requirements for this role—notably React, JavaScript/TypeScript, testing frameworks, Git, Node ecosystem, CI/CD, and familiarity with Ramda/security/AWS. They express eagerness to learn modern tooling but do not show proven experience in the technologies the team requires, so they are a relevant but underqualified candidate for this front-end engineering position.

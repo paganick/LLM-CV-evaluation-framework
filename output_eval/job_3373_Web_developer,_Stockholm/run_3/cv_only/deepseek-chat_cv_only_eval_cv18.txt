@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and mentions core web technologies like HTML, CSS, and JavaScript. However, the resume lacks specific, recent experience with modern front-end frameworks (especially React), test automation, modern CSS tools, and the other key technologies listed in the job description. The experience is broad and dated, focusing more on IT consultancy and systems administration than on modern front-end software engineering.

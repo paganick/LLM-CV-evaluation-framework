@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is primarily centered on C#, .NET, and Data Science, which deviates significantly from the core requirement of a modern React and TypeScript specialist. While the cover letter mentions the required tools, the resume provides no evidence of hands-on experience with React, TypeScript, Jest, or AWS in a professional setting. As a strict recruiter, the lack of demonstrated expertise in the primary frontend stack makes this candidate a poor fit for the specific technical needs of the role.

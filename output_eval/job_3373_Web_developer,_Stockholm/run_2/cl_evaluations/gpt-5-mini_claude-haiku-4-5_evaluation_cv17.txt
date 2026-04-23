@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong transferable collaboration and project-management skills plus some hands-on React exposure, but lacks demonstrated, specific hands-on experience across several core technical requirements (proven JavaScript/TypeScript expertise, modern CSS tooling, test automation like Jest/Cypress, NodeJS ecosystem, CI/CD, and cloud/infra). Their letter reads as a motivated career transition rather than evidence of immediate readiness to fulfill this frontend engineer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and foundational skills in JavaScript, HTML, and CSS. However, they lack direct, stated experience with the core requirements of React, TypeScript, modern testing frameworks, and the specific tools listed (e.g., Jest, Cypress, Styled Components). Their professional experience is heavily weighted toward PHP and backend automation, not modern frontend engineering with the specified tech stack.

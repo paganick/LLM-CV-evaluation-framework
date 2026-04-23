@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in marketing, communications, and public relations, which is relevant to the industry but does not meet the specific technical requirements outlined in the job description. Lack of hands-on experience with JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks limits their qualifications. Additionally, familiarity with testing frameworks and tools mentioned is absent, which further detracts from their fit for the role.

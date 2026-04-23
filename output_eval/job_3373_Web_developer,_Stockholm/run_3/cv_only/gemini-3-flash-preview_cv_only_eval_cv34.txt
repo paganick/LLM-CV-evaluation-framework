@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an implementation consultant specializing in digital marketing and Salesforce Marketing Cloud, which does not align with the requirements for a Senior Frontend Engineer. They lack professional experience with JavaScript, TypeScript, React, and modern software testing frameworks, focusing instead on CRM configuration and graphic design. Their technical profile is centered on marketing automation rather than application development and software architecture.

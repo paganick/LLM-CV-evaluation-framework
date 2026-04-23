@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates foundational HTML/CSS/JavaScript knowledge and strong communication skills, but explicitly lacks demonstrated experience with core requirements such as React, TypeScript, testing/automation, Node ecosystem, and modern tooling (Styled Components, ESLint). There is no evidence of hands-on projects, Git/repo usage, or security/CI practices required for this role. While potentially trainable for a junior position, they do not meet the immediate technical needs of this vacancy.

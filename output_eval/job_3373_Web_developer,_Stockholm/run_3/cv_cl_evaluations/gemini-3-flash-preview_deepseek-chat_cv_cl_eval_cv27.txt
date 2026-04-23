@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's professional background is entirely in plant operations, administrative management, and the performing arts, representing a complete misalignment with the software engineering industry. The resume lacks any professional experience or verifiable skills in JavaScript, TypeScript, React, or modern testing frameworks required for this role. Despite an aspirational cover letter, the candidate does not meet even the most basic technical requirements of the job description.

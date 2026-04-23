@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong IT and project management background with some exposure to JavaScript, HTML and CSS, but provides no demonstrable, hands-on front-end development experience. There is no evidence of required skills such as React/TypeScript, automated testing (unit/integration/E2E), NodeJS/npm workflows, Git-based development or web security practices. Given the role's hands-on engineering requirements, the candidate is relevant to the industry but lacks the specific technical qualifications to be considered a strong match.

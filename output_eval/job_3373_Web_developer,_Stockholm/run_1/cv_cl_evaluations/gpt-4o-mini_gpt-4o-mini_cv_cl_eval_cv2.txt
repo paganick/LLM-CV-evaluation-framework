@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in software development, primarily with Java/J2EE technologies, but lacks direct experience in the modern front-end frameworks specified in the job description, particularly React. While there is familiarity with HTML, CSS, and JavaScript, the candidate has not demonstrated hands-on experience with TypeScript or the specific testing frameworks and tools mentioned. The candidate shows an eagerness to learn and is aligned with agile practices, but overall lacks key required qualifications for the front-end role.

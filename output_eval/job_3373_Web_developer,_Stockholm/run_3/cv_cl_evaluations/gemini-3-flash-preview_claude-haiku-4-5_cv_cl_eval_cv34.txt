@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements, including professional experience with JavaScript, TypeScript, React, and automated testing frameworks. Their background is primarily in digital marketing and Salesforce implementation rather than software engineering. While they possess basic HTML and CSS knowledge, they do not meet the specific technical or architectural demands of this frontend developer position.

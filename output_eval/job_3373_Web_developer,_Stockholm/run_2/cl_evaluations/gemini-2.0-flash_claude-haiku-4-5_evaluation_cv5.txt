@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate acknowledges a career pivot from mainframe technologies, which is a significant gap. While they express enthusiasm for frontend development and highlight transferable skills, they lack direct experience with key technologies like React, TypeScript, and modern CSS tools mentioned in the job description. Their experience in team management and agile environments is a plus, but the lack of concrete frontend skills is a major concern.

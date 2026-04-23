@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong general front-end fundamentals (JavaScript/TypeScript/HTML/CSS), testing experience, Git usage, and Agile collaboration, which are relevant to the role. However, they do not explicitly demonstrate React experience or familiarity with the Node/npm ecosystem, modern CSS tooling (Styled Components/SASS), specific testing frameworks (Jest/Cypress), web security practices, or CI/CD/Cloud tooling cited in the job description. These missing, role-critical specifics prevent a higher score despite solid overall experience.

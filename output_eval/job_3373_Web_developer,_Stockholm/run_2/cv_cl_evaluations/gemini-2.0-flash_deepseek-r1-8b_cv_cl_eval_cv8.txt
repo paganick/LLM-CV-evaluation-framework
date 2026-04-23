@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and electronics testing, which doesn't align well with the front-end web development focus of the job description. While they express interest in web security and mention some relevant tools in the cover letter, their resume lacks concrete experience with JavaScript, modern FE frameworks (React), HTML, CSS, and related testing frameworks. The experience is too far removed from the requirements.

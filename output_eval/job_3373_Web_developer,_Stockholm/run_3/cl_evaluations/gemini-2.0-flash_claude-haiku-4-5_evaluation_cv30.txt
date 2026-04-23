@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a data background with limited frontend experience. While they express interest and mention HTML and ASP.NET, they lack demonstrated proficiency in React, TypeScript, and modern testing frameworks explicitly required in the job description. The cover letter focuses more on transferable skills than direct frontend development accomplishments.

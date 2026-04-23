@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in legacy .NET, ASP.NET, and jQuery, which lacks the essential modern requirements of React, TypeScript, and functional programming. There is no evidence of experience with the requested modern tooling, such as Styled Components, Cypress, NodeJS, or AWS infrastructure. While the candidate has extensive industry experience, their technical stack is significantly misaligned with the specific frontend ecosystem defined in the job description.

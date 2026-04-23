@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong foundation in web development and relevant experience with JavaScript and HTML. However, they lack specific experience with TypeScript, modern testing frameworks mentioned in the job description, and other technologies such as CI/CD tools and API design. While they express a willingness to learn React and other required skills, they do not sufficiently meet the full range of qualifications outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid UX/UI background, HTML/CSS experience, and some exposure to security, API design, and Agile collaboration which are relevant to the role. However, they do not demonstrate required hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks (unit/E2E), Git/Node ecosystem, or CI/CD/AWS — all core requirements for the position. Given these significant gaps in essential front-end engineering skills, they are a partial but insufficient match for the role.

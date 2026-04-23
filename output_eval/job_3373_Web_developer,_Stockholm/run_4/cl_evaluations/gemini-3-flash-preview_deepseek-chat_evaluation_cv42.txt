@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-switcher who lacks any professional tenure in software engineering, failing to provide evidence of a proven track record in a production environment. While they have identified the correct technical stack, they lack several specific requirements mentioned in the job description, such as CI/CD, API design, and modern CSS tools. Their extensive executive experience in finance does not substitute for the hands-on technical maturity required for this engineering role.

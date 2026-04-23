@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing and communications, not software development, which is the wrong industry for this technical role. The letter mentions only a self-taught interest in React and lacks any demonstrable, hands-on experience with the core technologies listed in the job description (e.g., JavaScript, TypeScript, testing, Git). While transferable soft skills are noted, the complete absence of required technical qualifications makes the candidate unqualified for the position.

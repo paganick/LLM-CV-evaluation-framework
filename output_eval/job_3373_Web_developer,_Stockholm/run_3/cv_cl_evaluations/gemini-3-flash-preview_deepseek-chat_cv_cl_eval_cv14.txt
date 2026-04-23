@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a solid foundation in general web development and .NET technologies, they lack professional experience with the required modern frontend stack, specifically React and TypeScript. The resume shows no evidence of expertise in automated testing frameworks, modern CSS tools, or functional programming, which are critical requirements for this role. Consequently, the candidate would require significant upskilling to meet the technical expectations of the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily sales and management with no demonstrated hands-on experience in the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, modern CSS tools, CI/CD, or basic web security). Leadership and collaboration strengths are noted but do not compensate for the absence of the critical front-end development skills needed for this role. I recommend acquiring and demonstrating concrete, recent experience with the specified technologies before being considered for this position.

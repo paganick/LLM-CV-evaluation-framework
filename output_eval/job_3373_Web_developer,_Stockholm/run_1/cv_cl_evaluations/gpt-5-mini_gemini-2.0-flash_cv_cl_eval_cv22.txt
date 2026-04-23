@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in media planning and advertising with only basic HTML/CSS and academic database experience; they lack essential frontend skills required for this role such as JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, and modern CSS tooling. While they show motivation and some relevant coursework, they do not have the hands-on, production experience or toolchain knowledge necessary to perform the duties of the position. This profile is therefore not a suitable match for the advertised frontend developer role.

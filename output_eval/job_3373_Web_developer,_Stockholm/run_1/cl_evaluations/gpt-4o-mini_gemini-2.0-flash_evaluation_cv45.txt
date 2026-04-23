@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in IT management and has experience in some related areas, they lack specific frontend development skills in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Additionally, there is no mention of hands-on experience with testing automation, Git, or familiarity with security concepts, which are crucial for the role.

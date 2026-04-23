@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in adjacent fields like project management and business development, not hands-on front-end development. While they express eagerness to learn, the cover letter provides no concrete evidence of proficiency in the required technical stack (JavaScript, TypeScript, React, testing frameworks, etc.) listed in the job description. Their experience is largely managerial and transferable, but they lack the specific, demonstrable technical skills required for the role.

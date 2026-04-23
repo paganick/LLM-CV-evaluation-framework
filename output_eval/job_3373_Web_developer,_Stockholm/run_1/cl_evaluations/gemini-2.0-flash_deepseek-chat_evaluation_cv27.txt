@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates foundational knowledge (HTML) and an eagerness to learn React and TypeScript, aligning with the job description's requirements. However, the cover letter lacks concrete examples of hands-on experience with modern front-end frameworks, testing frameworks, CI/CD pipelines, and other technologies mentioned in the job description. While transferable skills are highlighted, direct relevant experience is limited.

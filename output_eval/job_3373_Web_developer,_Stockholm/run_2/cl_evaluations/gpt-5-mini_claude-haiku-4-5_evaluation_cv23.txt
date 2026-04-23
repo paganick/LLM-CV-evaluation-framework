@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates relevant testing experience and basic JavaScript knowledge and shows adaptability, which partially aligns with the role. However, they lack demonstrated hands-on experience with React, TypeScript, modern CSS tools, Node/npm ecosystem, GitHub, and web security practices required by the job. Given the gap in core frontend framework experience and tooling, they are a mid-level fit but not a strong match.

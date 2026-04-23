@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background has primarily focused on business banking and team leadership, I am making a deliberate career transition into frontend development, driven by a genuine passion for clean code and modern web technologies.
+
+Over the past nine years, I have developed exceptional collaborative skills and thrived in fast-paced, Agile-like environments managing cross-functional teams and complex projects. These foundational competencies translate directly to frontend development, where teamwork and adaptability are essential. My experience directing 100 events annually, training 600 employees, and managing multiple high-priority projects demonstrates my ability to juggle competing priorities while maintaining quality standards—a critical skill in development environments.
+
+My enthusiasm for your role stems from alignment with your company values. Your emphasis on clean code resonates with my philosophy of precision and excellence. Your collaborative culture appeals to me as someone who thrives working with diverse teams and external partners. Your commitment to staying current with technology matches my motivation to continuously learn and evolve professionally.
+
+I recognize that my technical foundation requires development. I am committed to systematically building expertise in JavaScript, TypeScript, React, and the modern frontend ecosystem. My background gives me distinct advantages: strong communication skills that enhance team dynamics, proven ability to master complex systems quickly, and deep understanding of business requirements from my banking experience—valuable when translating stakeholder needs into technical solutions.
+
+I am eager to contribute to your team while developing my technical capabilities. My demonstrated ability to exceed performance expectations, coupled with my genuine passion for problem-solving and clean code, positions me to become a valuable frontend developer. I am prepared to invest the necessary effort to master your tech stack, including React, Jest, ESLint, and CI/CD tools.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my collaborative mindset, work ethic, and commitment to growth can benefit your development team.
+
+Sincerely, Alexis

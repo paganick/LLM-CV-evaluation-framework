@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's profile is primarily focused on general IT management and hardware support, with professional experience that is significantly outdated and lacks modern frontend engineering depth. There is no evidence of experience with the required modern stack, specifically omitting React, TypeScript, Git, and automated testing frameworks from their work history. While they possess foundational knowledge of basic web technologies, they do not meet the specific technical requirements or recent professional experience levels necessary for this role.

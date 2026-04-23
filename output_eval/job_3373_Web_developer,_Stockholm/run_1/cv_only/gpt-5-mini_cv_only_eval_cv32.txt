@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate is completely unqualified for this front-end engineering role; the resume documents over a decade of customer service and retail/management experience with no software development or technical skills listed. There is no evidence of JavaScript/TypeScript, React (or other modern frameworks), testing frameworks, Git, Node.js/npm, CI/CD, or web security knowledge, so they do not meet the job requirements.

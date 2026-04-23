@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates strong architectural knowledge and familiarity with the company’s specific tech stack, including React, Ramda, and web security protocols. However, the candidate fails to explicitly mention proficiency in TypeScript, which is a core requirement for the role. Additionally, while they have extensive testing experience, it is primarily backend-focused (Java, Mockito, WireMock) rather than in the requested frontend tools like Jest and Cypress.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid technical foundation in HTML and core programming languages like C and C++, and possesses some relevant experience in design tools. However, they lack direct experience with key frontend technologies such as JavaScript, TypeScript, and React, as well as testing frameworks and CI/CD tools specified in the job description. Their background in business development might not adequately demonstrate the necessary skills for effectively contributing in an Agile development environment.

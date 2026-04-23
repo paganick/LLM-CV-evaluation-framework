@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical skills for the role, including React, TypeScript, testing frameworks, and Git. Their professional experience is centered on Salesforce implementation and digital marketing rather than front-end software engineering. While they possess basic HTML and CSS knowledge, they are unqualified for a developer position requiring expertise in modern JavaScript ecosystems.

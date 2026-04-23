@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate is essentially from a different industry with over a decade of customer service and management experience and no demonstrated professional front-end experience with JavaScript/TypeScript, React, HTML/CSS, testing, Git, or Node. The cover letter states they are learning these technologies but provides no concrete projects, contributions, or technical credentials to validate competency. Based on the job requirements, the candidate does not meet the minimum technical qualifications for this role.

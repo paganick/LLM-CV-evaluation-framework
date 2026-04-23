@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position, as advertised. With a comprehensive background in IT management, full-stack web development, and a proven ability to translate complex requirements into clean, functional solutions, I am confident that my technical foundation and problem-solving approach align perfectly with your team’s needs.
+
+Your requirement for expertise in JavaScript, TypeScript, HTML, and CSS matches my hands-on experience building and rebuilding client websites from the ground up. My proficiency extends to modern CSS tools and a deep understanding of client and server-side programming, as evidenced by my development of a secure, browser-based cloud storage portal. While my professional experience with React is evolving, my foundational knowledge in JavaScript, HTML5, CSS3, and related web technologies, combined with my CompTIA A+ certification and formal coursework in Java and Web Development, provides a robust platform for rapid specialization in your tech stack, particularly React.
+
+I am particularly drawn to your emphasis on clean code, testing, and Agile collaboration. My career has been defined by a detail-oriented methodology—from automating daily office tasks via scripting to meticulous IT project management, including planning, budgeting, and documentation. The accomplishment of increasing a client’s monthly website hits from 3,422 to 40,884 underscores my focus on performance and results. Furthermore, my hands-on experience with server management, networking protocols, and information security principles provides the contextual understanding necessary for developing secure, resilient web applications that consider the full system.
+
+My experience interfacing with clients, managing multi-project priorities, and executing complete system upgrades has honed my skills as a strong collaborator, comfortable interacting with other teams and external partners. I possess a genuine keenness to understand full domains, as demonstrated by my work integrating hardware, software, and networking solutions. I am passionate about technology and am committed to continuously updating my skill set.
+
+Thank you for considering my application. I am eager to discuss how my blend of practical development skills, systematic IT management experience, and collaborative mindset can contribute to your team’s success.
+
+Sincerely, Alexis

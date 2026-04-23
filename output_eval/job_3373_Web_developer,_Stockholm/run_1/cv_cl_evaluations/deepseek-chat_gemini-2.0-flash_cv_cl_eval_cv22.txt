@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is a completely different industry from frontend software development. While they mention foundational HTML and CSS, they lack any professional or project experience with JavaScript, TypeScript, React, or any other required modern framework, testing tools, or development practices listed in the job description. The resume and cover letter indicate a desire to transition into technology, but they demonstrate no proven, hands-on competency for the specific technical role.

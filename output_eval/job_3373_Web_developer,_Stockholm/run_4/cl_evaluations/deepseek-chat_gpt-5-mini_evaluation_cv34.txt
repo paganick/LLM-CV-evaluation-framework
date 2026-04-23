@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and strong client-facing, documentation, and QA skills that align with the job's collaborative and Agile aspects. However, they lack the required hands-on experience with core technologies like JavaScript, TypeScript, React, and modern testing frameworks, explicitly stating they are "eager to expand" these skills. Their background is in implementation and configuration, not in front-end engineering, making them underqualified for the specific technical requirements.

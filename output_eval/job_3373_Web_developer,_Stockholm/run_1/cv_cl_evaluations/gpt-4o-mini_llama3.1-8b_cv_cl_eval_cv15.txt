@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and some exposure to web development technologies like JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks like React, which is specifically mentioned in the job description. Additionally, while they have some familiarity with testing frameworks and security concepts, the overall depth of their experience falls short of what is typically expected for this role.

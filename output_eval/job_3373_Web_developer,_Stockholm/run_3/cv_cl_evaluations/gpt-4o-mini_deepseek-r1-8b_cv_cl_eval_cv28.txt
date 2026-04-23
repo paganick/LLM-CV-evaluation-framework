@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant analytical skills and experience in data visualization and collaboration within teams, which could translate well to a technical environment. However, they lack direct experience with the core technologies and frameworks specified in the job description, such as JavaScript, TypeScript, React, and testing frameworks like Jest and Cypress. Their limited technical knowledge and absence of demonstrated expertise in frontend development tools are significant gaps.

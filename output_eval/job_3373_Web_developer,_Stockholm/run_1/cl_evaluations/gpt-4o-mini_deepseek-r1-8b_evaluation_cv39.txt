@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in graphic design and some web development skills, they have not demonstrated proficiency in the required programming languages (JavaScript, TypeScript, HTML, CSS) or modern front-end frameworks like React. Additionally, there is no mention of experience with testing frameworks or knowledge of security practices essential for the role. The candidate's background aligns somewhat with the industry but lacks critical technical expertise specific to the job description.

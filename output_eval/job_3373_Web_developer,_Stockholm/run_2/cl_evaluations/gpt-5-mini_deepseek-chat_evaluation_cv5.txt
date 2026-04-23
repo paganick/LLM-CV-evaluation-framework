@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong software engineering experience, proven collaboration, testing discipline, and familiarity with JavaScript/HTML/CSS and Git, which are relevant to the role. However, they lack demonstrated hands-on experience with the core requirements for this position — notably practical React/TypeScript work, modern frontend tooling (Styled Components/SASS, linters), testing frameworks (Jest/Cypress/TestCafe), NodeJS ecosystem tools, and CI/CD/AWS experience — making them a partial but not fully qualified match.

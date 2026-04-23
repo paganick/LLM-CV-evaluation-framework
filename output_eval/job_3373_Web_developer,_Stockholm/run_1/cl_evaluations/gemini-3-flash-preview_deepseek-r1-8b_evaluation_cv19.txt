@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a graphic designer and lacks the essential technical proficiency in JavaScript, TypeScript, and React required for this role. There is no mention of experience with automated testing, Git, web security, or CI/CD pipelines, which are non-negotiable requirements of the job description. While the candidate has a basic understanding of HTML/CSS, they are fundamentally unqualified for a position requiring advanced frontend engineering skills.

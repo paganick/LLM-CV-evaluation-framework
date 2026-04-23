@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not front-end development, and they lack any stated hands-on experience with the core required technologies (JavaScript, TypeScript, React, HTML, CSS). While they demonstrate transferable soft skills and an aptitude for learning, the cover letter fails to provide concrete evidence of technical proficiency or project work relevant to the role's specific technical demands.

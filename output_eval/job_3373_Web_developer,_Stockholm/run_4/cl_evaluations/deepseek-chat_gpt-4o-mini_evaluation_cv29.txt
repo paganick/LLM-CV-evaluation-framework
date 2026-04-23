@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not hands-on front-end development, which is the core requirement. They mention an interest in React and some peripheral tools but provide no concrete evidence of professional experience with the key technologies listed in the job description (e.g., TypeScript, modern CSS tools, testing frameworks). While they demonstrate strong soft skills and industry awareness, their technical qualifications for the specific developer role are insufficient.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in front-end technologies like JavaScript, HTML, and CSS, and familiarity with Angular, aligning with the job description. They also highlight Agile experience, collaboration skills, and project management, which are relevant. However, the cover letter lacks explicit mention of React, TypeScript, and testing frameworks like Jest or Cypress, which are key requirements.

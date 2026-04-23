@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a general understanding of web development and some relevant technologies like JavaScript and testing frameworks. However, the resume focuses heavily on older technologies and lacks concrete experience with modern front-end frameworks like React, which is a key requirement. The cover letter mentions familiarity with some relevant tools, but the lack of demonstrable experience is a concern.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a senior business development/marketing background with no demonstrated hands-on frontend engineering skills (no JavaScript/TypeScript, HTML/CSS, React, testing frameworks, Node/npm, Git, CI/CD, or cloud/infra experience). While the candidate has product and CRM experience in a software company, there is no evidence of coding, test automation, or the modern frontend toolchain required for this role. This is a complete mismatch for a frontend developer position.

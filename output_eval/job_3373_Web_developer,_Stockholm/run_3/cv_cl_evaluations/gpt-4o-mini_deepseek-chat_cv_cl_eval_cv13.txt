@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and project management, with a background in JavaScript, HTML, and CSS, and familiarity with Angular. However, they lack hands-on experience with React, which is the preferred framework for this role, and their testing experience is mentioned but not detailed. While there is a solid foundation in Agile collaboration, the overall technical depth, especially regarding modern tooling and security practices, is not sufficiently established to rate them higher.

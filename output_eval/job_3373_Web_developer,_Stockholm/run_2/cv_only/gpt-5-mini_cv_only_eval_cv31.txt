@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is focused on sales, management, and customer-facing roles with no demonstrated professional experience in frontend development or software engineering. It lacks required technical skills such as JavaScript/TypeScript, React, testing frameworks, Git, Node.js, modern CSS tooling, and web security knowledge; only "HTML" is briefly listed under desktop publishing. This candidate is in the wrong industry and is completely unqualified for the role.

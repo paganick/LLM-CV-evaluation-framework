@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design skills and basic HTML/CSS experience, but lacks the core technical requirements of the role including JavaScript/TypeScript, React, testing/test automation, Git, Node ecosystem experience, and web security knowledge. They express willingness to learn, but currently do not demonstrate the hands-on front-end engineering experience or tooling familiarity the position requires. This makes them relevant to the industry but insufficiently qualified for this role without significant upskilling.

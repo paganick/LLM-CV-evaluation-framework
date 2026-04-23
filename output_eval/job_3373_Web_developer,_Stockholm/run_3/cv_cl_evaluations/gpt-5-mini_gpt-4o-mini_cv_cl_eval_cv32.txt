@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in customer service, sales, and retail management with no verifiable hands-on experience in JavaScript, TypeScript, React, testing frameworks, or Node.js required by the role. The cover letter expresses motivation and some basic security awareness but does not provide evidence of technical projects, professional frontend work, or demonstrable coding skills. Given the job's requirement for practical frontend development and test automation experience, the candidate is not qualified for this role.

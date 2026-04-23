@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, and CSS, but lacks direct experience with modern FE frameworks like React, which is the primary framework used by the company. While the candidate expresses willingness to learn, the resume is heavily focused on Java and database administration, not front-end development. The cover letter mentions familiarity with some testing concepts and tools, but doesn't demonstrate in-depth experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates relevant front-end foundations (JavaScript, HTML, CSS), familiarity with React, testing methodology, and tools like SASS, ESLint, Prettier and the NodeJS ecosystem. However, they do not demonstrate key required skills such as TypeScript, Git/GitHub usage, specific testing frameworks (Jest/Cypress/TestCafe), Styled Components, Ramda, or concrete CI/CD and AWS/Terraform experience. Overall relevant to the industry but lacking several specific, required technologies and proven production front-end/React delivery experience.

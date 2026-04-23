@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is more focused on project management than hands-on front-end development. While they mention familiarity with JavaScript, HTML, CSS, jQuery, and Angular, the job description emphasizes React and specific testing frameworks, which are not highlighted in the cover letter. They acknowledge limited React experience, indicating a potential skills gap.

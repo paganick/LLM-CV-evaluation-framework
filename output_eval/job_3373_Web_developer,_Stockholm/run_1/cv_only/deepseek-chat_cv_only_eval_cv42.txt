@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in finance, operations, and project management within publishing and non-profit sectors, with no mention of any front-end development skills, frameworks, or tools listed in the job description. The "Technology" skills listed are entirely unrelated to software engineering (e.g., Microsoft Office, financial software). This is a completely unqualified application for a front-end developer role.

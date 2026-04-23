@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics and manual software testing, which is a relevant industry but misaligned with the specific front-end development and modern test automation focus of the role. The cover letter demonstrates no experience with the required technologies (React, TypeScript, modern testing frameworks) or key methodologies (Agile, CI/CD, web security). While the candidate shows adaptability and collaboration skills, the core technical requirements of the position are not met.

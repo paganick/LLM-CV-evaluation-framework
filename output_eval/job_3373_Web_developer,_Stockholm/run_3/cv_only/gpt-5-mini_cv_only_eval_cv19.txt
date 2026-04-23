@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is in a different discipline (Graphic Design) with only basic HTML/CSS coursework and no evidence of JavaScript/TypeScript, React, modern front-end frameworks, testing, Git, Node.js, or related tooling required by the role. Core requirements like React experience, automated testing, version control, and familiarity with modern frontend ecosystems and security practices are absent. While strong in visual design and Adobe tools, the resume does not demonstrate the technical frontend engineering skills needed for this position.

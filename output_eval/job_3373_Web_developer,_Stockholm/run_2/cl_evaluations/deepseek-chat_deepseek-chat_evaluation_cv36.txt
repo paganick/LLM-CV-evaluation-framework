@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, self-taught technical foundation that aligns well with the core requirements for React, TypeScript, testing, and tooling. Their unique background in regulated science provides a compelling narrative for transferable skills in precision, process, and collaboration. However, the lack of explicit professional front-end development experience and hands-on projects with the full modern stack (e.g., CI/CD, AWS, specific functional programming libraries) prevents a higher score.

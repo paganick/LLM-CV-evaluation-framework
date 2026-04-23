@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic training and demonstrates foundational web development skills, but lacks direct experience with the specific technologies and practices required, such as React, TypeScript, testing frameworks, and modern tooling. Their construction background shows transferable soft skills, but does not compensate for the missing technical competencies. This places them in the category of a relevant industry candidate who lacks the specific experience for the role.

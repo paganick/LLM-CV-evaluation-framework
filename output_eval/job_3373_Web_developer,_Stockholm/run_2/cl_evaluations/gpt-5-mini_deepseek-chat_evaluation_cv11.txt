@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in QA with JavaScript, HTML/CSS, Agile practice and a solid security/testing mindset, which aligns partially with the role. However they lack demonstrated hands-on experience with the primary front-end requirements—React, TypeScript, modern CSS tools (Styled Components/SASS), the Node.js ecosystem (npm/Yarn/Express), and the specific testing and CI/CD tools listed—making them not yet a strong match for the position.

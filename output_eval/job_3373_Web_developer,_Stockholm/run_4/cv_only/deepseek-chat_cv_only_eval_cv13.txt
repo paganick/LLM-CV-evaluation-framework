@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume indicates relevant industry experience in web development and project management, but it lacks the specific, hands-on technical skills required for the role. The job description demands deep, current expertise in React, modern testing frameworks, and specific tools like Ramda and AWS, which are not demonstrated. While the candidate has some front-end knowledge and Agile exposure, their primary and recent experience is in project management, not in the intensive, hands-on software development engineering the role requires.

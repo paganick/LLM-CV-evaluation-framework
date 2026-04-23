@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in electronics engineering technology and lab testing, which is tangentially related. While they mention JavaScript and C++, and eagerness to learn React, they lack demonstrable experience in the specific front-end technologies listed (TypeScript, HTML, CSS, React) and testing frameworks. The cover letter focuses heavily on testing in a non-web environment.

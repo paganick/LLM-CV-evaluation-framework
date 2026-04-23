@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with no professional experience in software engineering, failing to meet the requirement for hands-on technical experience. They completely omit mandatory skills such as TypeScript, web security (OWASP), Node.js, CI/CD, and API design. While their design background is noted, their current skill level is academic rather than professional, making them unqualified for this specific engineering role.

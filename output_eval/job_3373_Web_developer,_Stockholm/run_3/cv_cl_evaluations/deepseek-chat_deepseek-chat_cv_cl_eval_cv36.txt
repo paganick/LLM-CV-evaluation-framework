@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in microbiology and pharmaceutical quality systems, which is a completely different industry from front-end software development. While the cover letter claims self-directed study in React, TypeScript, and testing, the resume provides zero evidence of professional experience, projects, or education in any required technical area. The core job requirements for hands-on experience with modern FE frameworks, testing automation, and the listed tech stack are not substantiated.

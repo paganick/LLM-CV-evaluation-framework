@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates relevant experience in JavaScript, TypeScript, HTML, and CSS, as well as hands-on experience with React and testing tools such as Jest and Cypress, which align closely with the job requirements. However, the cover letter lacks mention of modern CSS tools and familiarity with the NodeJS ecosystem, which may indicate some gaps in the candidate's qualifications for a perfect match.

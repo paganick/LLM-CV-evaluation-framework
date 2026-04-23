@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in analytics and engineering, which provides a solid foundation in technical skills; however, they lack direct experience with essential frontend technologies listed in the job description, specifically modern frameworks like React and CSS tools like Styled Components and SASS. Their enthusiasm for learning and collaboration is a positive aspect, but without more practical experience related to the specific skills required, they fall short of being a strong match for the role.

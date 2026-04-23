@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Technical Project Manager whose professional front-end experience is significantly dated and lacks the required depth in the modern React and TypeScript ecosystems. While they demonstrate a strong understanding of Agile and general web concepts, the resume fails to show recent, hands-on engineering experience with the specific testing, security, and infrastructure tools required.

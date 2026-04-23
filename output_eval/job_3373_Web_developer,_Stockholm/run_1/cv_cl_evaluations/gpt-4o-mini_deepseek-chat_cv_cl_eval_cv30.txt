@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in data analytics and engineering, and some knowledge of web technologies like HTML and CSS. However, they lack direct experience with modern front-end frameworks such as React, TypeScript, and the specific testing and automation tools mentioned in the job description. Their background is strong in analysis but not adequately tailored for front-end development as required.

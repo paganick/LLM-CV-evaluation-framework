@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some foundational skills in HTML and web design, and has expressed a strong commitment to learning required technologies such as JavaScript and React. However, their background is primarily in administrative and creative fields, lacking significant hands-on experience with modern frontend frameworks, testing automation, Git, or security knowledge relevant to the role. The overall experience does not sufficiently match the specific qualifications outlined in the job description.

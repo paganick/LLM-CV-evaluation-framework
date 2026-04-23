@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant UX/UI and HTML/CSS experience and some exposure to product QA (UAT), which aligns partially with frontend work, but lacks core required skills such as JavaScript/TypeScript, React, modern testing frameworks, Node/npm, Git, and modern CSS tooling. There is no demonstrable experience with test automation, CI/CD, or cloud/infra (AWS/Terraform), so they would require significant upskilling before fulfilling the role.

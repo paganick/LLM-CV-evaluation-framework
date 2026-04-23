@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a strong IT background, but lacks direct experience with modern front-end frameworks such as React, which is a key requirement. While they possess foundational knowledge in required technologies like HTML, CSS, and JavaScript, their familiarity with testing frameworks, CI/CD tools, and security principles mentioned in the job description is not well evidenced. Overall, they show potential but fall short of completely meeting the job's specific needs.

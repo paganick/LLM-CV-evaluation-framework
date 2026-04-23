@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions JavaScript, TypeScript, HTML, CSS and React in the cover letter and lists JavaScript and HTML in the resume. The resume lacks details on modern FE frameworks and testing, but the cover letter claims experience. The resume focuses more on database and older technologies, suggesting a mismatch in current skillset.

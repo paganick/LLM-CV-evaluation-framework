@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong project management, communication, and UX/design sensibilities that are transferable to a collaborative Agile team, but provides no evidence of the specific technical skills required (JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, modern CSS tooling, AWS/CI, etc.). The lack of hands-on coding, testing, and toolchain experience is a significant gap for this role. They might be considered for a non-technical or transitional role only after demonstrable technical training or a relevant portfolio.

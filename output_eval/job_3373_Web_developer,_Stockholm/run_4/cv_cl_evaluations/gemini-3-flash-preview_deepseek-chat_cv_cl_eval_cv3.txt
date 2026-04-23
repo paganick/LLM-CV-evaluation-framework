@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to meet almost all technical requirements, lacking any professional experience with React, TypeScript, testing frameworks (Jest/Cypress), or modern CI/CD pipelines. Their technical background is severely outdated, featuring legacy technologies like Flash and ActionScript, and they have remained in the construction industry for over a decade following a degree earned in 2013.

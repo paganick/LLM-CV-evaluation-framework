@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid frontend fundamentals (JavaScript, HTML, CSS), Git, Agile experience, and backend integration knowledge that are relevant to the role. However, they lack direct experience with the team's primary stack requirements—React and TypeScript—as well as modern testing frameworks (Jest/Cypress/TestCafe), NodeJS tooling, modern CSS tools (Styled Components/SASS), and specific web security topics (OWASP/CSP/CORS/OAuth). Given these gaps, they are a relevant candidate but not a strong match without additional upskilling.

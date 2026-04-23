@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate demonstrates strong business, training, and client-facing experience but provides no concrete evidence of the core technical skills required (JavaScript/TypeScript, React, HTML/CSS, testing, Git, Node ecosystem, or modern CSS/testing tools). Claims of consulting with tech startups and a desire to learn are noted but unsupported by projects, technologies, or demonstrable hands‑on experience. Transferable collaboration and project management skills are positives but insufficient to qualify for this front-end developer role.

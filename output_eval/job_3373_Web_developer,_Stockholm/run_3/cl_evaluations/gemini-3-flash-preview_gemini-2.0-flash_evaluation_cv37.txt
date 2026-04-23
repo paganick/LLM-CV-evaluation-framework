@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the required technical stack, specifically React, TypeScript, and automated testing, even admitting a need to expand their knowledge in these areas. While they have a relevant background in IT management and Agile environments, their experience focuses on leadership and infrastructure rather than hands-on software development. Consequently, the applicant does not meet the essential technical qualifications or seniority level required for this specific front-end role.

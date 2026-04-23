@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter show experience in a different era of technology (Java, EJB, XML) and general IT roles, with no demonstrable, recent hands-on experience in the core required modern front-end stack (React, TypeScript, modern CSS tools). The cover letter attempts to align with the job description by listing keywords (Jest, ESLint, CircleCI) but provides no concrete project examples or evidence of proficiency, making the claims unverifiable and the overall fit very weak for a specialized front-end role.

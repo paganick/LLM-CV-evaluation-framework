@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in microbiology and quality control, lacking direct professional experience in frontend development. While they mention self-learning JavaScript, TypeScript, and React, there's no evidence of professional projects or contributions. The resume doesn't reflect the required skills in modern FE frameworks, testing, or web security beyond a conceptual level.

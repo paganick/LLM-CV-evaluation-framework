@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, not software engineering. They possess none of the required technical skills (JavaScript, TypeScript, React, testing, Git, etc.) listed in the job description. While they express a willingness to learn, their experience is from a completely different domain and does not meet the core technical requirements for a Front End Developer role.

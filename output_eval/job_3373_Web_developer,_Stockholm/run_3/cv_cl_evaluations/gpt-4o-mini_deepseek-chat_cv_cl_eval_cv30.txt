@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant background experience in engineering and data analytics but lacks direct experience with the core technologies specified in the job description, such as JavaScript, TypeScript, modern front-end frameworks like React, and testing frameworks. While they demonstrate an eagerness to grow in this area, the foundational requirements for the position are not sufficiently met.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing, JavaScript, HTML/CSS, testing frameworks, Git, and Agile practices which match core parts of the role. However, they lack demonstrated experience with TypeScript, React (the team's stated framework), modern CSS tooling, NodeJS ecosystem, CI/CD, API design, and infrastructure (AWS/Terraform), all of which are important for this role. Their interest in learning is positive but insufficient given the current gaps. This makes them a relevant but underqualified candidate for this position.

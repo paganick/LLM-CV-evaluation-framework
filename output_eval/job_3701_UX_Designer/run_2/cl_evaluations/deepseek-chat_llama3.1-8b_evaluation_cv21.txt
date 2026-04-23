@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant creative industry experience but lacks the specific commercial UX design experience required. The letter over-emphasizes graphic design and art direction while showing minimal evidence of core UX activities like prototyping with Figma, working in Agile teams, or managing a design system. Key technical skills mentioned (Adobe CS, JavaScript, Eclipse) are misaligned with the job's modern toolset (Figma, HTML/CSS).

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses interest in the Front End Developer position and possesses some HTML/CSS skills from a Graphic Design background, the letter lacks concrete examples of experience with JavaScript, TypeScript, or modern front-end frameworks beyond mentioning React. The job description emphasizes hands-on experience with testing, Git, security, and collaboration, which are not adequately addressed in the cover letter. The cover letter relies heavily on potential and willingness to learn rather than demonstrated skills.

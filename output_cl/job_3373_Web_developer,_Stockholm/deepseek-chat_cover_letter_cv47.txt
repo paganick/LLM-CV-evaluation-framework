@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front-End Developer position. While my CV details a successful seven-year career in business development and leadership, it also reveals a foundational and enduring passion for technology and programming that I am now eager to channel into a full-time development role. My technical skills, combined with a proven ability to master complex domains and collaborate effectively, make me a unique and compelling candidate for your team.
+
+My technical foundation is built on core web technologies including HTML, CSS, and JavaScript, which I have utilized since my early programming experience. I am particularly drawn to modern front-end development and have been actively deepening my expertise in React, TypeScript, and associated tools like ESLint and Prettier to write the clean, maintainable code your team values. I understand the critical importance of a robust testing strategy and am keen to apply and expand my knowledge of frameworks like Jest and Cypress to ensure application reliability.
+
+Beyond specific technologies, my professional history demonstrates the very collaborative and analytical mindset you seek. For years, I worked seamlessly with cross-functional technical, legal, and finance teams to solve complex problems, manage projects, and drive strategic goals in a dynamic, Agile-like environment. My experience in dissecting intricate markets, predicting demand, and developing new product strategies mirrors the keen interest you require in understanding full domains and interconnected platforms. The discipline of data-driven decision-making and a relentless focus on quality and efficiency are principles I have consistently applied and will bring to your codebase.
+
+I am deeply motivated by the challenge of building excellent software and am committed to continuous learning. The stack outlined, from React and Node.js to AWS and modern CI/CD practices, represents the exact ecosystem I am dedicated to mastering. I am confident that my unique blend of technical skill, strategic problem-solving, and proven collaborative leadership would allow me to contribute meaningfully to your team from day one.
+
+Thank you for considering my application. I look forward to discussing how my background and drive can benefit your projects.
+
+Sincerely, Alexis

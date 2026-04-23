@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience (JavaScript, HTML, CSS, Angular) and strong Agile/project leadership, which align partly with the role. However they explicitly lack or do not mention many core requirements: limited React experience, no TypeScript, no evidence of testing/test automation, no mention of Git/GitHub, modern CSS tools, Node ecosystem, CI/CD, or web security/infra knowledge. These gaps mean they are not yet a strong match for a role that expects hands-on experience across the modern React/TypeScript/testing/CI toolchain.

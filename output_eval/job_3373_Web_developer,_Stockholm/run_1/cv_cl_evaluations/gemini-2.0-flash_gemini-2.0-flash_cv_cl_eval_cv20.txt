@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end experience (HTML, CSS, JavaScript) but primarily focuses on .NET technologies, not modern FE frameworks like React as preferred in the job description. They demonstrate familiarity with testing, Git, and Agile, but lack specific experience with tools mentioned in the job description. The cover letter acknowledges a gap in specific technologies the company utilizes.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core web fundamentals (HTML, CSS, JavaScript/TypeScript), familiarity with Git, basic testing knowledge (Jest), SASS exposure, and awareness of web security, making them relevant to the role. However, they lack demonstrated hands-on experience with React (the team's primary framework), test automation practices at scale, the NodeJS/npm ecosystem, CI/CD (CircleCI) and production-grade tooling, so significant upskilling would be required to meet the job's key requirements.

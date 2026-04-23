@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is almost entirely in Java/JEE backend development, which is a different domain from the required modern frontend focus. While they mention JavaScript, HTML, and CSS, there is no demonstrated, recent hands-on experience with React or any other modern frontend framework listed in the job description. Their testing and security experience is from a backend context, and they lack evidence of the specific modern toolchain (e.g., Jest, Cypress, Styled Components, Node.js ecosystem) required for the role.

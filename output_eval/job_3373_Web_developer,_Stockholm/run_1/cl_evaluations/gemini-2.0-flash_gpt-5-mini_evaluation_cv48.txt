@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT infrastructure and support, not front-end development. While they express a willingness to learn React and related technologies, they lack the hands-on experience in JavaScript, TypeScript, and modern front-end frameworks that the job description requires. The letter focuses on operational experience rather than software engineering skills.

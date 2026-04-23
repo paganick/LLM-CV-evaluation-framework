@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience and mentions key technologies like React, but the cover letter is too broad and IT-focused. It lacks specific, demonstrable proof of the required skills like TypeScript, testing frameworks, modern CSS tools, Git, and security concepts listed in the job description. The experience described is generic and does not convincingly align with the detailed technical requirements.

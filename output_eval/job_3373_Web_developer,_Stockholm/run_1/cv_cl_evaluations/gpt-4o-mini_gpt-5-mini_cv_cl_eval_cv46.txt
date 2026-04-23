@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software design and database administration but lacks substantial front-end development experience, particularly with modern frameworks like React. While they possess some knowledge of JavaScript and HTML, their resume does not demonstrate hands-on experience with key requirements such as test automation, modern CSS tools, or a strong understanding of security practices on the web. Their eagerness to learn and adapt is noted, but this alone does not meet the immediate needs of the role.

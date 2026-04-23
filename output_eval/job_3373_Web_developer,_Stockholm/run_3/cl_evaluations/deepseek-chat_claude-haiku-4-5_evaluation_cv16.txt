@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and addresses many soft skills and methodologies from the job description. However, they lack direct, hands-on experience with the core technologies required, specifically React, TypeScript, and modern CSS/testing tools. Their background is primarily in ASP.NET and jQuery, which represents a significant gap for a React-focused role.

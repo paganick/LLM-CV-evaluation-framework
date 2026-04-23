@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume does not demonstrate the required skills in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. While they have intermediate coding experience in R, it's not relevant to the job description. The resume focuses on program management and learning design, which is outside the scope of the front-end developer role.

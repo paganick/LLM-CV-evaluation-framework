@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not a dedicated front-end developer. While they mention foundational web technologies, they lack specific, recent hands-on experience with the required modern React ecosystem, testing frameworks, and tools listed in the job description. Their project management and analytical skills are relevant to the industry, but they do not meet the core technical requirements for the engineering role.

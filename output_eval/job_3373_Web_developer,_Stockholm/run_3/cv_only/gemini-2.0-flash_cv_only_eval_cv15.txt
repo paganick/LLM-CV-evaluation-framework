@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a broad IT background but lacks specific experience with modern FE frameworks like React, TypeScript, or Node.js, which are central to the job description. While they list HTML, CSS, and JavaScript, there is no mention of testing frameworks, CI/CD, or cloud technologies like AWS, all important aspects of the role. The resume focuses more on general IT support and management rather than the specific FE development skills required.

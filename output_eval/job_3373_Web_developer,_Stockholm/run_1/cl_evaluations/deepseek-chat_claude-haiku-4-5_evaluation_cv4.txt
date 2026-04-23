@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in core frontend technologies, React, API integration, and a collaborative Agile mindset, which aligns well with key requirements. However, the cover letter lacks explicit mention of several specific technologies from the job description, such as TypeScript, modern CSS tools, security knowledge, and the listed CI/CD tools, indicating gaps in direct experience. Their eagerness to learn and broader full-stack perspective makes them a strong, but not perfect, match.

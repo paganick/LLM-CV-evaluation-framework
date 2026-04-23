@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks hands-on experience with the core technical requirements (JavaScript/TypeScript/HTML/CSS, React, testing frameworks, NodeJS, Git, and web security) essential for this front-end role. While they bring extensive marketing and communications experience and mention Agile exposure, these transferable skills do not meet the technical baseline required. Given the significant gap in required tooling and programming expertise, they are largely unqualified for this position.

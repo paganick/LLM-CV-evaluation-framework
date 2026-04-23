@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in design and some HTML/CSS experience, but lacks the required depth in JavaScript, TypeScript, modern FE frameworks (specifically React), and testing. While the cover letter expresses interest in these technologies, the resume does not provide sufficient evidence of hands-on experience. The candidate's experience is primarily in design and visual communication, not frontend development.

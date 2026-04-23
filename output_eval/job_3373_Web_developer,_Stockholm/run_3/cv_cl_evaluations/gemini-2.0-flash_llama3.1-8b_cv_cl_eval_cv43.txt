@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight skills and experience in program management, learning design, and curriculum development, which do not align with the technical requirements of the job description. The candidate mentions "intermediate coding in R studio," but there's no mention of the required JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. The lack of relevant technical skills and experience makes the candidate unsuitable for this role.

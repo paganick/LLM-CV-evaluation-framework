@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight extensive customer service and management experience, which is irrelevant to the front-end developer role. The candidate admits to a lack of direct experience in front-end development. There's no evidence of the required technical skills (JavaScript, TypeScript, React, etc.) in their resume or past work experience.

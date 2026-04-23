@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer whose professional experience is entirely centered on print and visual design rather than software engineering. While the cover letter mentions self-directed learning of React and JavaScript, the resume lacks any professional history or project evidence involving the required tech stack, such as TypeScript, testing frameworks, or CI/CD tools. The applicant does not meet the minimum technical requirements for this developer role.

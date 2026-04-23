@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT program management, security, and Agile collaboration experience, but the cover letter contains no evidence of hands-on frontend skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Node/npm, or modern CSS tools required for this role. Their background is relevant to IT but lacks the specific, demonstrable frontend development experience and toolchain knowledge needed to be a strong match. With training or concrete examples of frontend work, they could be reconsidered.

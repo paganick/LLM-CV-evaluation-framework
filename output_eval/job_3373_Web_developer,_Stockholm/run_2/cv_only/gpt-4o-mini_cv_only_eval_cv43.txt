@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume indicates experience mainly in program management and curriculum design, lacking any relevant technical skills in JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React. There is no mention of testing automation, Git, or experience with CI/CD tools, making them unqualified for the technical aspects of the role.

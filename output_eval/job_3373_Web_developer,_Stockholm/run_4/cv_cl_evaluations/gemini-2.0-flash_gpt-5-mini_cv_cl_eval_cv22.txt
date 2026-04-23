@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not front-end development. While they express interest and some basic knowledge of HTML and CSS, they lack the required experience with modern JavaScript frameworks (React, VueJS, Angular, Svelte), testing, and related FE technologies. The resume focuses on database and system analysis projects, not front-end engineering.

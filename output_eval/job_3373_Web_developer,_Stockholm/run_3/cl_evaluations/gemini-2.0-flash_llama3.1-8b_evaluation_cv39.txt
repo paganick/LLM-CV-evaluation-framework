@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic and product design, not front-end development. While they mention familiarity with HTML, CSS, JavaScript, TypeScript, Git, and web security concepts, the cover letter lacks evidence of hands-on experience with modern front-end frameworks like React (which the job description specifically mentions). The focus on design tools like Adobe Photoshop and InDesign is not directly relevant to the required front-end skills.

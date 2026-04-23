@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of the core technologies mentioned in the job description, especially React and test automation. They mention Git and basic security knowledge. They could be stronger by highlighting more specific experience with testing frameworks or CI/CD tools mentioned in the job posting.

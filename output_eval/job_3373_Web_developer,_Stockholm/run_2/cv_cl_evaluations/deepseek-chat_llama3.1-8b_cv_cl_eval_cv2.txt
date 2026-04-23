@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in Java/J2EE back-end development with legacy frameworks like Struts and EJB, which is the wrong technical stack for this front-end focused role. The resume and cover letter show no experience with the required technologies: JavaScript, TypeScript, React, modern CSS, or any of the listed testing frameworks. While they have general software experience, their skills are not transferable to the specific front-end and modern web development requirements of this position.

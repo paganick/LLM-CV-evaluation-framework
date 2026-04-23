@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong systems/operations experience, security certification, and a history of supporting web application lifecycles, which is somewhat relevant. However their resume and cover letter do not demonstrate hands-on experience with the core front-end technologies required (JavaScript/TypeScript, React, modern CSS/styling, front-end testing frameworks, Node/npm, and Git-based development workflows). The absence of demonstrated front-end development and testing skills prevents a higher match for this role.

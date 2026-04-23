@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, and PR with no demonstrated experience or evidence of proficiency in core front-end technologies (JavaScript, TypeScript, HTML, CSS) or modern frameworks like React, nor with testing, Git, or NodeJS. While they show transferable soft skills and a willingness to learn, there are no technical projects, training, or credentials to support an immediate fit for this role. Given the technical requirements and lack of relevant experience, they are not qualified for the position at this time.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the mandatory hands-on experience with React and TypeScript, identifying them as skills they are "eager to master" rather than established competencies. Furthermore, they fail to demonstrate the required professional experience in testing automation and CI/CD, instead expressing only a "deep interest" in these areas. While the candidate has a relevant background in web development and Agile, they do not currently possess the specific technical stack necessary for this role.

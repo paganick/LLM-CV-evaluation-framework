@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with frontend technologies like React, HTML, CSS, and JavaScript, as well as testing and automation. They also highlight experience with Git and Agile, aligning with the job description. The letter shows a good understanding of the full domain, web security, and a commitment to clean code, though the candidate lacks direct experience with TypeScript and some specific tooling mentioned in the job description.

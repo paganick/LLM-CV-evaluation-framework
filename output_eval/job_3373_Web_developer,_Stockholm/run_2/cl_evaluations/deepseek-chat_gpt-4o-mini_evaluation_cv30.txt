@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in front-end fundamentals and mentions some required skills like Git and Agile. However, the cover letter critically lacks mention of the core requirements: React, TypeScript, modern testing frameworks (Jest, Cypress), and security knowledge. It also fails to demonstrate experience with the specific modern tools listed in the job description, making them underqualified for the role as described.

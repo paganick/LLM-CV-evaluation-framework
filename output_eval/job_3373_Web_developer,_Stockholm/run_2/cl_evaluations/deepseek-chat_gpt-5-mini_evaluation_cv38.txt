@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different industry (film/TV production) with no direct professional front-end development experience. While they demonstrate strong transferable soft skills and a willingness to learn, they lack the required hands-on technical experience with JavaScript, TypeScript, React, testing frameworks, and the other specified tools. The cover letter is aspirational but does not provide evidence of meeting the core technical requirements of the role.

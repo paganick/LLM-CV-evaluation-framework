@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and Agile methodology exposure, which aligns with the industry. However, the core requirement is deep, hands-on experience with modern JavaScript frameworks like React, which the candidate demonstrably lacks, having worked exclusively with the .NET stack. While the cover letter expresses eagerness to learn, the resume provides no concrete evidence of the specific technologies (React, TypeScript, modern testing frameworks, Node.js ecosystem) listed as essential in the job description.

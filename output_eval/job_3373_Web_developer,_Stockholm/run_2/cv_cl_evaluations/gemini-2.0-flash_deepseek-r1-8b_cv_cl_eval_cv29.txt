@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume and cover letter highlight business development and marketing experience, which does not align with the software engineering skills required in the job description. There is no mention of JavaScript, React, or other front-end technologies listed in the job requirements. The candidate's skills are focused on sales strategy and CRM management, making them unqualified for a front-end developer role.

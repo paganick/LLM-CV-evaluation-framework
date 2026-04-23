@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses heavily on electronics and testing, with limited evidence of the specific front-end development skills (React, TypeScript, modern CSS) listed in the job description. While they mention JavaScript, it's alongside C++ and other less relevant skills, suggesting a more general familiarity rather than expertise. The cover letter attempts to bridge the gap, but the resume lacks concrete experience in the core technologies.

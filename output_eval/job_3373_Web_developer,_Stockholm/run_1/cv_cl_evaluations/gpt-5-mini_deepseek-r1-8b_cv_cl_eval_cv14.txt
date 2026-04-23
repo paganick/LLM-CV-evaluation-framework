@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid web development experience (ASP.NET, HTML/CSS, JavaScript/jQuery, Git) and demonstrates strong engineering fundamentals and collaboration. However, they lack concrete, hands-on experience with the key requirements: React/TypeScript, modern frontend tooling (Styled Components/SASS), test automation frameworks (Jest/Cypress/TestCafe), Node.js/npm/Yarn, CI/CD, and cloud/infra (AWS/Terraform). This is a relevant-industry candidate but does not meet the specific front-end and automation skill set required for the role.

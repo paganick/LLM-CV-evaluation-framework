@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is currently transitioning from an implementation and consulting background and lacks demonstrated professional experience as a dedicated Front-End Developer. While they possess strong communication skills and theoretical knowledge of the stack, the application fails to confirm hands-on production experience with Git, API design, or functional programming. Their familiarity with React and automated testing frameworks appears to be in the early stages of application rather than a proven track record in a software engineering environment.

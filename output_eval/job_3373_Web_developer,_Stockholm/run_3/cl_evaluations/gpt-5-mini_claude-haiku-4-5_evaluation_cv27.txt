@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant interest and transferable design and collaboration skills but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), and the NodeJS/CI/CD toolchain. No concrete projects, code samples, or measurable frontend deliverables are provided to verify competency. While motivated and learning, the current profile does not meet the technical expectations for this role.

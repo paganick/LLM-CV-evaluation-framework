@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is almost exclusively in graphic design and art direction, with no documented tenure as a software engineer or frontend developer. While the cover letter mentions modern technologies like React and TypeScript, the resume lacks evidence of professional application, testing experience, or proficiency in the required engineering stack. The candidate’s most recent experience dates back to 2015 and is centered on print and visual media rather than software development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program management and curriculum design, which is somewhat relevant but lacks direct experience in software development, particularly with JavaScript, TypeScript, HTML, and CSS. While they express a strong interest in modern frameworks like React and demonstrate some knowledge of web security, they do not meet the essential technical requirements or have practical experience with the specified testing frameworks or tools.

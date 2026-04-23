@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant background experience as a Graphic Designer but lacks the specific technical skills required for the Front-End Developer position, such as proficiency in JavaScript, TypeScript, modern frameworks like React, and testing automation. Additionally, there is no mention of experience with Git or other required development tools and technologies. Their eagerness to learn is noted, but it may not be sufficient to offset the significant gaps in experience.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates strong alignment with several key requirements, including security awareness, Agile collaboration, and an eagerness to learn modern tools. However, the cover letter lacks explicit, direct experience with the core technologies listed in the job description, such as React, TypeScript, and modern testing frameworks, which are central to the role. Their background in C# and ASP.NET with jQuery shows a solid foundation but requires a significant transition to the specified modern frontend stack.

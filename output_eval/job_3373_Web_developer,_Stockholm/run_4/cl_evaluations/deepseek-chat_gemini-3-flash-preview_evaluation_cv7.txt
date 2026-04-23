@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with nearly all technical requirements, including React, TypeScript, testing frameworks, Git, and functional programming with Ramda. Their unique design background is a significant asset for UI/UX-focused development. The score is not a 9 because the cover letter mentions but does not strongly emphasize some listed tools like Terraform, and their experience with AWS and CI/CD is presented as basic understanding.

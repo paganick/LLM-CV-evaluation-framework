@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in test engineering, including some of the technologies mentioned (Git, testing frameworks, linters, formatters, CI/CD). However, the cover letter focuses heavily on hardware and system testing, while the job description is for a front-end role requiring JavaScript, TypeScript, HTML, CSS, and React experience, which the candidate only mentions indirectly. While the candidate expresses interest in web security and AWS, their core experience doesn't align well with the primary requirements.

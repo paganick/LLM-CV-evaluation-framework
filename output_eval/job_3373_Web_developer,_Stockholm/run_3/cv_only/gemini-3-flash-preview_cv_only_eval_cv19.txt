@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Graphic Designer whose background and skills do not align with the requirements for a modern Front-End Developer role. They lack experience with JavaScript frameworks, TypeScript, automated testing, and cloud infrastructure, which are core necessities for this position. Their technical expertise is focused on visual design and print media rather than software engineering or application development.

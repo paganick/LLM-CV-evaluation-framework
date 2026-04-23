@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the JavaScript/TypeScript, HTML, and CSS Developer role as described on your platform. With over three years of professional experience in software testing, particularly within Agile environments, I possess a solid foundation in modern web technologies and a keen interest in staying current with industry advancements, including frameworks like React.
+
+My background aligns well with your requirements. I have hands-on experience with JavaScript and HTML, essential for front-end development, and I am familiar with testing frameworks such as Jest or Cypress, which directly relates to your need for test automation expertise. My proficiency in Git and GitHub is well-established through my work managing code repositories and collaborating on projects.
+
+While my primary focus has been on testing, my technical skills include JavaScript, HTML, and CSS, and I have a foundational understanding of security principles relevant to web development. I am a strong collaborator, adept at working effectively within Agile teams and communicating with various stakeholders, as demonstrated through my experience in cross-functional meetings and process improvement initiatives.
+
+I am passionate about writing clean, maintainable code and keen to expand my expertise into modern front-end frameworks like React. My technical aptitude, combined with my interest in learning new technologies, makes me a strong candidate for this position. I am confident in my ability to contribute effectively to your team and look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

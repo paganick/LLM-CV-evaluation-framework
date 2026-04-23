@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no hands-on experience with JavaScript/TypeScript, React or other front-end frameworks, testing, Git, the Node ecosystem, or the other technical stack items required by the role, so they do not meet essential technical qualifications. Their strengths in project management, training, and communication are transferable but insufficient to compensate for the lack of core development skills. This profile could be considered only for an entry-level or apprenticeship pathway, not for the requested engineering position.

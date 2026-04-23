@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in backend Java, database administration, and legacy systems, with no demonstrated professional experience in modern frontend development, React, or the specific testing frameworks required. The resume and cover letter show a foundational understanding of web concepts but lack any concrete, recent experience with the core technologies listed in the job description (TypeScript, React, modern CSS tools, Jest/Cypress). The skills are outdated and misaligned with a specialized frontend role.

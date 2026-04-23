@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's professional background is heavily rooted in database and network administration, which fails to demonstrate the specialized front-end expertise required for this position. While they list several required technologies, they completely omit critical requirements such as web security protocols (OWASP/CORS), functional programming, and modern CSS tools like SASS or Styled Components. Additionally, the emphasis on legacy backend technologies like EJB and XML suggests a lack of depth in the modern React ecosystem.

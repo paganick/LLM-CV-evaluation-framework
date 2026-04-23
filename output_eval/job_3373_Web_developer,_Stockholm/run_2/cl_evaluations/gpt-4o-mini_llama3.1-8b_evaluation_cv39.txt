@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience as a Graphic Designer and familiarity with front-end technologies, they lack hands-on experience with key modern frameworks and tools mentioned in the job description such as React, testing frameworks, and CI/CD tools. Their experience is somewhat relevant, but does not meet the specific requirements needed for a strong candidate in this role.

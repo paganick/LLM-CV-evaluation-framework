@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer with no professional experience or demonstrated proficiency in the required technical stack, including JavaScript, TypeScript, React, or modern testing frameworks. Their background in visual arts and legacy tools like Dreamweaver and Flash does not translate to the engineering skills necessary for this frontend development role. The application fails to meet any of the core technical requirements listed in the job description.

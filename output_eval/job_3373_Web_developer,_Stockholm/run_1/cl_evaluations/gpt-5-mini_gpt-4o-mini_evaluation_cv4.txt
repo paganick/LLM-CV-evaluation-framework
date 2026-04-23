@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows solid JavaScript, HTML/CSS, testing (Jest), Git, and Agile experience, which are relevant to the role. However, they do not demonstrate TypeScript experience or concrete experience with React and modern CSS tools (Styled Components/SASS), and they lack evidence of CI/CD, AWS/Terraform, linters/formatters, functional programming (Ramda), and E2E testing — notable gaps for this position.

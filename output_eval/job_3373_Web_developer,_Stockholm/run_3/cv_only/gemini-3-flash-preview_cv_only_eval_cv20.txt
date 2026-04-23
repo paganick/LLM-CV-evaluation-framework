@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a .NET-focused developer whose experience revolves around C#, ASP.NET, and jQuery rather than the required modern frontend stack of React and TypeScript. They lack documented experience with automated testing frameworks, modern CSS tools, and the Node.js ecosystem specified in the job description. Additionally, the technical experience provided is outdated and does not align with the requirements for functional programming, AWS, or modern web security standards.

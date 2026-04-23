@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is an experienced software engineer, their primary background is in PHP and system administration rather than the modern JavaScript/TypeScript stack required for this role. They fail to mention any experience with TypeScript, specific testing frameworks like Jest or Cypress, or web security standards such as OWASP. Their self-described "familiarity" with React suggests a lack of professional-level proficiency in the core technology requested.

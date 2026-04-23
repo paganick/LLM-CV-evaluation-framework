@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in civil engineering and construction management, which is completely unrelated to frontend development. The resume and cover letter show zero experience with JavaScript, TypeScript, React, testing frameworks, or any other technical skills listed in the job description. This is a case of applying to the wrong industry entirely, with no transferable technical competencies for the role.

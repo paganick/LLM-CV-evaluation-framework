@@ -1,0 +1,16 @@
+Dear Hiring Manager,  
+
+I am excited to apply for the position that emphasizes JavaScript, TypeScript, and modern front-end frameworks such as React. With a robust background in sales and a passion for technology, I am eager to transition into a role that combines my management skills with my interest in programming and software development.
+
+Throughout my career as a Sales Director at JMF Solutions, I have honed my ability to analyze client needs and deliver effective solutions. My experience in maintaining client relationships and negotiating contracts demonstrates my strong communication skills and aptitude for collaboration. I am adept at working under pressure and leading teams toward set goals, which aligns well with your requirement for a strong collaborator comfortable in an Agile environment.
+
+While my primary experience has been in sales, I possess foundational knowledge in web development, including HTML and basic security concepts like OWASP and CSP. My coursework in Leadership & Cultural Studies has equipped me with strong analytical and critical thinking skills, essential for understanding complex domains. I am also familiar with tools such as Git, npm, and modern CSS technologies, which are vital for this role.
+
+I am particularly keen on writing clean, maintainable code and have engaged with HTML in my previous positions, where I contributed to content management and website optimization. Although I have not worked extensively with testing frameworks, my dedication to learning and professional development ensures I will swiftly absorb these skills, including framework tools such as Jest, Cypress, and TestCafe.
+
+I am motivated to stay updated with the latest technologies, as evidenced by my proactive efforts to understand the newest trends in the telecommunications sector. I deeply appreciate the importance of API design and am eager to broaden my knowledge base in the NodeJS ecosystem and CI/CD practices.
+
+The opportunity to join your organization excites me, as I am passionate about leveraging technology to drive results. I look forward to the possibility of contributing to your team and enhancing your front-end capabilities.
+
+Sincerely,  
+Alexis  

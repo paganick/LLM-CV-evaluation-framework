@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer with no professional experience in modern frontend development, React, or TypeScript. While they mention a foundational interest in web technologies, their actual career history is centered on COBOL, CICS, and DB2, which does not meet the technical requirements of this role. Furthermore, the lack of recent professional experience since 2014 makes them unqualified for a modern software engineering environment.

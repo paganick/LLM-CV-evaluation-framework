@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory professional experience in JavaScript, TypeScript, and React, admitting a need to "ramp up" on the core technologies required for this role. While they possess a strong background in data engineering and general testing, they do not demonstrate any hands-on proficiency with modern front-end styling, web security protocols, or UI-specific testing frameworks.

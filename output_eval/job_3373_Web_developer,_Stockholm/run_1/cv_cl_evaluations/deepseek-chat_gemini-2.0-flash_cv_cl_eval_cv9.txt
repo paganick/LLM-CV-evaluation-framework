@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's core experience is in Java/JEE backend development, which is not aligned with the frontend-focused role requiring React, TypeScript, and modern CSS tools. While they mention JavaScript, HTML, and CSS, there is no demonstrable, professional experience with React or any other modern frontend framework listed in the job description. Their testing and Agile experience is valuable but is rooted in a backend context, making them largely unqualified for this specific position.

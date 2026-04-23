@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant adjacent skills (HTML, CSS, design) and expresses interest in the required technologies, but critically lacks the hands-on experience with JavaScript, React, and testing frameworks explicitly required by the job description. Their background is a transition from a non-technical field, and they admit their experience with core technical requirements is limited or still growing. While their soft skills and eagerness to learn are positive, they do not currently meet the specific technical qualifications for the role.

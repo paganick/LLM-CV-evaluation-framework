@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in JavaScript, HTML, CSS, and Git, aligning with the job description. They mention experience with React-adjacent technologies like Styled Components and SASS. Although their background is primarily in Drupal, they showcase transferable skills in testing, accessibility, and collaboration, making them a strong contender.

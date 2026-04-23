@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant front-end experience and a strong foundational skill set in JavaScript, HTML, and CSS, with exposure to Agile and Git. However, they lack direct, professional experience with React, TypeScript, and modern front-end tooling, which are core requirements. Their strong collaborative experience, problem-solving skills, and eagerness to learn the modern stack make them a good, but not perfect, match for the role.

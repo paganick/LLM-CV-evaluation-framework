@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost entirely in aerospace/defense business development, sales, and quality engineering, with no demonstrated professional experience in modern front-end software engineering. The cover letter attempts to map past roles to the required technical skills (e.g., React, TypeScript, testing frameworks), but the resume provides zero evidence of hands-on development work with the specified technologies. This is a severe mismatch for a role requiring current, practical expertise in a modern React-based tech stack.

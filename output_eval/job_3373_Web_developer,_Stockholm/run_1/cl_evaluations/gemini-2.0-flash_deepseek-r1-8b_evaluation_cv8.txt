@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in hardware and systems testing, which is not the focus of the JavaScript-centric job description. While they express interest in web security and modern testing frameworks, their experience seems limited. The cover letter focuses on Python and hardware/system-level testing, making them a less suitable candidate for a front-end focused role.

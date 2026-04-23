@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a substantial background in information technology and web design, with relevant skills in JavaScript, HTML, and CSS. However, they lack specific experience with modern front-end frameworks, particularly React, and testing automation tools mentioned in the job description. While they have project management experience and a general understanding of the necessary technologies, their alignment with the specific requirements of the role is not strong enough for a higher score.

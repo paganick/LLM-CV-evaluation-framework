@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in Java/J2EE back-end development with legacy frameworks like Struts and EJB, which is a completely different tech stack from the required modern front-end role. The resume shows no experience with JavaScript, TypeScript, React, or any of the specified front-end libraries, testing frameworks, or modern tooling. While they have general software development experience, their skills are not relevant to this specific front-end position.

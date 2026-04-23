@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience and skills in JavaScript, TypeScript, HTML, CSS, and frontend frameworks like React, which align with the job requirements. However, the cover letter lacks mention of specific tools and technologies mentioned in the job description, such as modern CSS tools, testing frameworks, and CI/CD tools, which prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT generalist focused on hardware and networking rather than a professional software engineer specialized in modern front-end development. They lack any experience with the required tech stack, including React, TypeScript, and automated testing frameworks. Additionally, the resume reflects outdated technical skills and lacks the professional software development experience necessary for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with frontend technologies like HTML, CSS, and JavaScript, along with AngularJS experience. However, they lack explicit experience with React, TypeScript, and modern frontend frameworks mentioned in the job description. Their experience is primarily Java-centric with limited exposure to the specific tools and environment the job requires.

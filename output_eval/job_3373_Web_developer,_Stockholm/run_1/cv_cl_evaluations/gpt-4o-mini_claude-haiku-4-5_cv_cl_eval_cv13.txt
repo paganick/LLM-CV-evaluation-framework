@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant project management experience and a solid foundation in frontend development technologies like JavaScript, HTML, CSS, and Angular. However, they lack direct experience with React, specific testing frameworks, and some advanced modern tools mentioned in the job description. Their willingness to learn and adapt is evident, but they do not fully meet all the technical requirements.

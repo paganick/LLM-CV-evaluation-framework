@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital solutions and project management but lacks key front-end development skills such as proficiency in JavaScript, TypeScript, and modern frameworks like React. While they have experience with HTML and CSS, their background is more focused on digital marketing and software implementations rather than software engineering. Additionally, their testing experience does not align closely with the specific automated testing frameworks mentioned in the job description.

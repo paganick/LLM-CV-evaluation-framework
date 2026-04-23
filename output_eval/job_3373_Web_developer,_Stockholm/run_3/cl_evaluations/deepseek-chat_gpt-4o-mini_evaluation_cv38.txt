@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in media production, not professional software development, which is a significant mismatch for a front-end developer role. While they mention some relevant technologies, they lack demonstrated, hands-on experience with the core requirements like React, testing frameworks, and modern tooling. The letter is aspirational but does not provide concrete evidence of production-level coding skills or project experience that aligns with the job description.

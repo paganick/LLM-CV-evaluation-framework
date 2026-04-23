@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in HTML and CSS but lacks hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the role. Their background in digital marketing and Salesforce configuration does not align closely with the specific technical requirements of the job description. While they demonstrate project management and client-facing skills, they do not show sufficient technical expertise to be a strong candidate for this developer position.

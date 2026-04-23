@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development and sales professional who lacks any professional experience or demonstrated proficiency in the required technical stack, including JavaScript, TypeScript, and React. While they have worked in the software industry, their background is entirely non-technical, focusing on marketing and strategy rather than software engineering. They do not meet any of the core requirements for a front-end developer role.

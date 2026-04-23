@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a specialized Java/Enterprise developer whose technical expertise significantly deviates from the required modern frontend stack of React, TypeScript, and Node.js. Their experience is focused on backend services and legacy technologies like JSP and Struts, lacking any evidence of proficiency in the modern frameworks, CSS tooling, or specific testing libraries required for this role.

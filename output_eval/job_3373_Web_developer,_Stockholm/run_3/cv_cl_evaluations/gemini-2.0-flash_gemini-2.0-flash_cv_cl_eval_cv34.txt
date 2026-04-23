@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some familiarity with HTML and CSS, but lacks experience with Javascript, modern FE frameworks, testing, and other crucial requirements mentioned in the job description. Their background is primarily in implementation consulting for marketing platforms, making their skill set misaligned. While they express interest in learning, the resume and cover letter do not demonstrate sufficient existing knowledge.

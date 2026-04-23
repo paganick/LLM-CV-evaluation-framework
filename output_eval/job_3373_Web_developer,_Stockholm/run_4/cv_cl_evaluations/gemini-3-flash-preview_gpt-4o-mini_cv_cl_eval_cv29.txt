@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development and sales professional with no professional background or documented experience in software engineering. The resume fails to demonstrate any proficiency in the required technical stack, including JavaScript, TypeScript, or React, which are essential for this role. While the cover letter mentions a desire to transition into development, the candidate lacks the necessary hands-on experience and technical credentials to be considered qualified.

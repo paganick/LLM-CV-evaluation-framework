@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in microbiology and validation, not front-end engineering. While they highlight transferable skills like testing and documentation, there's no evidence of actual front-end development experience using the required technologies. The letter indicates a willingness to learn, but lacks demonstrable skills in JavaScript, React, or other FE frameworks mentioned in the job description.

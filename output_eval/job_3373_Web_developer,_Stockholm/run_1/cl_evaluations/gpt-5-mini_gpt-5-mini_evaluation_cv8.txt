@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong, relevant testing and automation experience, solid debugging skills, and proven cross-functional collaboration, which align with the role's emphasis on testing culture. However they explicitly state limited hands-on experience with JavaScript/TypeScript, React, modern front-end tooling (Node/npm, Styled Components/SASS), and front-end testing frameworks (Jest/Cypress), as well as no mention of web security or CI/CD — all key requirements. Their willingness to learn is noted but does not compensate for the immediate technical gaps.

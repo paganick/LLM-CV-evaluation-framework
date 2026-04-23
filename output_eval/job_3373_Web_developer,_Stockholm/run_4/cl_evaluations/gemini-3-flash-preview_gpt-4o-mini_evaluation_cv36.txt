@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer from microbiology with no professional experience in front-end development, failing to meet the requirement for hands-on technical expertise. They explicitly admit to lacking knowledge in core requirements such as web security, API design, and AWS, offering only a willingness to learn rather than proven proficiency. While they possess transferable soft skills from consulting, their technical profile is currently insufficient for a role requiring specific experience in testing automation and modern development workflows.

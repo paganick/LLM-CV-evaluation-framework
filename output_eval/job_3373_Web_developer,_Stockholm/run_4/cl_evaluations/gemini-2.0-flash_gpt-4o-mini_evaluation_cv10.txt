@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience with JavaScript and Agile environments, but their primary experience is with AngularJS, not React as preferred in the job description. They express interest in React, but lack demonstrable experience. The candidate also mentions familiarity with Node.js and API design, which are positives, but their AWS and Terraform experience is limited.

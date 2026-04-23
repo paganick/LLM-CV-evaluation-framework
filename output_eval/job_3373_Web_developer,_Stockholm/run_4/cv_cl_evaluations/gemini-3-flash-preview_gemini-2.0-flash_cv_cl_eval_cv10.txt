@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java-focused developer whose frontend experience is limited to legacy technologies like AngularJS and jQuery, failing to meet the core requirement for React and TypeScript. There is no evidence of experience with modern testing frameworks (Jest, Cypress), functional programming, or the Node.js ecosystem specified in the job description. The profile lacks the specific modern frontend expertise required to function as a specialist in this role.

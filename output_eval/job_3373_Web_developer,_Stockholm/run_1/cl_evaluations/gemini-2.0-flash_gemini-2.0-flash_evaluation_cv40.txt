@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in product management and marketing, not front-end development. While they mention a computer science background and experience leading development teams, the letter lacks evidence of hands-on coding skills and specific technologies listed in the job description (React, TypeScript, testing frameworks, etc.). The cover letter focuses on high-level management responsibilities rather than the required technical expertise.

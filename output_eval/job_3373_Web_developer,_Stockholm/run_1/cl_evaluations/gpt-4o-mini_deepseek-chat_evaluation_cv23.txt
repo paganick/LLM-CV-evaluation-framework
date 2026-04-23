@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in testing and validating technical systems, which aligns somewhat with the role of Front-End Developer. However, they lack direct experience with essential technologies such as TypeScript, modern FE frameworks like React, and specific testing frameworks like Jest, which are crucial for this position. Additionally, there is no mention of proficiency with Git, security knowledge, or CI/CD tools, which are significant gaps for the role.

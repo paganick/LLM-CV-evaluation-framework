@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong design experience, familiarity with HTML/CSS, workshop facilitation, and claims user research and prototyping experience, which are relevant to the role. However, the cover letter does not demonstrate commercial UX experience in an Agile environment, lacks any mention of Figma (highly desirable) or JS exposure, and provides no evidence of managing a UX roadmap, running sprints, or mentoring junior designers. These omissions mean the candidate is relevant but missing several key, stated requirements for a strong match.

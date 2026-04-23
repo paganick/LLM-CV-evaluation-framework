@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in software testing, not active front-end development, which is the core requirement. They lack demonstrated hands-on experience with TypeScript, React, and modern CSS tools explicitly listed in the job description. While they have relevant adjacent skills and a good attitude, the direct development experience gap is significant.

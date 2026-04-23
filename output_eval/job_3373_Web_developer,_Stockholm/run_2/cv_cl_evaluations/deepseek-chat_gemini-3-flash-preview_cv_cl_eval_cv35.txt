@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation, not software engineering, and they lack direct, professional experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks). While they demonstrate transferable skills like logic and problem-solving, they do not meet the specific technical requirements for a developer role. The application is a career transition attempt with insufficient evidence of hands-on coding proficiency in the required stack.

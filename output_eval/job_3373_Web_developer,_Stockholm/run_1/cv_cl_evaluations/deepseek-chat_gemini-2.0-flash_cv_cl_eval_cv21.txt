@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and mentions some required technologies like JavaScript, HTML, and CSS. However, the resume and cover letter lack specific, recent experience with the core technologies listed in the job description, particularly React, TypeScript, modern testing frameworks, and the specific security and tooling knowledge required. The experience is heavily weighted towards older .NET stack and freelance web design, not the modern front-end engineering focus of the role.

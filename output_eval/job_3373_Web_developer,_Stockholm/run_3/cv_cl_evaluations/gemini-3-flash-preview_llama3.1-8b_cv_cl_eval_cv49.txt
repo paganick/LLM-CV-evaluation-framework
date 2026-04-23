@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, as their background is in Data Analysis and Industrial Engineering rather than the required Front-end Engineering field. They lack all mandatory technical skills, including JavaScript, TypeScript, React, and modern CSS tools. Furthermore, the cover letter explicitly references a "Data Analyst" position, confirming a total mismatch with this job description.

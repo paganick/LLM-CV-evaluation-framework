@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in Java/J2EE, but lacks the specific experience in JavaScript, TypeScript, and modern front-end frameworks like React, which are crucial for the Technical Designer position. Additionally, the cover letter does not demonstrate familiarity with modern CSS tools, testing frameworks, or CI/CD tools mentioned in the job description. These gaps indicate that while the candidate has relevant experience, they do not meet the specific requirements of the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a strong background in data analysis and a relevant educational degree, they lack hands-on experience with specific frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. Their experience is more data-centric rather than focused on frontend engineering, which falls short of the technical requirements specified in the job description.

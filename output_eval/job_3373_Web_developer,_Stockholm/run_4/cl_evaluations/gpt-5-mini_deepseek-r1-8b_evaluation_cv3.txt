@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web skills (HTML/CSS/JavaScript), Git familiarity, and relevant academic projects, but their experience is primarily academic and they lack hands-on experience with React/TypeScript, modern JS tooling (Node/npm/Yarn), testing frameworks and test automation, modern CSS tools, and CI/CD. The job requires practical experience with React, testing, and a modern front-end ecosystem which the candidate does not demonstrate, so they are relevant to the industry but do not meet key required skills.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight customer service, sales, and management experience, but there is a complete absence of the technical skills listed in the job description. The candidate doesn't demonstrate any background in JavaScript, TypeScript, HTML, CSS, modern FE frameworks, testing, or related technologies. While the candidate expresses interest in learning, the lack of foundational technical skills makes them unsuitable for this role.

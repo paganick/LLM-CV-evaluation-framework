@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct professional experience with the core requirements of the role, specifically React, TypeScript, and modern frontend testing frameworks. While they possess a strong engineering background in hardware validation and QA, they are currently only "motivated to learn" the primary technologies requested in the job description. As a strict recruiter, I find the candidate unqualified for a frontend engineering position due to the absence of hands-on experience with web security, Git, and the Node.js ecosystem.

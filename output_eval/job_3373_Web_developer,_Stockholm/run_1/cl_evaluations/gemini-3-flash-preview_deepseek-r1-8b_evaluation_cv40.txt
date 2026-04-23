@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Product Manager applying for a highly technical Software Engineering role, representing a fundamental mismatch in required core competencies. There is no evidence of hands-on proficiency in the mandatory tech stack, such as JavaScript, React, or automated testing frameworks. While the candidate possesses relevant experience in Agile and product strategy, they are completely unqualified for a role that demands specific, senior-level coding expertise.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in front-end development, particularly with JavaScript, HTML, and modern frameworks like React. They demonstrate a solid understanding of testing automation, version control, and security principles, aligning well with the job's key requirements. However, the mention of mainframe technologies suggests a potential mismatch in focus and may indicate less familiarity with some of the modern tools and frameworks specified in the job description, such as CI/CD processes and specific testing frameworks.

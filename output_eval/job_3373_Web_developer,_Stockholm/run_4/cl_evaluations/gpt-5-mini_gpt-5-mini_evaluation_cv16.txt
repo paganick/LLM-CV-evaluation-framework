@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid JavaScript, HTML/CSS fundamentals, GitHub use, API and Agile experience, which are relevant to the role. However they lack demonstrated hands‑on experience with React, TypeScript, modern CSS tooling (SASS/Styled Components), testing frameworks and automation, NodeJS ecosystem, CI/CD, and concrete web security knowledge that the job explicitly requires. Given the clear gaps in core, immediate requirements despite willingness to learn, this is a relevant but underqualified match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some overlap with the required technologies, such as HTML and CSS, but lacks demonstrable experience with JavaScript, TypeScript, React, and testing frameworks. While the cover letter mentions familiarity with some front-end frameworks, the resume focuses heavily on presentation design and multimedia design, which are not the primary focus of the job description. The resume also does not showcase sufficient experience with Agile environments or other backend tools listed.

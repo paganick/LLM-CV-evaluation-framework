@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant soft skills and expresses a strong passion for frontend development, particularly with React. However, they lack hands-on experience with several key technical requirements such as JavaScript, TypeScript, modern CSS tools, testing frameworks, and familiarity with the NodeJS ecosystem, Git, and CI/CD tools. Their sales background does not translate effectively to the technical skills needed for the role.

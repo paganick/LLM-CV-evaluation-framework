@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in systems administration, lacking direct experience with JavaScript, TypeScript, and modern frontend frameworks like React. While the letter expresses a willingness to learn and highlights transferable skills, the absence of hands-on frontend development experience and specific examples of using the required technologies makes the candidate a weak match for the role. The candidate mentions familiarity with OWASP, but doesn't showcase skills with testing frameworks or CI/CD tools mentioned in the job description.

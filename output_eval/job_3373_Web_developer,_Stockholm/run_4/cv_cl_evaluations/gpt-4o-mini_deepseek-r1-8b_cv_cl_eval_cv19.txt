@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some relevant skills in HTML and CSS, as well as a background in graphic design. However, they lack direct experience with JavaScript, TypeScript, modern frontend frameworks (specifically React), and essential testing and automation practices. Their experience is largely creative rather than technical, which does not align closely with the requirements of the Frontend Developer position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced IT project manager but shows no demonstrable hands-on frontend development skills or experience with required technologies (JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Node.js, CI/CD). The cover letter emphasizes management and learning intent but provides no concrete examples of coding, frameworks, or automated testing work. Given the role’s requirement for practical frontend engineering experience, the candidate is not qualified.

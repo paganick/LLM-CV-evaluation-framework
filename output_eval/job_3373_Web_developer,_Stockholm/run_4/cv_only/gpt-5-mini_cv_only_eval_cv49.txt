@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a data analyst with expertise in R, SAS, Python, SQL and statistical modeling but shows no demonstrated experience in JavaScript/TypeScript, HTML/CSS or modern front-end frameworks like React. There is no evidence of front-end testing, Git/CI workflows, NodeJS ecosystem knowledge, or web security experience required for this role. This profile is in a different domain and is therefore completely unqualified for the position.

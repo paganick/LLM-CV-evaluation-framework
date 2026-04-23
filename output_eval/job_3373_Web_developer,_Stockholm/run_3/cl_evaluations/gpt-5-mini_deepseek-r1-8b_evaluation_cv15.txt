@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates basic front-end foundations (JavaScript, HTML, CSS), Git familiarity, and awareness of web security, but provides only vague or learning-oriented claims rather than demonstrated, hands-on experience with core requirements such as TypeScript, React, modern CSS tooling, the Node.js ecosystem, and test automation. Key items from the job (React, CI/CD, testing frameworks, Ramda/functional programming, AWS/Terraform) are not evidenced, so the fit is limited despite relevant industry background.

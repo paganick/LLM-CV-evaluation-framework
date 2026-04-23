@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is significantly outdated, with the last relevant role ending in 2017 and focusing on Java and database administration rather than modern frontend development. There is no evidence in the resume of professional experience with React, TypeScript, or modern CSS tools, which are core requirements for this position. While the cover letter mentions specific testing and CI/CD tools, these claims are unsubstantiated by the actual work history or the skills list provided in the resume.

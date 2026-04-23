@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills like Javascript, CSS, HTML, and Git, along with experience in testing. However, the resume lacks explicit mention of React (mentioned in the cover letter) and TypeScript, which are key requirements. The experience seems more geared towards PHP and older technologies, and the depth of knowledge in modern front-end development is questionable based on the provided materials.

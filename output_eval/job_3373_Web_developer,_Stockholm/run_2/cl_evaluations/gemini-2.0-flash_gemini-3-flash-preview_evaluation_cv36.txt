@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses a strong understanding of frontend technologies like React, TypeScript, and related tools mentioned in the job description. They demonstrate experience with testing methodologies, CI/CD, and collaboration in Agile environments. While the background is unconventional, the transferable skills and explicit mention of relevant tools like Jest, Cypress, CircleCI, and Styled Components make them a good match.

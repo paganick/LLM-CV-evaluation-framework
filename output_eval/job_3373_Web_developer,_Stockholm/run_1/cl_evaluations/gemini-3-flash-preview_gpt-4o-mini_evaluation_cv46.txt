@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary tech stack, specifically React and TypeScript, which are core requirements for this position. While they possess a relevant educational background and understanding of testing principles, their professional experience is primarily rooted in the Java ecosystem rather than modern front-end development. The application relies on a willingness to learn rather than demonstrated proficiency in the essential frameworks and tools listed in the job description.

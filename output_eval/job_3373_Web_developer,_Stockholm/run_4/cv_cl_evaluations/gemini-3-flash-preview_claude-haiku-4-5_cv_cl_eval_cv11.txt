@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance professional with no professional experience in frontend development or the core React/TypeScript stack required for the position. While they possess a relevant educational background and basic JavaScript knowledge, they lack hands-on experience with modern CSS tools, functional programming, and current frontend build ecosystems. Furthermore, the resume reflects a significant career gap or outdated professional history, with no experience listed beyond 2015.

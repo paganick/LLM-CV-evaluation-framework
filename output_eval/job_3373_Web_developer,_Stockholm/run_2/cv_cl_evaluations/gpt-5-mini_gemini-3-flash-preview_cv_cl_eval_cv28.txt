@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in materials analysis with no documented professional frontend development experience, projects, or technical details on the resume to verify claims. While the cover letter asserts knowledge of React, TypeScript, testing, Git, and CI/CD, these skills are not corroborated by the resume or concrete deliverables, so they lack the required hands-on frontend experience. Strong communication and Agile exposure are positives but do not compensate for the absence of proven, relevant technical work.

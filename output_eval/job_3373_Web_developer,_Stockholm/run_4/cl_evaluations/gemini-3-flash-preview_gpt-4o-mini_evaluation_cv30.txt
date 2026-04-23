@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses fundamental knowledge of JavaScript, HTML, and CSS, they lack professional experience with the required React framework and TypeScript language. Their background in testing is focused on data analysis (SQL/JMP) rather than the modern front-end automation tools like Jest or Cypress specified in the description. Additionally, the letter explicitly confirms a lack of experience in the NodeJS ecosystem and functional programming, categorizing them as a trainee-level match rather than a qualified developer for this specific stack.

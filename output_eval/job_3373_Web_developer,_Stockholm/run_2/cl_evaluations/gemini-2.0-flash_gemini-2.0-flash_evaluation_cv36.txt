@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights transferable skills but fails to demonstrate any direct experience with the technologies listed in the job description (JavaScript, React, HTML, CSS, Git, etc.). While the candidate mentions a passion for new technologies, there's no evidence of actual frontend development skills or projects. The background in microbiology and consulting is a significant departure from the requirements.

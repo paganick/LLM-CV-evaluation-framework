@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in graphic design and some relevant web development skills, particularly in HTML and CSS. However, they lack hands-on experience with modern frameworks such as React or VueJS, and do not mention the ability to work with testing automation tools beyond Jest. Their knowledge of security principles is basic, and there's limited evidence of proficiency in CI/CD tools, NodeJS, or API design, which are emphasized in the job description.

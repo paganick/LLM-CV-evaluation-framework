@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Graphic Designer with a background in manual labor and military service, completely lacking the professional software engineering experience required for this role. While they possess basic HTML/CSS knowledge from their design studies, they lack any mention of JavaScript, TypeScript, React, or modern development workflows. This profile represents a wrong industry fit for a specialized frontend engineering position.

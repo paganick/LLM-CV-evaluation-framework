@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid web development experience (JavaScript, HTML/CSS, Node.js, Jest, Git) and collaboration in Agile teams, which is relevant to the role. However, the cover letter does not explicitly demonstrate hands-on experience with core requirements like React and TypeScript, nor does it provide specifics on modern CSS tools (Styled Components/SASS), E2E testing/automation, CI/CD, or cloud/infra (AWS/Terraform). Given these gaps against the job's stated priorities, the candidate is relevant but lacks several key skills.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in software testing but lacks specific front-end development skills that are crucial for this position, such as hands-on experience with JavaScript frameworks like React, Vue.js, or Angular. Additionally, the candidate does not demonstrate knowledge of test automation frameworks relevant to the role. Their experience mostly focuses on manual testing rather than development or front-end technologies stated in the job description.

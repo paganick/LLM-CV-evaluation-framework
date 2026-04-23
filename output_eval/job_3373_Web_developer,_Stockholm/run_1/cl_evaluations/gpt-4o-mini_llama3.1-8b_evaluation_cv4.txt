@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in software development with relevant experience in programming languages and tools. However, they lack explicit mention of TypeScript, experience with the specific testing frameworks mentioned, and basic web security knowledge, which are critical for this role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in a different domain (email marketing implementation and project management) and does not align with the core front-end development requirements. While they list basic HTML and CSS, they lack any experience with JavaScript, TypeScript, React, modern testing frameworks, or the other specified technical tools. Their skills are not transferable to this software engineering role.

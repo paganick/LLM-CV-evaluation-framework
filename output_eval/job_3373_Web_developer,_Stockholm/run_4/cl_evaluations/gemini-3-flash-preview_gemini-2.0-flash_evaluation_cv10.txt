@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks experience with the primary required technologies, specifically React and TypeScript, mentioning only legacy tools like AngularJS and jQuery. While they have an academic foundation and Agile experience, they fail to address key requirements such as web security, modern CSS preprocessors, or specific front-end testing frameworks. The profile leans more toward a generalist or QA background rather than a specialist in modern front-end development.

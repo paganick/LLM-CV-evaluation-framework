@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in software development, particularly in mainframe technologies and database management, but lacks direct experience with modern frontend frameworks like React, as specified in the job description. While they have some knowledge of HTML and JavaScript, their focus has primarily been on backend systems. Their willingness to transition to a frontend role is promising, but the lack of hands-on experience with the required technologies and testing frameworks prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong product management and media-domain experience, along with leadership and Agile practices, which are relevant to the company and team. However, the cover letter contains no concrete evidence of hands-on front-end engineering skills required for the role (JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Git/Node ecosystem, CI/CD, security practices), so they lack the specific technical qualifications needed to be considered a strong fit.

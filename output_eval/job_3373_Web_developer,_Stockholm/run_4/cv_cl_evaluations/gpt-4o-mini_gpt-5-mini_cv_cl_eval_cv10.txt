@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate exhibits a solid background in web development and has experience with Java, HTML, CSS, and AngularJS which is relevant to the role. However, they lack specific experience with React, modern CSS tools, and testing frameworks mentioned in the job description. Additionally, their familiarity with security practices and the NodeJS ecosystem appears limited, resulting in a score that reflects relevant foundational skills but insufficient specialization.

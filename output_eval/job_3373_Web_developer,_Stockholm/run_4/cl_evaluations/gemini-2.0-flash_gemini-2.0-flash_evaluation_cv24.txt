@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate admits a background outside front-end development, relying heavily on transferable skills and a willingness to learn. While they demonstrate a basic understanding of HTML, CSS, and JavaScript, there's a clear lack of experience with React, TypeScript, testing frameworks, and other key technologies mentioned in the job description. The cover letter focuses on soft skills rather than directly addressing the required technical expertise.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in data analysis and industrial engineering, not frontend development. The resume shows no professional experience with JavaScript, React, or any required frontend technologies, and the cover letter makes claims of proficiency without supporting evidence. This is a fundamental mismatch for a role requiring hands-on experience with modern frontend frameworks, testing, and specific tools.

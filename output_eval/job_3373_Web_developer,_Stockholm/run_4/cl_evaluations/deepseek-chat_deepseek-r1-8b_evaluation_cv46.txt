@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with the core technical requirements of the job description, including JavaScript, TypeScript, React, testing tools, Git, Agile, and specific security knowledge. They also mention relevant experience with CI/CD (CircleCI). The score is not higher because the cover letter does not address several desirable items from the description, such as modern CSS tools, Node.js ecosystem, functional programming, API design, AWS/Terraform, or the collaborative and inquisitive soft skills.

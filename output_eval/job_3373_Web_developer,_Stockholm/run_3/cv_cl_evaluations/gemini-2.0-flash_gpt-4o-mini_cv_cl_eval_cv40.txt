@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in product management, not software development. While the cover letter mentions familiarity with some relevant technologies, the resume lacks concrete evidence of hands-on coding experience with JavaScript, React, or other FE frameworks. The candidate also does not demonstrate experience with testing, CI/CD, or API design.

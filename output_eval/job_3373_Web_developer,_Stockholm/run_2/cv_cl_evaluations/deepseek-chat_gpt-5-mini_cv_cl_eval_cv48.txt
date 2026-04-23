@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT infrastructure and support, with no demonstrated professional experience in front-end development, JavaScript, React, or any of the required modern frameworks and testing tools listed in the job description. While they express motivation to learn, they lack the hands-on coding, testing, and framework experience that are the core requirements for the role. Their skills are from a different domain, making them unqualified for this specific front-end engineering position.

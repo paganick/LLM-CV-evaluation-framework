@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter showcases transferable skills from a microbiology background, but it completely lacks any mention of the required technologies (JavaScript, React, HTML, CSS, Git, etc.) listed in the job description. While soft skills like collaboration and project management are valuable, the absence of technical skills makes the candidate unqualified for a Frontend Developer position. The candidate expresses a willingness to learn, but the gap is too significant for immediate consideration.

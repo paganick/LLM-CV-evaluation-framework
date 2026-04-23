@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a strong background in JavaScript, HTML, and CSS. However, they lack direct experience with React, modern frameworks, specific testing frameworks mentioned like Jest or Cypress, and CI/CD familiarity. Overall, while partially qualified, they do not fully meet the specific requirements of the job description.

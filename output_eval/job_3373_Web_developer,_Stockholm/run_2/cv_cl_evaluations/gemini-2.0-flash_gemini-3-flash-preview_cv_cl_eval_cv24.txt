@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in digital communications, not frontend development. While they express interest and some self-learning in relevant technologies, the resume lacks demonstrable experience with JavaScript, React, TypeScript, and testing frameworks. The cover letter attempts to bridge the gap, but the lack of practical experience is a significant drawback.

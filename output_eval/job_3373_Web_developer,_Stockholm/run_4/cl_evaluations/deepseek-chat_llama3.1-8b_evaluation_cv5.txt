@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in legacy IBM Mainframe technologies (COBOL, CICS, DB2), which is a completely different technology stack and paradigm from the modern front-end and full-stack JavaScript role described. While they list some relevant keywords like JavaScript and HTML, the core of their 7-year expertise is misaligned. The job requires proficiency in React, TypeScript, modern tooling, and web security, for which the cover letter provides no substantiating experience.

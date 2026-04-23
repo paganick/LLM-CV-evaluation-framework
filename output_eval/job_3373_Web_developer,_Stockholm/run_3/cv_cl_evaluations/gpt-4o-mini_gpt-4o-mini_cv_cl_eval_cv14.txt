@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development and skills in HTML, CSS, and JavaScript, but their primary expertise lies in ASP.NET rather than JavaScript frameworks like React, which is a requirement of the job description. They do have familiarity with some modern technologies and mention a basic understanding of web security, which aligns with some of the role’s needs. Overall, they show potential but lack direct experience with the latest front-end technologies specified.

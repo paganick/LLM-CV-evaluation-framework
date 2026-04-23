@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has solid experience with JavaScript, HTML, CSS, and Node.js, along with a background in RESTful API design, which aligns well with the job description. However, there is no mention of specific experience with React, TypeScript, or modern CSS tools, which are critical for the role. Additionally, the candidate's testing experience is not detailed enough to determine their hands-on familiarity with the required frameworks and automation tools.

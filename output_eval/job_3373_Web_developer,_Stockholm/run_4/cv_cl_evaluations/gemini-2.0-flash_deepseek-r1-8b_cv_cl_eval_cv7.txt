@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost exclusively in graphic design, with no demonstrable experience in the required technologies (JavaScript, React, etc.). The cover letter attempts to bridge this gap but does not compensate for the lack of a relevant technical foundation. This candidate is unsuitable for a front-end development role.

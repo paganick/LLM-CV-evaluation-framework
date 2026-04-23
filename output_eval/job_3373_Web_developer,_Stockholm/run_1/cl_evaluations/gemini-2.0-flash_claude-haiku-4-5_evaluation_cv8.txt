@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks explicit experience with JavaScript, TypeScript, HTML, and CSS. While they mention a readiness to learn, they don't showcase existing projects or experience with React, which the job description specifically mentions. The letter focuses heavily on testing experience, but lacks clear examples of frontend development skills.

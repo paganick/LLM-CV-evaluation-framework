@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT, systems analysis and SDLC/validation experience but lacks demonstrated commercial UX design experience, UX portfolio, or explicit work in Agile product teams. There is no evidence of Figma, modern prototyping, user research (journey mapping, interviews, usability testing), or UI design system ownership in the resume; the cover letter assertions are not substantiated by documented UX roles. Some HTML experience is noted, but overall the profile is a technical systems background rather than a qualified UX designer for this role.

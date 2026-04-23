@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant industry experience in software development, they lack the specific professional depth required for a specialized Frontend Developer role, notably failing to mention TypeScript or modern CSS tools. The letter suggests a background primarily in backend and systems architecture, treating React as a tool they are "eager to apply" rather than one they have mastered. Additionally, the application fails to demonstrate hands-on experience with the specific testing frameworks or CI/CD tools requested in the job description.

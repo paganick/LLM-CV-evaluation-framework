@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant frontend skills (JavaScript, HTML, CSS) but is heavily focused on Drupal, which isn't the primary tech stack mentioned in the job description. While they express interest in learning the required technologies, their current experience doesn't strongly align with the job's core requirements, especially regarding modern FE frameworks like React. The cover letter attempts to bridge the gap, but the resume highlights a different skill set.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses the necessary academic background and basic JavaScript knowledge but fails to demonstrate experience with TypeScript and the specific framework required (React). Key technical competencies mentioned in the job description, such as web security standards (OWASP), functional programming, and advanced CSS tools, are entirely absent from the application. As a result, the applicant lacks the specific expertise needed to fulfill the role without significant training.

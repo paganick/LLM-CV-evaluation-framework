@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business banking, not software development, and they explicitly admit their technical foundation requires development. While they demonstrate strong soft skills and an understanding of the company's values, they lack any proven hands-on experience with the core technologies listed in the job description, such as JavaScript, React, testing frameworks, or modern tooling. Their potential is noted, but they currently do not meet the specific technical requirements for the role.

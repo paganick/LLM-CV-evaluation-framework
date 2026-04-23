@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is predominantly sales and management with only minimal technical mentions (basic HTML, Photoshop/Illustrator) on the resume and no verifiable frontend development roles or projects. Key requirements — hands-on experience with JavaScript/TypeScript, React, testing frameworks, NodeJS/npm, and CI/CD — are not demonstrated; the cover letter's technology claims are unsupported by concrete evidence. Strong soft skills and leadership do not compensate for the lack of required, demonstrable frontend engineering experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions familiarity with JavaScript, HTML, CSS, Git, and testing, which are relevant. However, they emphasize .NET experience, which is not a primary requirement. They don't mention React or other modern front-end frameworks, which are crucial for this role.

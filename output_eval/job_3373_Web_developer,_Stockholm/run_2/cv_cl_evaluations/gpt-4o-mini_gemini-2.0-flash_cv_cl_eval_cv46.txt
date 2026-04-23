@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and a background in key technologies such as JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks like React, as well as familiarity with testing frameworks and tools specifically mentioned in the job description. While they demonstrate a reasonable understanding of Agile collaboration and a passion for clean code, the specifics of their skills do not align closely enough with the requirements for this position.

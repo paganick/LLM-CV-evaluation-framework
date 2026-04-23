@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web fundamentals (HTML/CSS), Agile experience, security awareness (OWASP/CORS) and some familiarity with modern CSS tools, but provides no concrete evidence of hands-on JavaScript/TypeScript work, React experience, testing/test automation, Git/npm/Node ecosystem, CI/CD, or AWS — all of which are core to the role. Overall, a relevant candidate who lacks several specific, required front-end and tooling skills.

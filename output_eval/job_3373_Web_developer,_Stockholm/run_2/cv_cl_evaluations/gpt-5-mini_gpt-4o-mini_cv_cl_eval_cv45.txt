@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong enterprise IT and INFOSEC experience and claims familiarity with testing tools, Git, Node concepts, and web security, indicating adjacent relevant experience. However, the resume contains no concrete evidence of hands-on frontend development with JavaScript/TypeScript, HTML/CSS, React, modern CSS tooling, or measurable CI/CD/API work required by this role. Given the lack of documented frontend coding experience and deliverables, they are not a strong fit for a frontend developer position.

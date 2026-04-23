@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong QA/testing background and basic JavaScript/HTML/CSS knowledge with Agile experience, but lacks demonstrable hands-on front-end development experience with React, TypeScript, modern Node tooling, front-end testing frameworks (Jest/Cypress), CSS-in-JS/SASS, Git/GitHub workflows, CI/CD, and cloud/infra familiarity required for the role. They express willingness to learn but do not meet the specific technical requirements or show relevant production development experience, resulting in a low fit for this frontend developer position.

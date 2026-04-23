@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily systems administration and backend/infrastructure work with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS, frontend testing frameworks, or the NodeJS/ecosystem required for this role. They have relevant strengths in security (CompTIA Security+), troubleshooting, and cross-team collaboration, but those do not compensate for the lack of core frontend development skills. Significant upskilling would be required before they could perform effectively in this position.

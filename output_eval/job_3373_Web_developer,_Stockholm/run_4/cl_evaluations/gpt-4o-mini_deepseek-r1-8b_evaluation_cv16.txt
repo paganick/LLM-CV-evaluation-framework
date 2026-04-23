@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background in frontend development with skills in JavaScript, TypeScript, HTML, CSS, and familiarity with React. However, they lack specific mentions of experience with modern CSS tools, testing frameworks indicated in the job description, and do not address knowledge of web security practices, which leads to a moderate score.

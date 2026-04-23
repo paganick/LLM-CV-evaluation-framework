@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a strong general IT background and understanding of web security, they lack the required hands-on experience with the core technologies specified, including React, TypeScript, and automated testing frameworks. The letter explicitly positions these essential skills as areas for future growth rather than current professional competencies. As a result, the candidate fails to meet the primary technical requirements for a specialized frontend engineering role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in IT and software development, particularly in Java and related technologies. However, they lack the specified experience with modern front-end frameworks (particularly React) and testing tools relevant to the job description. While their collaborative and Agile skills are strong, the absence of direct experience with JavaScript, TypeScript, and the specific testing frameworks required lowers their suitability for the role.

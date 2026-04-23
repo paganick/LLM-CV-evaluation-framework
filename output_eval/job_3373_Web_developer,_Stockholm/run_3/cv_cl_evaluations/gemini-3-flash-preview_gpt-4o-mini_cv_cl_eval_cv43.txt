@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, with a background exclusively in program management and learning design rather than software development. They lack professional experience and fundamental proficiency in the required tech stack, including JavaScript, TypeScript, React, and automated testing frameworks. The application represents a total lack of the necessary technical prerequisites for a developer position.

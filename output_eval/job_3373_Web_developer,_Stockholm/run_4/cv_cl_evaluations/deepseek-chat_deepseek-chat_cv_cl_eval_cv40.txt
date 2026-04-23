@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's career is almost exclusively in senior product management and leadership, not hands-on front-end development. While they express a desire to pivot and claim foundational knowledge, the resume provides zero evidence of professional experience with the required technologies (React, TypeScript, testing frameworks) or recent hands-on coding. The profile is for a strategic business role, not a technical implementation role, making them unqualified for this developer position.

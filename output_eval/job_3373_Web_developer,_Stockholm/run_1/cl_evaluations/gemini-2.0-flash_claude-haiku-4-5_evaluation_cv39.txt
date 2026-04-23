@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate acknowledges a career transition and lacks direct experience with JavaScript, TypeScript, React, and testing frameworks mentioned in the job description. While they express willingness to learn, the current skillset doesn't align with the listed technical requirements. The cover letter highlights design skills rather than demonstrable frontend development abilities.

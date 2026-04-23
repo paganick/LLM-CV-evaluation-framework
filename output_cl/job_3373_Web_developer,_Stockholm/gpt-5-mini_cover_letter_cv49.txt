@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Frontend Engineer position. I am an Industrial and Systems Engineering graduate with an M.S. from Binghamton University and several years’ experience as a Data Analyst. My background combines rigorous software-oriented problem solving, statistical modeling and hands-on deployment work that position me to learn your React-based stack quickly and contribute productively to the team.
+
+In my current role as a Data Analyst I have designed, implemented and validated predictive models using R and Python, and deployed models into production. I have strong experience in data extraction, wrangling and visualization (SQL, MySQL, Tableau, Python pandas, Matplotlib) and I apply systematic testing and validation techniques—cross validation, holdout testing and statistical verification—to ensure reliability. These practices mirror unit and integration testing principles and reflect a disciplined approach to quality assurance.
+
+In consulting and cross-disciplinary roles I have worked with external partners and operations teams. As a consultant I developed and deployed a Random Forest model to classify customers for a self-storage company and I am currently building a reservation forecast model for Public Storage. Earlier, as a student manager and intern, I trained newcomers and redesigned assembly layouts using AutoCAD and simulation to improve throughput.
+
+My engineering education and Six Sigma Green Belt trained me to decompose complex domains, collaborate with stakeholders, and drive improvements through DMAIC. I have led projects such as customer classification using logistic regression and random forests, a simulation-based operational improvement for parking booths, and a Six Sigma study of manufacturing defects that required careful data analysis, control charting and process change management. Those projects required clear communication with cross-functional teams and translating analytical results into actionable product and process decisions.
+
+I am an avid learner and motivated to acquire modern frontend skills (JavaScript, TypeScript, React, CSS frameworks) and toolchains (testing frameworks, linters, Node/npm, CI/CD, and cloud infrastructure). I bring strong programming fundamentals, a disciplined testing mindset, and a collaborative work style that fits Agile teams. I am eager to apply my analytical rigor and rapid learning ability to build well-tested, maintainable front-end experiences for your users.
+
+Sincerely, Alexis

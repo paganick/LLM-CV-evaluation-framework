@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate claims React experience in the cover letter, the resume provides no professional evidence of its use, focusing instead on legacy PHP and C++ development. Critical requirements such as TypeScript, Node.js, and modern testing frameworks (Jest/Cypress) are entirely missing from the technical profile. The candidate’s background as an Electrical Engineer with heavy experience in scripting and database management does not align with the specific modern frontend engineering needs of this role.

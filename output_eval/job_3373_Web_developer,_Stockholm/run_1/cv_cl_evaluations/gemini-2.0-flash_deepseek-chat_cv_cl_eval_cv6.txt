@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Drupal background but lacks explicit, recent experience with React, a key requirement. While they express interest in modern FE frameworks, their proven experience is in a different ecosystem. The resume showcases older technologies like COBOL and LINC, further diluting the focus on the modern JavaScript stack outlined in the job description.

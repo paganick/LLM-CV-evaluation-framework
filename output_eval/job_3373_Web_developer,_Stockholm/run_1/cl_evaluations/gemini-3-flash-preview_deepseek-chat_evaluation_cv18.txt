@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the required modern front-end stack, specifically TypeScript, React, and automated testing tools like Jest or Cypress. While they have a long history in IT and systems consulting, their admission of needing to "deepen practical experience" in core requirements indicates they are not currently proficient in the primary tech stack. Their background is too generalist and legacy-focused for a specialized React-centric role, necessitating significant training and oversight.

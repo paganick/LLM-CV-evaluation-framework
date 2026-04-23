@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive experience in test automation and quality engineering, they lack professional proficiency in the core technical requirements of JavaScript, TypeScript, React, and CSS. The letter indicates a "readiness to learn" these technologies rather than current mastery, which does not meet the "hands-on experience" criteria specified in the job description. Despite strong soft skills and an engineering background, the absence of a frontend development portfolio or history makes them unqualified for a direct hire at this level.

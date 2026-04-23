@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks demonstrated professional experience with the core requirements of React and TypeScript, presenting instead as an ASP.NET developer seeking to transition into a modern frontend stack. There is no mention of hands-on experience with mandatory automated testing frameworks or functional programming tools like Ramda. While they show strong security awareness and collaborative skills, they do not currently possess the specific technical proficiency required for this role.

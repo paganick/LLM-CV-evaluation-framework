@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in sales and business development, particularly with software and technology solutions. However, the resume lacks explicit examples of working with the specific digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, or Design Consulting). While there is experience with enterprise clients, the depth in areas like architectural design review or leading workshops is not clearly evident.

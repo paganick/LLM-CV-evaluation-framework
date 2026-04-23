@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and expresses a strong interest in front-end development, but lacks specific experience with key front-end technologies such as JavaScript, TypeScript, HTML, and CSS, as well as modern frameworks like React. Additionally, there is no mention of experience with testing frameworks, version control systems, or web security, which are essential for the role.

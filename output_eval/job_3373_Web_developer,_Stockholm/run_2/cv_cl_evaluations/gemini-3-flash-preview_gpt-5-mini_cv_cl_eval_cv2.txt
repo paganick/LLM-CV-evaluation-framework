@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer and possesses no professional experience with the required React, TypeScript, or modern CSS frameworks. While they have a solid foundation in software engineering and Agile practices, they do not meet the core technical criteria for this modern front-end position.

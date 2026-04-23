@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume lacks almost all the required skills in the job description. While the candidate has some experience with HTML, they do not demonstrate proficiency in JavaScript, TypeScript, modern FE frameworks (React, VueJS, Angular, Svelte), or modern CSS tools. The candidate's experience is primarily in data analysis and environmental science, making them unsuitable for a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant technical and stakeholder-management experience (HTML, JavaScript, prototyping claims, client workshops, and team leadership) but lacks an explicit commercial UX Designer role and documented UX deliverables. There is no evidence of Figma or a UI Design System, limited/no CSS mention, and no concrete Agile/sprint experience on the resume. While transferable skills are present, the specific, demonstrable UX design and tooling experience required for this role is insufficient.

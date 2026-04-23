@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid foundation in front-end technologies, including React experience and a strong understanding of testing methodologies. Their experience with Agile, Git, and consuming RESTful services aligns well with the job description. While the candidate highlights experience with AngularJS instead of exclusively React, they express confidence in transitioning, making them a viable candidate.

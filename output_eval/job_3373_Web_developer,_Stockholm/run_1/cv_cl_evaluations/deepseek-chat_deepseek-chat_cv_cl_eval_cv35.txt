@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation, not professional software development, and lacks any demonstrated experience with the core technologies required (React, TypeScript, modern testing frameworks). While they mention HTML, CSS, and JavaScript in a basic templating context and show an understanding of Agile collaboration, they provide no evidence of building modern web applications or using the specific tools listed in the job description. This is a significant industry and skillset mismatch.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in software development and C#/.Net, but lacks professional experience with the core requirements of React and TypeScript. While they possess general JavaScript and API knowledge, their resume does not demonstrate proficiency in modern front-end tools, functional programming, or the specific testing frameworks and CI/CD tools requested. The profile is more aligned with backend and data-heavy development rather than the modern front-end engineering focus of this role.

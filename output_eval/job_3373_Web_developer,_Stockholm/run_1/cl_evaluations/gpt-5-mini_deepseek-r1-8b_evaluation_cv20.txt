@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience (HTML, CSS, JavaScript, Bootstrap), .NET integration, testing familiarity, Git, and Agile practices, which are useful for the role. However they lack core required skills—no React or TypeScript experience, no mention of modern tooling (Styled Components/SASS, Node/npm, Jest/Cypress, linters), and no stated knowledge of web security or CI/CD. As a result they are a relevant but underqualified candidate who would require significant upskilling to meet the job's expectations.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a technical engineering background and understands testing methodologies, they lack professional experience as a Frontend Engineer and do not demonstrate current proficiency in TypeScript, Web Security (OWASP/CORS), or functional programming. Most mentioned skills are aspirational or from a hardware/QA context, failing to meet the requirement for hands-on expertise in the specific frontend stack and CI/CD tools requested.

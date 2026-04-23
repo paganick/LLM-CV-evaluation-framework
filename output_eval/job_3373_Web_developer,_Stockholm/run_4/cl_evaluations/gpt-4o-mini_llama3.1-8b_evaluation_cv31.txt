@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant front-end development skills, including JavaScript, TypeScript, HTML, CSS, and experience with React. However, there is no mention of testing frameworks like Jest or TestCafe, awareness of web security concepts, or familiarity with AWS and Terraform, which are part of the job description. Despite these gaps, the blend of sales and technical skills makes them a strong candidate overall.

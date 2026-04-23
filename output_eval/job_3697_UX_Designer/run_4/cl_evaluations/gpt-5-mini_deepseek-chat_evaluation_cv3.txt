@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate meets several core requirements (3+ years design experience, formal design education, portfolio, Adobe skills, HTML/CSS knowledge, and describes prototyping and cross-functional collaboration). However they do not explicitly state UI/UX job title or the required wireframing tools (e.g., Wireframe.cc, InVision), nor provide concrete UX deliverables or measurable outcomes, so they fall short of fully satisfying the job's specific technical and tool requirements.

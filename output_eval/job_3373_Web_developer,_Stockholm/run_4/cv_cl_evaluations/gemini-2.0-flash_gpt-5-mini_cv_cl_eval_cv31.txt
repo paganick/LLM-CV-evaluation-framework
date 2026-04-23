@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, lacking the core technical skills (JavaScript, React, CSS) required for a Front-End Engineer role. While the cover letter mentions HTML and desktop publishing, it's not sufficient to compensate for the absence of modern FE framework experience. The resume focuses on sales accomplishments and management experience, making this candidate a poor fit for the job description.

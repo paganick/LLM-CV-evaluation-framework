@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT project management and infrastructure, not front-end software development. The resume shows no experience with JavaScript, TypeScript, React, modern CSS tools, testing frameworks, or any other specific technologies listed in the job description. This is a completely different role and skill set, making the candidate unqualified for this front-end engineering position.

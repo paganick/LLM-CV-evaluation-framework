@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant industry experience and familiarity with the required tech stack, their professional history is almost exclusively in product management and strategy rather than hands-on engineering. They lack documented experience as a primary developer, and most technical skills mentioned are described as "exposure" or "understanding" rather than professional-grade application. For a technical Frontend Engineer role, the candidate lacks the necessary proven track record of writing and maintaining production code.

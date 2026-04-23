@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering for electronics manufacturing, not front-end development. While they express interest in learning front-end technologies like React and TypeScript, their resume lacks demonstrable experience in these areas. Their cover letter focuses heavily on testing and quality assurance, which is only a small part of the job description.

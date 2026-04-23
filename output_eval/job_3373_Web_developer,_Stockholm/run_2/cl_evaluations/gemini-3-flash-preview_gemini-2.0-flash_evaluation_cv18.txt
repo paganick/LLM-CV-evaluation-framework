@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate boasts 18 years of IT experience, the cover letter is overly generic and fails to address specific technical requirements such as TypeScript, automated testing (Jest/Cypress), or web security protocols. The applicant mentions React only in passing and completely ignores the DevOps and functional programming needs outlined in the job description, suggesting a lack of specialized modern front-end expertise.

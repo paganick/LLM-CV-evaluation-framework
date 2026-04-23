@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases relevant experience with React, HTML, CSS, and JavaScript, aligning with the job requirements. They emphasize collaboration and Agile experience and demonstrate an interest in modern technologies and testing, also aligning with the job description. While they mention related technologies, the depth of hands-on experience with specific frameworks (Jest, Cypress, etc.) isn't fully detailed, preventing a higher score.

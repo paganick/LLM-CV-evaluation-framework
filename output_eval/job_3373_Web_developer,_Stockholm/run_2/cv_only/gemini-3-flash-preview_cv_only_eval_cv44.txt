@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a Presentation and UX/UI Designer whose profile does not align with the technical requirements for a Senior Frontend Engineer. While they possess a Computer Science degree and basic HTML/CSS knowledge, they lack professional experience with React, TypeScript, automated testing frameworks, and modern CI/CD pipelines. Their experience focuses on visual design and multimedia assets rather than the complex software development and API design required for this role.

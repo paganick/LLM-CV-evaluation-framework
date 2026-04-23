@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter is generic and fails to mention any of the specific technical skills, tools, or frameworks listed in the job description. It discusses irrelevant experience in choreography and educational programs, which are not applicable to a front-end development role. The candidate does not demonstrate the required background in JavaScript, React, testing, or Agile development practices, making them unqualified for this position.

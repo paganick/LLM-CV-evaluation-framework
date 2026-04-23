@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in project management and IT leadership rather than hands-on frontend engineering; the cover letter provides no concrete experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, or CI/CD. Mentioning familiarity with concepts via vendor interactions is insufficient for a role that requires practical, demonstrable development skills. While strong in process and collaboration, the applicant does not meet the core technical requirements for this position.

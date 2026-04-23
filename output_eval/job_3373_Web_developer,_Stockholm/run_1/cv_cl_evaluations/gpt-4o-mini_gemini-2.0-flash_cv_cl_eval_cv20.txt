@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has 2 years of experience in web development and is proficient in JavaScript, HTML, and CSS, which are relevant to the position. However, they lack specific experience with modern front-end frameworks like React, VueJS, or Angular, which are essential for the role. Additionally, while they mention testing and using Git, their familiarity with modern testing frameworks and other required technologies is unclear, indicating they are not fully qualified for the position.

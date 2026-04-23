@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer with no professional experience in software engineering or frontend development, specifically lacking any mention of React, TypeScript, or Git in their work history. Their background is exclusively in marketing automation and consulting, which does not align with the technical requirements of the role. While the cover letter expresses interest, the resume fails to demonstrate the required hands-on experience with modern JavaScript frameworks or standard testing libraries.

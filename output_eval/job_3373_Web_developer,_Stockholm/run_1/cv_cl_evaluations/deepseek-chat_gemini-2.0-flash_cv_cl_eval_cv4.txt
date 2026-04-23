@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific front-end skills required by the job description. There is no demonstrated experience with React, TypeScript, modern CSS tools, or the testing frameworks mentioned. While they have general software development and testing experience, their background is heavily skewed towards C#, .NET, and Python, not the modern JavaScript/React stack this role demands.

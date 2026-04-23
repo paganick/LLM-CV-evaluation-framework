@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a basic understanding of web technologies like HTML, CSS, and JavaScript but lacks specific experience with modern front-end frameworks (React, VueJS, Angular, Svelte) mentioned in the job description. While they claim experience with web development, the resume emphasizes systems administration and IT consulting, indicating a less focused skillset. The candidate also fails to mention experience with testing frameworks, CI/CD, or other modern tooling described in the job description.

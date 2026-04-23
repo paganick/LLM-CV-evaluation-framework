@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a good foundation in JavaScript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React as stated in the job description, despite mentioning interest. There's no mention of testing frameworks, CI/CD tools, or cloud experience. While the candidate expresses willingness to learn, the current skillset doesn't fully align with the requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java developer with legacy AngularJS experience, which does not meet the core requirement for modern React and TypeScript proficiency. They lack documented professional experience with the specified testing tools (Cypress, TestCafe), functional programming (Ramda), and cloud infrastructure (AWS/Terraform) mentioned in the job description. While the candidate has a strong academic background and general software knowledge, their technical stack is outdated and misaligned with the current modern front-end requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a veteran Graphic Designer attempting to transition into engineering, but their profile lacks professional evidence of critical requirements such as test automation, CI/CD, and API design. While they mention familiarity with front-end basics and security, they fail to demonstrate hands-on experience with the requested technical stack, including Node.js, functional programming, and AWS.

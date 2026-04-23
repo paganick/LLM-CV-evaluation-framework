@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web and test-automation experience (React, JavaScript, Selenium/Cucumber, Git, Agile) which aligns partially with the role, but crucial required skills are missing or unproven. There is no evidence of TypeScript, modern frontend tooling (Styled Components/SASS), Node/npm ecosystem experience, the specific JS testing frameworks (Jest/Cypress/TestCafe), CI/CD familiarity, or basic web security and AWS/Terraform knowledge. Given the gaps in several core, stated requirements, this is a relevant but underqualified match.

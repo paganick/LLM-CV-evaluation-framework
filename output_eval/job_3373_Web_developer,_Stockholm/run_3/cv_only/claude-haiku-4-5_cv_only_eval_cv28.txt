@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a Senior Materials Analyst with expertise in materials engineering, quality analysis, and manufacturing processes—a completely different industry and career path from frontend web development. The resume contains zero relevant technical skills for the position, including no JavaScript, TypeScript, React, testing frameworks, Git, CSS tools, CI/CD, or any web development experience. This is a wrong-industry candidate with no transferable technical competencies for a frontend engineer role.

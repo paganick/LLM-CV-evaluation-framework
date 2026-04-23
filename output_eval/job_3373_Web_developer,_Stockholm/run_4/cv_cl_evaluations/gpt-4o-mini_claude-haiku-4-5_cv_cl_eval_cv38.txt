@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows some foundational knowledge of web technologies from their media production experience but lacks specific expertise in JavaScript, TypeScript, and modern frontend frameworks like React, which are essential for the role. Additionally, they do not demonstrate hands-on experience with testing frameworks, Git, or the other tools included in the job description. Overall, while they have relevant industry experience, they lack critical technical skills for this position.

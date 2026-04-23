@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s technical profile is significantly outdated, focusing on legacy technologies like Flash, ActionScript, and Dreamweaver rather than the required modern stack of React and TypeScript. They lack any professional experience in web development, having spent the last 15 years in the construction industry, and do not possess the mandatory skills for automated testing, CI/CD, or cloud infrastructure. Consequently, they are unqualified for this role as they lack both the specific modern expertise and the relevant commercial experience required.

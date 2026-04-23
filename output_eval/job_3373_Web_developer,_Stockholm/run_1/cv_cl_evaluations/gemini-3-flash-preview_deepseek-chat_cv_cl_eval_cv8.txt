@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is rooted entirely in hardware electronics and manufacturing test engineering rather than software development. The resume lacks any professional history or technical skills related to JavaScript, React, or modern front-end frameworks required by the job description. While the cover letter mentions self-study, the lack of professional application in the web development industry makes the candidate unqualified for this role.

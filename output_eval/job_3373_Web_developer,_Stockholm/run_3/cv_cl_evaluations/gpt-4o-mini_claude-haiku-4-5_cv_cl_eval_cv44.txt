@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and a solid foundation in HTML and CSS, which are relevant to frontend development. However, they lack specific hands-on experience with JavaScript, TypeScript, and modern frontend frameworks like React, which are essential for the role. Their experience with testing methodologies is also limited, and there is no clear evidence of proficiency with tools like Jest or Cypress.

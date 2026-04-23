@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, with no professional experience in modern frontend development, React, TypeScript, or testing frameworks. While they mention HTML/CSS and a desire to learn, they lack the hands-on experience with the core technologies and methodologies listed in the job description. The application demonstrates a significant career pivot but does not meet the specific technical requirements for the role.

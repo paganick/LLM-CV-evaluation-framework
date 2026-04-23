@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a program manager/learning designer background with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React (or other modern front-end frameworks), testing, Git, NodeJS, or related web security and DevOps tooling required by the role. The only technical skill listed is intermediate R, which is irrelevant to the front-end developer requirements, making the candidate unsuitable for this position.

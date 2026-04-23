@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+With a robust background in engineering, quality assurance, and data analytics, I am excited to apply for the software engineering position. My career has been defined by a commitment to technical excellence and a genuine passion for writing (truly) clean, efficient code. Having navigated complex environments across manufacturing, IT, and higher education, I possess the adaptability and technical foundation required to excel within your Agile development team.
+
+The job description emphasizes a need for proficiency in JavaScript, TypeScript, and modern frameworks like React. My technical repertoire includes hands-on experience with ASP.NET 4.5, C#, and HTML, providing a strong structural foundation for web development. Furthermore, my Master of Science in Analytics involved intensive work with Python and SQL. This analytical background, highlighted by a 4.0 GPA, enables me to understand the full domain and data layers. During my graduate studies, I leveraged predictive modeling for the UNH hockey team and crime mapping projects, achieving a 90% accuracy rate. I am eager to apply this logic-driven mindset to your React-based frontend architecture.
+
+In my previous role as an Engineering and Quality Technician, I focused on identifying product defects and ensuring system stability using Oracle and Microsoft SQL. This experience instilled in me a rigorous approach to testing and quality. I understand that modern development requires comprehensive test automation, including unit and integration tests. My history of adjusting production processes to improve quality rate by 10% reflects the mindset needed to implement Jest, Cypress, and CI/CD pipelines effectively. I am committed to maintaining repository integrity and security.
+
+Collaboration is at the heart of my professional approach. As a former Lecturer and project lead, I have managed teams of four and coordinated with diverse stakeholders, including scientists and engineers, to achieve complex goals. Whether it is discussing API design with backend teams or navigating security protocols like OAuth and CSP, I am comfortable communicating across technical boundaries. My familiarity with Git and GitHub, combined with an eagerness to master modern tools like SASS, Ramda, and AWS, makes me a versatile candidate.
+
+I am highly motivated to contribute to your team's success. I bring a truly unique blend of statistical analysis and engineering precision to the world of software development. Thank you for your time and thoughtful consideration of my application for this specific role. I look forward to the possibility of discussing my qualifications with you further.
+
+Sincerely,
+Alexis

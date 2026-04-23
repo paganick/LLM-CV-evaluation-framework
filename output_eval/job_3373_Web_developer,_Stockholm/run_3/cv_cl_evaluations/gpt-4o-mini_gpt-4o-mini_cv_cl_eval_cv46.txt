@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and a foundational knowledge of JavaScript, HTML, and CSS, but lacks exposure to modern frontend frameworks specifically mentioned in the job description, such as React. Their experience with testing and collaboration in Agile environments is noted, but the candidate does not demonstrate hands-on experience with the required testing frameworks or tools, which limits their suitability for the position.

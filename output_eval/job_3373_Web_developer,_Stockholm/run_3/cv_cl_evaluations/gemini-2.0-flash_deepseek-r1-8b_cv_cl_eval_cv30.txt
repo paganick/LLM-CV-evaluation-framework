@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and quality assurance, not front-end development. While they express interest and adaptability, they lack the core skills in JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), HTML, and CSS as required by the job description. Their experience in ASP.NET and C# is not directly relevant to the technologies listed in the job description.

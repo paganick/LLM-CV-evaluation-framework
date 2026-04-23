@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analytics and systems engineering, but lacks direct experience with essential frontend technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. While their analytical skills are a plus, they demonstrate limited hands-on experience with testing frameworks, Git, and the specific tools mentioned in the job description. Overall, they have relevant industry experience but do not possess the essential skills needed for this frontend developer role.

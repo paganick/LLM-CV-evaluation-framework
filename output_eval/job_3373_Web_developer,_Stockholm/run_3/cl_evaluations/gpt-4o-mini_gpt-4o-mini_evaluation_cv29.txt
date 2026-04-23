@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in the cloud software industry and shows a keen interest in web technologies, particularly JavaScript and React. However, they lack hands-on experience with specific modern frameworks, testing frameworks, and CI/CD tools mentioned in the job description. Their background predominantly in business development may present challenges in transitioning to a technical role without direct front-end development experience.

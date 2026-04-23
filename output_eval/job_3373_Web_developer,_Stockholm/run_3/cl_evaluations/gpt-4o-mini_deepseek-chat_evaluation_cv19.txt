@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in HTML, CSS, and JavaScript, along with knowledge of React, which aligns with the job requirements. However, they lack specific experience with the other technologies and frameworks mentioned in the job description, such as testing frameworks and CI/CD tools, which are essential for the role. Additionally, there is no mention of security knowledge, which is a significant component of the position.

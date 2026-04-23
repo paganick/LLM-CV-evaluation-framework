@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant full-stack experience and strong academic credentials, they lack professional experience with the required modern frontend stack, specifically React and TypeScript. Their background is heavily focused on legacy technologies like ASP.NET MVC and jQuery, and they fail to demonstrate hands-on proficiency with automated testing frameworks or modern CSS tools mentioned in the job description. As a result, they do not meet the core technical requirements for a specialized Frontend Developer role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant skills in JavaScript, TypeScript, HTML, CSS, and React, which align with the job requirements. However, they lack specific experience with some modern CSS tools, testing frameworks mentioned, and CI/CD tools, which lowers their overall match to the position.

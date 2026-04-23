@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong sales background with some transferable skills but lacks the necessary technical experience in JavaScript, TypeScript, testing frameworks, and modern frontend development tools mentioned in the job description. While the passion for learning and a foundational understanding of HTML are noted, the absence of relevant hands-on experience in critical technologies significantly limits their qualifications for the role.

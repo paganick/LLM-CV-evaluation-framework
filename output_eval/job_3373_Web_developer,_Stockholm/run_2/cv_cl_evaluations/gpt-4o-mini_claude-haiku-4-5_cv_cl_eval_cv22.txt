@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with HTML and CSS and has taken steps towards learning frontend development, but lacks substantial experience in JavaScript, modern frameworks like React, and testing frameworks. Their background in marketing and media does not align well with the technical focus of the role, which results in a lack of required specific skills and experience related to the job description.

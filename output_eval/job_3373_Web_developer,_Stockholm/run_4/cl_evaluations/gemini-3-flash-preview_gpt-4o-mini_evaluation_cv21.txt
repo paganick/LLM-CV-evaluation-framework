@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks experience with TypeScript and React, which are primary technical requirements, instead highlighting the legacy AngularJS framework. While they demonstrate proficiency in testing, Agile methodologies, and peripheral tools like AWS and Terraform, they fail to mention essential web security knowledge such as OWASP or CORS. This misalignment in the core tech stack makes them a risky choice despite their general industry experience.

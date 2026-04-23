@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundation in relevant technologies like JavaScript, HTML, and CSS. However, the limited professional experience with React, a key requirement, and the lack of explicit mention of testing frameworks or CI/CD tools, which are also listed as requirements, significantly weakens the application. While the candidate highlights general IT skills and project management experience, the cover letter needs more direct alignment with the specific front-end developer role.

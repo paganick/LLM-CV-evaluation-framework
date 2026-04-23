@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic front-end fundamentals (JavaScript, HTML, CSS) and Git plus Agile experience, but their background is predominantly .NET/jQuery rather than modern front-end stacks. They lack key required skills such as React and TypeScript, testing/test-automation experience (Jest/Cypress), familiarity with the Node/npm ecosystem, modern CSS tools (Styled Components/SASS), and CI/CD/cloud knowledge. Given these gaps, they are in the relevant industry but do not meet the specific technical requirements for this role.

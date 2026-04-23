@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in product management and has implemented Agile methodologies, which is relevant to the industry. However, they lack hands-on experience with JavaScript, TypeScript, modern front-end frameworks, testing practices, and specific security knowledge as outlined in the job description. Overall, while they are from a relevant background, they do not possess the necessary technical skills to fulfill the role effectively.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically React and TypeScript, possessing only legacy experience in AngularJS and jQuery. There is no evidence of proficiency in modern testing frameworks like Jest or Cypress, nor familiarity with CI/CD tools or the NodeJS ecosystem. Additionally, the candidate misidentifies "Action Word Script" as "AWS" in their cover letter, further demonstrating a significant gap in knowledge regarding the required cloud infrastructure (Amazon Web Services).

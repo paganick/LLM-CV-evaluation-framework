@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics and hardware testing, not professional front-end software development. While they mention some relevant keywords (JavaScript, React, testing), their resume shows no commercial experience building web applications with modern frameworks or libraries. The core requirements for hands-on React development, modern CSS tools, and functional programming are not demonstrated through professional work history.

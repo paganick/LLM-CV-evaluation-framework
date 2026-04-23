@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on front-end development. While they mention basic JavaScript, HTML, and CSS, they lack demonstrable, recent production experience with React, TypeScript, modern testing frameworks, and the specific toolchain listed in the job description. Their strategic and collaborative skills are strong, but the core technical requirements for the developer role are not met.

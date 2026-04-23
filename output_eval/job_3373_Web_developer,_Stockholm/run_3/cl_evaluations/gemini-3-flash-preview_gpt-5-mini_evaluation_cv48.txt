@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience in IT infrastructure and security, they fail to demonstrate professional proficiency in the core technical requirements of JavaScript, TypeScript, and React. The letter highlights a desire to learn these technologies rather than providing evidence of hands-on experience with front-end development, modern testing frameworks, or version control systems. As a result, the candidate is underqualified for an engineering role that requires immediate contribution to a production codebase.

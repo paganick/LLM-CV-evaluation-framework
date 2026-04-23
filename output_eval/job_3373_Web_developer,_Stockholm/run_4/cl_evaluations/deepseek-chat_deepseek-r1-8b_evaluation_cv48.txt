@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT support and systems administration, not software development, which is a significant mismatch for a frontend engineering role. They explicitly lack direct experience with the core required technologies (JavaScript, TypeScript, React) and the listed testing frameworks. While they demonstrate a good attitude and some transferable skills, they do not meet the specific technical requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a background in web development using JavaScript, HTML, and CSS, but their experience is primarily within the .NET ecosystem, not modern FE frameworks. While they express interest in React, TypeScript, and other desired technologies, their resume lacks concrete experience with them. Their experience is also limited to 2 years.

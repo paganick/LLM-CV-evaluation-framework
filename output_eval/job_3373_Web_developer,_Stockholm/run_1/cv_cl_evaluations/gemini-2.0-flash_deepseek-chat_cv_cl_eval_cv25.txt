@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking substantial experience with the core technologies listed in the job description like JavaScript, TypeScript, React, and testing frameworks. While they mention HTML and CSS proficiency and a willingness to learn, the resume doesn't reflect the necessary front-end development expertise for the role. Their skills are more aligned with design principles than the required development practices.

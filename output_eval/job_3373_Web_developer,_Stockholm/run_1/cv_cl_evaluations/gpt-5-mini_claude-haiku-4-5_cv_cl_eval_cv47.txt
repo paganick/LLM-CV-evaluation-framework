@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in business development with only minimal technical exposure (HTML, Dreamweaver, C/C++) and no demonstrated experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Git, NodeJS, or CI/CD which are core requirements for this frontend role. While they show transferable strengths (collaboration, learning aptitude, and analytical rigor), their current technical skillset and hands-on experience are insufficient for the position.

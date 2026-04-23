@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the web design industry, they lack nearly all the core technical proficiencies required for this engineering role, such as JavaScript, TypeScript, and React. The letter explicitly admits a need to learn the fundamental technologies listed in the job description, making them an entry-level developer at best for a position requiring complex testing, CI/CD, and API design. There is no evidence of experience with version control, web security, or modern front-end workflows.

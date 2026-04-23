@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and multimedia, with limited demonstrable experience in modern front-end development. While they possess basic HTML and CSS skills, they lack experience with Javascript, Typescript, React, testing frameworks, and other key technologies listed in the job description. Their cover letter expresses a willingness to learn, but the current skill set doesn't align with the requirements.

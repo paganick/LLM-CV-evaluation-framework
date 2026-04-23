@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Spring backend developer and test automation engineer, whereas the role requires a specialized modern frontend engineer. While they list React and SASS, they lack experience with critical requirements including TypeScript, modern JavaScript testing frameworks like Jest or Cypress, and functional programming. Their professional experience is significantly more aligned with backend systems and Selenium-based automation than with the modern React ecosystem specified in the job description.

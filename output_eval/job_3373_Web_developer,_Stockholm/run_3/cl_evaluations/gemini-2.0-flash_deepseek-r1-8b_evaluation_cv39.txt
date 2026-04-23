@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights graphic design and general web design experience, but lacks specific mention of the key technologies listed in the job description, such as JavaScript, React, and testing frameworks. While they mention "clean code," they don't provide evidence of practical experience with the required tools or a focus on front-end development. The letter focuses heavily on design principles rather than demonstrable coding skills necessary for this role.

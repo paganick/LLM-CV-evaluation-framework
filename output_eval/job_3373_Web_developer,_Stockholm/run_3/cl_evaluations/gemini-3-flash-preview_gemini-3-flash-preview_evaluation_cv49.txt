@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks documented professional experience with the core requirements of JavaScript, TypeScript, HTML, and CSS, having primarily worked with Python, R, and SQL in data-focused roles. While they demonstrate a strong theoretical understanding of functional programming and testing, they fail to provide evidence of building or maintaining production-level frontend applications. Their background in industrial engineering and data analysis makes them a career-changer rather than a qualified frontend specialist for this specific role.

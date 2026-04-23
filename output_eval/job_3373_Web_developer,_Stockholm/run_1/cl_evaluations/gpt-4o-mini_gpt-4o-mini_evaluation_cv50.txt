@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and client relations but lacks direct software development experience as a Front-End Developer. While they are familiar with some required technologies like JavaScript, TypeScript, HTML, and CSS, they do not mention experience with some key tools and frameworks in the job description, such as Git, API design, or the specific modern CSS tools and testing frameworks listed. More technical alignment is needed for a stronger score.

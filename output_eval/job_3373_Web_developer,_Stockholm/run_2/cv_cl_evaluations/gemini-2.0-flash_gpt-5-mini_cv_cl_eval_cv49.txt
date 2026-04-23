@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, not frontend development. While the cover letter expresses interest in learning frontend technologies, the resume lacks demonstrable experience with JavaScript, React, or other relevant frontend skills mentioned in the job description. Their experience with Python and R might be tangentially useful, but it doesn't compensate for the lack of direct frontend experience.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's primary expertise is in Java/JEE back-end development, with minimal front-end experience limited to basic HTML and JavaScript. The job description requires deep proficiency in modern front-end frameworks (React), TypeScript, CSS tools, and specific testing libraries, which the candidate's resume does not demonstrate. While there is some overlap in Agile methodology and concepts like OAuth, the core technical skill set is a significant mismatch for the front-end focused role.

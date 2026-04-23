@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and lacks the required front-end development experience. While they express interest in React and related technologies, their resume doesn't demonstrate practical experience with JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. Their listed skills are more aligned with data analysis tools than web development.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is focused on hardware/test engineering and electronics manufacturing with no evidence of JavaScript/TypeScript, HTML/CSS, React or other modern frontend framework experience required by the role. It also lacks any mention of frontend testing frameworks, Git/GitHub workflow, Node/npm, modern CSS tooling or web security knowledge. The candidate’s Python and embedded test skills do not match the web frontend and tooling expectations, making them completely unqualified for this position.

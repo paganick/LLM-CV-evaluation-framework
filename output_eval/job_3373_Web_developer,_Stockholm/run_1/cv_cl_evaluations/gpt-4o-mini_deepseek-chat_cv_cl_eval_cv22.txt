@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has shifted from a media planning background to a technology-focused role and is pursuing a Master's in Management Information Systems. While they possess some relevant skills in HTML, CSS, and Java, they lack direct experience with modern front-end frameworks like React, as well as hands-on experience with testing automation or specific tools mentioned in the job description. Their collaborative experience is valuable, but the technical shortcomings limit their overall fit for this role.

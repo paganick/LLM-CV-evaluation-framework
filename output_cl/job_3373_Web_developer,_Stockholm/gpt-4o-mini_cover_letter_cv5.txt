@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end developer position, as advertised. With over 7 years of experience in software development, including hands-on experience in JavaScript and HTML, I possess the technical aptitude and collaborative spirit essential for success in your Agile team environment.
+
+Having recently acquired skills in modern front-end frameworks, particularly React, I am eager to leverage my background in programming alongside my practical experience in test automation, including unit and integration tests. My familiarity with Git and version control systems like GitHub positions me to manage code efficiently and contribute to your project's continuous integration/continuous delivery (CI/CD) processes.
+
+I have a strong commitment to clean code and quality development practices and have effectively implemented coding standards and testing frameworks, including ESLint and Prettier, in prior roles. Although my primary expertise lies in mainframe technologies, I have a solid understanding of web security principles, including OWASP and CORS, and am enthusiastic about continuing to expand my knowledge in this area.
+
+My experience in the banking and financial sectors has endowed me with significant exposure to diverse teams and cross-functional collaboration, ensuring that I can communicate effectively with stakeholders and external partners. I understand the importance of collaborative problem-solving and proactively seek to grasp the full domain of projects, even in areas outside my direct expertise.
+
+I am passionate about staying abreast of the latest technologies and methodologies. My background in modern CSS tools, like SASS, and basic familiarity with the Node.js ecosystem will be advantageous in contributing to your development efforts, as will my analytical skills and experience in database management with tools such as DB2.
+
+I am excited about the opportunity to bring my unique blend of skills and experience to your team and contribute to innovative projects that drive success.
+
+Sincerely, Alexis

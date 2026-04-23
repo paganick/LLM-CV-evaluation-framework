@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing and public relations, which is not directly relevant to the technical requirements of the Front End Developer position. Although they express familiarity with JavaScript, React, and testing frameworks, their resume lacks extensive hands-on experience in web development, particularly in the specific technologies and practices outlined in the job description, such as CI/CD tools and AWS knowledge. Overall, while they have some relevant skills, they do not fully meet the job requirements.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates a strong understanding of frontend development principles and a commitment to learning key technologies such as JavaScript and React, they lack hands-on experience with critical tools and frameworks mentioned in the job description, such as testing frameworks and modern CSS tools. Their background as a Graphic Designer provides a unique perspective, but specific technical experiences necessary for the role are not fully met.

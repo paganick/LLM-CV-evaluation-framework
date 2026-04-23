@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, and CSS, but lacks specific mention of TypeScript and React, which are key requirements. While the cover letter mentions familiarity with modern CSS tools and Node.js, the resume lacks explicit examples. The candidate's experience with testing frameworks is a positive, but the absence of details regarding modern FE frameworks lowers the score.

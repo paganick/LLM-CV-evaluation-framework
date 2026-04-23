@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant transferable skills (accessibility, security awareness, CI/CD familiarity, Agile collaboration) but lacks demonstrable hands-on experience with the role's core technical requirements—JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm/Yarn, Git/GitHub, linters/formatters, and concrete front-end deliverables. Their cover letter emphasizes eagerness to learn rather than proven experience, so they are not yet qualified for this position without demonstrable technical work.

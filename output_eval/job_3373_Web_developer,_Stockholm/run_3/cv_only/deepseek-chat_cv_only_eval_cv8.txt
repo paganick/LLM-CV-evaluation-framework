@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in hardware test engineering and electronics manufacturing, which is a completely different industry from modern web development. The resume shows no experience with JavaScript, TypeScript, React, or any of the front-end technologies, testing frameworks, or development tools listed in the job description. While they have some scripting experience with Python and UNIX, it is not applicable to the web development role's core requirements.

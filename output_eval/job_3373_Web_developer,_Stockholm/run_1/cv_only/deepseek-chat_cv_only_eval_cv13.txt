@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on front-end development. While they list some relevant technologies like JavaScript, HTML/CSS, and Angular, the resume lacks evidence of deep, current experience with React, TypeScript, modern testing frameworks, or the other specific technical tools and practices required. Their profile is more aligned with a technical PM role, not a dedicated front-end engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/J2EE backend and test automation, not modern front-end development with React. While they mention ReactJS and relevant tools in their skills list, their detailed work history lacks specific, recent projects using React, TypeScript, or modern front-end frameworks as a primary focus. They show foundational knowledge of some required areas (Agile, Git, SASS) but lack the hands-on, professional front-end development experience the role demands.

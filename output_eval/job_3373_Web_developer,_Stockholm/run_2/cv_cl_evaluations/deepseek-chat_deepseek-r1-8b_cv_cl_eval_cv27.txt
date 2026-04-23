@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in arts administration, education, and dance, with no demonstrated professional experience in software development, modern front-end frameworks, or any of the technical skills listed in the job description. The resume mentions only basic HTML and web-design, which is entirely insufficient for a role requiring expertise in React, TypeScript, testing automation, and modern tooling. This is a complete industry mismatch with no relevant qualifications.

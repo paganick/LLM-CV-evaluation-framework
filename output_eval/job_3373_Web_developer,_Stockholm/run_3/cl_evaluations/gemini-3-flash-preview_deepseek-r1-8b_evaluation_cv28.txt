@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to meet the core technical requirements, explicitly admitting a lack of proficiency in JavaScript, TypeScript, CSS, and modern frameworks like React. Their professional background is in materials analysis rather than software engineering, representing a significant industry misalignment for a non-entry-level role. While they possess transferable skills in Git and Agile, the absence of fundamental web development and testing experience makes them unqualified for this specific position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses significant experience in business development and client-facing roles. The resume demonstrates success in digital sales and exceeding sales goals. While the candidate's experience aligns well with the required sales skills, it lacks explicit mentions of Application Services (API, Cloud, DevOps, Microservices) and Business Analytics (BigData, Data Science) as requested in the job description, but UX/UI is mentioned.

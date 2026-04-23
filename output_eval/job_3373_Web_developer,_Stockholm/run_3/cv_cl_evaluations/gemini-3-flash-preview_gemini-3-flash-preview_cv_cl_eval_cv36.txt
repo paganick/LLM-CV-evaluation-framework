@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional history is entirely within the field of Microbiology and Quality Control, lacking any documented professional experience in software engineering or frontend development. While the cover letter claims a transition to modern web technologies, the resume fails to list any relevant technical roles, projects, or core competencies such as JavaScript, TypeScript, or React. As a result, the candidate does not meet the minimum requirements for hands-on industry experience or the specific technical stack defined in the job description.

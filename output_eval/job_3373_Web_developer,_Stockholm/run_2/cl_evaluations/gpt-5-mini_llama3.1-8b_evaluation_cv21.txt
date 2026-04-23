@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience with JavaScript, React, testing (Jest, Cypress), linters, Git and Agile practices, which align with parts of the JD. However, the cover letter omits critical requirements such as TypeScript, the Node/npm/Express ecosystem, modern CSS tooling (Styled Components/SASS), CI/CD and cloud/infra (CircleCI, AWS/Terraform), and web security fundamentals (OWASP/CSP/CORS/OAuth), reducing overall fit for the role.

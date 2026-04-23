@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design and visual arts, with no demonstrated experience in the required software development technologies like JavaScript, TypeScript, React, or testing frameworks. The cover letter expresses interest but does not provide evidence of hands-on technical skills, making them unqualified for this front-end engineering role. The resume lacks any mention of programming, version control, or the technical competencies specified in the job description.

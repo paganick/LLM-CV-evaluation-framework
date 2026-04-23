@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in ASP.NET, C#, and SharePoint, which are not aligned with the required modern JavaScript/TypeScript and React stack. While they have basic exposure to HTML, CSS, and JavaScript, they show no experience with the specified front-end frameworks, testing tools, or modern web development practices listed in the job description. Their background is in a different technology ecosystem, making them largely unqualified for this specific role.

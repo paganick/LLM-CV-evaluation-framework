@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong front-end and systems experience (React interest, HTML/CSS/JS, Styled Components/SASS, testing mindset, Node/Express, CI/CD practices) and solid cross-functional consulting experience, making them a good match for the role. However, they do not explicitly mention TypeScript, common testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, web security topics (OWASP/CSP/CORS/OAuth), or AWS/Terraform, so they fall short of a near-perfect match.

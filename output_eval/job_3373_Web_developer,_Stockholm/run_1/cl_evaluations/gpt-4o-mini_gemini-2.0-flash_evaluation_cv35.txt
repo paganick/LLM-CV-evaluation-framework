@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in marketing automation and possesses some foundational front-end skills such as HTML, CSS, and JavaScript. However, they lack specific experience with modern front-end frameworks (aside from a desire to learn React), testing frameworks, and essential tools like Git, which are critical for the position.

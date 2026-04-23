@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in programming, but their primary experience lies in business development rather than front-end development. While they have some knowledge of HTML and basic programming concepts, they lack direct experience with modern front-end frameworks like React, as well as significant familiarity with testing frameworks and modern CSS tools, which are crucial for the role. Overall, the candidate shows potential but does not meet the specific technical requirements outlined in the job description.

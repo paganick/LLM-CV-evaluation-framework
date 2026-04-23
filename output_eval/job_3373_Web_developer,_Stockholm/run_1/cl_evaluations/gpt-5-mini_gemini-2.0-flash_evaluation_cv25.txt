@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant graphic design experience and basic HTML/CSS work but fails to demonstrate hands-on experience with JavaScript/TypeScript, React, testing (unit/integration/E2E), Git, or the Node ecosystem required for the role. Their cover letter emphasizes a willingness to learn rather than proven competency or concrete examples in the core technologies listed. Given the significant gaps versus the job requirements, they are not yet qualified for this position.

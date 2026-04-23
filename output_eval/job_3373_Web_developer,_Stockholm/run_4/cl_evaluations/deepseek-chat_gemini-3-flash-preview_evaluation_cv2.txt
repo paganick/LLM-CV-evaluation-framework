@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's core professional experience is in Java/J2EE backend development, which is not the primary focus of this frontend-heavy role. While they demonstrate relevant soft skills and express eagerness to learn React, they lack proven, hands-on experience with the key technologies listed in the job description, such as React, TypeScript, modern CSS tools, and specific testing frameworks. Their background is in a relevant industry but they do not meet the specific technical requirements for the position.

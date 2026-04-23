@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in all core technical requirements, explicitly stating they have no direct experience with JavaScript, TypeScript, or React. While they possess a relevant background in IT infrastructure, they do not meet the specific demand for hands-on experience in software development, testing automation, or modern frontend tools. As a strict recruiter, interest and transferable soft skills cannot compensate for the total absence of the required primary programming competencies.

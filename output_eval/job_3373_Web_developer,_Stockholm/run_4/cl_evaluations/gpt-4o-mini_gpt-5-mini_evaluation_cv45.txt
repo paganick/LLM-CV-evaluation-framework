@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in information technology and some aspects of cybersecurity, but lacks direct hands-on experience with the specific front-end technologies and frameworks mentioned in the job description, particularly React. While they demonstrate familiarity with components of security and collaboration, their concrete experience with essential tools and frameworks such as modern CSS technologies, testing frameworks, and CI/CD tools is not clearly evident.

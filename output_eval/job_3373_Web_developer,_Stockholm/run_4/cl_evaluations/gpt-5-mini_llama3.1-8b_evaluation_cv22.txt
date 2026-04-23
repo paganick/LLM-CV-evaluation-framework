@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant JavaScript/TypeScript, testing, NodeJS ecosystem and CI/CD experience, which aligns with parts of the job, but fails to demonstrate hands-on React experience (only expresses interest), and does not mention Git/GitHub, web security (OWASP/CSP/CORS/OAuth), modern CSS tooling (Styled Components/SASS) or AWS/Terraform. Given the role's strong front-end and security requirements, the application is incomplete for a strong hire despite transferable skills.

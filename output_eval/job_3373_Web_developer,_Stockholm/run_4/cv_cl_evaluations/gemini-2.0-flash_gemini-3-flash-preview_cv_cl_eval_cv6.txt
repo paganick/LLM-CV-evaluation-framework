@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience with JavaScript, HTML, and CSS but the resume is heavily focused on Drupal, which is not a primary requirement. While the cover letter expresses interest in React, there's a lack of concrete experience with modern FE frameworks, testing frameworks like Jest/Cypress, and CI/CD tools. The candidate demonstrates potential but needs to showcase more direct experience with the technologies listed in the job description.

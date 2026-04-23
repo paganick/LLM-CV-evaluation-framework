@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in marketing automation and an understanding of frontend development concepts; however, they lack hands-on experience with key technologies like React, TypeScript, and specific testing frameworks mentioned in the job description. While they highlight collaboration and process improvement skills, their technical skills do not fully align with the requirements for this position.

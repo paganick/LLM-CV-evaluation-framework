@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in analytics and data-related roles, but lacks direct experience in JavaScript, TypeScript, and modern front-end frameworks like React. They have familiarity with HTML and ASP.NET but do not demonstrate the proficiency with testing frameworks and tools relevant to the position. Overall, they are from a relevant industry but do not possess the specific skills and experience needed for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive general IT experience, the resume lacks evidence of proficiency in the specific modern tech stack required, including React, TypeScript, and automated testing frameworks like Jest or Cypress. The experience leans heavily toward IT consulting, systems administration, and legacy web design (PHP, Flash, Dreamweaver) rather than modern front-end engineering. Essential tools such as Git, CI/CD, and modern CSS-in-JS libraries are entirely absent from the professional history.

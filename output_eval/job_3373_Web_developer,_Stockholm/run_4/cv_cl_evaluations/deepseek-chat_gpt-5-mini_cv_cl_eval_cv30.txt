@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, quality assurance for data systems, and teaching, not in modern front-end development. While they mention HTML and a willingness to learn, they lack any demonstrated experience with the core required technologies (JavaScript, TypeScript, React, modern CSS tools, or front-end testing frameworks). Their testing experience is related to data quality, not software or web application testing as specified in the job description.

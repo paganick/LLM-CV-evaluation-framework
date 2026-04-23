@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only foundational coursework in HTML/CSS, which is relevant to the industry but insufficient for the role. The job description requires hands-on experience with JavaScript, TypeScript, React, testing, Git, and modern tooling, none of which are demonstrated. While the candidate shows enthusiasm and an understanding of visual principles, they lack the specific, required technical skills and practical experience.

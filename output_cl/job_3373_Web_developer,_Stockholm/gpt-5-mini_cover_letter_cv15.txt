@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced IT professional with an Associate of Science in Information Technology (2014) and CompTIA A+ certification, seeking to bring my strong web development foundation, systems experience, and problem-solving approach to your front-end team. My background includes HTML5, CSS3 and JavaScript development, server and network administration, and practical experience designing and deploying web systems that emphasize security, performance and maintainability.
+
+In past roles I rebuilt a client website from the ground up and grew monthly traffic from 3,422 to 40,884 within months. I also developed a cloud storage web application that provided secure remote access, authentication, upload/download functionality and centralized file access for a client. Those projects required understanding the full domain — from client-side interfaces to server configuration, authentication and deployment — and taught me to balance user experience with robust back-end operation.
+
+I am comfortable managing multiple projects, documenting solutions and collaborating with stakeholders; my IT management and consulting roles required planning, budgeting and working directly with clients and cross-functional teams. I automate routine tasks using Batch scripting, and have hands-on experience with server management, Active Directory and cloud concepts. I prioritize writing clear, maintainable code and creating predictable, debuggable systems.
+
+Beyond development work, I have automated office processes with Batch scripting to streamline daily tasks and improved search visibility through practical SEO and content management improvements. My background in troubleshooting complex hardware and medical technology has reinforced disciplined debugging, root-cause analysis and an emphasis on reliable, secure deployments and scalability.
+
+While much of my experience predates some modern front-end conventions, my strong foundation in core web technologies and systems administration enables rapid uptake of frameworks, tools and workflows. I am eager to adopt React, TypeScript, modern CSS tooling, testing frameworks and CI/CD practices, and to contribute effectively in an Agile environment. I am attentive to web security principles, performance tuning and API-driven design, and I enjoy collaborating across teams to understand the broader platform.
+
+I welcome the opportunity to discuss how my breadth of technical experience, proven delivery on web projects and commitment to clean, maintainable work can support your team.
+
+Sincerely, Alexis

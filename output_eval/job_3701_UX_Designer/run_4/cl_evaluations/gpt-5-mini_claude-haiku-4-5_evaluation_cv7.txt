@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX experience (Agile delivery, user research, workshops, prototyping, design system ownership and HTML/CSS) and meets core responsibilities such as mentoring and roadmap management. However, they do not mention Figma (listed as highly desirable) and provide no evidence of JavaScript exposure, which reduces alignment with the preferred toolset. Overall a strong match but missing key tooling details prevents a higher score.

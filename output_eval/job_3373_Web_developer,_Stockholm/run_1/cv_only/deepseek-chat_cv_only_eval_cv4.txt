@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience as a software developer and lists foundational web technologies (HTML, CSS, JavaScript, Node.js). However, the resume shows no experience with the required modern front-end frameworks (React, Vue, Angular, Svelte), testing/automation, modern CSS tools, or the other specific technologies (e.g., Ramda, AWS, CI/CD) mentioned in the job description. The core experience is heavily focused on C#/.NET and backend/data science projects, making this a weak fit for the specific front-end and tech stack requirements.

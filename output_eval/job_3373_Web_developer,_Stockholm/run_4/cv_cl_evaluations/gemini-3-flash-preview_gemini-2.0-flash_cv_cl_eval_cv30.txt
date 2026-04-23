@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks almost all the essential technical requirements for this role, including JavaScript, TypeScript, React, and modern CSS frameworks. Their professional experience is centered on data analytics, quality engineering, and academia rather than front-end development. Despite having a background in C# and SQL, they are fundamentally unqualified for a position requiring expertise in modern web development ecosystems and testing suites.

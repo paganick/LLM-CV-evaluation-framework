@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software testing and Agile environments, which aligns with some aspects of the job. However, the role is primarily for a front-end developer requiring hands-on experience with React, TypeScript, and modern FE frameworks, which the candidate explicitly lacks. Their background is in quality assurance and test automation, not in building front-end applications with the specified technologies and tools.

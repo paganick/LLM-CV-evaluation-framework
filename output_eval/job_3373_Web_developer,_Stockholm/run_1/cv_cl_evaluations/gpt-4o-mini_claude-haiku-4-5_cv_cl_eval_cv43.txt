@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program management and learning design, which is not directly relevant to frontend development. While they express a strong interest in transitioning to frontend development and have some technical coursework, they lack hands-on experience with the required technologies like JavaScript, React, and testing frameworks. Their resume does not demonstrate sufficient experience or expertise in coding or web security concepts essential for the role.

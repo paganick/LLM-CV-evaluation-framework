@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates an interest in frontend development and some relevant skills like HTML, CSS, and accessibility, the cover letter lacks concrete examples of hands-on experience with React, TypeScript, and testing frameworks, which are core requirements. The experience is primarily in technical writing and digital communications, with a recent shift towards frontend, making the candidate a moderate fit, but lacking the practical depth desired. Mentions of familiarity aren't enough to demonstrate proficiency.

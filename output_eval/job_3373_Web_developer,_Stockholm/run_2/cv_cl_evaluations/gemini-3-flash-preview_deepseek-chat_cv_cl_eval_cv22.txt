@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in media planning and marketing, which does not align with the technical requirements of a software engineering role. They lack professional experience with the core tech stack, specifically React, TypeScript, and modern testing frameworks, possessing only basic academic exposure to HTML and Java. Despite pursuing a master's degree, their resume fails to demonstrate the hands-on expertise or project complexity required for this position.

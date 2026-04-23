@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET stack (C#, ASP.NET MVC) with only basic JavaScript/jQuery, which does not align with the core requirement for modern React and frontend frameworks. While they demonstrate Agile collaboration and some relevant concepts (testing, Git, security principles), they lack hands-on experience with the specific technologies listed (React, TypeScript, Node.js, modern CSS tools, functional programming). This is a relevant industry background but lacks the specific, required technical skills for the role.

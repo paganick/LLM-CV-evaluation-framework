@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid foundation in relevant front-end technologies and frameworks, particularly with JavaScript, TypeScript, HTML, and CSS, and has hands-on experience with testing and automation. However, they lack specific experience with some tools and technologies mentioned in the job description, such as modern CSS tools and the NodeJS ecosystem. Overall, they show potential but do not fully meet all the requirements.

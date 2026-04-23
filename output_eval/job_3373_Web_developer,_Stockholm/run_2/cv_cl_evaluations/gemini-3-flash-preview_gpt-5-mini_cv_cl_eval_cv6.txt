@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in web development but lacks any professional experience with the required modern frontend stack, specifically React and TypeScript. Their expertise is centered on the Drupal/PHP ecosystem and legacy libraries like jQuery, which does not align with the modern JavaScript, functional programming, and CI/CD requirements of this role. While they demonstrate foundational engineering knowledge, they do not meet the specific technical skill set requested in the job description.

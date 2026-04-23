@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned .NET developer, but their technical profile fails to meet the core requirements of the modern JavaScript ecosystem requested, specifically React and TypeScript. There is no evidence of experience with modern testing frameworks (Jest, Cypress), CI/CD tools, or cloud infrastructure like AWS and Terraform. Furthermore, the candidate's frontend experience is centered on legacy technologies such as AngularJS and jQuery rather than the functional programming and modern CSS tools specified in the job description.

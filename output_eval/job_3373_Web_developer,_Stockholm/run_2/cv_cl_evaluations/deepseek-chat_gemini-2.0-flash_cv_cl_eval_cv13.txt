@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and digital marketing, not focused front-end development. They list some relevant technologies (JavaScript, HTML, CSS, Angular) but lack demonstrable, recent hands-on experience with the core stack (React, TypeScript, modern testing frameworks). Their experience does not meet the specific technical depth required for the role, such as modern CSS tools, testing automation, or functional programming.

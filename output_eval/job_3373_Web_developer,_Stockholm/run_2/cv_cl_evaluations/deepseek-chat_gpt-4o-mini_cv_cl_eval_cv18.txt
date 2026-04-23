@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows extensive IT consulting experience but lacks specific, recent front-end development experience with modern frameworks like React, which is a core requirement. The cover letter claims proficiency in React, Jest, Cypress, and modern CSS tools, but these are not substantiated by the concrete project details or technologies listed in the resume. While the candidate has relevant industry background, the specific technical skills and hands-on experience required for the role are not clearly demonstrated.

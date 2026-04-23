@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter show a long career in graphic design with no demonstrated hands-on experience in the core technical requirements (JavaScript/TypeScript, React, modern front-end frameworks, testing frameworks, Git, Node.js, CI/CD, or web security). Their willingness to learn is noted but unproven with concrete technical projects or experience, so they do not meet the role's essential qualifications. Transferable strengths in design, collaboration, and attention to detail are present but insufficient for this engineering position.

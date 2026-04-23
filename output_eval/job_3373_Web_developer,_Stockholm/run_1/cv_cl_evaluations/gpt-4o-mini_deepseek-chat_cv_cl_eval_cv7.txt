@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design but lacks the necessary technical experience with JavaScript, TypeScript, modern frameworks (specifically React, which is prominently mentioned), and testing frameworks. While there is an indication of some relevant skills, they do not sufficiently match the requirements outlined in the job description, particularly in development and testing automation.

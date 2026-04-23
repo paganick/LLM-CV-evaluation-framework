@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a strong backend and data science background but lacks concrete, professional experience with the core frontend technologies required, specifically React, TypeScript, and modern CSS tools. The cover letter claims experience that is not substantiated in the resume, creating a significant credibility gap. While the candidate works in software development, they lack the specific, hands-on frontend framework and testing automation experience explicitly demanded by the job description.

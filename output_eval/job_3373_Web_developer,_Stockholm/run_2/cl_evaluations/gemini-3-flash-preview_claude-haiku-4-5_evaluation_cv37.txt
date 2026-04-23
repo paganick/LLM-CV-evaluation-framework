@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s background is rooted in IT leadership and infrastructure management rather than hands-on frontend development, failing to demonstrate proficiency in JavaScript, TypeScript, or CSS. While they acknowledge the importance of the required tech stack, they provide no evidence of professional experience building applications or utilizing testing frameworks like Jest or Cypress. As a career transitioner, the applicant lacks the specific technical skills and practical execution experience mandated by the job description.

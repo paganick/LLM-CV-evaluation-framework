@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in design and a foundational understanding of web technologies, but lacks hands-on experience with many critical skills listed in the job description, such as JavaScript, TypeScript, testing frameworks, and modern frontend libraries. Their commitment to learning is commendable, but the gaps in technical expertise may hinder their immediate contribution to the team.

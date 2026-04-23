@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, including JavaScript, TypeScript, React, or testing frameworks. Their background is entirely within the scientific and regulatory sectors, representing a complete industry mismatch with zero evidence of software development experience. Despite efforts to link regulatory documentation to "clean code," the applicant lacks the fundamental engineering skills necessary to perform the job.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates substantial IT experience and core front-end skills (JavaScript, HTML5, CSS) and emphasizes collaboration and clean code, which are relevant to the role. However, the cover letter fails to provide explicit, verifiable experience with key requirements such as TypeScript, React, testing/test automation, Node/npm ecosystem, modern CSS tooling, CI/CD, and web security practices. Given these missing specifics despite relevant background, the applicant is a moderate fit but does not meet the role's explicit technical expectations.

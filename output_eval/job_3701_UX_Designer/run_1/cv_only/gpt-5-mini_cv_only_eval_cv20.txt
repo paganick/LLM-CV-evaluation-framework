@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong technical and product-implementation experience (HTML, JavaScript, client-facing integrations) but no documented commercial UX designer role or UX-specific deliverables (no Figma/prototyping, user research, usability testing, or design system ownership). There is also no mention of Agile experience, running UX roadmaps/stand-ups, mentoring designers, or facilitating UX workshops, so they lack the core, required UX practice and leadership experience for this role.

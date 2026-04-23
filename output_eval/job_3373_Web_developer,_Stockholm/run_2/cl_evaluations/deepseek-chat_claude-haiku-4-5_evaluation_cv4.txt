@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in core frontend technologies, API integration, and Agile collaboration, aligning well with many job requirements. However, the cover letter lacks explicit mention of several key technologies from the description, such as TypeScript, modern CSS tools (SASS/Styled Components), and specific security knowledge (OWASP, CORS). While they express eagerness to learn, the absence of direct, proven experience with these required tools prevents a higher score.

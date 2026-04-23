@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in software testing, not front-end development, which is the primary requirement. While they list foundational web technologies (JavaScript, HTML, CSS), they lack demonstrable hands-on experience with React or any modern front-end framework, testing libraries (Jest, Cypress), and the specific toolchain mentioned. Their testing background is relevant to the industry but does not fulfill the core technical skillset for a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, regulatory compliance, and training with no mention of JavaScript, TypeScript, React, frontend frameworks, testing, Git, NodeJS, or related web technologies required for this role. While they describe strong project management and documentation skills, there is no evidence of the technical experience or tooling familiarity this position mandates, making them unqualified for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter demonstrate a background primarily in marketing, communications, and public relations, which is completely misaligned with the front-end development skills required by the job description. The candidate admits to lacking direct experience in the core technologies (JavaScript, TypeScript, HTML, CSS, React, etc.) and mentions transferable skills, but the gap is too significant. There is no evidence of relevant technical skills or experience.

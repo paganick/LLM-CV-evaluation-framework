@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive industry experience and high-level product leadership, they lack a professional track record of hands-on software development. The profile represents a significant career pivot rather than demonstrated technical mastery in a production environment. Consequently, they fail to meet the requirement for professional experience with modern front-end frameworks and testing automation.

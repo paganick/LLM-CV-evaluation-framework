@@ -1,0 +1,2 @@
+Score: [1]
+Reasoning: The resume demonstrates no experience or skills related to the job description. The candidate's background is in materials analysis, manufacturing, and quality control, which are completely different from the required front-end development skills (JavaScript, React, HTML, CSS, etc.). There is no overlap in the required technical skills or experience.

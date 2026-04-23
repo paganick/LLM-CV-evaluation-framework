@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on project management, with limited evidence of hands-on experience in the specific technologies mentioned in the job description (React, TypeScript, etc.). While the cover letter claims experience with some of these technologies, the resume does not provide concrete examples. The candidate's listed skills are broad, and the depth of knowledge in the required FE technologies is questionable.

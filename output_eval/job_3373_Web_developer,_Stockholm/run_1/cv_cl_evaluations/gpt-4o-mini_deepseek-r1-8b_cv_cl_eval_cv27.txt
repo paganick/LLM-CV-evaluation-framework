@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the necessary technical skills and experience outlined in the job description, such as proficiency in JavaScript, TypeScript, modern frontend frameworks (specifically React), test automation, and knowledge of web security. Their background is primarily in administrative and creative roles rather than technical development, making them an unsuitable fit for this position.

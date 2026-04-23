@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and a degree in Computer Science, which is somewhat relevant to the position. However, they lack direct experience with key technologies specified in the job description such as JavaScript, React, and testing frameworks. Their experience primarily focuses on design rather than front-end development, which diminishes their fit for this role.

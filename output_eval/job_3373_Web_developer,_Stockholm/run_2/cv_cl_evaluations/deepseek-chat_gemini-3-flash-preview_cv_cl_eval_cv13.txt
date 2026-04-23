@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in project management, not hands-on front-end development, which is the core of the role. While they mention JavaScript and Angular, they lack specific, recent experience with the required modern frameworks (React), testing automation, and the listed toolchain (e.g., Jest, Cypress, Styled Components). Their background shows relevant industry exposure but does not demonstrate the depth of technical proficiency or recent hands-on coding experience required for this development position.

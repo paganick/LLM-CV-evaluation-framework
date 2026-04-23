@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core technical requirements, including JavaScript, React, Git, testing, and Agile collaboration. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, specific testing frameworks (Jest, Cypress), modern CSS tools, and security fundamentals. The candidate's broader full-stack experience is valuable but does not fully compensate for these omissions.

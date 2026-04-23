@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in web development with relevant experience in JavaScript, HTML, and CSS, along with a focus on front-end technologies. They express familiarity with key requirements such as Agile collaboration, testing automation, and web security, aligning well with the job description. However, the candidate lacks direct experience with React and specific testing frameworks mentioned, which prevents a perfect match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses strong communication skills and expertise in accessibility and CSS, they lack professional experience as a dedicated Frontend Developer. Their proficiency in core requirements like React, TypeScript, and automated testing is described as a current area of study rather than a proven professional track record. For a role requiring hands-on experience with API design and functional programming, a career-changer without direct engineering tenure is an insufficient match.

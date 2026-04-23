@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong systems engineering and infrastructure experience (including security certification and web application support) but shows no demonstrable hands-on experience with core frontend technologies required for this role. Their resume and cover letter do not provide evidence of JavaScript/TypeScript, React, modern CSS, frontend testing frameworks, Node/npm, or CI/CD experience. Transferable skills and eagerness to learn are positive, but they do not compensate for the lack of required frontend development experience for this position.

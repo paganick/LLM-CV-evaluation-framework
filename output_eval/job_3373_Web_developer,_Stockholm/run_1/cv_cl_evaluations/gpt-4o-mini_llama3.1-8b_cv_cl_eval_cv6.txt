@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and some proficiency in JavaScript, HTML, and CSS, but lacks hands-on experience with modern frontend frameworks like React, VueJS, or Angular as specified in the job description. Additionally, while they have experience with Git, their familiarity with testing frameworks and CI/CD tools is not clearly demonstrated. Overall, the candidate has a good foundation but does not fully meet the specific requirements of the role.

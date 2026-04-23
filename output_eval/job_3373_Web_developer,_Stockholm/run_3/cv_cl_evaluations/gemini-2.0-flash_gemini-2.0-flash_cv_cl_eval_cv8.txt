@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, which is not directly relevant to a front-end developer role. While they express interest in transitioning to front-end development with React, they lack demonstrable experience with JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. Their skills in Python scripting and networking are tangentially related but insufficient to compensate for the lack of core front-end development skills.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundational computer science education and demonstrates a willingness to learn modern frontend technologies; however, they lack hands-on experience with specific required skills such as JavaScript, TypeScript, and modern frontend frameworks like React. While their project management and quality engineering background is relevant, it does not fully align with the technical requirements and experience outlined in the job description.

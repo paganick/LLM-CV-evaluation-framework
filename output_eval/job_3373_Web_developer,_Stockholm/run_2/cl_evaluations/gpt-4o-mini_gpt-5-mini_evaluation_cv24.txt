@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in communications and relevant skills in content management and collaboration, but lacks direct experience with front-end technologies such as JavaScript, TypeScript, and React. While there is a clear motivation to learn, the absence of hands-on experience with key frameworks and testing practices signifies that they are not fully qualified for the role at this time.

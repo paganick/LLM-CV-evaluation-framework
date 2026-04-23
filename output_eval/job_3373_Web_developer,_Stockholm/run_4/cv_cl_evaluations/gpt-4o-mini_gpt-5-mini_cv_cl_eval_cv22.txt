@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in media planning and account management with some technical knowledge in HTML, CSS, and Core Java. However, they lack hands-on experience with crucial modern front-end technologies such as JavaScript frameworks (particularly React, which is specified in the job description) and testing automation practices. Although the candidate demonstrates a willingness to learn, their current skills do not sufficiently align with the specific requirements of the role.

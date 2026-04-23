@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights design skills and experience with Adobe Creative Suite, which are not core requirements for the job. While the letter mentions a Computer Science degree and interest in new technologies, it lacks specific examples of hands-on experience with JavaScript, TypeScript, React, or testing frameworks mentioned in the job description. The candidate demonstrates collaboration skills and an understanding of QA, but the technical skills don't strongly align.

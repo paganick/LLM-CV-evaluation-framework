@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses five years of general JavaScript and HTML experience, they lack professional exposure to the primary requirement: React or any other modern frontend framework. The resume shows a heavy reliance on .NET, C#, and Python, with no evidence of TypeScript, modern CSS tooling, or standard JavaScript testing libraries like Jest or Cypress. Consequently, the candidate lacks the specific technical depth in modern frontend ecosystems required for this role.

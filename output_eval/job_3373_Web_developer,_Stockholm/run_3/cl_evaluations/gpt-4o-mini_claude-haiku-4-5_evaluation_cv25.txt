@@ -1,0 +1,2 @@
+Score: 5  
+Reasoning: The candidate has a relevant background in graphic design, which provides a foundational understanding of web design principles. However, they lack direct experience in several core technical skills outlined in the job description, such as JavaScript, a modern frontend framework (specifically React), testing frameworks, and the use of Git. Their commitment to learning and transitions shows potential, but without the requisite skills, they fall short of being a strong candidate.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in construction management, not software development, making them largely unqualified for a front-end role. While they express eagerness to learn and highlight transferable skills like problem-solving and communication, they lack the core technical skills and experience listed in the job description, particularly with JavaScript, TypeScript, React, testing frameworks, and Git. The letter emphasizes self-study and adaptability, but these are not substitutes for practical experience in the required technologies.

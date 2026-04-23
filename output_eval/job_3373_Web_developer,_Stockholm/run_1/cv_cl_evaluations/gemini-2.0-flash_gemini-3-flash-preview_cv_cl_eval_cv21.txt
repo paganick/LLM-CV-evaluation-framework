@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates experience in web development but lacks specific modern FE framework experience beyond AngularJS. While they express interest in keeping up with modern technologies and mention Javascript, HTML5, and CSS3, the resume highlights older technologies (.Net, ASP, VB). There is minimal evidence of testing frameworks or CI/CD tools.

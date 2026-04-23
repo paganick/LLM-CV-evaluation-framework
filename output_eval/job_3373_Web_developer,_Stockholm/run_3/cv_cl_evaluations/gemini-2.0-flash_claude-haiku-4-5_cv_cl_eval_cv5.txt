@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, which is a significant departure from the frontend technologies listed in the job description. While they express interest in React and modern frameworks, their resume lacks demonstrable experience with these tools. The cover letter acknowledges the career pivot but doesn't provide enough evidence of existing skills to compensate for the lack of direct frontend experience.

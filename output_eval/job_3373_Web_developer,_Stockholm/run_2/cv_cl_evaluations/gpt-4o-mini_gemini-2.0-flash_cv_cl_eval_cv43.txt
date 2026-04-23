@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program design and management but lacks the essential technical skills related to front-end development such as proficiency in JavaScript, TypeScript, HTML, CSS, or modern frameworks like React. While they demonstrate project management abilities and experience in collaborative environments, the absence of relevant coding experience significantly limits their fit for the role.

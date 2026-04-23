@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience as a Graphic Designer and possesses a solid background in user-centered design, which aligns with the job requirements. However, their experience with prototyping specifically using Figma, as noted in the job description, is not mentioned, which detracts from their fit for the position. Additionally, their coding skills are limited to HTML and CSS, without mention of JavaScript, which is also seen as beneficial for managing the UI Design System.

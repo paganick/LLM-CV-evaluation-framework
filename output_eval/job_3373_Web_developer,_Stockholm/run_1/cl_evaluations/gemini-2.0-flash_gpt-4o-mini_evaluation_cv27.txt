@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is largely administrative, with limited front-end experience. While they mention React and Git, the letter emphasizes transferable skills over demonstrable experience in required technologies like Javascript, Typescript, or testing frameworks. There's a stated interest in learning AWS and CI/CD, but this doesn't compensate for the lack of practical application.

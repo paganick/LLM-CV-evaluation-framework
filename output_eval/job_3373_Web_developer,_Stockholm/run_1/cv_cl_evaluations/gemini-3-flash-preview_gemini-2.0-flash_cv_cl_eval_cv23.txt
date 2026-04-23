@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily an electronics technician with a background in hardware testing and lab engineering, rather than frontend web development. They lack professional experience with the required tech stack, including React, TypeScript, modern CSS, and web-specific testing frameworks like Jest or Cypress. While they possess general software testing knowledge, they do not meet the core requirements for a modern software engineering role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates foundational knowledge in HTML, CSS, and JavaScript, aligning with the job requirements. However, they lack direct experience with React, a key technology mentioned in the job description. While the candidate expresses eagerness to learn modern tools and frameworks, their current skill set is not an immediate match for the role's expectations, particularly in testing and CI/CD.

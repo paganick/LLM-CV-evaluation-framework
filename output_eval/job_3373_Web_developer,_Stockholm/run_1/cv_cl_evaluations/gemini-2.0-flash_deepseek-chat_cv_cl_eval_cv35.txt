@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in marketing automation, not front-end development. While they mention using HTML, CSS, and JavaScript, it's within the context of marketing platforms, not building web applications. There's no mention of modern FE frameworks like React, VueJS, Angular, or Svelte, which are core requirements.

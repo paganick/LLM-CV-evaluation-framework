@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a traditional .NET/SharePoint developer who lacks the specific modern front-end expertise required, missing professional experience in React, TypeScript, and functional programming. Their background focuses on legacy migrations and the ASP.NET ecosystem rather than the modern JavaScript tooling, testing automation, and CI/CD pipelines specified in the job description. Consequently, there is a significant mismatch between the candidate's technical skills and the core requirements of this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer from marketing automation who lacks professional, hands-on experience in a dedicated frontend development role. While they demonstrate foundational knowledge of web technologies and version control, they fail to provide evidence of practical experience with React, professional testing frameworks (Jest/Cypress), or the broader Node.js and CI/CD ecosystem. Their background in marketing tools does not compensate for the absence of production-level software engineering experience required for this position.

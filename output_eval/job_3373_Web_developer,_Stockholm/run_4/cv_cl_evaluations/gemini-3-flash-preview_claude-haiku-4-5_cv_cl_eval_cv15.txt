@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks experience with nearly all the required modern technologies, including React, TypeScript, and testing frameworks like Jest or Cypress. Their professional background is primarily in general IT management and support, with technical skills that are significantly outdated, as their most recent listed work experience ended in 2012. There is no evidence of familiarity with modern frontend workflows, CI/CD, or functional programming required for this role.

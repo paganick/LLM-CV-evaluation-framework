@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal and PHP developer whose experience does not align with the modern frontend stack required, specifically lacking React and TypeScript expertise. There is no evidence of experience with the requested testing frameworks (Jest, Cypress), CI/CD tools, or the Node.js ecosystem. While the candidate has a background in web development, their skills are focused on CMS architecture rather than the modern functional programming and component-based libraries specified in the job description.

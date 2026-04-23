@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and holds an ISTQB certification. However, they lack hands-on experience with modern front-end frameworks like React, a critical requirement for the role. Additionally, while they mention JavaScript and HTML, there is no clear indication of experience with TypeScript or the specific testing frameworks mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates a strong match with the requirements outlined in the job description, showcasing substantial experience in JavaScript, TypeScript, and React, along with relevant testing and automation skills. Their background in secure coding practices and familiarity with the specified tech stack, including CI/CD tools and modern CSS frameworks, positions them as an excellent fit for the role. Additionally, their experience in Agile environments and emphasis on clean code align well with the company's values.

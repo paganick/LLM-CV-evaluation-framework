@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in web development with some overlap in technologies like HTML, CSS, JavaScript, and AngularJS. However, the cover letter lacks explicit mention of React, TypeScript, and testing frameworks emphasized in the job description. While Agile experience is mentioned, the application does not showcase a strong focus on modern FE frameworks, security knowledge, or preferred CSS tools outlined in the job posting.

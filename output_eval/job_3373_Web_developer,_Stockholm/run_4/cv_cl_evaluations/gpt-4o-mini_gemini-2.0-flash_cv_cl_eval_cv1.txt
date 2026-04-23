@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in front-end development with relevant experience in JavaScript, HTML, CSS, and frameworks such as ReactJS and AngularJS. They also possess experience in testing and test automation, Agile methodologies, and version control with Git. However, they lack exposure to some specific tools and frameworks mentioned in the job description, such as SASS and CI/CD tools, which slightly limits their fit for the position.

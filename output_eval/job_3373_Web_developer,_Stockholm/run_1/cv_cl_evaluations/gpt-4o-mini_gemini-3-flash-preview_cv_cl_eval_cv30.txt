@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in engineering and quality assurance, and some experience with HTML and ASP.NET, but lacks direct experience with JavaScript, TypeScript, modern frontend frameworks like React, and does not explicitly mention experience with testing frameworks or Git. While they show potential and relevant industry experience, the specific skills required for the role are not sufficiently demonstrated.

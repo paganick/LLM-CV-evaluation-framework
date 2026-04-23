@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates precise alignment with the required tech stack, specifically mentioning niche tools like Ramda, Styled Components, and OWASP security principles. While they possess 12 years of IT experience, the profile reflects a transition from infrastructure to development, which may require verification of professional front-end project experience. However, their explicit focus on clean code, testing with Jest, and CI/CD pipelines makes them a high-quality match for the role's technical demands.

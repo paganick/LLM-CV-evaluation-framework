@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in Drupal/PHP full-stack development, not modern frontend frameworks like React as required. While they have foundational JavaScript/HTML/CSS and mention a desire to learn, they lack direct, hands-on experience with the core technologies (React, TypeScript, modern testing frameworks) and specific tools (Styled Components, Jest, Cypress, etc.) listed in the job description. Their experience is in a different tech stack and domain, making them a weak direct fit for this specific role.

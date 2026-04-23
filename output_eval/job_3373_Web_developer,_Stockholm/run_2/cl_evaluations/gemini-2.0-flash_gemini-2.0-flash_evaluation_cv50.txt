@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate acknowledges their background isn't a direct fit, which is honest but not ideal. While they express eagerness to learn the required technologies, they lack demonstrable experience in the core technologies listed in the job description, particularly React and testing frameworks. The cover letter focuses more on transferable skills than specific technical qualifications needed for a front-end developer role.

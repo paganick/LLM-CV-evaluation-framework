@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter highlights skills from film and media production, lacking the specific front-end development skills mentioned in the job description. While the candidate mentions website management, there's no direct evidence of Javascript, React, or testing experience. The letter primarily showcases creative and marketing abilities, misaligning with the technical requirements of the role.

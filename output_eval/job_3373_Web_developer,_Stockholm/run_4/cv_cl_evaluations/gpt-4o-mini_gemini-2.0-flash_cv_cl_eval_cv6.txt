@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and technical skills in JavaScript, HTML, and CSS, but lacks hands-on experience with React and modern frontend frameworks noted in the job description. While they have some experience with testing methodologies, the lack of specific tools mentioned in the requirements such as Jest and Cypress reflects a gap in their fitting qualifications. Overall, the candidate shows potential but does not fully meet the specific needs of the role.

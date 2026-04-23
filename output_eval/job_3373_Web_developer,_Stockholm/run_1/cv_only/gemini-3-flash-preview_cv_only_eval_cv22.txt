@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a career-changer from the marketing and media industry with no professional experience in frontend engineering or the required modern tech stack. They lack essential skills in React, TypeScript, and automated testing frameworks, and their stated career goal is to focus on database management rather than frontend development. Consequently, the resume fails to meet nearly every core requirement of the job description.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the position at your esteemed organization where I can leverage my extensive experience in sales, training, and client engagement to drive business growth. As a seasoned Business Banking Specialist with over 9 years of experience, I am confident that my skills and expertise make me an ideal fit for this role.
+
+Throughout my career, I have consistently demonstrated exceptional leadership and collaboration skills, having successfully supervised cross-functional teams, trained employees on sales strategies and conflict management, and facilitated international business presentations. My ability to design customer-centric training programs and drive business revenue through innovative engagement tactics aligns with your organization's requirements.
+
+While my background may not be directly related to software development, I am excited about the opportunity to learn and adapt to new technologies, particularly JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks. My experience with Git, repository hosting services, testing, and test automation will serve as a solid foundation for navigating your organization's tech stack.
+
+As a strong collaborator, I thrive in Agile environments and enjoy working with other teams and external partners to achieve shared goals. I am eager to apply my passion for writing clean code, combined with my expertise in sales, training, and client engagement, to drive business growth and improve customer experiences.
+
+I am particularly drawn to your organization's emphasis on modern technologies, including React, VueJS, Angular, Svelte, and NodeJS ecosystem. My familiarity with basic security concepts, such as OWASP, CSP, CORS, and OAuth, will enable me to contribute meaningfully to ensuring the security of your online platforms.
+
+In addition to my technical skills, I possess excellent communication and presentation skills, having facilitated numerous training programs, presentations, and workshops for diverse audiences. My proficiency in Microsoft Suite and Google Suite will also enable me to effectively communicate with cross-functional teams and external partners.
+
+Thank you for considering my application. I am excited about the opportunity to discuss how my unique blend of sales, training, and technical expertise can contribute to your organization's success.
+
+Sincerely,
+Alexis

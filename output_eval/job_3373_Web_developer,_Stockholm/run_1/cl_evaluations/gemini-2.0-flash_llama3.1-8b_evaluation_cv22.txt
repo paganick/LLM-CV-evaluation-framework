@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills in JavaScript, TypeScript, HTML, CSS, and testing frameworks which align with the job description. They mention experience with CI/CD tools and the NodeJS ecosystem. However, the letter lacks specific examples of using React, and AWS/Terraform experience is not clearly demonstrated.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned Java back-end specialist whose professional experience does not align with the modern front-end requirements of this React and TypeScript role. While the cover letter claims familiarity with the requested tech stack, the resume lacks any evidence of professional usage of React, TypeScript, or modern testing frameworks like Cypress and Jest. Their web experience is dated, focusing on legacy technologies like Struts and JSP rather than contemporary front-end ecosystems.

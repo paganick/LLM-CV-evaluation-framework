@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology and pharmaceutical quality control, with zero demonstrated experience in any required frontend technologies like JavaScript, React, or modern web development. The cover letter attempts to argue for transferable soft skills but provides no evidence of technical capability or relevant project work. This is a complete industry mismatch with no alignment to the job's core technical requirements.

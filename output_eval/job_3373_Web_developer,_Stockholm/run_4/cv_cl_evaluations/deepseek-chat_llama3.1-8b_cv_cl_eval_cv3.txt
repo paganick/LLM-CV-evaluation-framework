@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is from a different industry with no professional web development experience. While they have academic exposure to foundational web technologies, they lack any hands-on experience with the required modern frameworks (React), testing tools, version control, security concepts, and the specific tech stack listed. Their background does not align with the professional and technical requirements of the role.

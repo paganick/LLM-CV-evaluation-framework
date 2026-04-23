@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses a strong foundation in front-end development with proficiency in JavaScript, TypeScript, HTML, CSS, and React, which aligns well with the job requirements. Additionally, the candidate has relevant experience with testing frameworks and security principles. However, they lack mention of modern CSS tools and specific frameworks like Styled Components or SASS, slightly reducing their alignment with the position.

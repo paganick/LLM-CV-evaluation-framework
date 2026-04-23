@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in digital communications, not frontend development. While the cover letter expresses interest and some self-learning in relevant technologies, the resume lacks concrete experience with JavaScript, modern FE frameworks (React), testing, and other core requirements. The candidate's skills are largely in content management, social media, and writing.

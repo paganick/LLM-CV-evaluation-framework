@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and proficiency in Adobe Creative Suite, which indicates some creative capabilities. However, they lack direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for the position. Their knowledge of testing frameworks and security practices is also not clearly aligned with the job requirements. Overall, while there is relevant industry experience, it does not fully meet the specific needs of this role.

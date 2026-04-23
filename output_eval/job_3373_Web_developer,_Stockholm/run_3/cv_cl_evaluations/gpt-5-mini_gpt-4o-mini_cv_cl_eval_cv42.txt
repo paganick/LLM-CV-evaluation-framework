@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a senior finance/operations background with no demonstrable hands‑on front-end development experience, projects, or technical roles relevant to the position. The cover letter claims familiarity with front-end technologies but provides no concrete evidence of practical experience with React/TypeScript, testing automation, Node ecosystem, CI/CD, or cloud tooling required by the job. This candidate is therefore not qualified for the Front-End Developer role.

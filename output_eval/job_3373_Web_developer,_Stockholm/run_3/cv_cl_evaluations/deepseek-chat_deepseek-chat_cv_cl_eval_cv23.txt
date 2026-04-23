@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics hardware testing and validation, which is a completely different industry from modern front-end software development. While they mention foundational familiarity with JavaScript and testing concepts, they lack any professional experience or demonstrable projects with the required technologies (React, TypeScript, modern CSS, testing frameworks, Git, etc.). The core skills and recent professional history do not align with the job's specific technical requirements.

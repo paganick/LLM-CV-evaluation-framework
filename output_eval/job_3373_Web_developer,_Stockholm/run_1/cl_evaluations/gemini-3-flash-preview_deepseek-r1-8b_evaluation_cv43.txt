@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all mandatory technical qualifications, including proficiency in JavaScript, TypeScript, React, and automated testing frameworks. While they demonstrate strong soft skills and project management experience, their professional background in learning design and program management is irrelevant to the core engineering requirements of this role. As the candidate explicitly states their experience lies outside of software development, they are fundamentally unqualified for this technical position.

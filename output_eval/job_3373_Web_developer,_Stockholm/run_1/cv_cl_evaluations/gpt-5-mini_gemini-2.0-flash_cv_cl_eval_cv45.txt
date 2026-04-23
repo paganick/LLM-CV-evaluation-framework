@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter show extensive IT and INFOSEC/program management experience but contain no demonstrated skills in JavaScript, TypeScript, React, HTML/CSS, frontend frameworks, testing frameworks, or frontend toolchains required by the role. There is also no evidence of experience with Git/GitHub, npm/Yarn, modern CSS tools, Node/Express, CI/CD, or relevant frontend testing/automation. Given the lack of any concrete frontend development experience or examples, the candidate is not qualified for this position.

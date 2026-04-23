@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end development position on your team, where I can leverage my diverse skills and passion for clean code to contribute meaningfully to your projects. With a solid background in communication and project management, coupled with evolving technical skills, I am excited about the opportunity to work in an Agile environment alongside other teams and external partners.
+
+Although my experience primarily lies in marketing and public relations, I have honed critical problem-solving and organizational skills that are essential for software development. I am a strong collaborator and thrive when working in fast-paced, dynamic teams. My previous roles required effective communication and relationship building, making me highly adept at understanding project requirements and user needs. I have maintained consistency and professionalism in delivering engaging communication materials, a skill I believe translates well to technical writing and documentation in software development.
+
+While I may not yet be proficient in JavaScript, TypeScript, HTML, and CSS, I am deeply passionate about technology and committed to continual learning. I am currently expanding my knowledge in modern front-end frameworks, particularly React, which I understand your team utilizes. I am also exploring testing automation frameworks like Jest and Cypress, as I recognize their importance in producing high-quality, robust applications.
+
+My career has been focused on developing effective strategies and managing complex projects from conception to execution. I have a keen interest in understanding broader platforms and domain insight, which aligns with your requirement of working outside one’s area of expertise. I am dedicated to staying updated with industry trends and engaging in discussions about security best practices such as OWASP and OAuth, integral to web development.
+
+I believe that my unique combination of skills, dedication to clean code, and eagerness to embrace new technologies make me a good fit for your team. I look forward to the opportunity to contribute and grow within your organization.
+
+Sincerely,  
+Alexis

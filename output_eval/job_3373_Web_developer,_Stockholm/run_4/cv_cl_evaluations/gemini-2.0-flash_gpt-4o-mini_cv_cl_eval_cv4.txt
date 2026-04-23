@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development, including JavaScript, HTML, and CSS, but lacks explicit mention of TypeScript or modern front-end frameworks besides React. Their experience with testing seems limited, and there's no demonstrated experience with CI/CD tools or cloud platforms like AWS. While they claim knowledge of security principles, it's described as foundational, suggesting a potential gap in practical application.

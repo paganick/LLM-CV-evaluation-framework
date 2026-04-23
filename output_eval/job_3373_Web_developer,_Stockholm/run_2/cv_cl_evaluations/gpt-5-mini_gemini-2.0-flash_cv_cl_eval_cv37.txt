@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings solid IT/project management and Agile collaboration experience but lacks demonstrated, hands-on front-end development skills required for this role. The resume and cover letter only cite vague familiarity with JavaScript/HTML/CSS and no evidence of experience with React/TypeScript, testing frameworks, Git/CI, Node ecosystem, or modern CSS tooling. Given the role's technical requirements, the candidate is not sufficiently qualified.

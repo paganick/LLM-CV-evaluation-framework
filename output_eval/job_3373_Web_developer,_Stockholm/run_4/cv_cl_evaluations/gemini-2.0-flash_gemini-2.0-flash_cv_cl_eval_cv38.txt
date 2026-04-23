@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film and media production, lacking the required front-end development skills like JavaScript, TypeScript, or experience with modern FE frameworks. While the candidate mentions website management and digital content creation, this doesn't align with the technical requirements of the job description. There's no evidence of experience with testing, Git, or web security concepts.

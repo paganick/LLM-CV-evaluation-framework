@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in broad IT management and hardware support, not modern front-end software development. The resume and cover letter list many technologies but lack concrete, recent experience with the core requirements like React, TypeScript, modern testing frameworks, and Agile development. The application appears to be a generic IT application with keywords from the job description inserted, rather than demonstrating the specific, hands-on expertise required for the role.

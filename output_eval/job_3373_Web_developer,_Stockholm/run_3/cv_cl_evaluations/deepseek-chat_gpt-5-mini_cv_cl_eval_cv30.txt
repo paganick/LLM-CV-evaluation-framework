@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analytics, quality assurance for data systems, and teaching, with no demonstrated professional experience in modern front-end development. The required technologies (JavaScript, TypeScript, React, modern CSS, testing frameworks) are not present in their resume, only a mention of basic HTML and C#. While they express enthusiasm for learning, they lack the specific hands-on experience and proven skill set demanded by the job description.

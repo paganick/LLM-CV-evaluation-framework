@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position. With a distinguished career leading complex IT programs and ensuring robust cybersecurity for the Department of the Air Force, I am now seeking to apply my deep technical acumen and leadership skills to a product-driven engineering role. My experience aligns precisely with your requirements for a collaborative developer passionate about clean code and modern web technologies.
+
+My technical foundation is built on overseeing enterprise-level C4ISR systems, which demanded a comprehensive understanding of secure, scalable software architecture. While my recent roles have been strategic, they are underpinned by hands-on technical expertise in systems analysis, integration, and problem resolution. I have directly managed the lifecycle of critical IT projects, from feasibility studies and development through implementation, ensuring they meet stringent security and operational standards. This includes applying in-depth knowledge of INFOSEC principles, OMB/DoD regulations, and security tools—directly translating to the foundational web security knowledge (OWASP, CSP, CORS) you seek.
+
+I am adept at thriving in Agile, cross-functional environments, having established effective working relationships with top-level managers, program managers, and external agency partners to deliver mission-critical solutions. My career is defined by researching and recommending innovative approaches to resolve major IT problems, demonstrating a continuous learning mindset and a keen interest in understanding full domains beyond my immediate expertise. I am now intensely focused on transitioning this analytical and leadership capability into hands-on development with modern stacks.
+
+I have actively been refining my skills in JavaScript, TypeScript, React, and modern CSS tools to complement my strong backend and security awareness. My experience with Git, rigorous testing protocols, and CI/CD pipelines in high-stakes environments ensures I can contribute to your team’s commitment to quality and automation from day one. My Top Secret/SCI clearance further underscores my reliability and understanding of secure development practices.
+
+I am confident that my unique blend of strategic oversight, security-focused development mindset, and dedication to mastering modern front-end engineering would make me a valuable asset to your team.
+
+Sincerely, Alexis

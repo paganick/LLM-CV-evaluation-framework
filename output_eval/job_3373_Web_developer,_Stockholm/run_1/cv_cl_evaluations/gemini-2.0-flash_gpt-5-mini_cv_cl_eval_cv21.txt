@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but lacks specific skills mentioned in the job description like React, modern CSS tools, and testing frameworks. While they express interest in learning these technologies, their current skillset doesn't align with the requirements. Their experience is more focused on .NET and older technologies.

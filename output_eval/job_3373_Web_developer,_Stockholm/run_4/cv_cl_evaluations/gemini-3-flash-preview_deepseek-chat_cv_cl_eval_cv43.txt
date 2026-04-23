@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in software development, with a career history exclusively dedicated to program management and learning design. While the cover letter claims self-directed learning of the required tech stack, the resume fails to provide evidence of professional application or proficiency in JavaScript, TypeScript, or React. As a career-changer without a technical track record, the candidate does not meet the mandatory requirements for hands-on experience in testing, web security, or modern frontend frameworks.

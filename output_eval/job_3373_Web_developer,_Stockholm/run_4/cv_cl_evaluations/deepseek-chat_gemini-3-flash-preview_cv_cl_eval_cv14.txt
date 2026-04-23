@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern frontend skills required. The resume shows extensive ASP.NET, C#, and SharePoint experience with only basic mentions of HTML, CSS, and JavaScript, and no demonstrated experience with React, TypeScript, or modern testing frameworks. While the cover letter attempts to bridge the gap, it does not provide concrete evidence of hands-on work with the core technologies listed in the job description.

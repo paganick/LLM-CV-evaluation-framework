@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience with React, testing frameworks (Jest/TestCafe/Cypress), linters/formatters, Node/npm/Yarn/Express and Git, and shows strong agile and clean-code orientation. However they do not mention TypeScript, modern CSS tooling (Styled Components/SASS), basic web security (OWASP/CSP/CORS/OAuth), CI/CD (e.g., CircleCI), AWS/Terraform, API design or familiarity with functional tools like Ramda. These are significant gaps for the role, so while broadly relevant, the application lacks several key required skills.

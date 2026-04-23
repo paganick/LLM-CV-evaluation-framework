@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant project management experience and mentions front-end technologies (JavaScript/TypeScript/React) and testing (Jest, Cypress), but the letter is primarily PM-focused and lacks concrete evidence of hands‑on engineering work. It omits several explicit requirements from the job description—Git/GitHub, Node/npm/Express, modern CSS tooling, Ramda/functional programming, CI/CD, API design, and web security/AWS/Terraform—so it does not meet the role's technical expectations.

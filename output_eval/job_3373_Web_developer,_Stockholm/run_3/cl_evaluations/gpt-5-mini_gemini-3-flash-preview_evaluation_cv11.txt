@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates solid relevant strengths in JavaScript, React-related front-end testing, Git, web security knowledge and Agile collaboration, plus leadership experience from a QA background. However, they lack demonstrated hands-on experience with TypeScript, the Node.js ecosystem (npm/Yarn, Express), modern CSS tooling (Styled Components/SASS), functional programming (Ramda), specific CI/CD tooling (CircleCI), linters/formatters, and AWS/Terraform, which are important for this role.

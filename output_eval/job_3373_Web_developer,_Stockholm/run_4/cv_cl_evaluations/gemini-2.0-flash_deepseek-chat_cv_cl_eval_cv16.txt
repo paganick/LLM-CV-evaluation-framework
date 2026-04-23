@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a .NET background, which is not the primary focus of the job. While they mention JavaScript, HTML, and CSS, the depth of experience with modern FE frameworks is questionable. The resume lacks explicit experience with React (the preferred framework), testing frameworks mentioned (Jest, Cypress) and other desired skills like NodeJS, CI/CD, and AWS.

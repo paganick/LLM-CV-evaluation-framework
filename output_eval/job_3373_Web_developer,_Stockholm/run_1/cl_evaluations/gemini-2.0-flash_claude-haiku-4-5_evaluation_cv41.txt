@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in systems engineering, not frontend development, which is a significant gap. While they express interest in learning and mention relevant skills like debugging, they lack demonstrable experience with core frontend technologies like React, testing frameworks, and modern CSS tools, all crucial for the role. The letter relies heavily on transferable skills rather than direct frontend experience.

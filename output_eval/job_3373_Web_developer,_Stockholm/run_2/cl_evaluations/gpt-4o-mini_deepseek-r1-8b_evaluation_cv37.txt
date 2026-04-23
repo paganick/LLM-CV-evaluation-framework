@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in project management and technology leadership, which is relevant to the industry. However, they lack specific hands-on experience with front-end development technologies mentioned in the job description, such as JavaScript frameworks (React), testing frameworks, and CI/CD tools. Their familiarity with the IT landscape does not compensate for the required technical skills, resulting in a low-moderate match for the role.

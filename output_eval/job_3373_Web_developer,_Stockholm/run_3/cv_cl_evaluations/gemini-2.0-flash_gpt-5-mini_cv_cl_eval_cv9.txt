@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Java background but lacks sufficient experience with the core front-end technologies listed in the job description, like React, TypeScript, and modern CSS tools. While they express interest in learning these technologies, their current skillset is not a strong match. Their experience with JavaScript and HTML is minimal in the context of the job requirements.

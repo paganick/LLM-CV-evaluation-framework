@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses experience in JavaScript, HTML, and CSS, but lacks specific mention of modern FE frameworks like React, VueJS, or Angular. There is no mention of testing frameworks, CI/CD tools, or cloud platforms like AWS. The resume highlights C#, Python, and SQL expertise more prominently, suggesting a different focus.

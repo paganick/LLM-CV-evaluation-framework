@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate shows potential with transferable skills in problem-solving and collaboration from previous roles, they lack specific experience with key technologies mentioned in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. Their proficiency in HTML and design is noted, but there is no mention of hands-on experience with testing frameworks, version control systems, or web security concepts that are crucial for the role.

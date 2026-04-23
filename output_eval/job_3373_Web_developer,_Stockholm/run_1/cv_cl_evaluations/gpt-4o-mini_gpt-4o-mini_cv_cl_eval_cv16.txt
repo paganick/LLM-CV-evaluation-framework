@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development with JavaScript, HTML, and CSS, but lacks specific expertise in modern front-end frameworks like React, which is critical for the position. While they have some familiarity with Agile practices and testing, their knowledge of security principles and advanced tools such as CI/CD, AWS, and functional programming is limited, making them a relevant but not strong fit for the role.

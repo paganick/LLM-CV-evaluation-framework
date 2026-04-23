@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's 20-year background is in operations and finance, not frontend development, which is a significant mismatch. While they demonstrate strategic project leadership and mention some relevant concepts (e.g., user experience, React), the letter provides no concrete evidence of hands-on technical skills in JavaScript, TypeScript, modern frameworks, testing, or the specific tools listed in the job description. The experience described is managerial and focused on implementing business solutions, not writing production frontend code.

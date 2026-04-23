@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory modern frontend stack, specifically JavaScript, TypeScript, and React, describing these as skills they are only currently "committed to mastering." While they possess relevant soft skills and a technical background in data engineering, they fail to demonstrate hands-on proficiency in CSS, automated testing frameworks, or web security protocols like CORS and OAuth. As a career-transitioning candidate, they do not meet the minimum technical requirements for this specific engineering role.

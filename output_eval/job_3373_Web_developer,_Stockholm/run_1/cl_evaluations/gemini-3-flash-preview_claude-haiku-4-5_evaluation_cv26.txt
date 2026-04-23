@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer who lacks the required technical proficiency in JavaScript, TypeScript, React, and testing frameworks, noting only that they have begun learning foundations. There is no evidence of professional experience with Git, web security, or any of the advanced tools listed in the job description. Consequently, the applicant does not meet the minimum technical requirements and is unqualified for a professional developer role at this stage.

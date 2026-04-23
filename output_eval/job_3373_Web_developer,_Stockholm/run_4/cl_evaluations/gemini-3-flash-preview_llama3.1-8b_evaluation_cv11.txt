@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software testing and Agile methodologies, they lack the specific technical expertise required for this stack, notably TypeScript and modern testing frameworks like Cypress or Jest. The applicant expresses an interest in learning React rather than demonstrating the requested hands-on proficiency, and fails to mention critical requirements such as Git, CI/CD, or the Node.js ecosystem. Their background in Java and Selenium is not a direct match for the modern JavaScript-centric environment described.

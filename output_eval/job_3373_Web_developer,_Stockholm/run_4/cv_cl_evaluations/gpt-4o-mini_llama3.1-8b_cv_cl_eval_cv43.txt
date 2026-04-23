@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in program management and curriculum development, but lacks direct technical skills related to front-end development, specifically with JavaScript, TypeScript, and React. Additionally, there is no mention of experience with testing frameworks or familiarity with modern CSS tools, which are crucial for the role. The candidate's background in cognitive science and learning design does not align with the core technical requirements of the position.

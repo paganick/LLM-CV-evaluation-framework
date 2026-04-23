@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with front-end technologies like Javascript, HTML, CSS and AngularJS, but lacks the required depth in modern FE frameworks like React, VueJS or Svelte. While they mention familiarity with some testing frameworks and CI/CD tools, their experience appears limited. The resume and cover letter primarily highlight Java and back-end experience, which isn't the focus of the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align well with the listed JavaScript-centric requirements. While they express interest in modern FE frameworks and have some experience with jQuery, they lack hands-on experience with React or other modern tools specified in the job description. The resume doesn't demonstrate a strong understanding of the modern web development practices the role requires.

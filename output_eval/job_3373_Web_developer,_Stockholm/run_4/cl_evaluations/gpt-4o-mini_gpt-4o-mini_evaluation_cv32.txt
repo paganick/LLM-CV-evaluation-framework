@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows a strong desire to transition into frontend development, highlighting relevant foundational knowledge and skills such as understanding web security issues and working in Agile environments. However, there is a lack of direct hands-on experience with the required technologies, such as React and specific testing frameworks. Additionally, familiarity with modern CSS tools, CI/CD, and the NodeJS ecosystem is not mentioned, which further limits their suitability for the position.

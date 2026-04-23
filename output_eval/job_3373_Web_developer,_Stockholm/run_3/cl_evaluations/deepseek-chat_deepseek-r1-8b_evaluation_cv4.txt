@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, relevant background in the core required technologies and methodologies, including React, Agile, testing, and Git. However, the cover letter makes no mention of several key requirements from the job description, such as web security fundamentals (OWASP, CORS), specific modern CSS tools, linters, or the listed CI/CD and infrastructure knowledge. While a good match for the primary development duties, the omission of these specified skills prevents a higher score.

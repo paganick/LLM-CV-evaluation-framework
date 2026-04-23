@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Salesforce Marketing Cloud implementation, which is not the focus of the job description. While the candidate mentions HTML, CSS, and some familiarity with web technologies, the resume lacks depth in modern front-end frameworks and testing methodologies. The cover letter overstates the candidate's experience with React and other required technologies.

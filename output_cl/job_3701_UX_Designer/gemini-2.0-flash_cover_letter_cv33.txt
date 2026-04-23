@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the User Experience Designer position at your company in Preston, Lancashire. With over 11 years of IT experience, including significant involvement in Master Data Management (MDM) solutions, I am confident I possess a unique blend of technical understanding and user-centric design principles that would greatly benefit your team.
+
+While my background is primarily in architecture and development, my career has consistently emphasized the importance of translating user needs into effective business solutions. In my previous roles as Senior Architect at TIBCO Software and Cognizant Technology Solutions, I was responsible for the full lifecycle of MDM projects, from initial architecture to final deployment. I have a proven ability to lead teams, manage stakeholder expectations, and ensure successful project outcomes.
+
+My experience with clients like Kohl's and RAC WA involved managing teams to implement MDM workflows and rulebases, focusing on efficient and user-friendly solutions. I also have experience in analysing data and performing effective data migration and de-duplication.
+
+Although the job description mentions Figma, HTML, CSS and JavaScript, I can apply my knowledge of HTML/XML, XSL, XSLT and CSS. My hands-on experience with various technologies, including TIBCO MDM, Oracle, and SQL Server, has instilled in me a deep understanding of how technical constraints can influence user experience. 
+
+I am eager to leverage my analytical skills, communication abilities, and experience in data-driven decision-making to contribute to your User Experience team. I am particularly drawn to the opportunity to manage the User Experience roadmap and strategy while being the voice of the user across the business.
+
+Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

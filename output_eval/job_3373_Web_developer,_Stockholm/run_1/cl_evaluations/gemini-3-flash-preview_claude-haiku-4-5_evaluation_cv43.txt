@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks any professional experience in frontend development and admits to only having intermediate coursework and a commitment to learning the required tech stack. They do not possess the mandatory hands-on experience with React, TypeScript, or testing frameworks, nor do they demonstrate the required knowledge of web security protocols. While they have strong transferable soft skills, their lack of technical proficiency makes them unqualified for this specific engineering position.

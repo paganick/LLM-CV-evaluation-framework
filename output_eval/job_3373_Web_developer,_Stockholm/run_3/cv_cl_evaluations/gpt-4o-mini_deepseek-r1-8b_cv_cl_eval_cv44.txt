@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and user experience but lacks specific experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are crucial for the role. While they have a solid understanding of design principles and some testing experience, they do not demonstrate familiarity with the full range of required technical skills, including test automation or security knowledge. The lack of direct experience in a development role limits their suitability for the position.

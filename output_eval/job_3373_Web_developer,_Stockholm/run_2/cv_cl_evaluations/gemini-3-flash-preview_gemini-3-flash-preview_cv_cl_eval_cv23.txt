@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily an electronics and hardware technician with no professional experience in frontend development or the required React/TypeScript stack. Although the cover letter mentions a pivot to software, the resume lacks any evidence of professional web development work, focusing instead on circuit troubleshooting and electromechanical assembly. The candidate lacks the specific expertise in modern CSS, frontend testing frameworks, and web security required for this role.

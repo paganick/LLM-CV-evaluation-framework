@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter demonstrate a career in materials analysis, metallurgy, and process improvement with no evidence of JavaScript/TypeScript, React, frontend frameworks, Node.js, testing frameworks, Git, CI/CD, or web security knowledge required for this role. While strong in data analysis and cross-functional collaboration, those transferable skills do not compensate for the complete lack of relevant frontend development experience. This profile is therefore entirely unqualified for the position.

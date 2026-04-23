@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a sales background with limited relevant experience in frontend development. While they demonstrate a willingness to learn and have foundational knowledge in HTML and some modern technologies, they lack hands-on expertise with key required skills such as JavaScript, TypeScript, and frameworks like React. Their lack of experience with testing automation and other specified technologies indicates they do not fully meet the job requirements.

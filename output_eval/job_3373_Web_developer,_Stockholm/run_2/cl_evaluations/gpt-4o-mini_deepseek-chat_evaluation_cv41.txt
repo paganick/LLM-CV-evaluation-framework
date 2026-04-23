@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in relevant technologies such as JavaScript, TypeScript, HTML, and CSS, as well as experience with React, which aligns with the job's requirements. However, while they mention familiarity with test automation tools and CI/CD, they lack specific experience with some of the additional modern tools and frameworks noted in the job description, such as Styled Components, SASS, and CircleCI, which hinders their overall match.

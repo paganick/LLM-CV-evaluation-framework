@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace, defense, and business development, with no demonstrated professional experience in modern frontend development, React, TypeScript, or the specific technical stack required. While they have a computer science degree and mention systems-level IT work, their recent decades of experience are not relevant to the hands-on coding, framework, and testing automation requirements of the role. The application represents a significant career pivot without current, applicable technical skills for the position.

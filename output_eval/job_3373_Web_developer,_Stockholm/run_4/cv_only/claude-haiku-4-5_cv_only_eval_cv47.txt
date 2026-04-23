@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Business Development Manager with expertise in sales, marketing, and business development in the chemical industry - completely misaligned with frontend software engineering requirements. While the resume mentions basic HTML, C, and C++ from over a decade ago, there is zero evidence of modern JavaScript, TypeScript, React, testing frameworks, Git, or any of the technical competencies required for this role. This candidate belongs in a completely different industry and career path from what this position demands.

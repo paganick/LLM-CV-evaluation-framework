@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a relevant background in web development and experience with ASP.NET, which aligns well with the requirements. They demonstrate familiarity with modern JavaScript frameworks, testing, and version control, but they lack direct experience with some specific technologies mentioned in the job description, such as React and CI/CD tools. Overall, they present a strong application but could improve alignment with the desired tech stack.

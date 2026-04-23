@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in the banking domain and mainframe development, but lacks the required hands-on experience with modern frontend technologies like JavaScript frameworks (specifically React), TypeScript, and CSS. While they demonstrate a willingness to learn and adapt to new technologies, the lack of experience in testing frameworks and web security principles is a concern for this role, placing them in the relevant industry but falling short of specific skills required.

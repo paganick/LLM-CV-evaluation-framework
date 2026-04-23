@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in marketing automation and technology consulting, but lacks direct experience with frontend development languages and frameworks specified in the job description, such as React and TypeScript. Although they mention some knowledge of JavaScript and HTML/CSS, the candidate does not demonstrate hands-on experience with the required modern frontend tools and practices. Their skills are more aligned with marketing automation rather than a strong technical development role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has some relevant experience with JavaScript, HTML, and testing, they emphasize mainframe technologies, which is not a primary requirement. The letter demonstrates a willingness to learn and some familiarity with relevant technologies like React and Git. However, the lack of specific experience in the required modern FE frameworks beyond React and a basic familiarity with Node.js brings the score down.

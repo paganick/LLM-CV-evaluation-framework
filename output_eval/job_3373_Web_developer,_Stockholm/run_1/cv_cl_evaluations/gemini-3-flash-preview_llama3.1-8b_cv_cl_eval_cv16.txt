@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume reveals a legacy .NET and jQuery background that lacks professional experience with the required React and TypeScript stack. While the cover letter mentions modern frameworks, the actual work history is dated (ending in 2016) and provides no evidence of projects using React, Node.js, SASS, or automated testing tools like Jest and Cypress. Furthermore, the candidate lacks the requested experience in functional programming, CI/CD, and cloud infrastructure.

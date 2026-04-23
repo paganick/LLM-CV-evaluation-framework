@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is transitioning from a completely unrelated industry (Civil Engineering) and fails to demonstrate any practical experience or proficiency with the required technical stack, such as React, TypeScript, or automated testing. While they possess impressive high-level project management experience, they provide no evidence of foundational frontend development skills or a technical portfolio. Consequently, they are fundamentally unqualified for a technical role that requires immediate hands-on coding expertise.

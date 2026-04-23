@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of the required front-end technologies and frameworks, especially React. They highlight relevant experience with testing frameworks and the NodeJS ecosystem. While a perfect score would require explicit mention of experience with CI/CD tools and modern CSS tools like Styled Components or SASS, the candidate's experience is promising.

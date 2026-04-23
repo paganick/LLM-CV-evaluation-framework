@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant front-end experience with HTML/CSS/JavaScript, API integrations, security awareness, and QA/testing leadership, and demonstrates strong collaboration in Agile environments. However, they do not demonstrate hands-on experience with critical parts of the listed stack—React and TypeScript, modern JS testing frameworks (Jest/Cypress), modern CSS tooling (Styled Components/SASS), Node/npm, Git/GitHub, CI/CD, or AWS/Terraform. Given these gaps in essential technologies, they are a relevant but incomplete fit for the role.

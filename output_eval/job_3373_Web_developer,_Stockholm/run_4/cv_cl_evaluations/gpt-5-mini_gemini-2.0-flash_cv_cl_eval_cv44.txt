@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong UX/design and basic HTML/CSS experience, which is relevant, but lacks the core technical skills required for this role (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, and web security/CI/CD experience). Their background shows transferable collaboration and user-centered strengths but does not meet the essential hands-on front-end development and automation expectations. Consider only if hiring for a junior/training role with a formal plan to upskill immediately.

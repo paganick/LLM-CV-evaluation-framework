@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in systems administration, which is tangentially related, but lacks demonstrable experience in modern front-end development. While the cover letter claims experience with React, Jest, and Cypress, the resume does not provide concrete examples. The resume primarily focuses on system administration and troubleshooting, indicating a need for significant upskilling to meet the job requirements.

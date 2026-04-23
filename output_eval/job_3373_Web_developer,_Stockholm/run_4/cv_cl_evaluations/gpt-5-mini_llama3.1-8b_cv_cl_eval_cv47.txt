@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry with only very basic HTML and legacy tools (Dreamweaver) and no demonstrated experience in JavaScript/TypeScript, React, modern CSS, testing frameworks, Node ecosystem, or cloud/infra—core requirements of the role. The cover letter explicitly admits lack of direct front-end and testing experience and the resume contains no relevant professional software development experience. This is a mismatch in industry and technical skillset for the position.

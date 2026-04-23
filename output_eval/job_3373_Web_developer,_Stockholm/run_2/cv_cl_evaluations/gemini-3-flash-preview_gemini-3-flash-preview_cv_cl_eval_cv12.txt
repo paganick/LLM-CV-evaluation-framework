@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over seven years of technical experience, their professional background is heavily rooted in PHP, C++, and legacy scripting rather than the modern React and TypeScript ecosystem required. The resume lacks any mention of TypeScript, functional programming libraries like Ramda, or specialized front-end testing frameworks such as Jest and Cypress. Additionally, there is no evidence of experience with AWS, Terraform, or modern CI/CD pipelines, making them a poor fit for this specific technical stack.

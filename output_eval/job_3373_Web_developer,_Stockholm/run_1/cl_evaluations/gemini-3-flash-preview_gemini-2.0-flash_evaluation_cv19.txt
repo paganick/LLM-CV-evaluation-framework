@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks almost all the core technical requirements for this role, specifically missing required proficiency in JavaScript, TypeScript, and React. While they possess a basic understanding of HTML and CSS, their professional background is primarily in graphic design and manual labor rather than software engineering. There is no evidence of experience with testing frameworks, Git, web security, or modern development ecosystems required for this position.

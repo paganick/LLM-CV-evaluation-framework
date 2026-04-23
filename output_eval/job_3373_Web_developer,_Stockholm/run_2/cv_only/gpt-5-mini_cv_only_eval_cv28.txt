@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials analysis, manufacturing quality, and statistical process control with no evidence of JavaScript/TypeScript, React or other modern frontend frameworks, testing frameworks, Git experience, NodeJS, or web security knowledge required for this role. The resume reflects a different industry and skillset (materials engineering, Six Sigma, Tableau) and does not meet the core technical requirements for the frontend developer position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong analytical, testing, and web fundamentals (HTML, C#) and clearly has transferable skills and a disciplined testing mindset. However, they do not demonstrate hands‑on experience with core requirements for this role—JavaScript/TypeScript, React, modern CSS tools, Node/npm, front‑end testing frameworks, Git/GitHub workflows, and basic web security—so significant ramp‑up would be required.

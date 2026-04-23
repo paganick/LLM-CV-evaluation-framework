@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Technical Project Manager attempting to transition into a developer role and lacks professional experience with the company's required React framework and TypeScript. While they demonstrate strong industry knowledge and soft skills, they explicitly admit to limited experience with testing frameworks and functional programming, which are core requirements for this position. The applicant does not meet the technical hands-on seniority level expected for a dedicated Frontend Developer role.

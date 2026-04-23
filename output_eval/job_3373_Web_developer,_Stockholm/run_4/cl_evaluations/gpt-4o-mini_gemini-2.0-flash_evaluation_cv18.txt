@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in information technology and a solid foundation in JavaScript, HTML, and CSS, which makes them relevant for the role. However, they lack specific experience mentioned in the job description, such as familiarity with TypeScript, modern front-end frameworks beyond React, testing frameworks, and CI/CD tools. Their qualifications do not fully align with the requirements, putting them at a moderate score.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in systems integration and testing, but lacks direct experience with JavaScript, TypeScript, HTML, CSS, and modern FE frameworks like React. While they mention Git, their experience appears tangential rather than hands-on development. The letter focuses heavily on marketing automation, which is outside the core requirements of the job description.

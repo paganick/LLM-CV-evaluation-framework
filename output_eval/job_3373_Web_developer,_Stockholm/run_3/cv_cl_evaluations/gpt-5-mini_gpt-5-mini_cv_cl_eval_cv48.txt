@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive IT support, systems and security-compliance experience and strong communication/training skills, which are somewhat relevant, but they lack demonstrable hands-on experience with core front-end technologies required for this role (JavaScript, TypeScript, React, HTML/CSS), modern testing frameworks, Node.js toolchain, and CI/CD. Their resume and cover letter indicate willingness to learn but do not provide evidence of the specific technical skillset or project experience needed to contribute immediately as a front-end engineer.

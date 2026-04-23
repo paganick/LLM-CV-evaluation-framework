@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on project management rather than hands-on development. While they mention Javascript, HTML/CSS, and Angular, the depth of their technical expertise is unclear. The resume lacks concrete examples of building and testing web applications, and focuses on managing projects rather than contributing directly to the codebase.

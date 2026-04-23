@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# web forms and MVC, not in the modern JavaScript frameworks (React, Vue, Angular, Svelte) explicitly required. While they mention JavaScript, HTML, and CSS, the resume lacks evidence of key required skills like TypeScript, React, modern CSS tools (Styled Components, SASS), Node.js, functional programming, or the specific testing frameworks listed. The cover letter attempts to align but does not demonstrate the hands-on, recent experience with the core tech stack.

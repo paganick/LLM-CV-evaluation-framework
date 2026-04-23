@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter show a long career in HR with no demonstrated commercial UX/design roles, portfolio, or relevant project experience, so the candidate does not meet the primary requirement of 2-3 years’ UX experience. There is no substantive evidence of required technical skills or tools (Figma, prototyping, HTML/CSS/JS), Agile delivery experience, or experience managing a UI design system. While stakeholder facilitation and mentoring are transferable, they are insufficient to compensate for the lack of core UX capabilities.

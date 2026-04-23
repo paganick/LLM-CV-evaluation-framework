@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong project management skills and experience in managing IT projects, but lacks the specific technical expertise in JavaScript, TypeScript, and modern front-end frameworks such as React, which are critical for the role. Additionally, there is no evidence of direct experience with testing and automation, which is an essential part of the position.

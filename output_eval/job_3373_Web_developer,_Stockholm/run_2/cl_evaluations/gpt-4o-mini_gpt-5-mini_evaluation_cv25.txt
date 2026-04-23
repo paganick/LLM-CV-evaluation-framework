@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in graphic design and a foundational knowledge of HTML and CSS, which is relevant. However, they lack specific experience with modern front-end frameworks like React, testing frameworks, Git, and CI/CD tools mentioned in the job description. Additionally, while they express eagerness to learn, the absence of practical experience with key technologies and tools required for the role impacts their suitability.

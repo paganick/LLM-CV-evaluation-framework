@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid foundation in core web technologies and experience in programming languages, but they lack hands-on experience with the specific modern frameworks and libraries mentioned in the job description, particularly React. They also do not demonstrate familiarity with testing frameworks or CI/CD tools, which are critical for the position. While their background in construction provides transferable skills, further direct experience in web development is needed to fully meet the job's requirements.

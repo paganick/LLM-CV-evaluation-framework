@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational skills like JavaScript, HTML, CSS, and Git. However, the resume and cover letter lack any demonstrable, hands-on experience with the core requirement of React or other modern front-end frameworks. Key requirements like testing frameworks (Jest, Cypress), modern CSS tools (Styled Components), functional programming (Ramda), and CI/CD are mentioned aspirationally but not evidenced with concrete project experience.

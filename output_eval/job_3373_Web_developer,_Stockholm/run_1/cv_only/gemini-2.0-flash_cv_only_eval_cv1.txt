@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and ReactJS, aligning well with the primary technical requirements. They also possess experience in testing and automation, Git, and Agile methodologies. While they lack explicit mention of TypeScript, OWASP, CSP, CORS, OAuth, NodeJS ecosystem, CI/CD tools, API design, AWS, Terraform and the specified CSS and testing tools, the candidate's overall experience suggests a strong foundation for this FE role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates relevant web fundamentals (HTML/CSS, SQL) and strong collaboration/implementation experience, but lacks hands-on experience in the role's core technical requirements such as JavaScript/TypeScript, React, modern testing frameworks, Git, and Node/npm tooling. There is no evidence of familiarity with modern CSS tooling, CI/CD, or web security practices listed in the job description. While motivated to learn, the current technical skillset is insufficient for this frontend developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in C# and ASP.NET but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for this role. While they have some web development experience and knowledge of Git, the limited exposure to the required technologies and frameworks makes them less suitable for this position.

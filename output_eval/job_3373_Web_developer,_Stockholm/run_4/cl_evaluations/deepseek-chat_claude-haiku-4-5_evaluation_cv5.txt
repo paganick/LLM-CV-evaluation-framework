@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, collaboration, and a willingness to learn. However, the cover letter reveals a significant lack of specific, hands-on experience with the core technologies listed in the job description, most critically admitting that frontend development is a career pivot from mainframe work. Key required skills like TypeScript, modern CSS tools, specific testing frameworks, and security knowledge are not substantiated.

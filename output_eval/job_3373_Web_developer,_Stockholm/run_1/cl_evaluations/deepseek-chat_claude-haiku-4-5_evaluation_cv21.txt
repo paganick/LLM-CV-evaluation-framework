@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and strong foundational web skills but lacks direct, hands-on experience with the core technologies specified in the job description, particularly React, TypeScript, and modern frontend tooling. They explicitly note gaps in key required areas like Jest, Cypress, Styled Components, and CI/CD tools. While their soft skills and adaptability are assets, the technical mismatch for a React-focused role is significant.

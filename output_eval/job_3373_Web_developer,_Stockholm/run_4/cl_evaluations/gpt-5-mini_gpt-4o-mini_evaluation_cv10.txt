@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience, testing (Jest), Node.js familiarity, Git, and Agile experience, but lacks explicit React and TypeScript experience which are core to this role. They also do not demonstrate knowledge of modern CSS toolchains (Styled Components/SASS), linters/formatters, functional libraries (Ramda), CI/CD, or web security practices (OWASP/CSP/CORS/OAuth) required by the job. While technically adaptable, the gaps in key technologies required for an immediate strong fit lower the score.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is from the media production and film industry with no demonstrated experience in web development, JavaScript, TypeScript, React, or any of the required frontend technologies. The resume shows expertise in video editing, camera operation, and production management—skills entirely unrelated to the frontend engineering position. There is no evidence of software development knowledge, testing frameworks, Git, web security, or any technical skills mentioned in the job description. This is a completely wrong industry match.

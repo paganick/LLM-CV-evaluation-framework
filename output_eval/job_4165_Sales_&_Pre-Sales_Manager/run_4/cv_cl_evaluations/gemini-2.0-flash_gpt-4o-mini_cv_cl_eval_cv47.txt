@@ -1,0 +1,2 @@
+Score: [6]
+Reasoning: The candidate has some relevant experience in client-facing roles and pre-sales activities, as well as exposure to relevant technologies like databases and application servers. However, the resume lacks specific sales experience with the digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, Design Thinking, UX Research). The experience seems more focused on technical business analysis rather than direct digital sales.

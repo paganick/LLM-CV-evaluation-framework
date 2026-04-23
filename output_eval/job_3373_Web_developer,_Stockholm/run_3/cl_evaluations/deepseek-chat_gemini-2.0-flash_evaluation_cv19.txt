@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design with only foundational HTML/CSS skills, which is relevant to the industry but insufficient. The job requires proven experience with JavaScript, TypeScript, React, and testing frameworks, which the candidate explicitly states they are only eager to learn. While they demonstrate a strong work ethic and collaboration skills, they lack the specific, hands-on technical experience required for the role.

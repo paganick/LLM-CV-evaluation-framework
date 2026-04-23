@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a relevant background with a Master's degree in Computer Science and over two years of full-stack web development experience. They demonstrate familiarity with key technologies such as HTML, CSS, JavaScript, and testing practices. However, they lack specific experience with some modern frameworks and tools mentioned in the job description, such as TypeScript, Jest, and the NodeJS ecosystem, which slightly limits their suitability for the position.

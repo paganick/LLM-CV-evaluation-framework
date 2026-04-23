@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate explicitly admits to having no direct experience with the core requirements of the role, including JavaScript, TypeScript, and React. While they possess a background in IT infrastructure and systems administration, they lack the necessary software development experience and proficiency in modern frontend tools or automated testing frameworks. The application relies on a willingness to learn rather than the proven technical expertise mandated by the job description.

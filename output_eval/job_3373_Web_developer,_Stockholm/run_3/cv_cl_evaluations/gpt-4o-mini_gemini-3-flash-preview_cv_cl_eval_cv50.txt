@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in computer science and has experience with software development, which aligns with the relevant industry. However, they do not demonstrate proficiency in modern front-end frameworks like React, nor do they clearly outline hands-on experience with the specific testing frameworks mentioned in the job description. Their experience leans more towards project management and business development rather than direct software engineering roles.

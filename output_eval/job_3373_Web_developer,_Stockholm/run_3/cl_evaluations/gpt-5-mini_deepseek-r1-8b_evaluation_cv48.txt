@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT support experience, familiarity with Git, basic web security concepts, and strong collaboration/communication skills, but lacks direct, demonstrable experience with core requirements (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Node ecosystem, CI/CD, and cloud/infra familiarity). Given these significant gaps in required frontend and test-automation competencies, they are underqualified for this role without substantial upskilling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong analytical, collaboration, and domain-knowledge strengths and claims self-taught frontend skills, but the resume contains no professional front-end development experience, no portfolio or GitHub evidence, and no concrete projects demonstrating React/TypeScript, testing automation, CI/CD, or cloud/infra experience. Given the role's requirement for hands-on modern front-end experience and toolchain familiarity, the application lacks the required demonstrable technical depth to be rated higher.

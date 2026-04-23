@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their professional background is entirely in business banking, sales, and residential coordination rather than software engineering. The resume shows zero evidence of experience with the required technical stack, including JavaScript, React, TypeScript, or cloud infrastructure. There is no alignment between the candidate's skills and the specific technical requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience in web development and demonstrates proficiency in JavaScript, HTML, and CSS. However, they lack direct experience with modern front-end frameworks such as React, VueJS, or Angular, and their testing experience is not highlighted adequately. The resume also heavily leans on .NET development, which may not align perfectly with the expectations for a front-end developer role focused on modern frameworks and tools.

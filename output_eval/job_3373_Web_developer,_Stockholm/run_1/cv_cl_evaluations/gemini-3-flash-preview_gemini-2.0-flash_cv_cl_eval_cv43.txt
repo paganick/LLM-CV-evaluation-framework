@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a technical Front-End Developer role, lacking professional experience or proficiency in JavaScript, TypeScript, React, and other essential web technologies. Their background is entirely in program management and learning design, with the only technical skill mentioned being intermediate R Studio, which is irrelevant to the job requirements. There is no evidence of work with Git, web security, testing frameworks, or any part of the modern front-end ecosystem.

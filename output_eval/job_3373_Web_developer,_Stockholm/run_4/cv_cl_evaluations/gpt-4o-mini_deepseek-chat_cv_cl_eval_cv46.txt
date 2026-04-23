@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses foundational knowledge in web technologies like JavaScript, HTML, and CSS, and demonstrates experience in testing and Agile environments. However, the resume lacks specific hands-on experience with React and modern CSS frameworks, along with a limited mention of current testing frameworks or web security standards. While there is relevant experience, it does not fully align with all the requirements listed in the job description.

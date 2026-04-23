@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable skills (Agile experience, quality control, attention to detail, and familiarity with Git and basic front-end technologies) and a clear motivation to transition into front-end development. However, they do not provide concrete, hands-on experience with the specific requirements (proven React/TypeScript projects, testing frameworks, Node ecosystem, API design, and AWS/security practices) that this role demands, so they are not yet a strong technical match.

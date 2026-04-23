@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a clear pivot towards front-end development and possesses foundational skills like JavaScript, TypeScript, HTML, CSS, and React, the experience is largely self-taught. The candidate's professional background is in sales, not development. Though they mention relevant technologies and express enthusiasm, they lack hands-on project experience and depth in several required areas outlined in the job description, such as testing frameworks and CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses significant general web development experience but lacks professional proficiency in the core required technologies, specifically React and TypeScript. Their background is heavily centered on the ASP.NET ecosystem and legacy migrations rather than the modern JavaScript stack and testing frameworks requested. While they demonstrate strong collaborative skills and a solid understanding of security, they are unqualified regarding the primary technical stack and automated testing requirements.

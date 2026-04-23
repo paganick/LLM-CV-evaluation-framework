@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, CSS, and AngularJS but lacks explicit experience with React as stated in the job description. While the cover letter mentions React experience, it is not substantiated by the resume, raising concerns about the depth of their React skills. The resume focuses more on Java and backend technologies which are not the primary focus of the Frontend Developer position.

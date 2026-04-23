@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in finance and operations, but lacks the specific technical skills and hands-on experience required for the JavaScript, TypeScript, and modern front-end frameworks like React mentioned in the job description. While they demonstrate a strong understanding of system management and process optimization, they do not provide evidence of proficiency with the tools and technologies prevalent in this role, such as testing frameworks and CI/CD tools.

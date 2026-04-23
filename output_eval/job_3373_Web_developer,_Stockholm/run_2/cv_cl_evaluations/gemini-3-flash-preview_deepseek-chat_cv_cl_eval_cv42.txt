@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with twenty years of experience in finance and operations but possesses no professional experience in software engineering. While the cover letter mentions a self-taught technical skill set, the resume lacks any evidence of professional work with JavaScript, React, TypeScript, or the required testing frameworks. Per the strict requirements of the job description, the candidate is unqualified and belongs to a completely different industry.

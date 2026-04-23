@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is senior finance and operations with no demonstrated hands-on frontend development skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, or modern frontend toolchain experience required for this role. They have led web-related projects and show strong project management and cross-functional collaboration, but there is no evidence of coding, Git use, NodeJS, or CI/CD experience. Given the technical requirements, the applicant is largely unqualified for this frontend developer position.

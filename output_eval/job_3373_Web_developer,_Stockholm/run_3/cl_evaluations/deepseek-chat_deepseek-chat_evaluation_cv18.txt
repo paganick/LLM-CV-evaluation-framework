@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant industry experience and core technical skills in JavaScript, HTML, and CSS, with a clear willingness to learn React. However, the cover letter lacks specific, direct mention of several key requirements from the job description, including TypeScript, modern CSS tools, testing frameworks, CI/CD, and functional programming. The extensive general IT and project management background is valuable but does not fully compensate for the absence of explicit, hands-on experience with the listed modern toolchain.

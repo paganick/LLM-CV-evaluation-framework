@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of the required technologies and a good grasp of the company's tech stack. Their experience with React, TypeScript, testing frameworks, and CI/CD aligns well with the job description. While their background is not purely in software development, they highlight relevant transferable skills and a passion for modern technologies.

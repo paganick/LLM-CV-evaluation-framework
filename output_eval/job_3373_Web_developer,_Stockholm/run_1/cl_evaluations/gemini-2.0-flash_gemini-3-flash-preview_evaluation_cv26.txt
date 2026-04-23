@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of the required technologies (React, TypeScript, testing frameworks, Git). They highlight relevant experience with CSS tools, functional programming, and CI/CD. While the background is unconventional, they've successfully articulated transferable skills and a willingness to learn.

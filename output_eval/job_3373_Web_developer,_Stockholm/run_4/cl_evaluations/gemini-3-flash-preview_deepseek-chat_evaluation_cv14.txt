@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the mandatory modern frontend stack, specifically React and TypeScript, and admits needing to "master" these technologies on the job. While they have a solid full-stack foundation in C# and ASP.NET, they fail to demonstrate specific expertise in required automated testing frameworks (Jest, Cypress) or modern CSS methodologies. Consequently, the applicant is a career-transitioner who does not meet the immediate technical requirements for a specialized Frontend Developer role.

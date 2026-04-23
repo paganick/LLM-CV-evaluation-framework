@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in project management and quality engineering, not frontend development. While they mention a computer science foundation and willingness to learn, the letter lacks specific examples of frontend projects or demonstrable skills in the required technologies (React, TypeScript, modern testing frameworks). The focus on past leadership roles overshadows the current need for hands-on coding experience.

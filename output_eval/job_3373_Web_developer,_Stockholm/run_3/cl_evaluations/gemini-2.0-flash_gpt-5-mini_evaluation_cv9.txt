@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in Java, not front-end development. They express interest in learning front-end technologies, but lack significant hands-on experience with React, TypeScript, and modern CSS techniques mentioned in the job description. While they possess related skills like testing, Git, and Agile experience, the limited front-end expertise makes them a moderate fit.

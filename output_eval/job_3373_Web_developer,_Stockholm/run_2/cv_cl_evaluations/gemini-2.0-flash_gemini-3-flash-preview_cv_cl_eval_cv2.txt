@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Java/J2EE, with limited exposure to the required JavaScript, TypeScript, and modern front-end frameworks like React. While they express interest in learning these technologies, their current skill set doesn't align well with the job description's focus on front-end development. The resume lacks demonstrable experience with testing frameworks, CI/CD tools, and cloud platforms mentioned in the job description.

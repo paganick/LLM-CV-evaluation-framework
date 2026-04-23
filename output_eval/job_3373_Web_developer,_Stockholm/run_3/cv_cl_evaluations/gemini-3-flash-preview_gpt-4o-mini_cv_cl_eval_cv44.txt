@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate holds a Computer Science degree and understands HTML/CSS, their professional experience is almost exclusively centered on UI/UX and presentation design rather than software engineering. They lack critical experience with the required modern stack, including React, TypeScript, and automated testing frameworks like Jest or Cypress. Furthermore, the resume provides no evidence of proficiency in Git, CI/CD, or modern front-end tooling, making them unqualified for this technical engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has substantial experience in business development within the cloud software industry, they lack direct expertise in front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React, which are essential for the role. Additionally, there is no mention of experience with testing frameworks, CI/CD tools, or the specific technologies listed in the job description, indicating a gap in the required technical skills.

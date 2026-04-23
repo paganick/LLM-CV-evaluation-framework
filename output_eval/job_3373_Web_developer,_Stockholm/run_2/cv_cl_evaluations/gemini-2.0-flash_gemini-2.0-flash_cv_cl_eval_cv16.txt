@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of web development with JavaScript, HTML, and CSS. However, their experience is heavily weighted towards .NET technologies rather than modern front-end frameworks like React, which is the team's primary framework. While they express eagerness to learn, the resume lacks concrete experience in the specific technologies mentioned in the job description beyond basic web languages.

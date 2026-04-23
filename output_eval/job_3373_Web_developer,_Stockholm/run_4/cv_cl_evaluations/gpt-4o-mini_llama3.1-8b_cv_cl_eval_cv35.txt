@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in marketing automation, which does not align closely with the required frontend development skills, particularly in JavaScript, TypeScript, and modern frameworks like React. While they express a willingness to learn and have some relevant skills, they lack direct experience in frontend development, testing frameworks, and other specified technologies, making them a weak fit for the role.

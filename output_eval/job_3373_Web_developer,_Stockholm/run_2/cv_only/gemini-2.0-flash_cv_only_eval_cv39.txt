@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in graphic and product design, with minimal evidence of the required front-end development skills. While they mention some HTML and web maintenance, there's no indication of proficiency in JavaScript, TypeScript, modern FE frameworks like React, or testing frameworks. The resume focuses heavily on artistic and design principles, not software development practices.

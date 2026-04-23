@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, specifically in JavaScript, TypeScript, React, and automated testing methodologies. However, they failed to address the mandatory requirement for web security knowledge (OWASP, CSP, CORS, OAuth), which is a significant oversight for a senior-level role. Additionally, the application lacks mention of the preferred CI/CD and modern CSS tooling, resulting in a strong match that nonetheless falls short of the full specification.

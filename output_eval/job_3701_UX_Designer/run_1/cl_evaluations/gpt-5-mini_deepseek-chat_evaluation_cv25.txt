@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong transferable experience in SDLC, user advocacy, stakeholder translation and working in Agile-adjacent environments, which are relevant to the UX role. However they lack documented commercial UX designer experience, no evidence of Figma or prototyping work, limited front-end exposure (HTML/CSS/JS) and no clear experience managing a UI Design System or mentoring a junior designer, so they do not meet several key requirements.

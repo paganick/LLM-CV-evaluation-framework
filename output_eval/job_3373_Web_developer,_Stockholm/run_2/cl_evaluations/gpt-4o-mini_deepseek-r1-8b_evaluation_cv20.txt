@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in front-end technologies and demonstrates a solid understanding of web development principles, they lack direct experience with React and modern CSS tools mentioned in the job description. Additionally, the candidate does not address familiarity with testing frameworks such as Jest or understanding of security practices like OWASP, which are essential for the role.

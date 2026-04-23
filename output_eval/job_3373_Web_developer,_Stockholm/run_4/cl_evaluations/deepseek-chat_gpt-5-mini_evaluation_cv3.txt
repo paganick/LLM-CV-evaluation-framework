@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant foundational skills and a strong work ethic, but lacks direct, professional experience with the key technologies specified, particularly React, TypeScript, and modern testing frameworks. Their academic projects use outdated technologies (Flash, ASP.NET, Java applets) not aligned with the job's modern stack. While they express eagerness to learn the required tools, their hands-on experience does not meet the specific, stated requirements for the role.

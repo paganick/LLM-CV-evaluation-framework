@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in Human Resources, not UX design, and they lack the required 2-3 years of commercial UX experience. While they make compelling parallels between HR and UX skills (user advocacy, workshops), they provide no direct evidence of core UX tasks like prototyping, user research methods, or managing a design system. Their technical aptitude is inferred from HR software, not demonstrated with Figma or relevant front-end tools.

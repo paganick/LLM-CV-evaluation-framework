@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows no relevant modern frontend experience, being heavily focused on outdated Java/EJB, database administration, and unrelated roles from over 7 years ago. The cover letter claims skills in React, TypeScript, and testing tools, but these are entirely unsubstantiated by the resume, indicating a significant mismatch. The profile is from a different era of technology and lacks any evidence to support the specific, modern requirements of the job description.

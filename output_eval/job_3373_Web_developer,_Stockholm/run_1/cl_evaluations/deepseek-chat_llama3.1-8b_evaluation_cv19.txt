@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in graphic design, which is a relevant adjacent field, but the cover letter fails to demonstrate the core front-end development skills required. Key requirements like JavaScript, TypeScript, React, and Git are not mentioned, while listed technical skills (e.g., Node.js, testing frameworks) are presented without context of application in a development role. The letter is generic and does not convincingly bridge the candidate's creative experience to the specific software engineering position.

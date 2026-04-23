@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant academic qualifications and some familiarity with key technologies like HTML, CSS, and JavaScript. However, they lack hands-on experience with modern front-end frameworks such as React, as well as experience with testing automation and web security principles outlined in the job description. Their transition from construction to web development presents a potential gap in related experience and industry knowledge.

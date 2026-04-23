@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in construction and project management but lacks direct experience with the required technologies and frameworks such as JavaScript, TypeScript, and React. While they demonstrate strong leadership and collaboration skills, the absence of relevant software development and testing experience significantly limits their fit for a front-end engineering role. Their background in civil engineering does not align closely with the technical requirements of the position.

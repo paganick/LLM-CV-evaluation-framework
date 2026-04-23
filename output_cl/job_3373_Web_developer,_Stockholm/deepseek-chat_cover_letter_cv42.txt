@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my resume details a twenty-year executive career in finance and operations, it represents a foundational history of systematic problem-solving, process automation, and strategic technical implementation that I am now passionately redirecting toward software engineering.
+
+My extensive background is defined by leading complex, organization-wide projects focused on streamlining systems and introducing automation to replace manual processes. For instance, I spearheaded the replacement of Excel-based budgeting with an integrated ABM software solution, launched online registration and invoicing platforms, and consolidated banking systems—initiatives that consistently reduced transaction processing by 33%. This experience has ingrained in me a relentless focus on efficiency, clean process design, and the user experience, which I view as directly analogous to writing clean, maintainable, and user-centric code.
+
+My transition into development is driven by a deep and genuine passion for building. I have diligently built a modern technical skill set centered on your stack, including:
+*   **Core Technologies:** JavaScript, TypeScript, HTML, CSS, and React.
+*   **Development Practices:** Writing unit and integration tests with Jest, utilizing ESLint and Prettier for code quality, and leveraging Git/GitHub for version control.
+*   **Supporting Knowledge:** Functional programming principles, the Node.js/npm ecosystem, and a foundational understanding of web security (CORS, OAuth) and AWS.
+
+I am a strong collaborator who has thrived in Agile-adjacent environments, coordinating between central offices and over 100 field locations. My career has been dedicated to understanding full operational domains and bridging gaps between teams—a skill I am eager to apply to understanding your full tech stack and collaborating effectively with product and engineering teams.
+
+I am not simply seeking a change, but am strategically pursuing a role where my proven ability to architect efficient systems, automate workflows, and drive technical projects can bring a unique and valuable perspective to your engineering team. I am keen to contribute to and grow with your company.
+
+Thank you for your consideration.
+
+Sincerely, Alexis

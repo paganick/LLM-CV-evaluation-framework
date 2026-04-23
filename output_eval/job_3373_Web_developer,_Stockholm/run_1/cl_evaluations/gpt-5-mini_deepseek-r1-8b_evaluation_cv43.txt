@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong program management, Agile collaboration, and process design skills, but provides no evidence of hands-on front-end development (JavaScript/TypeScript/React), testing frameworks, NodeJS ecosystem, or modern CSS tools required for the role. Their technical background (Salesforce administration, curriculum development) does not substitute for the specific engineering competencies listed. As a strict evaluator, this is a relevant but insufficient fit.

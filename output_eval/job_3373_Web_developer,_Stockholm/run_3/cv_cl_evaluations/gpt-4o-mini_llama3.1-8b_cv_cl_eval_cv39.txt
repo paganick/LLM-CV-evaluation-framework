@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and product development but lacks the specific technical skills outlined in the job description, such as proficiency in JavaScript, TypeScript, modern front-end frameworks (React), and testing frameworks. While they mention some familiarity with HTML and Git, the absence of hands-on experience with the required technologies and tools makes them not fully qualified for the role.

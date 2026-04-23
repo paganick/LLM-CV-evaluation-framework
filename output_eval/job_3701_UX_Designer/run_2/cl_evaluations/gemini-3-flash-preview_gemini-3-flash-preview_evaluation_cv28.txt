@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the mandatory requirement of 2-3 years of commercial experience specifically in a UX Designer role, with a background primarily in banking and training rather than software design. There is no explicit mention of proficiency in Figma or technical experience with HTML/CSS, which are key requirements for managing the UI Design System. While the candidate possesses transferable soft skills, they lack the direct professional UX pedigree and Agile software development history necessitated by the job description.

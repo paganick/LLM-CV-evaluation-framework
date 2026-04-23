@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience in front-end development and does not meet the technical requirements for TypeScript, React, or automated testing. While they have a background in the IT industry, they are missing nearly all specific skills listed, including modern CSS tools, functional programming, and CI/CD expertise. Their application relies on a willingness to learn rather than the proven proficiency required for this role.

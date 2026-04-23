@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate expresses interest and relevant soft skills, the cover letter lacks specific front-end development experience with the technologies mentioned in the job description. The candidate's background is primarily in IT support, and the letter demonstrates a beginner-level understanding of web security and front-end frameworks. The letter does not state that they are proficient in JavaScript, TypeScript, HTML, CSS, React, or Git.

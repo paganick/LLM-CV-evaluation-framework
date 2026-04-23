@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Program Manager and Learning Designer who lacks the fundamental technical requirements, including professional experience with JavaScript, TypeScript, React, and web testing frameworks. While the cover letter mentions a passion for clean code and front-end frameworks, the resume provides no evidence of software engineering experience or relevant technical skills beyond intermediate R studio. This application represents a complete mismatch in industry and core competency for a software development position.

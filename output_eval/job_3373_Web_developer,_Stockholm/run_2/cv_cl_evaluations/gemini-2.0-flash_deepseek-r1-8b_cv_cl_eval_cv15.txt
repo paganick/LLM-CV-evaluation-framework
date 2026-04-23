@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a general IT background but lacks explicit experience with modern FE frameworks like React, VueJS, Angular, or Svelte, which are central to the job description. While they mention familiarity with JavaScript and some testing concepts, there's a lack of concrete experience with testing frameworks and modern CSS tools. The resume emphasizes IT management and troubleshooting rather than FE development.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in Java, while the role focuses on frontend technologies. They express eagerness to learn but lack explicit experience with React, VueJS, Angular, or Svelte. While familiar with Git and Agile, their knowledge of specific tools mentioned in the job description, such as Styled Components, SASS, Jest, TestCafe, Cypress, ESLint, and Prettier, is not demonstrated.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and mentions core technologies like JavaScript, HTML, and CSS. However, the resume and cover letter lack specific, hands-on experience with the required modern frontend stack (React, TypeScript, modern CSS tools) and testing frameworks. The professional background is heavily weighted toward C#/.NET and backend/data science projects, showing a significant gap in the key frontend and functional programming skills listed in the job description.

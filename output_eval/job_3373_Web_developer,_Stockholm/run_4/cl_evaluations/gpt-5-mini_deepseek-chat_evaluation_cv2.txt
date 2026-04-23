@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong backend Java experience, solid engineering practices, and transferable skills (Git, Agile, testing mindset) and expresses eagerness to learn frontend technologies. However, they lack demonstrable, hands-on experience with React and modern frontend tooling (Jest/Cypress, Styled Components/SASS, ESLint/Prettier, Node/npm, Ramda) and do not show concrete knowledge of web security or frontend test automation required for the role. This makes them relevant to the industry but missing several key, specific frontend qualifications.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong proficiency in key technologies such as JavaScript, HTML, CSS, and React, aligning well with the job requirements. They possess hands-on experience in test automation frameworks and CI/CD processes, which are crucial for the role. However, although they mention awareness of web security principles, a deeper understanding could have strengthened their application further.

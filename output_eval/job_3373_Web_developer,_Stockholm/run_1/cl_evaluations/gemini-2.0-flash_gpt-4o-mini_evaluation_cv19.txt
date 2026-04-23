@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in graphic design with limited JavaScript/TypeScript experience, a core requirement. While they express willingness to learn and have some relevant skills like HTML, CSS, and Git, they lack significant experience with modern front-end frameworks (specifically React) and testing, which are crucial for the role. Their cover letter highlights more potential than directly applicable skills.

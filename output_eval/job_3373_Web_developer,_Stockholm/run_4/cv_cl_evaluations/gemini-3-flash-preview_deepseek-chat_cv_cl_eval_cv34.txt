@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience with the required technical stack, specifically JavaScript, TypeScript, and React. While the cover letter mentions self-study, the resume shows no professional application of modern front-end frameworks, testing suites, or CI/CD tools. Their background is primarily in CRM implementation and project management, making them unqualified for a mid-to-senior level software engineering role.

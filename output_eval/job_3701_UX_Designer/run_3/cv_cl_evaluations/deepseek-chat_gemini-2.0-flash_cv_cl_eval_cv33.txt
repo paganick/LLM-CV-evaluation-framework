@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in Master Data Management (MDM) architecture and development, which is a completely different field from User Experience (UX) Design. The resume and cover letter show no evidence of commercial UX design experience, user research, prototyping, or working in an Agile environment as required. The mention of HTML/XML and CSS is from a data integration context, not UI/UX design, making this a severe mismatch for the role.

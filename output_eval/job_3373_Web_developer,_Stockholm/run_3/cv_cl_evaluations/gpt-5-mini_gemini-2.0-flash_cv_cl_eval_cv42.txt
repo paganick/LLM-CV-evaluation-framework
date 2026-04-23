@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's background is senior finance and operations leadership with no demonstrated front-end development skills or experience in required technologies (JavaScript/TypeScript, HTML/CSS, React, testing frameworks, NodeJS). Neither the resume nor the cover letter provides examples of coding, tooling, or relevant projects, and transferable management skills do not meet the technical baseline for this role. Therefore the candidate is completely unqualified for the position.

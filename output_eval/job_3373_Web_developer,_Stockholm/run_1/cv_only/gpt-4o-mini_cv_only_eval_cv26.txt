@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume demonstrates a strong background in marketing, communications, and public relations, but lacks any relevant experience or skills in software development, JavaScript, TypeScript, or modern front-end frameworks like React. Additionally, the candidate shows no familiarity with testing frameworks, Git, or web security concepts. Therefore, they are not qualified for the technical role described in the job description.

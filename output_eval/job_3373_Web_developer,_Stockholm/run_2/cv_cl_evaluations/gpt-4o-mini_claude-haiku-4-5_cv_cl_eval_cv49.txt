@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analytics and systems engineering but lacks specific experience in frontend development technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. While the candidate shows a willingness to learn and transition into this field, their current qualifications do not align closely with the required skills for the position. There is no evidence of hands-on experience with testing frameworks, CI/CD tools, or familiarity with security protocols in web development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a different industry, with cybersecurity and IT infrastructure experience, but lacks direct frontend development experience. While they express familiarity with web security fundamentals and a willingness to learn, the cover letter heavily relies on transferable skills rather than demonstrable frontend skills. The candidate acknowledges their JavaScript, TypeScript, and frontend framework experience is still developing, making them a risky hire.

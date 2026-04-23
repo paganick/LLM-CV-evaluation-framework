@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's skills are outdated and do not align with the modern tech stack required, such as React, TypeScript, or modern testing frameworks. While they have foundational web knowledge and a degree, they lack any professional development experience and their listed technologies (e.g., Flash, ASP.NET, ActionScript) are largely obsolete for this role. Their extensive non-relevant work history and entry-level status make them a poor fit for a position requiring hands-on experience with specific, contemporary tools and practices.

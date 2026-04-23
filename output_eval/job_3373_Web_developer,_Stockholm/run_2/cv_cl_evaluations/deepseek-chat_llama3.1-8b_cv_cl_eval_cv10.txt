@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java back-end development and performance testing, which is not aligned with the job's primary focus on modern front-end development with React. While they list some relevant front-end keywords in the cover letter, their resume demonstrates no practical experience with React, TypeScript, or the specific modern toolchain required. They lack demonstrated experience in key areas like security (OWASP, CORS), functional programming (Ramda), and the Node.js ecosystem, making them a poor technical fit for the role.

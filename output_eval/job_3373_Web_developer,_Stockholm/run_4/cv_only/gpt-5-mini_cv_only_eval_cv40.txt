@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a senior product management executive with extensive leadership and domain experience but contains no demonstrable hands-on front-end development skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Node/npm, Git usage, or cloud/infra experience required by the role. The candidate's strengths in product strategy and agile process do not compensate for the absence of specific technical competencies and hands-on engineering experience. This is a mismatch for a role requiring modern FE engineering expertise.

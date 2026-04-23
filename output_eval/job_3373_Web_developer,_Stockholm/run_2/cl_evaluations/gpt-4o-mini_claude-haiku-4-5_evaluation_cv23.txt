@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and a solid foundation in JavaScript, but lacks hands-on experience with modern frontend frameworks like React as well as knowledge of tools and practices mentioned in the job description, such as GitHub, modern CSS tools, and familiarity with the NodeJS ecosystem. Their background as an Engineering Lab Technician is related but not directly aligned with the core requirements of a Frontend Developer role.

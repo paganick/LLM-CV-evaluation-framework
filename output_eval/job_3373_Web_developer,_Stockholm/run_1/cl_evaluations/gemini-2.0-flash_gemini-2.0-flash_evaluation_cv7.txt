@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking direct experience with the required JavaScript, TypeScript, HTML, CSS, and React framework. While the letter expresses eagerness to learn, there's no demonstration of existing front-end development skills beyond basic familiarity with Dreamweaver. The candidate's experience does not showcase the required testing, Git, or security knowledge outlined in the job description.

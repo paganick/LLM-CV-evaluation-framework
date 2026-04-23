@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, possessing a background exclusively in finance and operations management rather than software engineering. They lack every mandatory technical skill, including JavaScript, TypeScript, React, and automated testing frameworks. Despite attempting to frame administrative experience as transferable, the candidate has no professional experience in a technical development environment or with the required modern web stack.

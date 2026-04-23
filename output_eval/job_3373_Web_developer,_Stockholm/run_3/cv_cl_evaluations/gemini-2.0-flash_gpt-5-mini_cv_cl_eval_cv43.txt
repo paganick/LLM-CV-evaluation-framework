@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter lack the required front-end development skills. While the candidate expresses interest and transferable skills, there is no concrete experience with JavaScript, TypeScript, React, or other modern front-end technologies listed in the job description. Their coding experience is primarily in R, which is not relevant to the specified tech stack.

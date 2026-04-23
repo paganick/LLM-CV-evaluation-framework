@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume shows an extensive graphic design background with some HTML/CSS and Adobe tool experience but no demonstrated professional experience in JavaScript/TypeScript, React, testing/automation, Node ecosystem, CI/CD, or cloud/infra—core requirements for this role. The cover letter's claims of learning modern front-end tools are unproven by concrete projects or employment history, so the candidate does not meet the technical qualifications needed.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications but lacks hands-on development experience in the required technologies such as JavaScript, TypeScript, and React. Their background demonstrates some transferable skills in collaboration and communication; however, specific frontend development skills and familiarity with modern frameworks and testing practices are insufficient to meet the requirements for this role.

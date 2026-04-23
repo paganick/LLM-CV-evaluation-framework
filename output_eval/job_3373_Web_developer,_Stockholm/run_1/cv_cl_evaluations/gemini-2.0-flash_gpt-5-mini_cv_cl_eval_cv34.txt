@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate demonstrates experience in HTML and CSS, they lack experience in Javascript, Typescript, modern FE frameworks (especially React which is used by the company), and testing frameworks outlined in the job description. The candidate's experience is primarily in Salesforce Marketing Cloud, which is not the focus of the front-end engineering role. Although the candidate expresses eagerness to learn, the current skillset is not a strong match.

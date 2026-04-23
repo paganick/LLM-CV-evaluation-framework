@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong technical alignment with the job's core requirements, including React, testing, Agile, and security concepts. However, the cover letter is overly focused on civil engineering achievements, which dilutes the relevance of their software experience. While they mention many required tools, the direct, hands-on frontend development experience is not as clearly or prominently articulated as their project management background.

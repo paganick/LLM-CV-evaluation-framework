@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java-focused Full Stack Developer and Test Automation Engineer whose core expertise lies in the Spring ecosystem rather than modern frontend architecture. They lack documented experience with TypeScript, Styled Components, and modern JavaScript testing frameworks like Jest or Cypress, which are central to the job requirements. While they mention React and SASS, their professional history emphasizes backend logic and Selenium-based QA over dedicated frontend engineering.

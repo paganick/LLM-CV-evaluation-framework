@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary technologies required, specifically React and TypeScript, and only expresses a desire to learn them. Essential requirements such as web security knowledge (OWASP, CORS) and modern testing frameworks (Jest, Cypress) are completely missing from their background. While the candidate has relevant software engineering experience, their skill set is centered on legacy frameworks like AngularJS and Java rather than the modern stack specified in the job description.

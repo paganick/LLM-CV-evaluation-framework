@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant technical skills and a strong alignment with the job's core requirements, including React, TypeScript, testing, and Agile collaboration. However, the cover letter heavily emphasizes non-development experience in program management and cognitive science, while providing less concrete, hands-on evidence of frontend development projects and specific tool proficiency. This creates some uncertainty about the depth and recency of their purely technical execution, preventing a higher score.

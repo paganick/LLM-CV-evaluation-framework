@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with key technologies like JavaScript, React, Git, and Agile. They demonstrate a solid understanding of web security and testing practices. The cover letter could be improved by highlighting specific projects and quantifiable achievements, and addressing the frameworks such as Cypress and CI/CD tools.

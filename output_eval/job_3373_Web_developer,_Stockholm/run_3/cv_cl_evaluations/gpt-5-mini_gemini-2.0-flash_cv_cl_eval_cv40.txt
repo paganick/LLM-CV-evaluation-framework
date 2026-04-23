@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior product management executive with extensive product and media experience but provides no evidence of hands-on front-end development skills (JavaScript/TypeScript, React, modern CSS, testing frameworks, Git, Node ecosystem, or AWS/Terraform). While they led delivery of a responsive product and worked closely with engineering, the resume and cover letter do not demonstrate the technical competencies required for this role. Based on the strict technical requirements, they are not qualified for the position.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development and organic chemistry with no demonstrated professional experience in frontend engineering; only trivial mentions of HTML and legacy tools (Dreamweaver, Flash) and unrelated languages (C, C++) are present. They lack all required modern frontend technologies and practices (JavaScript/TypeScript, React, CSS tooling, testing frameworks, Git/CI, Node/npm, web security knowledge, cloud/infra experience). This profile is completely misaligned with the role and requirements.

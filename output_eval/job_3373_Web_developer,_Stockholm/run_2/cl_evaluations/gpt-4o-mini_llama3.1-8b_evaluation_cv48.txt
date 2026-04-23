@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT support and some familiarity with modern technologies, but lacks specific experience with JavaScript frameworks (React), testing and test automation tools, and CI/CD practices mentioned in the job description. Their skills in problem-solving and technical support are relevant, but do not fully align with the requirements for the Information Technology Specialist position focused on software development.

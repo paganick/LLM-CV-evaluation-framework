@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid HTML/CSS fundamentals, strong collaboration skills, and a willingness to learn, but lacks demonstrated experience with core requirements: JavaScript/TypeScript, React, hands-on testing (unit/integration/E2E), Git/GitHub, Node/npm, and web security fundamentals. These missing, critical technical skills make them relevant to the industry but underqualified for this role as described.

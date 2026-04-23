@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in software development and mentions relevant technologies such as JavaScript and HTML. However, they lack direct experience with modern front-end frameworks like React, which is crucial for this position. Additionally, there is no mention of modern testing frameworks or tools, indicating a gap in the specific requirements for this role.

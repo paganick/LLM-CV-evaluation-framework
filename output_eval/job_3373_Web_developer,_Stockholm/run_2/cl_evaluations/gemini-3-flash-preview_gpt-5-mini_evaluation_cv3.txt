@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the mandatory tech stack, specifically React, TypeScript, Git, and automated testing frameworks, categorizing them as learning goals rather than existing skills. Their background involves outdated technologies like Flash and Dreamweaver, which are irrelevant to the modern development requirements listed. While the candidate possesses a relevant degree and industry interest, the significant gap in core competencies makes them unsuitable for immediate contribution to an Agile team.

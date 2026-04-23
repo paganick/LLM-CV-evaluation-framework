@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different field (data analysis/project management) with only a working knowledge of HTML/CSS and no proven professional experience in front-end development. While they show awareness of some required concepts (Agile, OWASP, React interest, NodeJS), they lack hands-on experience with the core technologies (JavaScript, TypeScript, React, testing frameworks) specified in the job description. The application is a career transition attempt, not a demonstration of required qualifications.

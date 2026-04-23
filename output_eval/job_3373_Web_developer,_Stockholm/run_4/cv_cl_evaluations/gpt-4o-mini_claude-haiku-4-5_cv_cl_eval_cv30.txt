@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in analytics and data science, but lacks direct experience with modern frontend frameworks like React, TypeScript, and testing frameworks specified in the job description. While they demonstrate transferable skills in programming and collaboration, their hands-on experience with the required technologies is insufficient for the frontend developer role.

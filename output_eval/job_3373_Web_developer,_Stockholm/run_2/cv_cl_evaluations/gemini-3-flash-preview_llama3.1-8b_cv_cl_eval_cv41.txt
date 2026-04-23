@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Systems Administrator and Infrastructure specialist, whereas the job description requires a specialized Frontend Developer proficient in JavaScript, TypeScript, and React. There is no evidence in the resume of experience with modern frontend frameworks, testing libraries, or CI/CD pipelines. Additionally, the candidate's professional experience is outdated and entirely misaligned with the software engineering requirements of the role.

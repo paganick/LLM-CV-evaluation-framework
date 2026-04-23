@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in marketing, communications, and legal administration, with no mention of any technical skills required for the software engineering role. The resume shows zero experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other technologies listed in the job description. This is a completely unqualified candidate for this specific technical position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET and SharePoint developer whose professional experience lacks the required hands-on expertise with React, TypeScript, and modern front-end ecosystems. While the cover letter mentions familiarity with current tools, the resume provides no evidence of professional application of Jest, Cypress, SASS, or functional programming. Significant gaps exist regarding the core tech stack, including NodeJS, CI/CD pipelines, and AWS, making them a poor fit for this specific modern front-end role.

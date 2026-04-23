@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily focused on Java back-end development and performance benchmarking rather than modern front-end engineering. They lack required experience with React, TypeScript, and contemporary front-end testing frameworks like Jest or Cypress, with their only web experience involving the now-obsolete AngularJS. While they possess a strong academic foundation and Agile experience, their technical skill set does not align with the specific modern JavaScript ecosystem requested in the job description.

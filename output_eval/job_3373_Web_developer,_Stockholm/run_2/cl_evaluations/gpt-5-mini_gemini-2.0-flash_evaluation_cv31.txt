@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate lacks core technical experience required for the role — minimal HTML experience only and no demonstrable JavaScript, TypeScript, React, testing, Node.js, or CI/CD experience. While strong in sales leadership and collaboration, these transferable skills do not compensate for missing hands-on frontend development and testing knowledge. Candidate may be trainable but is not qualified for this position as posted.

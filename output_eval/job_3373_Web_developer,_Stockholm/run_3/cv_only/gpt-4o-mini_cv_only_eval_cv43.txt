@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is primarily in program management and design, with no evident skills or experience in JavaScript, TypeScript, HTML, CSS, or any modern front-end frameworks such as React. They lack the technical expertise required for the role, particularly in testing and automation frameworks, Git, and web security knowledge. Overall, they do not fit the requirements of the job description at all.

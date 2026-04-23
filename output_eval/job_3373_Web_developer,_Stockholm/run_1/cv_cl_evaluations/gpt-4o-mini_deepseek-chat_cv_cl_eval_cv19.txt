@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML and CSS from graphic design work, along with some familiarity with JavaScript and React as mentioned in the cover letter. However, they lack hands-on experience with TypeScript, modern testing frameworks, and the advanced tools and practices outlined in the job description. Overall, while there are relevant skills, the candidate does not fully meet the technical requirements needed for the position.

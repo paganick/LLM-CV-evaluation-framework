@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate shows strong frontend fundamentals (React, JavaScript/HTML/CSS), experience with Node.js/AWS/CI-CD, and awareness of functional programming and web security, aligning well with core job needs. However, they do not explicitly demonstrate TypeScript proficiency, concrete hands-on test automation experience, or familiarity with modern CSS tooling, linters/formatters, and npm/Yarn/Express as listed in the description. Overall a good match but missing several explicit toolchain and testing signals required for a higher score.

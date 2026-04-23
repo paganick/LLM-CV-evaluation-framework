@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the core technical requirements of the role, including JavaScript, TypeScript, React, test automation, Git, Agile, and basic web security. The cover letter is well-structured and professionally written. The score is not a 9 or 10 because the candidate does not mention several "nice-to-have" items from the job description, such as specific testing frameworks (Jest, Cypress), modern CSS tools, Node.js ecosystem, or CI/CD tools like CircleCI.

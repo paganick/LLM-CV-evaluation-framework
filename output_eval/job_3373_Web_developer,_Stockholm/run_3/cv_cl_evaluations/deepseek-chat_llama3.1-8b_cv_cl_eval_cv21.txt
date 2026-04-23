@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive software development experience but it is heavily skewed towards legacy .NET, ASP, and SQL Server technologies, not the modern JavaScript/TypeScript and React-centric stack specified. The resume shows only brief, dated exposure to AngularJS and no mention of React, TypeScript, modern testing frameworks, or the specific tools listed (e.g., Styled Components, Ramda, AWS). The cover letter claims React experience not supported by the resume, indicating a significant mismatch with the core technical requirements.

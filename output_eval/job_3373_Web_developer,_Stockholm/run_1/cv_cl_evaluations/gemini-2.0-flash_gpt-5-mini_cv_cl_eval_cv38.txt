@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight experience in film/TV production and project management, which are not directly relevant to the front-end developer role. While the candidate expresses interest in learning the required technologies, they lack demonstrable experience with JavaScript, TypeScript, React, and other key skills mentioned in the job description. The listed skills are primarily focused on media production software.

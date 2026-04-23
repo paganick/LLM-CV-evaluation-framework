@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in frontend development with HTML, CSS, and JavaScript, but the resume heavily emphasizes Drupal development. There's a lack of explicit mention of modern FE frameworks like React (the company's framework of choice) or testing frameworks beyond Selenium and Behat. While the candidate lists JavaScript, the depth of experience with modern JavaScript practices and tooling is unclear.

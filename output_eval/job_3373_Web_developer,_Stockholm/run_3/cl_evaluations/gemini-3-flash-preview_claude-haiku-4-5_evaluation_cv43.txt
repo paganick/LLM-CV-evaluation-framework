@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional experience in frontend development and possesses only theoretical knowledge from coursework. They fail to demonstrate hands-on proficiency with the required React ecosystem, testing frameworks, or web security protocols specified in the job description. While they offer transferable project management skills, they do not meet the core technical qualifications for a developer role.

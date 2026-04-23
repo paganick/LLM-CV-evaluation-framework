@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the professional experience and hands-on proficiency required for the modern tech stack specified, particularly TypeScript and automated testing. While they possess a relevant degree, their technical exposure is limited to academic projects and outdated technologies like ActionScript, failing to meet the requirement for React and modern frontend libraries. The applicant lacks the specific expertise in CI/CD, API design, and security protocols necessary for this role.

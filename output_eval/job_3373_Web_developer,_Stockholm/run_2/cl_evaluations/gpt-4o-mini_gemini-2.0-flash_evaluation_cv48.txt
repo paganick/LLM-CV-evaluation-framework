@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT support and foundational skills relevant to development, but lacks direct front-end development experience with modern frameworks such as React. While they express a strong willingness to learn and adapt, the absence of hands-on experience with key technologies like TypeScript, testing frameworks, and modern CSS tools limits their immediate applicability for the role.

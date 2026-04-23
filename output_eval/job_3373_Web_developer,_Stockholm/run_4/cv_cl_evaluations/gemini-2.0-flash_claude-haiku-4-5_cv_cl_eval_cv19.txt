@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design and electrical work, with limited direct experience in frontend development. While they possess some HTML/CSS knowledge and express a willingness to learn, they lack practical experience with modern JavaScript frameworks like React and testing methodologies required for the role. The cover letter attempts to bridge the gap, but the resume doesn't demonstrate sufficient alignment with the job description's technical requirements.

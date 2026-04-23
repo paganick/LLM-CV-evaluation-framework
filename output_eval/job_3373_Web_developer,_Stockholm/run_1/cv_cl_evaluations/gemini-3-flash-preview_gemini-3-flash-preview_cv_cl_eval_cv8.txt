@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in hardware and electronics test engineering, lacking all mandatory professional experience in JavaScript, TypeScript, and React. There is no evidence of work with web technologies, frontend testing frameworks, or cloud infrastructure required by the job description. While the candidate has a strong technical background in manufacturing and circuits, they are completely unqualified for a modern software development role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a senior MDM architect with strong technical, stakeholder and team leadership experience but has no demonstrated commercial UX design experience, no evidence of Figma or prototyping work, and no portfolio of user research, testing, or UI design system ownership. They do show useful HTML/CSS/JS knowledge and some Agile/scrum exposure, but those do not replace the specific UX practice and tools the role requires. Overall, relevant adjacent skills exist but the candidate lacks core, demonstrable UX experience and tooling to be a strong fit.

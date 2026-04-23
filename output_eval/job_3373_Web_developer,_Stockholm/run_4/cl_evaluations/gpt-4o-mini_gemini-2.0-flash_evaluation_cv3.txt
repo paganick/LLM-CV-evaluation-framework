@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant educational background in web development but lacks specific experience with the modern frameworks and libraries listed in the job description, such as React, TypeScript, and testing frameworks. While they demonstrate a solid understanding of foundational technologies, the absence of hands-on experience with the required tools and practices limits their suitability for the role.

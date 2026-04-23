@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design and print production, which is the wrong industry for a front-end developer role. While they mention HTML and CSS, they demonstrate no experience with JavaScript, TypeScript, React, testing, version control, or any other core technical requirements listed in the job description. The cover letter expresses interest but does not substantiate any relevant technical skills or experience.

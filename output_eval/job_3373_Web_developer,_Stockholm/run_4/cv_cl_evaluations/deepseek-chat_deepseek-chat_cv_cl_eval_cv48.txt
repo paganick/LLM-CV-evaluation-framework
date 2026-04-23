@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT support and hardware, not professional front-end development. The resume shows no commercial experience with JavaScript, React, testing frameworks, or any other technologies listed in the job description. While the cover letter claims self-study, it lacks substantiating project details or evidence, making the candidate unqualified for this specific software engineering role.

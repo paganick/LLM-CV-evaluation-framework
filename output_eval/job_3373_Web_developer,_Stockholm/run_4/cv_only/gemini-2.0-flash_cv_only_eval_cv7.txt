@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate's resume highlights graphic design experience, which is not relevant to the software engineering and web development skills required in the job description. There is no mention of JavaScript, TypeScript, modern FE frameworks, testing, or other essential technologies. The candidate's skill set is geared towards print and visual design, not front-end development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically failing to demonstrate any proficiency in JavaScript, TypeScript, or the React framework. Their experience is centered on database management and legacy Java development rather than modern frontend tools, testing suites, or CI/CD pipelines. While the applicant is pursuing a relevant academic degree, they currently do not possess the specific technical skills or professional experience necessary to fulfill the job requirements.

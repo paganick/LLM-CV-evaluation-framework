@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid experience in front-end technologies including JavaScript, HTML, CSS, and frameworks like AngularJS and ReactJS, which aligns well with the job description. However, the candidate's resume lacks specific experience with modern testing frameworks like Jest or Cypress. Their Agile experience is relevant, but basic knowledge of security practices mentioned in the job description could be a gap. Overall, they are a strong candidate but could benefit from some additional relevant skills and experience.

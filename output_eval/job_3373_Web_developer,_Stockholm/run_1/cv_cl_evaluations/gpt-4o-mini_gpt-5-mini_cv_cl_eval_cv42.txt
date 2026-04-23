@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in finance operations and project management, but lacks direct experience and skills in the required technologies such as JavaScript, TypeScript, modern front-end frameworks like React, and testing frameworks. Their background does not align with the core technical competencies outlined in the job description, which limits their suitability for the role.

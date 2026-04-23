@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate addresses nearly every specific technical requirement, including niche tools like Ramda and the migration from Ruby. However, the professional experience is heavily weighted toward business banking sales and event management, which are largely irrelevant to a senior technical role. While the candidate mentions the correct stack, their primary achievements focus on sales metrics rather than specific frontend engineering deliveries.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in system administration and troubleshooting but lacks direct experience with the core technologies listed in the job description, such as JavaScript, TypeScript, modern front-end frameworks like React, and testing automation tools. While they demonstrate strong analytical skills and a willingness to learn new technologies, their qualifications do not align closely with the specific requirements for this role.

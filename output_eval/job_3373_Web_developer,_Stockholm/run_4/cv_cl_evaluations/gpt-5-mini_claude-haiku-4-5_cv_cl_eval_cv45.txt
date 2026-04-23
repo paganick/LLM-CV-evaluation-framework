@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong IT leadership, INFOSEC expertise, and familiarity with web security concepts, but has no demonstrable hands-on experience with JavaScript/TypeScript, React, modern frontend frameworks, frontend testing tools, CSS tooling, or Node/npm in their resume. There are no cited frontend projects, code samples, or repository links to verify practical frontend skills. Motivated to transition and quick to learn, but currently lacks the specific technical experience required for this role.

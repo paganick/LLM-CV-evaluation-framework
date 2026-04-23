@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, with a professional background almost exclusively in administrative management, dance, and videography. They lack the required professional experience in JavaScript, TypeScript, and React, and have no demonstrated knowledge of modern testing frameworks, CI/CD tools, or web security. The resume and cover letter confirm that the applicant is a beginner seeking to transition into the field rather than a qualified developer meeting the specified criteria.

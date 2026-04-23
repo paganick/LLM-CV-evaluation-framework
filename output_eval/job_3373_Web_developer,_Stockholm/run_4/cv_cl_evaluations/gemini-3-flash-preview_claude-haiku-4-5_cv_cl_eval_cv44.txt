@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a graphic and UX designer whose professional experience fails to demonstrate the required proficiency in JavaScript, TypeScript, and React. Key technical requirements such as automated testing, CI/CD tools, and cloud infrastructure are entirely missing from their work history. While the candidate has a background in technology, they are fundamentally unqualified for a software engineering role of this complexity.

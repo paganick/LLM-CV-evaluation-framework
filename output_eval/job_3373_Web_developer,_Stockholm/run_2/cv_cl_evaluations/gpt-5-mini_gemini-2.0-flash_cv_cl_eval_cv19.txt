@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong graphic design and basic HTML/CSS experience but lacks essential front-end developer requirements such as JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, and web security knowledge. Their cover letter expresses willingness to learn but provides no practical experience with the core technologies listed in the job description. Overall, they are in the relevant field but do not meet the specific technical skills required for this role.

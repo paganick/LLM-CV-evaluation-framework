@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a basic understanding of HTML, CSS, and JavaScript but lacks experience with modern FE frameworks like React, TypeScript, and testing frameworks. Their experience is primarily academic and not professional. The resume also showcases older technologies such as ASP.NET and ActionScript, which are not relevant to the job description.

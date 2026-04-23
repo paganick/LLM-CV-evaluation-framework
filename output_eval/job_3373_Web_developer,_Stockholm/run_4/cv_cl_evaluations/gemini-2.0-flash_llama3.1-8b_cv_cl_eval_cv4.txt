@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web development with skills like HTML, CSS, and JavaScript. However, there is a lack of explicit experience with React, the company's primary front-end framework. While the cover letter mentions familiarity with some related technologies, the resume doesn't showcase hands-on projects using React, testing frameworks, or CI/CD tools mentioned in the job description.

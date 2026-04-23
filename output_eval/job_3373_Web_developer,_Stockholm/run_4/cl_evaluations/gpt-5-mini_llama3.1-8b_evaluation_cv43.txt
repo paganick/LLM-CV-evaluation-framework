@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate does not demonstrate the core technical skills required (JavaScript/TypeScript, HTML/CSS, React, modern CSS tools, NodeJS ecosystem, testing frameworks, CI/CD, and web security) and offers only vague interest or unrelated experience (R, Salesforce, curriculum design). While they show strong soft skills—collaboration, facilitation, and program management—these do not compensate for the lack of demonstrated frontend engineering experience. This profile is therefore not qualified for the technical requirements of the role.

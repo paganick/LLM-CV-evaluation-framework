@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's primary experience is in sales, not software development, which is a fundamental mismatch for the role. While they mention some relevant keywords, they lack demonstrable, hands-on experience with the core technologies required, such as JavaScript, TypeScript, React, and testing frameworks. Their foundational knowledge is insufficient to meet the technical demands of the position.

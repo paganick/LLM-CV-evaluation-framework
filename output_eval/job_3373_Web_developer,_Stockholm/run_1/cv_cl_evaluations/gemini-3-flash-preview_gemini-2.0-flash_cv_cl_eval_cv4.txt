@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary requirements of the role, specifically React, TypeScript, and modern front-end styling tools like SASS or Styled Components. Their background is predominantly in C#, .NET, and Python-based machine learning, which does not align with the functional programming (Ramda) and specific JavaScript testing ecosystem (Jest, Cypress) required. While they are an experienced developer, they do not possess the modern front-end specialization or cloud infrastructure knowledge (AWS/Terraform) necessary for this position.

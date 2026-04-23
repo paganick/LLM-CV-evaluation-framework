@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital marketing and Salesforce implementation consultant rather than a software engineer, lacking nearly all core technical requirements. There is no evidence of experience with TypeScript, React, testing automation, or modern frontend workflows. While the candidate mentions basic HTML and CSS, their background is focused on email platform configuration and project management instead of professional web development.

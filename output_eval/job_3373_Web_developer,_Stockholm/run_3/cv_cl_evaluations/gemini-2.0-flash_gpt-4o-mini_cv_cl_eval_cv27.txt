@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in administrative and artistic roles, lacking demonstrable experience in front-end development. While the cover letter mentions interest in web design and HTML, the resume does not showcase sufficient technical skills in JavaScript, TypeScript, or modern FE frameworks. The candidate's skills and experiences do not align with the job description's core requirements.

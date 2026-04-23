@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates strong DoD IT/INFOSEC and program management experience with a TS/SCI clearance, but contains no evidence of required front-end development skills (JavaScript/TypeScript, HTML/CSS, React/Vue/Angular/Svelte), testing frameworks, Node/npm, Git-based development, or modern CSS and CI/CD toolchains. While valuable in cybersecurity and enterprise IT, the candidate lacks the specific technical experience and tooling expected for this front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some foundational knowledge of web development technologies like JavaScript, HTML, and CSS, but lacks direct experience with modern front-end frameworks like React as specified in the job description. Their experience is primarily within the .NET ecosystem, requiring a significant shift in skillset. While they express interest in learning, their current qualifications don't fully align with the job requirements.

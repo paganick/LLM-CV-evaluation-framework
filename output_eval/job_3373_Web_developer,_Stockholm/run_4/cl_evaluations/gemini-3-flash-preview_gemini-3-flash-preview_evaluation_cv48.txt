@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates exceptional alignment with the technical stack by specifically mentioning proficiency in React, Ramda, CircleCI, and various testing methodologies. While their primary professional history is in systems administration rather than dedicated software engineering, they effectively bridge this gap by highlighting relevant expertise in web security, compliance, and automated testing. The cover letter shows a high level of preparation and a unique perspective on infrastructure that would benefit a full-stack engineering team.

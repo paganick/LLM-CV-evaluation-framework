@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses JavaScript, HTML, and CSS skills but lacks specific experience with modern FE frameworks like React (the company's preferred framework). While they have experience with testing tools like Selenium and Behat, it's unclear if they have experience with unit, integration, or E2E tests. The resume highlights Drupal expertise, which is not a primary requirement for this role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate explicitly admits to having no experience with JavaScript, TypeScript, or React, which are the fundamental requirements for this technical role. While they have worked in the software industry, their professional background is strictly in business development and sales rather than engineering or development. They fail to demonstrate any proficiency in the required tools, testing frameworks, or web security protocols mentioned in the job description, rendering them unqualified for the position.

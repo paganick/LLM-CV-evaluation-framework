@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe technologies, which is a different paradigm than modern frontend development. While they express interest in React and mention basic HTML, CSS, and JavaScript skills, their experience in these areas is not demonstrated to be at the level required for the job. The cover letter attempts to bridge the gap, but the resume does not provide sufficient evidence of relevant frontend skills or experience.

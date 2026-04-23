@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings solid hardware validation and QA experience, familiarity with JavaScript and Linux, and expresses willingness to learn frontend technologies. However, they lack demonstrated hands-on experience with React, TypeScript, modern CSS tooling, frontend testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, Git/GitHub workflows, and relevant cloud/CI tooling, which are core requirements for this role. Given these significant gaps, they are not currently qualified for the position.

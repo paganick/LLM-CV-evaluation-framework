@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in software development, Agile, and clean code. However, they lack direct, hands-on experience with the core technologies listed in the job description, specifically React, TypeScript, and modern front-end tooling, which are critical for the role. Their experience is heavily weighted toward Java/J2EE backend development, making them a partial but insufficient match for this specific front-end focused position.

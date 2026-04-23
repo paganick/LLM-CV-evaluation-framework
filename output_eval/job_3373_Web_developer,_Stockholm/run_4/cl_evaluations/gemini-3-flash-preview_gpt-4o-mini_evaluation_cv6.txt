@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core technologies required, specifically React and TypeScript, and explicitly states a need to "expand knowledge" in these areas. Their background is heavily focused on CMS/Drupal development and testing tools like Behat, which do not align with the modern frontend ecosystem of Jest, Cypress, and Styled Components requested. While the applicant demonstrates relevant industry experience in Agile and CI/CD, they fail to meet the mandatory technical proficiency for a senior-level frontend role.

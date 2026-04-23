@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a .NET-focused developer with experience in legacy web technologies like ASP.NET, jQuery, and SharePoint, which does not align with the modern React/TypeScript stack required. They lack any documented experience with modern frontend frameworks, automated testing suites (Jest, Cypress), or the Node.js ecosystem. While they have a relevant background in software engineering, they do not possess the specific technical skills or modern tooling expertise defined in the job description.

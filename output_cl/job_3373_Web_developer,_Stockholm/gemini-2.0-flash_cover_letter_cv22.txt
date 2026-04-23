@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Frontend Developer position. While my background is in media planning and buying within the advertising industry, my current pursuit of a Master's in Management Information Systems, coupled with my foundational knowledge in web technologies, has ignited a passion for transitioning into the technological field.
+
+My experience includes hands-on project work involving HTML and CSS. My coursework has provided me with a solid grasp of database design and implementation using SQL and MySQL, skills that I believe are transferable to frontend development.
+
+During my MBA, I successfully designed a Hospital Database Management System, demonstrating my ability to structure and manage data effectively. Similarly, I contributed to the development of an Accounts Receivable Application using Java. These projects highlight my problem-solving skills and ability to adapt to new technologies.
+
+I am particularly drawn to your company's emphasis on React. I am eager to learn and contribute to a team that values clean code and modern development practices. My experience collaborating with cross-functional teams and external partners in my previous roles will enable me to integrate seamlessly into your Agile environment.
+
+My project experience includes ERP implementation for a regional utility company. I am confident that my analytical abilities and experience with databases, combined with my eagerness to learn modern frontend frameworks and tools, make me a strong candidate for this position.
+
+I am excited about the opportunity to leverage my skills and contribute to your team's success. Thank you for considering my application.
+
+Sincerely,
+Alexis

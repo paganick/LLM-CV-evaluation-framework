@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/JEE backend development, not modern frontend frameworks like React. While they mention JavaScript and testing principles, they lack direct, hands-on experience with the specific technologies listed in the job description (React, TypeScript, modern CSS tools, NodeJS ecosystem). Their background is in a relevant industry, but the skills mismatch for a frontend role is significant.

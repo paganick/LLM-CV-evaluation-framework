@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified, possessing a background in construction and project management rather than the required software engineering field. The letter fails to mention any proficiency in the mandatory technical stack, including JavaScript, TypeScript, React, or web security. Consequently, there is a total misalignment between the applicant’s experience and the specialized technical requirements of the role.

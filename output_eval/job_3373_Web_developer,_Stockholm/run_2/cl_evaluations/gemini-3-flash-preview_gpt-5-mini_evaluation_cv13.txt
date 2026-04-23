@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Project Manager whose technical experience is rooted in legacy frameworks like jQuery and Angular rather than the modern React/TypeScript stack required. They lack professional experience with automated testing, CI/CD, and NodeJS, explicitly stating a need to learn the core technologies essential for this role. While their leadership and Agile skills are strong, they do not meet the technical requirements for a modern front-end engineering position.

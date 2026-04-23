@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software engineer with over three years of professional experience in full-stack and test automation roles, and I am excited to apply for your Frontend Engineer position. My background combines hands-on frontend development with robust test automation and a strong grounding in backend services, which positions me to contribute effectively to a React-based, test-oriented team.
+
+In previous roles I developed interactive web interfaces using HTML5, CSS3, Bootstrap, SASS, JavaScript and ReactJS, and I contributed to single page applications using AngularJS. I value writing truly clean, maintainable code and have followed design patterns and modular approaches such as Page Object Model when building reusable components. I have experience with modern frontend tooling including npm, Node and build tools such as Grunt, Bower and Maven/Gradle integrations.
+
+Quality and automation have been central to my work. As a Test Automation Engineer I designed and implemented a maintainable automation framework leveraging Selenium WebDriver and Spring Boot for dynamic pages, integrated behavior-driven testing using Cucumber, and automated pipelines with Jenkins and Selenium Grid to run parallel tests across browsers. I converted manual tests into regression and smoke suites and worked closely with QA to produce readable high-level scenarios. This experience gives me practical exposure to unit, integration and end-to-end testing practices and to producing reliable automated test coverage.
+
+I have worked in Agile/Scrum teams, collaborating with product owners, QA and cross-functional engineers, and I am comfortable interacting with external partners. My backend experience building RESTful microservices with Spring Boot, plus familiarity with version control using Git, and cloud deployment on AWS, helps me understand full-domain interactions beyond the UI layer. I have used Spring Security and therefore appreciate web security considerations during design and integration.
+
+Beyond technical delivery I have trained and supported QA teams in using automation frameworks, producing documentation and onboarding materials, and mentoring colleagues to raise overall engineering standards. I am committed to continuous learning, actively following frontend trends and willing to quickly learn TypeScript-specific patterns and modern testing tools to align with your stack and quality goals.
+
+I enjoy pair programming and code reviews, and I would welcome the opportunity to bring my blend of frontend development, automation expertise and team collaboration to your company.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience with HTML, CSS, JavaScript, and TypeScript, but lacks hands-on experience with modern front-end frameworks like React, which is crucial for the role. While they demonstrate a willingness to learn, additional experience with testing frameworks and CI/CD tools is necessary to fully meet the job requirements. Their knowledge of web security principles is a positive aspect, but overall, they fall short in key areas outlined in the job description.

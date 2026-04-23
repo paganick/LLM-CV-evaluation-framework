@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience but admits needing to master React, which is core to the role. While they mention JavaScript, HTML, and CSS proficiency, their experience seems more focused on PHP and older architectures. They also lack explicit mentions of TypeScript and some of the testing frameworks listed in the job description.

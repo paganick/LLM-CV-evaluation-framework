@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a Data Analyst with expertise in SAS, Python, SQL, and statistical analysis—completely unaligned with the Frontend Software Engineer role requiring JavaScript, TypeScript, React, and modern web development skills. The resume shows no evidence of web development experience, frontend frameworks, testing frameworks, Git, or any of the required technical competencies. This is a wrong industry fit with no transferable technical skills relevant to the position.

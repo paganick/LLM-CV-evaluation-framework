@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in ASP.NET and C#, which doesn't align well with the JavaScript/React-focused job description. While they mention some relevant technologies like JavaScript, HTML, CSS, and GitHub, their experience seems limited. The cover letter expresses interest in learning the required technologies, but the resume lacks concrete experience with modern FE frameworks and testing.

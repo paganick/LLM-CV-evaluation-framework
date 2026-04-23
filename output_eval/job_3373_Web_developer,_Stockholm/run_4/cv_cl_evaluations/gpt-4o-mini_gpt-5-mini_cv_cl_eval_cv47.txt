@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational programming skills in HTML, C, and C++ but lacks specific experience and skills in JavaScript, TypeScript, modern front-end frameworks (specifically React), and relevant testing frameworks. Their experience in business development and teaching does not directly translate to front-end development, leading to a significant gap in qualifications for the role.

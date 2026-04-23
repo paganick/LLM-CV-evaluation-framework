@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has design experience and some basic HTML/CSS knowledge, but lacks the JavaScript, modern FE frameworks, testing, and security expertise required. The cover letter expresses willingness to learn, but the resume does not demonstrate the necessary technical foundation for this role. The candidate's background is primarily in presentation and multimedia design, not modern web development.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and touches on many required areas (Agile, Git, testing, OAuth, CI/CD). However, the cover letter is heavily back-end/Java focused and fails to explicitly mention the key frontend technologies from the job description, most critically React, TypeScript, and modern testing frameworks like Jest or Cypress. The lack of direct, frontend-specific evidence against the core requirements makes this a partial but insufficient match.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is primarily in administrative operations, dance, and video production, lacking the required professional experience in modern JavaScript frameworks like React. While the resume mentions basic HTML and web design, it fails to demonstrate any proficiency in TypeScript, testing automation, Git, or functional programming as specified in the job description. This profile represents a complete mismatch for a professional software engineering role.

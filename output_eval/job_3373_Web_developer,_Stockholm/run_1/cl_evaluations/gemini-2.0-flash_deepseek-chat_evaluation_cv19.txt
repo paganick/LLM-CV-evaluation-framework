@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, including JavaScript, TypeScript, React, HTML, CSS, and Git. However, they lack explicit experience with testing and test automation as described in the job description. The cover letter also lacks examples of collaborative work and interaction with other teams.

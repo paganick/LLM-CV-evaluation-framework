@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's cover letter focuses on C# and ASP.NET, which doesn't align with the JavaScript/React focus of the job description. While they express willingness to learn, they lack demonstrable experience in the core technologies. The cover letter is generic, lacking specific examples related to the requirements.

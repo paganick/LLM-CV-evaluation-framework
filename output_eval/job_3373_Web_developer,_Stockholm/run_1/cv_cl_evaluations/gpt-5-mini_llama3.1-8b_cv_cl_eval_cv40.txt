@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has deep product management and online media experience and claims familiarity with frontend technologies and Agile practices, which is relevant to the domain. However, the resume shows no demonstrable hands-on frontend engineering experience (React, TypeScript, testing frameworks, Node/npm, CI/CD, AWS/Terraform) nor concrete evidence of writing production code or test automation. Given the role's strong technical requirements, this candidate lacks the specific engineering skills and track record required.

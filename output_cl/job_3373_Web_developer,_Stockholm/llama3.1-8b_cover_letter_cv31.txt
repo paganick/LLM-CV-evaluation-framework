@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for a position that leverages my technical skills in JavaScript, TypeScript, HTML, and CSS, as well as my experience working with modern front-end frameworks like React. With a strong background in sales and leadership, I am confident in my ability to bring value to your team.
+
+As a seasoned Sales Director at JMF Solutions, Inc., I have honed my skills in budgeting, reporting, and sales strategy development. I successfully led sales calls, negotiated contracts, and trained teams to achieve a 115% growth margin over the last year. My expertise in sales software, including Ubersmith, has allowed me to drive results-driven solutions for clients.
+
+In addition to my sales experience, I have also developed skills in front-end development, including hands-on experience with testing and test automation, Git, and repository hosting services like GitHub. I am comfortable working in an Agile environment and have a genuine passion for writing clean code. My proficiency in modern CSS tools like Styled Components and SASS, as well as linters and formatters like ESLint and Prettier, will enable me to make immediate contributions to your team.
+
+I am particularly drawn to this role because of the opportunity to work with cutting-edge technologies like NodeJS, npm, Yarn, and Express.js. My experience with functional programming using Ramda will also be an asset in this position. Furthermore, my understanding of CI/CD tools like CircleCI and API design will allow me to hit the ground running.
+
+As a strong collaborator and communicator, I thrive in fast-paced environments where no two days are the same. My ability to motivate and lead teams, as well as my expertise in planning and organizational skills, make me an ideal candidate for this role.
+
+Thank you for considering my application. I am excited at the prospect of bringing my unique blend of sales, leadership, and technical skills to your team.
+
+Sincerely,
+Alexis

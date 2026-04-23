@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including JavaScript, TypeScript, React, HTML/CSS, and testing with Jest/Cypress. They effectively highlight relevant soft skills like Agile collaboration and domain understanding. The score is not a 9 or 10 because the cover letter does not explicitly mention several "nice-to-have" tools from the job description, such as specific modern CSS tools, linters, CI/CD tools, or AWS/Terraform.

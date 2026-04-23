@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a different tech stack (ASP.NET, C#, SharePoint) and lacks hands-on experience with the required modern front-end frameworks like React, TypeScript, and associated tools. While they mention some relevant skills like JavaScript, Git, and testing in the cover letter, these are not substantiated by the resume, which shows a career focused on legacy Microsoft technologies. The candidate is in the relevant software industry but lacks the specific, demonstrable skills required for this front-end focused role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed towards software testing and quality assurance, not front-end development. While they have some exposure to JavaScript, HTML, and Agile, they lack hands-on experience with modern FE frameworks like React, TypeScript, modern CSS tools, and the specific technical stack (e.g., Node.js, functional programming with Ramda) required for the development role. Their core expertise is in test execution and management, not in building applications.

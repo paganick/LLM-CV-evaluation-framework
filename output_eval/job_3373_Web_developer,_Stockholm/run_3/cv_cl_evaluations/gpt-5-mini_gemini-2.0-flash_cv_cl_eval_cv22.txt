@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate comes from an advertising/media-planning background with only basic HTML/CSS and SQL exposure and no demonstrated experience in JavaScript/TypeScript, React (or other modern front-end frameworks), testing automation, Node/npm, Git-based workflows, or related tooling listed in the job description. While they show academic projects and a willingness to learn, they lack the core, hands-on frontend engineering skills and toolchain experience required for this role. This profile is therefore not qualified for the position as currently presented.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has sales and project management experience, but lacks specific experience in Digital Solutions, Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research). While the cover letter attempts to bridge the gap, the resume heavily emphasizes recruitment and project management in healthcare, not digital sales or technology. The candidate also does not demonstrate experience with architectural design review of IT solutions or leading workshops.

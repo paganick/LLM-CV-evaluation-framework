@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in senior product management and business strategy, not in hands-on front-end development. The resume and cover letter show no experience with the required technical skills (JavaScript, React, testing frameworks, etc.) listed in the job description. This is a severe mismatch for a software engineering role, placing the candidate in the wrong industry for this position.

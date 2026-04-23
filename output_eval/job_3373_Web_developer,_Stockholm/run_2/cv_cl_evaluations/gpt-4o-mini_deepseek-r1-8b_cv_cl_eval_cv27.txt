@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience primarily revolves around administrative and artistic roles, with minimal technical skills relevant to web development. There is no demonstrated proficiency in JavaScript, TypeScript, React, or any modern front-end frameworks, as well as no mention of experience with testing frameworks or web security. Overall, the skill set does not align with the requirements of the job description.

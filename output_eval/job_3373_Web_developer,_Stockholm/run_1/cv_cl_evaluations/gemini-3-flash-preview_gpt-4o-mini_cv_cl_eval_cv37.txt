@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume describes an IT management and infrastructure background, with no professional experience in modern front-end development or software engineering. There is zero documented evidence of hands-on proficiency with the required tech stack—React, TypeScript, and modern CSS—as the work history focuses on budgeting, hardware, and project oversight. Despite the claims in the cover letter, the lack of relevant developer experience and the outdated timeline make this candidate unqualified for a technical engineering role.

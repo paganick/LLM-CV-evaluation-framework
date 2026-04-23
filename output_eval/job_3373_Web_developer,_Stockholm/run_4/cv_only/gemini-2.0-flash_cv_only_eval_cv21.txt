@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, and AngularJS which are relevant. However, they lack experience with modern FE frameworks like React, testing frameworks (Jest, Cypress), NodeJS, and CI/CD tools mentioned in the job description. The resume focuses heavily on older technologies and .NET, making them a weak fit for the modern JavaScript focus of the role.

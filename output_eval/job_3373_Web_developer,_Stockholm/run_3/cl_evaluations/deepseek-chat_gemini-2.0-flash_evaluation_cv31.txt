@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in sales leadership, which is a completely different industry and skillset from frontend development. While they express interest, they lack any demonstrable hands-on experience with the required technologies like React, TypeScript, testing frameworks, or modern tooling listed in the job description. Their transferable skills are insufficient to compensate for the absence of core technical qualifications.

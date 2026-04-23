@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience, familiarity with Git, security concepts, and Agile practices, which partially align with the role. However, they lack demonstrated hands-on experience with React and TypeScript, modern CSS tools (Styled Components/SASS), specific testing frameworks (Jest/Cypress/TestCafe), and the Node/npm ecosystem required by the team. Given the role is React-focused with specific tooling expectations, the candidate is not yet a strong match though could potentially transition with training.

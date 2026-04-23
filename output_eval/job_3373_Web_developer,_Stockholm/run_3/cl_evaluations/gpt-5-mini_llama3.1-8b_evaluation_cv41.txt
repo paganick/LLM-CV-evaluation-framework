@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a systems administrator with emphasis on UNIX/Linux, databases, and network operations and provides no concrete evidence of the core frontend skills required (JavaScript/TypeScript, React, HTML/CSS), testing, Node ecosystem, or web security. Mentioning interest in modern frontend frameworks is not sufficient—there are no examples of relevant hands‑on experience, tools, or projects. This indicates a clear domain mismatch for the frontend-focused role.

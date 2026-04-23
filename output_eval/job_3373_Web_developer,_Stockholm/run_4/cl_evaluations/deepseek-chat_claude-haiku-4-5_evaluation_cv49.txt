@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant analytical mindset and transferable skills, but lacks the specific, hands-on professional experience required. They are actively learning core technologies (JS, React) but do not demonstrate proficiency with the listed tools (e.g., Jest, Cypress, modern CSS tools) or required knowledge areas (e.g., web security, Node.js, CI/CD). Their passion and collaborative attitude are positive, but the skills gap for a frontend developer role is significant.

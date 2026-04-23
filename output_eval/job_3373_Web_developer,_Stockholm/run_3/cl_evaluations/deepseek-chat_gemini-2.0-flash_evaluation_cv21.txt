@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end experience but critically lacks the specific technologies required, most notably React. The cover letter fails to address key job requirements such as TypeScript, modern testing frameworks, security knowledge, and the listed modern toolchain. While the candidate has Agile experience and a software development background, the mismatch on primary tech stacks and missing specifics makes them a weak fit.

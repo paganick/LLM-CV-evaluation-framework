@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely centered on administrative management, dance instruction, and video production rather than software engineering. While the cover letter mentions several required technologies, the resume provides no evidence of professional application or proficiency in JavaScript, React, or modern development workflows. This profile lacks the technical foundation and industry-specific experience necessary for a frontend developer role.

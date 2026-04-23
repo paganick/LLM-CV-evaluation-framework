@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant analytical and HTML experience and demonstrates strong communication and learning aptitude, but lacks demonstrated proficiency in core front-end technologies required (JavaScript/TypeScript, React, modern tooling like Node/npm, testing frameworks, Git, and CSS tooling). Their cover letter expresses willingness to learn rather than current hands-on experience with the specific stack and practices this role requires. Given the gap in essential front-end skills and toolchain experience, they are not yet qualified for this position.

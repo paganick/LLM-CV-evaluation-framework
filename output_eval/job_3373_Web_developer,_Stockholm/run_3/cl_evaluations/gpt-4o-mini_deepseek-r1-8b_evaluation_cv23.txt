@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and electronics but lacks specific skills such as modern frontend frameworks (React, VueJS, etc.), testing frameworks (Jest, TestCafe, Cypress), and knowledge of Git. Additionally, they do not demonstrate familiarity with web security concepts or CI/CD tools, which are crucial for the position. Their collaboration skills are noted, but the overall fit with the job description remains limited.

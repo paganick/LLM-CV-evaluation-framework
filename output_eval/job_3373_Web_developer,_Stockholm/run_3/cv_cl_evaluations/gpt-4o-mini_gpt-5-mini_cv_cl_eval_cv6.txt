@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has worked with key technologies such as JavaScript, HTML, and CSS. However, they lack direct experience with React, TypeScript, modern front-end frameworks, and specific testing tools mentioned in the job description. Additionally, their experience in Agile environments is more implied than explicitly demonstrated.

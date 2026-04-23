@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows solid basic front-end experience (HTML5, CSS3, JavaScript, AngularJS), Agile background, and some unit testing and supervisory experience, but does not demonstrate key requirements from the job: React and TypeScript experience, familiarity with testing frameworks (Jest/Cypress/TestCafe), the Node/npm ecosystem, Git/GitHub, modern CSS tooling, web security practices, or CI/CD/AWS knowledge. Their C#/ASP.NET experience is relevant but does not offset the missing core front-end stack and tooling the role specifies.

@@ -1,0 +1,3 @@
+Score: 5
+Reasoning:
+The candidate's background is primarily in graphic design, which is a mismatch for a Frontend Developer role heavily focused on JavaScript, TypeScript, and React. While they express interest in modern technologies, their experience seems limited. The letter highlights transferable skills like collaboration, but lacks concrete examples of frontend development projects and hands-on experience with the specific technologies mentioned in the job description.

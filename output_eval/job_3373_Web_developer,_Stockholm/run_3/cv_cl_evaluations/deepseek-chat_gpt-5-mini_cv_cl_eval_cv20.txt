@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern front-end technologies required. Their experience is heavily centered on legacy .NET stack, jQuery, and ASP.NET MVC, with no demonstrated experience in React, TypeScript, modern testing frameworks, or the other key tools listed. While they show a strong Agile background and a willingness to learn, their direct technical fit for the role is low.

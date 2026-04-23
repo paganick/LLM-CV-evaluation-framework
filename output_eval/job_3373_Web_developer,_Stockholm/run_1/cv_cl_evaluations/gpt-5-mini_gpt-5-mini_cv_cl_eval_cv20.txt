@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end experience with JavaScript, HTML, CSS, Agile practices, and some Git usage, but their work is centered on legacy .NET/jQuery stacks rather than modern React/TypeScript frameworks. They lack demonstrated experience with required tools and practices such as React, TypeScript, modern testing frameworks (Jest/Cypress), Node/npm tooling, CSS-in-JS/SASS, CI/CD, and basic web security knowledge. Their cover letter shows willingness to learn but does not mitigate the immediate gaps for this role.

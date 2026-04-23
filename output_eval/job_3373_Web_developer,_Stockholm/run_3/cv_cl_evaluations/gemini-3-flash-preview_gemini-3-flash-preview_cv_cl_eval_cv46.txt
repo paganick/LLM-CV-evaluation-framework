@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with modern frontend frameworks such as React, Vue, or TypeScript, and their work history is severely outdated, with the last relevant role ending in 2017. While the cover letter attempts to bridge the gap, the resume focuses on legacy Java systems, database administration, and general IT support rather than the required frontend ecosystem and testing automation tools. The profile fails to demonstrate the "hands-on experience" with modern web technologies and CI/CD pipelines specified in the job description.

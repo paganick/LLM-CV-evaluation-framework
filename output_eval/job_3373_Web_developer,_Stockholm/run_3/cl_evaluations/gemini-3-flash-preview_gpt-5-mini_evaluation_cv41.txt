@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in systems engineering and security, the application fails to demonstrate any direct experience with core front-end requirements such as JavaScript, TypeScript, or React. The candidate's expertise is heavily weighted toward infrastructure and low-level troubleshooting rather than UI development or modern front-end frameworks. Consequently, the applicant lacks the specific technical skills required for this front-end role despite their relevant industry experience.

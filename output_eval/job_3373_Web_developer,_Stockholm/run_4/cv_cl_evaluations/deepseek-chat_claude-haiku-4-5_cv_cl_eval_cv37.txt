@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT project management and infrastructure, with no demonstrated hands-on experience in frontend development, JavaScript, React, or any of the specific technologies listed in the job description. The cover letter attempts to translate leadership experience into a developer role but provides no evidence of practical coding skills, modern frameworks, or testing. This is a severe mismatch for a technical frontend developer position.

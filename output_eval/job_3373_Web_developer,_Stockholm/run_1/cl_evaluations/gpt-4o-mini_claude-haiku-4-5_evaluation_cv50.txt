@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in computer science and demonstrates transferable skills from IT project management and quality engineering. However, they lack hands-on experience with the specific frontend technologies and frameworks listed in the job description, such as React, and do not mention familiarity with modern CSS tools, testing frameworks, or Git. While their enthusiasm and ability to learn quickly are commendable, they do not meet the requirement for significant experience in frontend development.

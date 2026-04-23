@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in backend and systems architecture, not frontend. While they claim proficiency in HTML, CSS, and JavaScript, the letter lacks concrete examples of frontend projects or contributions. The job description emphasizes React, which is only vaguely referenced.

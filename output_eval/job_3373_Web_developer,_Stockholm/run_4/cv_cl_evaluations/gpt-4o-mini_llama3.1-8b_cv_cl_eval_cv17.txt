@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has a strong background in construction management but lacks relevant experience in software development, particularly with required technologies such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, they do not possess hands-on experience with testing frameworks or any knowledge of the NodeJS ecosystem, significantly misaligning them with the job requirements.

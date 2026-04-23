@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a CAD and GIS specialist whose experience is entirely rooted in civil engineering and technical drafting rather than digital product design. They lack the required 3+ years of UI/UX experience, have no portfolio of interface design projects, and demonstrate no proficiency in essential wireframing or prototyping tools like Figma or InVision. While they use Adobe Creative Suite, their application of these tools for mapping and blueprints does not meet the functional requirements for designing user-centric web or mobile interfaces.

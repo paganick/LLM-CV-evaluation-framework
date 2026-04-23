@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in finance and operations, not front-end development. While the letter mentions an eagerness to learn front-end technologies and contribute to quality assurance, it lacks demonstrable experience in JavaScript, React, or related tools listed in the job description. The lack of hands-on experience with the requested tech stack makes the candidate unqualified.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional background is entirely in finance and operations rather than software engineering. They possess none of the required technical skills, such as JavaScript, TypeScript, React, or AWS, and have no experience in modern front-end development or test automation. While the candidate has strong leadership experience in a different field, they do not meet any of the core technical requirements for this developer role.

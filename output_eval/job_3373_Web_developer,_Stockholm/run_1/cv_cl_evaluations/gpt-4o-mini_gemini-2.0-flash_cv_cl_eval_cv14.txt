@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, but their background is primarily in ASP.NET rather than modern JavaScript frameworks like React, which is specifically mentioned in the job description. While they have some hands-on experience with testing, Git, and security principles, they lack direct experience with the specific front-end technologies and modern CSS tools required in the role. Overall, they demonstrate potential but do not fully meet the required qualifications.

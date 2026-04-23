@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing and media, with limited practical experience in frontend development. While they express interest in learning React and related technologies, the resume lacks concrete projects or professional experience using the required JavaScript, TypeScript, or modern FE frameworks. The candidate's skills mainly revolve around database management and analytical tools, which are not the core requirements of the job.

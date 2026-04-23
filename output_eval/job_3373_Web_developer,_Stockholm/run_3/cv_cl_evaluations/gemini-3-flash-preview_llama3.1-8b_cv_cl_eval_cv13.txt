@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Project Manager whose professional experience focuses on leadership, marketing, and analytics rather than hands-on software engineering. While the resume mentions basic web development, it lacks evidence of professional experience with the required modern stack, specifically React, TypeScript, and automated testing frameworks. The misalignment between a PM career path and a specialized Frontend Engineer role makes the candidate unqualified for this technical position.

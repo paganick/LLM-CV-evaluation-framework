@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates strong foundational knowledge in HTML, CSS, and JavaScript, they fail to mention any experience with the primary required tech stack, specifically React and TypeScript. Crucial industry-standard tools such as Git, modern CSS preprocessors, and specific testing frameworks like Jest or Cypress are also omitted. The profile reflects a background in marketing automation rather than the professional software development lifecycle required for this role.

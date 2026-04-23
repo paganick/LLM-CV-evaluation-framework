@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required modern frontend stack, specifically React, TypeScript, and contemporary CSS-in-JS tools. Their work history is significantly outdated, focusing primarily on Java, EJB, and database administration with no documented professional software development since 2017. While the candidate has a background in Information Technology, they do not possess the specific technical skills or recent hands-on experience necessary for this React-focused role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML/CSS, Git, Agile, backend integration and general web security) and shows willingness to learn the team's stack. However, they lack demonstrated, hands-on experience with core requirements such as React and TypeScript, modern testing frameworks (Jest/Cypress), Styled Components/SASS, Node.js/npm ecosystem, functional programming with Ramda, and CI/CD/infra tools. Given the gap between stated interests and required proven skills, they are a borderline but not yet strong match.

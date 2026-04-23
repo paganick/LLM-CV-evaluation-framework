@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest and some foundational knowledge (HTML, CSS, Javascript, and design principles), the resume lacks concrete evidence of hands-on experience with modern FE frameworks like React, TypeScript, or testing frameworks as the job description requires. The role history focuses heavily on design and presentation, not software development. The cover letter attempts to bridge this gap but lacks sufficient demonstrable experience.

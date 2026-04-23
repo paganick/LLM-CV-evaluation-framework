@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, not frontend development. While they express interest and some relevant concepts, the resume lacks concrete evidence of hands-on experience with the core technologies listed in the job description (React, TypeScript, HTML, CSS, etc.). The listed coding experience is with R studio, which is not relevant to the job requirements.

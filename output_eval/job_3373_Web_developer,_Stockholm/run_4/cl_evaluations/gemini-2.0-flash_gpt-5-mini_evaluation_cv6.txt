@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end technologies and testing, but their expertise is heavily focused on Drupal, while the job description emphasizes React and modern JavaScript frameworks. While they express interest in learning these technologies, they lack concrete experience in the specific tools and frameworks mentioned in the job description, such as React, TypeScript, Jest, and CI/CD practices. There is a mismatch between the candidate's Drupal-centric background and the job's focus on modern JavaScript ecosystem.

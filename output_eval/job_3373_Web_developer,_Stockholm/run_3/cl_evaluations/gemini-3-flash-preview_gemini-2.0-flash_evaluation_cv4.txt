@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses five years of experience in core technologies like JavaScript and CSS, the application fails to mention the mandatory proficiency in React and TypeScript. Furthermore, the candidate focuses heavily on irrelevant stacks such as .NET and Machine Learning rather than addressing the specific requirements for Node.js, modern CSS tools, or security protocols. Significant gaps in testing frameworks and CI/CD experience make this candidate unqualified for a senior-level alignment with the specified tech stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills in design, documentation, and project management, and shows strong motivation to learn the required technologies. However, they lack direct, hands-on professional experience with the core technical stack (JavaScript, TypeScript, React, testing frameworks, Git) and the specific tools listed in the job description. This places them in the category of a career changer who is relevant to the industry but currently lacks the specific, demonstrable skills required for the role.

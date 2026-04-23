@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of web technologies and expresses eagerness to learn React, aligning with the job description's requirements. However, they lack hands-on experience with key technologies such as testing frameworks (Jest, TestCafe, Cypress), Node.js, and CI/CD pipelines, which are crucial for the role. The cover letter highlights academic knowledge but acknowledges a gap in practical application within a professional setting.

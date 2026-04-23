@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid foundation in relevant web technologies and demonstrates enthusiasm for learning modern frameworks such as React. However, they lack direct experience with modern front-end frameworks and specific testing frameworks mentioned in the job description. While they show a willingness to learn, they do not fully meet the requirements for hands-on experience with the requested tools and technologies.

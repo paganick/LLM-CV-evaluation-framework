@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS but lacks specific experience with the modern frontend framework mentioned (React) and testing frameworks like Jest and Cypress. While they demonstrate strong Java experience, it does not fully align with the requirements for a frontend-focused role. They show potential due to their API experience and understanding of security basics, but there are gaps in the specific tools and frameworks required.

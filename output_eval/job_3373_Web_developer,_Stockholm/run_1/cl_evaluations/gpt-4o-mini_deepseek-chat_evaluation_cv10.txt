@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in front-end development with a Master's degree in Computer Science and over two years of experience. They demonstrate familiarity with modern JavaScript frameworks and emphasize clean coding practices and testing, which aligns well with the job description. However, there are gaps in specific experience with React, TypeScript, and some mentioned modern CSS tools and CI/CD practices, which prevent a higher score.

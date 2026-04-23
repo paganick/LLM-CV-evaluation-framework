@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive sales experience in digital, mobile, and social, which aligns well with the required digital solutions sales focus. Their experience in managing sales teams and exceeding quotas is a strong asset. However, the resume lacks specific examples of experience with API, Cloud, DevOps, Microservices, BigData, Data Science or Design Consulting which are listed as must-haves in the job description.

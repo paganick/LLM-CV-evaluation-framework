@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and demonstrates foundational knowledge of core web technologies and Agile collaboration. However, they lack direct, hands-on professional experience with the key technologies listed in the job description, such as React, modern testing frameworks, and the specific toolchain, framing their skills as transitional or self-taught. Their background is primarily in implementation and project management, not in professional front-end development, which represents a significant skills gap for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct frontend development experience, highlighting a career transition from media production. While the letter mentions exposure to HTML, CSS, and web design principles, it doesn't showcase sufficient proficiency in JavaScript, TypeScript, React, or testing frameworks required by the job description. The candidate expresses willingness to learn, but the current skillset doesn't align with the role's technical demands.

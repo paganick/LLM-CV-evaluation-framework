@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified as they lack direct experience with the core technical requirements, specifically JavaScript, TypeScript, and React. While they possess design-related skills and basic HTML/CSS knowledge, the total absence of professional software engineering experience and testing automation makes them a poor fit for this technical role. This application represents a career pivot that does not meet the mandatory prerequisites of the engineering team.

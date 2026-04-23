@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in Drupal development, which provides relevant industry experience; however, they lack direct experience with modern front-end frameworks like React, VueJS, Angular, or Svelte as required in the job description. Additionally, while they have some experience with JavaScript, their focus appears to be more on Drupal rather than the modern tech stack outlined in the job description. Their familiarity with testing tools is limited and does not align well with the hands-on testing and automation experience sought.

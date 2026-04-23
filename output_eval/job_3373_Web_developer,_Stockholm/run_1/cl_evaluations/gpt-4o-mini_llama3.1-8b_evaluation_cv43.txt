@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses experience in program management, curriculum development, and has some technical skills, they lack proficiency in key technologies specified in the job description such as JavaScript, TypeScript, and modern front-end frameworks. Additionally, their coding skills appear to be limited to intermediate proficiency in R rather than the required languages and frameworks, making them a relevant candidate but lacking the specific experience necessary for the role.

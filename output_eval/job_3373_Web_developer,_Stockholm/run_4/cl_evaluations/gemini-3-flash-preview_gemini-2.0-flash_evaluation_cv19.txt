@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to meet the core technical requirements, specifically lacking any professional experience or demonstrated proficiency in JavaScript, TypeScript, and React. Their background is primarily in graphic design and manufacturing, which does not align with the engineering-heavy demands of the role such as testing automation, CI/CD, and web security. While they possess basic HTML/CSS knowledge, they are fundamentally unqualified for a position requiring a seasoned software developer's toolkit.

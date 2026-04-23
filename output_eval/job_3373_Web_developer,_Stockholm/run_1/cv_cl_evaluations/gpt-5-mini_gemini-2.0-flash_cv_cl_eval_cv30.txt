@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong analytics and engineering background with some HTML and general programming experience, but lacks core front-end skills required for this role (no demonstrated JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks, or Git/CICD experience). They show transferable collaboration and learning ability, but do not meet the immediate technical requirements to be productive in this front-end position.

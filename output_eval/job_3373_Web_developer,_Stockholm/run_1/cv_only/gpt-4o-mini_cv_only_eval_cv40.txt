@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in product management and development but lacks specific hands-on experience in JavaScript, TypeScript, and modern frontend frameworks like React. There is no mention of testing frameworks or web security knowledge, which are critical in the job description. Overall, while the background is relevant, the candidate does not meet the technical requirements needed for this position.

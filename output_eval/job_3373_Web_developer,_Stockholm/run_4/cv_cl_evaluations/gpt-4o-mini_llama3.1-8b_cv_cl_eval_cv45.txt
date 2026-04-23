@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a strong background in Information Technology and Cybersecurity, but lacks direct experience with JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks such as React, which are critical for this role. While they mention familiarity with Git and web security principles, their overall experience is more focused on IT management rather than front-end development, making them a less suitable fit for the specific requirements of the job.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Developer position. The resume shows a sales and management background with no demonstrated experience in JavaScript, TypeScript, React, or any of the required technical skills. There is no evidence of software development experience, testing frameworks, Git, or any of the modern web technologies specified in the job description. This is a fundamental mismatch between the candidate's career trajectory and the technical requirements of the role.

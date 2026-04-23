@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is heavily focused on materials analysis and quality improvement in the apparel industry, with no relevant experience in software development, web technologies, or front-end frameworks like JavaScript, TypeScript, React, or others mentioned in the job description. They also lack direct experience with testing frameworks and CI/CD tools relevant for the position, making them unqualified for this role.

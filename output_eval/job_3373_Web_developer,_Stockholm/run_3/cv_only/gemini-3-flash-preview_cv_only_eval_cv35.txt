@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a marketing automation specialist and lacks all the fundamental technical requirements for this software engineering role, including JavaScript, TypeScript, and React. Their experience is centered on CRM platforms like Eloqua and Salesforce rather than modern frontend development, testing frameworks, or CI/CD pipelines. Consequently, there is no evidence of the coding proficiency or technical stack expertise required to perform the duties of this position.

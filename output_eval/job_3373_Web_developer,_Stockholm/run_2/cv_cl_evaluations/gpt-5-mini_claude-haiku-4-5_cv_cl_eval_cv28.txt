@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s resume shows a career in materials analysis and quality engineering with no demonstrated professional experience in JavaScript, TypeScript, React, modern frontend tooling, testing frameworks, or the Node/AWS ecosystem required for this role. While they express motivation to transition and possess strong analytical and cross-functional collaboration skills, they do not meet the core technical qualifications for the frontend developer position.

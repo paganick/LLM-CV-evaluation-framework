@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the required modern front-end stack, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. Their professional background is heavily centered on legacy Java/J2EE and AngularJS, which does not align with the functional programming or modern JavaScript ecosystem specified. Furthermore, the resume reflects a significant lack of recent industry experience, failing to meet the requirement for staying current with emerging technologies.

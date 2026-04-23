@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in technology and experience in systems integration, their expertise primarily lies in marketing automation rather than modern web development with JavaScript, TypeScript, HTML, and CSS. They lack direct hands-on experience with specified frameworks like React and necessary testing tools. Additionally, their knowledge of security concepts and development tools seem basic at best, making them an unsuitable fit for the role.

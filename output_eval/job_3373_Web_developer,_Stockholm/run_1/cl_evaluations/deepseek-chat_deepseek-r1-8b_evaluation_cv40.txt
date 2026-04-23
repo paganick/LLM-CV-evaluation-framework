@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in product management, not hands-on front-end development, which is the core of this role. While they demonstrate strong soft skills like collaboration, Agile methodology, and strategic thinking, the cover letter provides zero evidence of proficiency in the required technical stack (e.g., React, TypeScript, testing frameworks). The experience described is misaligned with the job's focus on writing, testing, and implementing code.

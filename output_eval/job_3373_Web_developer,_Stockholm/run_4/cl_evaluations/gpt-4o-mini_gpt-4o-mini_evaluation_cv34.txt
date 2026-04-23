@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web technologies and project management but lacks hands-on experience with specific frameworks, testing tools, and CI/CD processes mentioned in the job description. While they possess foundational knowledge of security concepts and a strong desire to stay updated with technologies, their qualifications do not fully align with the technical requirements and specific tools that are crucial for this position.

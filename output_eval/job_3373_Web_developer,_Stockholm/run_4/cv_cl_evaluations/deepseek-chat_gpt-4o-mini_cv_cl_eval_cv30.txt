@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analysis, environmental science, and semiconductor engineering, with no demonstrated professional experience in modern front-end development. The resume and cover letter lack any mention of React, TypeScript, modern testing frameworks, or the other core technologies listed in the job description. While the candidate shows enthusiasm, their skills are from a completely different industry and do not align with the specific technical requirements for a Front-End Developer role.

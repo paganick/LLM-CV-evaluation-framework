@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core technical requirements, including JavaScript, React, CSS/SASS, testing, and Agile methodologies. They effectively address their career transition by linking backend and testing experience to frontend needs. However, the cover letter lacks explicit mention of several key requirements from the job description, such as TypeScript, security knowledge (OWASP, CORS), and specific tools like ESLint, Prettier, and CircleCI.

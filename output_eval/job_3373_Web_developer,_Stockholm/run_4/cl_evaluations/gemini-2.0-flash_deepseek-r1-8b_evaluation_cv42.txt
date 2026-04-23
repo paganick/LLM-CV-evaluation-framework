@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core technical skills required, such as JavaScript, React, and testing frameworks. While they highlight transferable skills like process improvement and system management, the cover letter doesn't adequately address the fundamental FE development expertise needed for the role. The candidate's background is primarily in finance and operations, making them a weak fit for a front-end engineering position.

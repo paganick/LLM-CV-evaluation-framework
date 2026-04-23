@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a degree in a relevant field and some experience with fundamental web development technologies. However, the candidate lacks direct experience with React, TypeScript, and testing frameworks mentioned in the job description. While they express a willingness to learn, the gap in required skills is significant.

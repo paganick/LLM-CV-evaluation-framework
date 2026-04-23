@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in sales and leadership rather than in software development, which is not aligned with the technical requirements of the role. While they mention foundational experience in HTML and a motivation to learn JavaScript and React, they lack direct experience with the essential technologies outlined in the job description, such as testing frameworks, modern CSS tools, and Git. Their skills are more relevant to a sales position than a frontend development role, leading to a low score.

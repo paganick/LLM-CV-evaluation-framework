@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am applying for the Front-End Engineer position and bring a systems-focused, security-minded background that aligns with your team's needs. My career as an information technology specialist and systems engineer has centered on diagnosing complex systems, automating repeatable tasks, and maintaining reliable production services. I hold CompTIA Security+ CE certification and have consistently delivered root-cause analysis and documented resolutions that improved accuracy and uptime.
+
+Notable achievements include performing root-cause analyses that improved accuracy by 15%, automating tasks to increase operational efficiency, consistently achieving 100% customer satisfaction, and receiving a Tech of the Quarter award for mission contributions. I hold a B.S. in Computer Engineering Technology and maintain an active TS/SCI clearance, which supports secure collaboration across classified and sensitive projects.
+
+Throughout my roles I have supported and maintained web applications, developed and deployed bug fixes and patch sets, and coordinated low-level system testing and problem analysis. I automated repeatable processes to increase operational efficiency and contributed to monitoring and performance tuning across UNIX and Linux environments. These experiences cultivated a practical approach to test automation, repeatability, and observability that I am eager to apply to front-end testing with unit, integration and end-to-end strategies.
+
+I am an effective collaborator who has trained and mentored team members, coordinated with systems partners to finalize designs, and communicated technical requirements clearly to stakeholders. I have written technical documentation and maintenance procedures to support shift handovers and ensure consistent operations. I enjoy working in iterative, cross-functional teams and I am comfortable interacting with other teams and external partners to achieve shared outcomes.
+
+While my background emphasizes systems engineering and operations, I have hands-on experience supporting web application lifecycles, and I am committed to keeping up to date with modern front-end technologies and practices. I bring a genuine passion for writing clean, maintainable code and for understanding the full domain beyond my immediate responsibilities so I can contribute effectively across platforms.
+
+I am particularly attracted to a role that combines rigorous security awareness, automated testing discipline, and collaboration in an Agile environment. I would welcome the opportunity to contribute my systems reliability experience, security perspective, and strong troubleshooting skills to your React-focused front-end team.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background can support your engineering goals.
+
+Sincerely, Alexis

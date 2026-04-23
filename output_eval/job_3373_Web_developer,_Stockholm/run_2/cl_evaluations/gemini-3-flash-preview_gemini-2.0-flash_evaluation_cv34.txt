@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all the core technical competencies required for the role, specifically JavaScript, TypeScript, and experience with modern frameworks like React. While they possess basic HTML/CSS knowledge and relevant soft skills from a tech-adjacent field, they are currently in the learning phase and do not meet the professional proficiency standards for this position. Their profile fails to demonstrate any hands-on experience with testing, Git, or the specified back-end and infrastructure tools.

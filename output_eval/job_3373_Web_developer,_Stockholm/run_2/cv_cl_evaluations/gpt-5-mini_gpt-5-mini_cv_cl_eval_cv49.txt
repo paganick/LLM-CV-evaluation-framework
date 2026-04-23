@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate demonstrates strong data-analysis, statistical modeling, and programming fundamentals, plus a disciplined testing mindset and cross-functional collaboration experience. However, their resume and cover letter show no hands-on experience with JavaScript/TypeScript, React, HTML/CSS, modern CSS tools, frontend testing frameworks, Node/npm, or Git/CI—core requirements for this Frontend Engineer role. Their stated willingness to learn is positive but does not substitute for the immediate, specific frontend skills and toolchain experience needed.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and user experience, but lacks the specific technical skills required for the job, such as JavaScript, TypeScript, React, and modern testing frameworks. While they have some experience with HTML and CSS, it does not meet the critical requirements outlined in the job description for a front-end development role.

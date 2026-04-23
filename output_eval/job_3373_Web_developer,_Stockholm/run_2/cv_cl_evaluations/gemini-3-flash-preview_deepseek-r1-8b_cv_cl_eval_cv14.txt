@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced .NET/C# developer but lacks the core technical requirements of the role, specifically modern JavaScript frameworks like React, TypeScript, and the NodeJS ecosystem. There is no evidence of experience with the required testing suites (Jest, Cypress), modern CSS tools (SASS, Styled Components), or CI/CD and cloud infrastructure (AWS, Terraform). While the candidate has a relevant background in general web development, they do not possess the specific frontend stack expertise requested.

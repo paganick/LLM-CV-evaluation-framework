@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in engineering and some experience with JavaScript and testing. However, they lack direct experience with React, TypeScript, and modern CSS tools, which are critical for the role. While they demonstrate an understanding of Agile methodologies and collaboration, the absence of essential front-end framework skills reduces their fit for this position.

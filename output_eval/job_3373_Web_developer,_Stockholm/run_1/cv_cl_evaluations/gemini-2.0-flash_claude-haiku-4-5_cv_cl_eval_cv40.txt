@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in product management, not frontend engineering. While they claim some familiarity with related concepts and technologies, the resume lacks concrete evidence of hands-on coding experience with JavaScript, React, or other required skills. The cover letter attempts to bridge this gap but ultimately fails to demonstrate the necessary technical expertise for a Frontend Engineer role.

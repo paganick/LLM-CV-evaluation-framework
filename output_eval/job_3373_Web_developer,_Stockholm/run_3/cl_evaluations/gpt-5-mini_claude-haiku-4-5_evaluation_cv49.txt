@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant analytical and collaborative strengths and a clear commitment to learning frontend technologies, but provides little to no hands-on experience with core requirements (JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Node ecosystem, web security, CI/CD). Their background is transferable but currently lacks the concrete frontend and testing experience this role requires. With additional proven hands-on projects in the listed technologies, they could become a strong match.

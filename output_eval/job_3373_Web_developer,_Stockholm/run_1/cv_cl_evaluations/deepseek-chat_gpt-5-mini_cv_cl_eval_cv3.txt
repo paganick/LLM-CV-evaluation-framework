@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry and shows foundational web knowledge, but lacks the specific, hands-on experience with the required modern technologies like React, TypeScript, testing frameworks, and the broader toolchain listed in the job description. Their experience is primarily academic and based on older technologies (e.g., Flash, ASP.NET), which do not align with the current tech stack. While they demonstrate a strong willingness to learn, the role demands existing proficiency in key areas which the candidate does not yet possess.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a legacy Java/J2EE specialist who lacks nearly all mandatory skills, including React, TypeScript, and modern testing frameworks like Jest or Cypress. Their frontend experience is limited to outdated libraries like jQuery and Bootstrap, which does not meet the requirements for modern UI development. Furthermore, the resume shows no evidence of expertise in NodeJS, CI/CD, or cloud technologies specified in the job description.

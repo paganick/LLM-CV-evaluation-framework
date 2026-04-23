@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with core front-end technologies (JavaScript/TypeScript/HTML/CSS, React), SASS, and testing frameworks (Jest, TestCafe), but the background is primarily in project management and business development with limited evidence of hands-on engineering experience. Several key requirements are not addressed (Git/repo hosting, Node ecosystem, linters/formatters, Ramda/functional programming, CI/CD, API design, AWS/Terraform), so they are a relevant industry fit but lack specific, demonstrable experience for this role.

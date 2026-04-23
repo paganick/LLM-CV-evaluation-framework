@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable soft skills and basic HTML/web and graphic design knowledge, but lacks the core technical requirements listed (JavaScript/TypeScript, React experience, testing frameworks, Node/npm, security practices, CI/CD, and tooling). They express willingness to learn, however the role requires hands-on experience with those modern front-end technologies and testing/automation which are not evidenced. Given the gap between stated experience and the job's technical needs, this application is below the strong-candidate threshold.

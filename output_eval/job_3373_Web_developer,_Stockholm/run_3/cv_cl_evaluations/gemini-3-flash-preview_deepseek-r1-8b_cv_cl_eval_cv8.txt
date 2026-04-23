@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electrical and hardware test engineer whose experience is almost entirely focused on electronics manufacturing, circuit troubleshooting, and hardware validation. They lack the required professional experience in JavaScript, TypeScript, React, and modern web development architectures. While the cover letter mentions familiarity with some web testing tools, the resume confirms the candidate operates in a different industry and lacks the core software engineering skills necessary for this role.

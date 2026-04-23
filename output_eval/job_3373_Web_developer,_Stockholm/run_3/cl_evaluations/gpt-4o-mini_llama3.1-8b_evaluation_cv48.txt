@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive IT experience and a technical background but lacks specific skills in JavaScript, TypeScript, modern front-end frameworks like React, and knowledge of testing frameworks used in the job description. There is also no mention of experience with Git, web security, or CI/CD tools, which are essential for this role.

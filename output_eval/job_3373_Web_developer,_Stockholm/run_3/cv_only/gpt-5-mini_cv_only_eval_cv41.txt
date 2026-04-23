@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid systems administration and security credentials (CompTIA Security+, TS/SCI) and broad backend/infrastructure experience, but the resume shows no demonstrated experience with JavaScript/TypeScript, HTML/CSS or modern frontend frameworks such as React. There is also no evidence of frontend testing/test automation, Git/GitHub workflow, Node/npm, CI/CD, or the other frontend tooling listed in the job description. Given the position’s heavy frontend focus, the candidate is not a good technical fit.

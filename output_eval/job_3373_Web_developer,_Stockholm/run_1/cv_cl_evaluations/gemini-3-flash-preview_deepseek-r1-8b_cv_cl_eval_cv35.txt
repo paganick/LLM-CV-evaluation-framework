@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a software development role, as their entire professional background is in marketing automation and consultancy rather than engineering. They lack all required technical competencies, including JavaScript, TypeScript, React, and modern web development tools, as specified in the job description. Their experience with platform configuration and marketing strategy does not align with the core requirements of a front-end or full-stack developer.

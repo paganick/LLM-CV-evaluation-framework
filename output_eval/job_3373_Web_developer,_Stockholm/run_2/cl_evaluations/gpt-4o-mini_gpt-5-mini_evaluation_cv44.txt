@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in user experience design and a strong foundation in HTML/CSS, but lacks direct mention of modern front-end frameworks such as React, as well as testing frameworks and CI/CD tools specified in the job description. While they have some experience with testing and collaboration, they do not clearly demonstrate familiarity with Git or the broader NodeJS ecosystem, which are critical for the position.

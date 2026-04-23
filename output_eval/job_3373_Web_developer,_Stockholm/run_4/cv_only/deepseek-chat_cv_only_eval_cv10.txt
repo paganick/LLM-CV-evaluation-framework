@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards Java/J2EE back-end development with only basic, outdated front-end exposure (AngularJS). They lack the required modern React expertise, deep testing automation experience, and specific knowledge of the listed tools (e.g., Node.js, AWS, CI/CD). While they have some relevant foundational skills (Agile, Git, JavaScript) and strong academic credentials, their professional profile does not align with the specific front-end and modern tech stack requirements of the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in web development with foundational skills in HTML, CSS, and JavaScript, as well as experience building interactive websites. However, they lack specific experience with modern frontend frameworks like React and testing frameworks mentioned in the job description. Their eagerness to learn is a positive, but their current skill set falls short of the job requirements.

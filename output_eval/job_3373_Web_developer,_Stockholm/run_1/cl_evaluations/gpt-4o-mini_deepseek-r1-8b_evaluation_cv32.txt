@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in customer service and management, which does not align closely with the technical requirements for the Software Engineer position. While they express a passion for technology and a willingness to learn, they lack direct experience with core technologies such as JavaScript frameworks (specifically React), testing and automation tools, and security principles relevant to web development, as outlined in the job description.

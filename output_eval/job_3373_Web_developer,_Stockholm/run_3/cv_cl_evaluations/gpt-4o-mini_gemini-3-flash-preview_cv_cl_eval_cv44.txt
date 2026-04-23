@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in design and user experience, with relevant technical skills in HTML, CSS, and some exposure to JavaScript and jQuery. However, they lack direct experience with JavaScript frameworks like React and do not mention TypeScript, modern testing frameworks, or knowledge of web security practices as per the job description. While their enthusiasm is evident, they do not fully meet the technical requirements of the position.

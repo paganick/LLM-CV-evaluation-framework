@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not frontend development. While they claim a technical foundation in JavaScript, HTML, and CSS, the letter emphasizes testing experience more than hands-on development. The stated "basic knowledge of HTML markup" is insufficient for a frontend developer role, and experience with React is not explicitly mentioned.

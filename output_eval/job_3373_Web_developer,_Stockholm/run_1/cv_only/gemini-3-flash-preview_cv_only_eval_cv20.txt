@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a legacy .NET developer whose experience ended in 2016, lacking any practical experience with modern JavaScript frameworks like React or TypeScript required for this role. Their profile lacks necessary exposure to automated testing (Jest/Cypress), CI/CD, and modern CSS tooling, relying instead on outdated technologies like jQuery and ASP.NET. Consequently, the candidate does not possess the technical skillset or the recent industry experience required to fulfill the job description.

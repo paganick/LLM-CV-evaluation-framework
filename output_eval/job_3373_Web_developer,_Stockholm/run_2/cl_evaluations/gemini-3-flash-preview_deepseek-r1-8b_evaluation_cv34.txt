@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core required technologies, specifically JavaScript, TypeScript, and React, categorizing them as an entry-level career changer rather than a qualified developer. While they possess transferable logic and project management skills from Salesforce configuration, they provide no evidence of proficiency in automated testing, version control, or web security. The application relies on a "foundation for learning" rather than the hands-on technical mastery demanded by the job description.

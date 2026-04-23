@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required technical stack, including React, TypeScript, or modern CSS tools. Their background is strictly in IT project management and infrastructure, with no evidence of hands-on coding or testing automation in a production environment. While they have a high-level understanding of the SDLC, they do not meet the fundamental technical requirements for a developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a background in the technology sector and demonstrates a strong grasp of industry terminology, their professional experience is rooted in sales leadership rather than software engineering. The self-description of having only "foundational knowledge of HTML" is insufficient for a role requiring proficiency in TypeScript, React, and functional programming. Furthermore, the reliance on hardware-centric certifications to justify web security expertise indicates a significant gap in actual frontend development experience.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is fundamentally unqualified, lacking any professional experience with the required modern tech stack including JavaScript, TypeScript, React, and automated testing. Their background is almost exclusively in graphic design and fine arts, with only "some HTML" knowledge mentioned, which does not meet the standards for a software engineering role. Additionally, the resume shows no evidence of working with Git, CI/CD, or modern web security protocols.

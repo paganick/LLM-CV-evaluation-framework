@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and electronics testing, not front-end development. While they express familiarity with JavaScript and some relevant concepts, they lack concrete experience with modern FE frameworks like React, testing frameworks, and other tools mentioned in the job description. Their skills are not directly transferable without significant training and upskilling.

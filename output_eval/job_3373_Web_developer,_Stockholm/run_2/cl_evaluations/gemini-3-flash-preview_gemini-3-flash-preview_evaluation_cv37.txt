@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong technical match by explicitly addressing nearly every requirement, including React, TypeScript, testing methodologies, and web security standards. Their experience with the NodeJS ecosystem and functional programming aligns perfectly with the specialized "nice-to-have" section of the job description. However, as a strict recruiter, I note that their recent background as a Director and Project Manager may suggest a shift away from day-to-day hands-on coding that requires further validation.

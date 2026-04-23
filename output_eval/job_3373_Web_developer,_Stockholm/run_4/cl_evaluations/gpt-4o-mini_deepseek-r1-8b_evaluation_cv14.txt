@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and a strong understanding of various software development principles. However, they lack experience with the specific technologies and frameworks mentioned in the job description, such as React, TypeScript, and various testing frameworks. Their familiarity with C# and ASP.NET does not fully align with the requirements for this particular position.

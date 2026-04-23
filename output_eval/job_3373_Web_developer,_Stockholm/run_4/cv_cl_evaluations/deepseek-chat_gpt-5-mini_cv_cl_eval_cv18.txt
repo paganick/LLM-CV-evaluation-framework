@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and IT consulting, but lacks specific, recent experience with the core technologies required. The job description emphasizes modern React, TypeScript, and specific testing frameworks, which are not demonstrated in the resume or cover letter. While the candidate shows strong general IT and project management skills, the hands-on, specific technical stack and framework experience sought is not evident.

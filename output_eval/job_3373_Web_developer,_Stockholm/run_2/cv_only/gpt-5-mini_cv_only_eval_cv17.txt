@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is senior construction and project management in civil/industrial engineering with no demonstrated experience in software development, frontend technologies (JavaScript/TypeScript/React), testing frameworks, or tooling such as Git, NodeJS, CI/CD, or cloud/infra (AWS/Terraform). This is a different industry and skillset than required by the role. Therefore the candidate is completely unqualified for the listed frontend engineering position.

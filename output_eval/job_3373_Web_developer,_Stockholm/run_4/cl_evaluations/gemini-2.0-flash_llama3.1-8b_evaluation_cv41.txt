@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter highlights system administration skills, which are not the primary focus of the job description. While the candidate mentions an interest in modern FE frameworks, they don't demonstrate actual experience with the specific technologies listed (React, VueJS, Angular, Svelte) besides stating the company's commitment to staying current. There's also no mention of the required JavaScript, TypeScript, HTML, CSS, or testing experience.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all mandatory technical qualifications, including professional experience with JavaScript, TypeScript, and React. While they possess strong leadership and soft skills, their technical background in C/C++ and Chemistry is not relevant to the modern front-end stack or the specific tools requested in the job description. The application explicitly states a desire to learn the core requirements rather than demonstrating existing proficiency, making them unqualified for this level of engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in design and some foundational knowledge of frontend technologies such as HTML, CSS, and JavaScript. However, they lack significant experience with the specific frameworks and technologies mentioned in the job description, including React, TypeScript, and testing frameworks. While their transition into web development shows promise, they do not fully meet the technical requirements needed for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundation in web development technologies like HTML, CSS, and JavaScript. However, they lack explicit experience with React, TypeScript, testing frameworks, and CI/CD practices mentioned in the job description. The candidate expresses willingness to learn, but the letter doesn't demonstrate hands-on experience with the tools and frameworks the team currently uses.

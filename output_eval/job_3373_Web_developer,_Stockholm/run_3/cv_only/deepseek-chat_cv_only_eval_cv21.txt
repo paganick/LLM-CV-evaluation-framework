@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily centered on legacy .NET stack (C#, ASP.NET, VB) and older front-end technologies (AngularJS, jQuery). The resume shows no evidence of the required modern React ecosystem, TypeScript, modern CSS tools, testing frameworks, or the specific DevOps and functional programming (Ramda) skills listed. While they have web development experience and some Agile exposure, their technical profile is a significant mismatch for the specific, modern front-end and tooling requirements of the role.

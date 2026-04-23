@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The résumé shows extensive electronics and hardware test engineering experience but contains no verifiable experience with core frontend technologies required by the role (JavaScript/TypeScript, HTML/CSS, React) nor with Git, Node/npm, or the specified frontend testing frameworks. The cover letter asserts frontend skills, but these claims are unsupported by the resume or concrete examples, so they cannot be relied upon. Given the role is a modern frontend position, the candidate is effectively unqualified based on the provided documentation.

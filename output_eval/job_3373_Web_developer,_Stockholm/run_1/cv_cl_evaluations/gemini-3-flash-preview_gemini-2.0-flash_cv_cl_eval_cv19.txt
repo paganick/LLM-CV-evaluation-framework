@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer who lacks the core technical requirements for this software engineering role, including JavaScript, TypeScript, and React. Beyond basic HTML and CSS mentioned in a design context, they have no experience with modern front-end frameworks, automated testing, or DevOps tools like CI/CD and AWS. Their professional background is in visual design and electrical work, which does not align with the engineering expertise required.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive full-stack experience, they lack professional proficiency in the primary required technologies, specifically React and TypeScript. The cover letter admits a need to "master" the environment rather than bringing existing expertise in the core stack, and it completely omits mandatory requirements like web security (OWASP/CORS) and specific testing frameworks. Consequently, the candidate requires significant upskilling to meet the technical demands of this specific role.

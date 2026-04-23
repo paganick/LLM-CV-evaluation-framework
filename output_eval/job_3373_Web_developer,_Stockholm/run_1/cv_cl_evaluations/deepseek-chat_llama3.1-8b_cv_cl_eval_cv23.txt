@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics engineering and hardware testing, which is a completely different industry from modern front-end software development. The resume and cover letter list outdated or tangential technologies (e.g., C++, Visual Studio, Tera Term) and show no demonstrable, professional experience with the core requirements like React, TypeScript, modern CSS tools, or front-end testing frameworks. The claims in the cover letter about proficiency in key required technologies are not substantiated by the work history.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional background is primarily in legacy .NET, ASP.NET, and the now-obsolete AngularJS, which represents a significant technical gap compared to the required React and TypeScript stack. While the cover letter mentions modern tools like Jest and SASS, the resume provides no evidence of professional experience with these, nor with Git, CI/CD, or modern web security standards. The candidate's experience is more aligned with full-stack enterprise development from a previous era rather than modern frontend engineering.

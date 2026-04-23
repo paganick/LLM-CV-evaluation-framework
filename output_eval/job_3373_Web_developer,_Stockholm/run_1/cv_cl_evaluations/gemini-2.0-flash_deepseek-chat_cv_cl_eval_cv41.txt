@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some understanding of the required technologies, particularly JavaScript, TypeScript, and React, but lacks extensive hands-on experience in a front-end role. Their background is primarily in systems administration and IT support, making them a less direct fit for a front-end developer position. While the cover letter expresses enthusiasm, the resume doesn't provide concrete examples of building and maintaining modern web applications.

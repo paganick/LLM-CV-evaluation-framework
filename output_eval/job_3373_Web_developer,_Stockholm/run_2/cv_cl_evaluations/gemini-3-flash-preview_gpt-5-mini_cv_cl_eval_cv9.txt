@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized Java Backend Engineer who lacks professional experience in the mandatory front-end stack, including React, TypeScript, and modern CSS tools. While they demonstrate strong general software engineering principles and testing discipline, their background is centered on server-side architecture rather than modern web development. Consequently, they fail to meet the core technical requirements for this specific front-end role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong soft skills (collaboration, documentation, Agile awareness) but provides no evidence of the core technical qualifications required for the role—no mention of JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Git, Node ecosystem, or web security. There are no concrete examples of hands-on frontend work, tooling, or relevant projects. Given the lack of demonstrated technical experience, they are not qualified for a technical frontend position without additional training or evidence.

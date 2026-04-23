@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight experience in banking, sales, and training, lacking demonstrable skills in front-end engineering or the technologies listed in the job description. While the candidate expresses interest in learning these skills, the current qualifications are misaligned with the role's requirements. The candidate's experience does not showcase any of the required technical skills such as Javascript, React, or Typescript.

@@ -1,0 +1,2 @@
+Score: [6]
+Reasoning: The candidate demonstrates relevant experience in client-facing roles and technical business analysis, with exposure to banking and digital solutions. However, the resume lacks explicit sales experience, focusing more on analysis and implementation. While the cover letter attempts to bridge this gap, the absence of quantifiable sales achievements and a direct alignment with the specific technologies mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI) lowers the score.

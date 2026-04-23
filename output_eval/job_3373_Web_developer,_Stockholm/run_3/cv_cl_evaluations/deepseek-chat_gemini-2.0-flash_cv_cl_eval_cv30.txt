@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analytics, quality assurance, and teaching, with no demonstrated professional experience in modern front-end development. The job requires specific, hands-on expertise in React, TypeScript, modern CSS, testing frameworks, and related tools, which the candidate explicitly states they need to learn. While they have some tangential exposure to HTML and collaboration skills, their profile is a severe mismatch for the core technical requirements of the role.

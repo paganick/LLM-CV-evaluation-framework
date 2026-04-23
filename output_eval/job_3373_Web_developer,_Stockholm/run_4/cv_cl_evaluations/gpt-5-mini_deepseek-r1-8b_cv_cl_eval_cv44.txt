@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant UX/design background and basic HTML/CSS skills plus a Computer Science degree, but their resume and cover letter show no demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git/repo workflows, Node/npm, or web security practices. This is a skills gap for the role; they would require substantial upskilling and practical experience before being a strong fit.

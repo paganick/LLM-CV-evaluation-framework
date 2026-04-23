@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of web technologies and security principles, which is relevant to the position. However, they lack hands-on experience with modern frameworks like React beyond expressing a willingness to learn, and do not mention familiarity with various testing frameworks or Git, both essential for the role. While they have strengths in communication and collaboration, their experience primarily in customer service does not sufficiently align with the technical demands of the frontend developer position.

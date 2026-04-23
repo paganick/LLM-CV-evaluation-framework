@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses some relevant skills such as Javascript, HTML, CSS, and experience with Agile methodologies, the resume lacks specific experience with modern FE frameworks like React, which is a core requirement. The candidate mentions AngularJS experience, which is outdated, and the cover letter expresses interest in learning React, but doesn't demonstrate existing proficiency. The resume is heavily focused on Java and backend technologies, making it a weaker fit for a Frontend Engineer role.

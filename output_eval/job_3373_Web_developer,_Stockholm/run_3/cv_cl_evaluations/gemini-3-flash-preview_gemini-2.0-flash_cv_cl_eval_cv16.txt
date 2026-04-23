@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant industry experience in web development and Agile methodologies, their technical profile is centered on legacy .NET and jQuery rather than the required modern JavaScript stack. They lack the mandatory experience in React, TypeScript, modern CSS tooling, and automated testing frameworks specified in the job description. Significant retraining would be necessary as they do not possess the core technical competencies requested.

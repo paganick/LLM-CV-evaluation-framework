@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate claims proficiency in JavaScript, HTML, and CSS but lacks explicit mention of TypeScript and modern FE frameworks like React, which are key requirements. The cover letter focuses on broader IT experience rather than specific front-end development skills. While the candidate expresses interest in learning, the lack of direct experience with critical technologies outlined in the job description is a significant drawback.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks several key technical requirements, most notably TypeScript, which is listed as a primary language for the role. Additionally, the application fails to address required knowledge in web security (OWASP), functional programming (Ramda), and CI/CD tools. While the candidate has relevant experience with React and testing frameworks, their professional background as a Database Programmer/Analyst suggests a lack of the specialized front-end expertise necessary for this position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience or foundational proficiency in any of the required technologies, including JavaScript, TypeScript, and React, stating only an interest in learning them. Their background is in an unrelated industry, and they fail to meet mandatory requirements for hands-on testing, Git, or CI/CD experience. As a career changer with only intermediate R proficiency, they are fundamentally unqualified for a technical developer role.

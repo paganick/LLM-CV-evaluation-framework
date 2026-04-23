@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified, as their professional background is in microbiology and molecular genetics rather than software engineering. They lack any demonstrated professional experience with the required tech stack (JavaScript, TypeScript, React) and cite administrative software like MS Office and SAP as evidence of technical adaptability. While they mention an interest in "clean code," the absence of a relevant portfolio or industry experience makes them an unsuitable match for this technical role.

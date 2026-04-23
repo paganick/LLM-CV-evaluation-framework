@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications and a focus on accessibility, but lacks direct experience with essential technical skills outlined in the job description, such as JavaScript, TypeScript, React, and testing frameworks. While they express interest in transitioning to frontend development, their current skill set does not meet the specific requirements for the position.

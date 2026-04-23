@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume focuses on business development, sales, and marketing, which are not relevant to the software engineering job description. While the candidate lists HTML under "Programming Skills", it's insufficient to demonstrate proficiency in the required front-end technologies like React, TypeScript, or modern CSS tools. The resume lacks any evidence of experience with testing, Git, or other essential software development practices.

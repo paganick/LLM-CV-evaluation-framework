@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the JavaScript/TypeScript/React Developer position at your company. My background, while rooted in digital marketing and Salesforce configuration, has equipped me with a robust blend of technical aptitude, project management expertise, and a genuine passion for writing clean, efficient code. I am confident my skills align well with your requirements for a modern web developer.
+
+My experience involves working extensively with HTML, CSS, and SQL, configuring complex software solutions like Salesforce Marketing Cloud, which required deep dives into platform logic and data structures. Although my primary focus has been on configuration and client-side marketing automation, this work involved scripting and logic development akin to front-end development principles. I am highly adept at understanding and implementing complex technical requirements, documenting solutions clearly, and collaborating closely with both internal teams and external clients – skills directly transferable to a development role.
+
+I am proficient in writing clean, maintainable code and have experience managing project lifecycles, ensuring requirements are met, and mitigating risks – all critical aspects of successful software development. My understanding of testing processes, including creating test plans for User Acceptance Testing (UAT), demonstrates my commitment to quality assurance. While my primary experience lies in SQL and HTML/CSS for customizations, my coursework in web design and familiarity with software troubleshooting provide a solid foundation for learning and excelling in JavaScript, TypeScript, and React development. I am eager to leverage my project management skills, technical troubleshooting abilities, and passion for clean code within your Agile development environment. I am keen to expand my technical expertise and contribute to building robust, modern web applications using React and related technologies.
+
+Sincerely,
+Alexis

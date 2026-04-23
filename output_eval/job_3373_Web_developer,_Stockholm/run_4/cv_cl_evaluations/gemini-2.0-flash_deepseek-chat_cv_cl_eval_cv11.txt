@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they express interest in learning React and other modern tools, their resume lacks concrete experience with the specific technologies listed in the job description, such as React, TypeScript, and modern CSS tools. Their experience with Javascript seems limited to scripting for testing purposes.

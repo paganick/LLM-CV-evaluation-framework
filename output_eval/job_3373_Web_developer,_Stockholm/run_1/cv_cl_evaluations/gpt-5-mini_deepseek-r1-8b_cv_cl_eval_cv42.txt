@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's 20-year background is in finance and operations with no demonstrated hands-on experience in JavaScript, TypeScript, React, modern frontend frameworks, testing frameworks, Node.js or related tooling required for the role. There is no evidence of relevant coding, Git usage, front-end CSS tooling, or cloud/CI experience, so they do not meet the technical prerequisites. While their project management and systems-change experience is strong, it is insufficient to qualify for this engineering position.

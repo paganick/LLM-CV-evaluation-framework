@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely rooted in sales, customer service, and retail management, with no evidence of professional software development history. While the cover letter mentions self-study, the resume lacks any technical credentials, professional exposure to the required React/TypeScript stack, or relevant project work. This candidate is fundamentally unqualified for a specialized engineering role that requires hands-on experience with testing, security, and cloud infrastructure.

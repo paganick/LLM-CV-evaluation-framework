@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, Git, and web security. Their extensive infrastructure background provides a unique, valuable perspective, though it is not the primary focus of the role. The cover letter effectively bridges their past experience with the job's needs, showing a genuine passion for clean code and modern practices.

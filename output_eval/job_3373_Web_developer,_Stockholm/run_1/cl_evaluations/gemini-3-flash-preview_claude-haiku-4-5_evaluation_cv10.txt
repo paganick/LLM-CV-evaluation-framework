@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant academic background and foundational web skills but fails to demonstrate professional proficiency in the primary required technologies, specifically React and TypeScript. Their experience relies on the outdated AngularJS framework, and the letter omits any mention of the specified web security protocols or modern CSS tooling requested. While the candidate has a strong testing background, it is centered on Java and benchmarking rather than the modern front-end testing libraries essential for this position.

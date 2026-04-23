@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience and skills are primarily focused on digital communications, marketing, and content management with no relevant experience in JavaScript, TypeScript, or modern front-end frameworks like React. They lack hands-on experience with testing, Git, web security, or any of the specific technical skills listed in the job description. This disconnect indicates that the candidate is completely unqualified for the specified technical role.

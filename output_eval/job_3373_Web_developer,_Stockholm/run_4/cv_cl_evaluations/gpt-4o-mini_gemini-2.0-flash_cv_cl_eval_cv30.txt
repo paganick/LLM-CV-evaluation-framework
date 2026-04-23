@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience in relevant fields like data analysis and some exposure to web technologies, they lack hands-on experience with the core front-end skills required for the position such as JavaScript, TypeScript, and modern frameworks like React. Their technical background does not demonstrate the necessary front-end development expertise and knowledge of testing automation, making them less suitable for the role.

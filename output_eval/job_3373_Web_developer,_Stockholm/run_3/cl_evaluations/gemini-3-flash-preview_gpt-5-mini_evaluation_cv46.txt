@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core required technologies, including React, TypeScript, and modern CSS tools, explicitly stating they are "eager to expand" into these areas rather than possessing current proficiency. While they have a relevant computer science background, their experience is heavily focused on back-end systems, database administration, and hardware troubleshooting. Consequently, they do not meet the specific requirements for front-end testing automation or web security expertise outlined in the job description.

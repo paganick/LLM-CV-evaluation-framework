@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position, as my deep-seated passion for technology and proven track record in creating robust, user-centric solutions align perfectly with the skills and environment you’ve described.
+
+With over twelve years as an Information Technology Specialist, I have built a career on translating complex technical requirements into reliable, cleanly executed systems. While my background is rooted in full-stack infrastructure, server management, and end-user support, my drive for continuous improvement has led me to passionately pursue modern front-end development. I have dedicated myself to mastering JavaScript, TypeScript, HTML, and CSS, with a focused expertise in React and its ecosystem. I am adept at using tools like ESLint and Prettier to write truly clean, maintainable code and have hands-on experience building and testing components with Jest, principles I apply with the same rigor I used in managing over 500 Windows devices and servers.
+
+Your requirement for a strong collaborator in an Agile setting resonates deeply. My experience involves constant interaction with cross-functional teams, external vendors, and end-users, from conducting business infrastructure audits to training staff on new systems. I thrive on understanding full domains, as evidenced by my work integrating CCTV, VoIP, BDR, and network systems to create cohesive solutions. This holistic view, combined with my CompTIA certifications and troubleshooting proficiency, ensures I approach development with security and performance in mind, readily grasping concepts like OWASP and CORS.
+
+I am particularly drawn to your tech stack, including Styled Components, Node.js, and functional programming with Ramda. My hands-on work with CI/CD pipelines for system deployments and my foundational understanding of AWS position me to contribute effectively from day one. The opportunity to work with a team that values clean code, testing, and modern practices is exactly the challenge I seek.
+
+My career is defined by a commitment to excellence, as shown by consistent 100% customer satisfaction ratings and technical performance awards. I am eager to bring this same dedication to your development team. Thank you for your time and consideration.
+
+Sincerely, Alexis

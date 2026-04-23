@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in film and television production, which is not directly aligned with the front-end development role. Although they exhibit some transferable skills, such as project management and a willingness to learn, they lack essential experience with the required technologies and frameworks, such as JavaScript, TypeScript, React, and modern CSS tools. Their proficiency in Ruby is mentioned, but the company is moving away from it, further indicating a misalignment with the current needs of the team.

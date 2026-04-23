@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware-focused electronics technician with no professional experience in front-end development, React, or TypeScript. While they possess general technical validation skills, they lack the required mastery of HTML/CSS, modern JavaScript frameworks, and web-specific testing tools like Jest or Cypress. Their profile aligns with electrical engineering and system testing rather than the software engineering requirements of this position.

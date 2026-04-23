@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and technologies such as HTML, CSS, and JavaScript but lacks familiarity with modern frameworks like React, which is critical for the position. While they have automation and server management skills, their experience with testing frameworks and specific tools mentioned in the job description is minimal or absent. Overall, they demonstrate a solid foundation but do not fully meet the specific qualifications required for the role.

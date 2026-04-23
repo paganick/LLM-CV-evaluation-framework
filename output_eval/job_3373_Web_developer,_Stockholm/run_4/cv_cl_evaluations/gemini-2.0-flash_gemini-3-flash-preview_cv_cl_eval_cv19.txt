@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design and electrical work, with limited frontend development experience. While they mention HTML and CSS skills and an interest in React, the resume lacks concrete examples of relevant projects or experience with JavaScript, TypeScript, testing frameworks, or other modern frontend tools mentioned in the job description. The cover letter attempts to bridge the gap, but the skills and experience are not sufficient for a Frontend Developer role.

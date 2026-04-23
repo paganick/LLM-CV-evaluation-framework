@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java back-end development and legacy front-end (AngularJS), with minimal exposure to the required modern React ecosystem. Key requirements like TypeScript, modern testing frameworks (Jest, Cypress), functional programming (Ramda), and specific tooling (Styled Components, Node.js, CI/CD) are not demonstrated. While they have relevant foundational web skills and Agile experience, they lack the specific, hands-on expertise in the technologies listed as critical for the role.

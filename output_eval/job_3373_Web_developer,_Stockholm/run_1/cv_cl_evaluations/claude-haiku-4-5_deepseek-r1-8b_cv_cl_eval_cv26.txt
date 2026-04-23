@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrable experience in frontend development, JavaScript, TypeScript, React, or any of the required technical stack. While the cover letter attempts to frame transferable skills like project management and attention to detail, it provides no evidence of hands-on coding experience, testing frameworks, Git proficiency, or web security knowledge. The candidate's background in marketing, legal administration, and event planning is fundamentally misaligned with a senior frontend engineer role requiring specific technical competencies.

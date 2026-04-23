@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced graphic designer with no professional background in software engineering or the specified technical stack of React, TypeScript, and modern testing frameworks. While the cover letter mentions self-directed learning, the resume provides no evidence of hands-on experience in a professional development environment or with CI/CD tools. The applicant’s background in print and visual media is entirely insufficient for the technical requirements of this front-end developer role.

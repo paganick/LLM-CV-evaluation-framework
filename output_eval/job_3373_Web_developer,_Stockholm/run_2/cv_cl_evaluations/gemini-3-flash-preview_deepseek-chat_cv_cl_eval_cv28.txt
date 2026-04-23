@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's entire professional history is in materials analysis and manufacturing, lacking any verifiable professional experience as a software developer. While the cover letter mentions a transition to web development, the resume provides no evidence of professional work with JavaScript, React, or modern testing frameworks in a production environment. As a career changer without technical job experience, they do not meet the strict requirements for this engineering role.

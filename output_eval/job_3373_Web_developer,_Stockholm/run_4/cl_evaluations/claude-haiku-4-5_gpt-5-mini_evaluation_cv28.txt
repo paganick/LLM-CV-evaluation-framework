@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant analytical and quality-focused mindset but lacks the specific technical foundation required for a front-end engineering role. While they show enthusiasm for learning JavaScript, TypeScript, React, and testing frameworks, they have no demonstrated hands-on experience with these core technologies, web development, or Git/GitHub. Their 15+ years of materials analysis experience, though strong in their domain, does not translate to the practical coding skills and modern web development expertise essential for this position.

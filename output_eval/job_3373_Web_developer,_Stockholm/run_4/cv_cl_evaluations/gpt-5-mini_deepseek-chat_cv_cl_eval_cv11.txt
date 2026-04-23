@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web testing experience and basic JavaScript/HTML/CSS knowledge, but lacks hands-on frontend development experience with React, TypeScript, modern CSS tooling, Node/npm, and common JS testing frameworks (Jest/Cypress/TestCafe). There is no evidence of Git usage, CI/CD, or production front-end projects and limited familiarity with the specific technologies listed in the job description. Substantial upskilling and demonstrable development work would be required to meet this role's requirements.

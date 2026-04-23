@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses fundamental knowledge of HTML, CSS, and JavaScript, but lacks experience with modern front-end frameworks like React, TypeScript, and testing frameworks mentioned in the job description. Their experience is limited to academic projects and older technologies like ASP.NET and ActionScript. The candidate's professional experience is primarily in construction, making them a career changer with limited direct applicability to the role.

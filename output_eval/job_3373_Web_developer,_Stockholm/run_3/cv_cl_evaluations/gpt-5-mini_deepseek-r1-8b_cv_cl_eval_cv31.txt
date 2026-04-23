@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in sales and management with no demonstrated professional experience in front-end development technologies required by the role (JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, CI/CD, AWS/Terraform). The resume only lists minimal HTML exposure and non-technical duties, and the cover letter admits a lack of technical experience. Despite leadership strengths and willingness to learn, the applicant is in a different industry and is not qualified for this technical position.

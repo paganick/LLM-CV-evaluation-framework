@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials analysis, metallurgy, and process improvement with no demonstrated experience in JavaScript, TypeScript, React, modern front-end frameworks, NodeJS, testing frameworks, CI/CD, or cloud/infra (AWS/Terraform). This is a fundamentally different industry and skill set than required for the role. As such, they are completely unqualified for the position.

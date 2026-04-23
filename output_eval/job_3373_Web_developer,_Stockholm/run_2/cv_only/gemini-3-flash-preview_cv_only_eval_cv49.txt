@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position as their expertise lies in Data Science and Industrial Engineering rather than Frontend Web Development. There is no evidence of experience with JavaScript, TypeScript, React, or any other core technologies specified in the job description. The applicant's background in statistical modeling and data analytics is entirely irrelevant to the requirements of this software engineering role.

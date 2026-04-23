@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong alignment with soft skills like collaboration and Agile. However, the cover letter lacks concrete, hands-on evidence of professional experience with the core technical stack (React, TypeScript, modern frameworks) and specific tools (testing frameworks, CI/CD, AWS) listed in the job description, presenting mostly foundational knowledge and self-directed learning instead.

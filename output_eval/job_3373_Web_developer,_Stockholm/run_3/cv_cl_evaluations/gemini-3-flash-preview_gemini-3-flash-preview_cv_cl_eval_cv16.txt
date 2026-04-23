@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily rooted in an outdated .NET and jQuery stack from nearly a decade ago, which fails to meet the core requirement for modern React and TypeScript expertise. There is no evidence of professional experience with modern testing frameworks, CI/CD tools, or cloud infrastructure like AWS and Terraform. While the candidate has relevant experience in Agile and basic web development, they lack the specific technical skills and recent industry practice required for this modern frontend role.

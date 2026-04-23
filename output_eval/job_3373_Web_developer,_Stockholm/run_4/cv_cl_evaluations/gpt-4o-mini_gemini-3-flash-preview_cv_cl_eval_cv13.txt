@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and front-end development but lacks specific expertise in key areas requested in the job description, such as modern frameworks like React and testing automation frameworks. Although they demonstrate knowledge in JavaScript, HTML, and CSS, their experience with testing methodologies and CI/CD tools is not robust. Overall, the candidate fits within the industry but does not fully meet all technical qualifications required for this position.

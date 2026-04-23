@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the fundamental technical requirements for the role, explicitly admitting a lack of experience in JavaScript and TypeScript, which are essential for the position. While they possess design skills and basic HTML/CSS knowledge, they do not demonstrate the required proficiency in React, testing frameworks, Git, or CI/CD tools. This application represents an unacceptable skills gap between graphic design and the specialized engineering expertise required for this technical role.

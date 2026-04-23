@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, not front-end development. While they mention HTML proficiency and a willingness to learn React, they lack demonstrable experience with JavaScript, TypeScript, testing frameworks, and other essential technologies listed in the job description. The cover letter relies heavily on transferable skills rather than direct front-end experience.

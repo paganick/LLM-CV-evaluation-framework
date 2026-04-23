@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in testing, not development. While they claim familiarity with JavaScript, HTML, and CSS, the resume lacks evidence of hands-on project experience using modern FE frameworks, NodeJS, or related tools mentioned in the job description. The candidate expresses interest in learning React, but the job requires experience.

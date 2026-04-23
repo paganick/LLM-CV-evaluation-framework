@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong skills in JavaScript, HTML, and CSS, as well as experience with modern frameworks and libraries, primarily focusing on Drupal which aligns well with React. They show a solid understanding of testing frameworks and version control systems, and their collaboration and Agile experience fits the role well. However, the cover letter does not mention TypeScript or specific experience with all the requested CSS tools, which prevents a perfect score.

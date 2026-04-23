@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified for a technical engineering role, as they possess zero demonstrated experience with JavaScript, TypeScript, or modern frameworks like React. While they have a strong design background, they lack the required expertise in Git, automated testing, Web security, and CI/CD pipelines. Their reliance on outdated tools like Dreamweaver and a lack of production-level coding experience makes them a poor fit for this specific position.

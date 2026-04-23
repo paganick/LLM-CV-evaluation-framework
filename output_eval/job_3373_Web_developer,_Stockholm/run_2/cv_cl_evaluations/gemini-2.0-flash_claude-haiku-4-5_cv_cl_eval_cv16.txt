@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development, but primarily with .NET technologies, not the modern JavaScript frameworks the job requires. While they express enthusiasm for learning React, their direct experience is limited. Their experience with testing and version control is relevant, but the lack of direct experience with the specified technologies is a significant drawback.

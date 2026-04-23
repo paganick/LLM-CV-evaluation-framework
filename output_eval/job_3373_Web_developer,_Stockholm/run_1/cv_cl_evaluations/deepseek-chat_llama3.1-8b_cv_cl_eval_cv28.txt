@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in materials engineering and quality analysis for manufacturing, which is a completely different industry from front-end software development. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, or any other technologies listed in the job description. This is a case of an entirely wrong industry and skillset for the role.

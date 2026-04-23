@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all mandatory technical skills, explicitly stating a lack of production-level experience in JavaScript, TypeScript, and React. Their professional background in graphic design and visual merchandising is not equivalent to software engineering, and the cited experience with obsolete tools like Flash and Dreamweaver is irrelevant to a modern development stack. There is no evidence of competence in testing, Git, or web security, making them unqualified for this technical role.

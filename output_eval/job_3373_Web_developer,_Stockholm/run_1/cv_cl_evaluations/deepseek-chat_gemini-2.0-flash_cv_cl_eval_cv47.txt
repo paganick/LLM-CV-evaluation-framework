@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, with no professional experience in front-end development or the required technologies like React, TypeScript, or modern testing frameworks. The resume lists only basic, outdated programming skills (HTML, C, C++) from over a decade ago, which does not meet the job's technical requirements. The cover letter attempts to bridge this gap with soft skills but demonstrates no practical, hands-on experience relevant to the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE backend experience, Agile exposure, and basic Git usage, but lacks core requirements for this frontend role such as JavaScript/TypeScript, React, modern CSS tools, Node/npm ecosystem, and JS testing frameworks. There is no evidence of experience with web security (OWASP/CORS/OAuth), CI/CD, AWS/Terraform, or modern frontend tooling, so they are not suitably qualified for the position.

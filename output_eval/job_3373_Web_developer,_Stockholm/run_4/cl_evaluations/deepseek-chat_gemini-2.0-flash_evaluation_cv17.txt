@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in civil engineering and construction management, which is a completely different industry from frontend development. While they demonstrate strong project management and soft skills, the cover letter fails to provide any evidence of hands-on experience with the required technical stack (e.g., JavaScript, React, testing frameworks, Git). The lack of demonstrated, relevant technical proficiency makes them unqualified for this specific role.

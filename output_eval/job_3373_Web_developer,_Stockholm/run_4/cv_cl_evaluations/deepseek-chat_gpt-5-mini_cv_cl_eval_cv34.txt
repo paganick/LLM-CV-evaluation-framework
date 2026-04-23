@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing implementation and project management, not professional software development. While they mention basic HTML and CSS, they lack the required core experience with JavaScript, TypeScript, modern front-end frameworks (React, Vue, Angular, Svelte), testing frameworks, and the Node.js ecosystem specified in the job description. Their experience is adjacent to web technology but focuses on configuring SaaS platforms (Salesforce) rather than building applications.

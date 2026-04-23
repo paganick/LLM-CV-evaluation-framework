@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates many soft skills and adjacent technical proficiencies (e.g., Adobe Suite, content management). However, they fail to explicitly mention the job's key required tools (Figma, HTML/CSS/JS) and do not provide clear evidence of direct, commercial UX design experience in an Agile environment, which are core requirements. Their background is more aligned with content strategy and web management than with the specified UX design and prototyping duties.

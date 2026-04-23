@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation specialist and lacks professional experience as a software engineer or front-end developer. Their profile shows no evidence of proficiency in the required technical stack, specifically React, TypeScript, testing frameworks like Jest/Cypress, or CI/CD tools. While they have used HTML and JavaScript for marketing assets, they do not meet the specialized engineering requirements or industry experience defined in the job description.

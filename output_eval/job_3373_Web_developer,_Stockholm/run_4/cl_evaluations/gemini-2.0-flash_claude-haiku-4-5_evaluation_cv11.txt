@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in QA, not frontend development. While they mention familiarity with JavaScript, HTML, and CSS, the letter lacks concrete examples of frontend development projects. They mention testing tools but don't demonstrate practical experience building UIs with React, which is the company's framework of choice.

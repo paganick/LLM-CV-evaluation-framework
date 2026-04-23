@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking the necessary depth in Javascript, Typescript, and React, which are core requirements. While HTML/CSS experience and an understanding of UI principles are relevant, the cover letter doesn't demonstrate sufficient hands-on experience with modern FE frameworks, testing, or other technologies outlined in the job description. The candidate expresses a willingness to learn, but the current skill set does not align with the required expertise.

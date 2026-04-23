@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong foundation in the necessary front-end technologies such as JavaScript, TypeScript, HTML, CSS, and React, along with relevant testing experience and knowledge of web security. Their background in cognitive science adds a unique perspective to user-centered design. However, there is a lack of explicit mention of other technologies mentioned in the job description, such as functional programming with Ramda and CI/CD tools, which prevents a perfect match score.

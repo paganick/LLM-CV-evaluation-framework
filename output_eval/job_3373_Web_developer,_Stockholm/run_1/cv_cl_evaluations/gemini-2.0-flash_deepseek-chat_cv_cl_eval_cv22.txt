@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning, not software development. While they express interest and some foundational knowledge in relevant technologies, they lack substantial experience with the core requirements like React, TypeScript, and testing frameworks. Their experience is mostly academic or self-driven, not professional front-end development.

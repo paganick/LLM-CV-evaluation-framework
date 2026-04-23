@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional software development experience and fails to demonstrate proficiency in critical requirements such as TypeScript, Web Security, and CI/CD. While they possess strong design fundamentals and basic knowledge of React, they only mention "learning" these tools rather than having hands-on professional application. Consequently, the candidate does not meet the technical depth or engineering seniority necessitated by the job description.

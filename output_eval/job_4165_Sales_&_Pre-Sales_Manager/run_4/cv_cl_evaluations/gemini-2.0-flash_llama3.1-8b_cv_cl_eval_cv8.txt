@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in traditional sales roles (plumbing, electrical, lighting fixtures) and lacks specific experience in Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research). While they possess sales experience, it doesn't align with the digital solutions focus required by the job description. The candidate also does not list experience with AI/ML algorithms.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic and product design, not software engineering. They lack any demonstrable professional experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, testing frameworks, or modern development tools. While they express eagerness to learn, their current skills are not relevant to a professional frontend developer role.

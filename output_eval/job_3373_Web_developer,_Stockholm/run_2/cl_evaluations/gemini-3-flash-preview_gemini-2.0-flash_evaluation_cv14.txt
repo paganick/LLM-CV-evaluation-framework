@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate fulfills the foundational requirements for JavaScript, TypeScript, and web security, but their professional background is primarily in ASP.NET rather than specialized front-end development. They lack demonstrated professional experience with the specific React framework and fail to mention modern styling tools, functional programming, or the CI/CD ecosystem requested. Consequently, the applicant is a generalist who lacks the specific technical depth in the modern front-end stack required for this role.

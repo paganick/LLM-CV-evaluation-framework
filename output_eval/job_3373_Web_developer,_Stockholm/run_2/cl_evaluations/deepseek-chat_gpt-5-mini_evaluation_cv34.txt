@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in client-facing digital solutions, documentation, and testing, which aligns with some soft skills and general process requirements. However, they lack direct, hands-on experience with the core technical stack (React, TypeScript, modern testing frameworks, Node.js ecosystem) explicitly required for the front-end engineering role. Their stated eagerness to learn these skills is noted but does not substitute for current proficiency.

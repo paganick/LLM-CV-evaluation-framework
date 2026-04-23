@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+As an Information Technology Specialist III with a deep professional background in architecting complex web solutions, I am excited to apply for the Frontend Developer position. My experience as the Lead Drupal Developer for the NYSED.GOV redesign project has provided me with a robust foundation in high-quality coding, system architecture, and modern web standards. I am eager to bring this expertise to your React-focused development team.
+
+Throughout my career, I have mastered JavaScript, HTML5, and CSS3 to build responsive, accessible, and high-performance websites. While my recent focus has been on complex Drupal 8 deployments, I have consistently utilized JavaScript and AJAX to extend core functionality, which aligns with your team's emphasis on modern frameworks. I am particularly drawn to your use of Styled Components and SASS, as I have extensive experience building custom responsive themes and streamlining the authoring experience. My technical background in Java and PHP provides me with a unique perspective on the NodeJS ecosystem, API design, and functional programming concepts like those utilized in Ramda.
+
+I am deeply committed to the principles of clean code and rigorous testing. In my previous roles, I implemented Selenium and Behat to ensure application reliability and performance. I am excited to transition these skills to a modern testing stack involving Jest and Cypress. Furthermore, my work with NYSED involved strictly adhering to website accessibility standards and compliance, ensuring I am well-versed in the critical concepts of web security and data validation. My familiarity with Git ensures that I can seamlessly integrate into your current repository hosting services and version control workflows.
+
+Collaboration is at the heart of my professional workflow. Leading the NYSED redesign required me to manage concurrent projects, supervise technical consultants, and communicate complex strategies to diverse stakeholders. I thrive in an Agile environment and enjoy the challenge of understanding the full domain of a product. I am also highly familiar with versioning management systems and CI/CD concepts. I am eager to bring my problem-solving skills and technical versatility to your innovative team. Thank you for your time and consideration as you review my credentials and qualifications.
+
+Sincerely,
+Alexis

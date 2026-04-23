@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my background has primarily focused on materials analysis and quality engineering, I am excited about transitioning into frontend development and am committed to building the technical expertise your team requires.
+
+Throughout my career at Nike and in aerospace quality, I have demonstrated the analytical mindset and attention to detail essential for writing clean, maintainable code. My experience with advanced Microsoft Office, Tableau, and statistical analysis tools has given me familiarity with data visualization and problem-solving methodologies that translate well to frontend development. Additionally, my Six Sigma Green Belt certification and participation in continuous improvement projects reflect my passion for precision and optimization, qualities I will bring to every line of code I write.
+
+I recognize that I am early in my frontend development journey, but I am genuinely passionate about mastering the technologies your role demands. I am actively building proficiency in JavaScript, TypeScript, HTML, and CSS, with a particular focus on React since that is your primary framework. I am committed to developing hands-on expertise in testing frameworks such as Jest and Cypress, and I am dedicating time to understanding modern CSS tools, linters, and formatters that your team values.
+
+My cross-functional experience at Nike, where I regularly collaborated with product teams, manufacturing offices, and global colleagues, has honed my ability to work effectively in Agile environments. I am comfortable communicating complex concepts to diverse audiences and take genuine interest in understanding platforms and domains outside my immediate expertise. This collaborative approach will enable me to integrate seamlessly with your team while actively learning from more experienced developers.
+
+I am deeply committed to staying current with evolving technologies and best practices. My background in quality assurance has instilled in me the importance of security considerations such as OWASP and CORS, and I am eager to deepen this knowledge. While my experience with Git and GitHub is foundational, I am enthusiastically expanding these skills and am prepared to contribute meaningfully to your development workflow.
+
+I bring reliability, integrity, and a genuine passion for excellence to every challenge I undertake. I am excited about the opportunity to grow as a frontend developer within your organization and to contribute to building exceptional user experiences.
+
+Sincerely, Alexis

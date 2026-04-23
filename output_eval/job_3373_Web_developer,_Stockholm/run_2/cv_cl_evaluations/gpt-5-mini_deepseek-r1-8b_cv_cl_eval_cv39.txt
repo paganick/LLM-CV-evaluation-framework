@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a decades‑long graphic and product designer with only rudimentary HTML and Dreamweaver experience and no demonstrable JavaScript/TypeScript, React, modern frontend framework, testing, Git, Node/npm, or CI/CD skills required for this role. Claims of Agile and clean code are unsupported by concrete technical examples or recent development work. This profile does not meet the technical requirements for the frontend engineering position.

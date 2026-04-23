@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience and mentions key required technologies like React, testing, and Git. However, the cover letter fails to address several specific requirements from the job description, including web security basics (OWASP, CORS), modern CSS tools, specific testing/linting frameworks, Node.js, functional programming, and CI/CD. The experience described leans heavily on full-stack and project management, not demonstrating focused depth in the modern front-end toolchain explicitly requested.

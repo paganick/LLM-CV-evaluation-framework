@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a recent Bachelor of Science graduate in IT - Web Multimedia and Animation (GPA 3.43) and a motivated professional transitioning from a 15-year construction career into web development. I bring solid foundations in HTML, CSS and JavaScript, practical experience building interactive websites and database-driven applications, and the work ethic and collaboration skills honed in construction and maintenance roles. I am seeking an entry-level front-end role where I can contribute immediately while rapidly expanding my skills with modern frameworks and tooling.
+
+During my degree I developed a fully functional PHP/MySQL e-commerce site and multiple interactive websites that used JavaScript, Flash, ASP.NET and Java applets. I have created business applications with VB.NET, C# and Java, and built multimedia projects using ActionScript. My projects required planning, debugging, and iterative improvement to deliver robust user experiences. I am comfortable using development tools such as Visual Studio, Eclipse, Dreamweaver and Photoshop, and I have coursework in data structures, systems analysis, project management and interactive scripting.
+
+While studying I participated in the National Society of Collegiate Scholars and completed coursework including Enhancing Websites with PHP, Interactive Scripting for Web Pages (JavaScript), Website Development, Systems Analysis and Design, and Project Management. These experiences strengthened my discipline for meeting deadlines, documenting work clearly, and communicating technical concepts to non-technical stakeholders effectively.
+
+My background has given me strong problem-solving, attention to detail and teamwork abilities. On construction projects I translated plans into measurable goals, coordinated with trades and reduced errors by adopting systematic approaches—skills I apply to collaborative software delivery. I enjoy writing clean, maintainable code and am committed to testable designs; I will quickly adopt unit, integration and E2E testing tools and workflows to support quality.
+
+While my hands-on experience is rooted in core web technologies and several programming languages, I am eager to learn React, TypeScript, modern CSS-in-JS and SASS workflows, Node tooling, testing frameworks like Jest and Cypress, Git-based collaboration, CI/CD pipelines and cloud infrastructure concepts. My academic and professional track record demonstrates that I learn new languages and platforms efficiently, and I welcome the opportunity to work in an Agile team, interact with other teams and external partners, and deepen my domain knowledge.
+
+Thank you for considering my application. I look forward to the opportunity to contribute and grow with your team.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume reflects a legacy skill set primarily focused on PHP, Perl, and C++, with no professional evidence of the required expertise in React, TypeScript, or modern CI/CD tools. While the cover letter mentions contemporary technologies like Jest and AWS, these are entirely absent from the work history and technical skills sections, suggesting a lack of practical, high-level experience with the modern stack. As a result, the candidate does not meet the core technical requirements for a modern front-end engineering position.

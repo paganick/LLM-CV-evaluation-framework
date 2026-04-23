@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analytics and engineering, not front-end development. While they express interest and some tangential experience (HTML, C#), they lack the core required skills like React, Typescript, and modern FE frameworks. Their resume and cover letter highlight data-related skills more prominently than the Javascript skillset required.

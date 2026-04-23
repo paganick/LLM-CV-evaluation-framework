@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills in HTML, CSS, Java, and SQL, as well as experience with web technologies. However, they lack experience in specific modern front-end frameworks such as React, VueJS, or Angular, which are crucial for the role. Additionally, their experience is primarily in media planning and does not reflect a strong background in the required technical skills, particularly in testing frameworks and CI/CD tools.

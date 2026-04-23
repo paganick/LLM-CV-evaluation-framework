@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has experience as a Data Analyst and possesses strong skills in data analysis, statistical modeling, and related tools, they lack the specific front-end development experience and technical skills required for this position, such as proficiency in JavaScript, TypeScript, and modern frameworks like React. Additionally, there is no mention of hands-on experience with testing, Git, or web security, which are crucial for the role.

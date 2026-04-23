@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all required technical qualifications for this front-end role (no JavaScript/TypeScript, React, testing, Git, Node/npm, modern CSS tools, or cloud/infra experience are demonstrated). Their cover letter emphasizes customer service, management, and non-technical tools (MS Office, Adobe, CRM), which are not sufficient for the position. While they express enthusiasm and a willingness to learn, their current skill set makes them effectively unqualified for this technical role.

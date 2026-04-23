@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in sales leadership, not software engineering, and they lack the required technical skills. The cover letter demonstrates no experience with JavaScript, React, testing frameworks, or any other core technologies listed in the job description. While their soft skills and process orientation are relevant to the "Strong collaborator" requirements, the absence of direct, hands-on front-end development experience makes them unqualified for this specific engineering role.

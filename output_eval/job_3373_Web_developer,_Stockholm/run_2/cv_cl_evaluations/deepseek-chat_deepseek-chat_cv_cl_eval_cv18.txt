@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and IT consulting, but the resume and cover letter lack specific, hands-on evidence of the required modern front-end skills. There is no demonstrable experience with React, TypeScript, modern CSS tools, testing frameworks, or the other key technologies listed in the job description. While the candidate shows strong general IT and project management skills, the specific technical fit for this front-end developer role is weak.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid HTML/CSS, graphic design, Git, basic web security knowledge, and strong collaboration/Agile experience which are relevant to the role. However they explicitly report limited JavaScript/TypeScript experience and provide no evidence of React, testing/test automation, modern CSS tooling (Styled Components/SASS), NodeJS/npm ecosystem, or CI/CD experience required for the position. These are core technical gaps for this front-end role and would require significant upskilling before they can meet the job's expectations.

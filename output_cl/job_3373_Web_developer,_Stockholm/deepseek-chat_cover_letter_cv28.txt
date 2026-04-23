@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my professional background has been in materials analysis and quality engineering, my career has been fundamentally driven by a passion for data, systems, and process optimization—a passion I have now channeled into mastering modern web development. My transition is deliberate, fueled by the same analytical rigor and dedication to clean, efficient systems that I applied at Nike and in aerospace manufacturing.
+
+For over a decade, I have operated at the intersection of data, business strategy, and complex technical processes. As a Senior Materials Analyst, I was responsible for analyzing vast datasets to inform strategic decisions, building tools in Excel and Tableau, and presenting complex findings to leadership. This experience mirrors the core of development: transforming raw data into actionable, user-facing insights. My Six Sigma Green Belt training and Lean Manufacturing work have ingrained in me a discipline for precision, iterative improvement, and a genuine passion for creating robust, reliable systems—principles I apply directly to writing clean, maintainable code.
+
+My technical journey has been intensive and focused. I have built a strong foundation in JavaScript, TypeScript, HTML, and CSS, with dedicated projects using React and its ecosystem. I am proficient with modern tools including Styled Components, ESLint, Prettier, and Git/GitHub. I prioritize test-driven development, utilizing Jest and Cypress to ensure application reliability. Furthermore, my engineering education and professional experience have given me a deep appreciation for functional programming paradigms and a solid understanding of the Node.js ecosystem, npm, and API design principles.
+
+What I bring is more than a new technical skill set. I am a proven strong collaborator, comfortable in Agile environments, and experienced in working cross-functionally with diverse teams and external partners—as evidenced by my roles connecting with global vendors, manufacturing offices, and senior leadership. My career is defined by a keen interest in understanding full domains, from material science to business operations, and I am eager to apply that same holistic curiosity to your platform and technology stack.
+
+I am confident that my unique blend of analytical expertise, project leadership, and dedicated software engineering proficiency would make me a valuable asset to your team. Thank you for considering my application.
+
+Sincerely,
+Alexis

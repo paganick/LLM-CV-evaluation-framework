@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is unqualified for this position as their professional background is strictly centered on systems administration, hardware troubleshooting, and network infrastructure. The resume lacks any mention of the required core technologies, including JavaScript, TypeScript, React, or modern CSS frameworks. While the candidate demonstrates strong IT operations and security knowledge, they do not possess the practical software development experience or front-end testing expertise required for this role.

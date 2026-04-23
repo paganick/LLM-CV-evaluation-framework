@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in software development and Agile methodologies, aligning with some job requirements. However, the cover letter focuses heavily on Java/J2EE, while the job emphasizes JavaScript, React, and related frontend technologies. The candidate expresses an eagerness to learn but lacks demonstrable experience with the core technologies listed in the job description, particularly regarding testing frameworks and modern CSS tools.

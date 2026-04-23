@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Marketing Automation professional with no documented professional experience in front-end software engineering or modern development frameworks. They fail to meet nearly all technical requirements, including proficiency in React, TypeScript, unit testing, and CI/CD pipelines. Their background is in CRM configuration and marketing strategy rather than the technical application development required for this role.

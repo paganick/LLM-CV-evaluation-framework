@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT/cybersecurity leadership, governance, and systems-integration experience but provides no evidence of hands-on JavaScript/TypeScript or modern React front-end development, testing frameworks, or Node-based toolchains required by the role. Their statements about "quickly adopt" front-end technologies are future intent rather than demonstrated proficiency. While security and programmatic skills are valuable, they do not compensate for the hands-on front-end experience this position requires.

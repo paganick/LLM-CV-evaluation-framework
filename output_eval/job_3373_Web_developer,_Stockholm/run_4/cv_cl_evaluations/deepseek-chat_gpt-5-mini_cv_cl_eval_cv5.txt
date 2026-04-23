@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and a completely different industry domain. They lack any demonstrable professional experience with the required modern front-end technologies (React, TypeScript, CSS tools), testing frameworks, or the Node.js ecosystem mentioned in the job description. While they show strong analytical and leadership skills, their technical background is a fundamental mismatch for this specific front-end engineering role.

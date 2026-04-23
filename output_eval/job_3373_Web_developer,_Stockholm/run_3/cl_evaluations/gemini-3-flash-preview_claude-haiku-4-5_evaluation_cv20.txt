@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the core requirements of the role, specifically React and TypeScript, admitting they would need to "master" these technologies. Their technical background is heavily centered on a .NET/legacy stack (jQuery, Bootstrap, Entity Framework) rather than the modern frontend ecosystem requested. Additionally, they fail to mention specific experience with the required testing frameworks or the modern security protocols like OAuth and CORS defined in the job description.

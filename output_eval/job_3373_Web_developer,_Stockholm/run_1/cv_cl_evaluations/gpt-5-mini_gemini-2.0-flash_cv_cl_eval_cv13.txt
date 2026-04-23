@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience with JavaScript, HTML/CSS, Angular/jQuery and strong project management/Agile background, but lacks demonstrated proficiency in the specific front-end stack required (React, TypeScript), modern tooling (Node/npm, Styled Components/SASS), testing frameworks (Jest/Cypress/TestCafe), Git usage, and CI/CD/cloud experience. Given the role's hands-on front-end and testing expectations, the candidate is not sufficiently qualified for this position without significant upskilling.

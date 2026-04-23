@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some familiarity with HTML and CSS, but lacks concrete experience with JavaScript, TypeScript, React, and testing frameworks mentioned in the job description. The resume is heavily focused on design roles, not front-end development. While the cover letter expresses interest in learning, the overall profile doesn't align well with the required technical skills.

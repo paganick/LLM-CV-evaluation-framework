@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the mandatory hands-on experience with modern front-end frameworks, specifically React, which is a primary requirement for the role. Their knowledge of testing frameworks, CI/CD pipelines, and cloud technologies is described as foundational or "budding," falling short of the practical experience level requested. While the candidate has relevant academic qualifications and basic web skills, they fail to meet the specific technical benchmarks for this professional developer position.

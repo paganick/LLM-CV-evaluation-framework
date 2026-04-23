@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is firmly in graphic design with only incidental experience in Dreamweaver and Flash and explicitly lacks production-level experience in core frontend technologies required (JavaScript, TypeScript, React), testing, version control, and Node ecosystem tooling. While they demonstrate technical aptitude, attention to detail, and willingness to learn, they do not meet the technical skillset or hands-on experience needed to perform this Frontend Developer role immediately.

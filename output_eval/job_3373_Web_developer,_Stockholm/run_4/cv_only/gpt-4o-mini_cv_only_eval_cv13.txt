@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in project management and front-end development; however, they lack hands-on proficiency with JavaScript frameworks like React and specific testing frameworks like Jest and Cypress. Their experience with Agile methodologies is relevant, but they do not demonstrate a strong technical skill set in the required technologies listed in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required tech stack, specifically JavaScript, TypeScript, and React, citing only intermediate knowledge of R. While they demonstrate relevant experience in the technology sector and cross-functional collaboration, they do not meet the mandatory technical requirements for front-end development, testing, or security. The application represents a career pivot that lacks the foundational engineering skills specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a relevant interest and foundational knowledge but lacks the required hands-on experience with the core technologies, particularly React, TypeScript, and testing frameworks. Their professional background is in sales, not software development, which represents a significant skills gap for a frontend developer role. While they show initiative in self-study and highlight transferable soft skills, they do not meet the technical experience threshold specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates general testing and electronics experience and some JavaScript knowledge, but lacks hands-on experience with core requirements such as React/TypeScript/HTML/CSS, modern CSS tools, and web testing frameworks (Jest/Cypress) and automation. Their background appears focused on hardware/manual testing and desktop tooling rather than front-end development, Node/npm/Express, Git/GitHub, CI/CD, or web security. Given the number of essential missing skills, they are not a strong fit.

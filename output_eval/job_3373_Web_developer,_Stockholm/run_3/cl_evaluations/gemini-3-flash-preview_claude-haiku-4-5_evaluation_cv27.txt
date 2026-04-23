@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core technical requirements and is currently in the process of learning the primary tech stack, including JavaScript, TypeScript, and React. While they possess transferable creative and administrative skills, they do not meet the specific demand for hands-on experience with testing frameworks, security protocols, or CI/CD tools. This profile represents an entry-level career transitioner rather than the experienced developer required for this role.

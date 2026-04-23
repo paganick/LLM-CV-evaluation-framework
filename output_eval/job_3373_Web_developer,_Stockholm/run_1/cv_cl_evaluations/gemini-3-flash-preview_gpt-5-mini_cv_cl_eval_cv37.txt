@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level Project Manager and IT Director whose experience is entirely focused on infrastructure, budgeting, and operations rather than software engineering. They possess none of the required technical skills, such as JavaScript, TypeScript, React, or modern testing frameworks, and their resume shows no professional history of writing code. While they have a technical background in IT, they are completely unqualified for a hands-on front-end development role.

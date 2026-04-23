@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and demonstrates strong backend and testing fundamentals, but lacks specific, proven frontend development experience with React and modern tooling. While they express a passion for learning, the cover letter does not provide concrete examples of frontend projects or proficiency with key technologies from the job description like TypeScript, modern CSS tools, or React-specific testing frameworks. The transition from a backend-focused role creates a significant skills gap for a senior frontend position.

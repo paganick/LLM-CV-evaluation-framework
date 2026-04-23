@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory technical stack, specifically JavaScript, TypeScript, and React, which are fundamental to the role. While they demonstrate a strong background in data analytics and general software testing, their front-end skills are limited to basic HTML and an expressed willingness to learn. Consequently, they fail to meet the core competency requirements for a specialized Front-End Engineer position.

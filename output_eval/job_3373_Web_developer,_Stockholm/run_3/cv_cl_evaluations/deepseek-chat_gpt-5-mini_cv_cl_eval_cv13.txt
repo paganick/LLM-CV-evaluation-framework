@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not a hands-on developer, which is the core of the role. While they mention JavaScript, HTML, CSS, and Angular, they lack specific, recent experience with the required React stack, modern testing frameworks, and the listed toolchain (e.g., Jest, Cypress, Node.js, CI/CD). Their project management and agile collaboration skills are relevant to the job's secondary requirements, but they do not meet the primary technical qualifications.

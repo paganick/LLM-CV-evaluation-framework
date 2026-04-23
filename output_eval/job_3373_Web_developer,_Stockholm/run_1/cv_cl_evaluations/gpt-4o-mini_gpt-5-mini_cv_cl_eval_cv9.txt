@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong experience in Java and backend development, but lacks demonstrated expertise in required front-end technologies such as React, TypeScript, and modern CSS tools. While the candidate shows a willingness to learn and has some relevant skills, the absence of specific hands-on experience with the primary technologies listed in the job description limits their suitability for this role.

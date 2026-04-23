@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and strong foundational skills in HTML, CSS, and design principles, which are transferable. However, they lack hands-on, professional experience with the core technologies listed in the job description, specifically JavaScript, TypeScript, React, and testing frameworks, admitting they are only "actively upskilling." The letter does not address several key requirements like security knowledge, specific tools (e.g., Jest, AWS), or functional programming.

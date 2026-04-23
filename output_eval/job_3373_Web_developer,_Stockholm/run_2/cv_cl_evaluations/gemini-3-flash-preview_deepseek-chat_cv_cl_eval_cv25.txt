@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer and Art Director who lacks the fundamental technical experience required for a modern Front-End Developer role. There is no evidence of professional experience with JavaScript, TypeScript, React, or automated testing, which are core requirements for this position. While the candidate mentions basic HTML/CSS knowledge, their career has focused almost exclusively on visual design and print media rather than software engineering.

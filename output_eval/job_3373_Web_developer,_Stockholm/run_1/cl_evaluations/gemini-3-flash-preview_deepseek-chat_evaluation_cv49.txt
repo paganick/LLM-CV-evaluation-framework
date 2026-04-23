@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer from Data Analysis who lacks professional "hands-on" experience in Frontend engineering and React development as specifically required by the job description. While they possess foundational knowledge of JavaScript and TypeScript, they fail to demonstrate practical application of automated testing frameworks (Jest, Cypress) or web security protocols (OWASP, CSP). The application relies heavily on transferable skills from data modeling rather than proven expertise in building and maintaining modern web architectures.

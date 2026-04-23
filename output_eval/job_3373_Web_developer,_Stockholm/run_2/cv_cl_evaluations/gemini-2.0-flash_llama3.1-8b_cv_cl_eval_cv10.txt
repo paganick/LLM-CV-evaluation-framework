@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills, like Javascript, HTML, and CSS and mentions AngularJS. However, the resume and cover letter primarily highlight Java and back-end experience, and there is no mention of React, TypeScript, or other modern FE frameworks specifically requested in the job description. While the candidate mentions familiarity with testing frameworks and CI/CD tools, the overall experience leans more towards back-end development, making them a moderate fit but lacking key skills.

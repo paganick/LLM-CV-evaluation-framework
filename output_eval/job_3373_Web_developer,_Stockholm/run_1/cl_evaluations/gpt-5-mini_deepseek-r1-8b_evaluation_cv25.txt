@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strengths in HTML/CSS, SASS, testing/linters, Git and collaborative Agile experience, but the cover letter emphasizes a graphic design background rather than software engineering. They do not mention essential requirements such as JavaScript/TypeScript, React (the team's primary framework), modern testing tools (Jest/Cypress/TestCafe), NodeJS/npm, functional programming (Ramda), CI/CD, API design or cloud/Infra knowledge. Given the gap on core technical skills listed in the job description, they are not a strong fit for this role.

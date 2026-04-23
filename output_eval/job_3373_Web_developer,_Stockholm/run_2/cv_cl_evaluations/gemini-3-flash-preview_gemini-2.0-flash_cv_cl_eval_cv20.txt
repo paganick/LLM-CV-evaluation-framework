@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with modern frontend frameworks such as React, Vue, or Angular, and has no mentioned proficiency in TypeScript. Their background is heavily focused on the .NET ecosystem and legacy libraries like jQuery, which does not align with the modern stack required. Furthermore, there is no evidence of experience with automated testing frameworks, modern CSS tools, or the Node.js ecosystem.

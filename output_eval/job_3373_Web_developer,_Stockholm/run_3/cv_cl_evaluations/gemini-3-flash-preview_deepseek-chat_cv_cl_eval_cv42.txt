@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's 20-year professional history is exclusively in finance and operations, lacking any professional background in software engineering or front-end development. While the cover letter mentions the required technologies, the resume demonstrates no real-world application or professional experience with React, TypeScript, or automated testing. Consequently, the candidate does not meet the fundamental requirements for a professional developer role and is considered unqualified.

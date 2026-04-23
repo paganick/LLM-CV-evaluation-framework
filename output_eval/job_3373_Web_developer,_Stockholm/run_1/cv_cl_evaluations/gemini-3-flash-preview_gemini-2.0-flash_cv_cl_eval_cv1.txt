@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Backend developer whose professional experience with React and modern front-end tools is secondary and lacks the required depth. Notably, the resume and cover letter fail to mention TypeScript, which is a specific requirement for the role. Furthermore, their testing expertise is centered on QA automation (Selenium/Cucumber) rather than the modern front-end unit and integration testing frameworks like Jest or Cypress specified in the job description.

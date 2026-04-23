@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level Project Manager and IT Director whose professional experience entirely lacks the hands-on Front End development skills required for this role. There is no evidence of professional experience with JavaScript, TypeScript, React, or modern testing suites like Jest or Cypress. While the candidate has an IT background, their skill set is focused on infrastructure and management rather than the specific technical stack defined in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development using AngularJS and possesses skills in HTML, CSS, and JavaScript. However, they lack experience with React, which is a required technology for the position, and do not demonstrate knowledge of testing automation tools or modern CSS tools mentioned in the job description. Their enthusiasm for learning and participating in Agile environments is a positive aspect, but specific experience with the required technologies and frameworks is insufficient.

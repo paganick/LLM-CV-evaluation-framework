@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid foundation in core web technologies (JavaScript, HTML, and CSS) and has some exposure to testing methodologies, but lacks specific experience with modern frameworks like React and tools mentioned in the job description (e.g., Jest, SASS, CI/CD). While their background in IT is relevant, the absence of direct experience with the required technologies limits their qualification for the position.

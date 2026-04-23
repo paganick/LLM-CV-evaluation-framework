@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am a software developer with over seven years of hands-on experience building and supporting mission-critical enterprise applications, and I am excited to bring my analytical rigor, strong engineering discipline, and collaborative leadership to your front-end engineering team. 
+
+Throughout my career I have worked extensively in complex, service-oriented banking and data warehouse domains where I designed, developed and maintained both online and batch systems. My technical foundation includes JavaScript, HTML and Java, deep experience with debugging and testing practices, creation of unit test plans and UTPs, SIT/AIT support, STUB creation for E2E flows, and performance tuning. I have also authored high-level and low-level design documents, conducted code reviews, and maintained strict release coordination and change control using configuration management tools such as ENDEVOR and SCLM.
+
+As a team lead I managed and mentored multi-disciplinary teams, owned release delivery, handled resource onboarding and scheduling, and coordinated with cross-functional stakeholders to resolve functional and technical blockers. These responsibilities honed my communication skills and ability to work comfortably in Agile teams, interact with other teams and external partners, and understand full-domain impacts beyond my immediate area of expertise.
+
+I am committed to writing clean, maintainable code and to improving quality through disciplined testing and documentation. My background in production support and debugging gives me a pragmatic focus on reliability and security controls, and I am eager to expand that discipline to modern web security practices and front-end testing automation.
+
+While much of my experience has been on mainframe platforms and enterprise back-end services, I am enthusiastic about moving fully into modern front-end development. I am a quick learner, accustomed to adopting new tools and patterns to meet project needs, and I look forward to applying that adaptability to learn React, TypeScript, modern CSS tools and the Node ecosystem as required.
+
+I hold a BE in Computer Engineering and an MBA in Finance, I am IBM-certified in z/OS Database Administration and DB2 Application Development. My notable contributions include leading development efforts on HSBC's OHCB core banking project and working on IBM's Marketplace Information Warehouse, where I handled DB2 administration, designed interfaces, and produced BRIO reports. These engagements reinforced my discipline for large-scale, regulated systems.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my engineering experience, leadership and commitment to quality can contribute to your team.
+
+Sincerely, Alexis

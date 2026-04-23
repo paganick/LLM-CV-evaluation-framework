@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX/UI and front-end fundamentals (HTML/CSS, jQuery, prototyping, UAT) and demonstrates strong collaboration and product-focused experience, which partially aligns with the role. However, they lack demonstrated hands-on experience with React, TypeScript, modern testing frameworks/automation, Node/npm tooling, CI/CD, AWS/Terraform, and web security practices that are core to this position. Given the partial fit but missing core technical competencies, they are not yet qualified for this role without significant upskilling.

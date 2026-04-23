@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a relevant background in Engineering and has transitioned towards software development, specifically highlighting skills in JavaScript, React, and testing frameworks. While they display a solid understanding of key requirements, there is no mention of experience with TypeScript or specific testing frameworks like Jest, which are critical for this role. Additionally, the candidate could enhance their application by showcasing familiarity with security aspects mentioned in the job description.

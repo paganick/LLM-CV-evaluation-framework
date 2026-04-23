@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some exposure to relevant technologies like Javascript and Linux, but lacks depth in modern FE frameworks (React, VueJS, Angular, Svelte), testing frameworks, and web security concepts. The resume highlights hardware and testing experience more than software development. The candidate's skills do not align well with the Javascript focus of the job description.

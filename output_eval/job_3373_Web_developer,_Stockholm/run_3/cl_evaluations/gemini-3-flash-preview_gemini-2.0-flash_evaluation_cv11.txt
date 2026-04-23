@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional transitioning to development but lacks professional experience in the required core technologies, specifically React and TypeScript. While they possess a software engineering background and fundamental web knowledge, they do not meet the criteria for hands-on experience with modern front-end frameworks or web security. Essential skills such as CI/CD, modern CSS tools, and specialized web testing frameworks like Jest or Cypress are also missing.

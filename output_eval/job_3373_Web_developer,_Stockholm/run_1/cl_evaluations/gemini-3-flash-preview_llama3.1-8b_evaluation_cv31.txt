@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate mentions the required tech stack, they lack professional software engineering experience, as their career history is centered entirely on sales and leadership. They fail to address critical requirements such as web security (OWASP, OAuth) and cloud infrastructure (AWS, Terraform). This candidate presents a significant experience gap that does not meet the "hands-on" technical standards required for the role.

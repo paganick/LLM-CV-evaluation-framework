@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in your Front-End Developer position. While my CV details a successful career in media production, it is my parallel, hands-on journey in modern web development that aligns directly with the technical and collaborative environment you’ve described.
+
+My experience as a Co-CEO and producer is fundamentally a role in agile product creation—translating vision into a high-quality, shipped product. This has honed my skills in meticulous project management, cross-functional collaboration, and delivering under tight deadlines, all within a dynamic, iterative process. The technical foundation for this work has been built through dedicated self-study and application. I am proficient in the core stack of JavaScript, TypeScript, HTML, and CSS, and I have developed practical projects using React, which I understand is your framework of choice.
+
+I am deeply committed to engineering excellence, which for me means writing truly clean, maintainable code. I actively use tools like ESLint and Prettier to enforce code quality and have hands-on experience with testing principles, utilizing Jest for unit testing. My background in editing and Adobe software has given me a strong eye for detail and visual aesthetics, which translates directly into creating precise, engaging user interfaces. Furthermore, my work managing all aspects of production, from budgeting to client liaison and team training, has made me a strong collaborator comfortable interacting with diverse teams and stakeholders—a key attribute you seek.
+
+I am keenly interested in understanding full domains and platforms beyond my immediate expertise, a mindset I applied daily when overseeing entire productions. I am passionate about technology and continuously keep my skills current, which is how I’ve built knowledge in areas like the Node.js ecosystem, Git, and modern CSS methodologies.
+
+I am confident that my unique blend of creative production leadership and dedicated front-end development skills would bring a valuable perspective to your team. I am willing to relocate to be closer to the company and am eager to discuss how I can contribute to your projects.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Alexis

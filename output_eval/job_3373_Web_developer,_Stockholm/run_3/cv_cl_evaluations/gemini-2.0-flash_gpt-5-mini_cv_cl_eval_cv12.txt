@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience but lacks explicit React experience as stated in the cover letter. While they possess JavaScript, HTML, and CSS skills, the resume highlights older technologies and the job description emphasizes modern FE frameworks, specifically React. The candidate expresses willingness to learn, but direct experience is missing.

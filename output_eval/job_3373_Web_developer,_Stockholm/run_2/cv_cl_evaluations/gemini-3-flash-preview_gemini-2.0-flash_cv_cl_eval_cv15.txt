@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in IT hardware, networking, and legacy system support rather than modern software engineering. They lack the required professional experience with React, TypeScript, automated testing, and version control systems like Git. Furthermore, the candidate's work history is significantly outdated, with no relevant web development experience listed since 2012.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development professional with a background in chemistry, which is entirely unrelated to the technical requirements of a modern frontend engineering role. They lack experience with essential technologies such as JavaScript, TypeScript, React, and automated testing frameworks required by the job description. Their profile reflects a career in sales and management within the chemical industry, making them completely unqualified for this position.

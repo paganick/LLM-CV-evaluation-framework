@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is heavily weighted towards testing, with limited evidence of front-end development skills in JavaScript, TypeScript, or modern frameworks like React. While they mention HTML and CSS, the resume highlights testing roles rather than development or a blend of both. The candidate demonstrates experience in test automation which is valuable, but is lacking the core requirements of the job description.

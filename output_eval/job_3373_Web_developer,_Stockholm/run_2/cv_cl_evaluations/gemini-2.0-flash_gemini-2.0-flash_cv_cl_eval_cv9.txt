@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not the JavaScript/React-focused environment described in the job posting. While they express willingness to learn and have some limited exposure to relevant technologies like JavaScript and HTML, the resume lacks substantial experience with modern front-end frameworks and tooling, which are core requirements. The cover letter attempts to bridge this gap, but the lack of concrete project experience in the resume is a significant weakness.

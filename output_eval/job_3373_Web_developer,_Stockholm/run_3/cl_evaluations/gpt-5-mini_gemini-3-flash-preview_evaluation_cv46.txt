@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates solid frontend fundamentals (JavaScript, HTML, CSS), React experience and familiarity with testing, Git, functional programming (Ramda), API integration, and web security. However, the cover letter omits TypeScript, modern CSS tools (Styled Components/SASS), linters/formatters, and specific NodeJS ecosystem tools or CI/CD mentions (e.g., npm/Yarn/Express, CircleCI/Terraform) that the job description explicitly requests. With those gaps considered, the applicant is a strong but not complete fit.

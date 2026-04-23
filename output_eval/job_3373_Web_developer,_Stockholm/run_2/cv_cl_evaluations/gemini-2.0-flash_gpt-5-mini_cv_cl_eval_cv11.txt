@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they express a willingness to learn React, TypeScript, and modern CSS tooling, the resume lacks direct experience with these core technologies listed in the job description. The cover letter acknowledges a lack of direct experience, which is a concern.

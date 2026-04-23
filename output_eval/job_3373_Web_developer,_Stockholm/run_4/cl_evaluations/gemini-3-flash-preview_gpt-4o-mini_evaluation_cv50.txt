@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a Computer Science degree and mentions the correct technology stack, their professional history is primarily focused on business development and program management rather than hands-on software engineering. The letter lacks evidence of professional experience with Git or repository hosting, and the candidate's career trajectory suggests they are a career-pivoter rather than an established front-end developer. Consequently, they fail to demonstrate the specific, hands-on development experience required by the job description.

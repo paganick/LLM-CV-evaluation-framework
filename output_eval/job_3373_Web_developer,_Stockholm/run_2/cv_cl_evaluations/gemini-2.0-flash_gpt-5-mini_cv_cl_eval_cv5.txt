@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a background in software development, but primarily within a Mainframe environment. While they mention Javascript and HTML, the resume and cover letter highlight back-end and database administration experience, not modern front-end frameworks like React, which is a core requirement. The candidate expresses willingness to learn, but lacks demonstrable experience in the key technologies specified.

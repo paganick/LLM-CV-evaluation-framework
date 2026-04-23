@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and IT infrastructure, lacking the specific front-end development skills detailed in the job description. While the cover letter mentions JavaScript, TypeScript, React, Jest, and Cypress, these skills aren't substantiated by the resume's listed skills or work experience. The resume focuses on management, budgeting, and IT infrastructure rather than front-end development.

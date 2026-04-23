@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and experience in IT, but lacks specific hands-on experience with relevant programming languages, frameworks, and testing tools mentioned in the job description. While there is some familiarity with modern technologies, the absence of direct experience with JavaScript, TypeScript, React, and CI/CD tools significantly limits their fit for this technical role.

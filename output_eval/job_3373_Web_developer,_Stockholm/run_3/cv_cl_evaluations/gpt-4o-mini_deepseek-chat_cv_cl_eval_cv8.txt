@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in test engineering, with some relevant skills in programming and automation. However, they do not have the required hands-on experience with modern front-end frameworks like React, VueJS, or Angular, which are critical for this position. While they possess some applicable skills and demonstrate enthusiasm, they lack direct experience in front-end development and modern web technologies as specified in the job description.

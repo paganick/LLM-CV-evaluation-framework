@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills (JavaScript, HTML, CSS, Git), but lacks specific framework experience mentioned in the job description (React, VueJS, Angular, Svelte). Their cover letter showcases experience in areas not directly related to the front-end role (data analysis, project management, SQL, JMP). While they express interest in learning NodeJS and functional programming, they don't show existing familiarity.

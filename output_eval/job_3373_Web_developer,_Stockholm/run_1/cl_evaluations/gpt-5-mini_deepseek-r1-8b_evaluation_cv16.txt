@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core frontend skills (JavaScript, TypeScript, HTML, CSS) and experience with React, responsive web apps, testing and Agile practices, which align with the role at a basic level. However, the letter omits many explicit requirements from the job posting—no mention of Git/GitHub, Node/npm/Yarn, modern CSS tooling (Styled Components/SASS), specific testing frameworks (Jest/Cypress/TestCafe), functional tooling (Ramda), CI/CD, or web security knowledge—so they are relevant but lack several key, stated competencies.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive test engineering and automation experience but lacks the core front-end skills required (no demonstrated JavaScript/TypeScript, React, or modern CSS experience) and shows no evidence of familiarity with essential tooling (Node/npm, Jest/Cypress, GitHub, CI/CD, web security, or AWS). Their strengths in hardware testing and Python scripting do not translate to the immediate needs of this front-end role. While motivated to learn, they are not qualified for the position as described.

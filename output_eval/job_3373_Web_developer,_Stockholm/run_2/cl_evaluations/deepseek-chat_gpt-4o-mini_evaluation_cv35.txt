@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant technical skills and industry knowledge but lacks direct, hands-on experience as a Front-End Developer. While they mention key technologies, their professional background is in marketing automation, not software development. The letter does not provide concrete examples of building applications with React, TypeScript, or modern testing frameworks, which are core requirements.

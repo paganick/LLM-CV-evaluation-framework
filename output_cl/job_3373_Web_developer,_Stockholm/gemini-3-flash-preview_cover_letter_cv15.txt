@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+As a detail-oriented professional with extensive experience across the full spectrum of Information Technology, I am excited to apply for the Frontend Developer position. My background in IT management, combined with a proven track record of building high-traffic web solutions and managing complex information systems, aligns with your need for a collaborative engineer who understands the full domain.
+
+My technical foundation is built on deep expertise in JavaScript, HTML5, and CSS3. I have successfully applied these skills to rebuild client platforms from the ground up, notably increasing monthly traffic from 3,422 to 40,884 hits through strategic performance tuning, comprehensive website enhancement, and search engine optimization. 
+
+Furthermore, I have hands-on experience developing secure web applications, including a custom cloud storage platform that featured secure authentication and cross-browser data management. This project specifically required a strong understanding of web security and sophisticated server-side interactions, mirroring the knowledge of CSP, CORS, and OAuth your team values.
+
+While my career involves diverse IT management, I have always maintained a genuine passion for writing clean, efficient code. My experience with PHP, Java, and database servers has provided me with a robust understanding of programming logic and functional principles. I am eager to apply this logic to your React-based stack and leverage modern tools like SASS, Styled Components, and functional programming with Ramda. I am also familiar with the NodeJS ecosystem and have utilized various Linux distributions for server management, which provides a solid foundation for mastering CI/CD pipelines and AWS infrastructure.
+
+Having managed IT projects from budgeting to execution, I am highly comfortable in Agile environments and thrive when collaborating with cross-functional teams and external partners. I am particularly interested in your move away from Ruby and toward modern frontend frameworks with an emphasis on rigorous testing and automation. My CompTIA A+ certification and Net+ training reflect a commitment to technical excellence and an ability to troubleshoot complex systems at both the hardware and software levels.
+
+I am enthusiastic about the opportunity to bring my analytical mindset and passion for scalable web development to your engineering team. I am keen to further develop my skills in TypeScript and automated testing frameworks like Jest, Cypress, or TestCafe to contribute to your high standards for reliable code. I look forward to the possibility of discussing how my comprehensive Information Technology and web management background can support your goals.
+
+Sincerely, Alexis

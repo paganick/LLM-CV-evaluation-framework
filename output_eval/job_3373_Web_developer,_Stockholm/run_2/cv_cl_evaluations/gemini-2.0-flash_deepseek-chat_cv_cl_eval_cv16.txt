@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience in web development using JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React as mentioned in the job description. The resume focuses heavily on .NET development, which isn't the primary focus of the role. While the candidate expresses interest in learning new technologies and has some relevant skills, the lack of direct experience with the core technologies is a drawback.

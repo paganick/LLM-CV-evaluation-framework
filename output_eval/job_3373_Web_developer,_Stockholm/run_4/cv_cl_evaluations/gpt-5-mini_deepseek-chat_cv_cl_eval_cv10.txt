@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has solid CS fundamentals, HTML/CSS/JavaScript, AngularJS SPA experience, and exposure to testing and Git, which are relevant to the role. However, they lack direct experience with React and TypeScript, modern front-end tooling (Node/npm, bundlers), common front-end testing frameworks (Jest/Cypress/TestCafe), modern CSS tooling, and CI/cloud practices specified in the job description. The profile is relevant to the industry but misses several core, practical front-end skills required for this position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates strong relevant experience (5+ years) with JavaScript, React-aligned front-end work, Node.js, API/database design, testing practices, and Agile collaboration—matching many core requirements. However they omit several specifics asked for (no explicit TypeScript, no mention of Git/GitHub, modern CSS tools like Styled Components/SASS, specific test frameworks like Jest/Cypress, Ramda, CircleCI, or AWS/Terraform), so while a solid fit, they do not fully meet all listed tooling and tech expectations.

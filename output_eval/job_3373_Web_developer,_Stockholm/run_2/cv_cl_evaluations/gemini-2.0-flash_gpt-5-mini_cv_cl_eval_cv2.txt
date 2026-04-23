@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which is not the focus of the job description. While they express interest in transitioning to front-end development and mention willingness to learn relevant technologies, their resume lacks direct experience with JavaScript, React, TypeScript, or modern CSS tools. Their experience in Agile and collaboration is a plus, but the skill gap is significant.

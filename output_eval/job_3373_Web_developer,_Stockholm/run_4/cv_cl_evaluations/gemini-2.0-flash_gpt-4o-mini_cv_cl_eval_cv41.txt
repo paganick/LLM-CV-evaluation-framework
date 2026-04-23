@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some understanding of front-end technologies like React, HTML, CSS, and Git in the cover letter, but the resume focuses heavily on systems administration and lacks concrete front-end development experience. While the candidate mentions familiarity with testing frameworks, the resume doesn't showcase practical application. The stated skills in the resume are too general and don't align strongly with the specific FE skills required.

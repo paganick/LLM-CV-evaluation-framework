@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in graphic design and visual merchandising with no demonstrated experience in JavaScript, TypeScript, React (or other modern front-end frameworks), testing/automation, Git, NodeJS, or cloud/CI tools required by the role. While strong in visual and print design, their skills do not align with core front-end engineering requirements and the position's technical expectations. This is a clear mismatch in industry and technical qualifications.

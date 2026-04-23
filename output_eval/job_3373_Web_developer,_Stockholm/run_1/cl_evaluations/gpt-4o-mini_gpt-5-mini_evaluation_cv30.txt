@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid educational background and relevant experience in software and data engineering, particularly with HTML, C#, and SQL, which aligns with the role's requirements. However, there is limited mention of specific front-end technologies such as React, modern CSS tools, and testing frameworks requested in the job description, which is crucial for a strong match.

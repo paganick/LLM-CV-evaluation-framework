@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in testing and some familiarity with software development tools, but lacks specific skills in modern front-end frameworks mentioned in the job description, particularly React. While they have a background in JavaScript, their experience does not align closely with the required technologies and practices, such as functional programming and CI/CD tools. Overall, they show potential but lack the precise qualifications to be considered a strong candidate.

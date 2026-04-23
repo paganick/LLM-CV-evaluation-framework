@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match who possesses the required PMP certification and demonstrates direct experience with the majority of the technical stack, including niche tools like Ramda and CircleCI. However, the application fails to explicitly mention proficiency in TypeScript or cloud infrastructure (AWS/Terraform), which are clearly listed requirements. While the candidate’s background in both management and hands-on development is impressive, these specific technical omissions prevent a perfect score.

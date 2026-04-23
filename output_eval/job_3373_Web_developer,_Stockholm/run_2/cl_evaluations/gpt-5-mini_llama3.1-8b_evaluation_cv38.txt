@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks virtually all core technical requirements listed (JavaScript/TypeScript, React, modern CSS tools, NodeJS, testing frameworks, Git, and web security knowledge). Their film/production background provides transferable strengths in project management and communication but does not demonstrate hands-on front-end development experience or relevant tooling. Without concrete examples of front-end projects, tests, or repository contributions, this application is not a strong match for the role.

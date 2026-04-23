@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their entire twenty-year career has been spent in finance operations and executive leadership rather than software development. The resume lacks any mention of the required technical stack, including JavaScript, React, or TypeScript, and provides no evidence of professional coding experience. While the candidate possesses strong leadership skills, they do not meet any of the core competencies or industry-specific requirements for a Front-End Developer.

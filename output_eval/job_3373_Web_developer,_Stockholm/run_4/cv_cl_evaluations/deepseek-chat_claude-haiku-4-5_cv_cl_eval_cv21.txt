@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive web development experience but lacks the specific modern frontend skills required. They have no demonstrated experience with React, TypeScript, modern CSS tools, or the testing frameworks mentioned. While they show a willingness to learn, their background is heavily in legacy .NET and AngularJS, making them a poor technical fit for a React-focused role.

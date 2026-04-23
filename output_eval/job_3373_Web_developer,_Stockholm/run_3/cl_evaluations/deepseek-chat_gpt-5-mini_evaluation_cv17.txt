@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's industry experience is relevant in terms of project leadership and engineering discipline, but they lack the specific, hands-on technical skills required for the front-end engineering role. The cover letter demonstrates ambition and transferable soft skills but provides no evidence of practical experience with React, TypeScript, testing frameworks, or the other listed tools. This is a significant career transition where foundational technical competence, not just theoretical interest, is a core requirement.

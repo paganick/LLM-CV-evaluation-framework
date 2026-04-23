@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks essential experience with the specific modern frontend stack required, notably React and TypeScript, which are central to the role. While they possess five years of general software development experience, their background is heavily focused on C#, .NET, and Python-based data science rather than modern frontend architecture, testing automation (Jest/Cypress), or functional programming. Additionally, the profile shows no evidence of familiarity with Styled Components, SASS, or the specific web security protocols requested.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in test engineering but lacks direct experience with core frontend development technologies such as JavaScript, TypeScript, and modern frameworks like React. Although they express eagerness to learn and possess some related skills in scripting and automation, they do not meet the specific technical requirements outlined in the job description. Overall, the candidate shows potential but does not have the necessary experience for this role.

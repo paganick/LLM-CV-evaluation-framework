@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions relevant technologies like HTML, CSS, and JavaScript, and expresses willingness to learn React and other modern tools. However, the cover letter lacks concrete examples of experience with testing, CI/CD, or modern CSS tools, which are important requirements. The stated experience seems to be more full-stack or general IT rather than specialized in modern front-end development.

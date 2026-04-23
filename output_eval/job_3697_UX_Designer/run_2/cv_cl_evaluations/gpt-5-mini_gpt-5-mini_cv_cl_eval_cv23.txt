@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant design background (BA in Visual Arts, 8+ years of graphic/web design experience, Adobe Creative Suite, basic HTML/CSS) but lacks explicit UI/UX evidence such as stated experience with wireframing/prototyping tools (Wireframe.cc, InVision), documented UX deliverables (storyboards, sitemaps, user flows) or an attached portfolio. There is no clear proof of working closely with UX researchers or producing developer-ready prototypes, so they do not meet the specific UI/UX requirements despite being in the general industry.

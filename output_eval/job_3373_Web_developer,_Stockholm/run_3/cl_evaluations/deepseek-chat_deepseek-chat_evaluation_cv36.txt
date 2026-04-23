@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, self-taught grasp of the core technical stack (React, TypeScript, testing, Git) and explicitly addresses key job requirements like clean code, collaboration, and security. However, the lack of verifiable professional front-end development experience and hands-on project history with the full modern toolchain (e.g., CI/CD, AWS, specific functional libraries) is a significant gap. Their unique analytical background and clear transferable skills make them a promising but not perfect match.

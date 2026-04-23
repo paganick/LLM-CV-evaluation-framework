@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily an electronics technician with a background in hardware testing and manual QA, rather than a frontend developer. They lack professional experience with the core requirements, including modern CSS tools, TypeScript, React, and automated web testing frameworks. Their technical profile is centered on electrical engineering and hardware maintenance, which does not align with the specialized software engineering needs of this position.

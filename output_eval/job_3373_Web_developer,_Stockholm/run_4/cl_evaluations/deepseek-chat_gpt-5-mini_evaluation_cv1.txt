@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match with extensive, relevant experience in React, JavaScript, testing automation, Agile, and Git, directly addressing core requirements. They lack explicit mention of TypeScript, specific modern testing tools (Jest, Cypress), and some listed technologies (e.g., CircleCI, Ramda), but demonstrate a clear ability to learn quickly. Their automation and full-stack background adds valuable depth beyond the basic frontend role.

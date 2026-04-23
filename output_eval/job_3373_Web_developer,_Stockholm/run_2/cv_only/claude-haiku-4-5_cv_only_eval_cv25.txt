@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a graphic designer with no experience in software development, frontend engineering, or any programming languages required for the role. The resume demonstrates expertise in print design, Adobe Creative Suite, and visual communications—an entirely different industry from full-stack JavaScript/TypeScript development. There is no evidence of JavaScript, React, testing frameworks, Git, web security knowledge, or any of the technical competencies essential for this frontend engineering position.

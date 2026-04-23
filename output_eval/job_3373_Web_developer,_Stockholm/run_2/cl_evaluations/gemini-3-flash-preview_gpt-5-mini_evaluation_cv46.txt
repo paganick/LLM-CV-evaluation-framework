@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary requirements of the role, specifically React, TypeScript, and modern CSS tools. While they possess a strong background in backend engineering and databases, they admit to being a learner in the front-end domain rather than a practitioner. A strict evaluation identifies a significant skills gap in testing automation, modern toolchains, and the specific JavaScript ecosystem required for this position.

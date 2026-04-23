@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general IT experience, they fail to explicitly mention essential requirements such as TypeScript, React, or any specific testing frameworks. The profile leans heavily toward systems administration and general IT consulting rather than the specialized modern frontend development requested. Consequently, the application lacks evidence of the specific technical proficiency required for this developer-centric role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate acknowledges a lack of technical skills (JavaScript, TypeScript, React, testing frameworks) which are core requirements for the role. While transferable skills are highlighted, the gap in essential technical experience is too significant. The cover letter demonstrates enthusiasm, but does not compensate for the absence of practical frontend development expertise.

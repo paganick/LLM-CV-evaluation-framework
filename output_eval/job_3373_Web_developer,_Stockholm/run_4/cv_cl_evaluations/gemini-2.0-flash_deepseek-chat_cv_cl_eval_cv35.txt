@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in marketing automation, not front-end development. While the cover letter mentions some relevant skills like HTML, CSS, and JavaScript, the resume lacks concrete evidence of significant front-end experience with modern frameworks or testing methodologies. The candidate's skills lean towards marketing technologies like Eloqua and Salesforce, rather than the JavaScript/React stack the job description requires.

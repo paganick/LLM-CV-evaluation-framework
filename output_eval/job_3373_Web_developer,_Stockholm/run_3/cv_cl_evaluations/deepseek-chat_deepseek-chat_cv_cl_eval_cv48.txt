@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT support and hardware, not software development. The resume shows no professional experience with the required technologies (React, TypeScript, modern testing frameworks). While the cover letter claims self-study, it lacks concrete projects or evidence to substantiate proficiency in the core front-end development skills and practices demanded by the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in sales leadership, not frontend development. While they express interest and highlight transferable skills, they lack the required hands-on experience with Javascript, Typescript, modern FE frameworks, testing, and other essential technologies outlined in the job description. Their technical experience appears minimal, relying on a stated "keenness" to learn rather than demonstrating existing proficiency.

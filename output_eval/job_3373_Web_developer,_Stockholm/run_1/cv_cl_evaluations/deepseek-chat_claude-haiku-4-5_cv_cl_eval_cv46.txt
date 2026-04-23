@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in older, full-stack/backend technologies (Java, EJB, SQL) and IT support, with only foundational, non-professional exposure to the required modern frontend stack (React, TypeScript, modern CSS). Key requirements like hands-on testing automation, modern frameworks, and specific tools (e.g., Jest, Cypress, Styled Components) are not demonstrated in their experience. While they express interest in learning, their resume lacks the specific, recent, and practical frontend development experience required for the role.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Information Technology Consultant position at your organization, where I can leverage my extensive experience in designing, administering, and developing business-critical information systems. With over 18 years of diverse technology experience, I am confident that I possess the skills and expertise required to drive innovation and improvement in your team.
+
+As a seasoned IT professional, I have a proven track record of successfully implementing technology solutions, staying within time and budget constraints, and improving efficiency through proper risk management, task coordination, and resource utilization. My technical expertise spans multiple platforms, including Microsoft Windows, Apple Mac, Unix/Linux, and server/web software such as MS Exchange, MS SharePoint, Apache, WordPress, and CloudFlare.
+
+In my current role as an Information Technology Consultant, I have designed, documented, and executed maintenance procedures for various systems, including system upgrades, patch management, and system backups. Additionally, I have developed and implemented electronic document management and publishing systems, resulting in significant cost savings and improved regulatory compliance.
+
+I am impressed by your organization's commitment to staying at the forefront of technology trends, and I am excited about the prospect of working with a team that values innovation and collaboration. My experience with modern front-end frameworks like React, VueJS, and Angular, as well as my familiarity with testing frameworks like Jest, TestCafe, and Cypress, make me an ideal fit for this role.
+
+In addition to my technical expertise, I possess excellent communication and project management skills, which have enabled me to successfully train employees, develop IT system specifications, and present technical proposals to clients. My ability to work effectively in an Agile environment, combined with my strong interest in staying up-to-date with the latest technologies, makes me a valuable asset to your team.
+
+Thank you for considering my application. I am confident that my skills, experience, and passion for writing clean code make me an ideal candidate for this position. I look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

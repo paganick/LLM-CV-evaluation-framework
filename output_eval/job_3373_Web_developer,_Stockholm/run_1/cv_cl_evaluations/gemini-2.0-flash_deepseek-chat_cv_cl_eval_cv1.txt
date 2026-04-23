@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a mixed background, with Java and testing experience being more prominent than the requested frontend skills. While they mention ReactJS, HTML, and CSS, the depth of expertise in these areas compared to the job description's expectations is questionable. The cover letter attempts to bridge this gap, but the resume leans heavily towards backend and automation, making them a moderate fit.

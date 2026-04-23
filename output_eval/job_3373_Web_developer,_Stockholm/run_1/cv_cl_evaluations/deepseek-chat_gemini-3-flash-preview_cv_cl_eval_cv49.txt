@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in data analysis and industrial engineering, not frontend development. The resume and cover letter lack any direct experience with the core technologies required: JavaScript, TypeScript, React, or modern frontend frameworks. While the candidate expresses interest and mentions transferable skills, they do not demonstrate the specific, hands-on technical qualifications listed in the job description.

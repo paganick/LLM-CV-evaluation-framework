@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume shows no experience with the required technical skills such as JavaScript, React, testing frameworks, or any other listed technologies. Their background is entirely in sales, banking, and business management, which is the wrong industry for this software engineering role. There is no overlap with the job description's technical or collaborative requirements.

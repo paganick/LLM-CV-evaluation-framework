@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer who lacks the required professional experience in JavaScript, TypeScript, and React. While they have a background in visual design, their resume shows no evidence of software engineering skills, test automation, or experience with modern front-end build tools and CI/CD pipelines. This application represents a complete mismatch in technical qualifications for a developer position.

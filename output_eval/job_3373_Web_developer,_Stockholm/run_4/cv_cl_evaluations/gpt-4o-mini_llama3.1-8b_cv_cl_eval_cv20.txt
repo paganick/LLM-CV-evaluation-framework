@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and Agile methodologies but lacks strong proficiency in the specific front-end frameworks required, particularly React, which is essential for this role. While they demonstrate some familiarity with modern tools and practices, their overall experience does not fully match the job description's requirements for hands-on experience with testing tools and modern CSS methodologies.

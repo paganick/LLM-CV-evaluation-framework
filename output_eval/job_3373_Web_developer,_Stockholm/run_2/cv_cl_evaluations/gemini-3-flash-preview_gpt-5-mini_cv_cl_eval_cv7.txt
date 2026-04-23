@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer with no demonstrated experience or technical proficiency in JavaScript, TypeScript, or modern React development as required by the job description. They lack the necessary background in software engineering practices, such as automated testing, CI/CD, and API design, making them completely unqualified for this technical role. The application represents a career transition attempt without the foundational engineering skills or professional history needed to meet the position's demands.

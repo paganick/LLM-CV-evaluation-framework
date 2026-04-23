@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a strong academic background and core knowledge of React, they failed to address the primary requirement for TypeScript. Their reliance on legacy tools like jQuery and Bootstrap conflicts with the job's focus on modern CSS and functional programming, and the letter lacks specific evidence of experience with the requested testing frameworks or CI/CD pipelines.

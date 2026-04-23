@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and systems engineering, but lacks demonstrable experience with the specific frontend technologies (React, TypeScript, etc.) mentioned in the job description. While they express interest and a willingness to learn, the resume doesn't reflect hands-on experience with modern FE frameworks, testing frameworks, or modern CSS tools. The cover letter acknowledges a transition into frontend development, highlighting a skills gap.

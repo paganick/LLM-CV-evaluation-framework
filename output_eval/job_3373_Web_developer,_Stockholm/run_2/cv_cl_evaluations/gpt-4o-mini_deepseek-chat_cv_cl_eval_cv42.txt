@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in finance and operations but lacks specific hands-on experience with front-end development technologies and frameworks, particularly with modern JavaScript frameworks like React, despite mentioning it. Additionally, the focus on finance-related tasks indicates a significant gap in experience with the required technical skills outlined in the job description, such as testing automation and CI/CD tools. This makes the candidate only somewhat relevant to the role.

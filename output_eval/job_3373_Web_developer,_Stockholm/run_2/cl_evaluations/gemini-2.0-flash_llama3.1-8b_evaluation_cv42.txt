@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant technologies like React, VueJS, Angular, and Svelte, and mentions Git/GitHub and basic web security concepts. However, the letter focuses heavily on project management and financial administration, which are not emphasized in the job description. While the candidate touches on required technical skills, their primary experience seems misaligned with the core focus of the role.

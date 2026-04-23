@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills, particularly in JavaScript, CSS, HTML, and Git. However, the resume lacks specific project experience with React, a key requirement. The candidate's experience leans more towards PHP and older technologies, and lacks depth in modern front-end practices and cloud technologies mentioned in the job description.

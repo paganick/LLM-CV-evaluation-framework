@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a .NET developer whose primary experience lies in a legacy stack (ASP.NET, jQuery, and C#) rather than the required modern JavaScript ecosystem. They lack professional experience with React, TypeScript, and modern testing frameworks like Jest or Cypress, which are core requirements for this role. Furthermore, the provided professional experience is nearly a decade old and does not demonstrate proficiency with the modern CSS, CI/CD, or cloud tools specified in the job description.

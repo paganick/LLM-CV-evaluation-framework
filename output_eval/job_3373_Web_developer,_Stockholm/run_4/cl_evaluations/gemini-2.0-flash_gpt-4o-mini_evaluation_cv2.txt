@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in Java/J2EE and back-end development, with limited front-end experience. While they express interest in React and possess some relevant skills like HTML, CSS, and JavaScript, they lack demonstrable expertise in modern front-end frameworks and testing tools emphasized in the job description. The letter highlights a desire to learn, but doesn't showcase sufficient hands-on experience in the key technologies.

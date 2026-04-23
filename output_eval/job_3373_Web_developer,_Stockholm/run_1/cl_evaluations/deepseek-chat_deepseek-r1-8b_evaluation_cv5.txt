@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in mainframe development (COBOL, CICS, DB2), which is not directly relevant to the modern web technology stack required. While they demonstrate strong transferable skills in leadership, process, and problem-solving, they lack any hands-on experience with the specific technologies listed (JavaScript, TypeScript, React, modern testing frameworks, etc.). Their application is based on a stated aptitude for learning, not proven proficiency.

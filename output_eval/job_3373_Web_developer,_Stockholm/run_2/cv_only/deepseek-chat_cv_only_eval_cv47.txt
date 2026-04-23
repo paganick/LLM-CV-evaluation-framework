@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development and chemical trading, which is completely unrelated to the software engineering role. The resume lists only basic, outdated programming skills (HTML, C, C++) and lacks any mention of the required technologies like React, TypeScript, modern testing frameworks, or Agile development. This is a clear case of being in the wrong industry for the position.

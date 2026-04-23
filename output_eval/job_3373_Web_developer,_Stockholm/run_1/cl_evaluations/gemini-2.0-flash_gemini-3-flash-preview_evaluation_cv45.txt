@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience, including security and some mentioned technologies like React and Typescript. However, the cover letter highlights high-level strategy and program management more than hands-on frontend development, and a stronger focus on the specifics of the job requirements would improve the application. While security expertise is a plus, the letter needs more emphasis on direct, recent experience in the specific frontend technologies listed.

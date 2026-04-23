@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and IT consulting, but the resume and cover letter lack specific, demonstrable experience with the core technologies required for the role, particularly React, TypeScript, modern testing frameworks, and the specific tools listed (e.g., Jest, Cypress, Styled Components). The experience described is broad and generalist, focused on IT systems and project management rather than modern front-end engineering practices, functional programming, or the specific technical stack mentioned.

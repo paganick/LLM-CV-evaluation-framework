@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in digital communications, not front-end engineering. While they express a willingness to learn the required technologies, they lack demonstrable experience with JavaScript, TypeScript, React, testing frameworks, and Git workflows, which are core requirements for the role. Their skills are tangentially related but insufficient for a direct transition without significant training.

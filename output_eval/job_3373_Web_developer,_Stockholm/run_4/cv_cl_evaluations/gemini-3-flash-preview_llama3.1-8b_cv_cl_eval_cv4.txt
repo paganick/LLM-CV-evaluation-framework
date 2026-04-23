@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over five years of experience in the software industry, their technical background is heavily centered on C#, .NET, and Machine Learning rather than the modern front-end stack required. The resume lacks any documented professional experience with React, TypeScript, or modern testing frameworks like Jest and Cypress, which are central to the role. There is a notable discrepancy between the technologies mentioned in the cover letter and the actual project history, making the candidate a poor fit for a senior front-end position.

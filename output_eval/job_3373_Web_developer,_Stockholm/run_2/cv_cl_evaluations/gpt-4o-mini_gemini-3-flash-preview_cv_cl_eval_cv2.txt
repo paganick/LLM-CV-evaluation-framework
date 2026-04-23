@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in Java/J2EE technologies and experience in Agile development, which is relevant to the industry. However, they lack direct experience with the key front-end technologies specified in the job description, such as JavaScript, TypeScript, and modern frameworks like React. Additionally, their familiarity with only jQuery and Bootstrap indicates a gap in the latest front-end development skills required for the role.

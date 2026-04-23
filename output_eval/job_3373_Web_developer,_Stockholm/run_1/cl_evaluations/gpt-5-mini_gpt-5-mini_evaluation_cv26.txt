@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate demonstrates strong communications, project management, and QA-adjacent skills but provides no concrete evidence of front-end technical experience (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git, or Node ecosystem tools required by the role. Transferable skills around privacy, documentation, and collaboration are relevant but insufficient for a hands-on Front-End Engineer position. Given the absence of demonstrable coding, testing, and tooling experience, the candidate is not qualified for this role as described.

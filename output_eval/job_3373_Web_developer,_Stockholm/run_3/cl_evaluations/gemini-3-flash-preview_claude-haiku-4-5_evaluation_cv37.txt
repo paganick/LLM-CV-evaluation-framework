@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in the relevant industry of information technology, the cover letter fails to demonstrate hands-on proficiency in the core technical requirements such as JavaScript, TypeScript, or CSS. The applicant focuses heavily on high-level IT management and infrastructure rather than providing evidence of actual frontend development experience or familiarity with the specific testing frameworks and security protocols required. Consequently, the candidate does not meet the minimum technical qualifications for a developer role.

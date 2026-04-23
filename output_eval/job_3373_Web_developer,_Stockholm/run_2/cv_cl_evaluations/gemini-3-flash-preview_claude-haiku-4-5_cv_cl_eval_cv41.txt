@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any documented professional experience with the required frontend technology stack, including JavaScript, TypeScript, React, and modern CSS tools. Their background is strictly limited to systems administration, hardware maintenance, and IT support, which does not fulfill the core requirements of a software development role. Despite a relevant degree, the candidate fails to demonstrate the necessary hands-on expertise in web development, automated testing, or frontend architecture.

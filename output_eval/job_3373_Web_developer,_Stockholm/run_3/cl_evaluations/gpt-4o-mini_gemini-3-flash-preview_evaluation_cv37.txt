@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in IT and relevant experience with the technologies listed in the job description, particularly in JavaScript, TypeScript, and React. They demonstrate an understanding of testing practices and web security, as well as familiarity with Agile environments. However, there is no mention of specific experience with some tools and frameworks like Jest, Cypress, or CI/CD tools, which slightly lowers their score.

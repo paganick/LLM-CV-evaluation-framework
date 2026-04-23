@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media production and possesses some relevant skills such as knowledge of JavaScript, HTML, CSS, and Git. However, they lack significant hands-on experience with modern front-end frameworks, specific testing frameworks, and a deeper engagement with web development concepts. Their experience does not translate well into the core requirements of the front-end developer role, making them a less suitable candidate.

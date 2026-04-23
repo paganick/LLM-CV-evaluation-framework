@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid foundation in core frontend technologies and demonstrates relevant experience in web development. However, they lack specific experience with modern frameworks like React, testing frameworks, and the various tools and technologies outlined in the job description, such as SASS, Jest, and the NodeJS ecosystem. Additionally, their mention of having "formal training" that predates modern tooling raises concerns about their current relevance in this rapidly-evolving field.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and user experience, which aligns with the frontend focus but lacks direct experience in JavaScript, TypeScript, and the required testing frameworks. While they have foundational skills in HTML and CSS, their technical skills do not fully match the requirements for a React-focused development role, particularly in modern frontend frameworks and testing.

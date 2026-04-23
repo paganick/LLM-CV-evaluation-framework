@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks the required professional experience in the specified technical stack, completely omitting mandatory skills such as testing (unit/E2E), version control (Git), and web security. While they possess a strong visual design background, they fail to demonstrate hands-on proficiency with React or TypeScript beyond self-directed upskilling. The application lacks evidence of the technical depth required for the complex architectural and automation needs mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in front-end development, particularly with Drupal, and lists JavaScript, HTML, and CSS skills. However, the resume emphasizes Drupal experience over modern FE frameworks like React (which the job specifically uses), and their cover letter only mentions exploring React concepts. While they express eagerness to learn the other technologies in the job description, their current skillset doesn't fully align with the requirements.

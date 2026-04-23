@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong general IT background and understands web security principles, they lack professional hands-on experience with the core requirements of TypeScript and React. Crucially, they admit a need to develop skills in automated testing (Jest, Cypress), which is a mandatory requirement for this role. The profile leans more toward a generalist/manager pivoting into frontend development rather than an established engineer with the specific framework expertise required.

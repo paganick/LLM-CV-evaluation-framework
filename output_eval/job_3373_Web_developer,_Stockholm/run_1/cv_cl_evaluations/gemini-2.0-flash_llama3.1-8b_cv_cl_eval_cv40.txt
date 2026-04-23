@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume showcases extensive product management experience, primarily focused on strategy and leadership. There is a mention of Javascript, Typescript, HTML, and CSS in the cover letter, but these are not explicitly detailed in the resume's skills or experience sections, raising concerns about hands-on proficiency. The resume lacks specific examples of working with modern FE frameworks or testing frameworks as mentioned in the job description.

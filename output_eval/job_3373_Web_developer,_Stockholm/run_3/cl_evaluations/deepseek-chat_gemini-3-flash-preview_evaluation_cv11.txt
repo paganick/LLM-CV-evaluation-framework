@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in testing, JavaScript, React, Agile, and security fundamentals, directly matching several key requirements. However, the cover letter lacks explicit mention of specific required technologies like TypeScript, modern CSS tools, Node.js, and CI/CD tools, and the background is primarily in QA rather than core development. This indicates a good foundational match with some gaps in the specified technical stack.

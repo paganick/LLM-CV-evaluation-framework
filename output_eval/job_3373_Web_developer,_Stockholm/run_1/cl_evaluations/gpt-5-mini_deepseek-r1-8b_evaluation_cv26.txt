@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate presents strong transferable skills (project management, communication, attention to detail, Agile experience) but provides no concrete, demonstrable experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Git workflows, NodeJS, modern CSS tools, CI/CD, AWS/Terraform). Claims of rapid learning and interest do not substitute for hands-on experience required for this role. As a result, they are relevant but currently lack the specific technical qualifications sought.

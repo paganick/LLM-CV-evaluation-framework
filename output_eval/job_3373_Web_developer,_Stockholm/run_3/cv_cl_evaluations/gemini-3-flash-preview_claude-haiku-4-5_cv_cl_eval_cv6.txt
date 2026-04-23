@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has five years of web development experience, their expertise is heavily centered on Drupal, PHP, and legacy systems rather than the modern React/TypeScript stack required. The resume fails to demonstrate professional experience with React, TypeScript, or modern testing frameworks like Jest and Cypress, which are core requirements for this role. Despite mentioning interest in the cover letter, the lack of hands-on application in these specific technologies makes them a poor fit for a senior-level frontend position.

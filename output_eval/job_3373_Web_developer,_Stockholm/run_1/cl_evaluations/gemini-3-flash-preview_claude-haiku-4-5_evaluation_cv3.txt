@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern tech stack, specifically failing to demonstrate proficiency in React, TypeScript, and automated testing frameworks. While they possess a relevant degree, they do not meet the "hands-on" requirements for web security, CI/CD, or API design. The cover letter emphasizes academic projects and transferable soft skills rather than the specific technical competencies and professional track record demanded by the position.

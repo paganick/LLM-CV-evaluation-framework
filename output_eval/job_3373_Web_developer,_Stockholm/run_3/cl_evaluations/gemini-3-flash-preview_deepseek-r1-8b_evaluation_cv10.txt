@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates core proficiency in React, TypeScript, and general testing, they completely failed to address the required knowledge of web security (OWASP, CORS, OAuth) and specific modern toolsets like functional programming or CI/CD. The application is overly generic and does not mention the specific CSS libraries or backend ecosystem tools requested in the job description. As a result, the candidate meets the basic industry standards but lacks the specific technical depth required for this specialized role.

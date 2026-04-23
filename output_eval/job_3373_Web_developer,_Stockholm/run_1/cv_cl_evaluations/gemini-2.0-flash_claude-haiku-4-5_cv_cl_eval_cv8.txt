@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, not frontend development. While they express interest in learning frontend technologies, they lack demonstrable experience with JavaScript, TypeScript, React, HTML, and CSS, which are core requirements. Their experience in Python scripting and test automation is somewhat relevant, but not sufficient for the role as described.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates long-term IT field service and systems administration experience but contains no evidence of required frontend development skills (JavaScript/TypeScript, HTML/CSS, React) nor experience with modern tooling (Git, Node/npm, testing frameworks, CI/CD, AWS/Terraform). There is also no mention of web security, modern CSS tooling, or functional JS libraries, so the candidate is in a different technical domain and is not qualified for this role.

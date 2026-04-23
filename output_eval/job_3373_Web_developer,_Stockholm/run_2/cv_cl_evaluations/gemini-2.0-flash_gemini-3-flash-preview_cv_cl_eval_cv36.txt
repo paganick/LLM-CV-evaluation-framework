@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in microbiology and quality control, lacking direct experience in front-end development. While the cover letter mentions transitioning to web development and mastering JavaScript, TypeScript, and React, this is not substantiated by concrete projects or roles in the resume. The skills listed in the resume do not align with the technologies mentioned in the job description.

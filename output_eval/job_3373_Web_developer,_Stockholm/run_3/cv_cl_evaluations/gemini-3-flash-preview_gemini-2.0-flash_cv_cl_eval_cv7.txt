@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a career graphic designer who lacks the essential programming skills, specifically JavaScript, TypeScript, and React, required for this engineering role. Their experience is centered on visual design and print media, offering no evidence of the technical expertise in web security, testing, or modern development workflows requested in the job description.

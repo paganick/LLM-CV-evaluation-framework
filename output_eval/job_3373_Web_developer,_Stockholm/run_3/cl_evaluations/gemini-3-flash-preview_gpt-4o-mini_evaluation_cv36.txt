@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer from microbiology with no professional experience in software development, currently placing them outside the relevant industry. While they mention the required technology stack, they explicitly admit to lacking knowledge in critical areas such as web security, API design, and AWS. This lack of professional hands-on experience and the reliance on a "willingness to learn" makes them a high-risk candidate for a role requiring established technical proficiency.

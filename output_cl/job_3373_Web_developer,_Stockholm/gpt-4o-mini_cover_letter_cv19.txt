@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end developer position your company has available. With my background in Graphic Design and my passion for web technologies, I am excited about the opportunity to contribute to your team, particularly as you utilize React.
+
+I have a solid foundation in HTML, CSS, and graphic design, which I believe aligns with your requirements for this role. Through my studies in Graphic Design at Penn Foster College, I have gained practical experience in coding and modern web design. I have a keen understanding of modern CSS tools and frameworks, and I am well-versed in utilizing tools such as Adobe Dreamweaver for web development. Although my direct experience with JavaScript and TypeScript is limited, I am highly adaptable and eager to expand my skill set to include these technologies.
+
+Collaboration has been key throughout my career, particularly during my time as a Graphic Designer, where I worked closely with clients and team members to develop effective marketing materials. I thrive in Agile environments and have a genuine passion for producing clean, maintainable code. My time managing projects has equipped me with excellent communication skills, ensuring that I can effectively interact with cross-functional teams and external partners.
+
+I am also familiar with version control using Git and have developed a basic understanding of web security concepts, including OWASP, CSP, and OAuth. I am eager to deepen my knowledge in API design and the NodeJS ecosystem, as well as CI/CD processes using tools like CircleCI.
+
+As a committed learner, I consistently strive to stay updated with the latest technologies and frameworks in web development. My curiosity drives me to explore areas beyond my immediate expertise, making me an asset to multidisciplinary teams.
+
+I am enthusiastic about the possibility of contributing to your innovative projects while growing my technical capabilities in a collaborative and creative environment. Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and ambitions align with your team's goals.
+
+Sincerely,  
+Alexis

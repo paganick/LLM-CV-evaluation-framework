@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong implementation, QA, documentation, and basic HTML/CSS experience which is relevant, but the cover letter lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks/automation (Jest/Cypress/TestCafe), Git/GitHub workflows, Node/npm, and web security concepts (OWASP/CSP/CORS/OAuth). They express eagerness to learn these technologies, but do not provide evidence of the practical experience this role requires.

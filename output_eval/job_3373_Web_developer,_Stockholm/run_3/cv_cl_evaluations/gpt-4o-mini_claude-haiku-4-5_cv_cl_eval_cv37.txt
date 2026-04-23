@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and IT leadership, but lacks direct experience with frontend development technologies such as JavaScript, React, testing frameworks, and modern CSS tools specified in the job description. While they show an understanding of technology integration and collaboration, the absence of hands-on coding experience in the required languages and frameworks makes them less suitable for the role.

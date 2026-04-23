@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable strengths (HTML, general programming in C/C++, leadership, documentation, and teaching) but lacks the core, hands-on front-end skills required: JavaScript/TypeScript, React, modern CSS, testing frameworks, Node ecosystem, Git, and web security knowledge. They express eagerness to learn, yet provide no practical experience with the specific tools and practices listed in the job description, so they are not currently qualified for this role.

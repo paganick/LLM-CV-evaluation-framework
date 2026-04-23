@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in IT support, hardware maintenance, and customer service, lacking the specific modern front-end development skills listed in the job description. While the cover letter mentions some relevant technologies, this is not substantiated by the resume's work history or skills section. There's a significant mismatch between the required JavaScript, TypeScript, and React expertise and the candidate's demonstrated skills.

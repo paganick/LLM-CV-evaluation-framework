@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, but lacks direct, hands-on experience with the specific technical stack required. The letter explicitly states their primary background is in mainframe technologies, making this a significant career pivot with no proven production experience in React, TypeScript, or the listed modern tools. While their fundamentals and eagerness to learn are clear, they do not currently meet the core technical requirements of the role.

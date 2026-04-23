@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and a strong background in design, but lacks specifically required modern front-end frameworks (React, VueJS, etc.) and hands-on experience with testing and automation tools. Their foundational knowledge of HTML and eagerness to learn modern technologies are noted, but they do not meet the necessary qualifications for a strong match in the primary requirements of the position.

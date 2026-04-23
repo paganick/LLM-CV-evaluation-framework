@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume reveals a background primarily in legacy .NET development and jQuery, which fails to meet the specific requirements for modern React and TypeScript expertise. There is no documented professional experience with modern testing frameworks, Styled Components, or the Node.js ecosystem, despite the claims made in the cover letter. Furthermore, the professional experience listed is significantly outdated, with no evidence of recent work in contemporary frontend environments.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant transferable skills (Agile collaboration, project management, HTML and web/design fundamentals) but provides no demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git, NodeJS/npm, CI/CD, or web security. They state eagerness to learn but do not evidence the technical competencies needed for the role. Given the gap between required and demonstrated skills, this is a low fit for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital advertising and project management, but lacks specific experience with the required technologies such as JavaScript, TypeScript, and modern front-end frameworks like React. While they mention familiarity with HTML and CSS, there is no substantial evidence of hands-on experience with testing automation or security practices outlined in the job description. Overall, while they possess some relevant industry experience, they do not meet the technical requirements for this role.

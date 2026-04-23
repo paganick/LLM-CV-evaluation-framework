@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT infrastructure and cybersecurity, which is a completely different industry and skillset from modern frontend development. While they express interest and highlight transferable soft skills, their resume shows no hands-on experience with the required technologies (JavaScript, TypeScript, React, testing frameworks) listed in the job description. The cover letter acknowledges this lack of direct experience, confirming they are unqualified for this specific technical role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant educational background and foundational skills, including HTML, CSS, JavaScript, and database experience. However, they lack direct experience with React, TypeScript, and testing frameworks explicitly mentioned in the job description. Their eagerness to learn is positive, but the absence of hands-on experience in key areas lowers the overall match score.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in sales and management, with no professional experience in software development. The resume and cover letter mention only superficial, non-professional exposure to a few required technologies like HTML and Git, while completely lacking hands-on experience with core requirements like JavaScript, TypeScript, React, and testing frameworks. This is a severe industry mismatch for a front-end developer role.

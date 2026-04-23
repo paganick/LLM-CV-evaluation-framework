@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant full-stack and test automation experience but is primarily a Java/Spring backend engineer with dated frontend exposure (AngularJS, ReactJS). The resume and cover letter lack specific, recent experience with the core requirements: modern React, TypeScript, and the listed testing frameworks (Jest, Cypress). While they show aptitude for learning and have some overlapping skills (Agile, Git, SASS), the direct fit for a focused frontend role is weak.

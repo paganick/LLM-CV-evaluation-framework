@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript and Git, but lacks concrete experience with modern FE frameworks, testing frameworks and other tools mentioned in the job description. While the cover letter attempts to bridge this gap, the resume focuses heavily on electronics engineering and technician roles, making the fit for a front-end developer position weak. The candidate's experience is not directly related to modern web development practices.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in React, TypeScript, HTML, and CSS, aligning well with the job description's core requirements. They highlight experience with testing frameworks like Jest and Cypress, and modern CSS tools such as Styled Components and SASS, matching the desired qualifications. The cover letter also showcases familiarity with NodeJS, functional programming, CI/CD, and basic AWS, further strengthening their candidacy.

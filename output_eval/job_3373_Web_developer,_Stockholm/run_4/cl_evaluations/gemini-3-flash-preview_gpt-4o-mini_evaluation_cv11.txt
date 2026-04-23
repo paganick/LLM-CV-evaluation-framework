@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in software testing and QA rather than professional frontend development, failing to meet the core requirement for hands-on experience building applications with React. They also completely omitted mention of TypeScript, which is a key requirement, and presented only a basic understanding of web security and modern frameworks. While they possess relevant testing skills, they lack the specific development track record and technical depth required for this engineering position.

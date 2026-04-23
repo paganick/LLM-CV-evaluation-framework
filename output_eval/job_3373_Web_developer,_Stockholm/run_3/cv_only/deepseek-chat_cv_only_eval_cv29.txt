@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development, sales, and marketing, with no demonstrated experience in software development. The resume lacks any mention of the required technical skills such as JavaScript, React, testing frameworks, or modern web development tools. This is a complete mismatch for a front-end engineering role.

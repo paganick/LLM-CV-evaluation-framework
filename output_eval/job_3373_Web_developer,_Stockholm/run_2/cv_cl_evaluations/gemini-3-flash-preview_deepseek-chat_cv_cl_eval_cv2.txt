@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer with legacy experience in Struts and EJB, lacking any professional experience with the required modern frontend stack of React, TypeScript, and modern CSS tools. While they possess a strong foundation in software engineering and Agile methodologies, their resume does not demonstrate hands-on expertise with JavaScript frameworks, frontend testing libraries, or the Node.js ecosystem. This profile represents a significant skill gap for a specialized Frontend Developer role.

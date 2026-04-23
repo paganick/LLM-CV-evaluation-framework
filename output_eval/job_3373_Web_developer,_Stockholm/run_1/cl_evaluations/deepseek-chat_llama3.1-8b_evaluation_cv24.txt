@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not front-end development, and they lack demonstrated hands-on experience with the core technical stack. While they mention an eagerness to learn and list some relevant tools, the letter provides no evidence of practical experience with React, testing frameworks, modern CSS tools, or the other specific technologies required. Their transferable skills are noted but do not compensate for the absence of proven development expertise.

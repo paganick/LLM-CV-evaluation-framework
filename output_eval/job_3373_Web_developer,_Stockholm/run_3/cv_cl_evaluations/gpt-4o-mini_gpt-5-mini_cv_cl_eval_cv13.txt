@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and project management, specifically with JavaScript, HTML, and CSS, and has worked with various frameworks. However, they lack specific hands-on experience with React, test automation frameworks, and modern CSS tools mentioned in the job description, which are critical for this role.

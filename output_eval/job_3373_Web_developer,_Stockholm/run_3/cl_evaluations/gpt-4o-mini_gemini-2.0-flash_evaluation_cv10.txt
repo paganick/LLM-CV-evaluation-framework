@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development and proficiency in key technologies such as JavaScript, HTML, CSS, and AngularJS. However, they lack experience with React, testing frameworks, and other modern tools specifically mentioned in the job description, which limits their suitability for this position.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the JavaScript Developer position at your company, as advertised. With a strong background in web development, complemented by my extensive education in Computer Science and Information Technology, I am excited about the opportunity to contribute to your team.
+
+During my tenure as a Consultant, I have gained hands-on experience with object-oriented design and programming, notably in Java, while also developing expertise in front-end technologies such as HTML, CSS, and JavaScript. Although my primary experience lies within the Java ecosystem, I am eager to expand my skill set to include modern frameworks like React and am confident in my ability to adapt quickly.
+
+My familiarity with testing and test automation will serve me well in this role. I have prepared test plans, conducted extensive system testing, and am committed to writing clean, maintainable code. I understand the importance of unit tests, integration tests, and E2E testing in ensuring high-quality software and user experience, and I look forward to employing these methods in your projects.
+
+Collaboration is a cornerstone of my professional ethos, and I thrive in Agile environments. My experience in providing end-user support has honed my communication skills, allowing me to work effectively with diverse teams and external partners. I am passionate about gaining a comprehensive understanding of the full domain and collaborating with other platforms.
+
+Moreover, I have a basic understanding of web security principles, such as OWASP, CORS, and OAuth, and I am eager to deepen my knowledge in these critical areas. I am also familiar with tools like Git and have managed repositories using GitHub, ensuring efficient version control and collaboration.
+
+Currently pursuing a Master's degree in Information Technology, I am committed to staying up to date with emerging technologies. My experience with CSS tools, testing frameworks like Jest, and familiarity with the NodeJS ecosystem will further enable me to make a meaningful contribution to your team.
+
+Thank you for considering my application. I am looking forward to the possibility of discussing how I can add value to your organization.
+
+Sincerely,  
+Alexis

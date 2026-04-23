@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's entire professional history is in digital communications and journalism, lacking any verifiable professional experience or technical background in software engineering. While the cover letter claims self-taught knowledge of React and TypeScript, the resume fails to provide evidence of these skills through projects, certifications, or professional application. This candidate is fundamentally unqualified for a mid-to-senior level engineering role requiring hands-on experience with testing, CI/CD, and complex API design.

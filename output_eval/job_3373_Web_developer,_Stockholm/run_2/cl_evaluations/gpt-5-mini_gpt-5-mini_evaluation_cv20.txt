@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end fundamentals (JavaScript, HTML, CSS), Git experience, and Agile teamwork, but lacks hands-on experience with the modern stack required (no demonstrated React or TypeScript experience) and provides no evidence of testing/test automation, modern CSS tooling, Node/npm ecosystem familiarity, CI/CD, or cloud/infra knowledge. They show willingness to learn and some backend and refactoring strengths, but do not meet several core technical requirements for this role.

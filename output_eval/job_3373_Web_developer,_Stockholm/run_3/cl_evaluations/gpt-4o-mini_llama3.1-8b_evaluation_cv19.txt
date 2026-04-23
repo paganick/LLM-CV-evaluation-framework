@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant skills in graphic design and familiarity with some of the technologies mentioned, such as CSS and testing frameworks. However, they lack specific experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are crucial for the role. Additionally, there is no indication of experience with key requirements such as CI/CD tools or security knowledge on the Web.

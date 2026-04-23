@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET stack with jQuery, not the modern React/TypeScript ecosystem specified. They lack direct experience with key required technologies like React, TypeScript, modern CSS tools, and functional programming. While they have relevant industry experience with Agile, Git, and basic web fundamentals, the specific technical skill gap is significant for the role's core requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT support and system administration, which provides a relevant foundation, but lacks direct experience with key front-end technologies such as JavaScript frameworks (specifically React), testing frameworks, and CI/CD tools. While they express a strong desire to learn and adapt, they do not demonstrate the specific skills required in the job description to be considered a strong candidate.

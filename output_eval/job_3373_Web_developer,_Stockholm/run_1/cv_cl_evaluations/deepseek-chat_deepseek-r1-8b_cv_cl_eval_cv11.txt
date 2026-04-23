@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing, not active front-end development. While they mention JavaScript, HTML, and CSS, there is no demonstrated hands-on experience with React, TypeScript, modern CSS tools, or the specific technical stack required for a developer role. Their testing experience is relevant to the job's test automation requirement, but the core development skills and framework expertise are critically lacking.

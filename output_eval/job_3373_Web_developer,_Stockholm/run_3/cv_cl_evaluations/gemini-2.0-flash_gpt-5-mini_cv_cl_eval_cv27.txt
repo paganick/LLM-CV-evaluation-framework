@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in arts, administration, and media production, lacking the required front-end development skills (JavaScript, TypeScript, React, etc.). While the cover letter expresses interest and eagerness to learn, there is insufficient evidence of practical experience in the core technologies listed in the job description. The resume highlights skills that are not directly transferable to a front-end developer role.

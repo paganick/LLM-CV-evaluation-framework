@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media production, lacking direct frontend development experience. While they mention exposure to HTML, CSS, and web design principles, they do not demonstrate proficiency with JavaScript, TypeScript, React, or testing frameworks mentioned in the job description. The cover letter focuses heavily on transferable skills rather than showcasing relevant technical expertise.

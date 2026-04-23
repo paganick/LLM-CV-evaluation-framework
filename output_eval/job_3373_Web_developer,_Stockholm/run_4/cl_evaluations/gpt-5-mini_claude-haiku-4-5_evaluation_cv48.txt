@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on, demonstrable experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node.js ecosystem, CI/CD, and AWS) listed in the job description. Their IT infrastructure and CMS background provides transferable problem-solving and collaboration skills but does not substitute for proven frontend development experience. Strong motivation to learn is clear, but without verifiable project work or concrete technical proficiency, they are not yet qualified for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project management and team leadership, but lacks the required technical expertise in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks such as React. While their skills in training and collaboration are noted, their background does not demonstrate the necessary hands-on experience with software development or testing automation, making them only partially qualified for the role.

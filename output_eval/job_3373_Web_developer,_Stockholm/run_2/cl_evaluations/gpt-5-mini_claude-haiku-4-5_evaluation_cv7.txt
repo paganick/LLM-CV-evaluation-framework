@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong design experience, cross-functional collaboration, and demonstrated ability to learn new tools, but lacks production-level experience in the core technical requirements (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git workflows, and modern frontend toolchain and security knowledge. These transferable skills are valuable but insufficient for this role's immediate technical needs.

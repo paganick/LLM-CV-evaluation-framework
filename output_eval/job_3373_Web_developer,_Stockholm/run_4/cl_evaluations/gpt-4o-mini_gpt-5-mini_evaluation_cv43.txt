@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in program management and technical communication but lacks hands-on experience with the specific front-end technologies outlined in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. Their technical skills in R do not directly translate to front-end development required for this role. While they show a willingness to learn, the absence of core front-end development skills impacts their overall suitability.

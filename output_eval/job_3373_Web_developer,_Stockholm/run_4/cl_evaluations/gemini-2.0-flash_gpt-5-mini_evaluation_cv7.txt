@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited explicit front-end experience. While transferable skills like collaboration and attention to detail are valuable, they lack the required technical skills (JavaScript, TypeScript, React, testing frameworks). The cover letter acknowledges a desire to learn these technologies rather than demonstrating proficiency.

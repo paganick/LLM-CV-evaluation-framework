@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional attempting to transition into development but lacks professional experience with the primary requirements, specifically React and TypeScript. While their testing background is relevant, they do not demonstrate proficiency with modern CSS tools, build systems, or the specific front-end testing libraries mentioned in the job description.

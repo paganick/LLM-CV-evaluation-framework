@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as they lack any professional experience or skills related to modern front-end development, React, or TypeScript. Their background is centered in business development, aerospace quality engineering, and project management rather than hands-on software engineering. There is no evidence of the required proficiency in web security, testing frameworks, or CI/CD tools mentioned in the job description.

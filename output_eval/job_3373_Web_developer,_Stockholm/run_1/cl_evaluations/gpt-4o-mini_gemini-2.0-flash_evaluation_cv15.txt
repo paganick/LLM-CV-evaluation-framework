@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in HTML, CSS, and JavaScript; however, they lack specific experience with TypeScript and modern testing frameworks mentioned in the job description. While they express a desire to work with React and show familiarity with web development concepts, they do not cover familiarity with CI/CD tools or the NodeJS ecosystem, which would strengthen their candidacy.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS and mentions React in the cover letter, but the resume lacks concrete front-end development experience. There is no evidence of Typescript, testing frameworks (Jest, TestCafe, Cypress), or experience with Git. The candidate does not list experience with modern CSS tools (Styled Components), functional programming, or cloud platforms like AWS.

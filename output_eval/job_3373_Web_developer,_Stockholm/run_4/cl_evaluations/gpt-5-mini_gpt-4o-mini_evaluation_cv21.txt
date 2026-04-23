@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate demonstrates solid frontend experience (JavaScript, HTML/CSS, Styled Components/SASS, Jest, Git) and familiarity with NodeJS and testing, but lacks explicit experience with React and TypeScript which are core to the role. Several required areas are missing or unmentioned—web security (OWASP/CSP/CORS/OAuth), CI/CD (CircleCI), specific Node tooling and Ramda—making them a relevant but incomplete fit.

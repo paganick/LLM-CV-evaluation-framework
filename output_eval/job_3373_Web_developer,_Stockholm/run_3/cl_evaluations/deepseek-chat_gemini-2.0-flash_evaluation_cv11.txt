@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and foundational front-end skills, but lacks direct development experience with React and other key technologies listed in the job description. Their background is heavily weighted in software testing rather than front-end development, and they do not demonstrate experience with TypeScript, modern testing frameworks, or the other specific tools and concepts required.

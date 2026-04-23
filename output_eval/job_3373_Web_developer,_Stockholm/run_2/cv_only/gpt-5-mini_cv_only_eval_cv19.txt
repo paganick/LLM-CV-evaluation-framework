@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design with basic HTML/CSS coursework and Adobe tool proficiency but lacks any demonstrated experience with JavaScript/TypeScript, React (or other modern frameworks), testing/automation, Git, Node/npm, or cloud/CI tooling required for the role. They are in a different discipline and do not meet key technical requirements such as frontend frameworks, testing frameworks, API knowledge, or security fundamentals. Given the significant gaps, they are not qualified for this frontend engineer position.

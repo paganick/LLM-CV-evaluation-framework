@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a senior-level Java developer whose career is almost entirely server-side, whereas the role demands a front-end specialist proficient in React and modern CSS. While they possess strong testing discipline and knowledge of the peripheral toolchain, they lack any professional, production-level experience with the core front-end frameworks required for this position. Their profile reflects a career-transitioner rather than a ready-to-contribute front-end engineer.

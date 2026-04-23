@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in graphic design and some experience with HTML and CSS, which aligns partially with the frontend developer role. However, they lack specific experience with key technologies mentioned in the job description, such as JavaScript, React, and testing frameworks. The candidate shows a willingness to learn but does not meet the minimum technical requirements for the position.

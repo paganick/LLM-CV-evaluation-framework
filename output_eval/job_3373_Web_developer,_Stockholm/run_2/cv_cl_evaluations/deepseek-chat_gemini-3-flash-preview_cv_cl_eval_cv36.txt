@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in microbiology and pharmaceutical quality control, with zero demonstrated experience in software development or the required technologies listed in the job description. The cover letter makes claims of proficiency in JavaScript, React, and other tools, but the resume provides no evidence to support these claims, showing no relevant work history, projects, or education. This is a complete industry mismatch, and the application lacks any verifiable qualifications for the frontend developer role.

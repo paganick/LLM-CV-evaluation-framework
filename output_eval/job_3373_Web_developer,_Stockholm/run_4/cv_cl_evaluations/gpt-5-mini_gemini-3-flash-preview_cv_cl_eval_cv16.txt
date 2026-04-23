@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience with JavaScript, HTML, CSS, jQuery, Git and Agile practices, and some exposure to web security and refactoring. However, they lack hands-on experience with React (the team's stack), TypeScript, modern testing and test automation frameworks, NodeJS/npm ecosystem, modern CSS tooling, CI/CD, and AWS/Terraform. With training they could ramp up, but they do not currently meet several core technical requirements for this role.

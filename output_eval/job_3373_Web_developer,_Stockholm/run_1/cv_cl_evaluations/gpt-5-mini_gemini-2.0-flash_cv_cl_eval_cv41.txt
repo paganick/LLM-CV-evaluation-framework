@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced systems administrator with some familiarity with HTML, CSS and JavaScript but provides no demonstrable experience with React, TypeScript, modern frontend tooling (Node/npm, Styled Components/SASS), testing frameworks, Git-based workflows, or CI/CD. They lack concrete frontend projects, framework experience, and automated testing knowledge required for this role. While they show strong troubleshooting and collaboration skills and could be trainable, they are not yet qualified for the position as described.

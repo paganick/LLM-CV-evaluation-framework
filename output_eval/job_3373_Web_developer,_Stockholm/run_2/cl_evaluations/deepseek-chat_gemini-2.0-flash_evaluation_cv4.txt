@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions key required skills like JavaScript, HTML, CSS, Agile, and testing. However, the cover letter critically lacks mention of the specific technologies from the job description, such as React, TypeScript, modern testing frameworks (Jest, Cypress), and other listed tools. The experience described is heavily backend-focused (C#, .Net, Python, BERT) and does not convincingly align with the frontend and specific tech stack requirements of the role.

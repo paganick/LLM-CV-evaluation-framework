@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analytics, not frontend development, and they lack direct, professional experience with the core technologies listed in the job description, such as React, TypeScript, and modern testing frameworks. While they demonstrate strong transferable skills like collaboration and a willingness to learn, their practical frontend experience is limited to foundational HTML and outdated ASP.NET. The cover letter expresses interest but does not provide evidence of meeting the specific technical requirements for the role.

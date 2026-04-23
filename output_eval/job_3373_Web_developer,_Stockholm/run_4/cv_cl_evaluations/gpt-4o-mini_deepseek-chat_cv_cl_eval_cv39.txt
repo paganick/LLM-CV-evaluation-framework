@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate has extensive experience in the design field, their technical skills do not align closely with the requirements for a Front End Developer position. They show some familiarity with HTML and web development but lack demonstrated experience with essential technologies such as JavaScript, TypeScript, and modern frameworks like React. Additionally, there is no indication of experience with testing frameworks or CI/CD tools, which are crucial for the role.

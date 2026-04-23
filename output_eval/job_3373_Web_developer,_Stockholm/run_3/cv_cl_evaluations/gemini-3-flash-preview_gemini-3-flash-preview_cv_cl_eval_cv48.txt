@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT infrastructure and systems administration but lacks any professional software development experience. While the cover letter mentions familiarity with the required tech stack, the resume fails to demonstrate hands-on experience with JavaScript, TypeScript, React, or modern testing frameworks in a production environment. Consequently, the applicant is overqualified in hardware and networking but critically underqualified for a specialized frontend engineering role.

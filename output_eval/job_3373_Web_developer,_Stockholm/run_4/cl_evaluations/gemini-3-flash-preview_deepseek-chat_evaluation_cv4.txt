@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates solid professional experience in the core stack and a strong commitment to testing and Agile methodologies. However, the candidate fails to address critical requirements including web security standards, CI/CD tools, and cloud infrastructure like AWS or Terraform. Most importantly, the letter suggests a lack of direct production experience with React, describing it as an area of interest rather than a current, proven skill set.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong expertise in JavaScript, HTML, and CSS, with relevant experience in using React and test automation frameworks like Jest and Cypress. Their background in software development and solid understanding of the software lifecycle align well with the job requirements. However, there is no mention of modern CSS tools, CI/CD experience, or familiarity with tools like Linters, which slightly limits their match to the ideal profile.

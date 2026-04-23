@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates enthusiasm and a willingness to learn, highlighting relevant skills like HTML, CSS, and JavaScript. However, the cover letter showcases more potential than proven experience in key areas like React, testing frameworks, and security best practices. While the candidate's background provides a solid foundation, it doesn't fully align with the experience level desired for a Front End Developer role, especially regarding modern JavaScript frameworks and testing.

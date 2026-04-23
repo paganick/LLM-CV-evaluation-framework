@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has an extensive background in graphic design and web development, they do not mention key technologies required by the job, such as JavaScript, TypeScript, or modern front-end frameworks like React. Their experience in design is strong but lacks specific technical skills and knowledge in areas like testing, CI/CD tools, and security. Overall, they have relevant experience but do not meet the specific technical requirements outlined in the job description.

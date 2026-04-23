@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of the required technologies, particularly React, HTML, CSS, and associated tools like Styled Components and SASS. Their experience with Agile, Git, and testing frameworks aligns well with the job description. While they express eagerness to learn NodeJS and functional programming with Ramda, their current proficiency level is unclear, but overall they are a strong candidate.

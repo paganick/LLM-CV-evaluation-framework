@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on development, which is the core requirement. They mention relevant technologies but fail to demonstrate direct, practical experience with key job requirements like testing automation, modern CSS tools, security basics, and specific frameworks/libraries. While they have relevant industry knowledge and soft skills, the lack of proven, recent hands-on coding experience makes them a weak technical fit for the role.

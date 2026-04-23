@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional experience in front-end development and specifically states a need to learn core requirements like TypeScript and React. While they have a relevant background in IT infrastructure, they do not demonstrate any hands-on experience with testing frameworks, web security, or the modern CI/CD pipelines specified in the job description. Consequently, they do not meet the technical seniority or skill set required for this specific engineering role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost entirely in Java/J2EE back-end development with outdated frameworks like Struts and EJB, which is a completely different tech stack. The resume and cover letter show no demonstrable, hands-on experience with the required modern front-end technologies like React, TypeScript, or any testing frameworks specified (Jest, Cypress). While the candidate expresses interest, they lack the specific, practical skills and recent relevant experience required for the role.

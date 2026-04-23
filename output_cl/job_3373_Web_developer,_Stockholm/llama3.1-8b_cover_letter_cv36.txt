@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for this position as I have a strong background in molecular genetic research, quality control system operations, and consulting. Although my experience may not directly align with the job requirements, I am confident that my skills and expertise can be adapted to fit your needs.
+
+As a microbiologist with extensive experience in laboratory settings, I possess a unique understanding of the importance of attention to detail, precision, and compliance with regulatory standards. My background in Good Laboratory Practices (GLP) and 21 CFR Part 11 has equipped me with the ability to manage and maintain accurate records, ensuring seamless transitions between projects.
+
+While my primary expertise lies in microbiology and molecular genetics, I have a proven track record of adapting to new technologies and frameworks. As a skilled trainer, I have experience developing and delivering training programs for various audiences, including production staff, quality control specialists, and senior management. My ability to distill complex concepts into actionable steps has enabled me to effectively communicate with diverse groups.
+
+In my previous roles, I have honed my skills in project management, quality assurance, and regulatory compliance. As a consultant, I have provided expertise on aseptic techniques, cleaning validation, and process development. These experiences have also allowed me to develop strong relationships with clients, vendors, and internal stakeholders.
+
+Although the job description emphasizes proficiency in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks, my background in software applications, including MS Office, Citrix Sever, FTP clients, LIMS, SAP, Isotrain, and IKAT, demonstrates my ability to quickly adapt to new technologies. Additionally, my experience with testing tools, such as Minitab, and statistical analysis has provided a solid foundation for understanding complex data.
+
+I am drawn to this role because of the company's commitment to innovation, collaboration, and regulatory compliance. As a detail-oriented and organized professional, I believe that I can make a valuable contribution to your team. My passion for clean code, testing frameworks (Jest, TestCafe, Cypress), linters, and formatters will enable me to effectively integrate with existing systems.
+
+In conclusion, while my background may not be a direct fit, I am confident that my transferable skills, adaptability, and commitment to excellence make me an ideal candidate for this position. Thank you for considering my application.
+
+Sincerely,
+Alexis

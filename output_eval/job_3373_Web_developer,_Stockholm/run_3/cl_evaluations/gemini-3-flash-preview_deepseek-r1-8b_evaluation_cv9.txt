@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Spring developer, which represents a significant skill gap for a role centered on a modern React and TypeScript frontend stack. While they demonstrate awareness of specific requirements like Ramda and security principles, their hands-on experience with the core technologies and testing frameworks requested is minimal or non-existent. Consequently, the applicant lacks the specific professional expertise required to fulfill the primary responsibilities of this position without extensive retraining.

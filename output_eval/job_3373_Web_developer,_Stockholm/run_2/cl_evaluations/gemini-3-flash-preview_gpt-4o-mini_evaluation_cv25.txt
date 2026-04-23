@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the core technical requirements, specifically admitting to limited experience with JavaScript, React, and automated testing frameworks like Jest or Cypress. There is no mention of TypeScript or modern CSS tooling, which are essential components of the job description. While the candidate has a relevant background in design and Agile environments, their lack of professional development experience makes them unqualified for this specific technical role.

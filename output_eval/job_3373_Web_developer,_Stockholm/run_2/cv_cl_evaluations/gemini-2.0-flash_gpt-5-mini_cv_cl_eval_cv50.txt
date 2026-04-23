@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight leadership and project management experience but lack explicit evidence of hands-on frontend development skills using the required technologies like React, TypeScript, HTML, and CSS. While they claim a computer science foundation and willingness to learn, the absence of concrete examples in the mentioned technologies makes them a weak fit for a frontend developer role. There is no evidence of experience with modern FE frameworks and libraries like React, VueJS, Angular and Svelte.

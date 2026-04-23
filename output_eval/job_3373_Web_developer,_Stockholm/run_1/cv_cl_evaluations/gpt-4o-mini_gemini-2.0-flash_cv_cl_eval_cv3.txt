@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a basic understanding of relevant technologies such as HTML, CSS, and JavaScript but lacks experience with modern frameworks like React, which is a requirement for the position. Their experience primarily comes from an unrelated field (construction), and while they express a willingness to learn, they do not meet the specific requirements outlined in the job description. Additionally, there is no evidence of experience with testing frameworks or CI/CD tools mentioned in the job description.

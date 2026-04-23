@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic and web design, not modern front-end development. They lack the required, hands-on experience with core technologies like React, TypeScript, testing frameworks, and version control. While they show a willingness to learn, their current skills are misaligned with the technical demands of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong soft skills, leadership, and cross-functional collaboration but lacks demonstrable, hands-on front-end development experience with React, TypeScript, modern CSS tools, NodeJS, and CI/CD that the role requires. The cover letter claims familiarity with testing tools and web security, but the resume contains no concrete projects, code examples, or technical roles to validate those claims. This makes them relevant to the industry and motivated to learn, but currently insufficiently qualified for the position.

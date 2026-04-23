@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in design, with self-professed upskilling in key front-end technologies. While they mention HTML and CSS proficiency, they lack demonstrable experience in JavaScript, TypeScript, React (the company's framework), and testing, which are crucial requirements. The letter highlights transferable skills but falls short on technical experience in the specific technologies mentioned in the job description.

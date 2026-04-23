@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in hardware and software testing, not frontend development. While they express enthusiasm and adaptability, they lack concrete experience with key technologies like React, TypeScript, and modern CSS tools mentioned in the job description. Their familiarity with JavaScript and testing frameworks is a plus, but the gap in specific frontend skills is significant.

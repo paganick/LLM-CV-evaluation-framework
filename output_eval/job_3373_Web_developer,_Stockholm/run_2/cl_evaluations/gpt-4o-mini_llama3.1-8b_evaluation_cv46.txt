@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in software development but lacks specific mention of modern front-end frameworks, particularly React, which is essential for the role. While they have relevant testing and CI/CD experience, they do not explicitly address familiarity with security practices or modern CSS tools mentioned in the job description.

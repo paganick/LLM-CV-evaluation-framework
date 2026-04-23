@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is overwhelmingly in graphic and print design with only basic HTML/CSS and a claimed familiarity with Git, but there is no demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Node/npm, or modern front-end tooling. This profile does not meet the technical expectations for the role and would require substantial upskilling and verified engineering experience to be considered.

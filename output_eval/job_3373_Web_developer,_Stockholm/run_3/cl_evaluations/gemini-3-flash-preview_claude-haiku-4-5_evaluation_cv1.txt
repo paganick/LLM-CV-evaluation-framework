@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match who meets nearly all core requirements, including React, TypeScript, and collaborative Agile experience. While their testing background is extensive, it leans heavily toward QA automation with Java and Selenium rather than the modern frontend-specific frameworks like Jest or Cypress mentioned in the description. Additionally, the letter fails to explicitly address functional programming (Ramda) or specific web security protocols like OWASP and CORS.

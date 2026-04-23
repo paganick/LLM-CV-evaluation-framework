@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has project management experience, but the technical skills seem outdated or high-level. While they mention Javascript, HTML, and CSS, the resume leans heavily towards project management rather than hands-on development. There's a lack of concrete experience with modern FE frameworks like React, despite claiming familiarity.

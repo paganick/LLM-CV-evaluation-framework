@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, and law, with no demonstrated experience in software development, front-end technologies, or any technical skills listed in the job description. While they highlight transferable soft skills, they lack the required hands-on technical expertise in JavaScript, React, testing, Git, or web security fundamentals. This is a complete career shift with no evidence of the core competencies needed for the engineering role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates a strong interest in the required technologies. However, the cover letter lacks concrete, hands-on examples of professional frontend development work with React, TypeScript, and modern testing frameworks, which are core requirements. The extensive graphic design background is noted but does not directly substitute for the specific technical engineering experience demanded by the role.

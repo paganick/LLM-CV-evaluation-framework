@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in systems administration, not software engineering. While the candidate demonstrates some understanding of software development principles and related technologies, they lack the hands-on experience with the specific frontend technologies (React, TypeScript, etc.) emphasized in the job description. The letter focuses on infrastructure and security, rather than the core skills required for the role.

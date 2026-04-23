@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience and skills, particularly in JavaScript and HTML; however, their primary expertise lies in mainframe technologies rather than modern front-end development. They have expressed interest in React and testing frameworks, but lack hands-on experience with frameworks specified in the job description and other technologies mentioned, such as CI/CD tools and API design.

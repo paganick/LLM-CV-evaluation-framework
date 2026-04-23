@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a QA Analyst applying for a Front-end Developer role and lacks the required proficiency in React, TypeScript, and modern front-end ecosystems. Their professional experience is severely outdated, ending in 2015, and focuses on manual and automation testing methodologies rather than the core software engineering and UI development skills requested.

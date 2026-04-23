@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in graphic design and demonstrates some familiarity with HTML and CSS. However, they lack significant experience with crucial requirements such as JavaScript, modern front-end frameworks like React, testing frameworks, and version control systems like Git. The skills and experiences mentioned do not strongly align with the specific needs of the front-end developer role outlined in the job description.

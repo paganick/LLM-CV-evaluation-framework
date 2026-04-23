@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in systems engineering and operations, with relevant experience in web applications and a focus on security. However, there is no specific mention of the core front-end technologies required, such as JavaScript, TypeScript, or modern frameworks like React, alongside a lack of familiarity with testing frameworks and tools mentioned in the job description. This places the candidate in a relevant industry but lacking the specific experience necessary for the role.

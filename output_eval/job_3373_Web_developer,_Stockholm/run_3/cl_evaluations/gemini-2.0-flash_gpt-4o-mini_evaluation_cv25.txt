@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in design and marketing, with limited front-end development experience. While they express enthusiasm for learning and have some foundational knowledge of HTML, CSS, and Git, they lack the required hands-on experience with JavaScript frameworks like React and testing frameworks. The cover letter highlights potential but doesn't demonstrate sufficient practical skills for the role's core requirements.

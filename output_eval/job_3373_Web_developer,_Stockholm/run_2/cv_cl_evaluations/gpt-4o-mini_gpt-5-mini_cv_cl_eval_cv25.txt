@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial experience in graphic design and some familiarity with HTML and CSS, but they lack direct experience with key front-end technologies such as JavaScript, TypeScript, React, and testing frameworks. While they demonstrate strong design skills and an eagerness to transition into front-end development, they do not meet the necessary technical qualifications for the role.

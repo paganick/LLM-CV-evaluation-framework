@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and knowledge of core web technologies (JavaScript, HTML, CSS) and Agile practices. However, they lack direct, professional experience with the required modern front-end stack (React, TypeScript, modern CSS tools) and the listed testing frameworks, Node.js ecosystem, and functional programming. Their background is heavily centered on .NET and server-side development, not the specific front-end engineering focus and technologies outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills like Javascript, Git, and testing experience but lacks direct frontend experience. While they express interest in React and TypeScript, their background is primarily in engineering and QA, making them somewhat underqualified for a dedicated Frontend Engineer role. The cover letter highlights a transition and eagerness to learn, but the experience gap is significant.

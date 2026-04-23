@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates familiarity with some of the required technologies like JavaScript, CSS, HTML, and Git. However, their experience with React is mentioned in the cover letter but not detailed in the resume. The resume lacks concrete examples of modern FE frameworks and testing frameworks.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in technical project management with some front-end exposure, not focused software engineering. They lack hands-on experience with the required modern React stack, testing frameworks, and specific tools like Node.js, AWS, or functional programming (Ramda). While they have relevant industry knowledge and Agile experience, their technical skills are outdated and not aligned with the core engineering requirements of the role.

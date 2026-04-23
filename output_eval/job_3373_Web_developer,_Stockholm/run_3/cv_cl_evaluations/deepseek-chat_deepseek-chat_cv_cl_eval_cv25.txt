@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software development, and they lack the required professional experience with JavaScript, TypeScript, React, testing frameworks, Git, and other core technical skills listed in the job description. While they demonstrate foundational HTML/CSS knowledge and strong soft skills, their technical proficiency is aspirational and self-taught, not proven through professional work. This represents a significant industry and skillset mismatch for a front-end developer role.

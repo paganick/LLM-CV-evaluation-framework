@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and visual merchandising, not software engineering. While they mention web design, the tools and skills listed (Adobe CS5, Dreamweaver, print production) are not relevant to the required modern front-end development stack (React, TypeScript, testing frameworks, Git, etc.). There is no demonstrated experience with any of the core technical requirements from the job description.

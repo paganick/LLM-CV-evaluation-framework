@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in shipping software and familiarity with web technologies such as JavaScript and TypeScript. They show knowledge of modern CSS tools and Agile methodologies, which aligns with the job description. However, there is insufficient explicit experience with React and web security concepts, limiting their overall fit.

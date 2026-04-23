@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a Frontend Engineer position as their professional experience is exclusively in business development, sales, and marketing. They lack hands-on experience with JavaScript, TypeScript, React, and automated testing frameworks, which are the core requirements of the role. While they have worked in the software industry, they possess no professional background in writing code or managing modern frontend development lifecycles.

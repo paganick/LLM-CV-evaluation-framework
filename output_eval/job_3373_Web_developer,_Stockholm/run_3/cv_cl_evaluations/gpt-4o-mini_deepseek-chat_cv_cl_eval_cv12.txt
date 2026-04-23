@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid software engineering background and experience with relevant technologies, such as JavaScript, HTML, CSS, and SASS. However, they lack hands-on experience with React, testing frameworks mentioned (like Jest or Cypress), and CI/CD tools. Their experience primarily revolves around PHP and lacks direct reference to the modern front-end frameworks which are vital for this role.

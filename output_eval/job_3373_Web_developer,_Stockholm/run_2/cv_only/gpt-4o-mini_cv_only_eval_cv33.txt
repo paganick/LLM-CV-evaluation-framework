@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in sales and management within the banking industry but lacks any relevant technical skills related to the job description, such as JavaScript, TypeScript, or experience with modern frontend frameworks like React. There is no evidence of experience with testing, Git, or web security concepts required for the role. Overall, this candidate does not fulfill the fundamental technical requirements outlined in the job description.

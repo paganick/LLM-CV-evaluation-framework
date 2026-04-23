@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the required professional experience in core technical areas such as test automation, version control, and web security protocols. While they possess a strong foundation in design and basic front-end languages, their experience with React, TypeScript, and JavaScript is described as "building," indicating a junior level that does not meet the "hands-on experience" criteria. Furthermore, the letter fails to address specific advanced requirements like CI/CD, API design, or functional programming.

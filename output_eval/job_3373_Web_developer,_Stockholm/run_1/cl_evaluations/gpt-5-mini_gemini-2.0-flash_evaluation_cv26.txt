@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong transferable skills (communication, collaboration, Agile) and a clear willingness to learn, but provides no concrete evidence of hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, or Node ecosystem required for the role. Lack of demonstrable technical projects, tooling experience, or testing expertise makes them insufficiently qualified for this front-end developer position. They may be a fit for a junior/apprentice role after completing and demonstrating relevant technical work.

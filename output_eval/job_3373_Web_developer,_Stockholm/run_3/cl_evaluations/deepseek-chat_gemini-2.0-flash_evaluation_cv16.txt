@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in .NET and database programming, not the modern front-end stack required. They lack direct experience with React, TypeScript, testing frameworks, and the specific tools listed in the job description. While they have some transferable skills (Agile, Git), their technical background is a significant mismatch for the specific front-end developer role.

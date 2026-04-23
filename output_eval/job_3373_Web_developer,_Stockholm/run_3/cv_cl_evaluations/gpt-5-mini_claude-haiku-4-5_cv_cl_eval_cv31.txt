@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume and cover letter show a strong sales/leadership background but no demonstrated professional frontend development experience, portfolio, or concrete projects using the required technologies. The candidate only lists basic HTML and self-study in JavaScript/TypeScript/React and Git, and lacks proven experience with testing frameworks, Node ecosystem, web security, and CI/CD expected for this role. Transferable skills in collaboration and learning are present but insufficient to meet the technical bar for this position.

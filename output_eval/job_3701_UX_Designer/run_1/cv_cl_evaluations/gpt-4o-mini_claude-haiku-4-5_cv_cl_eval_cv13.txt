@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in consulting and workshop facilitation, which aligns with some of the user experience requirements. However, they lack direct experience in UX design, particularly with prototyping tools like Figma and front-end technologies such as HTML and CSS, which are highlighted as important in the job description. Their experience appears to be more focused on system engineering rather than on user-centered design, making them only partially qualified for the role.

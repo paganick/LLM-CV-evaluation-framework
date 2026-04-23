@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a test engineering background, which is not directly relevant to a Front End Developer role. While they claim proficiency in JavaScript, TypeScript, HTML, and CSS, their resume lacks demonstrable professional experience in these technologies. Their experience with testing is primarily in hardware, not web development, and while they mention React, the depth of their experience is unclear.

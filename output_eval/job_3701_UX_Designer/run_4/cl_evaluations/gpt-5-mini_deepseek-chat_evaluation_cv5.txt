@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant design and collaborative skills (mentoring, stakeholder work, HTML/XML exposure) that are transferable to UX, but explicitly states their commercial experience is in graphic/3D design rather than 2–3 years in a UX role. They do not evidence Agile experience or proven prototyping with Figma (only willingness to learn), and lack clear exposure to CSS/JS and user research running. Overall relevant industry fit but missing key, stated UX-specific experience and toolchain requirements.

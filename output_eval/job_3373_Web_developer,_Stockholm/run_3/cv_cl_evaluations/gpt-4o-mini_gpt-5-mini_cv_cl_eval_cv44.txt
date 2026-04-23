@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and user experience but lacks specific front-end development skills such as JavaScript, TypeScript, and modern front-end frameworks like React. They mention familiarity with HTML and CSS but do not provide evidence of hands-on experience with testing frameworks or CI/CD practices outlined in the job description. While they do demonstrate a collaborative mindset and a strong understanding of UI design, they fall short of the technical requirements for the Front-End Engineer position.

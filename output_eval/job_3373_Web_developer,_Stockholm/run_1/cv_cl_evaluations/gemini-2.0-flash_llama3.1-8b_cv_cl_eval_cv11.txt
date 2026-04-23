@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a testing background but lacks specific experience with modern FE frameworks like React, VueJS, or Angular, which are core requirements. The resume mentions JavaScript, HTML, and CSS, but in the context of testing rather than development. The role emphasizes front-end development and a passion for clean code, which is not clearly demonstrated in the provided materials.

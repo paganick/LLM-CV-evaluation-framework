@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and claims proficiency in JavaScript, HTML, and CSS, as well as testing and version control with GitHub. However, they lack direct experience with the required modern front-end frameworks such as React, VueJS, or Angular. Additionally, the candidate's primary focus has been in ASP.NET, which may limit their adaptability to the React environment necessary for this role.

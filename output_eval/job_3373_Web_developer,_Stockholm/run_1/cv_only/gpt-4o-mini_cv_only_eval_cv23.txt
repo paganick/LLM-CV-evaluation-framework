@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in electronics and experience with testing and validation, but lacks specific front-end development skills such as JavaScript frameworks, modern CSS tools, and the required testing frameworks mentioned in the job description. Their coding experience is limited and does not align with the need for hands-on experience in React or similar libraries. Overall, while they have a relevant industry background, they do not meet the specific qualifications for the position.

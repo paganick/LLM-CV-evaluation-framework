@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's 15-year background is primarily in graphic design rather than professional software engineering, suggesting a significant gap in technical seniority. While they mention key technologies, they lack demonstrated professional experience with advanced requirements like CI/CD, Node.js, and cloud platforms, expressing only an interest in learning them. The letter indicates a career transitioner rather than a seasoned developer capable of handling the full scope of the technical domain.

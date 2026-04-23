@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional history is centered on Presentation and UX/UI Design rather than Software Engineering. While they possess a degree in Computer Science and foundational knowledge of HTML and CSS, the resume shows no professional experience with the required stack of React, TypeScript, or modern testing frameworks. They lack the technical depth in functional programming, CI/CD, and cloud infrastructure necessary to fulfill the requirements of this frontend developer role.

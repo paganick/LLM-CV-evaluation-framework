@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional background is primarily in graphic design and manual labor, with no documented work experience as a software engineer. While the cover letter claims familiarity with the modern stack, the resume fails to substantiate any professional use of JavaScript, TypeScript, React, or testing frameworks. The candidate lacks the necessary technical depth and professional engineering experience required for this role.

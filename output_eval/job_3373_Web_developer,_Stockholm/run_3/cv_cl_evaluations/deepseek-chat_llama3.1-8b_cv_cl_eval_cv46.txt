@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily focused on outdated back-end and database technologies (Java, EJB, Oracle) with no demonstrated, current hands-on experience in the required modern front-end stack (React, TypeScript, modern CSS). The resume and cover letter mention relevant tools (Jest, ESLint) but lack concrete project examples or evidence of recent, professional front-end development work, indicating a significant skills gap for the role.

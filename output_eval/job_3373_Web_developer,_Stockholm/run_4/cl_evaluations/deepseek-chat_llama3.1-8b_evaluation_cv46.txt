@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards back-end and database administration, with minimal direct evidence of modern front-end development. They mention React but fail to demonstrate specific, hands-on experience with the core technologies and practices listed in the job description, such as modern CSS tools, functional programming, or web security. While they have relevant soft skills and a long technical career, the lack of targeted front-end expertise makes them a weak match for this specific role.

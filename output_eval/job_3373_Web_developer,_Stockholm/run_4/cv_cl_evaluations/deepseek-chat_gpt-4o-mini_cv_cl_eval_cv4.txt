@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET backend development and data science, not modern front-end engineering with React. While they list JavaScript/HTML/CSS, the resume lacks concrete evidence of professional work with React, TypeScript, modern CSS tools, or the specific testing frameworks mentioned. The cover letter attempts to align but does not substantiate the required skills with proven project experience from the resume.

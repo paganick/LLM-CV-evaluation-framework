@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a technical background related to engineering and testing but lacks direct experience in front-end development, particularly with the required modern frameworks like React. While they possess some knowledge of JavaScript, their overall skill set does not align well with the specific front-end technologies and testing frameworks mentioned in the job description. Their eagerness to learn is a positive attribute, but there is not enough relevant experience to warrant a higher score.

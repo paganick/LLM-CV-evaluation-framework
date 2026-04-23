@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java-based backend developer whose experience is centered on legacy enterprise technologies like Spring, SOAP, and Oracle, rather than the modern frontend stack required. They lack professional experience with React, TypeScript, and modern CSS tools, and their JavaScript knowledge is described as basic and tied to outdated frameworks like Struts. While they have strong general software engineering principles and testing experience, they do not meet the core technical requirements for a senior-level frontend position.

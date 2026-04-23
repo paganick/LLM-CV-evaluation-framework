@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development and testing, particularly with technologies like JavaScript, React, and testing frameworks. However, the lack of specific mention of TypeScript and limited experience with certain other tools listed in the job description, like API design and AWS, slightly detracts from their match. Overall, they demonstrate a strong foundation and an eagerness to learn, making them a good fit for the position.

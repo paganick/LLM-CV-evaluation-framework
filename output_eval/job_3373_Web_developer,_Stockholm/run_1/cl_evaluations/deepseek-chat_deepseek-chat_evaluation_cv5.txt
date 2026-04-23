@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in mainframe technologies, not modern frontend development. While they demonstrate foundational web knowledge and mention some required skills, they lack proven, hands-on experience with the specific React ecosystem, modern testing frameworks, and tooling listed in the job description. Their background is relevant to software engineering principles but insufficient for the specific technical requirements of this frontend role.

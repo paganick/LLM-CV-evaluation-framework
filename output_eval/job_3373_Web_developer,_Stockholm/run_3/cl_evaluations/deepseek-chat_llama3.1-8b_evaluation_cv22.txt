@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills (JavaScript, TypeScript, React, testing tools, NodeJS ecosystem) that align well with the job description. However, the cover letter is unfocused, heavily emphasizing unrelated backend/database experience (SQL, Java, SAP) and past media planning roles, while underplaying the specific front-end and modern web development focus required. The application feels like a generic template rather than a targeted pitch for this specific front-end/react role.

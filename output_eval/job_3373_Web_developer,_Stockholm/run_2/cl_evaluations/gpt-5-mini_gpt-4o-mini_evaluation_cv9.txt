@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid engineering background (Git/GitHub, REST, OAuth, CircleCI, CSS tools) and general JavaScript/HTML/CSS familiarity, but their track record is predominantly Java (JEE) backend work. They do not demonstrate concrete experience with the team's primary stack—React and TypeScript—nor with front-end testing frameworks (Jest/Cypress/TestCafe), the Node/npm/Yarn ecosystem, or functional libraries like Ramda. Relevant but missing several critical front-end skills and explicit hands-on experience required for a strong match.

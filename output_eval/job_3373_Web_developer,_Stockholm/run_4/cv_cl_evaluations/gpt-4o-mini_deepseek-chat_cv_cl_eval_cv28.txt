@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has transitioned into web development and possesses some foundational skills in JavaScript, TypeScript, HTML, CSS, and React, they lack extensive experience in modern front-end frameworks, testing frameworks, and CI/CD tools. Additionally, their background in materials analysis and quality engineering does not fully align with a front-end development role, limiting their overall fit for the position.

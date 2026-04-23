@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited experience in front-end development. While they express a desire to learn and mention HTML/CSS, they lack the required JavaScript, TypeScript, and modern framework experience the job demands. The cover letter focuses more on design tools than software development skills, indicating a mismatch for a front-end engineering role.

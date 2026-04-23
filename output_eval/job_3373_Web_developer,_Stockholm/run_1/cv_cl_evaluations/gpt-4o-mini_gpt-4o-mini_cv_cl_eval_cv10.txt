@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundational background in front-end technologies and some familiarity with modern frameworks, specifically AngularJS. However, they lack direct experience with React, which is the primary framework used by the company. Additionally, while they have experience with testing practices, they do not demonstrate a strong command of the various testing frameworks mentioned in the job description. Overall, the candidate shows potential but does not fully meet the specific requirements.

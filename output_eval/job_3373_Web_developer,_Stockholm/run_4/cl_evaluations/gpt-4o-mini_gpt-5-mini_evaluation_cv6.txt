@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with front-end technologies such as JavaScript, HTML, and CSS, but lacks specific experience with React and modern FE frameworks mentioned in the job description. They possess strong collaboration skills and experience with testing and automation, aligning with several requirements. Overall, they are a strong candidate but fall short of being an exact match for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is currently a Project Manager and lacks recent, professional hands-on experience with the core requirements of React, TypeScript, and automated testing frameworks. While they have a background in web development and Agile, their technical experience is dated, with their last dedicated developer role ending in 2014. Key requirements such as modern CSS tools, security protocols, and functional programming are not demonstrated in their professional history.

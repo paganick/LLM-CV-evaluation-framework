@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant industry experience and strong soft skills but lacks direct, explicit experience with the core technical stack. The cover letter does not mention key requirements like React, TypeScript, modern CSS tools, testing frameworks, or version control. While transferable skills are present, the absence of stated experience with the specific technologies listed in the job description is a significant gap.

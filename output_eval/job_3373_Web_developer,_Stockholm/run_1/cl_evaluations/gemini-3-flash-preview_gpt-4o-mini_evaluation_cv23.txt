@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core requirements, specifically highlighting React, automated testing, and clean code practices. However, they fail to mention proficiency in TypeScript or Git, and their experience relies heavily on a background in engineering labs rather than dedicated front-end development. While they hit most technical keywords, the absence of specific modern testing libraries like Jest or Cypress and functional programming knowledge makes them a strong but not perfect match.

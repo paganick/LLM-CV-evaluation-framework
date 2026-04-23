@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required technologies, specifically React, TypeScript, and modern automated testing frameworks like Jest or Cypress. Their background is heavily centered on legacy .NET environments and jQuery, which does not align with the modern frontend stack and functional programming requirements requested. Additionally, the candidate's professional experience is not current, with the last relevant role ending in 2016.

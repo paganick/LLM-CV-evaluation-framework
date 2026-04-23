@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate possesses no professional experience or demonstrated technical proficiency in the required stack, specifically JavaScript, TypeScript, and React. While they have extensive experience in civil engineering and project management, they are entirely unqualified for a technical frontend role due to a complete lack of industry-relevant skills and hands-on development history. The cover letter fails to address the specific technical criteria outlined in the job description, such as testing frameworks, security knowledge, or CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the primary required stack, specifically React and TypeScript, and explicitly states a need to learn the NodeJS ecosystem and functional programming. While they have foundational knowledge of JavaScript and Agile processes, their background is more aligned with data analytics and ASP.NET rather than modern front-end engineering. Furthermore, the application fails to demonstrate proficiency in web security or the specific automated testing frameworks requested in the job description.

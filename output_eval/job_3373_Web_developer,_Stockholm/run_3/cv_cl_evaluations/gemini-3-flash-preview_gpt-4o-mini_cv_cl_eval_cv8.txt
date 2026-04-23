@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware and electronics test engineer with no professional experience or documented technical proficiency in JavaScript, TypeScript, or modern frontend frameworks like React. While the cover letter claims familiarity with the required tech stack, the resume focuses exclusively on circuit design, hardware troubleshooting, and manufacturing processes. This profile represents a complete mismatch for a software-focused Frontend Developer role.

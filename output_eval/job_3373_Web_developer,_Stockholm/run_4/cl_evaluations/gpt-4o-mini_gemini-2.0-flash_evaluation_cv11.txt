@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in manual and automation testing but lacks direct experience with modern front-end frameworks beyond a basic eagerness to learn React. They do not mention familiarity with essential tools and frameworks outlined in the job description, such as TypeScript, Jest, or modern CSS tools. While they have a strong background in testing, they do not fully meet the expectations for the front-end developer role.

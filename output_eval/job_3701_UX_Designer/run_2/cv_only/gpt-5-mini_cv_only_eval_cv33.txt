@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior MDM architect with extensive backend and integration experience but has no demonstrated UX design experience (no Figma, no prototyping, no UI design system ownership). There is minimal evidence of user research, workshop facilitation, or translating user needs into UX requirements, so they do not meet the core requirements for this UX Designer role.

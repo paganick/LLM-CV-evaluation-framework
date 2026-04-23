@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate brings deep product management and domain experience in online video but provides no demonstrable hands‑on frontend engineering experience (React, TypeScript/JavaScript coding, testing frameworks, NodeJS ecosystem, CI/CD, AWS/Terraform) on the resume. The cover letter's claims about technical skills are unsupported by concrete engineering roles, repositories, or projects. As a result, they are not qualified for a hands‑on frontend developer role despite relevant industry knowledge.

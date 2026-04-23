@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in administration and the arts, which does not align closely with the specific front-end development skills required for the position. While they possess some knowledge of HTML and web design, the resume lacks direct experience with JavaScript, TypeScript, modern front-end frameworks (specifically React), and the testing methodologies outlined in the job description. The candidate demonstrates transferable skills in project management and collaboration but lacks the core technical competencies necessary for this role.

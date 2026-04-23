@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a relevant industry but lacks the specific, required technical skills. The job description demands proficiency in JavaScript/TypeScript and React, which the candidate explicitly does not have, instead listing outdated technologies like Dot Net Nuke and SQL. While their collaborative and communication skills are a good cultural fit, the core technical mismatch is too significant for the role.

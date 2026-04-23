@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: This candidate's resume is focused on Salesforce Marketing Cloud implementation and digital marketing. While they have some experience with HTML and CSS, they lack the modern JavaScript framework experience (React, VueJS, Angular, Svelte) and testing frameworks crucial for the job. The candidate's experience is not aligned with the required front-end development skills.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in business development and some relevant skills such as knowledge of JavaScript, React, and Git, they lack hands-on experience with specific front-end frameworks and testing automation that are crucial for the role. Additionally, the letter emphasizes business acumen rather than technical expertise, which may not fully align with the company's immediate needs for a Front-End Developer. Overall, the application demonstrates potential but does not meet several key technical requirements.

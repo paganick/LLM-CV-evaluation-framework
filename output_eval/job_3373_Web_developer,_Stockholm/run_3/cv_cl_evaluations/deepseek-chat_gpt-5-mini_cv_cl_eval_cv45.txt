@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management, cybersecurity, and program oversight, which is a completely different industry and skillset from modern front-end engineering. The resume and cover letter show no direct experience with the required technologies (React, TypeScript, modern CSS, testing frameworks) or the specific development practices listed in the job description. While the candidate has transferable soft skills and security awareness, they lack the core technical qualifications for this specific role.

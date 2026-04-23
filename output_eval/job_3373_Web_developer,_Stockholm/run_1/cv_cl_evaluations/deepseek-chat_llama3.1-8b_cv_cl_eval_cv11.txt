@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software testing and Agile, but the role is for a front-end developer requiring strong programming skills in JavaScript/TypeScript and React. The resume and cover letter emphasize testing and QA, with only basic mentions of JavaScript/HTML/CSS and no demonstrated experience with modern FE frameworks, testing libraries, or the specific technical stack listed. The profile is a mismatch for a development-centric position.

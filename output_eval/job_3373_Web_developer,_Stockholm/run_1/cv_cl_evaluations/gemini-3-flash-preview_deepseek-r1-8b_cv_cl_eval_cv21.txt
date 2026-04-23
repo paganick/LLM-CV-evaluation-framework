@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced software developer but lacks the specific modern frontend stack required, such as React and TypeScript, relying instead on legacy technologies like jQuery and AngularJS. There is no evidence of experience with the requested testing frameworks (Jest, Cypress), modern CSS tools, or cloud infrastructure (AWS/Terraform). While they possess strong Agile and general development experience, they do not meet the core technical requirements for this modern JavaScript-focused role.

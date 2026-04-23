@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a broad IT background but lacks specific, in-depth experience with modern FE frameworks, particularly React, which is the primary framework used by the company. While they mention familiarity with JavaScript, HTML, and CSS, the resume focuses more on general IT consulting and system administration. The cover letter attempts to address this gap, but the resume doesn't provide concrete evidence of recent, hands-on experience with the required technologies.

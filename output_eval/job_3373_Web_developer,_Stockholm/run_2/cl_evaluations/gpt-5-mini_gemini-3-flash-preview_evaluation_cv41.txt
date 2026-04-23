@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant systems/IT experience, security certification, and familiarity with NodeJS, testing frameworks, and front-end technologies, which shows potential for the role. However, the cover letter lacks concrete, demonstrated experience with React in production, Git/GitHub workflows, CI/CD, linters/formatters, and cloud/infra tools (AWS/Terraform) required by the job. Given the gaps between claimed familiarity and proven hands-on experience in core modern frontend areas, this is a relevant but not fully qualified match.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the company's primary tech stack, specifically React and TypeScript, which are core requirements. While they demonstrate foundational knowledge in testing and Agile, they omit essential qualifications such as web security (OWASP/CORS) and functional programming. Their status as a former intern and their stated need to learn React make them an under-qualified match for a role requiring immediate proficiency in these specific technologies.

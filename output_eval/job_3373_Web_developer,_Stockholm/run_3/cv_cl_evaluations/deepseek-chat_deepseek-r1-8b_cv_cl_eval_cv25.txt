@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design and print production, which is the wrong industry for a front-end engineering role requiring deep JavaScript, React, and test automation expertise. The resume and cover letter mention only basic HTML/CSS and SASS, with no evidence of professional experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical requirements from the job description. The application demonstrates a fundamental misunderstanding of the role's required skill set.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in React and test automation, they explicitly lack professional experience with TypeScript, which is listed as a primary requirement. Their testing background is heavily focused on Selenium and Java-based frameworks rather than the modern JavaScript testing suite (Jest, Cypress, TestCafe) requested. Additionally, the candidate fails to demonstrate familiarity with functional programming or the specific web security standards mentioned in the job description.

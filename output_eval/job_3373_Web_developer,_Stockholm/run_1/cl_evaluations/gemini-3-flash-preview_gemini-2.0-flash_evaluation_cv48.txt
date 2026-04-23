@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified for this role as they lack any professional experience in JavaScript, TypeScript, or modern front-end frameworks like React. Their 12-year background in IT support and system administration does not satisfy the requirements for hands-on software development, testing automation, or CI/CD. The cover letter frames the position as a learning opportunity rather than demonstrating the specialized technical expertise mandated by the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on C# and ASP.NET, while the job description emphasizes JavaScript, React, and related front-end technologies. While the candidate mentions an interest in modern JavaScript frameworks, there's no demonstrable experience in their stated core expertise. The lack of direct experience with the technologies outlined in the job description makes them a weak match.

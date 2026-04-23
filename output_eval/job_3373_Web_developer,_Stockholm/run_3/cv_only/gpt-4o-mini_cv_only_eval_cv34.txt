@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital marketing and software implementation but lacks core technical skills specific to the job description, such as JavaScript, TypeScript, React, and relevant testing frameworks. While they have experience with HTML and CSS, they do not demonstrate the necessary expertise in modern frontend frameworks or CI/CD tools, resulting in only partial relevancy to the position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in technologies like JavaScript, TypeScript, HTML, and experience with testing frameworks which aligns well with the job description. However, while they mention familiarity with modern frameworks and CI/CD tools, there's no explicit mention of experience with Git and repo hosting services like GitHub, nor a mention of security knowledge on the web, which are also crucial for the role.

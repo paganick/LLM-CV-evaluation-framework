@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has deep visual and graphic design experience and some basic HTML/web maintenance history, but there is no evidence of core front-end development skills required for this role—no JavaScript/TypeScript, React, testing, Git, Node/npm, modern CSS tooling, or web security knowledge. The gap is substantial relative to the job's technical requirements, so they would need extensive upskilling before being able to perform this Front-End Developer role. The profile fits design work, not the modern engineering expectations outlined.

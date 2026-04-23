@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong testing background but lacks demonstrable experience with React, TypeScript, and modern front-end testing frameworks (Jest, Cypress, etc.) as required. While the candidate expresses eagerness to learn, the cover letter highlights a background primarily in manual and automated testing for web and mobile applications, which isn't a direct match for the front-end development focus outlined in the job description. The candidate does not fulfill the essential requirements of the role.

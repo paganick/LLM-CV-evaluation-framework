@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary and most recent experience is in Java backend development and test automation, not modern front-end development. While they have listed ReactJS and relevant tools, the experience appears dated (AngularJS, BackboneJS) and not the primary focus of their roles. They lack demonstrated, hands-on experience with the core requirements like TypeScript, modern React, and the specific testing frameworks (Jest, Cypress) and tooling (ESLint, Prettier, Node.js ecosystem) mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career transitioner who lacks the fundamental technical requirements, including proficiency in JavaScript, TypeScript, HTML/CSS, and testing frameworks. While the letter highlights strong soft skills and business experience, it provides no evidence of professional experience or technical projects involving the modern front-end stack required. Consequently, the applicant is unqualified for a professional developer role based on the specific technical demands of the job description.

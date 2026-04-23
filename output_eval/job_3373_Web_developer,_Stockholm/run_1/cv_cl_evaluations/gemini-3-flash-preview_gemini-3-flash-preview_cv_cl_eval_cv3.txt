@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience in web development and possesses an outdated technical toolkit (Flash, ActionScript, XHTML) that does not align with the modern stack required. There is no demonstrated experience with React, TypeScript, modern testing frameworks, or cloud infrastructure as specified in the job description. While the candidate has a degree, the technologies listed are legacy-based and do not meet the standards for a modern frontend engineering role.

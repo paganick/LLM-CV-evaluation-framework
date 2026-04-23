@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT project management and a computer science degree, which provides some relevant technical knowledge. However, there is no direct experience with frontend technologies such as JavaScript, TypeScript, or React, along with a lack of familiarity with modern frontend frameworks and testing automation, making them less suitable for the frontend developer position.

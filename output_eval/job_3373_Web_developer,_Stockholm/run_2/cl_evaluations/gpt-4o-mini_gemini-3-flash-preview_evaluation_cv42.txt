@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and technical initiatives but lacks direct hands-on experience with core frontend technologies specified in the job description, such as JavaScript, React, and modern CSS tools. While they demonstrate a strong understanding of user experience and collaboration, they do not clearly address key technical requirements like testing frameworks or familiarity with tools explicitly mentioned in the job details.

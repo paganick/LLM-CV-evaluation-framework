@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate explicitly admits to having no production-level experience with the required modern tech stack, including JavaScript, TypeScript, and React. Their background is in graphic design and visual merchandising rather than software engineering, and they cite obsolete tools like Adobe Flash and Dreamweaver as their primary technical exposure. This application lacks all mandatory skills regarding testing, web security, and version control, rendering the candidate completely unqualified for a developer role.

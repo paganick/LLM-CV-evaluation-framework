@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align well with the frontend focus of the job. While they express interest in transitioning to frontend and learning React, they lack direct experience with JavaScript, TypeScript, modern FE frameworks, testing frameworks, and modern CSS tools mentioned in the job description. The cover letter does acknowledge the gap in skills.

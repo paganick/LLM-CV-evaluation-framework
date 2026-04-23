@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional background is in administrative management and the performing arts rather than software engineering. They lack any experience with the required tech stack, including JavaScript, TypeScript, React, and automated testing frameworks. The mention of "html" and "web-design" in a non-technical context does not meet the standards for a professional developer role.

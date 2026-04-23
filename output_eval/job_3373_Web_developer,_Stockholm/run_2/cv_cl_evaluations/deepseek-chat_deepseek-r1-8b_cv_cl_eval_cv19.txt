@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software engineering, and they lack the required professional experience with JavaScript, TypeScript, React, testing frameworks, and the other core technologies listed. While they mention HTML/CSS coursework and a passion for clean code, this does not meet the technical requirements for a frontend developer role. The application demonstrates a significant industry and skillset mismatch.

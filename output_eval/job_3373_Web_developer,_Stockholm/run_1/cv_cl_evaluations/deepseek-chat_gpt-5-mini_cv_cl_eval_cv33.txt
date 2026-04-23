@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and training, with no demonstrated professional experience in software development. The job requires hands-on expertise with JavaScript, TypeScript, React, testing frameworks, and modern web development tools, none of which are present in the resume. While the cover letter expresses eagerness to learn, it does not compensate for the complete lack of the required technical skills and experience.

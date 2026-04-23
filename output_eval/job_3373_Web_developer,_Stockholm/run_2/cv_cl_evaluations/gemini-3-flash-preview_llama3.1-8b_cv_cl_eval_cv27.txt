@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, with a background rooted in fine arts, choreography, and administrative management rather than software engineering. They lack professional experience with JavaScript, TypeScript, React, and testing frameworks, which are fundamental requirements for this role. The resume identifies only basic HTML and web design as technical skills, failing to meet any of the specific engineering or DevOps criteria outlined in the job description.

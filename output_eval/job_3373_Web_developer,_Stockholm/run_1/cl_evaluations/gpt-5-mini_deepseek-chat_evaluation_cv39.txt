@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong product design and visual skills plus some basic HTML experience and clear motivation to learn, which are relevant but do not demonstrate the required hands-on expertise in JavaScript/TypeScript, React, modern CSS tooling, testing/automation, Node/npm, Git workflows, and web security. The cover letter indicates intent rather than proven technical competency needed to contribute immediately to your stack. Suitable for a transition or junior role with significant upskilling, but not a strong match for this position as described.

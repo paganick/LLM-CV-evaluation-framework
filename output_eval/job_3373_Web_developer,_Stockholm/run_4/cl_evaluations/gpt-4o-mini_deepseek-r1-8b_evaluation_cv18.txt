@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in information technology and web development but lacks specific skills in modern frontend frameworks like React, as well as testing frameworks and tools outlined in the job description. While they demonstrate a solid foundation in JavaScript, HTML, and CSS, the absence of direct experience with Agile teams, CI/CD tools, and security practices relevant to web development limits their match for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates strong transferable soft skills and proficiency in HTML and CSS, they lack the required professional experience in JavaScript and React, which are fundamental to the role. Key technical requirements such as testing automation, Git, and security protocols are not addressed as current competencies, but rather as areas of interest. Consequently, the applicant remains a junior-level prospect who does not meet the "hands-on experience" threshold specified in the job description.

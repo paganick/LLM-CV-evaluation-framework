@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the required professional hands-on experience with the core technical stack, explicitly stating that their skills in JavaScript, TypeScript, and frontend frameworks are still developing. While they possess a strong background in cybersecurity and IT infrastructure, they do not meet the primary requirement for demonstrated expertise in frontend development or testing. Their profile suggests a high training overhead that is not suitable for a role requiring immediate technical proficiency.

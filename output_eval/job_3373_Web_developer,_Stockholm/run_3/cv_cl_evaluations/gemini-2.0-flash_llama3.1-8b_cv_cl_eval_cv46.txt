@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with the technologies mentioned in the job description (JavaScript, HTML, testing frameworks, CI/CD tools), but the resume lacks concrete examples of using modern FE frameworks like React. The experience is dated (2017), and the roles held (Consultant, DBA) don't directly align with a front-end development position. While the cover letter expresses interest, it relies on generalized statements rather than specific accomplishments in front-end development.

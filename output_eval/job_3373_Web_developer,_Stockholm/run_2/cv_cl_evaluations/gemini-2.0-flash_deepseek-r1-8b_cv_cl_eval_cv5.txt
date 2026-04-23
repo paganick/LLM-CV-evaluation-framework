@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in mainframe development, which is not the focus of the job description. While they express a willingness to learn modern web technologies, there is a lack of demonstrable experience in JavaScript, React, or related front-end frameworks. The candidate's background is in a relevant industry (banking), but their skillset doesn't align with the requirements.

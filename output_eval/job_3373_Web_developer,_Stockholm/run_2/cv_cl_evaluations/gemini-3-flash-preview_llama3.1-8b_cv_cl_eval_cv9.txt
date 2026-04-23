@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java backend developer whose professional experience, which appears to end in 2015, focuses on legacy systems like SOA, SOAP, and Spring. While the cover letter claims familiarity with React, TypeScript, and modern testing tools, the resume provides zero evidence of professional application or hands-on projects involving these core frontend requirements. There is a fundamental mismatch between the candidate's backend-heavy background and the modern frontend stack required for this role.

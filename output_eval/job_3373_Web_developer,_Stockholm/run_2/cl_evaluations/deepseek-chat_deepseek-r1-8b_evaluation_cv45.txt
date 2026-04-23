@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required technologies (HTML, CSS, JavaScript, Git, React, OWASP, Agile). However, the cover letter is overly focused on backend and systems architecture, failing to provide concrete, hands-on examples of modern frontend development, specific testing frameworks, or the other key tools listed (TypeScript, modern CSS tools, linters, CI/CD). The skills are stated but not convincingly demonstrated for a specialized frontend role.

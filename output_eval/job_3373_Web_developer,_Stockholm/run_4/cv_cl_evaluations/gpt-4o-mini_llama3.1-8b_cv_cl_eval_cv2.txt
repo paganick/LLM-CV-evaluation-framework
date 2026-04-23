@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial experience in Java/J2EE technologies but lacks direct experience with modern frontend technologies such as JavaScript, TypeScript, and frameworks like React, which are critical for the role. Additionally, there is no mention of hands-on experience with testing frameworks or concepts related to web security. While they have Agile experience, their skillset does not meet a significant portion of the job requirements.

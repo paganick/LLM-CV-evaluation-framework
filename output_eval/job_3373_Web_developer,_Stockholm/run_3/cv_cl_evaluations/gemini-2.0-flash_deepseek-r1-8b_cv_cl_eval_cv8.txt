@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and electronics testing, which doesn't align well with the frontend web development focus of the job description. While they express interest in web security and modern testing frameworks, their resume lacks concrete experience with the specific technologies mentioned (React, TypeScript, modern CSS tools, NodeJS ecosystem). Their skills appear to be more geared towards traditional test engineering roles.

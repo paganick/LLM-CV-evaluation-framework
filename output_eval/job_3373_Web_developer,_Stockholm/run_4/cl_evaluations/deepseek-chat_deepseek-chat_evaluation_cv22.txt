@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is transitioning from a non-technical field and lacks direct, professional front-end development experience with the required technologies like React and TypeScript. While they demonstrate foundational knowledge, academic projects, and strong transferable soft skills, they do not meet the core requirement for hands-on experience with modern front-end frameworks and testing as specified in the job description. Their potential is noted, but they are not currently a strong technical match for the role.

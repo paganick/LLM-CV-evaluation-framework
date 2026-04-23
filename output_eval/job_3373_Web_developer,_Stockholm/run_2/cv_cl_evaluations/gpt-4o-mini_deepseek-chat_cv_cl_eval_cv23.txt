@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in engineering and testing, but lacks direct experience with modern front-end technologies such as React, TypeScript, and CSS frameworks. Their familiarity with JavaScript is noted, yet they do not demonstrate proficiency in critical areas such as testing frameworks or security knowledge relevant to web applications. While they possess transferable skills, they do not meet the specific technical requirements of the position.

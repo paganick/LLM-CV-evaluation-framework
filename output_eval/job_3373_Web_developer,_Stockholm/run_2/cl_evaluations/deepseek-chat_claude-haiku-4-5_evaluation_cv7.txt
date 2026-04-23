@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not software development, and they lack any demonstrated experience with the core technologies listed in the job description (JavaScript, TypeScript, React, Git, testing). While they show a willingness to learn and possess transferable soft skills, they do not meet the specific technical requirements for a frontend developer role. This places them in the category of relevant industry but lacking the necessary specific experience.

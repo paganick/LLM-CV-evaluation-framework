@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core professional experience is in Java/JEE backend development, not modern frontend frameworks like React. While they mention JavaScript and testing, the resume lacks specific, hands-on experience with the required technologies (React, TypeScript, modern CSS tools, NodeJS ecosystem). Their enthusiasm for learning is noted, but they lack the proven, recent frontend development skills required for the role.

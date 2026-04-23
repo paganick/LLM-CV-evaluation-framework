@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in digital advertising and project management, with some relevant skills like HTML, CSS, Git, and basic security knowledge. However, the cover letter focuses heavily on Salesforce Marketing Cloud, which is not directly relevant to the Javascript-focused job description. The candidate mentions React and test automation, but lacks evidence of proficiency with Javascript and Typescript.

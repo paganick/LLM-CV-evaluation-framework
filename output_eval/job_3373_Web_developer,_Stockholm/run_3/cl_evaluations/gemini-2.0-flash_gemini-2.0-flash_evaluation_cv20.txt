@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions .NET technologies more prominently than the JavaScript stack required. While they state a solid foundation in core web languages, they lack explicit mention of TypeScript or specific modern front-end frameworks like React, which is heavily favored in the job description. The cover letter focuses more on back-end experience and general SDLC participation, rather than showcasing strong front-end expertise.

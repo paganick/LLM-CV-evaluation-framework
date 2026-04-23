@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience and some front-end skills (JavaScript, HTML/CSS, AngularJS), plus testing frameworks and CI/CD familiarity which align with parts of the job. However they lack explicit experience with React and TypeScript (the team's primary stack), Node/npm/Yarn/Express, functional tools like Ramda, and explicit Git/GitHub, web security knowledge, and AWS/Terraform — all listed requirements. Given the partial fit but missing several core technologies for the role, a mid-low score is appropriate.

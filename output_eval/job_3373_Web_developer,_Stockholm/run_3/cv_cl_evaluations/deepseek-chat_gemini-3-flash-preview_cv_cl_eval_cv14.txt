@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET, C#, and SharePoint, which is not aligned with the required modern React-based frontend stack. While they mention foundational web technologies and a willingness to learn, they lack direct, hands-on experience with React, TypeScript, modern testing frameworks, and the specific tools listed in the job description. Their background is relevant to web development but lacks the specific, required skills for this frontend engineering role.

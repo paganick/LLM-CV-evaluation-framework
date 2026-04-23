@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s 8.5 years of experience is almost entirely focused on legacy Java/J2EE technologies, lacking the required proficiency in React, TypeScript, and modern frontend ecosystems. They do not demonstrate hands-on experience with the specific testing frameworks, CI/CD tools, or cloud infrastructure (AWS/Terraform) essential for this role. While they possess solid software engineering fundamentals and Agile experience, the technical stack mismatch is too significant to fulfill the requirements.

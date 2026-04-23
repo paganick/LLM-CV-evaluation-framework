@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience with JavaScript, HTML, CSS, and ReactJS. However, the resume highlights Java and backend experience more prominently, and lacks depth in modern FE tools like Styled Components, NodeJS, and CI/CD tools specified in the job description. The candidate also doesn't showcase expertise in security on the Web (OWASP, CSP, CORS, OAuth).

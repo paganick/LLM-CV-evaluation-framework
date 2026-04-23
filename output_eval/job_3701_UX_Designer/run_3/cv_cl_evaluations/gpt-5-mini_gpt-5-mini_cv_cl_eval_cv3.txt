@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant visual design experience, hands-on HTML/CSS skills and client-facing collaboration, which align partially with the UX role. However they lack clear commercial UX-design experience, no demonstrated use of Figma or working in an Agile product environment, limited evidence of user research, prototyping for software, design system management, or mentoring a junior designer. Given the gap on core UX requirements and tooling, they are not yet a strong fit for this role.

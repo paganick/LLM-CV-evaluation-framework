@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development and IT project management, which may provide some relevant skills. However, they lack direct experience with essential frontend technologies such as JavaScript, React, and the specified testing frameworks. Their transition to frontend development appears ambitious, yet they do not meet key technical expectations outlined in the job description.

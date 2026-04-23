@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in front-end technologies such as JavaScript, HTML, and CSS, but lacks specific hands-on experience with important frameworks like React, which is used by the organization. Furthermore, while they mention familiarity with testing frameworks, they do not specify experience with those outlined in the job description such as Jest or Cypress. Overall, the candidate shows potential but does not fully meet the key requirements for the position.

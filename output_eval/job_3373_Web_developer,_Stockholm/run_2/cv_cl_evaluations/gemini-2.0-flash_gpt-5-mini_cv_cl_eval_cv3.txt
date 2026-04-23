@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses foundational web development skills (HTML, CSS, JavaScript) but lacks specific experience with modern FE frameworks like React (which the job description uses), TypeScript, and related testing/tooling. Their experience is primarily academic and with older technologies. While they express willingness to learn, the gap between their current skillset and the requirements is significant.

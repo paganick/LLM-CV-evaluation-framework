@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has general software development experience and basic JavaScript, HTML, CSS and Git exposure which is relevant, but their resume shows primarily PHP, Perl, Bash and legacy/backend work rather than modern front-end engineering. There is no concrete evidence of React, TypeScript, Node/npm, modern testing frameworks (Jest/Cypress/TestCafe), CI/CD, or web security practices listed, which are core requirements for this role. Overall, they are in the relevant industry but lack the specific, demonstrable front-end and tooling experience needed.

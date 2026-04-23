@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific experience with modern front-end frameworks like React, VueJS, Angular, or Svelte. There's no mention of testing frameworks, CI/CD tools, or cloud platforms like AWS, which are listed as desirable. The resume indicates familiarity with Node.js, but not with related tools like npm or Yarn, and lacks experience with functional programming.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant front-end and UX/design background and notes JavaScript/React exposure and strong collaboration skills, but the letter repeatedly frames many required technologies as interests to be mastered rather than demonstrated, hands-on experience. Key requirements—TypeScript, testing/test automation (Jest, E2E), concrete NodeJS/CI/CD experience, and AWS/Terraform—are not evidenced with examples or outcomes, so they lack the specific experience needed for a stronger match.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has 5+ years of experience and demonstrates strong alignment with several requirements (React, Node ecosystem, Jest, Ramda, modern CSS tools, and CI/CD). However, they do not explicitly show TypeScript, plain HTML/CSS proficiency, Git/GitHub usage, web security knowledge (OWASP/CSP/CORS/OAuth), or clear E2E/test-automation experience. These missing core items make them a relevant but incomplete match for the role.

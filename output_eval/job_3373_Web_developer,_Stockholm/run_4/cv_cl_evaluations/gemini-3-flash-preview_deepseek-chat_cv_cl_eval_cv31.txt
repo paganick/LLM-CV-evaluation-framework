@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely rooted in sales, hospitality, and administration, with zero documented experience in a software engineering role. While the cover letter claims technical proficiency, the resume provides no evidence of professional work, projects, or certifications involving React, TypeScript, or modern testing frameworks. Consequently, the applicant fails to meet the core technical requirements and lacks the necessary industry experience for this position.

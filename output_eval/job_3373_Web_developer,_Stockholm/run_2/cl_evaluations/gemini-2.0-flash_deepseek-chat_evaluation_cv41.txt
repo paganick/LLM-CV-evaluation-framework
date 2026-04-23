@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate attempts to bridge a gap between systems engineering and front-end, but the letter heavily leans on their systems background. While they mention relevant front-end skills, the depth of experience in React and related tools feels underdeveloped compared to the job description's requirements. The candidate demonstrates a general awareness, but lacks concrete examples that truly showcase their proficiency as a Front-End Developer.

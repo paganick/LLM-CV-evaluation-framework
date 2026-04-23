@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems administration and IT support, not front-end development. While they express interest in modern web technologies, their resume lacks concrete experience with JavaScript, React, or other front-end frameworks. The candidate also does not demonstrate experience with testing frameworks mentioned in the job description.

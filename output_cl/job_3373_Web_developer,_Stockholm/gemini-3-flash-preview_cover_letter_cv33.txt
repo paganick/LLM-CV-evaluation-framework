@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With over nine years of professional experience in high-stakes environments—ranging from strategic business banking to tech startup consulting—I offer a unique blend of technical curiosity and proven leadership. Your focus on React, TypeScript, and clean code aligns perfectly with my commitment to building scalable, user-centric solutions.
+
+In my recent role as a Business Banking Specialist, I exceeded sales goals by 794% and managed over $1.2 million in product sales through innovative engagement strategies. However, my most impactful work has been my eight years of consulting for tech and startup businesses. This experience allowed me to bridge the gap between business logic and technical execution. I understand that web security—including CSP, CORS, and OAuth—is not just a technical requirement but a fundamental component of building trust with users and partners.
+
+I am a strong collaborator who thrives in Agile environments. Having led cross-functional teams and trained over 600 employees on complex systems, I excel at communicating technical concepts to diverse stakeholders. This background makes me uniquely qualified to interact with external partners and other internal teams, ensuring that the frontend architecture supports the broader domain objectives. I am particularly eager to apply my project management skills to your development cycle, having previously directed over 100 events per year with a focus on KPI-driven results.
+
+My technical approach is fueled by a genuine passion for writing clean, maintainable code. I am deeply familiar with the NodeJS ecosystem and modern frontend tools like Styled Components and SASS. My experience with testing frameworks such as Jest and Cypress ensures that I prioritize reliability and automation in every deployment. Furthermore, I am enthusiastic about your use of functional programming with Ramda and your CI/CD workflows using CircleCI, as I value the efficiency and predictability of modern development pipelines.
+
+I am a lifelong learner eager to contribute to your team’s move away from Ruby and toward a more robust React-based architecture. Thank you for your time and consideration. I look forward to the possibility of discussing how my background in tech consulting and my dedication to frontend excellence can benefit your organization.
+
+Sincerely, Alexis

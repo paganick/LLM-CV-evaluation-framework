@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and chemistry, lacking direct front-end development experience. While they express interest in learning the required technologies, the resume does not demonstrate practical experience with JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), testing, or related tools. Their skills are misaligned with the core requirements of the job description.

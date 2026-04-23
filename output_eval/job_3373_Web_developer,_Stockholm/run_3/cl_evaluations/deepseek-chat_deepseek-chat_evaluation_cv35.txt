@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant technical experience in HTML, CSS, JavaScript, APIs, and Agile collaboration, which aligns with some job requirements. However, the cover letter critically lacks any mention of the specific front-end technologies required, such as React, TypeScript, modern testing frameworks, or version control tools like Git. The experience is presented through a marketing automation lens, not a dedicated software development context, creating significant doubt about direct, hands-on proficiency in the core tech stack.

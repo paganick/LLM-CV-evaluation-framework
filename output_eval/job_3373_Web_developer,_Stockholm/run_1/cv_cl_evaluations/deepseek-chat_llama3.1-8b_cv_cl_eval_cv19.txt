@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and unrelated technical fields, not professional front-end software development. The resume and cover letter show no practical experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technologies listed in the job description. While they mention some relevant terms in the cover letter, there is no evidence of hands-on application, making them completely unqualified for this engineering role.

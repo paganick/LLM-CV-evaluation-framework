@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience and strong general engineering discipline, but lacks the specific modern front-end skills required. Their experience is heavily centered on mainframe, enterprise back-end, and legacy tools, with no demonstrated hands-on experience in React, TypeScript, modern CSS, or the Node.js ecosystem listed in the job description. While they express enthusiasm for learning, the role requires existing proficiency, making them a candidate who needs significant upskilling.

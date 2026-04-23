@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume does not demonstrate the required technical skills in JavaScript, TypeScript, modern FE frameworks, or related technologies. Their experience is primarily in administrative and artistic roles, lacking the software development background necessary for this position. While they list HTML under skills, it's insufficient compared to the job description's core requirements.

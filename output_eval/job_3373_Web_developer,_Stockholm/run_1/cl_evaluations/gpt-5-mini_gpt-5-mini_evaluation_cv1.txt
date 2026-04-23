@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate has relevant frontend and strong test-automation experience, with hands-on React, JavaScript, HTML/CSS/SASS, Node/npm and CI exposure — matching several core requirements. However, they lack explicit TypeScript experience and do not demonstrate familiarity with the modern frontend testing tools (Jest/Cypress/TestCafe), Styled Components, linters/formatters (ESLint/Prettier), or the specific CI/CD and infra tools (CircleCI/Terraform) and functional libraries (Ramda) called out, so notable gaps would require ramp-up.

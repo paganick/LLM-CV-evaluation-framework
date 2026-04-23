@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in operations and finance but lacks direct experience with frontend development and technologies specified in the job description, such as JavaScript, React, and modern CSS tools. While they demonstrate strong project management skills and have implemented some technical solutions, they do not meet the essential requirements for a frontend development role.

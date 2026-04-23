@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in web design, HTML, CSS, and JavaScript, but lacks explicit mention of modern FE frameworks like React (beyond expressing enthusiasm). There is some indication of testing and CI/CD familiarity, but not at the depth expected for a strong match. The candidate shows project management and collaboration skills, but the technical skillset needs more specific alignment.

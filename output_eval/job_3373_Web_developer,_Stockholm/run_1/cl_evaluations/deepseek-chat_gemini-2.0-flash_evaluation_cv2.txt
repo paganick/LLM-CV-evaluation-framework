@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, hands-on frontend skills required. They explicitly state their primary focus has been on the backend and admit their experience with key frontend technologies like testing frameworks and CSS tools is "still developing." While they show eagerness to learn React, the job demands proven, current expertise in the listed modern FE stack, which they do not demonstrate.

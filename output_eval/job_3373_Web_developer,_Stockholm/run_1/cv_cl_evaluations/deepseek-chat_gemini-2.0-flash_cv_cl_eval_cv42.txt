@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's 20-year background is exclusively in finance and operations management within publishing/non-profit sectors, with zero mention of any front-end development skills, tools, or frameworks. The cover letter attempts to argue for transferable soft skills but provides no evidence of technical proficiency in JavaScript, React, testing, or any other core requirements from the job description. This is a severe mismatch for a technical front-end developer role.

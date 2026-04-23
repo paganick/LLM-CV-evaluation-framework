@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET and SharePoint developer whose experience is centered on legacy technologies like jQuery and ASP.NET MVC rather than the modern frontend stack required. They lack any professional experience with React, TypeScript, or automated testing frameworks such as Jest or Cypress. While the candidate has relevant software engineering experience, they do not possess the specific modern frontend or cloud infrastructure skills mandated by the job description.

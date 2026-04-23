@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience in coding HTML and CSS, and experience in quality assurance and testing, but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React. Their background in digital marketing and Salesforce Marketing Cloud does not align well with the technical focus of the role. Overall, while there are transferable skills, the specific requirements of the job are not met sufficiently.

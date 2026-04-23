@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, with limited direct frontend experience. While they express enthusiasm and highlight transferable skills, they lack hands-on experience with React, testing frameworks, and modern CSS tools. The cover letter relies heavily on potential and transferable skills rather than demonstrable frontend development proficiency.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in computer engineering and technical support, demonstrating analytical and debugging skills applicable to frontend development. However, they lack direct experience with modern frontend frameworks like React, and specific tools mentioned in the job description, such as Jest and CI/CD tools. Their knowledge of web security is a plus, but overall, they do not fully meet the outlined requirements for a strong frontend developer.

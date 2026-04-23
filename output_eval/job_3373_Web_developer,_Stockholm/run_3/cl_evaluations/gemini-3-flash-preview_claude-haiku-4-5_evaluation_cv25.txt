@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from graphic design and lacks the core technical requirements of the role, including proficiency in JavaScript, TypeScript, and React. While they possess relevant industry experience in visual design, they do not currently have the hands-on experience with testing, security protocols, or modern development workflows requested in the job description. This profile represents an aspirational career-changer rather than a qualified developer ready to contribute to a production environment.

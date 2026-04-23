@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT industry experience and demonstrates strong software engineering principles, but their professional background is almost exclusively in Java/JEE back-end development, not modern front-end technologies. The job requires hands-on expertise with React, TypeScript, and modern CSS tools, which the candidate lacks and only expresses an interest in learning. While they have some tangential experience with Agile, Git, and OAuth, the core technical requirements for the front-end role are not met.

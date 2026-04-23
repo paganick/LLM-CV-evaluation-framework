@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front-End Developer position, as the intersection of design and technology has always been my passion. With over 30 years of experience in graphic design, product design, and web development, I possess a unique blend of creativity and technical skill that aligns perfectly with your requirements.
+
+I have significant experience in HTML and CSS, having contributed to large E-Commerce website development and maintenance. My background in graphic design not only allows me to create visually appealing websites but also ensures I adhere to modern design principles. Although my primary expertise lies in design, I have a working understanding of JavaScript and CSS preprocessors like SASS, which I have utilized to enhance website functionality and aesthetics.
+
+Having collaborated in various team settings, I thrive in Agile environments and value strong collaboration with cross-functional teams. I am comfortable interfacing with external partners and have a keen interest in understanding the full domain of projects to contribute meaningfully beyond my immediate skills.
+
+I appreciate the importance of clean, maintainable code and have utilized tools like ESLint and Prettier to uphold coding standards. While my experience with testing frameworks is limited, I have employed test-driven approaches in my design work, and I am eager to expand my proficiency in testing and test automation frameworks such as Jest and Cypress to ensure a reliable user experience.
+
+My commitment to continuous learning keeps me updated with the latest trends and technologies in web development, including modern CSS tools like Styled Components. Although my experience with Node.js and AWS is foundational, I am enthusiastic about deepening my knowledge in these areas.
+
+I am excited about the possibility of contributing my creative vision and technical skills to your team and look forward to the opportunity to discuss how I can support your innovative projects.
+
+Sincerely, Alexis

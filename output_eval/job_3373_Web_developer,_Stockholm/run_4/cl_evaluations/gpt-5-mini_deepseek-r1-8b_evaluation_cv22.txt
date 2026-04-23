@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows solid backend/database strengths (SQL, MySQL, Java, J2EE) and some familiarity with Git and Agile, but lacks core front-end qualifications required by the role: hands-on JavaScript/TypeScript and React experience. They also do not demonstrate required experience with testing/test automation, modern CSS tools, Node.js/npm ecosystem, CI/CD, or AWS/Terraform; willingness to learn is noted but insufficient for this front-end-focused position.

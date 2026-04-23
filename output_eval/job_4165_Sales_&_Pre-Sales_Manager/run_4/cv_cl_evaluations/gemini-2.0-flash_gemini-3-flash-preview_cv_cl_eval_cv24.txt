@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates sales experience, particularly in financial services, it's not directly relevant to digital solutions in banking, insurance, utilities, telco, or retail as specified. The resume lacks explicit experience with Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research). Although they mention some technical proficiency, it doesn't align with the needed digital transformation focus.

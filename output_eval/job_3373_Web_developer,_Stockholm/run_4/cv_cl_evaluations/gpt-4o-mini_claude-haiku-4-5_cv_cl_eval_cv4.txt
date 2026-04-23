@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with JavaScript, HTML, and CSS, along with a solid understanding of API integration, which is crucial for the role. However, they lack specific experience with modern front-end frameworks like React, and there is no clear indication of familiarity with testing frameworks specifically mentioned in the job description. While they demonstrate a commitment to clean code and collaborative work in an Agile environment, the absence of hands-on experience in all required tools and practices limits their fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in electronics and lab testing, not frontend development. While they express interest and some familiarity with JavaScript, they lack the required experience with modern FE frameworks like React, TypeScript, and modern CSS tools. Their testing experience is relevant, but not specific to the frontend technologies listed in the job description.

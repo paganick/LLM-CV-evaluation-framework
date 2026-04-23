@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified, lacking professional experience in software development and missing nearly all core technical requirements including JavaScript, TypeScript, and React. Their background is primarily in Graphic Design and manual trades, with only basic coursework in HTML/CSS. They do not possess the required experience with testing frameworks, backend ecosystems, or modern CI/CD pipelines specified in the job description.

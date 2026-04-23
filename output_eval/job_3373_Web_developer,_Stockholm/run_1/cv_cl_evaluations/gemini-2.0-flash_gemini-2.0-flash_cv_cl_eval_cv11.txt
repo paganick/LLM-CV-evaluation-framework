@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they express interest in React and possess some basic front-end skills (HTML, CSS, JavaScript), they lack demonstrable experience with modern FE frameworks and related tools outlined in the job description. The candidate's resume focuses heavily on testing methodologies rather than front-end development skills.

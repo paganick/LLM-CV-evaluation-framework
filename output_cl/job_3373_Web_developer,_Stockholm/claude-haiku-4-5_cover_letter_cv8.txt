@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position. With over 10 years of technical experience and a recent BSEE degree, I am excited to transition my expertise in test automation and quality engineering into frontend development.
+
+My background in test automation directly aligns with your emphasis on testing frameworks and hands-on experience. Throughout my career, I have developed Python scripts for test automation and worked extensively with test procedures and validation processes. This foundation has given me a deep appreciation for clean, testable code and comprehensive test coverage, including unit tests, integration tests, and end-to-end testing methodologies.
+
+My technical skill set demonstrates readiness for this role. I possess hands-on experience with Linux and multiple operating systems, which translates well to development environments. My proficiency in scripting, combined with my understanding of system architecture and networking fundamentals, provides a solid foundation for learning modern JavaScript, TypeScript, and React. I have consistently demonstrated the ability to quickly master new technologies and tools, as evidenced by my adaptability across various testing platforms and equipment throughout my career.
+
+Beyond technical skills, I am a natural collaborator who thrives in team-oriented environments. My extensive experience working directly with engineers, customers, and cross-functional departments has honed my communication abilities and appreciation for different perspectives. I have successfully coached technicians globally and collaborated with manufacturing, engineering, and quality departments, understanding that comprehensive domain knowledge enhances overall product quality. This collaborative mindset will serve me well in an Agile environment and when working with other teams.
+
+I am genuinely passionate about continuous improvement and staying current with industry trends. My Six Sigma certification and involvement in Lean manufacturing initiatives demonstrate my commitment to optimizing processes and delivering excellence. This same drive motivates me to keep abreast of the latest frontend technologies and best practices.
+
+I am particularly drawn to your company's commitment to clean code and modern development practices. My analytical background and attention to detail from years of debugging complex systems will translate into writing maintainable, well-tested code. I am eager to apply my problem-solving abilities, work ethic, and collaborative nature to contribute meaningfully to your team.
+
+Thank you for considering my application. I am confident that my foundation in testing, automation, and technical excellence, combined with my enthusiasm for learning modern frontend technologies, makes me a valuable addition to your development team.
+
+Sincerely, Alexis

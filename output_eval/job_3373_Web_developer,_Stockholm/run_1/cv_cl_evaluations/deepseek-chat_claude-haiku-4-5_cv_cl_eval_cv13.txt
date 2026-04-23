@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in technical project management, not hands-on frontend development. While they mention foundational knowledge of JavaScript and Angular, they lack proven, recent experience with the core React stack, modern testing frameworks, and specific tools like Styled Components or Ramda required for the role. Their background demonstrates relevant industry exposure and transferable skills, but they do not meet the specific technical proficiency and focused development experience outlined in the job description.

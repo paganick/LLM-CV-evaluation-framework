@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their background and experience are entirely in film production and media management rather than software engineering. They do not possess any of the required technical skills such as JavaScript, TypeScript, React, or hands-on experience with testing and CI/CD tools. While they have strong project management skills in the creative arts, they lack the necessary technical foundation for a front-end development position.

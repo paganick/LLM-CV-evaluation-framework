@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate meets core requirements (4 years UX experience, Agile delivery, user research, prototyping, workshops and mentoring) and demonstrates product delivery experience relevant to the role. However, they do not mention Figma or any HTML/CSS/JS exposure and give limited evidence of managing or continuously improving a UI Design System—skills listed as highly desirable. Given those gaps against the job’s preferred technical/tooling expectations, this is a strong but not perfect fit.

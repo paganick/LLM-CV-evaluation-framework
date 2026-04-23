@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in the wrong technology stack, focusing heavily on Java/J2EE back-end development. The job description requires expertise in modern front-end frameworks like React, TypeScript, and specific testing tools, which are not mentioned. While the candidate shows some alignment with soft skills and Agile methodology, the core technical requirements are not met.

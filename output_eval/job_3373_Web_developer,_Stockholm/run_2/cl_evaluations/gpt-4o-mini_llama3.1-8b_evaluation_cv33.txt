@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a significant background in sales and client engagement, they lack direct experience in the required technical skills such as specific front-end frameworks (React, supported), testing frameworks, and familiarity with modern CSS tools. Their enthusiasm for learning is noted, but the absence of substantive experience in software development and core technologies makes them only a partially relevant candidate.

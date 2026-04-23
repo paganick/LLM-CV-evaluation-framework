@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks the required professional experience in JavaScript, TypeScript, and React, explicitly stating they are currently "focusing on learning" these core technologies. They do not meet the "hands-on experience" requirement for testing frameworks or web security, and their background in data analytics does not compensate for the absence of a proven frontend portfolio. As a strict recruiter, a candidate still mastering the primary tools of the job description is considered unqualified for this specific technical role.

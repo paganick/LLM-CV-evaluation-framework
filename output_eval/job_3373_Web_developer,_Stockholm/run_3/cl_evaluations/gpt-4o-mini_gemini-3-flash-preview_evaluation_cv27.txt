@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web design and development, particularly with HTML and CSS, and shows familiarity with modern tools like React and CSS preprocessors. However, there is a notable lack of specific experience with testing frameworks, Git, and CI/CD tools, which are crucial for the Frontend Developer role. Additionally, the absence of direct mention of JavaScript and TypeScript limits their overall fit for this position.

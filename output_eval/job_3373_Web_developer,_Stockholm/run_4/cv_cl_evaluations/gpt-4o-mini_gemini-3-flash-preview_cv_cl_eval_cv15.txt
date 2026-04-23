@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development, specifically with JavaScript, HTML, and CSS, and showcases a successful project involving performance tuning and web applications. However, they lack specific hands-on experience with modern frontend frameworks such as React and testing automation tools mentioned in the job description. While they demonstrate foundational knowledge and a willingness to learn, further experience with React and the specific testing frameworks would strengthen their fit.

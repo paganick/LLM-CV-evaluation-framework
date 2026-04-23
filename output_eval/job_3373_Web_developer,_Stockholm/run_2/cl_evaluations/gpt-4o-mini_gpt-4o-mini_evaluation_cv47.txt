@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background and demonstrates some technical knowledge and experience in areas like HTML, CSS, and version control. However, they lack proficiency in essential requirements such as JavaScript, TypeScript, and modern front-end frameworks like React. Their experience primarily focuses on business development, which does not align closely with the technical skills needed for a front-end developer role.

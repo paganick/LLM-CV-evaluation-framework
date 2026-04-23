@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer and art educator who lacks the fundamental technical skills required for a modern Front End Developer role, such as JavaScript, TypeScript, and React. Their experience is centered on visual design tools like Adobe Creative Suite and Dreamweaver rather than software engineering, version control, or automated testing. While they possess extensive design expertise, they do not meet the professional coding requirements or industry experience specified in the job description.

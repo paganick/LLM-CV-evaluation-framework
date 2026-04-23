@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive general IT experience, the cover letter fails to address specific technical requirements such as TypeScript, automated testing (Jest/Cypress), and modern CSS tooling. The background leans heavily toward systems administration and project management rather than specialized modern front-end engineering. Crucial competencies in CI/CD, AWS, and the NodeJS ecosystem are entirely unmentioned, making the candidate appear dated despite their long career.

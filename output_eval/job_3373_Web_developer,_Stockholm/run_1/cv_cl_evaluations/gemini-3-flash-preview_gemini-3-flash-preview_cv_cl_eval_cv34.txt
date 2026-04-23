@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience with the required core technologies, including JavaScript, TypeScript, and React, which are fundamental to the role. Their background is centered on digital marketing and Salesforce implementation rather than front-end engineering, with no evidence of hands-on experience in automated testing, CI/CD, or modern CSS tools. While the candidate has basic HTML and CSS knowledge, they do not possess the software development lifecycle expertise necessary for this position.

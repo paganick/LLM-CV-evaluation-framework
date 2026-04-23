@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with expertise in SAS, Python, R, and statistical modeling—a completely different field from frontend web development. The resume contains zero evidence of JavaScript, TypeScript, HTML, CSS, React, or any frontend framework experience. The cover letter attempts to force a connection by claiming Python/R skills will enable work with React, which demonstrates a fundamental misunderstanding of the role. This candidate is in the wrong industry and lacks every core technical requirement for this frontend engineering position.

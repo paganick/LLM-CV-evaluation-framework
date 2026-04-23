@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their entire professional background is in marketing, public relations, and legal administration rather than software engineering. There is zero evidence of experience with JavaScript, React, TypeScript, or any of the required front-end development tools and testing frameworks. While the candidate expresses an interest in transitioning to a technical role, they currently possess no relevant industry experience or the necessary engineering skill set.

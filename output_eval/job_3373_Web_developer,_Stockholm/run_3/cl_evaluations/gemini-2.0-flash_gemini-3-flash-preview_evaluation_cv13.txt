@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate highlights front-end experience and relevant technologies like JavaScript, HTML, and CSS, the cover letter focuses heavily on project management skills, which aren't the primary focus of the job description. The letter mentions older frameworks like jQuery and Angular without explicitly stating proficiency in React, the framework the company uses. Although they mention testing experience, they fail to explicitly mention experience with the testing frameworks they use (Jest, TestCafe, Cypress etc).

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and art direction but lacks critical technical skills specific to the job description, such as proficiency with JavaScript, TypeScript, modern front-end frameworks (like React), and testing frameworks. While they have a basic understanding of HTML and CSS, their technical background does not align with the requirements for a front-end engineering role, which emphasizes coding and development skills.

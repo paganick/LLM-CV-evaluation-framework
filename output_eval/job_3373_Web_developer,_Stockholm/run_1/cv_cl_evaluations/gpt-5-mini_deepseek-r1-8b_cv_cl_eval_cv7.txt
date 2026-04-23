@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is firmly in graphic design with no demonstrated hands-on experience in JavaScript, TypeScript, React, frontend testing, Git, NodeJS, or the other technical skills listed in the job description. Their cover letter shows willingness to learn but does not provide evidence of the required technical competencies or relevant projects. They would require significant retraining before being considered for this engineering role.

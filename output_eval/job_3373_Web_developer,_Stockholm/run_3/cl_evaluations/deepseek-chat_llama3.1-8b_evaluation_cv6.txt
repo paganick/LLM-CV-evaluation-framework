@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on Drupal, PHP, and traditional web development, which does not align with the job's core requirements for modern frontend frameworks like React, TypeScript, and associated testing tools. While they demonstrate relevant soft skills and experience with Git, they lack any mention of the specified technologies, testing practices, or modern development ecosystem. This indicates a relevant industry background but a significant lack of the specific, required technical skills.

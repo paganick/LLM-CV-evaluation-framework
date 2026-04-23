@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a background in web development and related technologies like JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks mentioned in the job description, most notably React. While they express willingness to learn, the resume leans heavily towards older technologies and consulting, suggesting a weaker fit for a modern front-end development role. The cover letter attempts to bridge the gap, but the resume lacks concrete evidence of hands-on experience with the desired tech stack.

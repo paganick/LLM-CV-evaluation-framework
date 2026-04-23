@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in design and multimedia, not front-end development. While they mention a Computer Science degree and a willingness to learn React/TypeScript, they provide no demonstrable, hands-on experience with the core technologies (JavaScript, React, testing frameworks, Git) or methodologies (Agile, CI/CD) listed in the job description. Their skills are adjacent but not directly applicable to the technical requirements of the role.

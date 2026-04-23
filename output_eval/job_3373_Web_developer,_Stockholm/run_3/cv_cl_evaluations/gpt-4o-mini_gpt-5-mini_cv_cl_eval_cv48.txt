@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in IT support and infrastructure but lacks hands-on experience with front-end development technologies specifically required for the position, such as JavaScript, TypeScript, React, and modern CSS tools. While the candidate demonstrates a strong customer service and collaboration background, the absence of direct experience with testing frameworks and CI/CD tools further limits their fit for the role.

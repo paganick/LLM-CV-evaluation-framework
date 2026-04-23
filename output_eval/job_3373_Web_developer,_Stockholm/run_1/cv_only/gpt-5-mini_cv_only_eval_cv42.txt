@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects a 20-year career in finance and operations with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React or other modern frontend technologies, testing, NodeJS, or relevant tooling. This is a different industry and skill set, making the candidate unsuitable for the frontend engineering role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administrative, artistic, and managerial roles, lacking substantial evidence of professional frontend development experience. While the candidate mentions HTML and web design, there's a lack of concrete experience with modern FE frameworks like React, TypeScript, and testing frameworks. The resume and cover letter do not sufficiently demonstrate the required skills in JavaScript, CSS tools, and related technologies.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is attempting a career change and lacks direct frontend development experience. While they possess a technical foundation and some familiarity with JavaScript and HTML/CSS, they don't demonstrate sufficient proficiency in the specific technologies mentioned in the job description, especially React and TypeScript. The cover letter focuses more on transferable skills than concrete frontend expertise.

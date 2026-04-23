@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical skills required for this frontend role — there is no evidence of JavaScript/TypeScript, React (or other modern JS framework) experience, testing/test automation, Git usage, or Node/npm ecosystem knowledge. Their background is primarily in media planning/advertising with limited academic exposure to HTML/CSS, Java, and MySQL, which is insufficient for the role. Substantial upskilling and hands-on experience in modern frontend technologies, testing, and tooling would be required before they could be considered.

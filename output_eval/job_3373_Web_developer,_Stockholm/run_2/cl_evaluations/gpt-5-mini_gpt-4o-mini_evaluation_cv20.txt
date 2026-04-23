@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates core frontend skills (JavaScript, React, HTML/CSS), Git, Agile experience, basic web security knowledge, and familiarity with testing concepts and linters, making them relevant to the role. However, they lack explicit TypeScript experience, clear familiarity with the Node.js ecosystem (npm/Yarn/Express), modern CSS tools (Styled Components/SASS), specific testing frameworks (Jest/Cypress/TestCafe/E2E) and CI/CD/AWS exposure, which are important for this position.

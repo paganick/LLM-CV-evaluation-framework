@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is not directly relevant to front-end development. While the letter highlights transferable skills, it lacks concrete experience with JavaScript, TypeScript, React, and testing frameworks, which are essential for the role. The candidate expresses willingness to learn, but the gap in required technical skills is significant.

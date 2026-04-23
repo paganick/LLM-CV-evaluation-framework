@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (HTML, CSS, JavaScript, Git). However, they lack direct, recent experience with the core required technologies, specifically modern React, TypeScript, and the listed testing frameworks and modern CSS tools. Their extensive backend and PHP experience does not adequately compensate for the missing front-end specialization and modern tooling demanded by the job description.

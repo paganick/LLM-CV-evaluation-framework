@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational HTML, CSS, and JavaScript knowledge and relevant academic projects, but lacks practical experience with the core technologies required (React, TypeScript, modern testing frameworks, Git workflow, Node ecosystem, CI/CD, and web security practices). Their resume shows no professional front-end experience or evidence of working with the specific tools and frameworks in the job description, making them an entry-level fit rather than a match for this role.

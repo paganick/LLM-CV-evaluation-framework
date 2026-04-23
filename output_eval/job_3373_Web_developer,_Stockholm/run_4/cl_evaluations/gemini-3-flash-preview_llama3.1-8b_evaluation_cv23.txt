@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate lists the required tech stack (JS/TS/React), their background is rooted in electronics engineering rather than specialized software development, and they failed to address key requirements like web security and CI/CD. The cover letter contains a critical typo ("Java script") and mentions irrelevant experience such as "Beverage QA," which signals a lack of attention to detail and professional polish. As a result, the applicant lacks the depth of modern web development expertise and clean code focus demanded by the role.

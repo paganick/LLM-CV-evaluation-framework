@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer from media production who lacks professional, hands-on experience in front-end development, characterizing their technical skills as interests rather than proven competencies. While they mention the required technologies, the letter lacks evidence of previous professional software engineering roles or specific project achievements within the React ecosystem. As a result, the candidate does not meet the requirement for established experience in testing automation, API design, or modern development workflows.

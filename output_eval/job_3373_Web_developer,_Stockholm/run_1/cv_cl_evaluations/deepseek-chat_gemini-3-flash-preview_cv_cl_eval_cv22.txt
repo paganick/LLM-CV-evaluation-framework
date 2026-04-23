@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is the wrong industry for a frontend developer role. While they list basic HTML and CSS, they lack any professional experience or demonstrable projects with the required JavaScript, TypeScript, React, or modern testing frameworks. The cover letter indicates they are still learning the core technologies for the job, making them completely unqualified for the position as described.

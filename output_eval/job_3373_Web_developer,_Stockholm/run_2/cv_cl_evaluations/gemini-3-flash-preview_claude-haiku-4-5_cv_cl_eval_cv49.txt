@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with an academic background in Industrial and Mechanical Engineering, lacking any professional experience or documented projects in frontend development. The resume fails to demonstrate proficiency in JavaScript, TypeScript, React, or HTML/CSS, which are core requirements for this role. While the cover letter mentions a career transition, the candidate currently lacks the mandatory technical skillset and hands-on experience required by the job description.

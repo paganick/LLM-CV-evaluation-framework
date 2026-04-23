@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and Agile environments but lacks the specific technologies required for the role. The job description emphasizes modern JavaScript/TypeScript, React, and specific testing frameworks, while the candidate's resume shows a strong background in legacy .NET stack, AngularJS, and minimal modern front-end experience. There is no demonstrated experience with the core tools and frameworks listed, such as React, TypeScript, Node.js, or the specified testing and CSS tools.

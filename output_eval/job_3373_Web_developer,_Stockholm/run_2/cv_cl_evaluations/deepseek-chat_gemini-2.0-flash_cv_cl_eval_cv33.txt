@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and training, with no demonstrated experience in any of the required technical skills such as JavaScript, React, testing, or modern web development tools. The cover letter attempts to draw parallels from soft skills but provides no evidence of hands-on coding ability or relevant project work. This is a complete industry mismatch for a Front End Developer role.

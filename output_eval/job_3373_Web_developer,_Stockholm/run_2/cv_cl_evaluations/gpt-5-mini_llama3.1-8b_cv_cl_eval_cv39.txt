@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic and product design with only vague, legacy web/HTML experience and no demonstrated proficiency in JavaScript/TypeScript, React, modern front-end frameworks, testing, Node ecosystem, CI/CD, or cloud/infra tools required for the role. Claims in the cover letter (Git, web security, modern front-end tech) are not supported by the resume, indicating a significant skills gap for this engineering position. Due to the lack of core technical experience and evidence, they are not qualified for the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, testing, and collaboration. However, they lack direct, hands-on experience with the core technologies listed in the job description, specifically React, TypeScript, and modern CSS-in-JS frameworks. While they express enthusiasm for learning, the role requires existing proficiency, making them a candidate with potential but not a current strong match.

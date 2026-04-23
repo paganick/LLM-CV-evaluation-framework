@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a long history in software development, they lack professional experience with the required modern frontend stack, specifically React and TypeScript. Their background is heavily centered on PHP and legacy systems, with no documented evidence of using modern testing frameworks like Jest or Cypress, or cloud infrastructure tools like AWS and Terraform. The candidate does not meet the core technical requirements for a modern JavaScript-focused role.

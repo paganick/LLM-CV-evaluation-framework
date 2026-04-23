@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and lacks the required front-end development skills outlined in the job description. While the cover letter expresses a willingness to learn, the resume doesn't demonstrate hands-on experience with JavaScript, TypeScript, HTML, CSS, or modern front-end frameworks like React. The candidate's skills are more aligned with data science and statistical modeling, making them a weak fit for a front-end Software Engineer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, regulatory compliance, and training with no demonstrated experience in JavaScript, TypeScript, React, frontend frameworks, testing frameworks, NodeJS, Git workflows, or cloud/CI tools required for this role. While they show strong project management and documentation skills, these transferable abilities do not compensate for the complete lack of core technical competencies and domain experience expected for a frontend engineering position.

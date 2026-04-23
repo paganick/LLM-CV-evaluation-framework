@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a lengthy career and has acquired relevant skills in web design tools, they lack hands-on experience with the required technologies such as JavaScript, TypeScript, HTML, CSS, and React. Their enthusiasm for learning and collaborating is positive, but without specific production-level experience, they fall short of the immediate requirements for the frontend developer position.

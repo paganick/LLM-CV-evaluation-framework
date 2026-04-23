@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational qualifications and some knowledge of web technologies such as HTML, CSS, and JavaScript. However, they lack hands-on experience with modern frameworks like React and specifics on testing and automation practices as required in the job description. Their familiarity with basic web security concepts, while noted, does not compensate for the gaps in practical experience and the lack of exposure to the specific tools and practices mentioned.

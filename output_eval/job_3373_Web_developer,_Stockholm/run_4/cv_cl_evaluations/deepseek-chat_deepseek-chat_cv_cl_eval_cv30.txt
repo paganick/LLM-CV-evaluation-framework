@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analytics, engineering, and teaching, which is a different industry and skillset from front-end development. While they mention foundational knowledge of HTML and an interest in learning JavaScript/React, they lack any demonstrated hands-on experience with the core technologies required (TypeScript, React, modern CSS, testing frameworks). The resume does not show professional front-end development work, making them unqualified for this specific role.

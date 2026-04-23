@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Engineer position. The resume shows extensive experience in marketing, communications, public relations, legal administration, and event planning with zero mention of JavaScript, TypeScript, React, or any software development skills. There is no evidence of programming experience, testing frameworks, Git, web security knowledge, or any of the technical competencies required for this role. This is a wrong industry match entirely.

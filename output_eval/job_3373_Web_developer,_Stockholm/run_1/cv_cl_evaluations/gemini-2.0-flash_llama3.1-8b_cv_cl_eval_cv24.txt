@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight a background in digital communications, writing, and marketing, which are not directly relevant to the front-end development role. While the candidate expresses interest in learning front-end technologies, they lack the necessary hands-on experience with JavaScript, TypeScript, React, and other key technologies mentioned in the job description. The candidate's skills and experience do not align with the technical requirements of the position.

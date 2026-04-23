@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional background is centered on marketing automation and systems configuration rather than software engineering, providing no evidence of hands-on expertise with React, TypeScript, or modern FE frameworks. While they mention transferable knowledge of Git and security principles, they fail to demonstrate the practical coding proficiency or testing automation experience required for this specific developer role. Consequently, the candidate does not meet the core technical requirements of the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is transitioning from a non-technical field and lacks direct, professional front-end development experience. While they demonstrate foundational knowledge and relevant academic projects, they do not provide concrete evidence of hands-on experience with the core job requirements like React, TypeScript, or modern testing frameworks in a production environment. Their strong collaborative and analytical background is a positive, but the specific technical skill gap for the role is significant.

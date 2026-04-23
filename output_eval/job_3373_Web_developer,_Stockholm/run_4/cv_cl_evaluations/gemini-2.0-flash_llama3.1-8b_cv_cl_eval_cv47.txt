@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in business development and sales, which doesn't align with the front-end developer role. While they mention HTML, C++, and CI/CD tools, their experience is outdated and not focused on the specific technologies required (React, TypeScript, testing frameworks). The cover letter admits a lack of experience with modern front-end frameworks and testing, making them unqualified for this position.

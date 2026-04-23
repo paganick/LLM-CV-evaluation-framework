@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in broad IT management and support, not specialized modern front-end development. While the cover letter claims many required skills (React, Jest, Cypress, etc.), the resume provides no concrete evidence of professional experience with React, TypeScript, modern testing frameworks, or Agile development in a software engineering context. The core experience is outdated and not aligned with the specific, senior-level technical stack and practices demanded by the job description.

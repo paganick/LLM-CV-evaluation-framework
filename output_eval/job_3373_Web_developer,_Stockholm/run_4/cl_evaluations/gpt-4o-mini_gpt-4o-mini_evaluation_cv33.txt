@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development with HTML, CSS, and JavaScript, and is actively learning React, which aligns with the company's needs. However, they lack experience with TypeScript, modern CSS tools like Styled Components and SASS, and specific testing frameworks mentioned in the job description. While their collaborative skills are commendable, they do not fully meet all technical requirements, leading to a moderate evaluation.

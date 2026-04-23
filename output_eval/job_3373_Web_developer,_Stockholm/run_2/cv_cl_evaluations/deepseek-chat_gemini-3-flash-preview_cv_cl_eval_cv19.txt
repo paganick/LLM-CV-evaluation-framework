@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, not professional software development. While they mention HTML/CSS, they lack any demonstrated experience with the core requirements: JavaScript, TypeScript, React, modern testing frameworks, or version control in a development context. The cover letter attempts to draw parallels from other industries, but this does not substitute for the specific, hands-on technical skills and experience demanded by the job description.

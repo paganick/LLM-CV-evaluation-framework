@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows extensive IT consulting experience but lacks specific, recent front-end development work with modern frameworks like React, which is a core requirement. The cover letter claims relevant skills, but the resume does not substantiate hands-on experience with React, testing frameworks, or modern tooling in a professional development context. The profile is more aligned with general IT systems and project management rather than the focused front-end engineering role described.

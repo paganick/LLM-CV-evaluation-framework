@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in system integrations and API management, aligning with the technical requirements of the job. They demonstrate familiarity with core technologies, including JavaScript, TypeScript, HTML, and CSS, and have practical experience with Git and automation testing. However, there is a lack of specific mention regarding modern CSS tools, testing frameworks, and CI/CD experience that are highlighted in the job description, which prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in communications and technical writing, which doesn't directly align with the JavaScript-focused developer role. While the candidate expresses a passion for learning new technologies and possesses strong communication skills, the cover letter lacks evidence of hands-on experience with the specific technologies mentioned in the job description (React, TypeScript, testing frameworks, etc.). The fit is weak.

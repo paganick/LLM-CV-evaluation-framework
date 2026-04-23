@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong general design leadership, user research exposure, workshop facilitation and some front-end knowledge, which are relevant to the role. However they do not show the required commercial UX experience in an Agile software environment, lack proven Figma competency and do not explicitly reference Agile practices (stand-ups/sprint planning) or CSS experience. These deficits mean they are insufficiently aligned with several key, stated requirements.

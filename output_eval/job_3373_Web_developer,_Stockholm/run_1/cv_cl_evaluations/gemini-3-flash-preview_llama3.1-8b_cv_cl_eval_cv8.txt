@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware and electronics test engineer whose professional background is entirely focused on RF circuits, PCB debugging, and physical device testing rather than web software development. The resume provides no evidence of professional experience with the required frontend stack, such as JavaScript, TypeScript, or React, and fails to demonstrate the necessary expertise in web-based test automation. This represents a fundamental industry and skill set mismatch for a modern frontend engineering position.

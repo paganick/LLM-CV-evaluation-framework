@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, with limited direct experience in frontend development. While they express interest and some relevant skills like Python and SQL, they lack the core JavaScript, TypeScript, HTML, CSS, and modern FE framework experience (React, VueJS, Angular, Svelte) specified in the job description. The cover letter attempts to bridge the gap, but the resume doesn't showcase sufficient practical frontend development experience.

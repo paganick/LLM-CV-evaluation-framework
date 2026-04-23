@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and strong soft skills, but lacks the required hands-on, professional experience with core technologies like JavaScript, TypeScript, and React. The job description emphasizes testing, security, and modern tooling, which are not substantiated in the cover letter. While the design background is an asset, the technical proficiency presented is foundational and aspirational, not yet matching the role's specific requirements.

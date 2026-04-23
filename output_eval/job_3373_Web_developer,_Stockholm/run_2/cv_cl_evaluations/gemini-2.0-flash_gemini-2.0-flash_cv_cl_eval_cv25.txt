@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited explicit experience in modern front-end frameworks like React, despite the cover letter's claims. While they possess some HTML and CSS skills, the resume lacks evidence of Javascript/Typescript, testing frameworks, CI/CD, and other key requirements listed in the job description. The candidate expresses interest in learning, but the gap between their current skills and the job requirements is substantial.

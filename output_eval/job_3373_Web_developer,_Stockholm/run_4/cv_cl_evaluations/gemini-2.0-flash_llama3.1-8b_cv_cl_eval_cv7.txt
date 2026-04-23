@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, lacking substantial experience in front-end development. While they express interest and some self-learning, the resume doesn't demonstrate practical application or professional experience with the required technologies (React, TypeScript, testing frameworks, etc.). The cover letter attempts to bridge the gap, but the lack of concrete experience is a significant drawback.

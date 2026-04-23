@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a senior marketing automation consultant with over a decade of hands-on experience designing, implementing, and testing integrated marketing systems. My work has focused on delivering best practices, product education, and configuration to marketing and sales organizations, and I have partnered with clients such as PwC, Vision Service Plan, TD Ameritrade, Tyco, and Parker Hannifin. I am excited to apply my systems integration, QA, and automation background to a front-end engineering role where I can quickly learn and contribute to modern JavaScript and React-based projects.
+
+Throughout my career I have led complex integration projects that combined Eloqua with Salesforce, Siebel, Oracle Sales Cloud, event platforms and other third party systems. I have designed API data imports, built multi-step programs to manage data cleansing and lead routing, and created custom subscription management centers to support global requirements. I define and implement QA processes, develop testing strategies for continuous improvement, and have created automation testing efforts for Eloqua, Salesforce, and integrated platforms. These experiences have given me a strong foundation in test planning, troubleshooting, and delivering reliable production solutions.
+
+I enjoy collaborating with cross functional teams, supporting web development efforts with content auditing and asset management, and translating business requirements into scalable technical solutions. I am detail oriented, analytical, and accustomed to working with stakeholders at all levels to align priorities, document processes, and share best practices. My background in developing documentation and training materials helps teams adopt new tools and maintain high quality standards.
+
+I routinely collaborate with cross functional teams on planning, execution, testing, and stakeholder communication; I prioritize clear documentation, reproducible processes, and measurable outcomes. My enthusiasm for continuous learning ensures I quickly adopt tooling and patterns your team values and deliver impact quickly and effectively.
+
+While my primary experience is in marketing technology rather than front end frameworks, I am eager to expand my technical toolkit to include React, TypeScript, modern CSS tooling, testing frameworks, and CI/CD practices. I bring a strong foundation in integrations, automated testing, and disciplined process that will help me contribute effectively while I continue learning.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my experience with integrations, QA, and cross functional collaboration can support your team.
+
+Sincerely, Alexis

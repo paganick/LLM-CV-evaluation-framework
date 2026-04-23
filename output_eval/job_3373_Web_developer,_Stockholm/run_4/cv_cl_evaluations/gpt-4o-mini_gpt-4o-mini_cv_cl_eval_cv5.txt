@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills in JavaScript, HTML, and familiarity with React, but lacks in-depth experience with the modern front-end frameworks emphasized in the job description. Their background in mainframe technologies does not align closely with the core requirements for front-end development, and specific experience with testing frameworks and CI/CD tools is limited.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in electronics/test engineering with Python scripting but provides no demonstrable experience in JavaScript/TypeScript, React, modern frontend frameworks, or frontend testing tools (Jest/Cypress), which are core requirements. The cover letter asserts familiarity with frontend technologies but the CV lacks concrete projects, tooling experience (Node/npm, CI/CD, linters, AWS/Terraform) or evidence of web security and frontend-specific testing, indicating a poor fit for this frontend developer role.

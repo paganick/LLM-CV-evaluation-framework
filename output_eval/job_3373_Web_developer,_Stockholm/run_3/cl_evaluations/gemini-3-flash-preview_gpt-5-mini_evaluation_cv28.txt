@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is currently in an unrelated industry and fails to demonstrate any professional experience or technical proficiency in the mandatory tech stack, including JavaScript, TypeScript, and React. While they possess transferable analytical and soft skills, they lack the fundamental engineering background required for a front-end role. This is a career pivot that does not meet the specific technical requirements or industry experience outlined in the job description.

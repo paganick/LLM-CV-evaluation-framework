@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary requirements of the role, specifically JavaScript, TypeScript, and modern front-end frameworks like React. While they have a strong background in data analytics and general quality assurance, their front-end technical stack is limited to basic HTML and ASP.NET. A strict recruiter cannot overlook the lack of hands-on experience with the core development tools and web security protocols specified in the job description.

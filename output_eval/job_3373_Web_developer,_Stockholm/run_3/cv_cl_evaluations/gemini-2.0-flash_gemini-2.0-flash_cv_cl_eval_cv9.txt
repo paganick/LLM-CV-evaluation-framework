@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not the JavaScript-centric frontend development described in the job description. While they express interest in learning React and modern CSS tools, their direct experience with the core technologies and frameworks listed (React, TypeScript, modern CSS, testing frameworks) is limited. Their cover letter and resume highlight Java-related skills more prominently.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct professional experience with the core requirements of the role, specifically React, TypeScript, and modern JavaScript testing frameworks. Their seven years of experience are primarily centered on legacy stacks such as PHP, Perl, and Visual Basic, which does not align with the modern frontend and CI/CD environment described. While the candidate has general software engineering knowledge, they fail to demonstrate the specific technical proficiency in the requested ecosystem to be considered a strong match.

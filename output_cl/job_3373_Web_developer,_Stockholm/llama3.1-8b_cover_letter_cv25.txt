@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the role at your organization, as advertised. While my background is rooted in graphic design, I am confident that my passion for learning and adaptability will enable me to quickly grasp the technical aspects of this position.
+
+As a seasoned graphic designer with extensive experience in managing heavy workloads while delivering creative solutions under tight deadlines, I believe I possess some transferable skills. My expertise in Adobe Creative Suite, including InDesign, Illustrator, Photoshop, and Acrobat, has prepared me for tackling complex design challenges. Additionally, my proficiency in HTML coding and CSS will serve as a strong foundation for learning the front-end development languages.
+
+Your organization's emphasis on staying current with the latest technologies resonates deeply with me. I am excited about the prospect of expanding my skill set to include modern FE frameworks like React and testing frameworks such as Jest. My self-motivated nature, combined with a keen eye for detail, will enable me to quickly absorb and apply new concepts.
+
+I appreciate your organization's commitment to security on the web, and I am confident that my understanding of OWASP, CSP, CORS, and OAuth will serve as a valuable asset in this role. Furthermore, my experience working collaboratively with cross-functional teams will facilitate seamless interactions with other departments and external partners.
+
+While I may not have direct experience with JavaScript or TypeScript, I thrive in environments where continuous learning is encouraged. My proficiency in handling multiple projects simultaneously and prioritizing tasks effectively will enable me to quickly adjust to the fast-paced environment of your organization.
+
+I would welcome the opportunity to discuss how my skills and passion for learning can contribute to your team's success. Thank you for considering my application.
+
+Sincerely,
+Alexis

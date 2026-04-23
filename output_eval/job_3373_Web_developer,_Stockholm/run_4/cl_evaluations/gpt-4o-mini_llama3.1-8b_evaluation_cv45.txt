@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in IT and cybersecurity, along with relevant experience in developing and implementing IT directives. However, while they mention familiarity with key technologies like JavaScript and Git, there is a lack of specific mentions regarding frameworks such as React, testing frameworks, and tools emphasized in the job description. Overall, they are a good candidate but do not fully meet all the specific requirements listed.

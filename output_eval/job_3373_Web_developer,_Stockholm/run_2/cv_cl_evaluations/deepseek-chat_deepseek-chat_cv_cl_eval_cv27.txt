@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in arts administration and operations, not software development. While the cover letter mentions foundational HTML and a desire to learn, the resume lacks any professional experience with JavaScript, TypeScript, React, testing frameworks, or other core technologies listed in the job description. The skills and career history are from a completely different industry, making the candidate unqualified for this specific technical role.

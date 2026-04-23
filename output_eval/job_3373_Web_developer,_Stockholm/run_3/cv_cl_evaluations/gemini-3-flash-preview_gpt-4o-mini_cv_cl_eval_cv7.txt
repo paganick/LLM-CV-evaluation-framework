@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer with no professional experience in modern software engineering or the required technical stack. While the cover letter claims familiarity with React and TypeScript, the 15-year professional history is exclusively focused on print media, visual merchandising, and graphic design. This candidate lacks the fundamental engineering experience, testing proficiency, and architectural knowledge required for this frontend development role.

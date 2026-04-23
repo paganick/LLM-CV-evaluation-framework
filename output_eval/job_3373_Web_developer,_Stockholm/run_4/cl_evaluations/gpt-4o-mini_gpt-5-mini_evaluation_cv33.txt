@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in operations and technology but lacks direct experience in front-end engineering, specifically with modern frameworks and libraries like React, testing frameworks, and web security practices as outlined in the job description. Their skills in communication and collaboration are valuable, but the absence of hands-on experience in essential technical areas reduces their suitability for the role.

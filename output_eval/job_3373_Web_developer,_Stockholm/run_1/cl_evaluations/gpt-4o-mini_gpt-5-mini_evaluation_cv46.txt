@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and a strong background in object-oriented design and database management, but lacks direct experience with the required front-end technologies such as React, TypeScript, and modern CSS tools. While they demonstrate a willingness to learn and adapt, their primary strengths lie more in back-end and database domains rather than the specific front-end requirements outlined in the job description.

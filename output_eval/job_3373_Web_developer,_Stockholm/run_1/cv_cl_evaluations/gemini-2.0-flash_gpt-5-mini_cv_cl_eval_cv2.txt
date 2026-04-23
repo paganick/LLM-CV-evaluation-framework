@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which is not the focus of the JavaScript-heavy front-end role. While the cover letter expresses interest in transitioning to front-end development and learning new technologies like React and TypeScript, the resume lacks demonstrable experience in these areas. The listed skills and experience are not a strong match for the job description's requirements.

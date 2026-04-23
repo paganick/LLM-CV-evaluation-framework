@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general software engineering and web background (Java, HTML, JavaScript, databases) but lacks demonstrated experience with the core requirements: React, TypeScript, modern frontend frameworks, Node/npm, testing frameworks, Git/GitHub, CI/CD and web security practices. Their resume shows legacy/server-side skills rather than modern front-end toolchains and automated testing experience required for this role. Overall relevant industry experience is present but it does not meet the specific frontend and tooling qualifications.

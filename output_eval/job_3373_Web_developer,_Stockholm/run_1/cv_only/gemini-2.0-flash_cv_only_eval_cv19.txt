@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume primarily showcases skills and experience in graphic design, which doesn't align with the JavaScript and modern front-end development focus of the job description. While the candidate lists HTML/CSS skills, the resume lacks any mention of JavaScript frameworks, testing, or other relevant technologies specified in the job description. The candidate's experience in graphic design and previous roles do not translate to the requirements of a front-end developer position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in materials analysis, a different field from software engineering. While the cover letter highlights self-taught skills and relevant experience, the resume lacks professional experience in the required technologies (JavaScript, React, etc.). Although the candidate mentions relevant technologies, it's not clear if this is sufficient for the role.

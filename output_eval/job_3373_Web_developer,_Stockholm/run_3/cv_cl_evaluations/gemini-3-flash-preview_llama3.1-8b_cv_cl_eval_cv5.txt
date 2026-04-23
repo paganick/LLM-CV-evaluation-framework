@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer whose expertise in COBOL, JCL, and DB2 is entirely unrelated to the modern React/TypeScript frontend stack required. While they list "JavaScript" and "HTML" as skills, their seven years of professional experience lack any evidence of hands-on work with modern web frameworks, CSS tools, or contemporary CI/CD and testing environments. The candidate fundamentally lacks the technical qualifications and specific industry experience necessary for this role.

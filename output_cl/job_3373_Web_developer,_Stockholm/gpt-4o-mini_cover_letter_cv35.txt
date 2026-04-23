@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front-End Developer position, as my background in technology and digital marketing uniquely positions me to contribute to your team. With a passion for clean code and a strong interest in modern technologies, I am eager to transition into a role that leverages my skills in JavaScript, HTML, CSS, and frameworks like React.
+
+Throughout my career as a Senior Marketing Automation Consultant, I have developed technical acumen alongside a commitment to building trusted relationships with clients and colleagues. My experience includes implementing complex solutions and best practices within various systems, such as Eloqua and Salesforce, where I have overseen automation testing efforts and collaborated with cross-functional teams to enhance campaign effectiveness. This experience parallels the collaborative, agile environment your team promotes.
+
+I possess hands-on experience with testing and automation, which includes developing and executing testing strategies for marketing technology platforms. My technical knowledge extends to utilizing Git for version control, and I am familiar with repo hosting services such as GitHub. I have developed a robust understanding of web security principles, such as OWASP and CORS, ensuring that the solutions I create prioritize security while meeting business needs.
+
+Additionally, my passion for the latest technologies is demonstrated through my commitment to continuous improvement and optimization in all my work. I have initiated and led efforts focused on UI audits and best practices, which fortify user engagement and conversion metrics. I am enthusiastic about utilizing modern CSS tools like Styled Components and SASS, along with testing frameworks like Jest and Cypress, to enhance front-end development.
+
+Moreover, my experience with data management and API design equips me to understand the broader technological landscape, including familiarity with the NodeJS ecosystem. I am eager to understand how my work can integrate with other platforms and contribute to innovative solutions within your organization.
+
+I am excited about the opportunity to contribute to your team and collaborate on impactful projects. Thank you for considering my application.
+
+Sincerely, Alexis

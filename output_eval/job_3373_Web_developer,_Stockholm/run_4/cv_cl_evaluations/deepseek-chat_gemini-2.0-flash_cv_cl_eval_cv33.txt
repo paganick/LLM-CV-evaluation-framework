@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and training, with no demonstrated experience in the required technical skills such as JavaScript, React, testing, or any other tools listed in the job description. The cover letter attempts to draw parallels but does not provide evidence of hands-on front-end development work or technical proficiency. This is a complete industry mismatch for a senior front-end developer role.

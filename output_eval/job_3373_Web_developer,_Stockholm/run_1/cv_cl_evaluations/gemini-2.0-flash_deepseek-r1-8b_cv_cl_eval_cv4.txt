@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses several required skills, including JavaScript, HTML, CSS, and experience with React. They demonstrate experience in Agile environments and version control using Git. The resume lacks explicit mention of TypeScript and testing frameworks, which are listed as requirements in the job description.

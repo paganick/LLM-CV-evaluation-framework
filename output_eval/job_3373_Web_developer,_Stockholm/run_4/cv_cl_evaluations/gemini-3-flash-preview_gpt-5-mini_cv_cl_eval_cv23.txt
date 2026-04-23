@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a hardware and electronics technician with no professional experience in front-end development or building web applications. They lack essential proficiency in the required stack, including React, TypeScript, HTML/CSS, and modern version control systems like Git. While they have a background in general software QA, their technical profile does not align with the engineering requirements for this specific software development role.

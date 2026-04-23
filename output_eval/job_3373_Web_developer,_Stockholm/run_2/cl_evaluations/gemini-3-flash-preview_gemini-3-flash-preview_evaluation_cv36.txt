@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates high technical alignment by explicitly referencing nearly every tool in the stack, including niche requirements like Ramda, CircleCI, and Terraform. Their professional background in laboratory validation and quality control translates effectively to the job's emphasis on "truly clean code" and rigorous testing methodologies. While the candidate is a career changer, their ability to map previous technical experience to the specific needs of an Agile development environment makes them a strong match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is significantly overqualified for the seniority level and salary, indicating a poor strategic fit and high flight risk. The application fails to mention proficiency in Figma—the primary technical requirement—and emphasizes industrial design and mass production rather than the required software-based Agile environment. Additionally, there is no mention of the HTML or CSS exposure necessary to support the management of the UI Design System.

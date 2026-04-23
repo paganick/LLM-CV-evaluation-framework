@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Web Developer position, which I discovered through your job posting. As a recent graduate with a Bachelor of Science in IT - Web Multimedia and Animation and a 15-year background in the construction industry, I have developed a unique, practical perspective on building robust, functional, and clean solutions—principles I am eager to apply to modern web development.
+
+My degree coursework provided a strong foundation in core web technologies, including HTML, CSS, and JavaScript, which I applied in projects such as developing a fully functional PHP/MySQL e-commerce site and creating interactive websites with JavaScript. I am keenly interested in deepening this knowledge within a modern tech stack, particularly with React, and am a fast learner committed to mastering the frameworks and libraries your team utilizes.
+
+Your requirements for a strong collaborator who thrives in an Agile environment resonate deeply with me. My entire professional history in construction and property maintenance was built on precise teamwork, translating plans into tangible results, and systematic problem-solving to reduce errors. I am comfortable interacting with diverse teams and have a genuine passion for understanding the full domain, ensuring the smaller parts I build fit seamlessly into the bigger picture.
+
+While my professional experience with tools like Jest, Node.js, and CI/CD pipelines is academic, I am profoundly motivated to gain hands-on experience. My coursework in data structures, algorithms, and multiple programming languages (including C# and Java) has equipped me with the logical rigor needed to write clean, testable code. The discipline and attention to detail honed over years of skilled trade work translate directly to a meticulous approach to coding, testing, and collaboration.
+
+I am confident that my unique blend of practical discipline, foundational technical skills, and a relentless drive to learn and contribute would make me a valuable asset to your team. I am eager to discuss how my background and passion can support your projects.
+
+Sincerely, Alexis

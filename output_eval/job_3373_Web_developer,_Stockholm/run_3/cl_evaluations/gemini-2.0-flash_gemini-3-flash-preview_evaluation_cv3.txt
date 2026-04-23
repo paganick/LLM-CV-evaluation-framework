@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some understanding of web development fundamentals and expresses willingness to learn React, aligning with the job description. However, they lack specific experience with TypeScript and other technologies mentioned (Node.js, CI/CD, API design, AWS). The letter relies heavily on transferable skills from a previous career.

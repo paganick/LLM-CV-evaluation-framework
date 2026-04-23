@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in test engineering and automation, along with skills in some required technologies such as JavaScript, TypeScript, and testing frameworks. However, they lack experience with critical components specified in the job description, such as modern front-end frameworks like VueJS or Angular, and key concepts like web security (OWASP, CORS). Additionally, their familiarity with the NodeJS ecosystem and functional programming was not explicitly stated, which could limit their fit for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core technical skills listed in the job description, such as proficiency in JavaScript, TypeScript, HTML, CSS, and React. While they express a willingness to learn, the absence of practical experience in these areas makes them a weak fit for a front-end development role. Their background in marketing and PR is not directly relevant, despite transferable skills.

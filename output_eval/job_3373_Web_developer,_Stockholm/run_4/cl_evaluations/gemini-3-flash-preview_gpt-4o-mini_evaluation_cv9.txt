@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant IT experience and general web knowledge, they are primarily a Java (JEE) developer rather than a dedicated Frontend specialist. They fail to demonstrate professional experience with TypeScript or the specific required framework, React, and their testing expertise is focused on backend tools like Mockito rather than the requested frontend frameworks like Jest or Cypress.

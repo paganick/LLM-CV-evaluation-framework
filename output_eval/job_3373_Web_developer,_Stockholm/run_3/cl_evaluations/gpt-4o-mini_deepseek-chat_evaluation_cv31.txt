@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant technical skills in HTML, CSS, JavaScript, TypeScript, and React, which aligns well with the job description. However, they lack specific experience with some tools mentioned, such as Ramda, CI/CD tools, and API design, which prevents them from achieving a higher score. Their strong communication and problem-solving skills from a sales background, while valuable, may not fully compensate for the technical gaps present.

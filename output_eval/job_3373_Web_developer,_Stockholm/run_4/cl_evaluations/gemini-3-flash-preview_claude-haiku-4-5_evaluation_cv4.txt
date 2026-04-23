@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of general development experience, they admit their primary expertise lies in C# and Python rather than the required React/TypeScript ecosystem. They lack direct experience with the specified testing frameworks (Jest, Cypress) and functional programming tools (Ramda), explicitly stating a need to master these on the job. Additionally, the application fails to demonstrate necessary proficiency in web security standards and modern CSS tooling requested in the job description.

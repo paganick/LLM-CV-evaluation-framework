@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a Front-End Engineer position as they lack all mandatory technical requirements, including JavaScript, TypeScript, React, HTML, and CSS. Their entire professional history is in hardware test engineering and electronics manufacturing, representing a mismatch in both industry and core skill sets. While the candidate has a strong background in automation and quality assurance, it is focused on hardware and firmware rather than modern web development.

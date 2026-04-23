@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses over seven years of general software experience, the resume fails to demonstrate professional proficiency in the core required technologies, specifically React and TypeScript. There is no evidence of experience with modern frontend testing frameworks (Jest, Cypress) or the Node.js ecosystem, with most work history centered on legacy PHP and C++ development. The profile lacks the specific modern frontend architecture and CI/CD expertise essential for this role.

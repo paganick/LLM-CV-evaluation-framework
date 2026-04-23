@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in front-end development, project management, and Agile processes, directly matching many job requirements. However, the cover letter lacks explicit mention of several key technologies from the description, such as TypeScript, Node.js, functional programming (Ramda), and specific CI/CD tools. While a good overall match, the absence of these specifics prevents a higher score.

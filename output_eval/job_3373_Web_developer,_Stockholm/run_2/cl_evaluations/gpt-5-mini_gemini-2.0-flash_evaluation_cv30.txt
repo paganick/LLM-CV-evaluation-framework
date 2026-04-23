@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant technical background (HTML, SQL, Python, data analysis) and strong collaboration/teaching experience, but lacks the core required front-end skills: no demonstrated JavaScript/TypeScript, React experience, front-end testing, modern CSS toolchain, or Node/npm ecosystem experience. Given the role's emphasis on hands-on React, testing, and modern FE tooling, the profile is underqualified without clear evidence of those specific competencies.

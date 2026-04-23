@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a product and web designer with over 30 years of experience in graphic art, product development and web design, and I am excited to apply for the front-end role on your React team. My background includes large e-commerce website development, web maintenance, translating prototypes and PSDs into launch-ready, pixel-perfect HTML/CSS, and collaborating across teams and with overseas factories to deliver polished products.
+
+Throughout my career I have worked remotely and managed multiple projects under tight deadlines, maintaining brand and content standards and ensuring consistent visual design across campaigns. I also bring a strong foundation in HTML and Dreamweaver, advanced typography, and extensive experience with Adobe Photoshop, InDesign and Illustrator. These visual and technical skills allow me to produce clean, maintainable front-end markup and CSS, a practice I consider the front-end equivalent of writing truly clean code.
+
+I am a quick learner and highly disciplined, used to self-directed work from a home office and to coordinating with production, delivery and external partners. I have led concepting, mock-ups and banner creation for web and mobile applications and supported e-commerce product launches from conception through manufacture and delivery. I approach problems as creative challenges, and I enjoy collaborating with others to improve designs and user experience.
+
+My experience as an elementary art instructor and founder of the Art on a Cart program shows I can teach, document and present complex ideas to diverse audiences. I lead workshops and private lessons, create clear process documentation, and enjoy helping teams ship consistent, maintainable work. These strengths will help me learn your stack quickly and support knowledge sharing across teams effectively.
+
+While much of my experience is design-focused, I am eager to grow into a modern front-end engineering role. I am motivated to develop skills in React, TypeScript, modern testing practices, component-driven CSS (Styled Components, SASS), the Node ecosystem and CI/CD workflows. I am particularly interested in learning functional programming patterns such as Ramda and in contributing to cross-functional teams to understand domain concerns beyond design.
+
+I believe my disciplined work ethic, deep visual design experience, and demonstrated ability to translate design into production-ready web pages would make me a valuable addition to your team. I welcome the opportunity to discuss how my design-first perspective can complement your engineers and help deliver exceptional user experiences.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software engineering and has mentioned familiarity with JavaScript and CSS, but there is no clear evidence of experience with front-end frameworks such as React, VueJS, or Angular, which are essential for the role. While the candidate displays strong collaboration skills and an understanding of the software development life cycle, they lack specific experience in testing frameworks and CI/CD tools as mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in software development but primarily in mainframe technologies, which is not the focus of the job description. While they claim to have recently acquired skills in React and have some familiarity with JavaScript and HTML, the resume heavily emphasizes COBOL, CICS, and DB2. The candidate also mentions experience with testing and Git, but the overall profile does not strongly align with the modern front-end development requirements of the job.

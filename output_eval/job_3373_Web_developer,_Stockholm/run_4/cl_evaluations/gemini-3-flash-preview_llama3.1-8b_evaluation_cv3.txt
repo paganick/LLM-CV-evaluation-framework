@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant IT degree and understands Agile environments, their technical experience focuses on obsolete technologies like Flash, ActionScript, and Java Applets rather than the required modern stack. They lack demonstrated hands-on experience with TypeScript, React, and testing automation (Jest/Cypress), which are non-negotiable requirements for this role. Consequently, the candidate requires significant upskilling to meet the specific technical standards of the modern front-end ecosystem described.

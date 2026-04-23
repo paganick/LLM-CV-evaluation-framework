@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate meets the minimum years of design experience and demonstrates transferable skills (client research, workshops, Figma familiarity and some HTML/CSS/JS exposure) that are relevant to the role. However, they lack clear commercial UX-specific experience, no evidence of working in an Agile software development environment, limited proven prototyping/UI system management, and no demonstrated experience managing a UX roadmap or mentoring a team. These gaps make them a borderline fit rather than a strong match.

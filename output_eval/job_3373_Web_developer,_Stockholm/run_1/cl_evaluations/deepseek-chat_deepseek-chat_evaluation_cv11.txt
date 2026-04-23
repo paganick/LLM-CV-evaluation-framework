@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates a strong understanding of quality assurance, testing, and some required technical skills like JavaScript and Agile. However, the cover letter reveals a significant lack of hands-on professional experience in front-end development, particularly with React and modern tooling, which are core requirements. The application is framed as a career transition from testing to development, indicating a skills gap for the immediate role.

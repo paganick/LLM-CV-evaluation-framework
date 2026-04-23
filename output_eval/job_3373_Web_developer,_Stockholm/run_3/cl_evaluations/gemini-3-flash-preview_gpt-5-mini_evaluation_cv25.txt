@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a graphic designer and lacks the mandatory technical proficiency in JavaScript, TypeScript, and React required for this engineering position. While they possess strong visual design experience and basic HTML/CSS knowledge, they admit to having no hands-on experience with testing frameworks, CI/CD, or modern development workflows. This profile represents a career transitioner who does not currently meet the core programming and architectural requirements of the role.

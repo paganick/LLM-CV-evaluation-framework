@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's professional background is entirely in Microbiology and Quality Control, which is completely outside the required industry for a Frontend Developer. The resume provides no evidence of professional experience with JavaScript, React, or any of the mandatory technical stacks mentioned in the job description. Despite the career transition mentioned in the cover letter, the applicant lacks the necessary technical qualifications and hands-on software engineering experience.

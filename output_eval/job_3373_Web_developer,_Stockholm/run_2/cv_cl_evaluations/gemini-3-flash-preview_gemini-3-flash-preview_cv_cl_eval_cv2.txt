@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy Java/J2EE developer who lacks any professional experience with the required modern frontend stack, including React, TypeScript, and modern CSS tools. While they have extensive experience in the software industry, their background in Struts, JSP, and Java 6 is not transferable to the specific requirements of this modern JavaScript-focused role. The absence of experience with modern testing frameworks, AWS, or Node.js makes them unqualified for this specific position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant industry experience and addresses many key requirements, including React interest, testing, Git, Agile, and security basics. However, the cover letter lacks explicit, hands-on experience with the core technologies of TypeScript and modern React, and does not mention several listed tools like Node.js, CI/CD, or linters. The background is heavily weighted toward ASP.NET/C#, which is not directly relevant to the role's primary stack.

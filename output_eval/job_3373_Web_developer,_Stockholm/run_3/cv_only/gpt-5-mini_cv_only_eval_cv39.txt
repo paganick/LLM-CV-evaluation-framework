@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned graphic and product designer with some HTML and Dreamweaver experience but shows no evidence of core front-end development skills such as JavaScript/TypeScript, React (or other modern frameworks), or test automation. There is also no mention of essential tooling and practices (Git/GitHub, Node/npm, CI/CD, testing frameworks, or web security knowledge), so they lack the specific hands-on engineering experience required for this role and would need substantial retraining.

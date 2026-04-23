@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy Java/J2EE specialist whose professional experience is almost entirely backend-focused and lacks any hands-on experience with the required modern frontend stack of React, TypeScript, and modern CSS tools. While they have a strong background in software design and Agile methodologies, they do not possess the necessary proficiency in the core technologies, testing frameworks, or cloud infrastructure specified in the job description.

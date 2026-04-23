@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive web and backend experience, but it is primarily in .NET, ASP.NET, C#, jQuery and legacy AngularJS rather than modern front-end stacks. The resume and cover letter do not demonstrate required skills in React or TypeScript, Git/GitHub, Node/npm/Yarn/Express, modern testing frameworks, or web security practices. While they have relevant industry experience and Agile exposure, they lack the specific frontend, tooling, and testing competencies required for this role.

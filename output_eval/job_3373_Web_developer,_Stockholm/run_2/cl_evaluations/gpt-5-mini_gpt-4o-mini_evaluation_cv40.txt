@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong product management experience and familiarity with front-end technologies and testing frameworks, plus relevant knowledge of web security and Styled Components/NodeJS. However, they explicitly state their primary background is product management rather than hands-on software development and do not demonstrate concrete experience with React/TypeScript, Git, CI/CD, API design, Ramda, or AWS/Terraform. These are critical gaps for the role, so the application is a partial but insufficient technical match.

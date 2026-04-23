@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and a background in electronics; however, they lack specific skills mentioned in the job description, such as experience with JavaScript frameworks like React and testing frameworks such as Jest or Cypress. Their proficiency in programming languages like C++ and JavaScript is noted, but without familiarity with the required technologies or tools, they are underqualified for this role.

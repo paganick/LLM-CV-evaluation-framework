@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development and project management but lacks specific experience with TypeScript, modern CSS tools, and certain testing frameworks mentioned in the job description. While they have knowledge of Agile methodologies and some relevant technologies, they fall short in meeting many of the technical requirements outlined for the position.

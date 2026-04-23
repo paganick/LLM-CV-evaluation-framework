@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned Java/J2EE developer but lacks professional experience with the primary technologies required, specifically React, TypeScript, and modern frontend ecosystems. While they possess strong general software engineering principles, they do not demonstrate the necessary hands-on expertise in Jest, Cypress, NodeJS, or AWS infrastructure mentioned in the job description.

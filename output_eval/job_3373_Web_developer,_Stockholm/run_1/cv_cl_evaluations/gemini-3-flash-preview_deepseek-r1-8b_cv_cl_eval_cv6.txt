@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal and PHP specialist whose professional experience lacks the required expertise in React, TypeScript, and modern JavaScript ecosystems. While they possess general web development knowledge, there is no evidence of experience with modern testing frameworks like Jest or Cypress, nor with the specific CSS and CI/CD tools requested. Consequently, the candidate's technical profile is a poor match for a role centered on a modern frontend stack.

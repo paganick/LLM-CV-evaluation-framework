@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in implementation and client-facing roles, the cover letter demonstrates a lack of specific front-end engineering skills emphasized in the job description. The candidate acknowledges a desire to learn JavaScript and modern frameworks, but lacks demonstrable experience. The cover letter focuses on skills more aligned with Salesforce Marketing Cloud administration and quality assurance, rather than front-end development.

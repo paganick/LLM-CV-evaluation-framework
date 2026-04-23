@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in digital communications but lacks direct experience in frontend development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate a willingness to learn and a familiarity with web technologies, they do not meet the core technical requirements outlined in the job description. Their experience does not include testing automation or Git, which are critical for the role.

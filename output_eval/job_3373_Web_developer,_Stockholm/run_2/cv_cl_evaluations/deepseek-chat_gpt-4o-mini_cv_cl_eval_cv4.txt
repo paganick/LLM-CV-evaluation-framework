@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and Python with limited, non-professional exposure to the required modern front-end stack (React, TypeScript). While they mention JavaScript/HTML/CSS, the resume lacks concrete evidence of professional work with React, testing frameworks, or modern CSS tools like Styled Components. The cover letter attempts to align with the job description but does not substantiate the claimed skills with relevant professional project experience.

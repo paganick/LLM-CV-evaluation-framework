@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core React ecosystem, testing frameworks, and Agile methodologies requested in the job description. However, the application fails to mention mandatory technical requirements such as TypeScript, Web Security protocols (OWASP/CORS), and functional programming. While the candidate possesses relevant peripheral skills like AWS and Terraform, these critical omissions prevent a perfect score for this specific front-end role.

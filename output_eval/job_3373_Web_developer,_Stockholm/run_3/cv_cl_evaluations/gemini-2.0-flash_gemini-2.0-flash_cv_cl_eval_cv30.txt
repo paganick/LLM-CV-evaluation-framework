@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core technologies listed in the job description such as JavaScript, TypeScript, React, and modern CSS tools. While they express eagerness to learn, the resume focuses heavily on data analysis and backend technologies. The cover letter attempts to bridge the gap, but doesn't demonstrate sufficient relevant experience for a front-end developer role.

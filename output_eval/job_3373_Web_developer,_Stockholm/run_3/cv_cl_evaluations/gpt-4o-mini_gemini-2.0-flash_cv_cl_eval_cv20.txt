@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development and experience with JavaScript, HTML, and CSS; however, they lack hands-on experience with modern front-end frameworks like React, which is a key requirement. Additionally, while they mention testing, their experience does not align closely with the specific testing frameworks required. Overall, the applicant demonstrates relevant experience but does not fully meet the technical requirements for the position.

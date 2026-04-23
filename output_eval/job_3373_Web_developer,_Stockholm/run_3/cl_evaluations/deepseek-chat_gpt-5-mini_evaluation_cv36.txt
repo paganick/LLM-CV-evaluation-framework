@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a completely different industry (microbiology/validation consulting) with zero demonstrated front-end engineering experience. While they highlight transferable soft skills like testing discipline and collaboration, they lack any hands-on experience with the required technical stack (JavaScript, React, testing frameworks, Git). Their stated motivation to learn is not a substitute for the required practical skills.

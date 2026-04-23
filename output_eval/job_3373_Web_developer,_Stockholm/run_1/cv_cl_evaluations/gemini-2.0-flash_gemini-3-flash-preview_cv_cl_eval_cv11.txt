@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a QA background, with some scripting experience, but lacks demonstrable professional FE development experience with modern frameworks like React. They mention HTML, CSS, and Javascript, but in the context of testing, not development. While they express interest in writing clean code, their resume focuses on testing roles and skills.

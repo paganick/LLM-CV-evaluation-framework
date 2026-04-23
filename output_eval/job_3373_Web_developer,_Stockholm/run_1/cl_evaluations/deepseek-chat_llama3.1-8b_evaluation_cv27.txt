@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily administrative, not technical, and the cover letter fails to demonstrate hands-on professional experience with the core required technologies (React, testing, Git, CI/CD). While they express interest and a desire to learn, they provide no concrete evidence of proficiency in the specific skills listed in the job description. The soft skills are relevant, but the critical technical experience gap is substantial.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates core proficiency in the primary tech stack and testing methodologies but fails to address the mandatory requirement for web security knowledge (OWASP, CSP, OAuth). Additionally, the application ignores several preferred skills like CI/CD, API design, and modern CSS tools, making it a standard match rather than a strong one.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Graphic Designer and manual laborer who lacks nearly all the required technical qualifications, including JavaScript, TypeScript, React, and professional software testing experience. Their background in electrical work and machine operation is entirely unrelated to senior-level front-end engineering. While they mention basic HTML/CSS, they do not possess the software architecture, API design, or cloud infrastructure skills specified in the job description.

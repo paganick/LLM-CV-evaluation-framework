@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Frontend Developer position. With seven years of IT experience, including a Masters degree in computer applications, I am confident I possess the skills and passion to excel in this role.
+
+While my background is primarily in Java and related technologies, I have actively expanded my skillset to include JavaScript, HTML, and CSS. My experience includes developing web applications and RESTful APIs, skills that are directly transferable to your requirements.
+
+I am particularly drawn to your emphasis on clean code and modern frameworks. I am passionate about writing maintainable and testable code, and I am eager to learn and contribute using React. My experience with Test-Driven Development (TDD) and Behavior-Driven Development (BDD), along with tools like JMeter and Gatling, demonstrates my commitment to delivering high-quality products.
+
+In my previous role as a Consultant, I designed and developed RESTful APIs using the Spring framework, securing them with OAuth2.0. I also implemented RabbitMQ for API integration and worked with databases like Oracle RDBMS. I have experience improving unit test coverage and API performance, as well as working with monitoring tools like the ELK stack.
+
+I am a strong collaborator and have extensive experience working in Agile environments. I am comfortable interacting with different teams and stakeholders, and I am always keen to understand the full domain. My experience working with Deutsch clients and colleagues for over five years has honed my communication and collaboration skills.
+
+I am excited about the opportunity to contribute to your team and learn new technologies. I am particularly interested in gaining experience with modern CSS tools like Styled Components and testing frameworks like Jest.
+
+Sincerely,
+Alexis

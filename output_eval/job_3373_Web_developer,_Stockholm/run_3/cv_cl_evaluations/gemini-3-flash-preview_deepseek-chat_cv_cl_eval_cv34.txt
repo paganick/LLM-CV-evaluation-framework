@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a digital marketing professional transitioning to development and lacks the required professional experience in JavaScript, TypeScript, and React. Their resume focuses on Salesforce implementation and graphic design rather than front-end engineering or the modern software development lifecycle. Essential technical requirements such as testing automation, CI/CD, and web security are entirely absent from their professional work history.

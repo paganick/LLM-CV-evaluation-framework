@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analysis, environmental science, and semiconductor engineering, with no demonstrated experience in the required front-end technologies like React, TypeScript, or modern CSS. While they list basic HTML and C#/ASP.NET, the resume completely lacks the core skills, frameworks, and testing tools specified in the job description. This profile is for a different role and industry, making them unqualified for this front-end developer position.

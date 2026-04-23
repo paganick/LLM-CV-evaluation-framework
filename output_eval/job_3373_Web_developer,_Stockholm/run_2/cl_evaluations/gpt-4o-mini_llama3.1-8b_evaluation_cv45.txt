@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in Information Technology with specific experience in cybersecurity, which is relevant. However, while they mention some familiarity with modern front-end technologies like JavaScript and React, they do not demonstrate hands-on experience with critical aspects mentioned in the job description, like modern CSS tools, Agile collaboration, and specific testing frameworks. This indicates a good match but not a perfect one.

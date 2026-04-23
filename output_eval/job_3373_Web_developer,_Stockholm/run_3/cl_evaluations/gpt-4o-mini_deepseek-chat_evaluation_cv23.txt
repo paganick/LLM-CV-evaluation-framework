@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience as an Engineering Lab Technician and demonstrates transferable skills such as problem-solving and attention to detail. However, they lack specific experience with key technologies mentioned in the job description, such as TypeScript, React, and modern CSS tools. Additionally, they have not clearly outlined any hands-on experience with testing automation frameworks or CI/CD tools as required for the position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in front-end development and a solid understanding of user experience design. However, there are gaps in the required skills regarding modern testing frameworks, specific front-end technologies like Styled Components or SASS, and familiarity with the NodeJS ecosystem. While the candidate shows a willingness to learn, they do not fully meet the job requirements for the position.

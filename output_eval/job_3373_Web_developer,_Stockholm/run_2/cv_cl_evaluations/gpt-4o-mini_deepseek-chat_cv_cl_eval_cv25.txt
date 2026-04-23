@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a strong background in graphic design, they lack essential front-end development skills outlined in the job description, such as proficiency in JavaScript, TypeScript, modern frameworks like React, and testing automation. Their knowledge of HTML and CSS is a positive aspect, but the absence of technical expertise in core areas such as Git, CI/CD tools, and relevant testing frameworks limits their applicability for this developer role.

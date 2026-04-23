@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and sales, lacking direct frontend development experience. While the cover letter mentions familiarity with API integration and data management, it doesn't provide evidence of hands-on experience with JavaScript, TypeScript, or React, which are core requirements. The candidate expresses interest in learning, but the resume does not reflect the required skills.

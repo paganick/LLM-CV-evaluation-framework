@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the modern frontend stack required, specifically React, TypeScript, and contemporary testing frameworks like Jest or Cypress. Their professional background is heavily centered on legacy .NET technologies and jQuery, which does not align with the requirement for modern library expertise and functional programming. While they demonstrate a solid understanding of SDLC and Agile, the technical gap in required tools and the dated nature of their experience make them a poor fit for this specific role.

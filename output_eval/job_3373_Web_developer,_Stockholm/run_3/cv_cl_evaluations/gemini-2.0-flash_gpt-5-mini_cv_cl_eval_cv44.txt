@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some front-end knowledge with HTML/CSS and some UI/UX experience, but lacks the necessary depth in modern JavaScript frameworks like React as specified in the job description. The resume focuses heavily on design and prototyping rather than software engineering. While the cover letter expresses interest in learning these technologies, it doesn't demonstrate current proficiency.

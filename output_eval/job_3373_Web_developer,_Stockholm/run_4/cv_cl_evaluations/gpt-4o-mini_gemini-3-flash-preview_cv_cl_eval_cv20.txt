@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid foundation in web development and relevant programming languages, particularly with JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frontend frameworks like React, TypeScript, and specific testing frameworks mentioned in the job description. While they demonstrate proficiency in Agile methodologies and collaboration, there are gaps in their experience with required tools and technologies that limit their suitability for this role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is primarily focused on customer service and sales roles, with no demonstrated experience or skills in JavaScript, TypeScript, HTML, or CSS. There is no mention of modern front-end frameworks like React, VueJS, or Angular, nor any relevant testing or automation experience. Overall, the candidate lacks essential technical qualifications and industry relevance for the position.

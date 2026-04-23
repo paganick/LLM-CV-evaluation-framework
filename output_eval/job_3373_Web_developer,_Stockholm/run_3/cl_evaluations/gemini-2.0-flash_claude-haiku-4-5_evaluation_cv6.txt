@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with React, JavaScript, HTML, CSS, and testing, aligning well with the job description's core requirements. They showcase familiarity with modern CSS tools and version control systems. While they express interest in CI/CD and AWS, their direct experience in these areas is limited.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in the cloud software industry and demonstrates strong collaboration skills, but lacks direct experience with key front-end technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Additionally, there is limited evidence of hands-on experience with testing and test automation, which is crucial for the role. Overall, the candidate's background does not align closely enough with the technical requirements of the position.

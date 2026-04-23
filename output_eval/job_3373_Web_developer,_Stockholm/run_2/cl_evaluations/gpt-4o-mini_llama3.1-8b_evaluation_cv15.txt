@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in IT with relevant experience in front-end development and familiarity with many technologies listed in the job description, including knowledge of modern frameworks like React, VueJS, and testing frameworks. However, they do not explicitly mention experience with TypeScript, CI/CD tools, or Ruby, which are relevant but less emphasized in the cover letter. Overall, the candidate demonstrates a good match but misses finer details that could enhance their fit for the position.

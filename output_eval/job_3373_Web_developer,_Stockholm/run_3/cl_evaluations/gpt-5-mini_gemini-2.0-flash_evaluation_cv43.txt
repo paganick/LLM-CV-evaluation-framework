@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong program management, curriculum design, and user-experience awareness, which are transferable, but provides no concrete evidence of core front-end technical skills required (JavaScript/TypeScript, HTML/CSS, React, testing, Git, Node ecosystem, security practices). Stating "intermediate coding skills" and eagerness to learn React is insufficient for this role given the explicit technical requirements. This is a relevant-industry applicant but lacks the specific hands-on front-end experience needed.

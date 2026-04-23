@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in media planning and advertising with only rudimentary HTML/CSS and database exposure, and they lack virtually all core frontend requirements such as JavaScript/TypeScript, React, modern testing frameworks, Git workflows, Node/npm, and web security knowledge. Their experience does not demonstrate the technical skills, frameworks, or tooling required for this frontend engineering role. Given the significant mismatch in industry experience and missing essential technologies, they are not qualified for the position.

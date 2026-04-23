@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience and skills in JavaScript, TypeScript, HTML, CSS, and familiarity with React, which aligns with the job requirements. However, they do not mention experience with security practices such as OWASP, CSP, CORS, or tools like CI/CD and modern CSS tools, which are essential for the role. Their lack of specific experience with some of the preferred technologies slightly reduces their suitability.

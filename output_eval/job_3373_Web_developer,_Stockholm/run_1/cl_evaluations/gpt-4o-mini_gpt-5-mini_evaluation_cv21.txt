@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience and skills in web development, particularly with .NET technologies and various front-end frameworks. However, there are gaps in required modern front-end frameworks like React, specific testing frameworks mentioned in the job description, and security knowledge related to OWASP. While they demonstrate strong collaboration skills, the lack of direct experience with some requested technologies and methodologies prevents them from being a strong contender.

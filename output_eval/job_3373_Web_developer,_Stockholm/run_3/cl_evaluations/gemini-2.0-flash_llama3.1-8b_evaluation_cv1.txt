@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in test automation and related technologies like Selenium and Java. However, the cover letter overemphasizes Java/Spring and lacks a clear focus on JavaScript and modern FE frameworks (React, Angular, VueJS) which are primary requirements in the job description. The candidate's past experience and projects seem a bit different from what the job description emphasizes.

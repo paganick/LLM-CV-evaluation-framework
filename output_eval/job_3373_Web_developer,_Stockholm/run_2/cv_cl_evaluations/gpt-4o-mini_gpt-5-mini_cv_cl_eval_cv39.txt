@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and web development but lacks the specific front-end technologies listed in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate a desire to learn and grow into a front-end engineering role, their current skill set is insufficient for the technical demands of the position.

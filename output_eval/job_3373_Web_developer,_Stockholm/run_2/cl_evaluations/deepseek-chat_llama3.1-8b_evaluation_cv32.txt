@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate explicitly states they lack the core technical requirements (JavaScript, TypeScript, modern frameworks) and provides no evidence of experience with testing, Git, or web security. Their skills in customer service, project management, and MS Office are from a different domain and do not align with the technical front-end developer role. The cover letter demonstrates a fundamental mismatch with the job's required technical skill set.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience (HTML, CSS, JavaScript), but lacks direct experience with React, TypeScript, and modern CSS tools like Styled Components or SASS. While they mention testing, the resume lacks specifics about testing frameworks (Jest, TestCafe, Cypress). Their background is heavily focused on .NET, which is not the primary focus of the job description.

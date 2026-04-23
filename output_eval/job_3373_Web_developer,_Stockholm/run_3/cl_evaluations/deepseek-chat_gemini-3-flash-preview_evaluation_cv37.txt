@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, TypeScript, testing, Git, security, and Agile collaboration. Their leadership and SDLC experience provide valuable context, though the cover letter is more strategic than hands-on, and they do not explicitly mention several specific tools from the job description (e.g., Jest, Cypress, ESLint, CircleCI, Terraform). They are a strong match but could more directly address the listed tooling.

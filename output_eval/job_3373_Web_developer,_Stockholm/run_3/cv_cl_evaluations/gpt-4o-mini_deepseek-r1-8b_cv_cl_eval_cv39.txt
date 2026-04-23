@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in graphic design and web development but lacks direct proficiency in the core technical skills required for the position, such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is no mention of experience with testing frameworks or knowledge about web security which are critical to the role. Overall, while the background is relevant, the candidate's specific technical skills do not meet the requirements outlined in the job description.

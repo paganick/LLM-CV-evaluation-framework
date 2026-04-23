@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong academic background and foundational knowledge in web technologies, they lack professional experience with the specific modern stack required, most notably React and TypeScript. The resume is heavily focused on Java-based backend development and performance testing, with frontend experience limited to legacy frameworks like AngularJS and jQuery. Furthermore, there is no evidence of practical experience with the requested modern tools such as Styled Components, SASS, or automated testing frameworks like Jest and Cypress.

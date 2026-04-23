@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over seven years of general software experience, the resume lacks any specific mention of React, TypeScript, or modern frontend testing frameworks like Jest or Cypress. Their primary professional experience is heavily focused on PHP, C++, and legacy technologies, with no evidence of professional application in modern frontend architectures or AWS/CI/CD tools. The profile reflects a generalist background rather than the specific expertise in modern JavaScript ecosystems required for this role.

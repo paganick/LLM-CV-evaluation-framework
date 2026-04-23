@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a designer transitioning into development and lacks the professional, hands-on experience with React, TypeScript, and automated testing frameworks required for this role. Their letter indicates that their knowledge of the Node.js ecosystem, functional programming, and API design is aspirational rather than proven through industry application. Consequently, they do not meet the technical seniority level or the specific toolkit proficiency demanded by the job description.

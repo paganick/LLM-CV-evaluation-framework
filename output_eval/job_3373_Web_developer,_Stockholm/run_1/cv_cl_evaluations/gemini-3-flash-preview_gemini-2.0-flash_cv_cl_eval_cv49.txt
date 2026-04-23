@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a Front-End Developer role, as their background is exclusively in Data Science and Industrial Engineering. They lack any professional experience or demonstrated proficiency in JavaScript, TypeScript, React, or modern CSS tools, which are core requirements of the position. Furthermore, the candidate's cover letter explicitly confirms they have yet to learn the required framework, React, making them a poor fit for this technical role.

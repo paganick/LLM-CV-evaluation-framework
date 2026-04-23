@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development professional with no professional experience in software engineering or the specified technology stack (React, TypeScript, CI/CD). Their resume focuses on sales and organic chemistry, with technical mentions limited to outdated tools like Dreamweaver and Flash. They fail to meet every primary technical requirement for this modern front-end development position.

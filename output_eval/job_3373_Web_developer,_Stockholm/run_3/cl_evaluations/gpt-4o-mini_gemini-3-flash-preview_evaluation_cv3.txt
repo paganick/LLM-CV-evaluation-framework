@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in web development and has experience with programming languages and technologies mentioned in the job description. However, they lack hands-on experience with the specific modern frameworks and tools highlighted, such as React, testing frameworks mentioned, and CI/CD tools. Their background in the construction industry is an interesting angle but does not directly translate to the specific requirements set forth in the job description.

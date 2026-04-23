@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and the Node.js ecosystem, aligning well with the job description. They highlight testing experience and familiarity with Agile methodologies, which are also positive. However, the cover letter lacks specific mention of TypeScript and some of the preferred tools like Styled Components, SASS, Jest, or Cypress, preventing a higher score.

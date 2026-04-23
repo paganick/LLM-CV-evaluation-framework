@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level Product Management professional who lacks the hands-on engineering experience and technical proficiency required for this JavaScript/React developer role. While they have extensive experience in the tech industry and Agile environments, they do not possess the mandatory skills in TypeScript, modern frontend frameworks, or automated testing. There is a fundamental functional mismatch between the candidate's executive-level background and the specific technical requirements of the position.

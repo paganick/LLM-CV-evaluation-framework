@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is tangentially related, with testing experience being a plus. However, the cover letter lacks direct evidence of front-end development skills beyond familiarity with JavaScript and C++. It overemphasizes testing experience which, while valuable, doesn't compensate for the lack of core front-end skills like React, HTML, or CSS as emphasized in the job description.

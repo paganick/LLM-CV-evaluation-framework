@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the front-end developer role. With a Bachelor of Science in Computer Science and a track record delivering object-oriented design, billing systems and database solutions, I bring practical engineering experience, solid problem-solving skills, and a strong commitment to producing clear, maintainable code.
+
+In my role as Consultant I provided design, programming and implementation support for a customer billing system written in Java, and prepared test plans, test data, and user documentation. That engagement strengthened my ability to translate business requirements into robust software, and gave me hands-on experience with API design and persistence using EJB and relational databases. As a Database Administrator I worked on migrating and integrating data from legacy systems, setting up new databases, and ensuring data integrity—skills that help me understand full-domain implications of front-end features and collaborate effectively with back-end teams.
+
+I have practical experience with JavaScript and HTML from web development work and a long history of working with IDEs, versioned systems, and cross-functional teams. I am comfortable troubleshooting complex technical issues (from software debugging to hardware fault tolerance), communicating clearly with stakeholders, and producing user documentation and test artifacts. Those activities align well with an Agile environment and with the collaborative cadence your team describes.
+
+While my background is stronger on server-side systems, databases and application design, I am eager to expand into modern front-end frameworks (React is of particular interest) and front-end testing automation. I am a fast learner who values clean, testable code and takes pride in readable, well-documented implementations. I also welcome interaction with other teams and external partners and enjoy gaining full domain understanding beyond my immediate tasks.
+
+My background also includes database migrations, integrating legacy systems, and hands-on hardware troubleshooting — from RAID and fault-tolerant drives to configuring networked servers. Earlier experience as a CNC programmer instilled precision, attention to detail and process-driven problem solving. I consistently produce clear documentation and training materials for end users and partners. These strengths make me well suited to contribute reliably while learning modern front-end patterns and toolchains quickly effectively.
+
+I am enthusiastic about the opportunity to contribute to your team by applying my systems-level perspective, disciplined approach to testing and documentation, and commitment to collaborative delivery. Thank you for considering my application. I look forward to the possibility of discussing how my experience can support your front-end initiatives.
+
+Sincerely, Alexis

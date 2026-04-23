@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web design and HTML, along with knowledge of React, Git, and testing frameworks. However, they lack specific experience with TypeScript, modern CSS tools, and security practices mentioned in the job description, which diminishes their fit for the position. Overall, they display a willingness to learn and collaborate, but crucial technical skills remain unaddressed.

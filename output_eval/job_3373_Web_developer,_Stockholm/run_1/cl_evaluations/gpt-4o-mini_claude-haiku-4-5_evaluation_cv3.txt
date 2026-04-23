@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses foundational knowledge in JavaScript, HTML, and CSS, and demonstrates understanding of Agile environments and collaboration. However, they lack specific experience with modern frameworks such as React, along with testing frameworks and tools mentioned in the job description, which limits their ability to fully meet the requirements.

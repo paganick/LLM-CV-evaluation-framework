@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With a solid foundation in HTML and CSS, combined with my proven ability to work collaboratively in fast-paced environments, I am confident I can contribute meaningfully to your team.
+
+Throughout my career, I have developed hands-on experience with web technologies and coding. My background includes working with HTML, CSS, and SQL, complemented by familiarity with web frameworks including WordPress and Dot Net Nuke. As an English major with a genuine passion for clear communication, I bring a commitment to writing clean, well-documented code that others can easily understand and maintain.
+
+My professional experience has cultivated strong collaborative skills in dynamic team environments. As an Implementation Consultant, I have consistently worked closely with internal project teams and external client teams, leading calls to uncover requirements and managing stakeholder expectations. This experience has taught me the value of understanding the full domain and collaborating across different platforms and teams—qualities I recognize as essential in your Agile environment.
+
+I demonstrate a genuine interest in staying current with technology. My educational background includes coursework in Web Design and Development where I studied HTML, CSS, and SQL fundamentals. I am actively pursuing professional certifications and continuously seek to expand my technical knowledge.
+
+My technical troubleshooting aptitude and experience with web technologies have prepared me to quickly learn new tools and frameworks. While my primary experience has been with the technologies mentioned, I am particularly eager to develop expertise in React, modern testing frameworks like Jest and Cypress, and tools such as ESLint and Prettier. I recognize the importance of comprehensive testing practices and quality assurance, which I have applied throughout my career in various implementation and technical roles.
+
+I am drawn to this opportunity because it aligns with my desire to deepen my frontend development skills while contributing to a team that values clean code, continuous learning, and cross-functional collaboration. I am confident that my foundation in web technologies, strong work ethic, and collaborative mindset position me well to grow into this role and add value to your organization.
+
+Thank you for considering my application. I look forward to discussing how I can contribute to your team's success.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses extensive IT experience, including proficiency in JavaScript, HTML, and CSS, aligning with the job requirements. However, the letter lacks concrete examples of using React, the company's primary framework. While the candidate expresses a willingness to learn, the absence of direct experience with testing frameworks (Jest, Cypress), CI/CD tools (CircleCI), and other technologies listed as preferred is a concern.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates extensive design and general web experience but does not provide concrete evidence of the core front-end technical skills required (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, Git). While Agile and "clean code" are mentioned, the letter lacks any specific experience with the listed technologies (React, Jest/Cypress, Ramda, CI/CD, AWS/Terraform), so they would require significant upskilling to meet this role's requirements.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant skills like JavaScript, HTML, CSS, and Git, but experience with React and other modern FE frameworks seems limited based on the resume, despite mentioning it in the cover letter. The candidate's experience is primarily .NET focused, and lacks specific experience with testing frameworks and CI/CD tools mentioned in the job description. The resume does not showcase experience with NodeJS or cloud platforms like AWS.

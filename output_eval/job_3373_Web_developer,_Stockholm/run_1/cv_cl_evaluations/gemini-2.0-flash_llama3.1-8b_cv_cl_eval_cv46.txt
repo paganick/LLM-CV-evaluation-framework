@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript and HTML in their skills, and claims experience with Jest, TestCafe, ESLint, Prettier, and CircleCI in the cover letter, but this is not substantiated by the resume's experience section. The resume is heavily focused on database administration and older technologies like Java and EJB, not modern front-end development. While the candidate expresses interest in modern FE technologies, the evidence provided is weak.

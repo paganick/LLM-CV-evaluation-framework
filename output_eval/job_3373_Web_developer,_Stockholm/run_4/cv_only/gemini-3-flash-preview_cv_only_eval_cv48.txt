@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their professional background is entirely focused on hardware maintenance, IT support, and systems administration rather than software engineering. There is no mention of JavaScript, React, TypeScript, or any of the required front-end development frameworks and tools in the resume. The candidate's experience is in a different sector of the IT industry, making them a wrong fit for this development-heavy position.

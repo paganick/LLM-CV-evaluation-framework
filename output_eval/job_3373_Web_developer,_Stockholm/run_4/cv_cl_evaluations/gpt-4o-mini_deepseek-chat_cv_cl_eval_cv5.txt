@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe technologies and some foundational knowledge in web development, particularly with JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frontend frameworks like React, as well as knowledge in relevant testing frameworks, security concepts, and CI/CD tools required for the position. Their background is more suited to backend roles, making them underqualified for a frontend-focused role.

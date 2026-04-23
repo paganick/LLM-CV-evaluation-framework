@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in databases and backend Java, which is a relevant industry but does not align with the core front-end and JavaScript/TypeScript/React focus of the job description. While they mention adaptability and a willingness to learn, they lack direct, hands-on experience with the key technologies and frameworks listed as requirements. Their strengths are in a different technical domain, making them underqualified for this specific role.

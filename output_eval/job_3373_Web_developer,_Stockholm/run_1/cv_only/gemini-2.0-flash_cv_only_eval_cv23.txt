@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some familiarity with Javascript but lacks experience with modern FE frameworks like React, Typescript, and associated tooling. While they have experience with testing, it's not clearly aligned with web development testing frameworks mentioned in the job description. The resume focuses heavily on hardware and electronics, with limited evidence of the required web development skills.

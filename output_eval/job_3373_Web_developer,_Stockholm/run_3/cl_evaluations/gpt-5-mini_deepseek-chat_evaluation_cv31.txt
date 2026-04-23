@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates many required front-end skills (JavaScript/TypeScript, React, HTML/CSS, Styled Components/SASS, Jest/Cypress, Git, ESLint/Prettier) and relevant soft skills from prior leadership experience, indicating a strong match for the role. However, this is a career transition with limited evidence of professional, production-grade front-end experience and lacks explicit hands-on experience with several listed items (Ramda, CircleCI, API design, AWS/Terraform and full Node/Express usage), so they are not a perfect fit yet.

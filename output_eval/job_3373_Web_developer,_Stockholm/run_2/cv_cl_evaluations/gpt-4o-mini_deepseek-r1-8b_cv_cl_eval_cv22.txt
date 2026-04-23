@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in database systems and some exposure to web technologies like HTML and CSS, but lacks hands-on experience with key requirements such as modern JavaScript frameworks (specifically React), testing frameworks, and Git. While the candidate’s work experience is in a related field, it does not align well with the specific technical skills and collaborative environment required for the role.

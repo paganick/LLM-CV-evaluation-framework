@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in software development and demonstrates relevant experience in Agile environments, along with a commitment to clean code. However, they lack hands-on experience specifically with key technologies listed in the job description, such as modern frontend frameworks (e.g., React) and testing frameworks like Jest. The candidate's primary experience in Java does not directly align with the focus on JavaScript and frontend technologies needed for the role.

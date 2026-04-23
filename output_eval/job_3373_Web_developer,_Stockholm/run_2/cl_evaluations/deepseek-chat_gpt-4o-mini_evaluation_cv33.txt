@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and touches on many required keywords, but lacks concrete, hands-on experience with the core technical stack. The letter emphasizes leadership and soft skills over demonstrated proficiency in React, TypeScript, modern CSS tools, and other specific technologies listed. While showing a willingness to learn, the application does not provide evidence of practical, production-level experience with the key requirements.

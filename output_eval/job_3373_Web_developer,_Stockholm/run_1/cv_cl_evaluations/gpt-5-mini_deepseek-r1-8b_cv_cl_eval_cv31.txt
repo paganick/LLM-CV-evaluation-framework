@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a sales and management background with no demonstrated experience in JavaScript/TypeScript, modern front-end frameworks (React), testing/automation, Git, NodeJS, or web security—core requirements of the role. Resume shows only minor HTML/content work and the cover letter explicitly acknowledges a non-technical background and lack of the required technical skills, so they are not qualified for this technical front-end position.

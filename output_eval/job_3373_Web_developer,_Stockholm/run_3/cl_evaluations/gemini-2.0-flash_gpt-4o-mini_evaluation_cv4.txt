@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML/CSS, and React, aligning with the job description's core requirements. They also showcase familiarity with testing frameworks and Agile environments. While they mention OWASP and CORS, the job description requests *basic knowledge* which aligns to the experience that the candidate mentions, as well as using Git and GitHub. The candidate demonstrates some good points to the requirements of the job description but doesn't quite demonstrate exceeding the requirements.

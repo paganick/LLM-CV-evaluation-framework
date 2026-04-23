@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a long history in business development, with experience selling digital solutions. However, the resume does not explicitly mention experience with API, Cloud, DevOps, Microservices, BigData, Data Science or Design Consulting which are listed as requirements. The candidate also does not provide metrics related to the KPIs listed in the job description.

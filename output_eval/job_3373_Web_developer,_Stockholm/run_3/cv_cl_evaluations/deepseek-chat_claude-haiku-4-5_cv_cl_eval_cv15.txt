@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in general IT management and troubleshooting, not professional frontend development. The resume and cover letter lack any mention of modern frontend frameworks (React, Vue, Angular, Svelte), testing frameworks, or the specific tools listed in the job description. While they have foundational web skills, their profile does not align with the required professional software engineering and modern development stack expertise.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights extensive experience in Java, which isn't the focus of the role. While they mention familiarity with the Node.js ecosystem, Ramda, and web security, their primary expertise doesn't directly align with the JavaScript/React focus. They need more relevant FE experience.

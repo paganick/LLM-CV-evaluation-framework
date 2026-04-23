@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience in a dedicated software engineering role, with a background primarily in graphic design. While they demonstrate knowledge of the core React and TypeScript stack, they fail to address several mandatory requirements, including web security protocols (OWASP/CORS), functional programming, and cloud infrastructure (AWS/Terraform). The profile lacks the necessary technical depth and proven professional tenure in a development environment to meet the job's rigorous standards.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in graphic design and art direction, which aligns with the creative aspects of frontend development. They demonstrate knowledge of HTML, CSS, and have begun to transition toward JavaScript and React development. However, they lack substantial experience with the modern frontend frameworks, testing automation practices, and specific programming languages and tools listed in the job description, which hinders their overall match.

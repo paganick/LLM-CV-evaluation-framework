@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital marketing and Salesforce implementation professional whose background does not align with the requirements for a modern Frontend Engineer. The resume lacks any professional evidence of experience with JavaScript, TypeScript, React, or automated testing frameworks, focusing instead on legacy graphic design tools and marketing automation. Despite claims made in the cover letter, the actual work history shows the candidate is in the wrong industry for this specific engineering role.

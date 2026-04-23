@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, React, HTML, CSS, testing frameworks, and Git, aligning well with the job description. They mention familiarity with Agile, CI/CD concepts, and security principles. However, the resume focuses heavily on Java and backend experience, which is not the primary focus of the frontend role, and lacks depth in specific frontend tools like Styled Components or deeper NodeJS experience.

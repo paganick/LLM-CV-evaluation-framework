@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some frontend experience with AngularJS, HTML, CSS, and JavaScript, but lacks specific React experience emphasized in the job description. Their experience is primarily Java-focused, with limited exposure to modern frontend tools and testing frameworks mentioned in the requirements. While the cover letter expresses interest in learning these technologies, the current skillset doesn't align strongly with the listed requirements.

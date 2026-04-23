@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical aptitude and a methodical QA background, but lacks direct, hands-on experience with the core front-end technologies and frameworks listed in the job description, particularly React, TypeScript, and modern CSS tooling. Their experience is heavily weighted towards hardware validation and embedded systems, not modern web development. While they express strong motivation to learn, their current skill set does not meet the specific, required qualifications for the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the years of experience requirement and has relevant HTML skills, but they fail to mention proficiency in Figma, which is the primary tool requested for this role. Their experience is predominantly freelance and architectural, which may not translate directly to the "commercial Agile software development environment" specified in the requirements. While they demonstrate strong workshop facilitation and research skills, the lack of explicit Agile experience and the use of a legacy toolset like Sketch/InVision prevents a higher rating.

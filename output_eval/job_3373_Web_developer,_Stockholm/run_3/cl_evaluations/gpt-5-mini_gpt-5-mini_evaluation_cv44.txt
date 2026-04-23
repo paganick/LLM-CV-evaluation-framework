@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid visual design, HTML/CSS and prototyping experience and a CS degree, but lacks demonstrated hands-on experience with core job requirements — React, TypeScript, modern JS toolchain (Node/npm/Yarn), Git, testing frameworks (Jest/Cypress/TestCafe), CSS-in-JS/SASS, and CI/CD. Their testing exposure is limited to UAT/FUT and not unit/integration/E2E automation, and they do not mention security, linters, or repository workflows. They show willingness to learn, but currently do not meet the technical bar for this role.

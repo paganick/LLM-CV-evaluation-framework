@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some familiarity with HTML and web design but lacks required experience in core technologies like JavaScript and TypeScript, and modern frameworks like React. While they have some project management and collaboration skills, they do not demonstrate sufficient technical knowledge or hands-on experience in testing frameworks and CI/CD tools, which are critical for the role.

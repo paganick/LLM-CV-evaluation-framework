@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience in the core requirements of React and TypeScript, explicitly stating a need to learn the framework rather than having mastered it. While they possess solid general web development experience and familiarity with CI/CD tools, their testing background (Behat/Selenium) and CMS-heavy history do not align with the modern frontend ecosystem requested. As a result, the candidate is underqualified for a role that mandates immediate proficiency in a React-based architecture.

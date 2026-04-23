@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows no professional experience in software development, frontend technologies, or any of the technical skills listed in the job description. The cover letter claims proficiency in React, TypeScript, testing, and other required tools, but these claims are entirely unsupported by the provided work history, which is exclusively in customer service, sales, and management. This is a severe mismatch, indicating a candidate from a completely different industry attempting to transition without demonstrated, relevant experience.

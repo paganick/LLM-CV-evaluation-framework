@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant foundational education and demonstrates a strategic pivot with self-taught core skills (JavaScript, TypeScript, React, HTML, CSS). However, the cover letter lacks specific, hands-on proof of applying these front-end skills in a professional development capacity. It does not concretely address several key requirements from the job description, such as testing frameworks, modern CSS tools, CI/CD, or functional programming, relying instead on analogies from past non-development roles.

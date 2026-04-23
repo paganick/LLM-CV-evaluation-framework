@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's seven years of professional experience are almost entirely in legacy Mainframe technologies like COBOL, DB2, and CICS, which are irrelevant to this modern frontend role. While the cover letter mentions an interest in React, the resume lacks any professional projects or hands-on experience with the required stack, including TypeScript, modern testing frameworks, or CI/CD tools. This profile is a fundamental mismatch for a position requiring a seasoned developer in the JavaScript ecosystem.

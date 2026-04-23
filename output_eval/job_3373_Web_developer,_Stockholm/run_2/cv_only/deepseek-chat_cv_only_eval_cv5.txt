@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and a completely different domain (core banking back-end). They possess none of the required modern front-end skills (React, TypeScript, modern CSS), testing frameworks, or web development ecosystem knowledge listed in the job description. This is a case of a completely wrong industry and skillset for the role.

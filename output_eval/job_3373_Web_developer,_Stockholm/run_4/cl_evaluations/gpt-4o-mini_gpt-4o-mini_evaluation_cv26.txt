@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in marketing and public relations with some transferable skills but lacks proficiency in essential front-end technologies like JavaScript, TypeScript, HTML, and CSS. While they express a willingness to learn and an interest in modern frameworks, they do not demonstrate sufficient practical experience, particularly with React, testing frameworks, or the broader technical ecosystem required for the role.

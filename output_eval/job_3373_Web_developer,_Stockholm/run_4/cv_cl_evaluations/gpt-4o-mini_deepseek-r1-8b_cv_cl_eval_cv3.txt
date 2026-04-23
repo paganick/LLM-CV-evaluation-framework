@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic knowledge in web development technologies such as HTML, CSS, and JavaScript, along with a foundation in project management and teamwork from their construction background. However, they lack hands-on experience with modern frameworks like React, testing practices, and other specific requirements mentioned in the job description, which limits their suitability for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and a strong desire to transition to frontend, but lacks direct, hands-on experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools, testing frameworks). Their background is primarily in Java/J2EE backend development, and they acknowledge their skills in the required frontend areas are still developing. While they show good foundational knowledge and a willingness to learn, the specific technical gaps are significant for the role.

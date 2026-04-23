@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience as a Corporate Project Manager and Director of IT, but lacks direct experience as a Front-End Developer, particularly with JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate an understanding of version control and testing practices, they do not explicitly highlight experience with the mentioned modern CSS tools and specific testing frameworks required for this role. Overall, they have some technical knowledge but are missing key hands-on development skills.

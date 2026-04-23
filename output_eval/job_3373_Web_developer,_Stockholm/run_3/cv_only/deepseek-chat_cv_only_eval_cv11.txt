@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software testing and Agile, but the role is for a front-end developer with strong React, TypeScript, and modern tooling expertise. The resume shows only basic JavaScript/HTML and no experience with React, TypeScript, CSS-in-JS, or the specific testing frameworks and functional programming (Ramda) required. Their profile is heavily skewed towards quality assurance and test automation, not front-end development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in electronics testing and troubleshooting, which is not the focus of the front-end development role. While they mention JavaScript, the resume lacks evidence of modern FE frameworks (React, VueJS, Angular, Svelte) or modern CSS tools. The resume also doesn't showcase experience with testing frameworks like Jest, TestCafe, or Cypress, nor CI/CD tools.

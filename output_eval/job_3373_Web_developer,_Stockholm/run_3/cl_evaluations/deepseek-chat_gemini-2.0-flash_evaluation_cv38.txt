@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in film and media production, not software development, which is the wrong industry for this technical role. The cover letter fails to mention any of the required technical skills such as JavaScript, React, HTML/CSS, or testing frameworks. While the candidate shows adaptability, the experience described is not relevant to the core responsibilities of a Front-End Developer.

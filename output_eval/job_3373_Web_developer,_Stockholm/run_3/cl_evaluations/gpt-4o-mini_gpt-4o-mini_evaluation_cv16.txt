@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development and demonstrates familiarity with key technologies such as JavaScript, HTML, CSS, and modern frameworks like React. However, the absence of specific mention of TypeScript and some testing frameworks listed in the job description limits their match. Overall, the candidate shows strong collaboration skills and a willingness to learn, which aligns well with the position.

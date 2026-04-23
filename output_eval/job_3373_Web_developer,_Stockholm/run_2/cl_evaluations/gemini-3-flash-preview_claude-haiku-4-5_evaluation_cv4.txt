@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a solid foundation in software development, they lack several mandatory technical requirements, most notably direct experience with TypeScript and modern JavaScript testing frameworks like Jest or Cypress. Their admission that primary expertise lies in C# and Python, rather than the requested React/TypeScript focus, suggests a significant skills gap for a frontend-specific role. Additionally, the application fails to mention essential requirements such as web security standards (OWASP, CORS) or Git proficiency.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing implementation and project management, not professional front-end development. While they mention foundational HTML/CSS and express interest in React/TypeScript, they lack proven, hands-on experience with the core technologies (modern JS frameworks, testing, Git, security) and tools (Jest, Node.js, CI/CD) specified in the job description. Their client-facing and documentation skills are transferable, but the direct technical fit for a development role is weak.

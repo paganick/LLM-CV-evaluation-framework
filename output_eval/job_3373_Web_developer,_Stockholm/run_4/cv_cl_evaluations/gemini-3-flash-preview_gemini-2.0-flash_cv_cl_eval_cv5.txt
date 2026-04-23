@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer with no professional experience in modern frontend development, missing nearly all required skills such as React, TypeScript, and contemporary testing frameworks. While they possess a background in software engineering, their expertise is in an entirely different domain (COBOL/CICS), and their last relevant work experience dates back to 2014. This profile represents a complete lack of the specific technical qualifications and recent industry experience necessary for the role.

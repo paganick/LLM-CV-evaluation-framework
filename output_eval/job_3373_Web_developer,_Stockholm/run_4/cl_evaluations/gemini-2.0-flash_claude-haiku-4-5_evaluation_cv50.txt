@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in business development and IT project management, lacking direct frontend development experience. While they possess a computer science degree and demonstrate eagerness to learn, the cover letter highlights a gap in core requirements such as React, TypeScript, and testing frameworks. The letter relies heavily on transferable skills, which is not enough to compensate for the lack of direct experience for a strict evaluation.

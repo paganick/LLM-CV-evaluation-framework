@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a strong transition from design to frontend development, covering core requirements like React, TypeScript, and modern CSS. However, the cover letter lacks explicit, hands-on mention of several key technical requirements from the job description, including testing frameworks, Git, CI/CD tools, and functional programming with Ramda. The extensive design background is valuable, but the direct evidence for some specific technical proficiencies is implied rather than stated.

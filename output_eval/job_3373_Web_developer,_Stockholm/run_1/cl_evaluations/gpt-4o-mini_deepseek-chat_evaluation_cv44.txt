@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with HTML, CSS, and front-end design, which aligns with the job requirements. They have also shown initiative in learning JavaScript and React, key technologies for the position. However, there is a lack of specific mention of TypeScript, testing frameworks such as Jest or TestCafe, and a basic understanding of security principles, limiting their overall match to the role.

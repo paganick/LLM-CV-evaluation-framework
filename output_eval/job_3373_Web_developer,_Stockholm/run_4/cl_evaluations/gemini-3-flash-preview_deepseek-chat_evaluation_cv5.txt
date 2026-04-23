@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer whose professional experience is almost entirely in mainframe technologies rather than the required modern frontend stack. They lack hands-on professional experience with TypeScript, React, and modern CSS tools, categorizing their web development skills as "foundational" or "growing" rather than established. While the candidate has strong general engineering principles, they do not meet the specific technical requirements for a mid-to-senior level frontend position.

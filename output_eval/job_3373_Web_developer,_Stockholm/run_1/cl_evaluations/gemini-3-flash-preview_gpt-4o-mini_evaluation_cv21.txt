@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong foundational knowledge in web development, testing, and DevOps tools like AWS and Terraform, but fails to mention experience with React and TypeScript, which are the primary requirements. There is also no mention of essential web security standards (OWASP, CSP, CORS) or modern code quality tools like ESLint and Prettier. While the candidate understands functional programming and Agile environments, their reliance on AngularJS represents a legacy skillset compared to the specific tech stack requested.

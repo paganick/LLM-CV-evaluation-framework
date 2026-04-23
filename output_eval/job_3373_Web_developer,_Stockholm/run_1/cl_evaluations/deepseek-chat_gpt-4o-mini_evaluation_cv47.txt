@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not front-end development, and they lack direct, hands-on experience with the core technologies listed (React, TypeScript, modern CSS tools). While they mention a desire to learn and have some foundational programming knowledge, they do not demonstrate proven, professional experience in the specific technical stack or modern front-end practices required for the role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong experience in frontend development, particularly with React, HTML, CSS, and JavaScript, which aligns well with the job requirements. They also have a solid background in test automation, familiarity with Agile methodologies, and experience working with Git, all of which are essential for the role. However, the candidate lacks specific mention of TypeScript and some modern testing frameworks, which are additional preferences for the position.

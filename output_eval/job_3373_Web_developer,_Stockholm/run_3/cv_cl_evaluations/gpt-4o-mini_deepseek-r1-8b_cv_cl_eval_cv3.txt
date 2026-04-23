@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational qualifications and some proficiency in essential web technologies such as HTML, CSS, and JavaScript. However, they lack hands-on professional experience, specifically with modern frameworks like React, and testing automation, which are critical for this role. While they have demonstrated problem-solving skills and a desire to learn, their experience remains too limited to fully meet the job requirements.

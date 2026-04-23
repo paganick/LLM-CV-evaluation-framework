@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills like JavaScript, TypeScript, HTML, CSS, Jest, TestCafe, ESLint, Prettier, and CircleCI, aligning with the job description. However, the cover letter focuses heavily on database management and previous roles in media planning and consulting, which aren't the primary focus of the job description emphasizing frontend development. While the candidate expresses interest in React and the NodeJS ecosystem, the depth of experience isn't clearly established, leading to a moderate score.

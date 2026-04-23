@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience with JavaScript, TypeScript, or React, which are the core requirements for this software development role. Their background is rooted in digital marketing and Salesforce implementation, which is a different industry focus from modern front-end engineering. Furthermore, the resume shows no evidence of experience with automated testing, CI/CD pipelines, or the Node.js ecosystem.

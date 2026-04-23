@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in web development, modern CSS, testing, and Agile collaboration, aligning well with many job requirements. However, the cover letter lacks explicit mention of TypeScript and React, which are core to the role, and only implies experience with modern frontend frameworks. The candidate's background is heavily weighted toward Drupal/PHP, requiring a clear transition to a React-focused environment.

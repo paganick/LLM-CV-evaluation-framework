@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, not frontend development. While they express interest and some adjacent skills (Python, some awareness of NodeJS), they lack demonstrable experience with core requirements like React, TypeScript, HTML, CSS, and modern frontend development workflows. The cover letter attempts to bridge this gap, but the resume provides little evidence to support their claims.

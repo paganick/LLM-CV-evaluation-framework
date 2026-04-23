@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and familiarity with core web technologies like JavaScript, HTML5, and CSS. However, they lack hands-on experience with modern frontend frameworks specifically mentioned in the job description (e.g., React, VueJS, Angular), and there is no evidence of using testing frameworks or CI/CD tools. The resume shows general IT consulting but does not provide sufficient details on the specific skills and experience needed for the frontend developer role.

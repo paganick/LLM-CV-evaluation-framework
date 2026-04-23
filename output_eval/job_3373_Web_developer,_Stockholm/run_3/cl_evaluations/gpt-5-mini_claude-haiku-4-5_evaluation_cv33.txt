@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong transferable skills (team leadership, Agile experience, communication) and clear motivation to transition, but provides no hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Git, modern CSS, NodeJS, CI/CD, web security). For a role that explicitly requires practical experience across these technologies, the application is not yet qualified. Recommend presenting demonstrable frontend projects, tests, and repository history before reconsideration.

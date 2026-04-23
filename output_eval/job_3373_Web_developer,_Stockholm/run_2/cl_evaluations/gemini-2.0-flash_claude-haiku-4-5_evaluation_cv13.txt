@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in project management, not dedicated frontend development. While they possess a foundational understanding of JavaScript, HTML, and CSS and some experience with Angular, their hands-on experience with React (the company's primary framework) and testing frameworks is limited. Their experience doesn't quite align with the required level of expertise in the technologies mentioned in the job description.

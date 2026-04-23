@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience and education are completely unrelated to the requirements outlined in the job description. They lack any knowledge or skills in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. Additionally, there is no indication of experience in testing, version control, or familiarity with relevant web security concepts.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and possesses skills in HTML, CSS, and JavaScript. However, they lack direct experience with modern front-end frameworks and libraries mentioned in the job description, such as React, and do not demonstrate proficiency with testing frameworks that meet the stated requirements. Overall, the candidate is somewhat qualified but lacks significant specific experience required for the role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their background is primarily in administrative management, arts, and education rather than software engineering. They lack the required professional experience with JavaScript, TypeScript, React, and modern development workflows. Mentioning "html" and "web-design" as minor skills does not meet the technical depth or industry standards required for this front-end developer role.

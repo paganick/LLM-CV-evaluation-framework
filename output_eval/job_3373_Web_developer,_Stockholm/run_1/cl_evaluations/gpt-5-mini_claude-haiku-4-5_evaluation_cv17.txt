@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable skills from project management and expresses emerging competency in React, JavaScript/TypeScript, and Git, which makes them relevant to the role. However, they lack demonstrable hands-on experience with several critical requirements listed in the job description (testing/test automation, modern CSS tools, Node/npm ecosystem, Ramda/functional programming, CI/CD, and cloud/infra familiarity). With more concrete evidence of technical projects and proficiency in the stated tooling, they could be a stronger match.

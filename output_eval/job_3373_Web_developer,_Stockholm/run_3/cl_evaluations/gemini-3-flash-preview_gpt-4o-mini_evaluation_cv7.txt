@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in graphic design, they lack the demonstrated professional engineering depth required for a high-level Frontend Developer role. Their technical skills in TypeScript, React, and CI/CD are presented as areas of interest or basic familiarity rather than proven hands-on expertise in a production environment. Consequently, the candidate does not meet the requirements for advanced technical competencies like API design, automated testing, and cloud infrastructure management.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong testing knowledge, but the cover letter lacks direct, hands-on experience with the core frontend development technologies required, specifically React and modern frontend frameworks. While they mention a technical foundation, they do not provide concrete examples of building or developing with React, which is a critical requirement. Their background is heavily weighted in quality assurance, making this an attempted career transition rather than a proven match for the role.

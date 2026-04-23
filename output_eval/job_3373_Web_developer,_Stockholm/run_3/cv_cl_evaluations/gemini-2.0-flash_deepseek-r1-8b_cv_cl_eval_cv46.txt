@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions experience with React, Jest, and Cypress in the cover letter, but the resume lacks concrete details and focuses on older technologies like Java and EJB. While the skills section lists some relevant technologies, the resume lacks quantifiable achievements related to modern front-end development and cloud technologies, which are crucial for the job. The work history doesn't demonstrate current, hands-on experience with the specific technologies and practices outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is in materials analysis and quality engineering, which is a completely different industry from front-end software development. While the cover letter claims self-taught skills in JavaScript, React, and testing frameworks, the resume provides zero evidence of professional experience, projects, or education in any required technologies. The core technical and professional requirements from the job description are not substantiated by the candidate's documented work history.

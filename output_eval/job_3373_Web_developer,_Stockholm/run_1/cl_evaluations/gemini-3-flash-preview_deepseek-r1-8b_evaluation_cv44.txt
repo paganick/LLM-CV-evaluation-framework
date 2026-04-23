@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core technical requirements, specifically JavaScript, TypeScript, and React, focusing instead on visual design and outdated tools like Dreamweaver. While they possess a Computer Science degree, the letter fails to demonstrate hands-on expertise in automated testing, security protocols, or CI/CD pipelines. Their background in presentation and multimedia design is a poor match for a senior engineering role requiring specific programming and architectural skills.

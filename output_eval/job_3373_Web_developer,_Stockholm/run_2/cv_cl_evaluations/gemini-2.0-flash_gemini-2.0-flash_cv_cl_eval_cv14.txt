@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in ASP.NET, which doesn't align strongly with the JavaScript/React focus of the job. While they claim familiarity with JavaScript, HTML, and CSS, the resume highlights .NET technologies more prominently. The lack of specific project experience with modern FE frameworks beyond Bootstrap is a concern.

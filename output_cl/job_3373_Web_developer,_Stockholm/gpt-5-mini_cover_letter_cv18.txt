@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I bring more than 18 years of hands-on information technology experience, focused on web design, development, systems administration, and project delivery. Over my consulting career I have designed, built, and hosted more than 30 client web sites and domains, implemented business-critical systems, and led projects that required careful requirements analysis, testing, and validation. I take pride in producing clean, maintainable code and in learning and adopting the best tools for the job.
+
+My practical front-end experience includes HTML5, CSS, and JavaScript, combined with graphic and interaction design skills developed through many client-facing projects. I have created responsive web pages, optimized site performance, implemented content management solutions, and integrated web applications with back-end services using familiar server technologies such as Apache and Express. I am comfortable working with modern CSS workflows and pre-processors, and I am eager to apply established component approaches such as Styled Components or SASS in a React codebase.
+
+Quality, testing and documentation are central to my process. I led validation and testing efforts for regulated submissions, prepared technical documentation and SOPs, and managed patch, upgrade, and backup procedures. That discipline translates to reliable unit, integration and E2E testing practices and an appreciation for linters, formatters, and CI/CD pipelines — all to ensure repeatability and low-risk releases.
+
+As a consultant I regularly collaborate with cross-functional teams, stakeholders and external partners to understand business domains, translate requirements into technical specifications, and deliver solutions within time and budget constraints. I enjoy working in iterative environments, mentoring users, and grooming requirements until they are ready for implementation.
+
+Earlier in my career I was project technical lead for an ERP deployment and for a regulated electronic document management system that produced the company's first global electronic submissions, enabling an NDA submission to the FDA ahead of schedule and saving millions in revenue. I have trained staff on new operating systems, prepared technical proposals and SOPs, and consistently documented processes to reduce operational risk across client engagements and improving measurable client outcomes consistently.
+
+I am enthusiastic about joining a team that uses React and modern functional patterns. I will bring my extensive systems understanding, disciplined development and testing mindset, and a genuine passion for clean code and continuous improvement. I look forward to the opportunity to contribute and to quickly grow into any technology gaps.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in project management and training, which is relevant, but lacks concrete experience in front-end development technologies such as JavaScript, TypeScript, HTML, and modern frameworks like React. Additionally, their technical skills do not align well with the specific requirements for testing, CI/CD tools, and web security knowledge outlined in the job description.

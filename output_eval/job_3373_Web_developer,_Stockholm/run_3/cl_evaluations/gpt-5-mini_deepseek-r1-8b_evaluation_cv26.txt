@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills in communication, project management, and a stated willingness to learn, but provides no concrete evidence of hands-on experience with React, TypeScript, modern CSS tooling, Node/npm, testing frameworks, CI/CD, or web security called for in the job posting. Their background is tech-adjacent rather than technical, lacking specific examples of coding, repositories, or projects. Given the role's requirement for demonstrated practical experience, the candidate is not sufficiently qualified at this time.

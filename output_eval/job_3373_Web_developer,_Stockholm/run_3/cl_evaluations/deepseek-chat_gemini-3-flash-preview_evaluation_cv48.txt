@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, TypeScript, testing, Git, security, and Agile. Their extensive infrastructure background provides a unique, valuable perspective that exceeds the basic requirements. The score is not a 9 because the cover letter is more weighted toward systems administration experience, and while they mention the required skills, they do not explicitly detail hands-on project depth with some listed tools like specific testing frameworks or CI/CD.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in program design and research, which translates to some UX skills. However, the job description asks for 2-3 years of experience as a UX designer, and the candidate's experience is not directly in a UX designer role. While they mention familiarity with Agile, HTML, CSS, and JS, it's not clear if they have practical experience with Figma prototyping or managing UI Design Systems as needed.

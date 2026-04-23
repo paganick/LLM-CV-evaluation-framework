@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong foundation in the necessary front-end technologies, including JavaScript, TypeScript, HTML, and CSS, along with experience in React, testing frameworks, and tools like Git, ESLint, and Prettier. However, while they demonstrate good collaboration skills and an understanding of Agile environments, they lack specific experience pertaining to security practices like OWASP and familiarity with CI/CD tools mentioned in the job description, which slightly hinders their alignment with the ideal candidate profile.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has significant experience in IT and troubleshooting, their exposure to modern frontend technologies is limited and does not sufficiently cover key skills outlined in the job description such as React, modern CSS tools, and testing frameworks. Although they demonstrate some relevant experience and a willingness to learn new technologies, they lack hands-on experience with critical requirements like CI/CD tools and API design, which are essential for this role.

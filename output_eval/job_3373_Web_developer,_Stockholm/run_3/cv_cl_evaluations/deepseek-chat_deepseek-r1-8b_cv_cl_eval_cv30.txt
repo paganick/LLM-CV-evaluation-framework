@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analysis, quality assurance, and backend technologies (SQL, Python, C#, ASP.NET), which is a completely different domain from the front-end development role. The job description requires core proficiency in JavaScript/TypeScript, React, and modern front-end tooling, none of which are mentioned in the candidate's materials. While the candidate expresses interest and soft skill alignment, they lack the specific, hands-on technical experience required for the position.

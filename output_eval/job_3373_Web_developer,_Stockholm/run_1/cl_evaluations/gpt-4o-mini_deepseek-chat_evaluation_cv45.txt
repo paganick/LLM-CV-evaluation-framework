@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in IT and security, relevant to the position's focus on web security principles. They demonstrate proficiency in modern technologies such as JavaScript, TypeScript, and React, aligning well with the job requirements. However, there is no mention of specific testing frameworks, modern CSS tools, or experience with CI/CD tools, which may be important for the role.

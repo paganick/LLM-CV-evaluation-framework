@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive software development experience with demonstrable UI work (wireframes, prototypes, Unity GUI systems) and a portfolio, aligning well with core responsibilities and behavioral requirements. Points are deducted because they do not state an explicit UI/UX job title or clearly document 3+ years in a dedicated UI/UX role, nor do they specify required tooling (e.g., Wireframe.cc/InVision, Illustrator/Photoshop), and their background is primarily in large-game studios rather than a scale-up environment.

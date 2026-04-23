@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript, HTML, and CSS, but focuses on AngularJS, while the job description prioritizes React. While Agile experience is noted, specific testing frameworks requested are not mentioned. The cover letter lacks demonstration of key requirements like TypeScript, modern CSS tools, and NodeJS ecosystem familiarity.

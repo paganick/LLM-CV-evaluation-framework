@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong design background but lacks the specific technical skills required for the front-end engineering role, particularly in JavaScript, TypeScript, modern frameworks like React, and testing automation. While they have a familiarity with HTML and CSS, their overall experience is more aligned with graphic design rather than the software development focus of the position.

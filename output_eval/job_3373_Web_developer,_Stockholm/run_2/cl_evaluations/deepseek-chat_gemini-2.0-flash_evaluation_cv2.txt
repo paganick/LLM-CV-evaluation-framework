@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and a strong desire to transition to frontend development, but lacks direct, hands-on experience with the core technologies listed in the job description (e.g., React, TypeScript, modern CSS tools, specific testing frameworks). While they demonstrate good foundational skills and a willingness to learn, the job requires proven, current expertise in a modern frontend stack, which is not evidenced. The application is a career pivot, not a direct match for the required skill set.

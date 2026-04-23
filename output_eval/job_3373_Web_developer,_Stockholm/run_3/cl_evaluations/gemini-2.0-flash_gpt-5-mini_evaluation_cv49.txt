@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is from a relevant but different industry, showing analytical and problem-solving skills. However, there's a lack of direct experience with the specific frontend technologies listed in the job description (React, JavaScript, TypeScript, HTML, CSS), and testing frameworks, despite expressing a willingness to learn. While the cover letter mentions related tools and concepts, it does not demonstrate hands-on experience with the core requirements.

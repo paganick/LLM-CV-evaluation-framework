@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-switcher who lacks professional experience in the mandatory technical stack, specifically JavaScript, TypeScript, and React. While they have strong transferable soft skills and basic knowledge of HTML/CSS/SQL, they fail to demonstrate hands-on proficiency in testing frameworks, CI/CD pipelines, or modern front-end tooling required by the job description. They are currently at an entry-level learning stage, which does not meet the requirements for an established engineering role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend development, testing, and Agile environments, directly matching many job requirements. However, the cover letter lacks specific, explicit mention of key technologies from the job description like TypeScript, modern React, and the listed testing frameworks (Jest, Cypress). While the foundational skills and adaptability are evident, the absence of these precise technical keywords prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/backend developer with a resume that has not been updated since 2017, lacking recent professional experience in a modern frontend environment. While the cover letter claims familiarity with required tools like TypeScript and CircleCI, these are not reflected in the actual work history, and the candidate’s testing expertise is focused on Java-based Selenium rather than the requested JavaScript frameworks like Jest or Cypress.

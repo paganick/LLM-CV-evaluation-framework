@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all the core technical requirements for the position, including proficiency in JavaScript, TypeScript, and React. There is no evidence of experience with front-end testing, web security, or modern CSS tools, which are essential for this role. While the candidate possesses analytical skills from a data background, they are completely unqualified for a professional front-end developer position at this time.

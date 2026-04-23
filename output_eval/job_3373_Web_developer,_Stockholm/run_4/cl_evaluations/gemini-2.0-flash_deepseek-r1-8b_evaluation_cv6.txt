@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions JavaScript, HTML, CSS, Git, Agile, and security fundamentals, aligning with some requirements. However, the cover letter lacks specific mention of React (the framework used by the company), TypeScript, and the specific testing frameworks mentioned in the job description. While demonstrating general knowledge, they haven't highlighted the specific skills most relevant to the role.

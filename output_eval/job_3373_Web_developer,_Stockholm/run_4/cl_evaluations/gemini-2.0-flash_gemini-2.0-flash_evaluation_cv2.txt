@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a background in software development and related technologies, but lacks direct frontend experience, especially with React, the company's primary framework. While they express eagerness to learn and adapt, the cover letter acknowledges gaps in essential skills, particularly testing frameworks and CSS tools mentioned in the job description. The candidate's prior experience is mostly backend, requiring a significant transition to meet the frontend developer requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in technical project management, not dedicated frontend development. While they have some foundational knowledge of JavaScript, HTML, and CSS, they lack the required hands-on, recent experience with React and modern testing frameworks (Jest, Cypress) as specified in the job description. Their skills are broad and managerial rather than deep and technical, making them underqualified for a specialized frontend developer role.

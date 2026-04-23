@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET, which doesn't align well with the JavaScript-focused job description. While the cover letter expresses interest in modern JavaScript frameworks, the resume lacks concrete experience in React, TypeScript, or modern testing frameworks. The candidate demonstrates some familiarity with Git and general web development concepts but misses key requirements.

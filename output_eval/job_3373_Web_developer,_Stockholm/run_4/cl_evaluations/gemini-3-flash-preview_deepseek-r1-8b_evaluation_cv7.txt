@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical role, as their professional background is entirely in graphic design rather than software engineering. They lack the required hands-on experience with JavaScript, React, TypeScript, and testing frameworks, offering only an interest in learning these skills rather than a proven track record. Consequently, they do not meet the core technical requirements or industry-specific experience necessitated by the job description.

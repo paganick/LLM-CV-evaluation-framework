@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in web design and development, mentioning HTML5, CSS, and JavaScript, but lacks specific examples of modern FE frameworks like React as prioritized in the job description. While they mention familiarity with testing frameworks, the resume doesn't showcase hands-on experience with test automation. The cover letter attempts to bridge this gap, but the resume's vagueness is a concern.

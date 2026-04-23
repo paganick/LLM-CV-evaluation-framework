@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial web and full-stack experience with HTML5, CSS3, JavaScript, and legacy AngularJS and strong .NET backend skills, which shows relevant industry background. However their resume lacks evidence of key requirements: TypeScript, React (or other modern frameworks), Node/npm/Express, modern testing frameworks (Jest/Cypress/TestCafe), Git/GitHub usage, and CI/CD/AWS experience. The cover letter asserts some modern practices but is not substantiated by the resume, so they are a relevant but underqualified fit for this role.

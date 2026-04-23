@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in front-end development and has knowledge of HTML, CSS, and JavaScript, as well as an interest in React. However, they lack experience with some of the specific frameworks, tools, and CI/CD knowledge mentioned in the job description, such as TypeScript, modern CSS tools, and functional programming. While they possess relevant skills and a willingness to learn, they do not fully meet the requirements for the position.

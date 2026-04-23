@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume focuses on IT management, security, and infrastructure, lacking the specific front-end development skills (JavaScript, React, CSS, HTML) required for the job. While the candidate possesses a strong background in IT and cybersecurity, there is no mention of the required skills in the job description. The resume does not demonstrate experience in modern front-end frameworks or testing.

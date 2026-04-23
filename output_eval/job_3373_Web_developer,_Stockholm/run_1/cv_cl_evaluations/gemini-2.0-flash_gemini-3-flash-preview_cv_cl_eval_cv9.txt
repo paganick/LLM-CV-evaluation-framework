@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong Java background but lacks sufficient experience with modern frontend frameworks like React, which is the primary framework used by the company. While they claim proficiency in JavaScript, HTML, and CSS, the resume focuses heavily on backend technologies. The candidate also lacks experience with specific tools mentioned in the job description, such as Styled Components, Jest, and Cypress.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong, broad web and systems experience (HTML/CSS/JS, Express, testing mindset, CI/CD) and good consulting/communication skills, but the letter lacks explicit TypeScript and concrete production React experience, and does not show familiarity with key items in the JD such as specific testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, web security (OWASP/CSP/CORS/OAuth), or AWS/Terraform. These missing specifics mean they are relevant to the industry but do not fully meet the role's technical requirements.

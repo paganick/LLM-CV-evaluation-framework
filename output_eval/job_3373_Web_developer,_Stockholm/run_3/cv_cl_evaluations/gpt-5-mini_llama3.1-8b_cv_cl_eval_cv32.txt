@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show extensive customer service and sales experience but no technical experience with JavaScript, TypeScript, React, modern CSS tools, testing frameworks, Git, NodeJS, or cloud/CI tooling required for this frontend engineering role. They explicitly state they lack direct programming experience and list only basic office/CRM skills, making them a complete mismatch for the technical requirements. This is a wrong-industry candidate for the position as described.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills, including Agile, Git, security awareness, and a willingness to learn the modern stack. However, the cover letter lacks direct, hands-on experience with key requirements like React, TypeScript, and modern testing frameworks, which are explicitly stated as needs. The experience is primarily in ASP.NET/C#, making this a transition candidate with potential but not a direct, proven match for the specific tech stack.

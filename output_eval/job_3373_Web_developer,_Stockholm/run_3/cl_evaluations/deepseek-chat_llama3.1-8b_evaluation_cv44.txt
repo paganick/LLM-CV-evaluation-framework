@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end technical skills (JavaScript, TypeScript, React, CSS tools) and mentions Agile collaboration, which aligns with the job description. However, the cover letter is heavily weighted towards design experience (UX/UI, Adobe Suite, presentations), while critically under-specifying required development practices like testing frameworks, Git, CI/CD, security knowledge, and functional programming. The core competencies are present but not demonstrated with the depth or focus required for a strong match.

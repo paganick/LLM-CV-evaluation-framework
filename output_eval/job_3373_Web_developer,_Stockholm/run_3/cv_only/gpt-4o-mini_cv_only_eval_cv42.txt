@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has 20 years of experience in finance operations but lacks any relevant technical skills or experience in JavaScript, TypeScript, HTML, CSS, or modern frontend frameworks like React. Their background does not align with the requirements of a software development position, and there is no indication of familiarity with testing frameworks, version control, or web security concepts.

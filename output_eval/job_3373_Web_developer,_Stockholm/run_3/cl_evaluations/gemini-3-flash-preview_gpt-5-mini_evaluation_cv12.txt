@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate explicitly states a lack of experience with React and TypeScript, which are the primary technical requirements for this frontend-specific role. While they possess a strong general engineering background and relevant experience with SASS and Git, their lack of hands-on expertise with modern frontend frameworks and automated testing libraries makes them an unsuitable match for a senior-level position. Their background is more aligned with legacy full-stack development rather than the modern frontend architecture required by the team.

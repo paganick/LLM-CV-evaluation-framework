@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer with no demonstrated experience in JavaScript, TypeScript, React, or any frontend frameworks required for this role. While the cover letter attempts to draw parallels between design and software development, it lacks concrete evidence of programming skills, testing frameworks, Git/GitHub experience, or any of the technical competencies listed in the job description. This is a complete career transition with no relevant technical foundation, making the candidate unsuitable for a frontend developer position.

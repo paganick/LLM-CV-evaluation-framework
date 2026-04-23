@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in software testing and quality assurance, they lack professional experience in frontend development and modern frameworks like React. The application mentions only "basic knowledge" of HTML and fails to demonstrate proficiency in TypeScript, CSS preprocessors, or functional programming as required by the job description. As a career-changer, the candidate is currently missing the core technical depth needed for a developer-level role.

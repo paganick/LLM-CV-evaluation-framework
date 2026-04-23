@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong analytics and backend/data background with some HTML and ASP.NET experience, but there is no demonstrable experience with core front-end requirements such as JavaScript/TypeScript, React, Node/npm, modern CSS tooling, or front-end testing/CI practices. They show collaboration and project experience, yet lack the specific front-end frameworks, testing automation, and tooling required for this role. The score reflects relevant technical aptitude but insufficient front-end specialization and hands-on experience.

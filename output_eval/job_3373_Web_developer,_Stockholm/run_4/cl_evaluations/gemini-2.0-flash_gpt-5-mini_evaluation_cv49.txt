@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis and industrial engineering, which isn't a direct fit for a frontend engineer role. While they express interest in learning frontend technologies and have some transferable skills, the letter lacks demonstrated experience with JavaScript, HTML, CSS and modern FE frameworks. The candidate's strengths lie in data-related tasks and process improvement, not in building user interfaces.

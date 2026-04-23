@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational knowledge of web development and relevant skills in HTML, CSS, and JavaScript, but lacks hands-on experience with modern frameworks like React, as well as testing and automation tools. Their background in the construction industry does not directly translate to web development, which may hinder their ability to quickly adapt to an Agile environment. While they show eagerness to learn and improve, the lack of direct experience in the required tools and frameworks places them below the ideal qualification level.

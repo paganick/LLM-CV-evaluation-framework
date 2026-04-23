@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the minimum years of experience and possesses strong academic credentials alongside the necessary leadership skills for mentoring and roadmap strategy. However, they fail to mention experience in an Agile environment and list Sketch/InVision as their primary toolkit rather than the highly desirable Figma. While technically proficient in HTML and workshop facilitation, the mismatch in primary design software and lack of methodology specifics prevents a higher rating.

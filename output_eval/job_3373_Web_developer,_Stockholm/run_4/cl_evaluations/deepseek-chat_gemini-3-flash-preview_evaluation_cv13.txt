@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, project management, and a foundational understanding of core web technologies. However, the cover letter critically lacks mention of the specific modern frameworks (React, Vue, Svelte) and tools (e.g., TypeScript, testing frameworks, CI/CD) listed as requirements. The experience cited with Angular is dated, and there is no evidence of hands-on work with the key technologies in the job description, making them underqualified for the specific technical demands of the role.

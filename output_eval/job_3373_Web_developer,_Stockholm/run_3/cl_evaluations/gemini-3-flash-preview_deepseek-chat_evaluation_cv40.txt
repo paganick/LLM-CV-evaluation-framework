@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses significant industry experience and foundational knowledge of the required tech stack, their professional history is primarily in product management rather than hands-on development. The cover letter describes a career pivot, meaning they lack recent, verifiable professional experience writing production-level code with modern frameworks like React and TypeScript. A strict assessment identifies a high risk in their ability to transition from a high-level strategic role to the technical execution required for this position.

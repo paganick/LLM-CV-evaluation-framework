@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a foundational understanding of key technical skills, including JavaScript, TypeScript, React, and testing frameworks like Jest. However, they lack direct experience with several specific requirements mentioned in the job description, such as familiarity with modern CSS tools and CI/CD tools. While their unique background in microbiology and quality systems adds value, it does not fully align with the expectations of the role.

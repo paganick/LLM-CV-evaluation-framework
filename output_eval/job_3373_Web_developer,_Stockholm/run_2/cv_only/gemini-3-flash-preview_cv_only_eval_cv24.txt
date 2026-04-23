@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a communications and marketing professional with no background in software engineering or frontend development. They lack all mandatory technical skills, including JavaScript, TypeScript, React, and automated testing frameworks. This profile represents a complete industry mismatch for the requirements of a technical developer role.

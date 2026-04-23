@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the IT industry, their professional history focuses on systems administration and legacy web design rather than modern front-end engineering. The resume lacks evidence of professional experience with the required stack, specifically React, TypeScript, and automated testing frameworks, listing outdated tools like Flash and Dreamweaver instead. Consequently, the candidate does not demonstrate the specific technical expertise needed for this modern development role.

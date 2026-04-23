@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Java/J2EE background, which is not the primary focus of the job description. While they express interest in front-end technologies and mention some relevant skills like HTML, CSS, and JavaScript, they lack specific experience with modern front-end frameworks like React, VueJS, or Angular, which are core requirements. The cover letter attempts to bridge this gap, but the resume doesn't strongly support it.

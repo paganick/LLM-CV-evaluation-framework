@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in full-stack web development and aligns well with key technologies such as JavaScript, HTML, CSS, and Bootstrap, as well as Agile environments. However, they lack mention of specific frameworks like TypeScript and modern CSS tools such as Styled Components or SASS, which limits their match for the role. Overall, the candidate demonstrates a solid foundation but does not fully meet all the requirements.

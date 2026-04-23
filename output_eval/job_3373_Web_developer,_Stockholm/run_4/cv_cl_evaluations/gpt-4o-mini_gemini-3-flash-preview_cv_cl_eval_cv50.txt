@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a Bachelor of Science in Computer Science and experience with high-level software projects, they lack direct experience in the specified modern front-end technologies such as React, TypeScript, and specific testing frameworks like Jest or Cypress. Their background is more oriented towards project management and business development in the aerospace industry, which does not fully align with the requirements of a software engineering role focused on front-end development.

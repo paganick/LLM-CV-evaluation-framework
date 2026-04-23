@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate's background is focused on hardware and test engineering with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, or modern frontend frameworks such as React. There is no evidence of familiarity with frontend testing frameworks, Node/npm, GitHub workflow, web security (OWASP/CSP/CORS/OAuth), or CI/CD for web applications. Their skills (Python, electronics, lab equipment, manufacturing processes) are not aligned with the core requirements of this frontend developer role.

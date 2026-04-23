@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant analytical and testing aptitude from a hardware/QA background, which is a partial match for the industry. However, they lack direct, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern CSS tools, and test automation frameworks. Their self-described familiarity with foundational web technologies is insufficient for a front-end developer role requiring specific, practical skills.

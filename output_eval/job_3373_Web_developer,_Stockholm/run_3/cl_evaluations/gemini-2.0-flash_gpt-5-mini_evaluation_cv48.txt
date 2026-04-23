@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT support, lacking direct experience in front-end development with React, JavaScript, TypeScript, HTML, and CSS. While they express a willingness to learn and mention familiarity with web content management systems and digital imaging tools, they lack the required hands-on experience with modern front-end frameworks, testing, and security practices outlined in the job description. They do not mention practical experience with Git, modern CSS tools, testing frameworks, or the NodeJS ecosystem.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core front-end development skills listed in the job description, such as React, Typescript, and modern FE frameworks. While they mention HTML and CSS, their experience is primarily in email marketing platforms, not modern web application development. The resume focuses on Salesforce Marketing Cloud consulting, which is not directly relevant to the JavaScript-focused role.

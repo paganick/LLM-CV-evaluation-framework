@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate displays relevant experience in technology and a strong understanding of front-end development principles, including JavaScript and HTML/CSS. However, there is a lack of specific experience with TypeScript and modern FE frameworks such as VueJS, Angular, or Svelte, as well as a more comprehensive understanding of the NodeJS ecosystem and CI/CD tools mentioned in the job description. This places them in a relevant industry but lacking specific skills for the role.

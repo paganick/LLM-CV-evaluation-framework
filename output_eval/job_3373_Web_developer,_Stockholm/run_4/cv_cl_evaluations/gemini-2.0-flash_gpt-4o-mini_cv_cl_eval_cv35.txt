@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in marketing automation, not front-end development. While the cover letter mentions some relevant technologies (JavaScript, HTML, CSS, React, Git, Jest, Cypress), the resume lacks concrete experience in these areas, focusing instead on Eloqua and Salesforce. The candidate demonstrates a desire to transition, but lacks sufficient hands-on experience for the job description's requirements.

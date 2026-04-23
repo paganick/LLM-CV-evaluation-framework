@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT support and hardware/network administration, which is a completely different industry and skillset from modern front-end software development. The cover letter claims familiarity with the required technologies (React, Jest, Cypress, etc.) but the resume provides zero evidence of professional experience with JavaScript, TypeScript, React, or any other core technologies listed in the job description. This is a fundamental mismatch for a front-end developer role.

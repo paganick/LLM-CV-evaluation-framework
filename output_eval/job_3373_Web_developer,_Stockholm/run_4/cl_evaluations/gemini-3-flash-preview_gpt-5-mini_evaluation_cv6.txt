@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of web development experience, they lack professional proficiency in the core technologies required, specifically React and TypeScript. Their background is heavily centered on Drupal and legacy libraries like jQuery, and they explicitly state an interest in learning—rather than possessing—the modern JavaScript ecosystem and CI/CD practices requested. As a result, the candidate does not meet the technical bar for a role requiring immediate contribution to a React-based front-end architecture.

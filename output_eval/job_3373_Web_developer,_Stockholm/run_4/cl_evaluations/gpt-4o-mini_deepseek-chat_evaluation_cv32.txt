@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React, but lacks traditional development experience and proficiency in modern CSS tools, testing frameworks beyond Jest, and CI/CD tools. While they possess strong transferable skills from their customer service background, they do not fully meet the specific requirements outlined in the job description.

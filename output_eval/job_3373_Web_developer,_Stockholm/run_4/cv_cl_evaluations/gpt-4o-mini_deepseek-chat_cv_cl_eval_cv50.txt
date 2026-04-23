@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in computer science and relevant experience in quality engineering, but lacks direct hands-on experience with the specific front-end technologies and frameworks mentioned in the job description, such as React, TypeScript, and modern CSS tools. Additionally, while they have project management and leadership experience, their overall technical proficiency in the required skills appears insufficient for the role.

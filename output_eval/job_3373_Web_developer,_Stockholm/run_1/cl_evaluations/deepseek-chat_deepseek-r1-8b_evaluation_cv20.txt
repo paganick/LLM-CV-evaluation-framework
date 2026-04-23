@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates foundational front-end skills, but critically lacks experience with the specified modern framework (React) and key technologies like TypeScript, testing frameworks, and modern CSS tools. While they show adaptability and a good attitude, the absence of direct, hands-on experience with the core tech stack required for the role is a significant gap. They are a relevant industry candidate who lacks the specific, required experience.

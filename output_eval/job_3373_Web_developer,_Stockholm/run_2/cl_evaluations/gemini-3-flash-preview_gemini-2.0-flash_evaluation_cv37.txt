@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core technical requirements, specifically modern frameworks like React, TypeScript, and automated testing, admitting a need to learn these skills rather than having used them. While their background in IT management and Agile is relevant to the industry, they fail to demonstrate any hands-on development history or knowledge of the specified security and CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows strong administrative and creative/media experience with only minimal HTML/web-design exposure; it lacks demonstrable hands-on experience with JavaScript/TypeScript, React, modern frontend tooling, testing frameworks, Git, Node/NPM, or CI/CD. The cover letter expresses intent to learn these technologies but does not provide evidence of current proficiency or project experience required for this frontend developer role. Given the technical requirements of the position, the candidate is not qualified for this role at this time.

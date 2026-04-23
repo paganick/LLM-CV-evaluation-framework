@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and foundational skills in HTML, CSS, JavaScript, and Agile processes. However, they lack direct, hands-on experience with the key technologies specified in the job description, most critically React and modern testing frameworks. Their experience is heavily rooted in the .NET/C# ecosystem, which is not a primary requirement for this role.

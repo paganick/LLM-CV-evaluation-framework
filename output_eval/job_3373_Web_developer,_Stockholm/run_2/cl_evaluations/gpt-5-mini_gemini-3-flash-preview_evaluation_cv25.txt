@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid alignment with core frontend requirements (JavaScript/TypeScript, React, HTML/CSS, Styled Components/SASS, Jest/Cypress, ESLint/Prettier, Git, and Agile collaboration) and clearly transitions from design to development. However, they lack demonstrated hands-on experience with NodeJS/Express, functional programming with Ramda, CI/CD tools like CircleCI, concrete web security practices (OWASP/CSP/CORS/OAuth), API design, and deeper AWS/Terraform experience, which are important for this role.

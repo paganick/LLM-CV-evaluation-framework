@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings extensive design/product experience and basic HTML familiarity, but does not demonstrate hands-on proficiency with the core technical requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, NodeJS ecosystem, CI/CD, and web security). Their strong motivation to learn is noted, but the role requires immediate, practical experience that the cover letter does not evidence. Transferable collaboration and product skills are positives, yet insufficient for this technical front-end position.

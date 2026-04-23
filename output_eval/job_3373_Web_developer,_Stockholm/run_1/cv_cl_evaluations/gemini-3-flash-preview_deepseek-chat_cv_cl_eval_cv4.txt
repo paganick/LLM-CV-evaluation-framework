@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of general software development experience, they lack professional experience with the core requirements of React and TypeScript. The resume fails to demonstrate hands-on expertise with the specific testing frameworks (Jest, Cypress) and modern CSS tools (SASS, Styled Components) requested in the job description. The candidate's background is primarily centered on C#, .NET, and Python, making them a poor fit for this React-centric front-end role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in computer science and experience with legacy web technologies like AngularJS, they lack the specific modern stack required, including React, TypeScript, and modern CSS tools. There is no evidence of experience with the requested testing frameworks (Jest, Cypress) or CI/CD pipelines. Additionally, the candidate's professional experience is significantly outdated, with no documented work since 2015.

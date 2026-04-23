@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate displays strong expertise in the core technologies required, including JavaScript, React, and various testing frameworks, which aligns well with the job description. They also demonstrate a good understanding of Git and continuous integration tools. However, there is no mention of TypeScript or experience with specific CSS tools like Styled Components, which prevents a perfect score.

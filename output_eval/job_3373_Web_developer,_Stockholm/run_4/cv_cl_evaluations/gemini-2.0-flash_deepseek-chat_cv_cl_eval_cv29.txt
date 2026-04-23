@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in business development and sales, not front-end development. While the cover letter claims proficiency in relevant technologies and personal projects, the resume lacks demonstrable professional experience in JavaScript, React, or other front-end technologies mentioned in the job description. The skills listed are a mix of business and technical, not indicative of the required depth for this role.

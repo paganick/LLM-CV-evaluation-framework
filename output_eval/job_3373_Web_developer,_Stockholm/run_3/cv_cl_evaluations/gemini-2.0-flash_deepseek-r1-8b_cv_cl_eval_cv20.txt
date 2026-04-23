@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in .NET development, which isn't the primary focus of the job description. While they express familiarity with HTML, CSS, and JavaScript, they lack direct experience with React and other modern front-end tools mentioned. Their experience with testing and Agile methodologies is a plus, but the overall fit is limited due to the technology stack mismatch.

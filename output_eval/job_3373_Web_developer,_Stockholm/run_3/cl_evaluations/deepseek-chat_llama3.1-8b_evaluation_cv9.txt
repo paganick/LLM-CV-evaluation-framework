@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core front-end and Agile collaboration requirements from the job description. However, the cover letter is heavily weighted towards back-end Java experience, with only a brief mention of the required front-end skills. Key technologies from the job description like Node.js, specific CSS tools, linters, and CI/CD are not addressed, indicating gaps in the full required stack.

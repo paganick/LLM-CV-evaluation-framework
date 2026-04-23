@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has experience in HTML, CSS, and project management, they lack direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the role. Their skills in testing and automation are not sufficiently demonstrated, and their background in digital marketing does not align strongly with core development responsibilities. Overall, they have relevant skills but do not meet many specific requirements outlined in the job description.

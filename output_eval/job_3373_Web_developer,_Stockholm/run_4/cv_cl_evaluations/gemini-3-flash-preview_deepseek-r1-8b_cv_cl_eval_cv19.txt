@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional graphic designer who lacks the required technical expertise in JavaScript, TypeScript, and React. While they have basic HTML/CSS knowledge, they possess no professional experience with testing frameworks, CI/CD tools, or web security as specified in the job description. The profile represents a career-changer who does not meet the core engineering requirements for this specialized frontend role.

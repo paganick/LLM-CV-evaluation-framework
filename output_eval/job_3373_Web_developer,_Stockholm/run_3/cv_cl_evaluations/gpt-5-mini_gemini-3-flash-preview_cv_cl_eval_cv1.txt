@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience with JavaScript, React, SASS, Git, Node/npm, AWS, and strong test automation background (Selenium/Cucumber/Jenkins), which aligns with several core job requirements. However, they lack demonstrated TypeScript experience, no evidence of modern frontend testing frameworks (Jest/Cypress/TestCafe), CSS-in-JS (styled-components), Ramda/functional-library usage, and Terraform familiarity. Overall, a relevant candidate but missing several specific frontend technologies and tooling required for a strong match.

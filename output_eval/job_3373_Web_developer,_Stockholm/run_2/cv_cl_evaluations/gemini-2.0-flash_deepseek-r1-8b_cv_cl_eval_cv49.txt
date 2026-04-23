@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and engineering, lacking direct experience with the core requirements of the job description. While they express interest in learning the required technologies, their resume lacks demonstrable experience in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks like React. Their experience with Git is mentioned but not elaborated upon, and there's no mention of web security knowledge beyond a general statement in the cover letter.

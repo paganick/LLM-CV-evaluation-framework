@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in sales and demonstrates a foundational knowledge of web development technologies such as HTML and CSS. However, there is a significant lack of hands-on experience with JavaScript frameworks (specifically React), testing frameworks, and other key requirements listed in the job description, resulting in an overall gap in specific technical skills.

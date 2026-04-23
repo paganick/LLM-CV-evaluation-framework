@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in hardware testing and validation, not front-end development. While they express enthusiasm and willingness to learn relevant technologies like React and TypeScript, they lack demonstrable experience with the specific technologies listed in the job description (e.g., modern CSS tools, testing frameworks, Node ecosystem). The cover letter focuses heavily on past experience, while the job description emphasizes hands-on front-end skills.

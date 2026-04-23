@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has long-standing design experience, front-end skills (HTML/CSS/PHP), and a portfolio link, which meets the baseline of 3+ years and demonstrates relevant work. However the resume is disorganized, emphasizes print/fashion graphics over clear UI/UX deliverables, and does not list required wireframing/prototyping tools (e.g., InVision, Wireframe.cc) or explicit UX research collaboration. Education is not a clear design/engineering degree and toolset/certifications appear outdated, so they lack several specific qualifications the role requires.

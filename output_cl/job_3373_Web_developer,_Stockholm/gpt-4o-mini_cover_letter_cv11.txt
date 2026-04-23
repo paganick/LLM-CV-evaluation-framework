@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Frontend Developer position as advertised. With over three years of experience in software testing, along with a strong background in JavaScript, HTML, and CSS, I believe I am well-equipped to contribute effectively to your team.
+
+Throughout my career, I have honed my skills in Agile environments, collaborating closely with developers and project coordinators to ensure high-quality software delivery. My hands-on experience includes automating tests and writing clean code, making me proficient in key testing frameworks like Jest and Selenium. I also possess a solid grounding in version control using Git and am familiar with hosting services such as GitHub. My programming skills extend to JavaScript, and I have a basic understanding of important web security concepts like OWASP and CORS.
+
+In my previous roles, I have actively participated in developing automated testing strategies for web applications, which aligns with your requirement for experience with unit tests and integration tests. My exposure to various testing types, including User Acceptance Testing and Performance Testing, positions me well to ensure the robustness and reliability of your applications. Additionally, I have experience with CSS tools and frameworks, which I believe will allow me to work effectively with your team’s focus on styled components.
+
+Moreover, I am committed to staying at the forefront of technology, continuously learning about the latest advancements in the field. My analytical abilities and problem-solving skills are complemented by my effective communication, enabling me to work seamlessly with cross-functional teams and external partners. 
+
+I am particularly excited about the opportunity to collaborate in a project that involves modern frameworks such as React, as well as exploring other platforms within the broader domain. My passion for creating quality software, along with my understanding of CI/CD tools and experience in API design, will allow me to contribute positively to your projects.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can bring my skills and experiences to your team.
+
+Sincerely,  
+Alexis

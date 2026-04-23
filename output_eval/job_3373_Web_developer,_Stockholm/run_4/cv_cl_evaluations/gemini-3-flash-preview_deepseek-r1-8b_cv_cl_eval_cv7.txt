@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer with no professional experience or documented skills in JavaScript, TypeScript, React, or any of the required software engineering frameworks. Despite a background in visual design, the resume fails to demonstrate any proficiency in frontend development, testing automation, or CI/CD tools mentioned in the job description. This is a complete mismatch of technical qualifications for an engineering position.

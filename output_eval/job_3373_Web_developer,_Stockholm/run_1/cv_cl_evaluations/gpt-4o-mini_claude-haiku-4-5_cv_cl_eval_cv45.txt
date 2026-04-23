@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and cybersecurity, with relevant knowledge of web security fundamentals, which is beneficial for frontend development. However, they lack direct hands-on experience with essential frontend skills such as JavaScript, TypeScript, and modern frameworks like React, as well as testing frameworks. Their eagerness to transition into frontend development indicates potential, but they fall short in the specific skills required for this role.

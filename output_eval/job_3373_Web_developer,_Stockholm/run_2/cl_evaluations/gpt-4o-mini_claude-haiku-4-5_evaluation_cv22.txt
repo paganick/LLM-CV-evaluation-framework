@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational technical skills in HTML, CSS, and JavaScript, but lacks the hands-on experience with modern frontend frameworks and libraries that are crucial for the position. While they demonstrate a collaborative mindset and a commitment to learning, their experience does not sufficiently align with the specific requirements of the role, particularly regarding testing frameworks and tools mentioned in the job description.

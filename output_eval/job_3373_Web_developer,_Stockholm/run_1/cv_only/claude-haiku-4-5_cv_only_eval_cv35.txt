@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Senior Marketing Automation Consultant with expertise in marketing platforms like Eloqua and Salesforce, which is completely unrelated to frontend web development. The resume contains no evidence of JavaScript, TypeScript, React, HTML/CSS, testing frameworks, Git, or any of the technical skills required for this frontend engineering position. This candidate operates in an entirely different industry (marketing technology) and lacks the fundamental programming competencies necessary for the role.

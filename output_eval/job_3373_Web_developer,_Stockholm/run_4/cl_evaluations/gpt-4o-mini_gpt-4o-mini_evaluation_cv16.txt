@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development and a background that aligns closely with the job description, particularly in JavaScript, HTML, CSS, and testing practices. However, there are notable gaps regarding TypeScript, specific modern front-end frameworks like VueJS or Angular, and a deeper understanding of functional programming as mentioned in the job description.

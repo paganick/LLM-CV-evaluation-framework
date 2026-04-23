@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in digital communications and technical writing, which provides a solid foundation for frontend development. They possess relevant experience in HTML, CSS, and accessibility standards, along with a commitment to learning React and TypeScript. However, while they mention familiarity with testing and Agile environments, they do not explicitly confirm experience with some of the specific tools and frameworks listed, such as Ramda, Jest, or CI/CD tools, which prevents a perfect score.

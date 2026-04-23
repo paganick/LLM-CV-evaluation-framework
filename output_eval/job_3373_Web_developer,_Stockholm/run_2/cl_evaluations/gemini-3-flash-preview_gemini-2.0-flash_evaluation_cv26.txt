@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all required technical proficiencies, specifically failing to demonstrate any experience with JavaScript, TypeScript, React, or automated testing. While they possess transferable soft skills, their professional background in marketing and public relations does not align with the specialized engineering requirements of this role. The admission that they still need to become proficient in the core technology (React) makes them unqualified for a professional developer position.

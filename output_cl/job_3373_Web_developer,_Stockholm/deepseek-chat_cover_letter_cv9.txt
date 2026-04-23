@@ -1,0 +1,11 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Frontend Developer position, as advertised. With over seven years of professional software engineering experience and a Master’s degree in Computer Applications, I have built a robust foundation in full-stack development, with a recent and focused passion for modern frontend technologies and practices that align perfectly with your stack.
+
+My background is primarily in Java/JEE and Spring, where I cultivated a deep commitment to clean code, Test-Driven Development (TDD), and comprehensive test automation—principles I am eager to apply to your React-based environment. I have hands-on experience with JavaScript, HTML, and Git, and I am actively expanding my expertise in TypeScript and modern CSS methodologies. My professional ethos is centered on quality and collaboration; I have extensive experience working in Agile/Scrum teams and interfacing directly with clients, including five years collaborating with German colleagues and a two-year onsite stint in Berlin.
+
+Several aspects of my experience directly correlate to your requirements. I have designed and secured RESTful APIs using OAuth2.0 and implemented high-performance, scalable services. My work with performance monitoring using tools like the ELK stack demonstrates my focus on robust, observable systems. Furthermore, I have a proven track record of learning new technologies rapidly and coaching team members, as evidenced by my quick mastery of Oracle Service Bus (OSB) in a previous role. I am genuinely passionate about emergent design, writing truly clean code, and understanding the full domain—a keenness highlighted in your description.
+
+I am confident that my strong backend foundation, combined with my dedication to mastering modern frontend development and my collaborative, quality-driven approach, would make me a valuable asset to your team.
+
+Sincerely, Alexis

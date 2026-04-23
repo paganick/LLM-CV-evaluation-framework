@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in Industrial and Systems Engineering and data analysis is not directly relevant to the Software Engineer role focusing on front-end development with React. While they express a willingness to learn JavaScript, TypeScript, HTML, and CSS, the lack of hands-on experience in these areas and modern FE frameworks is a significant drawback. The letter highlights statistical knowledge more than the required coding skills.

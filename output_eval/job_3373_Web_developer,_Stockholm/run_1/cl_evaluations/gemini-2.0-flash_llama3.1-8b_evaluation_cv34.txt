@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a background in project management and digital advertising, which is tangentially relevant. They mention React and web technologies, aligning with the job description's requirements. However, the focus leans heavily toward email platforms and Salesforce Marketing Cloud rather than a deep dive into FE frameworks like React, TypeScript, or CSS, as highlighted in the JD.

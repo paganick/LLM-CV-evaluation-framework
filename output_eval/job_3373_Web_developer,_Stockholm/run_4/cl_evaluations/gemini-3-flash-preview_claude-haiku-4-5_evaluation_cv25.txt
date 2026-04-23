@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical experience in JavaScript, TypeScript, and React, explicitly stating a need to develop proficiency in these areas post-hiring. While the applicant has a relevant background in design and basic HTML/CSS, they do not demonstrate any hands-on experience with version control, testing frameworks, or web security as required by the job description. This profile reflects a career-changer who does not currently meet the functional requirements of the developer role.

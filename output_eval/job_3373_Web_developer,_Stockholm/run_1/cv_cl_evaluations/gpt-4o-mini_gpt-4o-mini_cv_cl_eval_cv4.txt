@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has demonstrated knowledge of JavaScript, HTML, and CSS, as well as familiarity with modern frameworks like Node.js. However, they lack specific experience with React, TypeScript, and testing frameworks mentioned in the job description, which are critical for this role.

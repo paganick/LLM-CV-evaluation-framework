@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: This resume is heavily focused on systems administration and infrastructure support, lacking the necessary front-end development skills outlined in the job description. There's no mention of JavaScript, TypeScript, modern FE frameworks like React, or relevant testing frameworks. The candidate's experience is primarily in areas like UNIX, Linux, and network management, which doesn't align with the required FE skillset.

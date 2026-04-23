@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited frontend experience consisting mainly of HTML/CSS coursework. They lack hands-on experience with JavaScript, TypeScript, React, and testing frameworks, which are core requirements of the role. While adaptable and eager to learn, the skills gap is significant.

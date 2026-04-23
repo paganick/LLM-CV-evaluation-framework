@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal/PHP specialist and lacks the professional experience required in the core tech stack of React and TypeScript. Most of the specific requirements, including modern testing frameworks, Node.js ecosystem, and CI/CD tools, are identified by the candidate as areas they wish to learn rather than existing proficiencies. While they possess relevant web development experience, they do not meet the specific technical standards for a modern frontend role.

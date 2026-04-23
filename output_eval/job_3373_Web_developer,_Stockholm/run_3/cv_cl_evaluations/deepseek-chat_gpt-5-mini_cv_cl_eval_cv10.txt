@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE and AngularJS, not the required React or modern front-end frameworks. They mention foundational web skills and Agile/automation experience, but lack direct, hands-on experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools, Node.js ecosystem, specific testing frameworks). Their background is relevant to software development but lacks the specific, modern front-end stack and tooling expertise required for the role.

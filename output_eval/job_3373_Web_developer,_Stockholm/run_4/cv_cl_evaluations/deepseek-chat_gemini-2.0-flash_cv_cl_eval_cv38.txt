@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in film and media production, with no demonstrated experience in any of the required technical skills such as JavaScript, React, testing, Git, or modern web development. The cover letter attempts to draw parallels with website management but references only graphic design tools, not programming. This is a complete industry mismatch with the front-end developer role.

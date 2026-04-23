@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in Java, not JavaScript or modern FE frameworks as required. While the cover letter expresses adaptability and willingness to learn, the resume lacks demonstrable experience in the core technologies. Their familiarity with testing and Agile is a plus, but the lack of direct FE experience is a significant gap.

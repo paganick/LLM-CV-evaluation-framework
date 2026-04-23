@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in media planning and account management, which is the wrong industry for a front-end developer role. While they are pursuing a relevant degree and mention basic web technologies, they lack any professional or demonstrable project experience with the core requirements like React, TypeScript, modern testing frameworks, or the specific tools listed. The resume and cover letter show a career transition is in progress, but they do not currently meet the technical qualifications for the position.

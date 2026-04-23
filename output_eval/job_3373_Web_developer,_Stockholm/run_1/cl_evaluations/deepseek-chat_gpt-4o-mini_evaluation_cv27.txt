@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily administrative, not professional front-end development, which is a significant mismatch for the role. While they mention React, Git, and testing tools, they provide no concrete evidence of hands-on development experience, projects, or proficiency in the core technologies listed (TypeScript, modern CSS tools, security basics). The letter is aspirational about learning required skills (AWS, CI/CD) rather than demonstrating existing competency.

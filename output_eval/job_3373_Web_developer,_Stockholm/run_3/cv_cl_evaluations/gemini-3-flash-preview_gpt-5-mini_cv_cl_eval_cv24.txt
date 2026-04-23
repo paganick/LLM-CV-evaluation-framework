@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, lacking all mandatory technical skills including JavaScript, TypeScript, React, and experience with testing frameworks. Their entire professional background is in communications and journalism, which does not align with the engineering requirements of this software development role. There is no evidence of professional front-end development experience or familiarity with the specified modern web stack.

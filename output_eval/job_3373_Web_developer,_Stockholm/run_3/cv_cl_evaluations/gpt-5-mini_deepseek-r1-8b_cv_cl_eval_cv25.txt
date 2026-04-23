@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer with strong Adobe and print/web layout skills but lacks substantive experience in JavaScript/TypeScript, React, testing automation, Node.js, CI/CD, and cloud infrastructure which are core to the role. Although they list HTML/CSS and SASS, that alone is insufficient for the frontend engineering requirements, and there is no verifiable evidence of relevant engineering experience or toolchain usage.

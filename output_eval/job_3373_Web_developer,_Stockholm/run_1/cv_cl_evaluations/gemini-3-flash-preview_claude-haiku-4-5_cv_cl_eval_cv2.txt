@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java/J2EE backend developer whose experience with legacy technologies like Struts and JSP does not align with the modern React and TypeScript requirements of this role. They lack professional hands-on experience with the mandatory frontend stack, including modern CSS tools, JavaScript testing frameworks, and Node.js. While they have a solid foundation in Agile and general software engineering, their profile represents a career pivot rather than the specific expertise required for a specialized frontend position.

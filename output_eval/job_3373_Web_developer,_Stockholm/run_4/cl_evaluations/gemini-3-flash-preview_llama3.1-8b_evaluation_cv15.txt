@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate hits several key technical requirements like React, NodeJS, and security protocols, they completely omit mandatory skills such as TypeScript, Git, and CI/CD. Their profile leans too heavily toward general IT management and hardware infrastructure, which is a poor fit for a specialized software engineering role. Furthermore, the generic reference to an "IT position" suggests a lack of focus on the specific software development nuances of the job description.

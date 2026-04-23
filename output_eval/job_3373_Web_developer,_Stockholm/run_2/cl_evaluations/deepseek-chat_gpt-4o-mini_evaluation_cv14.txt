@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the job's core technical requirements, including React, testing, Git, security, and Agile collaboration. However, the cover letter lacks explicit mention of TypeScript, Node.js/npm ecosystem, and specific CI/CD tools, which are key components of the job description. The experience is heavily weighted toward ASP.NET/C#, which is not directly required, indicating a good but not perfect match.

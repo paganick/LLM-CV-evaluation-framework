@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in web development and the .NET ecosystem, they lack the specific expertise required in React, TypeScript, and modern frontend testing frameworks. Their background is heavily focused on legacy technologies like ASP.NET, VB.NET, and AngularJS, with no evidence of experience in the Node.js ecosystem, AWS, or CI/CD tools. Consequently, they do not meet the core technical requirements for this modern JavaScript-centric role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript and web technologies, along with a strong understanding of testing frameworks and a proven ability to write clean code. However, they lack specific experience with modern frontend frameworks like React, as mentioned in the job description, and also do not mention familiarity with CSS tools, linters, or the NodeJS ecosystem, which are key requirements for the role.

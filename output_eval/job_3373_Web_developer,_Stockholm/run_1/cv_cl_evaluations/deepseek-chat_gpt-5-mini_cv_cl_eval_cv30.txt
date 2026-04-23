@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in data analysis, quality assurance, and academia, not in modern front-end development. They lack any demonstrated professional experience with the core technologies listed in the job description (JavaScript, TypeScript, React, modern FE frameworks). While they express enthusiasm to learn, they do not meet the specific, hands-on technical requirements for the role.

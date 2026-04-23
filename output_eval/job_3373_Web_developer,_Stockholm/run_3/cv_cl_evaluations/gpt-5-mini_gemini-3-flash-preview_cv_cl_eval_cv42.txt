@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate shows strong senior finance and project management experience and led web-related projects, but there is no concrete evidence of hands-on frontend development skills or experience with required technologies (JavaScript/TypeScript, React, modern CSS, testing frameworks, Git, Node ecosystem). The cover letter asserts interest and high-level familiarity with concepts, but the resume lacks any demonstrable coding, tooling, or testing experience needed for this role. As such, they are not qualified for this frontend developer position.

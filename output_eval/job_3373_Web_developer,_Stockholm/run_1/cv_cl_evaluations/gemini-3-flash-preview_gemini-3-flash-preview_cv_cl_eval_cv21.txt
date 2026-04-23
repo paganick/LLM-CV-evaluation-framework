@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive professional experience in web development and leadership, their technical expertise is heavily centered on the .NET ecosystem and legacy tools like jQuery and AngularJS. They lack professional hands-on experience with the required modern stack, specifically React, TypeScript, and contemporary testing frameworks like Jest or Cypress. Furthermore, the resume provides no evidence of proficiency in Functional Programming, modern CSS-in-JS, or CI/CD tools mentioned as essential for the role.

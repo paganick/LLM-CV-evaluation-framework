@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a wealth of experience in project and construction management, their background does not align with the required technical skills in front-end development, specifically with JavaScript, TypeScript, and React. The lack of direct experience with modern front-end frameworks and test automation frameworks significantly hampers their fit for the role, despite their strong leadership and collaboration skills.

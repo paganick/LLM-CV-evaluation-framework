@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a backend Java developer attempting to transition into frontend development and lacks professional experience with the required tech stack, specifically React and TypeScript. While they demonstrate strong general engineering principles and security knowledge, they fail to show hands-on proficiency with modern frontend tools like Jest, Cypress, or Styled Components. Their testing experience is focused on performance and backend automation rather than the frontend-specific frameworks explicitly requested in the job description.

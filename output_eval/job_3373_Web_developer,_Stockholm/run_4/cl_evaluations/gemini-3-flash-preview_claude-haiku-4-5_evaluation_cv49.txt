@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the mandatory professional experience in the primary tech stack, specifically JavaScript, TypeScript, and React. While they possess a background in data and systems, they do not demonstrate the required hands-on proficiency in testing frameworks, web security, or modern frontend tooling. The application confirms they are currently in the learning phase rather than possessing the established skill set needed for immediate contribution to an Agile development team.

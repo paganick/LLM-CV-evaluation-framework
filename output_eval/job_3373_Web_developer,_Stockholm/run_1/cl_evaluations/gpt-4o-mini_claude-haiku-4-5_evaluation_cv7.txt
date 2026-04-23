@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and visual merchandising, but lacks direct experience with essential technologies such as JavaScript, TypeScript, HTML, CSS, and React. While they demonstrate a willingness to learn and adapt, their lack of specific frontend development skills and experience with modern frameworks, testing tools, and key development practices make them a less competitive candidate for the role.

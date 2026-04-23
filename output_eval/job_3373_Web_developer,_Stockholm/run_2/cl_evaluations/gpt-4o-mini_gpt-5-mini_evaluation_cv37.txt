@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive project management experience and technical certifications, which are beneficial. However, they lack direct hands-on experience with modern front-end technologies specified in the job description, particularly with frameworks like React, and do not mention familiarity with key tools and concepts such as Git, testing frameworks, or modern CSS tools, which limits their alignment with the technical requirements of the role.

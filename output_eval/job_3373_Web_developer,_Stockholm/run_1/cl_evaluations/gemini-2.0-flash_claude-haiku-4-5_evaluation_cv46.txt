@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions JavaScript, HTML, and testing, aligning with job requirements. However, the cover letter indicates the candidate is learning React and Styled Components, which are core requirements. While they highlight testing experience, specific testing frameworks mentioned in the job description (Jest, TestCafe, Cypress) are not addressed.

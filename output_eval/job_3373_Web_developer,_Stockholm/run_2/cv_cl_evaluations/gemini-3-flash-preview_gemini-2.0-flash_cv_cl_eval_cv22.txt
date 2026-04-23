@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements for this role, specifically missing any documented experience with JavaScript, TypeScript, and React. Their professional background is in media planning and marketing rather than software development, and they do not demonstrate the necessary experience with testing frameworks, Git, or modern frontend tooling. While currently a student, their current skill set is focused on databases and Java, making them unqualified for a mid-to-senior level frontend position.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in digital communications and content management, which is a completely different industry and skillset from the required front-end software engineering role. The resume shows no experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other technical requirements listed in the job description. This is a case of a completely unqualified candidate applying for the wrong type of position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is transitioning from a career in marketing and communications, which is outside the required software engineering industry. They lack the mandatory professional experience in front-end development, specifically failing to demonstrate hands-on expertise in testing automation, React, or TypeScript. Their technical knowledge is described as a desire to learn rather than proven professional proficiency, making them unqualified for this role.

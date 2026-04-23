@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in civil/construction engineering and project management with no demonstrated hands-on experience in JavaScript, TypeScript, React, front-end frameworks, testing frameworks, Git, or the Node ecosystem. The cover letter states an intention to transition and learning interest but provides no concrete evidence of practical frontend development or automated testing skills required for this role. As submitted, the profile is a mismatch for a React/front-end engineering position.

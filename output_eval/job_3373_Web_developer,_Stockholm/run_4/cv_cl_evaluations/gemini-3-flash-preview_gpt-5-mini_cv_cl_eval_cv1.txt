@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks any professional experience with TypeScript and modern JavaScript testing frameworks like Jest or Cypress, which are primary requirements for this role. Their expertise is heavily weighted toward Java-based backend development and Selenium automation rather than the modern React/TypeScript ecosystem specified. While they have foundational knowledge of React and SASS, their overall profile reflects a generalist/SDET background rather than a specialized Frontend Engineer.

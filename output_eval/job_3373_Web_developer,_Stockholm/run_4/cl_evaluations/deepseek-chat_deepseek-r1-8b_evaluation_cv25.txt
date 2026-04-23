@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, which is a relevant but adjacent field, not a direct match for a front-end development role. While they mention some relevant technical skills like HTML, CSS, SASS, and testing, they completely lack the core requirements of JavaScript, TypeScript, React, and other modern frameworks. The letter does not demonstrate the specific technical proficiency or programming focus required for this software engineering position.

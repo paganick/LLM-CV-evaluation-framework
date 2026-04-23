@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the core technologies required for this role, specifically React and TypeScript. Their professional history is heavily centered on PHP, legacy scripting, and general full-stack development, with no documented usage of modern frontend testing frameworks, functional programming, or CI/CD tools. While they have a relevant engineering background, they do not possess the specific technical expertise needed for a specialized frontend engineering position.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for this role, leveraging my strong digital communications background to transition into a modern front-end development position. With over 10 years of experience in writing, editing, online marketing, and social media strategy, I am confident that my unique blend of skills will enable me to excel in this new field.
+
+As a seasoned Digital Communications Specialist with expertise in website content management using OpenSource platforms, I have developed strong technical writing skills. My background in creating engaging content for various communication channels has instilled in me a keen eye for detail and a passion for ensuring that my work is optimized for publication. While not directly related to front-end development, I believe that my experience with Google Analytics, Hootsuite Sprout Social, and mass marketing systems can be valuable in understanding how to effectively integrate technical solutions into the product development process.
+
+Although not directly stated, I have always been intrigued by technology and its applications in various industries. Throughout my career, I have demonstrated a willingness to learn new skills and adapt to changing environments. In this new role, I am eager to expand on my knowledge of JavaScript, TypeScript, HTML, and CSS, as well as modern front-end frameworks like React.
+
+As a strong collaborator with experience working in Agile environments, I understand the importance of effective communication and teamwork. My passion for writing clean code will enable me to contribute positively to the development team. Familiarity with API design, CI/CD tools like CircleCI, and basic knowledge of AWS and Terraform will also be valuable assets.
+
+I am particularly drawn to this company's emphasis on security best practices (OWASP, CSP, CORS, OAuth) and its commitment to creating clean code. I believe that my background in ensuring accessibility of PDFs and compliance with standards established by Section 508 of the Rehabilitation Act of 1973 will translate well into maintaining secure coding practices.
+
+I look forward to discussing how my unique blend of skills and experience can contribute to this team's success. Thank you for considering my application.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in analytics and some relevant experience with HTML and ASP.NET, but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks like React. While they demonstrate strong collaboration and problem-solving skills, their technical skillset does not fully align with the specific requirements of the position.

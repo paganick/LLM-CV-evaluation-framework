@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in business development within the cloud software industry but lacks direct experience in front-end development and the required technical skills such as modern frameworks (React, VueJS, etc.), hands-on testing, and CI/CD tools. While they have articulated proficiency in some relevant technologies, their experience does not strongly align with the demands of the role, especially in the areas of modern front-end development and testing automation.

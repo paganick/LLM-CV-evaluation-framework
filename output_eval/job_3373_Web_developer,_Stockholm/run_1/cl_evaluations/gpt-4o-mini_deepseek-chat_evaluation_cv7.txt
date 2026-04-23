@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in graphic design and some foundational knowledge of front-end technologies such as HTML, CSS, and JavaScript. However, they lack specific experience with the modern frameworks and tools mentioned in the job description (e.g., React, testing frameworks, and CI/CD tools) which are crucial for the role. Their enthusiasm and communication skills are commendable, but they do not meet the technical qualifications required.

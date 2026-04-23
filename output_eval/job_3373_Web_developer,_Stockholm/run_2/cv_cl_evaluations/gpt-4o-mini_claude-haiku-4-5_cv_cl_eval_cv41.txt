@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in systems engineering and technical support, which provides some relevant skills applicable to frontend development. However, they lack direct experience with modern frontend technologies such as JavaScript frameworks (like React), testing frameworks, and specific tools mentioned in the job description. Their transition into frontend development is promising, but they do not fully meet the outlined requirements.

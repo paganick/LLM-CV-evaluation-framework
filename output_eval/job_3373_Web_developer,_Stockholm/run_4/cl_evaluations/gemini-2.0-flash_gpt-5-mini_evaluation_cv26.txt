@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter highlights experience in marketing, communications, and legal administration, which are not directly relevant to front-end engineering. While it mentions transferable skills like attention to detail and collaboration, it lacks any demonstration of the required technical skills like Javascript, React, or testing. The candidate is transitioning into a technical role, but doesn't show enough technical proficiency to be considered for this position.

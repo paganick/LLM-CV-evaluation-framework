@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in systems administration and network management, which is a different domain from the required front-end development role. The cover letter demonstrates no specific experience with the core technologies listed in the job description, such as JavaScript, React, or testing frameworks. While the candidate mentions an interest in modern frameworks, this is not supported by any practical experience, making them unqualified for this specific position.

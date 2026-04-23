@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in roles related to design, technical troubleshooting, and project management, but lacks the specific technical skills and hands-on experience required for front-end development using JavaScript, TypeScript, and React. While they mention HTML and web design, the overall resume shows a significant gap in directly applicable technical expertise such as testing automation and CI/CD tools. The candidate’s background primarily aligns with administrative and media production roles rather than software development.

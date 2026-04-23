@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant project management and collaboration experience, but lacks the specific technical skills required for the role, such as proficiency in JavaScript, TypeScript, and familiarity with modern front-end frameworks like React. Additionally, there is no mention of experience with testing frameworks, Git, or web security principles, which are crucial for the position.

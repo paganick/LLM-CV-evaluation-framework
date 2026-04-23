@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript, testing, Git, and web security concepts. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, Node.js, AWS/Terraform, and specific CI/CD tools. While the experience is relevant and the narrative is compelling, the absence of direct evidence for these specified skills prevents a higher score.

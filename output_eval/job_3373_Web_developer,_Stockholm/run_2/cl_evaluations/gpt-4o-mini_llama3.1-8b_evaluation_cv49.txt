@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in data analysis and statistical modeling, they lack the specific skills and experience required for web development, particularly in front-end frameworks like React, TypeScript, and testing automation tools mentioned in the job description. Additionally, there is no evidence of knowledge in security standards or CI/CD processes, making them an insufficient match for the role.

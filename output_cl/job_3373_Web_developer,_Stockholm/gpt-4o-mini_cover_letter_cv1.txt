@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to apply for the position that leverages modern front-end technologies, particularly with React, as I possess significant hands-on experience in JavaScript, TypeScript, HTML, CSS, and various frameworks including ReactJS and AngularJS. My internship as a Test Automation Engineer honed my skills in building automated testing frameworks, which aligns well with the hands-on experience you seek in test automation techniques such as unit tests and E2E testing.
+
+Throughout my more than three years of involvement in software development, I have represented key phases from architectural design to testing, with a firm grounding in Agile methodologies. My familiarity with Git and GitHub for version control enhances my ability to collaborate effectively in team environments. I am passionate about writing clean, maintainable code and stay current with evolving technologies, which is crucial for thriving in a rapidly changing landscape.
+
+Additionally, my experience with modern CSS tools such as SASS and my ability to apply linters and formatters like ESLint and Prettier ensure that my code not only functions effectively but is also adhered to best practices for maintainability. I have a basic understanding of web security concepts, including OWASP and CORS, ensuring that application development is both functional and secure.
+
+With a strong foundation in the NodeJS ecosystem and familiarity with functional programming concepts, I can seamlessly integrate with teams working on diverse platforms. I am also knowledgeable about AWS, Terraform, and CI/CD tools like CircleCI, giving me a comprehensive view of the development lifecycle from coding to deployment.
+
+I am eager for the opportunity to contribute to your team and collaborate with other departments and external partners. Thank you for considering my application.
+
+Sincerely, Alexis

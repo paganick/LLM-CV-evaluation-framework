@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Quality Assurance professional attempting to transition into development but lacks any professional experience with modern front-end frameworks like React, Vue, or Angular. Their technical history is focused entirely on software testing and automation, failing to demonstrate the required proficiency in building complex UI, TypeScript, or modern CSS tools. While they have a relevant educational background, they do not meet the core hands-on development requirements of the role.

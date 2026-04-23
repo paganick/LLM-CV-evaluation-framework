@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of programming and a strong background in business development, which provides some relevant experience. However, they lack hands-on experience with key technologies listed in the job description, such as JavaScript frameworks (React, VueJS, etc.), specific testing frameworks, and CI/CD tools, which are critical for the role.

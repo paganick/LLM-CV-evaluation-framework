@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong theoretical grasp of the required tech stack, explicitly mentioning JavaScript, TypeScript, React, and testing frameworks like Jest. However, they lack any professional experience as a developer, transitioning instead from unrelated fields like Public Relations and Law. While the candidate hits many technical keywords, a strict evaluation prioritizes professional track record and production-level experience, which are absent here.

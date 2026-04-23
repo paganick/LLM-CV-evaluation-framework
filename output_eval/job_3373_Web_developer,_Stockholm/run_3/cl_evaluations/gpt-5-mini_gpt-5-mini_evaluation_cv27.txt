@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills (design, documentation, testing mindset, cross-functional collaboration) and some basic HTML/web design exposure, but provides no concrete, hands‑on experience with core requirements: JavaScript/TypeScript, React, testing frameworks, Git, NodeJS/tooling, CI/CD, or web security. Given the role's explicit demand for modern frontend toolchains and testing experience, this application is not qualified for the position as described without substantial upskilling or proven technical work.

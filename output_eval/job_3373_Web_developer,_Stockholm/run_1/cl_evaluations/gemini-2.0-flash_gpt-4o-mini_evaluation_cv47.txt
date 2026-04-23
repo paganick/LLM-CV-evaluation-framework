@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest and mentions relevant technologies like HTML and Git, the cover letter focuses heavily on business development experience rather than demonstrable front-end skills. There's a stated eagerness to learn necessary skills (React, modern CSS tools, testing frameworks), which suggests a lack of current proficiency. The mention of C and C++ is less relevant to a front-end role primarily using JavaScript, TypeScript, and related web technologies.

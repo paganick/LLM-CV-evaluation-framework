@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: Candidate lacks required hands-on frontend experience—no demonstrated JavaScript/TypeScript, React, testing, or Git usage beyond stating interest. Strong sales leadership and soft skills are transferable but do not satisfy the technical requirements (modern CSS tools, testing frameworks, Node ecosystem, CI/CD, API design, cloud/infra knowledge). Candidate may be trainable but is not qualified for this role as posted.

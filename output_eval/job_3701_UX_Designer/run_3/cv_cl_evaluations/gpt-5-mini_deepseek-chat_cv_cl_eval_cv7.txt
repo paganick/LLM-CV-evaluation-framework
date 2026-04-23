@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX/UI experience, Agile delivery, leadership/mentorship, user research, workshop facilitation, and design system/style-guide work, matching most core responsibilities. However, they lack demonstrable Figma experience (only Axure/Sketch/Adobe listed), have limited evidence of modern front-end (JS) exposure, and the resume shows no clearly recent roles after 2016, which weakens confidence in current toolset and hands-on experience.

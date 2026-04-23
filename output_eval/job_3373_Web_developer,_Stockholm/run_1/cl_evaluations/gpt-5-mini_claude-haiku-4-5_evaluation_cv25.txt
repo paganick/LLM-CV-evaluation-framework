@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a relevant design background with foundational HTML/CSS and strong collaboration and UI skills, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git, modern frontend tooling, and web security. Their willingness to learn is positive, yet they do not currently meet the technical expectations for this role. Substantial upskilling and demonstrable project experience would be required before being considered a strong match.

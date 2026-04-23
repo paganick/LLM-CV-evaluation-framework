@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows a relevant background in data analysis and project management, which could be beneficial in a collaborative environment. However, they lack hands-on experience in front-end development, particularly with JavaScript, TypeScript, and modern frameworks like React. Their knowledge of HTML and CSS is mentioned, but they need to demonstrate more direct experience with the technologies listed in the job description, such as testing automation frameworks and modern CSS tools.

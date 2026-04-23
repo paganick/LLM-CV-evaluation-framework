@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Candidate is a strong match with 5 years' UX experience, team lead responsibilities, end-to-end user research, usability testing, prototyping, design system work, and mentoring — meeting core role duties like roadmap ownership and cross-functional delivery. However, they do not explicitly state Figma experience (listed as highly desirable) and only reference jQuery rather than modern JavaScript, so there is a minor skills gap for the preferred tooling/implementation expectations.

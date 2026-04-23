@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java back-end development and performance testing, with only dated, tangential exposure to the required modern front-end stack (React, TypeScript). While they list many relevant tools in their cover letter, their resume does not substantiate hands-on experience with the key technologies (React, TypeScript, Node.js, AWS, Terraform, Ramda) or modern security practices. The profile shows a relevant industry background but lacks the specific, demonstrable skills and recent experience required for the role.

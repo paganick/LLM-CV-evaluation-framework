@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates senior sales, program management and enterprise client experience but their background is centered on aerospace/defense and legacy IT rather than the required digital solutions (Cloud, APIs, DevOps, Microservices, Big Data/AI) for this role. The resume lacks explicit presales, RFP, architectural/design review, analytics or UX consulting experience and does not show proven sales of the specified modern digital platforms. While transferable skills exist, they do not meet the core technical and domain requirements.

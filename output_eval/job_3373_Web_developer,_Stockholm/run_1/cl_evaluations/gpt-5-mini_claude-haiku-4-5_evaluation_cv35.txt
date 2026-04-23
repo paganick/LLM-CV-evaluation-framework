@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant technical foundations—JavaScript/HTML/CSS exposure, API/integration experience, testing methodology knowledge, and strong collaboration in Agile—which are valuable for frontend roles. However, they lack demonstrated hands-on experience with core requirements such as React and TypeScript, modern FE tooling (Jest, ESLint, Prettier), Node/npm ecosystem, modern CSS solutions, Git usage, and web security/CI/CD practices. Given these gaps, they are a transition-level candidate rather than a strong immediate fit.

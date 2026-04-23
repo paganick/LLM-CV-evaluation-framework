@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Engineer position at your organization. With over 7 years of technical experience in programming development across multiple platforms, I am confident that I possess the skills and expertise required for this role.
+
+As a highly skilled software engineer with a proven track record of delivering high-quality solutions, I have developed advanced knowledge of MySQL, CSS, C++, and other programming languages. My extensive background in software design, development, and integration has equipped me with a deep understanding of the software development life cycle, including requirements analysis, design, development, and production support.
+
+I am particularly drawn to this position because it aligns with my passion for writing clean code and staying up-to-date with the latest technologies. My experience with modern FE frameworks and libraries, such as React, has prepared me well for your organization's use of React. Additionally, I have hands-on experience with testing and test automation, including unit tests, integration tests, E2E tests, and Git.
+
+In my previous roles, I have demonstrated my ability to work effectively in Agile environments and collaborate with cross-functional teams to deliver complex projects. As a Full Stack Engineer at LogonTutor LLC, I designed and implemented an ecommerce website using PHP and MVC, integrated 3rd party tools, and created admin pages that tracked user activity. Similarly, as a Project Manager at Seeketh.org Senior Project, I managed a team of students in the implementation of an information retrieval system that searched the bible using natural language processing.
+
+I am confident that my technical expertise, coupled with my strong leadership skills and ability to work effectively in teams, make me an ideal candidate for this position. I am excited about the opportunity to contribute my skills and experience to your organization and look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates core front-end skills (React, TypeScript, JS/HTML/CSS), testing experience (Jest, Cypress), modern CSS tooling, Node ecosystem familiarity and Agile collaboration — all relevant to the role. However, several explicit requirements are missing or unmentioned: Git/GitHub, web security (OWASP/CSP/CORS/OAuth), linters/formatters, CI/CD (CircleCI), API design, and general AWS/Terraform knowledge. With only 2 years of experience and these notable gaps, the fit is relevant but incomplete for a strict hire.

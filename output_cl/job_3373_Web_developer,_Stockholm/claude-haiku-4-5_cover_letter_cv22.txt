@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With my foundational technical skills, proven ability to learn quickly, and genuine passion for clean code and collaborative teamwork, I am excited about the opportunity to contribute to your React-focused development team.
+
+My technical foundation aligns well with your requirements. I have hands-on experience with HTML and CSS, along with working knowledge of JavaScript and Java. Through my academic projects, including a Hospital Database Management System and an Accounts Receivable Application, I have developed problem-solving abilities and exposure to modern development practices. Currently pursuing my Master's in Management Information Systems, I am actively expanding my technical expertise and staying current with industry advancements.
+
+What truly distinguishes my candidacy is my collaborative mindset and commitment to understanding the broader business context. In my consulting roles, I managed stakeholder relationships, collaborated across teams, and ensured seamless communication between different functional units. I demonstrated strong interpersonal skills, leadership capabilities, and the ability to adapt in fast-paced environments. These experiences have instilled in me a deep appreciation for teamwork and cross-functional partnerships, qualities essential for thriving in an Agile environment.
+
+Throughout my career, I have worked with analytical tools and databases, developing a methodical approach to problem-solving. My experience with SQL, MySQL, and data analysis tools has taught me the importance of precision and clean implementation. I understand the value of writing maintainable code and structured solutions, principles I am eager to apply to frontend development.
+
+I recognize that my background is transitioning from marketing and database-focused roles to frontend development. However, this unique perspective is an asset. My exposure to diverse business domains across FMCG, automotive, retail, and e-commerce sectors has cultivated my ability to understand different platforms and user needs. I am genuinely passionate about mastering frontend technologies and frameworks like React, and I am committed to rapidly acquiring expertise in modern testing frameworks, version control with Git, and security best practices including OWASP and CORS.
+
+I am particularly drawn to your organization because of its emphasis on clean code and continuous learning. Your tech stack, including React, Jest, and functional programming principles, represents the modern development environment where I aspire to build my career. I am eager to learn from experienced developers, contribute meaningfully to your projects, and grow into a valuable team member.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my technical foundation, strong work ethic, and passion for excellence can contribute to your team's success.
+
+Sincerely, Alexis

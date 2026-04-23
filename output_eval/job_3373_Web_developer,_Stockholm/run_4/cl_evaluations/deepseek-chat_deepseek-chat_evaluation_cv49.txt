@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong analytical skills and a relevant technical foundation, including proficiency in the required core languages (JavaScript, TypeScript, HTML, CSS) and an eagerness for React. However, the cover letter lacks explicit, hands-on experience with several key job requirements such as modern CSS tools, specific testing frameworks, API design, and web security concepts, which are inferred from a data analysis background rather than proven in a frontend context.

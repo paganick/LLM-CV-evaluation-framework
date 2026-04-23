@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their professional background and education are entirely within the banking, sales, and performing arts sectors. They lack any experience with JavaScript, TypeScript, React, or any of the specific technical requirements outlined in the job description. While the candidate possesses strong soft skills, they do not meet a single mandatory technical criterion for a software development position.

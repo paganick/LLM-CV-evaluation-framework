@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has experience in software testing and some front-end technologies (HTML, CSS, JavaScript), they lack sufficient experience with modern front-end frameworks like React, which is crucial for the role. Their experience is mainly in testing, and their knowledge of Node.js and related tools seems foundational, not hands-on. The letter highlights a desire to learn, but the job description implies a need for more immediate proficiency.

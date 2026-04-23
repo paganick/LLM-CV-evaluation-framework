@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate proficiency in the core technical requirements, specifically omitting any mention of JavaScript, TypeScript, or hands-on experience with React. Furthermore, the application completely ignores mandatory requirements such as testing automation, Git, and web security protocols. While the candidate is transitioning into the relevant industry via a Master's program, their current skillset is heavily weighted toward backend databases and does not align with the specific frontend expertise required.

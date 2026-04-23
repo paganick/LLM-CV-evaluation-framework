@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in leadership and teamwork but lacks specific technical skills in JavaScript, TypeScript, modern frontend frameworks, and testing methodologies required for the role. Their familiarity with HTML and interest in learning the necessary technologies does not compensate for the significant gaps in required frontend development experience.

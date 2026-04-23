@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level IT Manager and Project Manager whose professional history is focused on infrastructure, budgeting, and operations rather than software engineering. They lack documented professional experience with React, TypeScript, and modern frontend testing frameworks, explicitly stating in their cover letter that they are only now seeking to learn these technologies. While they have worked in the IT industry, they do not possess the specific technical skills or hands-on development experience required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analytics, not frontend development. While they express interest and some adjacent skills (Python, SQL), they lack direct experience with the core technologies (JavaScript, React, HTML, CSS) listed in the job description. The cover letter acknowledges this career transition but doesn't provide sufficient evidence of practical frontend development experience.

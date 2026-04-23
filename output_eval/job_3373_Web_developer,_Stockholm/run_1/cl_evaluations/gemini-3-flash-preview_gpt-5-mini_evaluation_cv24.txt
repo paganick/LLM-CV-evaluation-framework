@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this engineering position, as they lack any professional experience with the required tech stack, including JavaScript, TypeScript, and React. While they possess strong skills in accessibility and documentation, they explicitly state they are still looking to learn the mandatory technical skills listed in the job description. This is a career-transitioning application that fails to meet the threshold for a front-end engineering role.

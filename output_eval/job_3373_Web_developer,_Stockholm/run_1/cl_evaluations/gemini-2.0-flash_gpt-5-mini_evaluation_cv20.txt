@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates experience with front-end technologies and Agile practices, they lack specific experience with React, modern testing frameworks, and other tools mentioned in the job description. The cover letter focuses more on .NET technologies than desired for a front-end role. They express a willingness to learn modern frameworks, but lack demonstrable experience.

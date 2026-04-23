@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend experience (HTML, CSS, JavaScript, React) and mentions Agile, Git, and some testing. However, they lack the required, explicit experience with TypeScript, modern React, and the specific testing frameworks (Jest, Cypress, etc.) and CSS tools (Styled Components) listed. Their background is heavily skewed towards Java backend and test automation (Selenium, Cucumber), not the modern frontend and specific tooling the role demands.

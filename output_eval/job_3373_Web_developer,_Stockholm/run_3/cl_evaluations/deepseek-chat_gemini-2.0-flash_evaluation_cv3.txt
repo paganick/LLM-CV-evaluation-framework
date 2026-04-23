@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant academic background and demonstrates transferable soft skills, but critically lacks the specific, hands-on technical experience required. The job description demands proficiency in modern frameworks like React, testing, and specific tools, while the candidate's experience is in older technologies (PHP, ASP.NET, Java Applets) and they only express eagerness to learn React. The mention of "entry-level position" contradicts the expectation of hands-on experience with the listed technologies.

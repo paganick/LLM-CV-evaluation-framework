@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic knowledge of HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks like React, testing frameworks, and other tools mentioned in the job description. While the candidate expresses interest in keeping up-to-date with the latest technologies, their experience is heavily rooted in older technologies and academic projects. The resume highlights experience in construction, which is irrelevant to the job requirements.

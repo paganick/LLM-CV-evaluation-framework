@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, and while they mention HTML and CSS, they admit to actively upskilling in crucial areas like JavaScript and React, which are core requirements for the role. The lack of hands-on experience with testing, modern FE frameworks (beyond "interest"), and other listed technologies makes them underqualified for the position. The cover letter focuses more on design skills than demonstrable front-end development abilities.

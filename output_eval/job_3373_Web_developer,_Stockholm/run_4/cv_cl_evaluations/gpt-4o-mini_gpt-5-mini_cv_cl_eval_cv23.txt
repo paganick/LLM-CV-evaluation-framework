@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and a technical background, but lacks hands-on experience specifically with modern front-end technologies such as JavaScript frameworks (React, VueJS, etc.) and testing frameworks (Jest, Cypress). While they express a willingness to learn, they do not demonstrate proficiency in the required languages and tools, which limits their fit for the position.

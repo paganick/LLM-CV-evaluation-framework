@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with zero years of professional experience in software engineering, failing to meet all technical requirements of the job description. While the cover letter mentions self-study in React and TypeScript, the resume reflects an executive-level career in finance operations and lacks any evidence of professional frontend development or testing experience. Consequently, the candidate is completely unqualified for a role requiring hands-on expertise in modern web technologies and CI/CD tools.

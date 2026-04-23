@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant web development experience but lacks key skills mentioned in the job description, such as React, TypeScript, and modern CSS tools like Styled Components or SASS. Their experience with older technologies like ASP.NET and AngularJS is less relevant. While they express interest in modern frameworks, there's no concrete evidence of proficiency.

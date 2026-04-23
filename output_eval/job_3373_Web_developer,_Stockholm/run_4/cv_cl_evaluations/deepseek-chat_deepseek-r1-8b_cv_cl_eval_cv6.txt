@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is heavily centered on Drupal and PHP backend development, with minimal demonstrated focus on the required modern frontend stack (React, TypeScript, modern CSS tools). The resume lacks specific evidence of hands-on testing automation, functional programming (Ramda), or the listed CI/CD and cloud tools. The cover letter makes generic claims that are not substantiated by the detailed resume, indicating a significant mismatch with the job's core technical requirements.

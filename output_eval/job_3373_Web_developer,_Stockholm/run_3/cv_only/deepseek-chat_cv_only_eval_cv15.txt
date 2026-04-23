@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in general IT management and hardware support, not modern front-end software development. The resume shows outdated or superficial exposure to required technologies like JavaScript and CSS, with no mention of React, TypeScript, testing frameworks, or the other specific tools and practices listed. While in the broader tech industry, the profile lacks the focused, hands-on experience in a professional software development context that this role demands.

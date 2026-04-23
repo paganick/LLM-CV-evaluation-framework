@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a basic understanding of HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks like React, which is a core requirement. Their experience with older technologies like ASP.NET and Java Applets is not directly transferable. The resume and cover letter highlight a career change from construction, indicating a lack of professional web development experience.

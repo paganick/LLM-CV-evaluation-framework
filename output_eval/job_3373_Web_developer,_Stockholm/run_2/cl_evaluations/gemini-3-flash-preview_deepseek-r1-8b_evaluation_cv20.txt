@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks experience with the primary required technology (React) and fails to mention any proficiency in TypeScript, which are core requirements for this role. Their expertise is rooted in legacy technologies like jQuery and Bootstrap rather than the modern ecosystem, security principles, and functional programming tools requested. While the candidate has general development and Agile experience, they do not meet the specific technical standards necessary for a modern front-end position at this company.

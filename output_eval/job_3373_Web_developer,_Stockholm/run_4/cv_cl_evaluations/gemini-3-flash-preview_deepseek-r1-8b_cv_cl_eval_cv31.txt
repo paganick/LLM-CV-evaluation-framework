@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional background is entirely in sales, management, and hospitality rather than software engineering. They lack the mandatory technical proficiency in JavaScript, TypeScript, React, and modern testing frameworks required by the job description. Despite mentioning basic HTML and a "passion" for technology, there is no evidence of professional experience in software development or the specified tech stack.

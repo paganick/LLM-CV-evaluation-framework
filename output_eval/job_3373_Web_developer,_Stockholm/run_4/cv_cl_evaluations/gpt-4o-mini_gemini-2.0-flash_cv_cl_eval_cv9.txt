@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in IT and web development, with skills in JavaScript, HTML, and CSS, but lacks hands-on experience with modern front-end frameworks like React, which is a critical requirement for the role. While they have a foundation in clean coding practices and testing, their experience primarily focuses on Java-related technologies, and they show an eagerness to learn rather than established proficiency in the key areas specified in the job description.

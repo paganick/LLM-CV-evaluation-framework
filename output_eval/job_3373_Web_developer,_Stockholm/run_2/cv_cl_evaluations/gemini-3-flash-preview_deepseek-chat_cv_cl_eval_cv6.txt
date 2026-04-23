@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory core technologies, specifically React, TypeScript, and modern state management. While they possess a background in web development, their expertise is heavily focused on PHP/Drupal and legacy systems, which does not meet the requirements for a modern frontend-specific role. Additionally, there is no evidence of experience with the requested testing frameworks (Jest/Cypress) or CI/CD tools mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all the core technical requirements, explicitly stating they have yet to learn JavaScript, TypeScript, and React. Their professional background is in media production rather than software engineering, providing no evidence of experience with testing, Git, or web security. As a strict recruiter, interest in learning cannot substitute for the mandatory technical proficiency required for this role.

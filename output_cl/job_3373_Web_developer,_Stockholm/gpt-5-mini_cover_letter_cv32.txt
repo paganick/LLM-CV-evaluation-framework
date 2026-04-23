@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced customer service and sales professional with over ten years of experience leading teams, managing projects, and delivering results in fast-paced environments. As a consultant and manager I have led cross-functional teams, supervised employees, created and maintained reporting and inventory processes, and developed procedures that improved accuracy and efficiency. My career has honed communication, organization, and problem-solving skills that I am eager to apply within a front-end engineering team.
+
+Throughout roles in management, sales, and customer service I consistently prioritized clarity, quality, and timeliness. I composed accounting and cash reports, balanced general ledgers, and supervised invoice processing—tasks that required meticulous attention to detail and a disciplined approach to process. I have a strong working knowledge of CRM systems, MS Office, Adobe tools and general Windows environments, and I routinely trained and coached staff toward higher performance and better adherence to policies.
+
+In previous roles I consistently exceeded targets and improved operations: I achieved an 85% success rate in qualifying and closing sales, exceeded sales goals by 20% in multiple periods, hired and trained staff, and created daily and weekly cash reports and accounting summaries that enhanced visibility and control. These outcomes reflect my discipline and measurable impact.
+
+I am particularly drawn to your team's emphasis on collaboration, testing, and clean code. While my professional background is not traditionally technical, I bring durable strengths that support software delivery: experience coordinating with internal and external partners, leading teams through change, and managing multiple priorities under pressure. I learn quickly and embrace new tools and methodologies; I am motivated to translate my project management and quality-focused mindset into hands-on technical work and am committed to gaining skills in JavaScript, React, testing automation, and related tooling.
+
+I believe a customer-centric perspective and disciplined operational experience can add value to a modern engineering group focused on building reliable, well-tested front-end experiences. I welcome the opportunity to contribute my strengths in communication, process improvement, and team leadership while rapidly acquiring the technical skills your team uses.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background and enthusiasm for learning can support your front-end team.
+
+Sincerely, Alexis

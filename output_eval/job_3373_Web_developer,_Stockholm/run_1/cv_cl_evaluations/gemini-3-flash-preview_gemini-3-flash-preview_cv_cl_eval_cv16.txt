@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET developer with experience in a legacy stack (jQuery, ASP.NET, SQL) and lacks the required professional expertise in React, TypeScript, and modern frontend testing frameworks. Their resume shows no evidence of experience with the modern Node.js ecosystem, functional programming, or cloud infrastructure (AWS/Terraform) specified in the job description. While they possess basic web development skills, they do not meet the specific technical requirements for this modern JavaScript-focused role.

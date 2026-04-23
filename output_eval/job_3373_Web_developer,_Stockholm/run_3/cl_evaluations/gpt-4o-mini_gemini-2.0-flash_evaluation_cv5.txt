@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience but lacks specific hands-on skills in modern frontend frameworks and libraries such as React, as well as experience with testing automation, CI/CD tools, and other technologies mentioned in the job description. While the candidate demonstrates strong analytical skills and a willingness to learn, they do not meet several key technical requirements necessary for the role.

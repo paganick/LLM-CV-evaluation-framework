@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, lacking specific frontend development experience. While the cover letter expresses interest in transitioning and highlights some relevant skills like JavaScript and HTML/CSS knowledge, it doesn't demonstrate proficiency in the core technologies (React, TypeScript) mentioned in the job description. The resume focuses on marketing automation tools like Eloqua and Salesforce, further highlighting the gap in required frontend development skills.

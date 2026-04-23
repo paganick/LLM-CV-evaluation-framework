@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in databases and backend development (Java, SQL, MySQL), which doesn't align well with the JavaScript/React-focused frontend requirements. While the candidate expresses interest in learning, the cover letter highlights a lack of direct experience with key technologies mentioned in the job description, such as React, TypeScript, and testing frameworks. The candidate also mentions an MBA, which is likely irrelevant in this case.

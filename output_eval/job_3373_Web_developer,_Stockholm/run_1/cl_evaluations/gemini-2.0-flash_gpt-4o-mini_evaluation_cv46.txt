@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some familiarity with the required technologies, particularly JavaScript, HTML, CSS, and Git. However, the cover letter focuses heavily on Java experience and expresses only a willingness to learn React, the primary framework used by the company. The candidate mentions a "basic understanding" of web security and lacks concrete experience with other listed technologies like TypeScript and specific testing frameworks.

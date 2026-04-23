@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant experience in web development and version control, their expertise is almost exclusively centered on Drupal and PHP rather than the required modern frontend stack. They lack professional experience with React, TypeScript, and functional programming, which are the primary requirements for this role. Additionally, their background in legacy CMS development and testing tools like Behat does not align with the modern testing and CI/CD ecosystem specified in the job description.

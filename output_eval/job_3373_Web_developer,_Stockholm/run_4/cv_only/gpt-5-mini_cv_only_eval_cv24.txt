@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects a communications/web content writer background with no demonstrated experience in core front-end technologies (JavaScript, TypeScript, React, HTML/CSS frameworks), testing frameworks, Git/CI workflows, or Node/AWS required by the role. While the candidate has relevant content/accessibility and analytics experience, those skills do not meet the technical and development expectations for this position. The candidate is therefore completely unqualified for this frontend engineering role.

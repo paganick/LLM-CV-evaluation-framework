@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer transitioning from marketing automation rather than a seasoned software engineer with professional experience in the required stack. While they possess strong logical foundations and understand system architecture, they lack proven, hands-on professional expertise in React, functional programming, and modern frontend development frameworks. The application relies heavily on transferable skills rather than the specific, production-level software engineering experience requested in the job description.

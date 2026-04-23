@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in HTML, CSS, and SQL but lacks specific experience with critical skills mentioned in the job description, such as JavaScript, TypeScript, and modern frontend frameworks like React. While they show a willingness to learn and have experience in collaborative environments, they do not sufficiently demonstrate the required expertise in the mentioned testing frameworks, security knowledge, or familiarity with the NodeJS ecosystem and CI/CD tools.

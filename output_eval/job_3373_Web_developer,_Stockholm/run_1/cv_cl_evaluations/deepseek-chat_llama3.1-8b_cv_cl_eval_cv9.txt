@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is almost exclusively in Java/JEE back-end development, with minimal and non-professional front-end experience. They lack any demonstrated experience with React, TypeScript, modern CSS tools, or the specific testing frameworks mentioned in the job description. While they show strong Agile collaboration skills and mention some relevant security concepts, their technical profile is a fundamental mismatch for a front-end focused role.

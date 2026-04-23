@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has strong communications and technical writing experience but provides no evidence of the core frontend engineering skills required (JavaScript/TypeScript, React, modern CSS tooling, Node ecosystem, testing frameworks, CI/CD, AWS, etc.). Their background is relevant for documentation or content roles but does not meet the technical qualifications for this engineering position. Without demonstrable hands-on development experience, they are not a suitable match.

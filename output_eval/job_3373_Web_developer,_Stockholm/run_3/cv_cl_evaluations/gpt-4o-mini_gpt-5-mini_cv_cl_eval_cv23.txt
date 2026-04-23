@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in engineering with some exposure to software testing and knowledge of JavaScript. However, they lack hands-on experience with modern front-end frameworks like React, and their knowledge of relevant front-end technologies and practices such as CSS tools and testing frameworks is minimal. While they have relevant skills, they do not meet the specific technical requirements fully.

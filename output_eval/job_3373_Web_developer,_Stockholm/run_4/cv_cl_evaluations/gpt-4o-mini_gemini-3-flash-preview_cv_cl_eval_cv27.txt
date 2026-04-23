@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a diverse background with some experience in web design and HTML, but lacks specific skills and hands-on experience with JavaScript, TypeScript, modern frontend frameworks like React, testing automation, and familiarity with CI/CD tools. While their leadership and collaboration experience is notable, their technical expertise does not adequately meet the job requirements.

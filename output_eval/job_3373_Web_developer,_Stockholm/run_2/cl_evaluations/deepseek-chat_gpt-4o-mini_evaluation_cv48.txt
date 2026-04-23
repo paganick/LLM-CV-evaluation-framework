@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant IT experience and demonstrates some alignment with soft skills like collaboration and Agile. However, the cover letter lacks concrete, hands-on evidence of professional front-end development experience with the specified technologies (React, modern frameworks). The experience described is heavily weighted toward IT consulting and support, not active development, creating a significant gap in the core technical requirements.

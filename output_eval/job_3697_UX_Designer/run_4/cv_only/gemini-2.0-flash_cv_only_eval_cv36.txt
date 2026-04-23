@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate has a Fine Arts degree and mentions design experience, but the resume is heavily weighted towards sales, security, and maintenance roles. There's a lack of demonstrable UI/UX specific experience and portfolio. While they claim design skills, they don't align with the required tools (e.g., wireframe tools, Adobe suite for UI/UX).

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has sales experience, but lacks the specifically required digital solutions experience (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). Their experience is more general and in aerospace/defense, not banking, insurance, utilities, telco or retail. The resume doesn't highlight a strong focus on the digital transformation aspects mentioned in the job description.

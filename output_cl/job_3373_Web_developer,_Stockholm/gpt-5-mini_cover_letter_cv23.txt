@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the front end engineering position. I hold an Associate of Science in Computer and Electronics Engineering Technology and a Bachelor of Science in Electronics and Communication Engineering Technology. Over the past decade I have worked as an Engineering Lab Technician and as a Validation Test Technician where I developed a disciplined test driven approach to product quality and a practical understanding of embedded and software platforms.
+
+In my most recent role I built and executed test cases for new software builds, performing regression, functional and smoke testing, and creating bugs and tasks in Microsoft Test Manager and Team Foundation Server. I collaborated closely with software developers to shape testing strategy, calibrated prototype units for field release and supported multiple platforms through software installation and hands on troubleshooting. I routinely used Tera Term for SSH and serial access to Linux devices and GShell for on machine inspection and modification.
+
+My technical background includes hands on circuit and electromechanical assembly, use of oscilloscopes, multimeters and function generators, and strong soldering and repair skills. I am familiar with JavaScript, C++, SQL and Visual Studio, and I bring a practical mindset for diagnosing failures and ensuring stability before release. I adapt to new technology at an accelerated rate and have consistently maintained high academic performance throughout my studies.
+
+While much of my experience is focused on hardware and validation, I am enthusiastic about applying my methodical quality assurance discipline and attention to clean maintainable code to modern front end development. I am motivated to learn React and TypeScript, modern CSS tooling, testing frameworks such as Jest and Cypress, and the Node ecosystem. I enjoy working in collaborative Agile environments, engaging with cross functional teams and external partners to understand domain requirements beyond my immediate area of expertise.
+
+I am confident my combination of methodical testing experience, practical troubleshooting skills and commitment to continuous learning will make me a valuable contributor to your React team. I welcome the opportunity to discuss how I can help deliver reliable well tested front end features. I bring strong oral and written communication skills, customer facing experience, and a proven record of collaborating across disciplines to drive defects to resolution and improve product readiness.
+
+Sincerely, Alexis

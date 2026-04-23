@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant experience in web development and leadership, they lack professional proficiency in the required modern stack, specifically React and TypeScript. Their expertise is heavily rooted in legacy Drupal environments and jQuery, whereas the role demands immediate competence in contemporary frameworks, Node.js tooling, and specific security protocols. Consequently, the candidate would require extensive training to meet the core technical expectations of the position.

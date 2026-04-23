@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant background in software development, including experience with Java and SQL, but lacks proficiency in key requirements such as modern JavaScript frameworks like React, TypeScript, and testing frameworks. Their experience is primarily focused on databases and backend development, with minimal exposure to front-end technologies and testing methodologies. Overall, the candidate does not fully meet the requirements for the position.

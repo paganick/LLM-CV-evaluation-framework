@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant systems and security experience but lacks direct, demonstrable front-end engineering skills with React and modern tooling as specified. While they mention supporting web applications and a desire to learn, the letter does not provide concrete evidence of hands-on work with JavaScript, TypeScript, React, or the listed testing frameworks. Their operational and security background is an asset, but the core technical requirements for the role are not clearly met.

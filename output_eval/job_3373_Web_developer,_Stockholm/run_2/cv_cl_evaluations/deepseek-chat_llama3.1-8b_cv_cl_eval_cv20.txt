@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# full-stack development with minimal modern front-end framework expertise. While they claim React proficiency in the cover letter, their resume shows no evidence of React, TypeScript, or the specific testing tools (Jest, Cypress) required. They have relevant industry experience and Agile exposure, but lack the core, demonstrable skills listed in the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design, presentation design, and UX/UI, with no demonstrated professional experience in modern front-end development using React, TypeScript, or testing frameworks. The resume and cover letter mention only basic HTML/CSS and jQuery, completely missing the core technical stack and software engineering practices required by the job description. This is a significant industry and skillset mismatch for a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background and education are in film and media production rather than software engineering. They possess none of the required technical skills, such as JavaScript, TypeScript, React, or automated testing, and have no experience with Git or professional web development workflows. While they express a desire to learn these technologies, they currently lack the fundamental engineering expertise necessary for the role.

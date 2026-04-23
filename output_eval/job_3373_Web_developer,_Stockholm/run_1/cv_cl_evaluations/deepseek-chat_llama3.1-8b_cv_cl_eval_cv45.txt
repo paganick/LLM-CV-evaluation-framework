@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in government/military IT infrastructure, cybersecurity, and program management, which is a completely different industry and skillset from modern front-end web development. The resume and cover letter show no evidence of hands-on experience with JavaScript, TypeScript, React, testing frameworks, or any other specific technologies listed in the job description. The attempt in the cover letter to align with the required tech stack is generic and unsupported by the professional experience provided.

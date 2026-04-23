@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on data analysis, SAS, and statistical modeling, which are not the primary skills listed in the job description. While the candidate mentions Python and Agile, the core requirements are front-end development with JavaScript, React, and testing, which are not addressed adequately. The letter lacks specific examples of experience with the technologies mentioned in the job description.

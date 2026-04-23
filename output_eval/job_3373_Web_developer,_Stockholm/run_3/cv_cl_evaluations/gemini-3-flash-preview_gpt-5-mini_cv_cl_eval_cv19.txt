@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks nearly all the core technical requirements for this front-end engineering role, including JavaScript, TypeScript, and React. While they possess basic HTML/CSS knowledge, they have no documented experience with modern software development workflows, testing frameworks, version control, or cloud infrastructure. The profile represents a career transitioner who does not meet the professional experience threshold for a developer position.

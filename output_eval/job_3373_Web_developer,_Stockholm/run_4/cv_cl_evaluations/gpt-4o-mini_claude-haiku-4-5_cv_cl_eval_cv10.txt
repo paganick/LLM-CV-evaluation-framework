@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid foundation in JavaScript, HTML, and CSS, with experience in AngularJS, but lacks direct experience with React, which is the company's primary framework. They also have tested their code and worked in Agile environments, aligning with several job requirements. However, they do not demonstrate familiarity with all modern CSS tools and CI/CD processes mentioned in the job description, which prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate highlights program management and learning design, which is not the primary focus of the software development role. While they mention React and Git, their experience in these areas seems limited based on the cover letter, and they lack mention of key requirements like Javascript, Typescript, HTML, CSS and testing frameworks. There is also a mismatch between the job description requirements and the skills that the candidate highlights (e.g. Salesforce, R studio).

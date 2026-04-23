@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to meet the mandatory requirement of 2-3 years of commercial experience in a dedicated UX designer role, instead offering a background exclusively in marketing. They admit to lacking proficiency in essential tools like Figma and technical skills like HTML/CSS, which are critical for managing the UI Design System and producing prototypes. Furthermore, the application lacks evidence of experience with Agile methodologies, user journey mapping, or mentoring junior designers as specifically requested.

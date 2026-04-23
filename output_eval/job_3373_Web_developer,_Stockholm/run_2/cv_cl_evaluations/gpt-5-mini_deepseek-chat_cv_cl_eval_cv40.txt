@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong domain and product leadership experience and states recent upskilling in JavaScript/React and related tooling, but the resume shows no verifiable hands-on front-end engineering experience, code samples, or engineering roles. Key technical requirements—demonstrated expertise with testing/test automation, modern CSS tooling, CI/CD, Node/Express ecosystem, and cloud/infra familiarity—are not evidenced. This is relevant industry experience but lacks the concrete technical depth required for a senior front-end developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and backend development (SQL, Python, ASP.NET, C#), which is a relevant industry but lacks the specific front-end technologies required. The job description explicitly calls for proficiency in JavaScript/TypeScript, React, and modern CSS tools, none of which are mentioned or demonstrated. While the candidate shows strong soft skills and a willingness to learn, the absence of hands-on experience with the core technical stack makes them a weak fit for the specific role.

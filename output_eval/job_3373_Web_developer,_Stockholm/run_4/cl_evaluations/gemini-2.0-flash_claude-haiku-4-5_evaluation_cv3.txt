@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant IT degree and foundational knowledge of HTML, CSS, and JavaScript, aligning with the job description's technical requirements. However, they lack direct experience with React, a core technology used by the company, and other modern front-end tools. While they express enthusiasm for learning, the cover letter doesn't showcase concrete experience in areas like TypeScript, testing frameworks, or functional programming with Ramda beyond expressing interest.

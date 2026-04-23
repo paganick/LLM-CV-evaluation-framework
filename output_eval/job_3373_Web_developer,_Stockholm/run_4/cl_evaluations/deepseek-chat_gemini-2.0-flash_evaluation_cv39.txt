@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic and web design, not modern front-end development. The cover letter demonstrates a significant lack of required technical skills, mentioning only "some HTML knowledge" while the job requires proficiency in React, TypeScript, testing, and modern tooling. While the candidate shows a willingness to learn, their experience does not align with the core technical competencies specified for the role.

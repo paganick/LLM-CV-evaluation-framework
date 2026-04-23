@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the minimum commercial UX experience and demonstrates strong user research, journey mapping, workshop facilitation, and leadership/roadmap capabilities that align well with the role. However, they lack proven experience in an Agile software development environment and are still developing key technical skills (Figma prototyping and HTML/CSS) that the role specifically requests for managing the UI Design System. Given the strong UX background but clear gaps in tooling and Agile experience, this is a good but not perfect match.

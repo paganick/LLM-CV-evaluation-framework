@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a strong Java/back-end background with dated front-end experience (AngularJS) and no mention of React, TypeScript, or modern CSS tools like Styled Components. While the cover letter claims React and TypeScript proficiency, the resume provides no evidence to support these critical requirements. The candidate lacks demonstrated experience with the specific modern front-end stack, testing frameworks, and functional programming (Ramda) outlined in the job description.

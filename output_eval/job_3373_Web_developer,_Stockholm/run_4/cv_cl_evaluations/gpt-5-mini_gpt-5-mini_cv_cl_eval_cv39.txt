@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has deep visual design and HTML/CSS experience relevant to front-end work, but lacks demonstrated hands-on skills with JavaScript/TypeScript, React, modern testing frameworks, Git, Node/npm, and web security practices required by the role. While motivated to learn these technologies, the resume and cover letter do not show the core engineering experience needed for this position, so they are not currently qualified.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in presentation, UX and graphic design with basic HTML/CSS and legacy jQuery experience, but lacks demonstrated competence in core requirements such as JavaScript/TypeScript, React, Node.js, modern testing frameworks, Git workflows, and web security practices. While they have some QA and product experience and a Computer Science degree, these do not compensate for the absence of hands-on frontend engineering skills and tooling required for this role. The profile is therefore not a match for the position.

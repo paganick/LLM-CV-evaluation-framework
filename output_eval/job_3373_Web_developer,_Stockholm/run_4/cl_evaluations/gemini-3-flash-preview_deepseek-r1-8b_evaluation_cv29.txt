@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is applying for a Business Development role, whereas the job description is for a highly technical software engineering position requiring mastery of JavaScript, React, and modern development frameworks. There is a total absence of the required technical skills, such as coding, testing, or CI/CD experience, mentioned in the application. This is a complete mismatch between the applicant's business background and the engineering requirements of the role.

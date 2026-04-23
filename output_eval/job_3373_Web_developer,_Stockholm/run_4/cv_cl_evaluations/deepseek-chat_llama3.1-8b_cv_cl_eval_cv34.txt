@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not modern front-end development. The resume and cover letter lack evidence of required skills like JavaScript, TypeScript, React, testing frameworks, or modern tooling (e.g., Jest, ESLint, AWS). Claims in the cover letter about React and security knowledge are not substantiated by the resume's experience, indicating a significant mismatch with the core technical requirements.

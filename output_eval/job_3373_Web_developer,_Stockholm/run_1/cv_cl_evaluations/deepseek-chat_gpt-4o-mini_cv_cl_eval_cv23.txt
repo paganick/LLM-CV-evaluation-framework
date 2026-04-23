@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics and hardware testing, not professional front-end development. While the cover letter claims familiarity with key technologies like React and testing frameworks, the resume provides no evidence of commercial software development experience, project work, or proficiency with the modern web stack required. The role demands a dedicated software engineer, and this candidate's profile is from a different industry.

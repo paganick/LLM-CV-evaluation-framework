@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong product management, Agile leadership, and cross-team collaboration experience relevant to a software organisation, but the cover letter provides no evidence of hands-on front-end technical skills required (JavaScript/TypeScript, React, HTML/CSS), testing/test automation, or familiarity with Node/npm, CI/CD, and web security. Because this role requires practical engineering experience that the applicant explicitly identifies as outside their primary expertise, they are a relevant but materially underqualified match.

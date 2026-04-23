@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a graphic designer with demonstrated HTML and CSS experience but shows no evidence of JavaScript/TypeScript, React, testing frameworks, Git, Node.js, CI/CD, or web security knowledge required for this Front End Developer role. Their cover letter expresses willingness to learn, but the resume does not demonstrate the hands-on modern front-end development skills or tooling experience needed. Without significant upskilling or demonstrable projects in these areas, they are not a strong fit for the position.

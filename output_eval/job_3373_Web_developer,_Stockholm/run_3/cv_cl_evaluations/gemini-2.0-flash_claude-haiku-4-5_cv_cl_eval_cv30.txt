@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, with limited direct experience in frontend development. While the cover letter expresses interest and a willingness to learn, the resume lacks substantial evidence of proficiency in the core technologies listed in the job description (JavaScript, TypeScript, React, modern CSS tools). The candidate's skills in HTML and ASP.NET are outdated, and there's no mention of testing frameworks or CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software engineering experience and basic front-end skills (HTML/CSS/JS, Git, web security) but primarily from a Java/J2EE backend background. They lack demonstrated hands-on experience with core requirements: React and TypeScript, modern JS tooling (Node/npm/Yarn), front-end testing frameworks (Jest/Cypress/TestCafe), linters/formatters, and modern CSS solutions. While they express eagerness to learn, they do not currently meet the role's immediate technical expectations.

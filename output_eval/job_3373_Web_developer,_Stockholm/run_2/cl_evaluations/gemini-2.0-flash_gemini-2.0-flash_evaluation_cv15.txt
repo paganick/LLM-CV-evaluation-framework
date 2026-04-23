@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions experience with HTML, CSS, and JavaScript, their familiarity with React, the company's framework of choice, is presented as something they are "eager to apply" rather than having hands-on experience. The cover letter lacks specific examples of testing and test automation experience, and misses key technologies mentioned in the job description such as Git, NodeJS ecosystem and CI/CD tools. The cover letter demonstrates basic understanding, but misses most of the advanced skills.

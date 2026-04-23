@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive sales leadership experience, they fail to demonstrate the mandatory "Must have" technical sales experience in Application Services (API, Cloud), Business Analytics, or Design Consulting. Their background is heavily concentrated in traditional banking and mortgage technology, which does not align with the specific digital stacks and cross-industry requirements (Telco, Retail, Utilities) specified in the job description.

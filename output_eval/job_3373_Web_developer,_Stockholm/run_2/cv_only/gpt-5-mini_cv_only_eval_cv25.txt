@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates extensive experience in graphic and print design with some HTML/CSS, but contains no evidence of JavaScript/TypeScript, React (or other modern JS frameworks), testing/automation, Git, Node/npm, CI/CD, or cloud/infra knowledge required for the role. This is a different discipline and lacks the core technical skills and tooling the position requires. Candidate is therefore completely unqualified for the described frontend engineering role.

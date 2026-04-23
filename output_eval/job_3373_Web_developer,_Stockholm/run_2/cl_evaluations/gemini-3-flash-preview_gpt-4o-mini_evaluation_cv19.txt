@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for this role, specifically admitting to limited experience in JavaScript and TypeScript, which are core competencies. Furthermore, there is no evidence of professional experience with React or any form of automated testing, both of which are central to the job description. While the applicant has a background in graphic design and basic web technologies, their current skill set is insufficient for a developer-level position requiring advanced frameworks and CI/CD processes.

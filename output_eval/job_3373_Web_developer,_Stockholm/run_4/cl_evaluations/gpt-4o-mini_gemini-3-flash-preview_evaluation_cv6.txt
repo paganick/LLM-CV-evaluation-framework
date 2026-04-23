@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development and modern frameworks, particularly with JavaScript and HTML5, and shows familiarity with testing and version control. However, there's no mention of TypeScript, which is a requirement, and their experience is mainly in Drupal rather than direct experience with React. Overall, they demonstrate strong skills but do not perfectly align with all the specific requirements of the position.

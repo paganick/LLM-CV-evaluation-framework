@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight experience in customer service, sales, and management, lacking the required technical skills in JavaScript, TypeScript, HTML, CSS, modern FE frameworks, testing, and web security. While transferable skills are mentioned, the absence of direct technical experience makes the candidate unsuitable for a Software Engineer position requiring hands-on coding and development expertise. The resume does not demonstrate any experience with software development or related technologies.

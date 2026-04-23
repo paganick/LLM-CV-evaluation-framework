@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a Computer Science degree and mentions some relevant technologies in the cover letter. However, the resume focuses on business development and project management, lacking concrete evidence of hands-on software engineering experience with the specific technologies mentioned in the job description, such as React, TypeScript, and modern testing frameworks. The experience is not a strong match for a software engineer role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with front-end technologies and aligns with the job description's focus on React, testing, and Agile methodologies. They also mention experience with tools like Git, Docker, and testing frameworks mentioned in the job description. While the candidate's core experience isn't React-centric, they express interest in the company's transition to React and showcase adjacent skills.

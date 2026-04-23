@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience with JavaScript, HTML, and CSS, and has worked with AngularJS, which is a plus. However, they lack experience with modern frameworks like React, as well as specific testing frameworks mentioned in the job description. Their familiarity with Agile methodology is a positive aspect, but overall, they fall short of being a strong match for the position's requirements.

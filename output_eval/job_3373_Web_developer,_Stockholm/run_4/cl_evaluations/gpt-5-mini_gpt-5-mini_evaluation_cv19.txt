@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant HTML/CSS and strong visual design skills but lacks demonstrated experience with core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Node/npm, Git workflows, CI/CD, and web security. While they show willingness to learn and transferable discipline from technical roles, they do not currently meet the essential hands-on engineering skills this position requires. This makes them a relevant but underqualified candidate for the role as described.

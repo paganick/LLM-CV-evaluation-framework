@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary technology stack, specifically React and TypeScript, which are mandatory requirements for this role. While they possess a relevant educational background, their cover letter fails to mention critical skills such as web security, automated testing frameworks (Jest/Cypress), or functional programming. Overall, the candidate appears to be in a transitional phase and does not meet the technical seniority required for this specific frontend position.

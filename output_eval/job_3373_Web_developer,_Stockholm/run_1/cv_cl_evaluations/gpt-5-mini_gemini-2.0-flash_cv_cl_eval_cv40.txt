@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has deep product management and media experience but provides no evidence of hands‑on front-end development skills (JavaScript/TypeScript, React, modern CSS, Node/npm, testing frameworks, CI/CD) required for this role. Their background demonstrates leadership, Agile practice, and domain knowledge but not the technical proficiency or coding/test automation experience needed to perform the job.

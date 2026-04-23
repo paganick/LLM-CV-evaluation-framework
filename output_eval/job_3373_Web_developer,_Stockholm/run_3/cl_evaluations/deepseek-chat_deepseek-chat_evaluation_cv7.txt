@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design experience but lacks demonstrable, professional hands-on experience with the core technical stack, specifically React, TypeScript, and modern testing frameworks. The letter mentions "diligently building" these skills but provides no evidence of projects or production-level proficiency. Key requirements like test automation, security knowledge, and specific tooling (e.g., Jest, ESLint, CI/CD) are not addressed.

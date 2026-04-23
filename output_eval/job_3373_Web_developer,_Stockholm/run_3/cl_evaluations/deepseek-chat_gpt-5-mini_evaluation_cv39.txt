@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive design background is relevant to the industry but lacks the specific technical experience required for the role. They demonstrate no hands-on experience with React, TypeScript, testing frameworks, Git, or modern front-end tooling as listed in the job description. While they express strong motivation to learn, their current skills are misaligned with the core engineering requirements, positioning them as a career transitioner rather than a qualified applicant.

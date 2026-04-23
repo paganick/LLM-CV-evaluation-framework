@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant software development experience and basic front-end skills, they fail to mention several critical requirements, including TypeScript, React, and Git. The profile leans heavily on legacy technologies like AngularJS and XML/XSLT, showing no evidence of experience with the modern ecosystem requested, such as NodeJS, CI/CD, or AWS. Additionally, the candidate ignores the specific security and automated testing framework requirements outlined in the job description.

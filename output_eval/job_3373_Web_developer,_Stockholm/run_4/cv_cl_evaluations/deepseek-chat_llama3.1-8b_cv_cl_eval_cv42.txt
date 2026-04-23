@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in finance and operations management within publishing and non-profit sectors, with zero demonstrated experience in software development. The cover letter's mention of modern FE frameworks and technical tools is entirely unsupported by the resume, which lists only financial software. This is a complete mismatch for a front-end engineering role requiring hands-on technical skills.

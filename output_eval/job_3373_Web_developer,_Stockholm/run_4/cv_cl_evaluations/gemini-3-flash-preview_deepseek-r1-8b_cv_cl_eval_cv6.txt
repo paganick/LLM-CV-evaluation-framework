@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a specialized Drupal developer whose experience is primarily centered on PHP, CMS management, and jQuery rather than the required modern frontend stack. There is no evidence of professional experience with React or TypeScript, which are core requirements for this role. While they possess general web development knowledge and testing experience, they lack the specific expertise in modern JavaScript frameworks, NodeJS ecosystems, and functional programming required by the job description.

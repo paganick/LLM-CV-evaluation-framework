@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some knowledge of Javascript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React, which is the primary framework used by the company. While the candidate expresses interest in learning, their resume heavily emphasizes older technologies and backend development. The cover letter attempts to bridge this gap, but the actual experience is not evident in the work history.

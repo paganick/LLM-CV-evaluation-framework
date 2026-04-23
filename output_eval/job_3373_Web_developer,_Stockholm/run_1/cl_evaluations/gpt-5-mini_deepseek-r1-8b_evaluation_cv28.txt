@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong analytical, QA, and data-visualization experience plus basic Git competency, but lacks demonstrated hands-on experience with the core technologies required (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks like Jest/Cypress, and Node ecosystem). Key requirements such as frontend framework proficiency, modern CSS practices, test automation, and CI/CD/AWS familiarity are not evidenced. Given the gap in essential frontend skills, this application is below the level needed for the role.

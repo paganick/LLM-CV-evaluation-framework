@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in web development and familiarity with key technologies mentioned in the job description, such as HTML, CSS, and JavaScript, along with experience in React. However, there is limited information regarding hands-on testing and automation, which is a crucial aspect of the role, and specific experience with the CI/CD tools and libraries mentioned in the job description is not sufficiently highlighted.

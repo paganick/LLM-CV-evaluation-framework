@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-transitioner lacking professional experience as a dedicated software engineer or production-level React developer. While they possess strong logic and API integration skills from a marketing automation background, they fail to demonstrate practical mastery of the required testing frameworks, modern CSS tools, or web security protocols. The application relies on transferable logic rather than the proven, hands-on engineering history requested in the job description.

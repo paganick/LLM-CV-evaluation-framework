@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and technical project oversight but lacks specific hands-on experience with React and modern front-end frameworks, which are critical for the role. While they have knowledge in JavaScript, HTML, CSS, and some relevant technologies, the absence of direct experience with key tools such as testing frameworks and CI/CD tools limits their fit for the position.

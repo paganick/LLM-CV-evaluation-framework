@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience is entirely centered on hardware, electronics manufacturing, and electrical test engineering rather than software frontend development. While the cover letter claims familiarity with the required tech stack, the resume lacks any professional history or projects involving JavaScript, React, or modern frontend tooling. This candidate is fundamentally unqualified for a development role, as their background is in a different engineering discipline.

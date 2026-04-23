@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in design and UX/UI, lacking the necessary depth in JavaScript, TypeScript, and modern FE frameworks like React. While the candidate mentions HTML and CSS proficiency, the resume and cover letter don't demonstrate the required experience with testing, Git, or web security principles. The candidate expresses interest in learning these technologies, but doesn't currently possess the required skills.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant web development experience, including HTML, CSS, and JavaScript. They mention ASP.NET MVC, which is not the React stack the job description focuses on. The letter expresses motivation to learn React and related technologies, but lacks demonstrated experience in key areas like testing frameworks, modern CSS tooling, and NodeJS ecosystem.

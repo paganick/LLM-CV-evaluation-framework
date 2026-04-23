@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate emphasizes leadership and management experience rather than hands-on frontend development. While they mention exposure to modern development practices, the cover letter lacks specific examples of coding in React, TypeScript, or other listed technologies. There is no mention of personal projects or contributions to open-source, suggesting a lack of practical coding experience.

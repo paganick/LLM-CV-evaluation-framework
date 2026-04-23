@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, which aligns well with the job description. They also demonstrate familiarity with testing and test automation, Git, and basic web security concepts. However, while they have good relevant experience, they lack explicit mentions of familiarity with all tools mentioned in the job description, such as functional programming concepts and specific testing frameworks like Jest or Cypress.

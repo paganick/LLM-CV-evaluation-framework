@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required skills like React, Jest, Git, and Agile. However, the cover letter heavily emphasizes a 15-year graphic design background over demonstrated, hands-on frontend development experience. It lacks specific, concrete examples of building applications with the listed technologies and does not address key requirements like VueJS/Angular/Svelte awareness, testing automation, or modern CSS tools.

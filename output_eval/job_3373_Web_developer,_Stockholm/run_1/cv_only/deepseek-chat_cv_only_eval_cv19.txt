@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design and unrelated trades, with no professional experience in modern front-end development using React, TypeScript, or testing frameworks. While they list HTML/CSS, the resume lacks any mention of JavaScript, React, version control, testing, or the other core technical requirements specified in the job description. This is a severe mismatch for a professional software engineering role.

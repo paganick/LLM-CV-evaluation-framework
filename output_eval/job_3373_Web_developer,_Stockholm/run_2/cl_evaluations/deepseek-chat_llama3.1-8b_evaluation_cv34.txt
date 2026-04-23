@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required skills, including React, testing, Git, and security topics. However, the cover letter heavily emphasizes email platform implementation (Salesforce, Adobe) and project management, while providing insufficient detail on the core front-end technologies, modern tooling, and specific testing frameworks listed in the job description. The application lacks a clear, direct alignment with the specific technical stack and responsibilities of a front-end focused role.

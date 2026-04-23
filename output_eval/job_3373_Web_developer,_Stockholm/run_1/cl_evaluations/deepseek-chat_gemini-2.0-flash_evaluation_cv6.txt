@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend development, testing, and Agile collaboration, aligning well with core requirements. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, modern security concepts (OWASP, CSP), and specific tools like Ramda or CircleCI. While expressing eagerness to learn, the application relies more on adjacent Drupal experience rather than proven, hands-on expertise with the stated React-centric stack.

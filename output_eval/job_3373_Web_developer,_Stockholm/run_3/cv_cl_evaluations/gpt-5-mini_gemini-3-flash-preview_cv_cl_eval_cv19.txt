@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer with only basic HTML/CSS coursework and no demonstrated professional experience in JavaScript/TypeScript, React, testing/automation, Git, Node.js, CI/CD, or AWS — all core requirements for this role. Transferable skills (visual design, troubleshooting, collaboration) are noted but do not meet the technical expectations for a frontend developer position. The gap in essential frontend engineering experience makes them unsuitable for this role at present.

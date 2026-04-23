@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's cover letter emphasizes extensive graphic design and general web design experience but fails to address the core technical requirements of the role. It does not mention any of the specified programming languages (JavaScript, TypeScript, React), testing frameworks, or modern development tools listed in the job description. While the candidate demonstrates relevant soft skills and industry experience, the lack of specific, required technical proficiency makes them unqualified for this front-end development-focused position.

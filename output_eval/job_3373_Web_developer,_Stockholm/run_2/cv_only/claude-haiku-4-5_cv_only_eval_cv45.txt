@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate is a government IT and cybersecurity specialist with no demonstrated experience in frontend web development, JavaScript, TypeScript, React, or any of the modern web technologies required for this role. The resume shows expertise in military IT infrastructure, network operations, and cybersecurity policy rather than commercial software development or web frameworks. There is a complete mismatch between the candidate's background in government IT operations and the frontend engineering position's requirements.

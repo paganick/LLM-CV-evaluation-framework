@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the mandatory tech stack, specifically React and TypeScript, which are central to the role. While they possess a relevant background in software engineering and Agile methodologies, their reliance on legacy tools like jQuery and the .NET stack makes them a high-risk hire requiring significant upskilling.

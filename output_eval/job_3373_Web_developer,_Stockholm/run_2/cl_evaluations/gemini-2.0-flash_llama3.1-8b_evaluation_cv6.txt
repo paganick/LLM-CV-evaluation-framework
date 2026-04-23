@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights Drupal development but lacks specific experience with React, TypeScript, and testing frameworks mentioned in the job description. While they mention JavaScript, HTML, and CSS, they don't showcase proficiency in modern FE frameworks and testing automation. The cover letter focuses more on Drupal-specific skills rather than the JavaScript-centric requirements.

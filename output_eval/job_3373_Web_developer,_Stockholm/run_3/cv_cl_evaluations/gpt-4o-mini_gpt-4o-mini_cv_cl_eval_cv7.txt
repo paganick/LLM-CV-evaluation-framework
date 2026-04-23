@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and some experience with web development tools like HTML and CSS. However, they lack proficiency in essential JavaScript frameworks such as React, TypeScript, and knowledge of testing frameworks that are crucial for the frontend developer role. The foundational skills are present, but the absence of specific technical experience makes them less suitable for the position.

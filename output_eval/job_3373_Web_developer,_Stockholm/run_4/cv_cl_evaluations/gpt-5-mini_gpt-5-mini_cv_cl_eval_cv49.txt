@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the core frontend technologies required (JavaScript/TypeScript, React, modern CSS/styling, Node/npm, frontend testing frameworks, and Git) and therefore does not meet the immediate technical requirements for this Frontend Engineer role. While they demonstrate strong analytical skills, testing discipline, and a capacity to learn, those strengths do not substitute for the specific frontend experience needed to be productive in this position.

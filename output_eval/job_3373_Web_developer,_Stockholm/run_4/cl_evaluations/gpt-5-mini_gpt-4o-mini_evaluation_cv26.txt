@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate lacks demonstrated proficiency with core front-end technologies required for the role (JavaScript/TypeScript/HTML/CSS), practical React experience, and hands-on testing/tooling (Jest/Cypress, Node/npm, linters, CI/CD). Their marketing and communication background shows valuable soft skills and a willingness to learn, but it does not compensate for the absence of the specific technical competencies needed. Given the job's technical demands, this candidate is not ready for the position without significant upskilling or proven project experience.

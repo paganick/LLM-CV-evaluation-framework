@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally a data analyst and quality technician whose professional experience is entirely disconnected from modern front-end development. They lack the required proficiency in JavaScript, TypeScript, and React, focusing instead on data science tools like SAS, R, and Python. Furthermore, there is no evidence of experience with essential tools such as modern CSS frameworks, automated testing (Jest/Cypress), or the Node.js ecosystem.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified as they come from a Business Development and Organic Chemistry background, which is entirely unrelated to the Software Engineering industry. They lack all required technical skills, including modern JavaScript frameworks like React, TypeScript, and professional experience with testing or CI/CD pipelines. The resume mentions only basic, outdated programming knowledge (C, C++, HTML) with no professional application in a development environment.

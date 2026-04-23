@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate meets the minimum requirements on experience length, Agile exposure, workshop facilitation and basic HTML/CSS familiarity, but the CV indicates primary background in HR rather than a solid commercial UX track record. Prototyping with Figma is explicitly underdeveloped and there is limited evidence of applied user research methods, ownership of a UX roadmap, or mentoring/leadership in a UX team. These gaps mean they are relevant to the role but currently lack several key, demonstrable UX skills required for a strong hire.

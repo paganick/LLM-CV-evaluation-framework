@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager rather than a dedicated Front-End Engineer, lacking the required hands-on experience with React and TypeScript. Their technical background is centered on legacy tools like jQuery and Angular, with no evidence of proficiency in modern testing frameworks (Jest/Cypress) or CI/CD workflows. While they possess relevant industry experience, they do not meet the core engineering requirements for this specific developer role.

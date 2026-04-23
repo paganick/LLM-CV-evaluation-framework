@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has business analyst experience and some pre-sales involvement, but the resume lacks explicit sales experience and direct experience with the specific technologies mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). The cover letter attempts to bridge this gap, but the resume doesn't strongly support the claims. The experience seems more implementation and support focused than sales focused.

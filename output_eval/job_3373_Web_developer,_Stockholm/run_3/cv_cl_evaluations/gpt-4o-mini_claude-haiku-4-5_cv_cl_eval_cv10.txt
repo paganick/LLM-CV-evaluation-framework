@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has foundational skills in JavaScript, HTML, and CSS and some experience with AngularJS, which aligns with the job description. However, they lack direct experience with React and modern testing frameworks mentioned in the description. While they have experience in Agile environments, their technical skill set does not fully match the role's specific requirements, resulting in a score that reflects relevant but insufficiently specific experience.

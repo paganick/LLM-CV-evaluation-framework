@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am a software developer with a Master of Science in Computer Science (Wichita State University, May 2015) and hands-on experience building interactive web applications, automated tests, and performance benchmarking. My background in HTML5, CSS, JavaScript and front-end frameworks (I built single-page applications using AngularJS, jQuery and Bootstrap) combined with server-side experience in Java, Spring MVC and RESTful services gives me the breadth to contribute to your React-based product and collaborate across teams.
+
+In my role as a Java intern I designed and implemented a Leave Management System with Spring MVC, Hibernate and Oracle, and created a SPA using AngularJS. As a test contractor on a Performance and Benchmarking team I executed test plans, ran daily continuous performance verification tests, performed root-cause analysis for performance regressions, and contributed automation using batch scripts, Action Word Script and Java. These experiences taught me disciplined test automation, familiarity with tools such as JMeter and JConsole, and an appreciation for reliable CI-driven delivery.
+
+I am comfortable working in Agile teams and regularly participated in scrum meetings. I use Git for source control and have experience consuming and producing SOAP and REST web services. I take pride in writing clean, maintainable code, following design patterns and optimizing for performance and scalability. I enjoy learning new technologies and am eager to apply modern front-end practices (React, component-driven styling, testing frameworks and linters) and to deepen knowledge in test automation, Node ecosystem tools, functional libraries and CI/CD.
+
+I also have experience presenting project work and writing documentation to clarify requirements and test outcomes. I have collaborated with QA, firmware and backend teams to align test coverage and performance targets, and I welcome interaction with external partners to ensure integration goals are met. My academic work and research assistantship strengthened my analytical and data-handling skills, which I actively apply when diagnosing issues and improving system reliability.
+
+I am motivated by collaborative problem solving and understanding full product domains beyond my immediate area of expertise. I would welcome the opportunity to bring my testing rigor, front-end experience, and pragmatic approach to clean code to your team.
+
+Sincerely, Alexis

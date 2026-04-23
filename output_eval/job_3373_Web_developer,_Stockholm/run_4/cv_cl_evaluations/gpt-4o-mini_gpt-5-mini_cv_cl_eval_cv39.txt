@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and web maintenance but lacks specific experience with modern front-end technologies such as React, TypeScript, and testing frameworks. They demonstrate some foundational knowledge of HTML and CSS but do not meet the requirement for hands-on experience with contemporary frameworks or tools specified in the job description. Their extensive design experience may provide a creative perspective but does not fully align with the technical needs of the role.

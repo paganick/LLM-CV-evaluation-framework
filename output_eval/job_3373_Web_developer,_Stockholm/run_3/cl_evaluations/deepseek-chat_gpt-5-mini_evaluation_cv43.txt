@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management and learning design, not front-end development. While they demonstrate strong transferable skills like project leadership and stakeholder collaboration, they lack direct, hands-on experience with the core technologies listed in the job description (JavaScript, TypeScript, React, CSS, testing frameworks). Their technical experience with R is not relevant to this front-end role, making them underqualified for the specific technical requirements.

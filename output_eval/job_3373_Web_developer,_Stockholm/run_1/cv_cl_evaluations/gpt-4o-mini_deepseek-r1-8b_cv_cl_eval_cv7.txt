@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and demonstrates a willingness to learn new technologies such as modern JavaScript frameworks and testing methodologies. However, they lack specific experience in core technologies required for the position, including JavaScript, TypeScript, modern frontend frameworks, and testing tools. Their experience does not align closely enough with the technical requirements or the collaborative, Agile environment specified in the job description.

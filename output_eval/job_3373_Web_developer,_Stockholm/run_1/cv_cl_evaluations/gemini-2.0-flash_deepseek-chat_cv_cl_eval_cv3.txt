@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a foundation in web development basics (HTML, CSS, JavaScript) but lacks practical experience with modern FE frameworks like React, which is crucial for the role. Their experience is primarily academic and doesn't showcase hands-on application in a professional setting. The resume focuses heavily on older technologies and lacks exposure to the tools and methodologies mentioned in the job description.

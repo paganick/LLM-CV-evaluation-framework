@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in systems administration and IT infrastructure, which is a completely different domain from modern front-end development. The resume and cover letter show no experience with JavaScript, TypeScript, React, or any of the required front-end frameworks, testing tools, or modern web development practices listed in the job description. While they have general IT experience, they are unqualified for this specific software engineering role.

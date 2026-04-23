@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks documented professional experience with the core technologies required, specifically React and TypeScript, which are essential for this role. While they possess general software engineering knowledge, their background is heavily focused on PHP, Perl, and C++ rather than the modern frontend ecosystem, testing frameworks, or CI/CD tools mentioned in the job description. The application fails to provide evidence of practical expertise in AWS, Terraform, or functional programming.

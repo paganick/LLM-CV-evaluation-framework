@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. With my background in data analysis, model building, and experience in web technologies, I am confident I possess a valuable skillset applicable to your team.
+
+My master's degree in Analytics, coupled with my experience as an Engineering and Quality Technician, has equipped me with a strong foundation in data handling, quality testing, and defect identification. I have hands-on experience using SQL to perform quality tests, identifying product defects, and providing valuable information to improve product shipping and customer satisfaction.
+
+While my CV highlights my experience with languages like C#, HTML and tools like SAS, SQL, and Python, I am eager to expand my knowledge and embrace modern front-end technologies. I am keen to learn React and contribute to your team's projects. My experience in web scraping using Beautiful Soup in Python demonstrates my ability to quickly learn and apply new technologies to solve complex problems.
+
+As evidenced by my experience as a lecturer, I am a strong collaborator and communicator. My experience managing teams and teaching students has honed my ability to explain complex concepts clearly and work effectively in a team environment. I am passionate about clean code and eager to contribute to a team that values collaboration and continuous learning.
+
+I am confident that my analytical skills, combined with my enthusiasm for learning new technologies, make me a strong candidate for this position. I am eager to contribute to your team's success and further develop my front-end development skills.
+
+Sincerely,
+Alexis

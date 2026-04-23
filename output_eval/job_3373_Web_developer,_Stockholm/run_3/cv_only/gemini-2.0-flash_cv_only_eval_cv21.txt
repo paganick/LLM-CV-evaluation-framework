@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but the resume lacks mention of modern FE frameworks like React, which is the preferred framework according to the job description. The candidate also lacks experience with testing frameworks, CI/CD tools, and cloud platforms like AWS. While the candidate has some relevant experience, they do not meet the requirements for this role.

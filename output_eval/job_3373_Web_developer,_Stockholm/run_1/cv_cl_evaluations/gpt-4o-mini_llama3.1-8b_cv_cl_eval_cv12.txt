@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in software development with over 7 years of experience and has mentioned familiarity with React, which aligns with the job requirement for front-end experience. However, the resume lacks specific experience with many modern frameworks like VueJS, Angular, or Svelte, as well as other listed tools such as CI/CD technologies and testing frameworks. Additionally, there’s no evident experience with security knowledge or AWS, which are important for the role.

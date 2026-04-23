@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in frontend development with relevant experience in JavaScript, HTML, and CSS, which aligns well with the job description. However, they lack specific experience with TypeScript and modern CSS tools like linters and formatters. While their experience in testing is strong, they have not mentioned familiarity with certain CI/CD tools or AWS, which could be a concern for a full match.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in ASP.NET and showcases a solid understanding of web development principles, as well as relevant programming skills in modern front-end frameworks like React. However, they lack direct experience with JavaScript, TypeScript, and some of the specific technologies mentioned in the job description, such as SASS and CI/CD tools.

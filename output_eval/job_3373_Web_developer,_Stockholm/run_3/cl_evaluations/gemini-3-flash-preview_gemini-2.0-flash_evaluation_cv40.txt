@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The applicant's twenty-year career is centered on product management and strategic leadership rather than hands-on software development. There is no mention of the required technical proficiency in JavaScript, React, or TypeScript, nor any evidence of experience with modern front-end testing and deployment workflows. While the candidate is from a relevant industry, they lack the specific technical skills and professional coding experience necessitated by this developer role.

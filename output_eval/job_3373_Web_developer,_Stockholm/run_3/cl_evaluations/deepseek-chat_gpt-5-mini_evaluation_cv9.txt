@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates a clear, proactive plan to transition from back-end to front-end development, directly addressing many job requirements. However, they lack proven, hands-on production experience with the core front-end technologies (React, TypeScript, modern CSS) listed in the job description. Their exceptional discipline in testing, automation, and Agile collaboration makes them a strong, adaptable candidate who can likely bridge the gaps.

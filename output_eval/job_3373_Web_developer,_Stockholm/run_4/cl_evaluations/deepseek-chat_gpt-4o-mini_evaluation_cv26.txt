@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required hands-on experience with the core technologies listed in the job description, explicitly stating they are not yet proficient in JavaScript, TypeScript, HTML, and CSS. While they demonstrate relevant soft skills and a willingness to learn, their technical background is insufficient for a front-end development role. Their experience is primarily in marketing, not software development, making them a weak match for the specific technical requirements.

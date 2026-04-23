@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant commercial UX experience (Agile sprints, user research, workshops, prototyping, UI design system ownership and mentoring) that aligns well with the role. However, they do not demonstrate concrete Figma experience (only "adaptable to Figma") and only note foundational HTML/CSS with no JS exposure, preventing a higher score for a role where Figma proficiency and front-end familiarity are explicitly desirable.

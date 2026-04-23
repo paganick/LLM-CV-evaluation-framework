@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is entirely in Mainframe technologies (COBOL, CICS, DB2) and the wrong industry, with no professional experience in the required modern frontend stack (React, TypeScript, CSS-in-JS). The cover letter mentions only a foundational understanding of HTML and JavaScript, which is insufficient for a professional frontend role. The listed skills and certifications are completely irrelevant to the job description.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter show a strong data-analytics background but provide no evidence of required front-end skills (JavaScript/TypeScript, HTML/CSS, React) nor experience with testing, Git, Node/npm, or modern CSS/tools. While the candidate demonstrates transferable analytical ability and eagerness to learn, they do not meet the minimum hands-on front-end experience or toolset required for this role.

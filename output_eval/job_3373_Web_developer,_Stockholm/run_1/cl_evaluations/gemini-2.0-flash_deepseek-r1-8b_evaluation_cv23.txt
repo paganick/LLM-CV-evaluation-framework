@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is mostly in electronics and general software testing, not front-end development or the specific technologies listed in the job description (React, TypeScript, HTML, CSS). There is a mention of Javascript, but the focus seems to be on broader software testing methodologies rather than the specific testing frameworks required. While collaboration and problem-solving skills are valuable, the lack of specific technical alignment is a significant concern.

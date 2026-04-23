@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional background is primarily in digital marketing and Salesforce implementation, which does not align with the requirement for a modern front-end engineer. There is no evidence in the resume of professional experience with JavaScript frameworks, TypeScript, or automated testing tools like Jest and Cypress. While the cover letter claims these skills, the work history fails to demonstrate any practical application of software engineering principles, CI/CD, or AWS.

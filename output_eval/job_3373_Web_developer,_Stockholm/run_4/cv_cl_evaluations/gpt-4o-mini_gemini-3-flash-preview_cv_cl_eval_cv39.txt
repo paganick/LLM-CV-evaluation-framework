@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and web maintenance but lacks critical frontend development skills specifically mentioned in the job description, such as experience with JavaScript, TypeScript, React, and modern testing frameworks. While they express a desire to learn these technologies, they do not demonstrate the necessary hands-on experience required for the role. Their experience primarily focuses on visual design rather than programming, making them less suitable for the frontend developer position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a broad IT background but lacks specific, in-depth experience with modern front-end frameworks like React, TypeScript, and associated testing methodologies. While they mention familiarity with JavaScript, HTML, and CSS, the resume showcases more general IT skills than focused front-end development expertise. Their experience with PHP and Java is less relevant to the job description's focus on a modern JavaScript stack.

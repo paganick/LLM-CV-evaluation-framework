@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, and has worked on various software development projects. However, they lack direct experience with modern front-end frameworks like React, and there is no evidence of familiarity with testing frameworks, CI/CD tools, or specific security knowledge mentioned in the job description. Their familiarity with the NodeJS ecosystem and the lack of mention of functional programming are also drawbacks.

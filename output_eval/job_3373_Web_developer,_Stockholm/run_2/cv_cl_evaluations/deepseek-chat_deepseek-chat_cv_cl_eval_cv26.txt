@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional background is in marketing, communications, and law, which is not directly relevant to front-end development. While the cover letter claims proficiency in key technologies like React, TypeScript, and testing frameworks, the resume provides no evidence of professional experience, projects, or education in software development. The self-reported skills in the cover letter are insufficient to meet the job's requirements for hands-on development experience in a professional Agile environment.

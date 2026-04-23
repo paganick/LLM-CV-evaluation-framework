@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows transferable testing experience, basic JavaScript knowledge, and strong collaboration skills that are relevant to the role. However, they lack demonstrable experience with core frontend technologies required here—notably React, TypeScript, modern HTML/CSS tooling, Git/GitHub, Node/npm, and specific testing frameworks like Jest/Cypress—as well as CI/CD, web security, and cloud familiarity. These substantial gaps make them underqualified for the position despite useful adjacent experience.

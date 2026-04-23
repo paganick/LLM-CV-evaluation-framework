@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager whose professional experience for the last decade has focused on leadership, SEO, and analytics rather than hands-on software engineering. While the cover letter claims familiarity with the modern stack, the resume lacks documented professional experience with React, TypeScript, and the required testing frameworks. The candidate’s technical background is outdated and insufficient for a role requiring a high-level mastery of clean code and modern front-end architecture.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is predominantly film and media production with no demonstrated hands-on experience in the required front-end technologies (JavaScript, TypeScript, React, modern CSS, testing frameworks, Git, Node ecosystem). While they show strong project management, visual design, and QA-minded transferable skills, they lack the specific technical qualifications to contribute immediately as a Front-End Developer. Significant training and proven coding/project experience would be required before considering them for this role.

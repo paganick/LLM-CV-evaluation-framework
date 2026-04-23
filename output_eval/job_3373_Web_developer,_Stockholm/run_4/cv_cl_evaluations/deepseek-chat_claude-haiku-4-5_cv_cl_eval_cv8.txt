@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware test engineering and electronics, which is the wrong industry for a frontend software engineering role. While they mention Python scripting and an interest in learning, they demonstrate zero direct experience with the required technologies (JavaScript, TypeScript, React, CSS, modern testing frameworks). The cover letter attempts to pivot but does not substantiate any relevant frontend development skills.

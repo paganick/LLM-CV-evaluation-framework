@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the required years of experience and effectively demonstrates the requested soft skills and high-level design workflows. However, they fail to explicitly mention proficiency in the specific prototyping tools listed in the job description (InVision, Wireframe.cc) and hold a degree in Marketing rather than the preferred Design or Engineering fields. Under strict review, the transition from Creative Direction and Styling suggests a broader focus that may lack the technical UI/UX specificity required for this specialized role.

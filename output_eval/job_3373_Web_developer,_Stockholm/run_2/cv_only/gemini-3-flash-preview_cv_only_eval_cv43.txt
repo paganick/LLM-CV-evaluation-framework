@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their background is in program management and learning design rather than software engineering. They lack all required technical skills, including JavaScript, TypeScript, React, and modern web development practices. Their only mentioned coding experience is in R studio, which is irrelevant to a frontend development role.

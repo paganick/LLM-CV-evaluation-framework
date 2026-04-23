@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a UX designer attempting to transition into engineering and lacks professional experience with the required technical stack, specifically JavaScript, TypeScript, and React. They admit to needing to "develop proficiency" in the core tools and automated testing frameworks (Jest/Cypress) which are listed as mandatory requirements. While the candidate has a strong background in the relevant industry, they do not currently possess the specific engineering skills or hands-on testing experience requested in the job description.

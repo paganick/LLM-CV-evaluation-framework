@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience with modern front-end frameworks like React or TypeScript, which are core requirements for this position. Their technical background is heavily focused on general IT support and hardware, with web development experience that is over a decade out of date. Furthermore, there is no evidence of proficiency in essential modern development workflows, including Git, automated testing, or CI/CD pipelines.

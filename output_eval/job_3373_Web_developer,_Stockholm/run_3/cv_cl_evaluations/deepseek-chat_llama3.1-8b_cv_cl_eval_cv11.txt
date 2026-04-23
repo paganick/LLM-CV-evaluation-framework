@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing and quality assurance, not in front-end development which is the core of this role. While they have some exposure to JavaScript, HTML, and CSS, they lack demonstrable hands-on experience with modern front-end frameworks like React, TypeScript, and the specific tooling mentioned (e.g., Jest, Cypress, Styled Components). Their experience with Agile and testing is relevant, but the fundamental skill set mismatch for a development-focused position is significant.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has experience primarily in the advertising industry and lacks direct experience with JavaScript, TypeScript, React, or any modern front-end frameworks. The skills listed, such as HTML and CSS, do not compensate for the absence of critical testing tools, collaboration in an Agile environment, or familiarity with security concepts required for the role. Overall, the candidate's background does not align with the technical requirements outlined in the job description.

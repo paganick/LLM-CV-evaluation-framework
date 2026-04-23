@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates foundational skills in JavaScript, Agile, and testing. However, the cover letter lacks specific, direct experience with key requirements like TypeScript, React, security fundamentals (OWASP, CORS), and modern CSS tools. While showing potential, the experience is primarily from an internship and does not yet meet the level of hands-on proficiency required for the role.

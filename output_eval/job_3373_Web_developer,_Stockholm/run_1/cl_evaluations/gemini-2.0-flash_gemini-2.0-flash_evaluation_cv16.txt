@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript, HTML, and CSS, but lacks explicit React experience, which is central to the job. The candidate's background in .NET is not directly relevant to the primary requirements outlined in the job description. While Agile experience and passion for clean code are positives, the cover letter doesn't demonstrate sufficient alignment with the core technologies.

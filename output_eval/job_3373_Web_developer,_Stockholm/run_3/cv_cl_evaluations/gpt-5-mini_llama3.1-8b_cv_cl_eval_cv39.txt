@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced graphic/product designer with strong visual and print skills but lacks the core front-end engineering requirements (JavaScript/TypeScript, React, modern testing frameworks, Node/npm, CI/CD, AWS/Terraform) demanded by the role. The resume shows only "some HTML" and design tool proficiency; claims in the cover letter (Git, web security) are not substantiated with technical experience or examples. This is not a qualified match for a modern frontend developer position.

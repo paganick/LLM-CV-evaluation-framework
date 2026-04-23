@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in software testing and Agile processes, which aligns with some job requirements. However, they lack direct, hands-on experience with the core front-end technologies (React, TypeScript, modern CSS tools) and functional programming (Ramda) specified in the job description. Their experience is primarily in a testing role, not in front-end development, making them underqualified for the specific technical demands of the position.

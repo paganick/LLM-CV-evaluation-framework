@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in graphic and web design, they lack the specific front-end development skills requested in the job description, such as proficiency in JavaScript, TypeScript, and modern front-end frameworks like React. The candidate's familiarity with HTML and some design tools does not sufficiently demonstrate the necessary technical competencies for this role. Additionally, there is no mention of experience with testing frameworks, version control, or CI/CD tools, further indicating a lack of relevant experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in the .NET ecosystem, not the modern front-end frameworks and libraries specified in the job description. While they mention eagerness to learn React, they lack any stated hands-on experience with it, TypeScript, testing frameworks, or the other specific tools listed. Their background is relevant to software development but lacks the specific front-end technology stack and depth of experience required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not professional front-end development, and they lack the required hands-on experience with JavaScript, TypeScript, and React. While they mention some relevant soft skills and a willingness to learn, they directly admit to limited experience with core technologies listed in the job description, such as testing frameworks, modern CSS tools, and the NodeJS ecosystem. The application shows a relevant interest but does not meet the specific technical requirements for the role.

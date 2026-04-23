@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe development, a vastly different field than modern frontend development. While they express interest in learning React and have some basic HTML/JavaScript knowledge, they lack practical experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools, testing frameworks). The resume heavily emphasizes outdated technologies, making the candidate a weak fit despite transferable skills.

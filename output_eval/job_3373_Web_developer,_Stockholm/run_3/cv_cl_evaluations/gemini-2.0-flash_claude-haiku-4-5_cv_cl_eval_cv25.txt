@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not frontend development. While they possess some foundational knowledge of HTML and CSS, they lack the required experience with modern FE frameworks like React, TypeScript, and testing frameworks. The candidate expresses willingness to learn, but the resume does not reflect practical experience in the technologies listed in the job description.

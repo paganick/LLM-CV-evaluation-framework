@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business banking, sales, and team management, with no professional software development experience. The cover letter mentions basic familiarity with HTML, CSS, and JavaScript but provides no evidence of hands-on project work with React, testing frameworks, or other core technical requirements from the job description. This is a severe industry and skills mismatch for a front-end developer role.

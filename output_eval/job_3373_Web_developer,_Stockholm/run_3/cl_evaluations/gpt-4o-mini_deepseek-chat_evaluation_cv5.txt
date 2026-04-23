@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in backend systems but lacks specific experience with modern front-end frameworks such as React. They demonstrate a solid understanding of programming principles and testing but need to showcase more familiarity with the listed tools and technologies like Jest, Styled Components, and the Node.js ecosystem. Overall, they are a strong candidate with relevant experience, but the match is not perfect.

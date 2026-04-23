@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows some relevant skills in graphic design and front-end technologies but lacks direct experience with JavaScript frameworks like React, which is essential for the role. While they mention HTML/CSS and modern CSS tools, the absence of hands-on experience with testing, Git, and specific technologies mentioned in the job description weakens their application.

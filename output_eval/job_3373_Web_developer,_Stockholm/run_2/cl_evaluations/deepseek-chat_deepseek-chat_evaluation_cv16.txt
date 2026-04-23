@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates proficiency in core web technologies, Agile workflows, and version control. However, the cover letter lacks explicit mention of key requirements like TypeScript, modern CSS tools (SASS, Styled Components), and specific testing frameworks (Jest, Cypress) beyond expressing eagerness to learn them. While a good match for the role's collaborative and clean code culture, the absence of direct, hands-on experience with several listed technologies prevents a higher score.

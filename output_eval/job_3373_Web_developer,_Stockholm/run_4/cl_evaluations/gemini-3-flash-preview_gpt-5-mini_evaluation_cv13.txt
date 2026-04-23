@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Project Manager and lacks professional experience with the core technical requirements, specifically TypeScript, React, and modern automated testing frameworks. While they possess a background in web development, their hands-on skills involve legacy technologies like jQuery and PHP rather than the requested NodeJS ecosystem and functional programming. Their profile is more aligned with product leadership than the specialized engineering role described in the job description.

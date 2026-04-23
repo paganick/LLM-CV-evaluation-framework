@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight product management and marketing experience, lacking the necessary technical skills in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks required for a Front End Developer role. While the candidate mentions a concentration in Computer Science, there's no evidence of hands-on coding experience or familiarity with the specific technologies mentioned in the job description. The resume focuses on high-level management roles rather than technical expertise.

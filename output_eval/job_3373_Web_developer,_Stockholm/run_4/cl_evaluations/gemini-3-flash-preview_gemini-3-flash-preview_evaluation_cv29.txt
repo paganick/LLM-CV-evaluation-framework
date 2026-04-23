@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant cloud software industry experience, their background is primarily in Business Development rather than professional software engineering. The letter suggests a career transition and lacks evidence of professional hands-on experience with Git or a proven track record of shipping production-level code in React and TypeScript.

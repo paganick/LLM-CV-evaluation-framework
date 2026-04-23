@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a high-level IT manager and project manager who lacks the essential hands-on technical skills required for this developer role, such as JavaScript, TypeScript, and React. While they possess relevant industry experience in project oversight and infrastructure, there is no evidence of coding proficiency or experience with modern frontend frameworks and testing suites. The profile represents a significant role mismatch, as the candidate's background is in administration and leadership rather than software engineering.

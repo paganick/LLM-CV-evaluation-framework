@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end technologies such as HTML, CSS, and JavaScript, but lacks direct experience with React, which is a key requirement for the position. While they demonstrate a willingness to learn and have experience with Agile methodologies and testing, their skills do not fully align with the specific technologies and tools mentioned in the job description.

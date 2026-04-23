@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of React and TypeScript, as their work history is heavily centered on PHP, Perl, and legacy MVC architectures. While the cover letter claims familiarity with modern tools, the resume provides no evidence of hands-on experience with modern testing frameworks (Jest, Cypress), CI/CD pipelines, or current front-end ecosystems. Furthermore, the candidate's technical profile is primarily backend-oriented and does not align with the specialized modern front-end stack required for this role.

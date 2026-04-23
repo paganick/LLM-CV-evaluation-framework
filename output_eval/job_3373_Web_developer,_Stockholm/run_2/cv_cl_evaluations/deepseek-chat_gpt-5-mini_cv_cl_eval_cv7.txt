@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software engineering, and they lack any demonstrated experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing frameworks, Git, etc.). While they show an eagerness to learn and have transferable soft skills, they are completely unqualified for a front-end engineering role requiring hands-on technical expertise.

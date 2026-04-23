@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant education in web development and a strong foundation in front-end technologies, but lacks hands-on experience with modern frameworks that the job description emphasizes, specifically React. While their background in the construction industry suggests transferable skills, they do not demonstrate sufficient familiarity with the specific tools and technologies mentioned, such as testing frameworks, Git, and CI/CD tools, which are essential for the role.

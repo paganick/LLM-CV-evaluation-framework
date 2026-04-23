@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate showcases relevant experience in IT and mentions several technologies aligned with the job description, including JavaScript, HTML, CSS, React, and testing frameworks. They also demonstrate understanding of web security principles and Agile methodologies. While they don't explicitly mention TypeScript or Git, their overall profile suggests a good fit.

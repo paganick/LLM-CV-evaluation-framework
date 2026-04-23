@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe technologies and programming languages such as COBOL and JCL, but lacks the specific skills and experience required for JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is no evidence of hands-on experience with testing automation or familiar tools and practices associated with the duties of the role. The overall technical fit is weak, and the applicant does not meet many of the critical requirements outlined in the job description.

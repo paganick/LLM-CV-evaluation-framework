@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong software engineering experience, team leadership, and basic exposure to HTML and JavaScript, but their background is predominantly mainframe/COBOL and lacks hands-on experience with React, TypeScript, modern CSS tooling, frontend testing frameworks, Node/npm ecosystem, CI/CD, and web security practices required for this role. They demonstrate transferable soft skills and a willingness to learn, but do not meet the immediate technical requirements for a production React frontend position.

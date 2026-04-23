@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in electronics, with limited demonstrable experience in modern frontend development. While they express interest and familiarity with some relevant technologies like JavaScript and HTML/CSS, their resume lacks concrete projects or roles showcasing proficiency in React, TypeScript, or related frameworks. The cover letter attempts to bridge this gap, but the lack of substantial evidence of frontend experience is a significant concern.

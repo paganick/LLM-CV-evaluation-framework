@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of JavaScript, TypeScript, and React, explicitly stating a need to learn or "expand" their knowledge in these areas. They demonstrate no hands-on experience with testing frameworks, security protocols (OWASP/OAuth), or the backend/CI/CD tools specified in the job description. While the candidate has a background in the digital industry, their profile is that of a communications specialist rather than a front-end engineer.

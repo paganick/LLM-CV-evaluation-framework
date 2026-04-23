@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some basic HTML/CSS knowledge, but lacks the modern JavaScript framework experience (React, Vue, Angular, Svelte) that is central to the role. Their background is primarily in digital marketing and Salesforce Marketing Cloud implementation, which is not a direct fit for a front-end development position. The cover letter attempts to bridge this gap, but the resume doesn't offer sufficient evidence of the required skills.

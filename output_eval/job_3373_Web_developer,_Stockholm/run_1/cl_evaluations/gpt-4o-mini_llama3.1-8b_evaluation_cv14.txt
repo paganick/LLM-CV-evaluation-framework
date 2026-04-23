@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in ASP.NET and relevant skills in modern front-end frameworks and testing frameworks, which align with the job description. However, they lack direct experience with TypeScript, modern CSS tools, and some specific technologies mentioned (like functional programming with Ramda). Overall, they are a strong candidate but do not fully meet all of the technical requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in graphic design and some relevant front-end skills such as HTML, CSS, and a basic understanding of JavaScript. However, they lack specific experience with modern front-end frameworks like React, TypeScript, and testing frameworks such as Jest and Cypress as highlighted in the job description. Additionally, their foundational knowledge of Node.js and AWS is insufficient to meet the requirements for this position.

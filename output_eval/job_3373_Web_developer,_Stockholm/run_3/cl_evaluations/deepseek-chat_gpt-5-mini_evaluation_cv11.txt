@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong, relevant testing experience and demonstrates a good understanding of Agile processes, which aligns with key job requirements. However, the role heavily emphasizes front-end development with React, TypeScript, and modern CSS tooling, where the candidate admits to a testing background and only an eagerness to learn, lacking proven hands-on experience. Their automation skills and collaborative approach make them a good, but not perfect, match for the cross-functional aspects of the role.

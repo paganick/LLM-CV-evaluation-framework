@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and engineering but lacks direct experience with the specific frontend technologies mentioned in the job description, such as JavaScript frameworks (React specifically), CSS tools, and testing frameworks. While they demonstrate some relevant skills and interest in transitioning to frontend development, they do not meet the core requirements for the position.

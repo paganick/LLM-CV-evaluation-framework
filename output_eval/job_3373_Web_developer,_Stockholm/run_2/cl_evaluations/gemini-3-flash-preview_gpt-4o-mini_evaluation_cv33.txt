@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional hands-on experience with the core tech stack, specifically React and TypeScript, noting they are only currently "pursuing" this knowledge. Their nine years of experience are primarily in sales operations and management rather than technical front-end development, failing to meet the professional engineering requirements. Key competencies such as API design, AWS, and functional programming are not demonstrated, making the candidate unqualified for this specific technical level.

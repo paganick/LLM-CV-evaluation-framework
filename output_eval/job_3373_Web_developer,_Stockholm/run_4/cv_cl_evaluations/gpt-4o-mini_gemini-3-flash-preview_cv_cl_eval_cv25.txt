@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in graphic design and some proficiency in web technologies such as HTML and CSS. However, they lack significant experience with essential frontend frameworks like React, testing frameworks, and advanced JavaScript concepts. Additionally, the candidate does not demonstrate strong familiarity with the NodeJS ecosystem or some of the specific tools mentioned in the job description.

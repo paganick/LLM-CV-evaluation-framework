@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter showcase expertise in materials analysis, quality control, and process improvement within a manufacturing context. There is absolutely no mention of any of the required technologies (JavaScript, React, HTML, CSS, etc.) or web development concepts. This candidate is completely unqualified for a front-end developer position.

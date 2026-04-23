@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in banking and sales, with limited demonstrable experience in front-end development. While the cover letter mentions some familiarity with relevant technologies, the resume lacks concrete evidence of hands-on experience with the specific technologies listed in the job description, such as React, TypeScript, and modern CSS tools. The experience described is largely unrelated to the technical requirements of the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in microbiology and pharmaceutical consulting, which is a completely different industry with no transferable technical experience for a front-end developer role. The resume contains zero evidence of proficiency in JavaScript, TypeScript, React, testing, Git, or any other technologies listed in the job description. The cover letter attempts to claim relevant skills but provides no concrete projects, roles, or evidence to support these claims.

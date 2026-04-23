@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and a foundation in front-end technologies but lacks specific experience with the required modern front-end frameworks and tools mentioned in the job description, such as React, TypeScript, and CSS pre-processors. While there is familiarity with Agile methodologies and collaboration, the absence of hands-on experience with testing frameworks and CI/CD tools limits their qualifications for this role.

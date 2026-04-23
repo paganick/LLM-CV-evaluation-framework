@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development and project management but lacks specific technical experience and skills required for the Front-End Developer position, such as hands-on experience with JavaScript, TypeScript, React, and modern CSS tools. Their technical knowledge appears limited despite a degree in Computer Science, and there is no clear evidence of familiarity with testing frameworks or CI/CD tools. Overall, they are relevant to the industry but do not meet the specific technical qualifications needed for this role.

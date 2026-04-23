@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and Git, aligning with key requirements. They mention Agile experience and an interest in modern technologies like React and functional programming which are also important. However, the letter emphasizes past experience (.NET) more than the specific technologies mentioned in the job description, such as testing frameworks and CI/CD.

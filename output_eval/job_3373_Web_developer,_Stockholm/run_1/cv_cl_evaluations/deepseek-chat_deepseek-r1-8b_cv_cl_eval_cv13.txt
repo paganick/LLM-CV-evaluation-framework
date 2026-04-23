@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in technical project management, not hands-on frontend development. While they mention JavaScript and React, the resume lacks concrete evidence of recent, deep coding experience, and they do not demonstrate the required proficiency in key areas like modern testing frameworks, TypeScript, or the specific technical stack (e.g., Ramda, AWS, Terraform). Their background is relevant to the industry but they lack the specific, current technical skills and experience outlined in the job description.

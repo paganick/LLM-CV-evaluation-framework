@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant experience, particularly with ReactJS, HTML, CSS, and JavaScript. However, their experience appears heavily weighted toward Java and backend technologies, with less emphasis on modern front-end frameworks and testing methodologies. While they mention testing and automation, the resume lacks depth in specific testing frameworks listed in the job description and omits key areas such as CI/CD tools and cloud platforms.

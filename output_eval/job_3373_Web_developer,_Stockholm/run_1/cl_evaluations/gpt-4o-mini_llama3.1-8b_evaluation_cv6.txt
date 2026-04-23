@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid experience in Drupal development, but lacks proficiency in several key areas listed in the job description, such as modern front-end frameworks like React, TypeScript, and testing frameworks. While they exhibit strong foundational skills in JavaScript, HTML, and CSS, their experience does not fully align with the requirements for this specific role, particularly regarding modern development practices and tools.

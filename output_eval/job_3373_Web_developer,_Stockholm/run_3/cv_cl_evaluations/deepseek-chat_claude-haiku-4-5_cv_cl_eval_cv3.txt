@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry but lacks the specific, hands-on experience required. The job description demands proficiency in modern frameworks like React, testing automation, and tools like Node.js, which are not demonstrated in the candidate's academic or professional background. While the candidate shows foundational web knowledge and strong soft skills, they are missing the core technical competencies for the role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: While the cover letter lists many required keywords, the resume fails to provide evidence of professional experience with modern frontend frameworks like React or TypeScript. The candidate's work history is severely outdated, ending in 2012, and focuses on hardware troubleshooting and basic IT support rather than professional software engineering. There is a significant discrepancy between the advanced technical claims in the cover letter and the entry-level IT qualifications found in the resume.

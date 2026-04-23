@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong technical fundamentals, including testing, security, and Agile practices. However, the cover letter reveals a primary background in backend Java development, with limited direct, hands-on experience in the specific frontend technologies (React, modern CSS tools, testing frameworks) and ecosystem (NodeJS, npm) listed as core requirements. The transition narrative is plausible but introduces risk, as proven frontend expertise is not clearly demonstrated.

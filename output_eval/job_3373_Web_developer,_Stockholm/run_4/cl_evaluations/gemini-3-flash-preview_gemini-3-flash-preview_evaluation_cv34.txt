@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate shows strong professional soft skills and a relevant background in digital marketing technology, they lack demonstrated professional experience in a dedicated Front-End Developer role. The letter suggests their proficiency with the core requirements—React, TypeScript, and automated testing frameworks—is theoretical or newly acquired rather than proven through professional tenure. Key technical competencies such as Git, Node.js, and specific web security protocols remain unverified or addressed only at a surface level.

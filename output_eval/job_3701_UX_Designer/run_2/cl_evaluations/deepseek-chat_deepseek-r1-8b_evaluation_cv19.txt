@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent experience in user-centric project management and learning design, but lacks explicit commercial UX design experience. They mention some required skills like Figma and workshops, but their primary tools (Salesforce, R) are not UX-specific and their HTML/CSS/JS exposure is limited, which is a key gap for managing a design system. Their background suggests potential, but they do not clearly meet the core requirement of 2-3 years in a dedicated UX designer role.

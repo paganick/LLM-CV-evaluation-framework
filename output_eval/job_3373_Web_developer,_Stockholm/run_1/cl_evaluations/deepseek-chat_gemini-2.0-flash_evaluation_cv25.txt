@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in Graphic Design with only HTML/CSS experience, which is relevant but insufficient. The job requires core JavaScript/TypeScript, React proficiency, testing, and modern tooling, none of which are demonstrated. While the candidate shows adaptability and eagerness to learn, they lack the specific, hands-on technical skills required for the role.

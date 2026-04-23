@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong sales background that is not particularly relevant to the job description's technical focus. While the cover letter mentions some front-end skills and technologies listed in the job description (React, Git, CSS tools, NodeJS ecosystem, CI/CD), it lacks depth and quantifiable experience in these areas. There is no mention of security knowledge or testing frameworks beyond a general statement.

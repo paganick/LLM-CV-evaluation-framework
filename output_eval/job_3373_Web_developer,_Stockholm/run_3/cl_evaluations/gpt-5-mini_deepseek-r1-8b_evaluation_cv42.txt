@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Alexis demonstrates strong operations, process-improvement, and cross-functional collaboration experience, but lacks hands-on front-end technical skills required by the role—no demonstrated JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, CI/CD, or AWS/Terraform experience. Given the job's emphasis on practical, up-to-date front-end development and test automation, the candidate is relevant in mindset but significantly underqualified without concrete technical experience or demonstrable projects.

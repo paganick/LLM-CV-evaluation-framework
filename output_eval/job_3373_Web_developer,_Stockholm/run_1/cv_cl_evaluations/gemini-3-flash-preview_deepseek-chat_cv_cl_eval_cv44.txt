@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a UI/UX and Presentation Designer whose professional experience lacks the required technical depth in React, TypeScript, and automated testing frameworks. While they hold a Computer Science degree and possess basic HTML/CSS skills, their resume shows no professional application of modern JavaScript ecosystems, CI/CD pipelines, or cloud infrastructure. The profile suggests a career pivot rather than the hands-on engineering expertise demanded by the job description.

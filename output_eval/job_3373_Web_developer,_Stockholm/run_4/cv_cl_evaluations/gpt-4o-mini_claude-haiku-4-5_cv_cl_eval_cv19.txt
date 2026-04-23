@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience in HTML and CSS but lacks practical knowledge of core JavaScript technologies and modern frameworks required for the position. The transition from graphic design to frontend development shows a willingness to adapt, but the absence of specific experience with React, testing frameworks, and other crucial technologies limits their suitability for the role.

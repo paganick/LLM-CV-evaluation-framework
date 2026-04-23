@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, relevant background in frontend development, React, TypeScript, and Agile collaboration, directly matching many job requirements. However, the cover letter lacks explicit, concrete mention of several key technical specifics from the job description, such as testing frameworks (Jest, Cypress), linters (ESLint), or specific experience with AWS/Terraform. The experience is presented broadly, making it difficult to verify the exact depth of hands-on skill with some listed tools.

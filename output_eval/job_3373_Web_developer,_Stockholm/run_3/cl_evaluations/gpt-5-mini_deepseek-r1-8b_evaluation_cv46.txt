@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core frontend requirements—JavaScript/TypeScript, React, testing (Jest/Cypress), Git, Agile, web security, and CircleCI—which makes them a solid match. However, they omit several listed specifics such as modern CSS tools (Styled Components/SASS), linters/formatters, NodeJS/npm/Express, functional tooling (Ramda), API design, and AWS/Terraform, so they do not fully meet the job's broader technical expectations.

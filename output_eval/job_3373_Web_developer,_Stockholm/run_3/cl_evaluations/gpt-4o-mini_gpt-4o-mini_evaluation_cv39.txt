@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in graphic design and web development, but lacks specific experience with modern front-end frameworks such as React, which is crucial for this position. While they demonstrate a solid understanding of HTML, CSS, and basic JavaScript, their limited exposure to testing frameworks and foundational knowledge of Node.js and AWS may hinder their ability to perform tasks effectively in this role. Overall, they possess relevant skills but do not fully meet the specific requirements outlined in the job description.

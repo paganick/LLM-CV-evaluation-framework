@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in programming and a solid analytical background but lacks hands-on experience with key frontend technologies such as JavaScript, TypeScript, modern frontend frameworks, and specific testing frameworks mentioned in the job description. While they have a willingness to learn and adapt, their current skill set does not directly align with the stated requirements for the position.

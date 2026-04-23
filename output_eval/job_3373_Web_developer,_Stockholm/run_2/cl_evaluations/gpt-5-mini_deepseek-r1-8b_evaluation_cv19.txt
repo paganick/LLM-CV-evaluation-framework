@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong graphic design and basic HTML/CSS coursework but lacks demonstrated, hands-on experience in core requirements such as JavaScript/TypeScript, React, testing frameworks, Node/npm, modern CSS tooling, Git workflows, and web security. While adaptable and motivated to learn, their current technical profile is insufficient for the immediate needs of this role without substantial upskilling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications and technical writing, but lacks specific skills in JavaScript, modern front-end frameworks, and testing automation tools that are critical for the position. Their background does not demonstrate direct experience with the technologies or practices outlined in the job description, such as React, Git, CI/CD tools, or security concepts related to web development. This results in a lack of alignment with the specific requirements of the role.

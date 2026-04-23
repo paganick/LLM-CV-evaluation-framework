@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates coverage of the majority of required front-end skills (JavaScript/TypeScript, React, HTML/CSS, Styled Components/SASS, testing frameworks, Git/GitHub, CI/CD and web security fundamentals) and brings valuable leadership and Agile experience. However, the letter is high-level with few concrete examples of hands-on front-end deliverables, lacks explicit mention of linters/formatters (ESLint/Prettier) and production use of Ramda, and contains some vague or awkwardly worded claims, preventing a higher score.

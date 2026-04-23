@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses strong general software engineering fundamentals and web basics (HTML, CSS, JavaScript, SASS), but lacks any professional experience with the core requirements of React and TypeScript. Furthermore, the resume fails to demonstrate hands-on experience with modern testing frameworks (Jest, Cypress) or the specific CI/CD and cloud tools (AWS, Terraform) mentioned in the job description. While the candidate has relevant industry experience, the technical stack mismatch for a specialized frontend role is significant.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely in banking sales, management, and training, with zero evidence of professional software development experience. While the cover letter claims self-study of key technologies, the resume provides no projects, roles, or education to substantiate these claims against the job's requirements for hands-on experience with React, testing, and modern tooling. This represents a complete career mismatch for a senior front-end developer role.

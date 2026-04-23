@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in civil engineering and construction-focused solution design with no demonstrated commercial UX experience, no evidence of working in an Agile software environment, and no Figma/prototyping or front-end (HTML/CSS/JS) exposure required for this role. While they show transferable strengths in stakeholder coordination and documentation, they lack core UX skills and methods (user research, journey mapping, usability testing, design system management) needed to perform the job.

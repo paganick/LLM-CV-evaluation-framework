@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core required technologies, specifically React and TypeScript, relying instead on legacy frameworks like AngularJS and jQuery. There is no evidence of familiarity with modern testing frameworks (Jest/Cypress), CI/CD tools, or the Node.js ecosystem mentioned in the job description. While the candidate has a strong academic background and general software experience, their profile is too heavily focused on Java/J2EE and outdated frontend stacks to meet the current requirements.

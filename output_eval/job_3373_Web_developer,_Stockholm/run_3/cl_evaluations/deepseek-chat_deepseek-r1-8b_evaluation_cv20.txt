@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates foundational front-end skills, but critically lacks direct experience with React and other modern technologies specified in the job description (e.g., TypeScript, modern CSS tools, specific testing frameworks). While they show a willingness to learn, the absence of hands-on experience with the core required stack is a significant gap. Their background in .NET and general web development is not a strong enough substitute for the specific technical requirements of the role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with nearly all technical requirements, including JavaScript, TypeScript, React, modern CSS tools, testing frameworks, Agile, Git, CI/CD, and Node.js/Ramda. The cover letter effectively connects their experience to the job's specific tech stack and collaborative culture. The score is not a 9 or 10 because the letter does not explicitly mention the security knowledge (OWASP, CSP, CORS, OAuth) listed in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant experience with frontend technologies and mentions proficiency in JavaScript, TypeScript, HTML, and CSS, along with collaboration in Agile environments. However, their experience with modern frameworks is primarily with AngularJS rather than React, which is a requirement of the job. Additionally, while they mention testing automation experience, it is not supported with specific tools mentioned in the job description such as Jest or Cypress.

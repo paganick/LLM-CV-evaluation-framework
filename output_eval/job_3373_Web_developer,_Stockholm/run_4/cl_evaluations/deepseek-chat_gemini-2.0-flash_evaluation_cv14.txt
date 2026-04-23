@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, direct match with the core technical requirements and methodologies listed in the job description. However, the cover letter lacks explicit mention of several specific tools and concepts from the "nice-to-have" list, such as modern CSS tools (SASS, Styled Components), specific testing frameworks, Node.js, functional programming, or CI/CD. The experience is relevant and well-aligned, but not exhaustive of the desired stack.

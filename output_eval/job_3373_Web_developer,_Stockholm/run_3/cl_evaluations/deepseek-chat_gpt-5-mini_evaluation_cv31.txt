@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in sales leadership, not front-end engineering. They lack the required technical skills in JavaScript, React, testing frameworks, and modern tooling listed in the job description. While their soft skills and domain knowledge are relevant, the core technical gap is too significant for the role.

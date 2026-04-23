@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience and mentions Agile and testing, which are positives. However, their JavaScript experience seems limited to an internship using AngularJS (not React, the company's focus). The letter mentions "gaining comfort" with AWS and Terraform, indicating a lack of substantial experience, and specific technologies mentioned in the job description are not addressed.

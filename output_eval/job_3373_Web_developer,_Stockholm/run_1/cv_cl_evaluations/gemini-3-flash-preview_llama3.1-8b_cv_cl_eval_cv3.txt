@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all the modern technical requirements, including React, TypeScript, and automated testing frameworks like Jest or Cypress. Their experience is primarily in construction and outdated web technologies such as Flash and ActionScript, which does not align with the modern front-end stack requested. Furthermore, there is no demonstrated knowledge of essential tools like Git, CI/CD, or cloud services.

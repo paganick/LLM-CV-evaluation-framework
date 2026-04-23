@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant transferable skills but lacks direct, hands-on experience with the core front-end technologies and modern tools specified in the job description. While they demonstrate strong soft skills and project management experience, they explicitly state they do not have experience with key requirements like Styled Components, SASS, or specific testing frameworks. Their technical knowledge is presented as foundational or aspirational rather than proven, which is a significant gap for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not software development, which is a significant mismatch for a core development role. While they demonstrate self-study in some relevant areas like React and CSS, they lack proven, hands-on experience with the majority of the job's technical requirements, including TypeScript, testing frameworks, security concepts, and the listed modern toolchain. Their soft skills and design foundation are relevant, but the core technical deficit is too substantial for the role as described.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a QA professional whose experience is centered on software testing and quality assurance rather than front-end development. They lack professional experience with the required tech stack, specifically React, TypeScript, and modern CSS tools like Styled Components or SASS. While the candidate possesses a relevant educational background and testing expertise, they do not meet the core development and architectural requirements of the role.

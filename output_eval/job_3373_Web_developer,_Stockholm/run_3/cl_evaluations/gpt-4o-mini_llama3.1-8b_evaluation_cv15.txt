@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in IT and relevant experience with front-end frameworks, particularly React, which aligns with the job requirements. However, there is no mention of TypeScript, Git, CI/CD tools, or specific experience with functional programming software as required in the job description. This indicates a relevant industry experience but lacking some of the critical specific skills necessary for the role.

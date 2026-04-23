@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Computer Science degree and broad IT/project-management experience, but the resume shows no recent hands-on front-end development, JavaScript/TypeScript, React, Node/npm, Git, or CI/CD work. The cover letter's claims of familiarity with React, testing frameworks, and modern CSS are unsupported by concrete examples or technical roles. Given the clear gap between required practical front-end skills and the candidate's primarily business-development and legacy IT background, they are not a strong fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual and web design experience with basic HTML skills, but lacks hands-on experience in core front-end development technologies required for the role (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, Node ecosystem, and web security practices). This makes them relevant to the industry but insufficiently qualified for the position without significant upskilling. Their portfolio strengths in design are noted but do not substitute for the technical competencies the role mandates.

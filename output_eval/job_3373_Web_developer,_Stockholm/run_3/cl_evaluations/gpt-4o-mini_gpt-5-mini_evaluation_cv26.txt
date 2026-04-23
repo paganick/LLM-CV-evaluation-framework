@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in communications and project management, which may be relevant to a collaborative work environment. However, the cover letter lacks specific technical skills and hands-on experience in JavaScript, TypeScript, modern front-end frameworks like React, and testing frameworks mentioned in the job description, making them only partially qualified for the position.

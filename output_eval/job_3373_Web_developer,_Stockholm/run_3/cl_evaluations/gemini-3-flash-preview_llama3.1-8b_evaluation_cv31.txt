@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate lists nearly all the technical keywords from the job description, their professional background is in sales management rather than software engineering. The letter fails to mention critical requirements such as web security (OWASP/CORS) and cloud infrastructure (AWS/Terraform), and it lacks evidence of professional experience applying these skills in a production environment. As a career-transitioning Sales Director, the candidate lacks the proven technical track record expected for this specific stack.

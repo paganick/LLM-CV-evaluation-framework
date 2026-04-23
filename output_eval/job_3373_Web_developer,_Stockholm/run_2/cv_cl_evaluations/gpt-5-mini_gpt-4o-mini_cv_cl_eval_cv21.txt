@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has solid web development background (HTML5, CSS3, JavaScript, AngularJS, Agile, Git/TFS) and some testing experience, but the resume shows primarily legacy .NET and older AngularJS work rather than the modern React/TypeScript, NodeJS ecosystem, and testing/CI tools required. Claims in the cover letter (Styled Components, Jest, Node/npm, AWS/Terraform) are not clearly substantiated on the resume. Relevant industry fit but lacks core, demonstrable experience with the specific modern frontend stack and tooling this role requires.

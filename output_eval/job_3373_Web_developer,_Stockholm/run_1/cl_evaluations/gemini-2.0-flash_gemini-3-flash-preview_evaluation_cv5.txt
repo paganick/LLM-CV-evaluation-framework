@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in Mainframe systems, requiring a significant transition to frontend development. While they mention HTML, JavaScript, React, and TypeScript, the depth of experience in these areas is unclear. The cover letter highlights transferable skills and a willingness to learn, but lacks concrete frontend project examples.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a foundational understanding of relevant technologies like JavaScript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React as the job description prefers. The resume highlights experience with C#, Python, and SQL, which are not the primary focus of the front-end role, and the candidate expresses willingness to learn the required tech stack rather than demonstrating proficiency. There's a lack of concrete evidence regarding testing automation and CI/CD tools.

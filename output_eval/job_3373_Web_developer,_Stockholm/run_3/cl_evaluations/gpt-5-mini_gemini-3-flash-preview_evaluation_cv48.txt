@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates strong relevant experience with JavaScript/TypeScript, React, modern CSS (SASS, Styled Components), Git, CI/CD, and claims hands-on testing and web security experience, making them a good fit. However, several job-specific items are not explicitly stated (explicit testing frameworks like Jest/Cypress/TestCafe, linters/formatters such as ESLint/Prettier, Express/Yarn, Terraform, and OAuth/CSP), so they do not fully meet all technical requirements. With a short ramp-up to address those gaps they would be a strong hire.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and cybersecurity but lacks direct experience with modern front-end development technologies, particularly JavaScript, TypeScript, and frameworks like React. Although they demonstrate an understanding of security principles relevant to web development, their resume does not provide evidence of hands-on experience with required tools and practices for a front-end developer role. This makes them underqualified for the specific position.

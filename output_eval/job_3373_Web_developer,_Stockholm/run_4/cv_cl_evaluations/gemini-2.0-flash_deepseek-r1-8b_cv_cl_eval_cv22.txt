@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and buying, with limited experience in the specific technologies mentioned in the job description (JavaScript, React, etc.). While they possess some skills in HTML, CSS, SQL, and Java, these appear to be basic and not aligned with the required proficiency in modern front-end development. The candidate expresses willingness to learn, but lacks the core experience for this role.

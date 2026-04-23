@@ -1,0 +1,2 @@
+Score: [5]
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React (the primary framework mentioned in the job description). The resume highlights .NET development, which isn't the focus of the role. While they have some experience with Agile methodologies, their testing and security knowledge appears limited based on the resume.

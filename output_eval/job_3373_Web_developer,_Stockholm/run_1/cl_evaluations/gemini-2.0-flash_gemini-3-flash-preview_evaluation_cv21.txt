@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and Agile methodologies, aligning well with the job description. They highlight their experience with testing and Git, and also their understanding of web security principles. While they don't explicitly state React experience, they indicate a willingness to learn and familiarity with related frameworks, and they mention an interest in relevant technologies like NodeJS and AWS.

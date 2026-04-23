@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in ASP.NET, which isn't the job's focus. While they mention JavaScript, HTML, and CSS, the letter lacks concrete examples of modern frontend framework experience, specifically React. The letter shows interest in learning React, Ramda, and Styled Components, but this is not enough.

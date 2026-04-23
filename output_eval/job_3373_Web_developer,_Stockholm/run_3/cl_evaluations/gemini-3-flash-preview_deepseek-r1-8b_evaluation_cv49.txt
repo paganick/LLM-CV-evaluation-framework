@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is attempting to pivot from a data engineering background and lacks professional experience with the core frontend stack required, specifically JavaScript, TypeScript, and React. While they demonstrate foundational knowledge of Git and Agile, they explicitly state a need to learn the specific testing frameworks, web security protocols, and CSS tools essential for the role. This lack of direct technical proficiency makes them an underqualified match for the current requirements.

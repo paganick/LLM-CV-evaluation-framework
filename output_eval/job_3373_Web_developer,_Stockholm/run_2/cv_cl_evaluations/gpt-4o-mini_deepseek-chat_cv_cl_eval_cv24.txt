@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in digital communications, including experience with web content management, but lacks significant hands-on experience with specific front-end technologies required for the position, such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate a commitment to learning and have some technical proficiency, they do not have substantial experience in programming or development roles, making them a less than ideal fit for a pure front-end development position.

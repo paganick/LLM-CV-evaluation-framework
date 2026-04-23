@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and a solid understanding of JavaScript and CSS. However, they lack hands-on experience with modern front-end frameworks like React, which is a key requirement for the position. Additionally, their experience with testing frameworks and CI/CD tools is not clearly demonstrated, which lowers their match to the job description.

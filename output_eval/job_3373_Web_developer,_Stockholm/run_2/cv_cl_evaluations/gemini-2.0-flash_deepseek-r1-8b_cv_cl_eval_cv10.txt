@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, CSS, and AngularJS. However, the resume heavily emphasizes Java and older technologies, with limited demonstration of modern FE frameworks (React, VueJS, Svelte), testing frameworks, or other tools mentioned in the job description. The cover letter claims React experience, but it's not substantiated in the resume, raising concerns about the depth of their experience.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses extensive experience in digital sales and business development, aligning well with the job requirements. Their experience in managing sales teams and exceeding quotas demonstrates their ability to drive revenue. However, the resume lacks explicit mention of Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research) which are listed as must-have sales experience.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React, aligning well with the job requirements. However, their prior experience is primarily in sales, which may limit their practical application of software development experiences, particularly in Agile collaboration and domain understanding in a tech environment. Overall, they present a strong foundation with a good match for the position but lack significant direct development experience.

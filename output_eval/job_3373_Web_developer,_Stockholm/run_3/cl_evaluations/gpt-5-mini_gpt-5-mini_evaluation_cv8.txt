@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong test-engineering, automation, and cross-functional experience that is relevant to the role's emphasis on testing and quality, but lacks demonstrated hands-on experience with the core front-end technologies required (JavaScript/TypeScript, React, modern CSS, Node/npm) and common front-end testing frameworks (Jest/Cypress) used by the team. Their willingness and ability to learn are positive, but as-is they would require significant ramp-up to meet the job's primary technical stack and expectations.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and the banking domain, which is a completely different technology stack and industry vertical from the modern web development role described. There is no demonstrated experience with any of the required technologies like JavaScript, React, TypeScript, CSS, or modern testing frameworks. This is a case of a completely wrong industry and skillset for the position.

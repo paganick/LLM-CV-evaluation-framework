@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a career change from construction to web development. While they possess some foundational knowledge of HTML, CSS, and JavaScript, they lack experience with modern FE frameworks like React or testing frameworks mentioned in the job description. Their listed experience is primarily academic and does not demonstrate professional application of the required skills.

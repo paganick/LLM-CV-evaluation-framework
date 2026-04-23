@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in media planning with only basic HTML/CSS and academic database/Java projects, lacking practical frontend development experience. There is no demonstrated knowledge of JavaScript/TypeScript, React (or other modern frameworks), frontend testing, NodeJS/npm, or CI/CD — all core requirements for this role. While pursuing an MIS degree shows intent to transition, the candidate does not meet the essential technical skillset or hands-on frontend experience needed.

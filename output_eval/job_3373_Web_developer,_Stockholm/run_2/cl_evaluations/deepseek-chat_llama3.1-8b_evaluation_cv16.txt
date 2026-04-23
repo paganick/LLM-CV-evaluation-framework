@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, and modern CSS tools. However, the cover letter fails to address several key items from the job description, such as security knowledge (OWASP, CORS), CI/CD tools, linters, AWS/Terraform, and specific mention of Git. The extensive detail on unrelated .NET backend experience is a minor distraction from the front-end focus of the role.

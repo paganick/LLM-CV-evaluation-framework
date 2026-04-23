@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and demonstrates strong product-side knowledge of frontend workflows, tools, and security concepts. However, the cover letter lacks concrete evidence of hands-on, recent development experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, and modern testing frameworks. The transition from product management to an engineering role is a significant gap against the required hands-on technical criteria.

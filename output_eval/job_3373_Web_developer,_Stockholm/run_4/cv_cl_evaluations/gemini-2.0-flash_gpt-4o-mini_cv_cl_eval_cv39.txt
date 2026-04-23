@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic and product design, with limited front-end development experience. While they express interest in relevant technologies like JavaScript and modern CSS tools, their hands-on experience is minimal compared to the job description's requirements. They lack experience with testing frameworks, CI/CD tools, and back-end technologies like NodeJS and AWS.

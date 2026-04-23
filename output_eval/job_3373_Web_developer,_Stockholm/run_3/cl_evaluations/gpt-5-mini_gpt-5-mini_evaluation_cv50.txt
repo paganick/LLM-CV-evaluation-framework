@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong, relevant IT, quality engineering, and security experience along with Agile collaboration—positive for team and process fit. However, the cover letter provides no concrete, hands‑on experience with core frontend technologies required for this role (JavaScript/TypeScript, React, modern CSS tools, frontend testing frameworks, Node/npm, Ramda, CI/CD). Their stated willingness to learn is valuable but insufficient for an immediate hands‑on frontend contributor role, so they lack the specific technical qualifications needed.

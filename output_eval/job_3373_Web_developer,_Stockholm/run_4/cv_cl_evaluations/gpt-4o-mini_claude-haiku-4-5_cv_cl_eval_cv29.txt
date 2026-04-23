@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development and cloud software but lacks direct experience with frontend development technologies like JavaScript, TypeScript, and modern frameworks such as React. While they have some familiarity with concepts related to web applications and APIs, their technical skills do not meet the requirements outlined in the job description. This places them in the relevant industry category but highlights a significant gap in specific frontend engineering experience.

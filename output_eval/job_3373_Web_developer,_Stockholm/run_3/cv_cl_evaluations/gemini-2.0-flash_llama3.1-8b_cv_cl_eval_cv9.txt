@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in Java and related technologies, the resume and cover letter show limited experience with the core requirements of the job description, specifically around modern front-end frameworks (React, VueJS, Angular, Svelte), TypeScript, and modern CSS tools. The candidate mentions JavaScript, HTML and Cypress, but the depth of knowledge is questionable. The candidate's experience appears to be primarily focused on backend development.

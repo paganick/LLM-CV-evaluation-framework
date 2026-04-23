@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of general experience with JavaScript, HTML, and CSS, they lack professional experience with the core requirements of React and TypeScript. Their background is heavily focused on C#, .NET, and Python-based data science rather than modern frontend development tools like Styled Components, Jest, or Cypress. The applicant meets the industry experience threshold but fails to demonstrate the specific technical stack mastery required for this role.

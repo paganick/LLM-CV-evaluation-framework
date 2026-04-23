@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core professional experience is heavily in Java/JEE backend development, not modern frontend development with React as required. While they mention JavaScript, HTML, and CSS, there is no demonstrated, recent hands-on experience with React, Vue, Angular, or Svelte, nor with key tools like Jest, Cypress, or Styled Components. Their testing and Agile experience is valuable, but the overall skill set is a significant mismatch for a frontend-focused role.

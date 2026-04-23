@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my professional background has been in media planning and account management, I have been actively and rigorously transitioning my career into technology. My ongoing Master’s in Management Information Systems, combined with hands-on project experience in full-stack development and database design, has equipped me with a strong foundation that aligns directly with your technical stack and collaborative culture.
+
+Your requirement for expertise in React, TypeScript, and modern CSS tools like Styled Components resonates with my dedicated studies and project work in HTML, CSS, and JavaScript. My academic projects, such as building a Hospital Database Management System with MySQL and designing a J2EE-based Accounts Receivable Application, required meticulous attention to clean code, system architecture, and functional logic. These experiences have given me practical exposure to the Node.js ecosystem, SQL, and API design principles. I am particularly keen to apply this structured, problem-solving mindset to front-end development, leveraging modern frameworks to build secure, scalable, and user-centric applications.
+
+My previous career demanded excellence in Agile collaboration, client partnership, and translating complex requirements into actionable plans. Managing significant advertising budgets and coordinating cross-functional teams for top FMCG and e-commerce clients honed my ability to thrive in dynamic environments, a skill I am eager to transfer to an engineering team. I am a proven strong collaborator, comfortable interacting with diverse stakeholders, and possess a genuine passion for understanding full domains—traits highlighted in your description.
+
+Furthermore, I have a foundational and growing knowledge of the specific tools you value. I have working experience with Git, HTML, CSS, and Java, and I am actively expanding my skills in testing frameworks (Jest), linters (ESLint), and the principles of functional programming. My analytical background using tools like Google Analytics ensures I appreciate the importance of data-driven development and robust testing.
+
+I am confident that my unique blend of client-side experience, analytical rigor, and dedicated technical upskilling makes me a compelling candidate. I am deeply motivated to contribute to your team and am excited by the opportunity to grow my expertise within your tech stack.
+
+Thank you for your time and consideration.
+
+Sincerely, Alexis

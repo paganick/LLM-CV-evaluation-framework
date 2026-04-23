@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong project management, IT operations, and SDLC experience but provides no demonstrable hands-on front-end skills (JavaScript/TypeScript, React, HTML/CSS) or evidence of testing, Node/npm, Git-based development, or relevant modern FE toolchains. Their cover letter expresses willingness to learn, but the resume lacks the specific technical qualifications required for a front-end engineering role. Given the significant gap between their background and the role's hands-on technical expectations, they are not a good technical fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable soft skills and a clear willingness to learn, but lacks any hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Git, modern CSS tools, Node ecosystem, security basics). Given the role's need for immediate practical frontend and testing experience, this application does not meet the job's technical expectations. The candidate could be considered for a junior/trainee role after demonstrable technical training or project work.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry background and demonstrates strong soft skills, collaboration, and a foundational understanding of frontend principles. However, the cover letter critically lacks specific, demonstrable experience with the core technical requirements listed in the job description, such as JavaScript, TypeScript, React, testing frameworks, and modern tooling. The focus is heavily on design and past roles, with future potential mentioned but no concrete evidence of current proficiency in the required stack.

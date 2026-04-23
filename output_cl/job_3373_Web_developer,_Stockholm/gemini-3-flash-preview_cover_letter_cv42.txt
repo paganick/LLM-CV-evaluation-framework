@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With a career spanning 20 years in operations and finance, I have consistently driven growth by bridging the gap between complex business needs and technical solutions. I am eager to transition my deep experience in project management and system automation into a focused role within your engineering team.
+
+Throughout my tenure at Audubon, I spearheaded several high-impact technical initiatives. I led the launch of an online registration service for camp programs, replacing manual processes with a streamlined web-based interface. I also directed the implementation of the organization's first online invoicing solution and created a dedicated insurance portal for risk management. These projects required a sharp focus on user experience, API integration, and process improvement—core tenets of modern frontend development. 
+
+My background in operations management has instilled in me a genuine passion for writing clean, efficient, and maintainable code. I am a strong collaborator, comfortable working in Agile environments, and experienced in interacting with cross-functional teams and external partners. I understand the importance of full-domain expertise and have a proven track record of mastering new platforms, from ABM software to IBM mainframe solutions. 
+
+I am particularly impressed by your use of React and functional programming. Having managed $100 million budgets and automated complex reporting systems, I bring a level of analytical rigor and attention to detail that is essential for testing and test automation. I am well-versed in the necessity of web security and have the leadership maturity to thrive in an environment that values continuous learning and CI/CD best practices.
+
+I am excited about the opportunity to bring my unique blend of strategic leadership and technical problem-solving to your organization. Thank you for your time and consideration.
+
+Sincerely, Alexis

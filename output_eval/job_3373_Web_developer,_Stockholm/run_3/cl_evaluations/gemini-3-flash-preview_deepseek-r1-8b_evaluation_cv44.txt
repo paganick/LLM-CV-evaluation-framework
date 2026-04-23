@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree and relevant industry exposure in design and QA, they lack the professional hands-on experience required for this specific software engineering role. The letter mentions being "eager to apply" React and TypeScript rather than demonstrating existing mastery, and highlights outdated tools like Dreamweaver instead of the modern frontend ecosystem specified. There is no evidence of proficiency in the required testing frameworks, CI/CD, or backend technologies.

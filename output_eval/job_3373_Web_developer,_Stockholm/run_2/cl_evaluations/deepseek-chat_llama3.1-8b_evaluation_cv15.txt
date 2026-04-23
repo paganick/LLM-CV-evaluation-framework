@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including modern FE frameworks, testing, security, and NodeJS. However, the cover letter lacks explicit mention of key items from the job description such as TypeScript, Git, functional programming (Ramda), CI/CD, AWS/Terraform, and the specific modern CSS tools. The experience is broad and impressive, but the omission of these specified technologies prevents a higher score.

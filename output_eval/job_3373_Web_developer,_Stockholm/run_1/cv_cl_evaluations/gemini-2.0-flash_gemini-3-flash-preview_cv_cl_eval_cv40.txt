@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the cover letter mentions JavaScript, TypeScript, SASS, Jest, Cypress, API design, Node.js, Git, CircleCI, AWS, and Agile, the resume lacks demonstrable experience in these technologies. The candidate's background is primarily in product management and marketing, not hands-on software development. The resume does not showcase sufficient technical skills to meet the requirements of a frontend engineer role.

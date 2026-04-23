@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript/TypeScript, testing, Git, and Agile collaboration. However, the cover letter emphasizes high-level strategic and managerial experience over recent, hands-on front-end development, which creates some uncertainty about the depth of their current coding practice. While they mention many relevant technologies, the lack of explicit mention of specific tools like Jest, Cypress, or modern CSS-in-JS libraries slightly weakens the match.

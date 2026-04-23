@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in project management and technical skills with email platforms and basic web technologies. However, they lack proficiency in several critical areas mentioned in the job description, such as JavaScript frameworks like VueJS or Angular, as well as modern CSS tools and testing frameworks specifically listed. While they show a solid foundation, they do not fully meet the exact requirements for the Implementation Consultant position.

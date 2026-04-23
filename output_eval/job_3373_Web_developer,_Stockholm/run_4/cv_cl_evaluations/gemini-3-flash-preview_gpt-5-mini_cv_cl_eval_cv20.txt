@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses general software development experience and understands Agile methodologies, but lacks the specific expertise required for this modern front-end role. There is no evidence of experience with React, TypeScript, modern testing suites (Jest/Cypress), or functional programming, with their background being heavily focused on the .NET ecosystem and legacy libraries like jQuery. Additionally, the candidate’s professional experience is significantly outdated, with no relevant work history documented since 2016.

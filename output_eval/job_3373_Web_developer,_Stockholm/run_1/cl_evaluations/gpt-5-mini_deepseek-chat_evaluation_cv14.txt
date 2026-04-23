@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience with JavaScript, HTML, CSS, Git, Agile practices and a solid CS background, but does not demonstrate hands-on experience with the employer's primary technologies (React, TypeScript), modern frontend tooling (Styled Components/SASS, linters, Node/npm), or testing frameworks and CI/CD required by the role. Their stated eagerness to learn is positive but insufficient against the job's explicit requirements for practical experience in those areas.

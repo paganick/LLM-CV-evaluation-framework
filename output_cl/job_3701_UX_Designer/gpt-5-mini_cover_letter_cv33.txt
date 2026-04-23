@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am writing to apply for the User Experience Designer role in Preston. I bring over 11 years in enterprise software delivery and architecture, a strong user-centred mindset, and practical front-end experience (HTML, CSS, JavaScript) that will help manage and evolve your UI Design System and translate user needs into working features.
+
+In senior architect roles I have led cross-functional teams, defined roadmaps and technical strategy, and acted as the voice of the user when aligning complex technical solutions to business goals. My work on multiple large-scale MDM programmes required translating stakeholder and user requirements into detailed specifications, creating mapping and workflow documentation, and working iteratively with product managers, business analysts, developers and QA to deliver successful releases. I am experienced running daily stand-ups, sprint planning and mentoring junior team members.
+
+I routinely worked with business stakeholders and end users to gather requirements and inform design and implementation decisions. That included creating specification and mapping documents, conducting interviews and workshops with stakeholders, producing interface templates and implementation plans, and providing documentation and knowledge transfer to users and support teams. These activities mirror the user research, journey mapping and workshop facilitation responsibilities in your brief.
+
+On the technical side I have hands-on experience implementing front-end flows and interfaces using HTML, CSS and JavaScript, and I have designed common interface templates and integration mappings that improved consistency and reduced downstream development effort. While my background is in complex enterprise data products, I bring a practical approach to prototyping and communicating designs so they can be understood by users, developers and business stakeholders alike.
+
+In previous engagements I managed teams of between 2 and 35 analysts, developers and leads, coordinating onshore and offshore resources to meet tight delivery schedules. My background in architecture and operational support means I am comfortable prioritising UX tickets against broader release plans, defining acceptance criteria from a user perspective and ensuring features ship with quality. I welcome contact.
+
+I am keen to bring my blend of strategic product thinking, stakeholder facilitation and front-end implementation experience to your UX team, helping to shape the User Experience roadmap, run collaborative ideation sessions, support sprint delivery and continuously improve your UI Design System.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my experience can contribute to your team.
+
+Sincerely, Alexis

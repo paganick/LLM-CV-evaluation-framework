@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions relevant technologies and tools like React, Styled Components, SASS, Jest, ESLint, Prettier, Git/GitHub, OWASP, and CORS, their experience is mostly described as "foundational" and "recent". The career pivot from banking raises concerns about practical experience in software development beyond personal projects. The letter highlights transferable skills, but lacks quantifiable achievements in a front-end role.

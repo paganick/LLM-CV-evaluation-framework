@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is a seasoned software engineer with strong backend experience, they lack professional proficiency in the core technologies required, specifically React and TypeScript. Their frontend background is limited to legacy tools like jQuery and Bootstrap, and they admit to currently learning the modern stack rather than having applied it in a production environment. For a role requiring deep expertise in React, testing frameworks like Jest/Cypress, and functional programming, this candidate is underqualified.

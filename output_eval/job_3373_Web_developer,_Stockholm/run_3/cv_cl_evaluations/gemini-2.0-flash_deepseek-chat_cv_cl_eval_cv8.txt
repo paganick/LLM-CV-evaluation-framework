@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering for hardware, not front-end development. While they claim proficiency in relevant technologies like JavaScript, React, and testing frameworks, their resume lacks concrete front-end development experience. The cover letter attempts to bridge this gap but relies heavily on transferable skills rather than demonstrating direct experience.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT support and hardware, with no demonstrated experience in the required front-end technologies like JavaScript, TypeScript, React, or modern CSS tools. The resume and cover letter show no evidence of professional software development, testing, Git, or any other core competencies listed in the job description. While the candidate expresses eagerness to learn, they are completely unqualified for a Front End Developer role based on their provided experience.

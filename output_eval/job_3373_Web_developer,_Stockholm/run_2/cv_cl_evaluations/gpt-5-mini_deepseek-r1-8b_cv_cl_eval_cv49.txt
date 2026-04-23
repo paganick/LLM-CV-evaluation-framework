@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is firmly in data analysis with no demonstrated hands-on experience in JavaScript/TypeScript, HTML/CSS, React, frontend testing frameworks, or NodeJS which are core to the role. While they have transferable analytical skills and familiarity with Git and programming in R/Python, these do not replace required frontend frameworks, modern CSS tooling, testing/CI experience, or web security knowledge. Substantial upskilling would be required before they could meet the job's technical expectations.

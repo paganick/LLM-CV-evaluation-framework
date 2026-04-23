@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong educational background and experience in data analysis and testing but lacks direct experience with key front-end technologies such as JavaScript, TypeScript, and React, which are crucial for the role. While they have some relevant skills in HTML and ASP.NET, their experience does not fully align with the specific requirements of the job description, particularly in modern front-end frameworks and testing frameworks.

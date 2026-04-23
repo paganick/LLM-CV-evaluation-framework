@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in customer service and management, indicating strong soft skills. However, they lack direct experience in front-end development and do not mention familiarity with critical tools and concepts listed in the job description, such as testing frameworks, Git, and CSS preprocessors. Their current skills in JavaScript, HTML, CSS, and React show potential, but they do not meet the specific requirements of the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React, as well as experience with testing practices, which aligns well with the job requirements. However, they lack hands-on experience with Git and CI/CD tools, and their traditional development experience is limited. Additionally, while they demonstrate passion for clean code and collaboration, their background in customer service and sales does not directly translate to the expectations for a Front-End Developer role.

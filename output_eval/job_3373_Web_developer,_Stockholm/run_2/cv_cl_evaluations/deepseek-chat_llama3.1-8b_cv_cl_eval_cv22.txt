@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is a completely different industry from modern front-end development. The resume and cover letter mention only basic, dated knowledge of HTML, CSS, and Java, with no demonstrable, professional experience in the core required technologies like React, TypeScript, modern testing frameworks, or the specific toolchain listed. The claims in the cover letter about hands-on experience with Jest, TestCafe, CircleCI, etc., are not supported by any evidence in the resume.

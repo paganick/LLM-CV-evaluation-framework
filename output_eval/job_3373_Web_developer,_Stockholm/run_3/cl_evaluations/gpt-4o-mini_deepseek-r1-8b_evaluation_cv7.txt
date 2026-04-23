@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and demonstrates strong collaboration skills and a keen interest in learning new technologies. However, they lack hands-on experience with essential requirements such as JavaScript frameworks (specifically React), testing methodologies, and familiarity with CI/CD tools and the NodeJS ecosystem. While they show potential, they do not meet the specific technical qualifications required for the position.

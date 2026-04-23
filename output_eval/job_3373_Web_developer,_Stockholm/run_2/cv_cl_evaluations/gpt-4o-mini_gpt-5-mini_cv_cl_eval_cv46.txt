@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has foundational experience in programming and a background in database management, which are beneficial. However, they lack direct experience with modern front-end frameworks like React, which is a critical requirement for the role, as well as hands-on experience with testing and automation. Their skills also appear to be more aligned with back-end development rather than the requested front-end focus.

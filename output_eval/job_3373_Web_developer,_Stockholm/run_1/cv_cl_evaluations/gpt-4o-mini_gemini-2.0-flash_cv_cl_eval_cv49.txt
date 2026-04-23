@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and engineering, which is relevant to the tech industry, but lacks direct experience with the core front-end technologies listed in the job description, such as JavaScript, TypeScript, modern frameworks like React, and testing frameworks. While there is an evident eagerness to learn and apply analytical skills to front-end development, the absence of hands-on experience in the specified technologies and practices is a significant gap.

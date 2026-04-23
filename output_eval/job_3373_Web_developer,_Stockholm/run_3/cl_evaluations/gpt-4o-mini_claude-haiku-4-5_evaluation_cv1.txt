@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend technologies, including JavaScript, TypeScript, HTML, and CSS, particularly with React, which aligns with the job requirements. However, they lack specific experience with some modern CSS tools mentioned in the job description, such as Styled Components, and testing frameworks like Jest and Cypress. Overall, they are a solid candidate with a good foundation but not a perfect match.

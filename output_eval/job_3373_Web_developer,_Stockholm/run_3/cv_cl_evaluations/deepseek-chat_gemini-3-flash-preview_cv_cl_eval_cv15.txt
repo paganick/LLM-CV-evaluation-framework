@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in broad IT management and hardware support, not modern frontend development. While they mention foundational web technologies, they lack demonstrable, professional experience with React, TypeScript, modern testing frameworks, and the other specific tools listed in the job description. The cover letter attempts to map general IT experience to the role's requirements, but the resume does not substantiate the core competencies needed for a specialized frontend developer position.

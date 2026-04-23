@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has no demonstrated experience in any of the required frontend technologies (JavaScript, TypeScript, React, HTML, CSS) or methodologies (testing, Git, Agile). Their background is in a completely different industry, and their argument relies solely on transferable soft skills and an aptitude for learning, which does not meet the specific technical requirements of the role.

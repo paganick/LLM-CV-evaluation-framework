@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate mentions some relevant technologies like Javascript, HTML, and CSS in their cover letter, their resume primarily highlights business development, project management, and quality engineering experience, not software development. The resume lacks concrete evidence of hands-on experience with modern FE frameworks like React or proficiency in testing frameworks. The candidate's background appears more aligned with management and sales than a front-end development role.

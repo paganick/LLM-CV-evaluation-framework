@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in software development but lacks the specific skills and technologies outlined in the job description, particularly with JavaScript, TypeScript, and modern frontend frameworks like React. Furthermore, there is no mention of testing frameworks, modern CSS tools, or knowledge of current web security practices, which are critical for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this technical role, lacking any professional experience or demonstrated proficiency in JavaScript, TypeScript, React, or modern front-end tooling. Their background is entirely in an unrelated industry (film and television production), and they explicitly admit to lacking experience with the core frameworks and technologies required. The application fails to meet any of the specific technical criteria, including testing, security, or CI/CD skills.

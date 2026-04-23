@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience with the required tech stack, specifically JavaScript, TypeScript, React, and front-end testing frameworks. Their technical background is limited to R and program management, which does not meet the hands-on engineering requirements for this role. While they demonstrate strong soft skills, they are unqualified for a technical position that demands immediate proficiency in modern front-end development and security protocols.

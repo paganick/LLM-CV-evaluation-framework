@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development professional who lacks the required professional experience in software engineering and modern front-end development. They do not possess any experience with the core tech stack, including React, TypeScript, testing frameworks, or cloud infrastructure. This is a complete industry mismatch for a technical role that requires deep expertise in modern web development.

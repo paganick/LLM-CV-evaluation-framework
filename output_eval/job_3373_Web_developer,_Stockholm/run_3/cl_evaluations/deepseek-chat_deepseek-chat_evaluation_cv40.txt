@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with the core technical requirements (JavaScript, TypeScript, React, HTML/CSS, Git, Agile, OWASP/CORS) and the collaborative, product-minded qualities sought. The extensive leadership background provides strategic value beyond a typical developer role. The score is not a 9 because the cover letter does not explicitly mention several "nice-to-have" items from the job description, such as specific testing frameworks (Jest, Cypress), modern CSS tools (SASS), or functional programming (Ramda).

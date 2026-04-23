@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily senior business development with only basic HTML and legacy programming listed (C, C++), and there is no demonstrated experience with JavaScript/TypeScript, React, modern CSS, testing/automation, Git, NodeJS, or web security—core requirements for this role. There are transferable strengths in collaboration and learning, but they do not offset the lack of hands-on front-end engineering experience, tooling, or portfolio of relevant work. The profile is therefore unsuitable for the role as described.

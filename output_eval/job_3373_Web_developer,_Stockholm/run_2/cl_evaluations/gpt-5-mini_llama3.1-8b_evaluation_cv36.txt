@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's background is in microbiology and molecular genetics with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS tooling, NodeJS, or Git-based workflows required for this front-end role. Mentions of testing frameworks and "passion" for clean code are not supported by concrete engineering experience or examples of delivery in an Agile/CI environment. Overall, the applicant does not meet the core technical requirements and would require substantial retraining before being productive in this role.

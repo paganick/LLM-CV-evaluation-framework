@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web-development experience (HTML/CSS, JavaScript/jQuery, Git, ASP.NET/MVC, Agile/team collaboration) but the resume lacks concrete evidence of key requirements such as React and TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, CSS-in-JS/SASS, and CI/CD/AWS. The cover letter asserts familiarity with these technologies but is not substantiated by the resume. Overall, relevant industry experience but missing critical modern front-end skills for this role.

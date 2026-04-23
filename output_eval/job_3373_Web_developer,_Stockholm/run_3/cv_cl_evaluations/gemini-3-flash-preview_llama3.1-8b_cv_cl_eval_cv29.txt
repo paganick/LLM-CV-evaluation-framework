@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background is in business development and sales rather than software engineering. There is zero evidence of proficiency in the required technical stack, including JavaScript, React, TypeScript, or testing frameworks. Despite working in the software industry, the candidate lacks the fundamental coding and engineering skills necessary for a front-end developer role.

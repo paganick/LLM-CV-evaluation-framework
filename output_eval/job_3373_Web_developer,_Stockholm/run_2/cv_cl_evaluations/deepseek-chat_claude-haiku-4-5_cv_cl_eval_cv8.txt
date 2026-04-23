@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware test engineering and electronics manufacturing, which is a completely different industry from modern frontend software development. The resume and cover letter show no direct experience with JavaScript, TypeScript, React, or any of the core technologies listed in the job description. While the candidate expresses interest and has transferable skills like test automation with Python, they lack the specific, required technical qualifications for this frontend engineering role.

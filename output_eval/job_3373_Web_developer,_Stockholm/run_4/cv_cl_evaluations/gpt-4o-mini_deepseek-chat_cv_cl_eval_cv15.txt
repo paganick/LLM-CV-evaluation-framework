@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT management and web development experience, including hands-on work with HTML, CSS, and JavaScript, which aligns with some job requirements. However, they lack specific experience with React, modern front-end frameworks, and testing automation practices that are essential for this position. Additionally, while their ability to adapt and willingness to learn are noted, there are significant gaps in their direct experience with the technologies and methodologies specified in the job description.

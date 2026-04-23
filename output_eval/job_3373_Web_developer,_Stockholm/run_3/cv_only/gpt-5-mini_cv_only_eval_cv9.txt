@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong backend Java experience, OAuth2 knowledge, Git exposure and Agile/test-driven practices, but lacks core requirements for this React/TypeScript frontend role. There is no demonstrated experience with React or other modern frontend frameworks, TypeScript, modern CSS tools (SASS/Styled Components), frontend testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, or CI/CD/AWS/Terraform. Overall relevant software engineering background but insufficient specific front-end and tooling skills demanded by the job.

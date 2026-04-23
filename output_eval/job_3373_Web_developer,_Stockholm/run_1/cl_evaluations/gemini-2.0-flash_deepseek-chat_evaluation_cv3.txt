@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is a mix of unrelated experience and academic knowledge. While they express enthusiasm and a willingness to learn React, they lack hands-on experience with many of the technologies listed in the job description, such as testing frameworks, Node.js, and CI/CD pipelines. Their claimed experience is largely academic, falling short of the 'hands-on' requirement.

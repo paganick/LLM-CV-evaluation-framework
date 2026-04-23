@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks almost all required technical skills, including JavaScript, TypeScript, React, and automated testing, which are fundamental to this role. Their professional background is in film production rather than software engineering, and they explicitly admit to having no experience with the modern front-end frameworks requested. While they mention Ruby, the job description notes the company is moving away from it, making the candidate completely unqualified for this position.

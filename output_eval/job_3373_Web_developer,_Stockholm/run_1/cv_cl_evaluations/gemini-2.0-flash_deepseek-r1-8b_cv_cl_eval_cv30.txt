@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and backend development, with limited front-end experience. While they express interest in learning and possess some relevant skills like SQL and testing methodologies, they lack the core competencies in JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), HTML, and CSS that are essential for the role. The resume and cover letter highlight a mismatch between the candidate's expertise and the job requirements.

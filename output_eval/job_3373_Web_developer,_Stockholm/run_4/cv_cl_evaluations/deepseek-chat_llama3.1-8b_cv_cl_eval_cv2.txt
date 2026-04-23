@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in Java/J2EE back-end development with no demonstrated experience in the required front-end technologies (JavaScript, TypeScript, React, modern CSS). The resume and cover letter show no evidence of skills in testing automation, modern FE frameworks, or the other specific tools listed in the job description. This profile is for a different technical stack and industry segment entirely.

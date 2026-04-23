@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the mandatory technical skills required for this role, specifically JavaScript, TypeScript, React, and modern frontend testing frameworks. While the candidate has a background in IT management and a long-standing degree in Computer Science, their professional experience is concentrated in business development, quality engineering, and project management rather than hands-on software development. There is no evidence of proficiency with the modern web stack or the specific toolchain mentioned in the job description.

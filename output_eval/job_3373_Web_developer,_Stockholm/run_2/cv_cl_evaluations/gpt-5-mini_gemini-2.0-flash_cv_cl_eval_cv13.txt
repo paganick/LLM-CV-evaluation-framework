@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end and project management experience (JavaScript, HTML/CSS, jQuery/Angular and Agile practice) but lacks demonstrated proficiency in the core requirements: React (primary stack), TypeScript, testing/test automation (unit/integration/E2E), Git/GitHub, Node/npm tooling, and security/CI practices. There is no evidence of modern CSS tooling, testing frameworks, linters, or cloud/infra familiarity required for the role, so they would require substantial upskilling before meeting the position's expectations.

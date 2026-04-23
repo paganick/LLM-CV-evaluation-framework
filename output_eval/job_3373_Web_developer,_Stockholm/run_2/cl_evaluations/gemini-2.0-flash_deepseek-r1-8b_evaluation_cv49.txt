@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis, not web development, which is a significant drawback. While they mention some relevant skills like Git and analytical abilities, they lack hands-on experience with many key technologies listed in the job description, such as React, TypeScript, and specific testing frameworks. Their experience appears transferable but not directly applicable.

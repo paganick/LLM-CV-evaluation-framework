@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has a strong UX/design background with basic HTML/CSS and QA/UAT exposure, but their resume and cover letter show no hands-on experience with JavaScript/TypeScript, React, modern testing frameworks, Git/GitHub, Node/npm, or CI/CD. The absence of core frontend development skills and test automation required for this role means substantial upskilling would be necessary. They may be a fit for a design or junior transition role but do not meet this position's technical requirements.

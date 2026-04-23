@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in testing and automation, but lacks specific experience with modern FE frameworks like React, TypeScript, and NodeJS. While the cover letter expresses interest in React, the resume doesn't show prior hands-on experience. The resume focuses heavily on testing, but the job description also expects development knowledge.

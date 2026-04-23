@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This resume is for a Construction and Site Manager with a background in civil engineering and project management within the construction industry. There is no mention of any of the required technologies (JavaScript, TypeScript, HTML, CSS, React, etc.) or related concepts, making the candidate completely unqualified for a front-end developer role. The skills and experience listed are entirely unrelated to software development.

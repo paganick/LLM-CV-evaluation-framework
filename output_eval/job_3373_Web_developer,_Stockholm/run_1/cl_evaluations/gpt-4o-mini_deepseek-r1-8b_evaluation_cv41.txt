@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in systems administration and a solid understanding of software development principles, they lack specific front-end experience with JavaScript, TypeScript, and modern frameworks like React. Their background in infrastructure and systems does not fully align with the hands-on testing and automation skills required for the role, which limits their overall suitability.

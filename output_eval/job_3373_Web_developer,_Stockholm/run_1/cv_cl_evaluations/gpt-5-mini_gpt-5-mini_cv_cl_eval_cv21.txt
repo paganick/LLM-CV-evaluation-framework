@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has extensive web development experience (HTML5, CSS3, JavaScript, jQuery, AngularJS) and demonstrated testing/process improvements and Agile collaboration, which are relevant to the role. However, they lack explicit experience with key requirements such as TypeScript, React, modern front-end tooling (Node/npm/Yarn), Git/GitHub, modern CSS tooling (Styled Components/SASS), current JS testing frameworks (Jest/Cypress), and cloud/CI tools, so they do not meet the majority of the job's core technical expectations.

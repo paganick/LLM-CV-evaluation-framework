@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a solid foundation in core frontend technologies and Agile methodologies. However, the letter reveals gaps against the job description, specifically a lack of direct, hands-on experience with React, TypeScript, and the listed testing frameworks, which are key requirements. Their background in project management and analytics provides a valuable perspective, but the transition to a dedicated development role introduces some uncertainty regarding current technical proficiency.

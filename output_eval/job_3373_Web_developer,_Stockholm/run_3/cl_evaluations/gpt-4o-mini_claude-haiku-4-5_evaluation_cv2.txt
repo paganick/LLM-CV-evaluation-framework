@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has significant experience in software development and expresses a strong interest in transitioning to frontend development, particularly with React and TypeScript, which matches the job requirements. They possess relevant skills in JavaScript, HTML, CSS, and have practical knowledge of version control and testing frameworks, though they lack direct experience with some specified tools like Ramda and AWS.

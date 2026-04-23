@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is in marketing automation, not front-end engineering. While they highlight transferable skills like testing and collaboration, they lack the core technical skills listed in the job description (JavaScript, React, etc.) and express a desire to learn them, indicating a significant skills gap.

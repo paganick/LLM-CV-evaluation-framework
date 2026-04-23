@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in graphic design, requiring a significant career shift. While the cover letter mentions HTML and CSS proficiency and interest in JavaScript and React, it lacks concrete experience in the required technologies like TypeScript, testing frameworks, and Git, all mentioned in the job description. The candidate demonstrates some transferable skills, but ultimately lacks the specific technical expertise required for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and modern front-end testing frameworks. Their professional background is rooted entirely in hardware maintenance, IT support, and systems administration rather than software engineering. While the candidate expresses a desire to learn, they currently possess no professional experience in web development or the modern software development lifecycle.

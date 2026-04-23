@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in media production, lacking the required experience in JavaScript, TypeScript, modern FE frameworks (React, VueJS, Angular, Svelte), testing, and Git. While the candidate expresses interest in learning, the resume provides no evidence of existing skills or projects in these areas. The skills listed are mostly related to video production and social media management, not frontend development.

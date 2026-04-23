@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable strengths (HTML, general programming background, leadership, teaching and rapid learning), but lacks hands-on experience with the core technical requirements: JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm tooling, Git, and web security practices. These missing, role-critical skills make them an incomplete fit for the position as described, despite strong non-technical qualifications.

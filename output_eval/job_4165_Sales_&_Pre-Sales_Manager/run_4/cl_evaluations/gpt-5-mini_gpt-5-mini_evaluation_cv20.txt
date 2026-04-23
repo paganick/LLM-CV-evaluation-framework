@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid presales/sales-engineering and business-analytics experience (RFPs, proposals, demos, SQL/Tableau, CRM) and shows capability to influence stakeholders and coordinate with delivery — all core to the role. However, they do not explicitly document AI/ML platform experience, breadth across application services (APIs/Cloud/DevOps) or global/onshore-offshore coordination and do not state total years of client-facing sales, so some required specifics are unverified. Overall a strong, relevant candidate but not a perfect match.

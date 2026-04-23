@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant industry experience in web development but lacks professional proficiency in the primary technologies required, specifically React and TypeScript. While they have a strong foundation in HTML, CSS, and basic JavaScript, their recent work is centered on the Drupal ecosystem rather than modern frontend frameworks. Furthermore, the applicant is only in the learning phase for the company’s core stack, which does not meet the requirement for hands-on expertise in React and associated modern testing libraries.

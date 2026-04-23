@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical qualifications required for this Front End Developer role — there is no demonstrated experience with JavaScript/TypeScript, React (or other modern frameworks), testing frameworks, Git/GitHub, Node/npm, or modern CSS tooling. While they have basic HTML and web/design exposure plus strong transferable skills in project management and collaboration, these do not compensate for the absence of hands-on frontend engineering experience. Given the role's technical expectations, the candidate is not currently qualified.

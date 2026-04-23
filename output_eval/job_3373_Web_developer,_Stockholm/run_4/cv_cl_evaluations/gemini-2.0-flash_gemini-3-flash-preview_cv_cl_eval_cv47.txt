@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate attempts to bridge their business development background with some technical skills, the resume lacks substantial evidence of professional front-end engineering experience. The cover letter mentions familiarity with relevant technologies, but this is not strongly supported by the resume's listed experience or skills, which are primarily business-oriented. Their claims of JavaScript, TypeScript, and React experience are not adequately substantiated.

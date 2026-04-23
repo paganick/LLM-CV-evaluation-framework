@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and Git, aligning with the job description's core requirements. They express interest in React, functional programming with Ramda, and modern CSS tools like SASS, showcasing a willingness to learn the company's tech stack. While the candidate's experience leans towards .NET, their front-end focus and collaborative experience in Agile environments make them a potentially strong fit.

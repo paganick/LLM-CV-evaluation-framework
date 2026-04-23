@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned .NET/ASP.NET developer but lacks professional experience with the primary required stack, specifically React, TypeScript, and modern JavaScript frameworks. There is no evidence of experience with essential tools mentioned in the job description, such as automated testing frameworks (Jest/Cypress), the NodeJS ecosystem, or modern CSS methodologies. While the candidate has foundational web knowledge and industry experience, they do not meet the specific technical requirements for this modern frontend engineering role.

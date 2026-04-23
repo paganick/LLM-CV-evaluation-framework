@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core background is in Data Analytics and Engineering (R, SAS, C#), which fundamentally misaligns with the specific requirements for a modern JavaScript/TypeScript developer. While the letter lists several required technologies, it reads as keyword stuffing that mirrors the job description verbatim without providing evidence of professional application. Crucial requirements such as TypeScript, Node.js, API design, and AWS are entirely absent from the candidate's actual experience profile.

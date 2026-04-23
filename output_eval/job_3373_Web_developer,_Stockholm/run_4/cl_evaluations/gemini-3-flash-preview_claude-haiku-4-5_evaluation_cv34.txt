@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the core technical competencies required for this position, specifically failing to mention any proficiency in JavaScript or TypeScript. While they have a foundational knowledge of HTML and CSS, they explicitly state they are only "eager to develop" expertise in mandatory areas such as React, Jest, and Cypress rather than currently possessing hands-on experience. Their background is primarily in implementation and CMS platforms, making them underqualified for a role requiring modern frontend engineering and test automation skills.

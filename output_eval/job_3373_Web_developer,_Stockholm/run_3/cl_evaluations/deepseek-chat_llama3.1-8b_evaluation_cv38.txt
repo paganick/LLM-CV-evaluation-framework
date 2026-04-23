@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in film production, not software development, and they lack any demonstrated experience with the core technologies listed in the job description (JavaScript, React, testing, Git, etc.). While they show enthusiasm and soft skills, their technical qualifications are from a completely different industry and do not align with the specific front-end development requirements. The mention of Ruby is irrelevant as the company is moving away from it, and no relevant programming foundation is substantiated.

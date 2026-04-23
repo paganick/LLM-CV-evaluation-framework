@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid HTML/CSS, UX/UI leadership, and QA/UAT experience and demonstrates strong collaboration skills, which are relevant to the role. However, they lack demonstrable hands-on experience with core, required technologies—JavaScript/TypeScript, React, automated testing frameworks (Jest/Cypress), Git/Node tooling, modern CSS tooling, and cloud/CI practices—so they are not yet fully qualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, with limited explicit experience in modern front-end development. While the cover letter expresses interest and some self-learning, the resume lacks concrete projects showcasing proficiency in the specific technologies mentioned in the job description like React, Typescript, or modern testing frameworks. The candidate's experience with HTML and related web technologies is limited, making them not a strong fit for the role.

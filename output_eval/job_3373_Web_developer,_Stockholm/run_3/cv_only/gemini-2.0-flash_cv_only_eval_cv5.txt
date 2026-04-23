@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in Mainframe development, COBOL, and DB2, which does not align with the JavaScript, React, and modern front-end technologies listed in the job description. Although the candidate lists Javascript and HTML, the resume shows a strong history in legacy systems rather than modern web development. The role requires experience in modern FE frameworks, which the candidate's resume lacks.

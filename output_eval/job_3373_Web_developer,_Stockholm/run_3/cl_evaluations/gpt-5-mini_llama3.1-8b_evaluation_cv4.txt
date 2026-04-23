@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience with React, Node.js ecosystem, testing (Jest), modern CSS tools, functional programming (Ramda), CI/CD and AWS—matching many core requirements. However, they do not explicitly state experience with TypeScript, basic web security practices (OWASP/CSP/CORS/OAuth), or Git/repo hosting, which are important for this role. These omissions keep the assessment from being a top-tier match despite the solid overall fit.

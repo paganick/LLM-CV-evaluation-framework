@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer who lacks professional experience in web development and fails to demonstrate hands-on proficiency with critical requirements such as TypeScript, Git, and automated testing. While they possess a relevant degree and basic knowledge of React, most of the specific technical stack—including CI/CD tools, Node.js, and modern CSS frameworks—are listed as interests rather than proven skills. A 15-year background in construction does not compensate for the absence of technical experience in a professional software environment.

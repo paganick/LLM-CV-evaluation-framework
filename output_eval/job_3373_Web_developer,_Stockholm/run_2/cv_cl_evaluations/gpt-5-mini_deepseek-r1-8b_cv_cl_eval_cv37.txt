@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has strong project management and IT infrastructure experience but demonstrates no hands-on front-end development skills (JavaScript, TypeScript, HTML/CSS) nor experience with React, modern JS tooling, testing frameworks, or Node ecosystem required for this role. While they note familiarity with SDLC, Agile, and some high-level concepts (CI/CD, API design), there is no concrete evidence of the technical competencies, coding, or automated testing experience needed. This is a clear mismatch for a front-end developer role.

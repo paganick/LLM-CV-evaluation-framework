@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates strong experience in marketing automation and QA, they lack the necessary front-end development skills outlined in the job description. The cover letter acknowledges this gap but relies heavily on eagerness to learn rather than demonstrable experience with JavaScript, React, or modern CSS tools. The candidate's background in integrations and testing is valuable, but insufficient to outweigh the lack of core front-end skills.

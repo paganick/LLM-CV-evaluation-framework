@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant Computer Science degree and transferable skills in project management and quality engineering, but the cover letter does not demonstrate hands-on experience with core requirements such as JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, Git workflows, or web security practices. Their claims are largely willingness to learn rather than proven front-end implementation or test automation experience. Given the role's technical expectations, this profile is insufficiently specific for a strong match.

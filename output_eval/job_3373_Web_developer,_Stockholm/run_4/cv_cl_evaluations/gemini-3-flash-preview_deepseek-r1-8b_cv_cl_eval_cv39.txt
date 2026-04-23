@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer and fine artist who lacks all mandatory technical skills for this frontend engineering role, including JavaScript, TypeScript, and React. There is no evidence of experience with automated testing, CI/CD pipelines, or cloud infrastructure, making them completely unqualified for a software development position. The resume describes a career in visual arts and elementary education rather than the professional software engineering required by the job description.

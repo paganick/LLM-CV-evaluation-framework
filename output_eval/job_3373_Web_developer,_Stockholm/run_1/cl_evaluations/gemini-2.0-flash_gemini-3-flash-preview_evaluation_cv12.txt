@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in software development, particularly with React and JavaScript, aligning with the job requirements. The cover letter showcases experience with testing, Git, and security concepts like CSP and CORS. The candidate highlights teamwork and Agile experience, but lacks demonstrable experience with CI/CD tools and cloud platforms.

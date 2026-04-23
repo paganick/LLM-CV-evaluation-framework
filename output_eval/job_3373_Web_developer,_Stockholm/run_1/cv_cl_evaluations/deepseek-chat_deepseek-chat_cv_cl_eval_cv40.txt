@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's career is almost exclusively in senior product management and leadership, not hands-on front-end development. While they express interest and claim foundational knowledge, the resume provides zero evidence of professional experience with the required technologies (React, TypeScript, testing frameworks) or recent, practical coding work. This is a significant career pivot into a role demanding proven, current technical execution skills they have not demonstrated.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software consultant with seven years of professional IT experience and a Master in Computer Applications. My career has been rooted in Java (JEE) development, RESTful API design, and delivering robust, high-performance services. I am passionate about clean code, emergent design, and automated testing, and I am excited to bring this mindset to a front-end focused role.
+
+Throughout my career I have practiced Test-Driven and Behavior-Driven Development and implemented test automation across unit, integration and performance tests. At ADP I increased unit test coverage to over 90% and used Mockito and WireMock for isolation. I also authored integration and performance suites with JMeter and Gatling, and used Sonar, ELK and profiling tools to improve API performance by approximately 200%. These experiences demonstrate my discipline for quality and reliability that I will apply to front-end testing with Jest, Cypress or TestCafe.
+
+I have hands-on experience with JavaScript and HTML, strong familiarity with Git and Atlassian tooling (JIRA, Bamboo, Confluence), and practical experience securing web APIs using OAuth2 and Spring Security. I have worked extensively in Agile teams, frequently collaborating with product managers, QA and external partners. I lived and worked on site in Berlin for two years and collaborated with German clients for over five years; I hold German A1 and am pursuing A2.
+
+While my background is primarily server-side and Java-centric, I have a genuine interest in modern front-end technologies and a proven aptitude for learning new stacks. I am eager to deepen my React and TypeScript skills, adopt modern CSS techniques and styling libraries, and contribute to front-end architecture and API design. I am comfortable exploring Node.js tooling, CI/CD practices and cloud fundamentals to support delivery.
+
+I am also committed to adopting modern toolchains and best practices: learning Styled Components and SASS for modular CSS, integrating linters and formatters such as ESLint and Prettier, leveraging functional utilities like Ramda, and adopting CI/CD with CircleCI and npm/Yarn workflows. I will rapidly bridge any gaps through focused learning and pairing.
+
+I would welcome the opportunity to contribute to your team, bring a test-first mindset, and help deliver clean, maintainable front-end code.
+
+Sincerely, Alexis

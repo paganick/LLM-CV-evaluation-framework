@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant systems and security experience and demonstrates strong soft skills, but the cover letter lacks direct, hands-on evidence of the required front-end technical skills (React, TypeScript, modern tooling). While they mention a desire to apply their testing mindset to front-end, they do not explicitly state experience with the specific technologies listed in the job description. Their background is adjacent and valuable, but not a direct match for the core front-end engineering requirements.

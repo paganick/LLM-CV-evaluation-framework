@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media production, not software development. While the cover letter mentions self-study in relevant technologies, the resume lacks concrete professional experience with the specific technologies listed in the job description, especially React and testing frameworks. The skills listed are very basic and do not reflect a front-end developer.

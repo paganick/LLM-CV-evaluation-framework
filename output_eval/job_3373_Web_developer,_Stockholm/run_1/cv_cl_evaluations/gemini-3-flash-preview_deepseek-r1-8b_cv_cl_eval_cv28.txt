@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their professional background is entirely in materials engineering and manufacturing analysis rather than software development. They lack the mandatory technical proficiency in JavaScript, TypeScript, React, and modern frontend tooling required by the position. Despite strong analytical skills in a different industry, there is no evidence of the practical coding experience or software testing expertise necessary for this engineering seat.

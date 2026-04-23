@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong test-engineering and automation experience (Python, shell, networking, debugging) but shows no demonstrable skills in the core front-end requirements: JavaScript/TypeScript, HTML/CSS, React, Node/npm, Git/GitHub, or front-end testing frameworks and tooling. Transferable strengths (testing mindset, security awareness, collaboration) are noted but insufficient for a production front-end role without substantial upskilling or concrete front-end project evidence. As-is, the candidate is not ready for this Front-End Developer position.

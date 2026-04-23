@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a high level of technical alignment by explicitly referencing nearly every requirement, including TypeScript, React, testing methodologies, and web security standards. Their background in AWS and API design addresses the "nice-to-have" aspects of the job description effectively. However, their recent history as a Director and Project Manager raises concerns for a strict recruiter regarding their current hands-on coding speed and potential over-qualification for a contributor-level role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and cybersecurity, which indicates a high level of technical understanding. However, they lack direct experience with key frontend technologies such as JavaScript frameworks (React, etc.), modern CSS tools, and testing frameworks, which are crucial for the position. While their interest in frontend development is evident, they do not meet the specific skill requirements outlined in the job description.

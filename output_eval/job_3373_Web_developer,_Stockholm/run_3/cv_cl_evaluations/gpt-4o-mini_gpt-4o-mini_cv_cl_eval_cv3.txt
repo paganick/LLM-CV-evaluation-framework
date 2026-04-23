@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational background and basic skills in HTML, CSS, and JavaScript, but lacks hands-on experience with modern frameworks like React which is specifically mentioned in the job description. Additionally, while they express a willingness to learn and transition into web development, their experience predominantly comes from an unrelated industry, which limits their immediate applicability for the role.

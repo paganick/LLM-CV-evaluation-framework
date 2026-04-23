@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates knowledge of JavaScript, HTML, and CSS, but their experience appears to be more heavily weighted towards PHP and older technologies. While they mention React, VueJS, and Angular, their proficiency with React (the company's framework) is not explicitly detailed. The resume lacks depth in modern front-end tooling and practices mentioned in the job description, such as CI/CD, testing frameworks, and modern CSS tools.

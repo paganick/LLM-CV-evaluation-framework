@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with no professional experience in software development, which makes them unqualified for a role requiring hands-on experience. While they have self-studied the core frontend stack, they fail to mention critical requirements such as CI/CD, API design, Node.js, and functional programming. A background in finance operations does not substitute for the technical depth and production-level expertise required for this position.

@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Frontend Developer position, as advertised. With a master's degree in Computer Engineering and two years of experience in web development, I have cultivated a strong skill set in JavaScript, HTML, CSS, and various modern frameworks, particularly React. I thrive in Agile environments and am eager to collaborate with cross-functional teams to deliver high-quality software solutions.
+
+In my previous role as a Database Programmer/Analyst, I was deeply involved in various aspects of software development, including the design and implementation of both frontend and backend systems. I utilized JavaScript and jQuery for client-side validations and created responsive web interfaces using Bootstrap, demonstrating my proficiency with modern CSS tools. I have hands-on experience with the Software Development Life Cycle (SDLC) and Agile methodologies, participating in daily scrums and providing timely updates to stakeholders.
+
+I understand the importance of clean, maintainable code, exemplified by my efforts to refactor existing applications and automate data processes, enhancing application performance. My work involving integration with web services and creating user controls has sharpened my problem-solving skills. I am also proficient with Git and have utilized GitHub for version control, ensuring effective collaboration among team members.
+
+My confidence extends beyond client-side development; I have a fundamental understanding of API design and basic web security principles, such as OWASP and secure authentication mechanisms. This knowledge equips me to contribute to building secure and robust web applications.
+
+I have maintained a keen interest in advancing my technical proficiency. My experience with testing frameworks, such as unit and integration tests, aligns with your emphasis on testing and test automation. Additionally, my familiarity with tools like ESLint and Prettier has further solidified my commitment to delivering high-quality code.
+
+I am particularly excited about the opportunity to work at your organization, known for its innovative approach to software development. I am eager to engage with both internal teams and external partners, expanding my knowledge across different platforms and contribute to collaborative efforts that push the boundaries of technology.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can bring my expertise to your team.
+
+Sincerely,  
+Alexis

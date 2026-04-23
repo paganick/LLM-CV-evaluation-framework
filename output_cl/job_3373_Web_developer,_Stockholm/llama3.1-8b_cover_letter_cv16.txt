@@ -1,0 +1,20 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front End Developer position at your esteemed organization. With a strong background in software development and a passion for clean code, I am confident that my skills and experience make me an ideal fit for this role.
+
+As a seasoned developer with 2 years of experience in front-end development, I possess a solid understanding of modern front-end frameworks and libraries such as React, VueJS, and Angular. My proficiency in JavaScript, TypeScript, HTML, and CSS allows me to create robust and efficient web applications. Additionally, my expertise in testing and test automation using unit tests, integration tests, E2E tests, etc., ensures that I deliver high-quality code.
+
+My experience with modern CSS tools like Styled Components and SASS, as well as testing frameworks such as Jest and Cypress, demonstrates my ability to adapt to new technologies and processes. My familiarity with NodeJS ecosystem, npm, Yarn, Express.js, and functional programming using Ramda showcases my versatility and willingness to learn.
+
+In my previous role as a Database Programmer/Analyst (.NET Developer), I worked extensively with .Net Server Controls, Web User Controls, Data Grid, Web Control, Form Validation Controls, and created Custom controls. I also gained experience in writing Class Library using C# and LINQ to SQL queries in Database Access layer to interface with SQL Database.
+
+My strong collaborator skills and comfort working in an Agile environment will enable me to seamlessly integrate into your team's workflow. My ability to interact with other teams and external partners, as well as my keen interest in keeping up-to-date with the latest technologies, ensures that I am a valuable asset to your organization.
+
+In addition to my technical expertise, I possess excellent communication skills, which have been demonstrated through my participation in daily scrums and weekly meetings with project sponsors. My ability to work closely with Scrum Masters for backlog catalogs, feature catalogs, and prioritizing tasks showcases my commitment to delivering high-quality results.
+
+I am particularly drawn to this role because of the opportunity to work with a talented team and contribute to innovative projects. I am confident that my skills, experience, and passion for clean code make me an ideal candidate for this position.
+
+Thank you for considering my application. I look forward to discussing my qualifications further.
+
+Sincerely,
+Alexis

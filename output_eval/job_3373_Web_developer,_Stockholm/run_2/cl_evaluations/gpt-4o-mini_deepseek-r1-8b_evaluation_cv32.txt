@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in customer service and project management, but lacks specific technical skills directly related to the Software Engineer position, such as proficiency in JavaScript, TypeScript, and modern frontend frameworks like React. Additionally, there is no mention of testing frameworks, Git, or knowledge of web security principles which are critical for the role. Overall, they demonstrate a willingness to learn but do not meet the essential technical qualifications required.

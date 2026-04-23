@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics engineering and hardware testing, which is the wrong industry for a modern front-end software development role. The resume and cover letter mention only superficial familiarity with JavaScript and no experience with React, TypeScript, modern CSS tools, testing frameworks, or any other key technologies from the job description. The claims in the cover letter are not substantiated by the resume's content, indicating a significant mismatch.

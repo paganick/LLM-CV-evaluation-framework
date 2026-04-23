@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in Java and some experience with JavaScript, HTML, and CSS. However, they lack specific experience with modern frontend frameworks like React, VueJS, or Angular, which is crucial for this role. Their familiarity with testing frameworks is noted, but there is no strong mention of modern CSS tools or CI/CD practices relevant to the position.

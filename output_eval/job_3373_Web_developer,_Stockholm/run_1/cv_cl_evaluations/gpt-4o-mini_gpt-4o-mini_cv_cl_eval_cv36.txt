@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in microbiology and consulting, which is not directly relevant to front-end development. While they express a passion for technology and mention some familiarity with JavaScript, HTML, CSS, and Git, they lack hands-on experience with frameworks like React or testing automation. Their skills appear more in project management and training rather than concrete development experience, indicating a need for further specialization in the tech sector.

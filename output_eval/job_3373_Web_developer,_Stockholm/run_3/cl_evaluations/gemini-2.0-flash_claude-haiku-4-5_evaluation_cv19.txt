@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background as a Graphic Designer and electrical work experience are not directly relevant to a Frontend Developer role. While they express interest in learning JavaScript, TypeScript, and React, they currently lack hands-on experience with modern FE frameworks, testing, and the NodeJS ecosystem which are crucial requirements. The cover letter relies heavily on potential and acquired skills from coursework rather than demonstrated experience.

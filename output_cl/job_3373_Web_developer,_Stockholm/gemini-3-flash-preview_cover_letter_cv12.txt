@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to you today to express my very strong and sincere interest in the Software Engineer position. With over seven years of technical experience in software design, development, and integration, I have cultivated a robust skill set that aligns perfectly with your team’s focus on React and modern front-end technologies. Throughout my career, I have demonstrated a steadfast commitment to writing truly clean, maintainable code and building scalable applications.
+
+During my tenure as a Full Stack Engineer at LogonTutor LLC, I led the strategic design and implementation of a comprehensive e-commerce platform. While this project utilized PHP and MVC architectures, it provided me with a deep understanding of the full software development life cycle. I managed everything from front-end interface design using HTML, CSS, and SASS to the integration of complex third-party standard XML APIs for secure payment processing and online whiteboards. This experience solidified my ability to handle API design and security considerations, which are vital for implementing Web security standards like CSP and CORS.
+
+Your requirement for a developer proficient in React and the JavaScript ecosystem resonates with my technical trajectory. I have extensive experience with JavaScript and have utilized tools like Git and Docker to streamline development workflows. My background in functional programming and object-oriented development allows me to adapt quickly to libraries like Ramda and modern testing frameworks such as Jest or Cypress. I am a firm believer in the importance of test automation, having managed comprehensive unit and integration testing phases to ensure system reliability and minimize downtime.
+
+Furthermore, my experience as a Project Manager for the Seeketh.org senior project, which earned the prestigious "Outstanding Senior Design Project Award," highlights my ability to lead teams in an Agile environment. I am comfortable collaborating across departments and interacting with external partners to ensure technical solutions meet broader business needs. My foundation in Electrical Engineering from the University of Cincinnati has equipped me with advanced critical thinking skills and a drive to understand the full domain of a product, including infrastructure and CI/CD processes.
+
+I am eager to bring my expertise in database management, automation through Bash scripting, and modern React front-end development to your organization. I am particularly interested in supporting your transition away from Ruby as you further embrace a React-centric architecture. I thank you truly for your time and consideration.
+
+Sincerely,
+Alexis

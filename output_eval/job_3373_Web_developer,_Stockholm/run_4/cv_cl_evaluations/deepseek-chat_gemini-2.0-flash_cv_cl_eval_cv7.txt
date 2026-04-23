@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and visual merchandising, which is the wrong industry for a front-end developer role requiring modern JavaScript frameworks and testing. The resume and cover letter show no evidence of the required technical skills like JavaScript, TypeScript, React, Git, or testing frameworks. While the candidate expresses eagerness to learn, they lack any demonstrable, relevant hands-on experience for the position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong technical foundation (MS CS, HTML/CSS/JS, SASS, Git, Agile, security awareness, CI/CD familiarity) and proven delivery on web migrations and data-driven UIs, which are relevant to the role. However, they lack demonstrable hands‑on experience with core requirements for this position—notably React and TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), linters/formatters, Styled Components, Ramda, and explicit AWS/Terraform/CircleCI usage—making them a relevant but not fully qualified fit.

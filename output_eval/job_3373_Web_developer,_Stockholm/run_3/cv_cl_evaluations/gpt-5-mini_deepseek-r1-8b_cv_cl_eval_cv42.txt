@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has significant leadership and operational experience but no demonstrated hands-on software engineering skills or familiarity with the core technologies required (JavaScript/TypeScript, React, testing frameworks, Node, CI/CD, AWS). Their background is firmly in finance and operations rather than front-end development, so they do not meet the essential technical or tooling requirements for this role. Given the domain and skill mismatch, they are not qualified for the position.

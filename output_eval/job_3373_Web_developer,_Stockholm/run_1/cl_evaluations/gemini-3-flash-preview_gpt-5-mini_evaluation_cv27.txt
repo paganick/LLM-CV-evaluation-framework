@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer who lacks the mandatory technical experience required for this role, specifically professional proficiency in JavaScript, TypeScript, React, and automated testing. Their background is in media production and arts education rather than software engineering, which does not align with the industry-specific technical demands. While they demonstrate strong soft skills and a background in documentation, they do not possess the core engineering competencies defined in the job description.

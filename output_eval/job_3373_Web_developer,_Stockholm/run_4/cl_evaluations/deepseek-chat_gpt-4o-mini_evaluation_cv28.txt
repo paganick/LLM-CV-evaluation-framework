@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant technical industry but lacks the required hands-on experience in front-end development. They admit their primary expertise is not in software development and only have a working knowledge of HTML/CSS, with no proven experience in React, TypeScript, or testing frameworks as required. While their analytical background and awareness of some concepts (Agile, OWASP, NodeJS) are positive, they do not meet the core technical qualifications for the role.

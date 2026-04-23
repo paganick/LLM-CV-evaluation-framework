@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's cover letter highlights full-stack experience more than front-end. While they express interest in React and modern CSS, their experience seems more foundational than hands-on. The letter focuses heavily on full-stack aspects, and lacks concrete project examples in front-end technologies.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional resume describes over 15 years of experience exclusively in graphic design, print media, and visual merchandising, lacking any verifiable professional history in frontend engineering. While the cover letter claims proficiency in React and TypeScript, the resume fails to list these skills, relevant professional titles, or modern technical projects to validate these claims. The candidate remains fundamentally a graphic designer and does not meet the core technical requirements for a modern software development role.

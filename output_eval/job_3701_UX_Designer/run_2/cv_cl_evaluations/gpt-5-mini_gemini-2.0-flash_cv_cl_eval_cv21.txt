@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design, art direction and data-analyst experience which is relevant to product design, but lacks documented commercial UX experience, specific UX methodologies (user research, customer journey mapping, testing), and modern tooling such as Figma. There is no evidence of Agile experience, running stakeholder workshops at a product level, managing a UI Design System, or mentoring within a UX team, so they do not meet several core requirements for this role.

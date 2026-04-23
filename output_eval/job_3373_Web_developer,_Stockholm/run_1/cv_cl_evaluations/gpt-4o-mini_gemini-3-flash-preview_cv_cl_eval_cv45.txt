@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and security but lacks direct experience with frontend development technologies such as JavaScript, TypeScript, modern frameworks like React, and specific testing frameworks mentioned in the job description. While they do demonstrate relevant skills in collaboration and agile environments, critical frontend development experience is insufficient, which limits their suitability for the position.

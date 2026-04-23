@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant technologies such as React, HTML, CSS, and TypeScript, and mentions security expertise aligning with the job description. However, the cover letter focuses heavily on high-level strategy and leadership roles in IT, rather than hands-on frontend engineering experience. While they claim a foundation in software development and a commitment to clean code, this is not sufficiently substantiated with concrete frontend projects or achievements.

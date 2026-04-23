@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design, but lacks direct experience in crucial frontend development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate a willingness to learn and possess good collaborative skills, they do not fulfill many of the technical requirements outlined in the job description. Their background primarily focuses on design rather than development, leading to a low score.

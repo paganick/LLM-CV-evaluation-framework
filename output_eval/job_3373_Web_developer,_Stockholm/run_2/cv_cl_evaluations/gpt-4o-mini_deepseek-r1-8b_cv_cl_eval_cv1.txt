@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in relevant technologies including JavaScript, TypeScript, HTML, CSS, and React, aligning well with the job requirements. They also have hands-on experience in test automation and CI/CD processes, which are critical for the role. However, while they have basic knowledge of web security principles, there is no explicit mention of experience with specific modern CSS tools or advanced testing frameworks, which slightly lowers the score.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in mainframe technologies, programming with COBOL, and experience in banking applications, but lacks the required skills and experience in JavaScript, TypeScript, modern front-end frameworks like React, and test automation. Their web development experience is minimal and does not align with the job requirements outlined in the description. Therefore, they are completely unqualified for this role.

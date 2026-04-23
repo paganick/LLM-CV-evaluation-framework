@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology and consulting with no demonstrated experience in JavaScript, TypeScript, React (or other modern frontend frameworks), testing frameworks, Git, NodeJS, CSS tooling, or relevant web security knowledge. Transferable skills in documentation and training do not meet the explicit technical requirements for this Frontend Developer role. Given the complete mismatch in domain-specific technical skills, the candidate is not qualified for this position.

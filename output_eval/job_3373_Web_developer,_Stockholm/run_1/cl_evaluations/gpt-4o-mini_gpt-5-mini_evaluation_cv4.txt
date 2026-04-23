@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in front-end technologies, particularly in JavaScript, HTML, and CSS, and shows a willingness to learn React, which is the primary framework used by the company. They have relevant experience in API integration and testing, aligning with many job requirements. However, there is a lack of specific mention of testing frameworks listed in the job description, as well as modern CSS tooling, which slightly limits their fit for the role.

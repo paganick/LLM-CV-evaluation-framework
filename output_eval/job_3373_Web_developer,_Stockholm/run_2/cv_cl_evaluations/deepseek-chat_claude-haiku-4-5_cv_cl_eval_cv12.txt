@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows extensive full-stack and backend experience but lacks specific, recent, and demonstrable frontend framework expertise, particularly with React. While the cover letter claims alignment, the resume does not substantiate hands-on experience with modern FE tools, testing frameworks, or the specific technologies listed in the job description. The experience is broad and dated, missing the focused, modern frontend skill set required for the role.

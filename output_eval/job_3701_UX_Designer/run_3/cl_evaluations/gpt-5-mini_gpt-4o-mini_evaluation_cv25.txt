@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates long consulting experience, familiarity with SDLC, Agile, user research, workshops and mentoring, which are relevant to the role. However there is no clear evidence of 2-3+ years in a commercial UX designer role, no mention of Figma or modern prototyping tool proficiency, and primary tools listed (Documentum, MS Access) are not typical UX toolchains or UI Design System experience. These gaps mean the application is relevant but does not meet key required skills for a strong match.

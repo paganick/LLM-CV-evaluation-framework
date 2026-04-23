@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales and leadership, lacking demonstrable experience in frontend development. While the cover letter expresses interest and self-learning, the resume shows no prior professional experience or projects related to the technologies listed in the job description (JavaScript, React, etc.). The skills listed are largely unrelated to the technical requirements.

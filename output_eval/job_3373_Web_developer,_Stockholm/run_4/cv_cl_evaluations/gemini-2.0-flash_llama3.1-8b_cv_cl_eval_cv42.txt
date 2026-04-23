@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight experience in finance operations, budgeting, and project management, primarily within publishing and non-profit sectors. There is no evidence of the required technical skills in JavaScript, React, or related web development technologies. The candidate's claims about FE frameworks and Git/GitHub are unsubstantiated.

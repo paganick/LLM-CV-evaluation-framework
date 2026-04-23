@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's cover letter focuses on business development, quality management, and process improvement with no mention of JavaScript, TypeScript, HTML/CSS, React, testing frameworks, or other frontend/NodeJS technologies required by the role. The job demands hands-on technical experience in modern frontend frameworks, testing/automation, and web security, which are not demonstrated. As submitted, the applicant is not qualified for this technical frontend position.

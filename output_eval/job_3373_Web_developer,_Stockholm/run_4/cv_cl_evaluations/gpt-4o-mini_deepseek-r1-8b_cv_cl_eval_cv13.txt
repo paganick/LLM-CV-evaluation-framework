@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in project management and some exposure to frontend development technologies like JavaScript and React. However, they do not demonstrate hands-on experience with testing frameworks or CI/CD tools as mentioned in the job description, which is a significant gap. Their resume suggests a background that is more focused on project management rather than direct development skills, which may limit their ability to fulfill the technical demands of the role.

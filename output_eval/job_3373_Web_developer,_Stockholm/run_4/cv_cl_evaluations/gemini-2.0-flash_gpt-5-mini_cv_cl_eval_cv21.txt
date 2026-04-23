@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant front-end experience (HTML, CSS, Javascript, AngularJS) and mentions an interest in modern frameworks. However, they lack direct experience with React, TypeScript, and modern testing frameworks specified in the job description. The resume is heavily focused on .NET technologies, which are not the primary focus of the role.

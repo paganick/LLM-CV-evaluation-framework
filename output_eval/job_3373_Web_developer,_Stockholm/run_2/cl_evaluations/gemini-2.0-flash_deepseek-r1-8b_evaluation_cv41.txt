@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in systems administration, not software engineering. They express interest in learning React, but lack demonstrable experience in the key technologies listed in the job description such as JavaScript, TypeScript, and modern testing frameworks. While they mention security awareness and collaboration skills, the overall lack of front-end development experience makes them a weak fit.

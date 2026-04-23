@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in business development, which is not directly relevant. While they mention foundational skills in HTML, CSS, and JavaScript and some experience with React, the letter focuses more on their past career than demonstrating proficiency in the specific technologies mentioned in the job description. Their understanding of the full domain and agile environment is a plus, but lacks direct experience in the required FE frameworks.

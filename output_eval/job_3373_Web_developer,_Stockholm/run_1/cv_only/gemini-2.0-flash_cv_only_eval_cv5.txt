@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume primarily focuses on Mainframe technologies like COBOL, CICS, and DB2, which are not aligned with the job description's emphasis on modern front-end technologies such as JavaScript, TypeScript, React, and modern CSS tools. While the candidate lists HTML and JavaScript under "Languages," their experience is heavily weighted towards legacy systems. Therefore, the candidate is unqualified for the role.

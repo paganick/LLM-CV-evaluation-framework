@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects a career in marketing, communications, public relations, and legal administration with no demonstrated experience in JavaScript, TypeScript, HTML, CSS, React (or other modern frameworks), testing, Git, NodeJS, or related tooling. There are no technical projects, certifications, or roles indicating front-end development skills or familiarity with required security, CI/CD, or cloud concepts. This candidate is completely unqualified for the described front-end engineer role.

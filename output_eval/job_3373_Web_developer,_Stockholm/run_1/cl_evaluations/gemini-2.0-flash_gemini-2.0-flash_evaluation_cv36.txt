@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background in microbiology and consulting is completely irrelevant to the frontend developer role. The cover letter fails to mention any of the required technical skills (JavaScript, React, HTML, CSS, testing, Git, etc.) outlined in the job description. The transferable skills mentioned are too generic and do not compensate for the lack of direct experience.

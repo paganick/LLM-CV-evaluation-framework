@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily focused on IT program management and cybersecurity within a government context, lacking demonstrable skills in the specific frontend technologies (React, TypeScript, HTML, CSS) mentioned in the job description. While the cover letter expresses an eagerness to adapt and learn, the resume doesn't showcase any hands-on development experience or familiarity with modern frontend frameworks. The candidate's skills are more aligned with IT leadership and security, not frontend development.

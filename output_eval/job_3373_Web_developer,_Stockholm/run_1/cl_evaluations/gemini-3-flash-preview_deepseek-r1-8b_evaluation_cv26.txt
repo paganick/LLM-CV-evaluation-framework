@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate possesses no professional experience in software engineering and fails to meet the core technical requirements, including proficiency in JavaScript, TypeScript, and React. Their background is in marketing and legal administration, which constitutes the wrong industry and career level for this technical position. Despite an expressed willingness to learn, they provide no evidence of hands-on application of the mandatory tools like testing frameworks, Git, or CI/CD protocols.

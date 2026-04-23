@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in microbiology and quality control, which is not directly relevant to frontend development. While they express a commitment to learning the necessary technologies such as JavaScript, TypeScript, HTML, and React, they lack hands-on experience and demonstrable skills in required frontend technologies and frameworks. Their experience in cross-functional collaboration and training could be beneficial, but it does not compensate for the specific technical skills needed for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Test Engineer with 10 years of experience rather than a dedicated Frontend Developer, lacking professional-level expertise in the required tech stack. They fail to mention experience with TypeScript, functional programming, or specific testing frameworks like Jest and Cypress, and their knowledge of React and web security is admittedly basic. While they have relevant industry experience, their background does not demonstrate the proficiency in frontend architecture and API design necessary for this role.

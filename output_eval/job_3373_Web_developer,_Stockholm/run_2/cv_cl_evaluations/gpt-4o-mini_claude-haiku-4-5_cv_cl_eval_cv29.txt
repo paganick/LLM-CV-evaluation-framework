@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in business development and a general understanding of technical concepts, but lacks direct experience with the required frontend technologies such as JavaScript, TypeScript, React, and modern CSS tools. While there is a foundation in web design principles, the absence of hands-on development experience with key frameworks and tools makes them an insufficient fit for the role.

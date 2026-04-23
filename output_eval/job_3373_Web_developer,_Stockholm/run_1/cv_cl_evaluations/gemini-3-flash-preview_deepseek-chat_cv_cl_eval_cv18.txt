@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced IT generalist but lacks professional experience with the mandatory React framework, TypeScript, or modern testing suites like Jest and Cypress. Their background is heavily focused on general web design, CMS administration, and systems consulting rather than modern software engineering practices. While they have relevant industry experience, they do not possess the specific technical skills required for this modern front-end development role.

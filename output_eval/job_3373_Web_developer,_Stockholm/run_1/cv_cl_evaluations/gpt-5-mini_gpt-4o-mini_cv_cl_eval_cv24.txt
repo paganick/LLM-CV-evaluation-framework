@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's experience is primarily in digital communications and content management with basic HTML/CSS and some exposure to Git, but they lack hands-on experience in JavaScript/TypeScript, React (or other modern frameworks), front-end testing and automation, Node/npm tooling, and CI/CD—core requirements for this role. While they express enthusiasm and a willingness to learn, they do not meet the essential technical qualifications needed for a front-end engineering position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and collaboration, which are important in an agile development environment. However, their technical skills in JavaScript, TypeScript, React, and other necessary front-end technologies are not sufficiently demonstrated, suggesting a lack of depth in the required skills for the role. Their primary background in media production makes it unclear how effectively they could transition into the technical demands of a front-end developer position.

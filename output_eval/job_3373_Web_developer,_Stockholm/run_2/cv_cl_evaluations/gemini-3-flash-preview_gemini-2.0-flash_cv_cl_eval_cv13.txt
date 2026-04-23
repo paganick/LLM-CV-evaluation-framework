@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager and lacks professional-grade experience with the required modern tech stack, specifically React and TypeScript. Their technical background is dated, focusing on jQuery and PHP, with no evidence of proficiency in automated testing frameworks, web security, or CI/CD tools. While the candidate understands Agile environments, they do not possess the hands-on engineering depth required for a specialized Front End Developer role.

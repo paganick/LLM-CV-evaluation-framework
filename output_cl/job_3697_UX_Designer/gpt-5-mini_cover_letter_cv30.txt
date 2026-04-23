@@ -1,0 +1,14 @@
+Dear Hiring Manager
+I am an experienced software engineer with 15+ years building interactive systems and user-facing features for commercial game and platform products. I am excited to apply for the UI/UX Designer role because my background translating product goals into prototypes and shipped interfaces aligns with your need to design wireframes, prototypes, and GUI elements and to collaborate tightly with product, research and engineering teams.
+
+Throughout my career I have partnered with product managers, artists, QA and engineers to turn design concepts into functional implementations. At EA titles and subsequent mobile projects I implemented HUD features and contextual unit displays, integrated shared UI systems into game clients, and developed UI features for a Game Remote Administration Tool used by customer service agents. I regularly established playable prototypes — from early Unity prototypes for mobile titles to in-engine UI and interaction prototypes — to validate interaction models and iterate quickly with stakeholders.
+
+I work in customer-centric ways: while developing telemetry and administration tools I focused on delivering functionality that met the needs of customers and internal teams, and I extended developer systems to improve QA workflows on live builds. I can present rough drafts and prototypes to internal teams, explain tradeoffs, and incorporate feedback into subsequent iterations.
+
+My technical experience gives me an advantage communicating design intent to developers and implementing designs faithfully. I have worked in C++, C#, Unity and client-server contexts, integrating UI systems, supporting localization pipelines, and optimizing runtime systems to meet performance constraints. I established tool and workflow improvements to accelerate iteration and improve cross-discipline collaboration.
+
+I am resourceful, adapt quickly in fast-paced environments, and have a track record of influencing technical and design decisions — for example leading the evaluation and adoption of an animation system across a project. I am eager to contribute to a scale-up environment focused on your key product line and to collaborate with your UX researcher, product and engineering teams to drive customer-focused interface solutions.
+
+Early in my career I designed and implemented a localization pipeline and a distributed testing service, demonstrating initiative and the ability to deliver cross-functional tooling. I value onboarding and collaboration with experienced colleagues and am committed to quickly adopting your team's processes and tools to contribute from day one and exceed user expectations consistently.
+
+Sincerely, Alexis

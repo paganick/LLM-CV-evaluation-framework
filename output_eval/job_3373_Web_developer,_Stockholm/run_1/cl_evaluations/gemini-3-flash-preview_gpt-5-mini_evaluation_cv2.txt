@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career backend Java developer who lacks any professional experience with the required frontend stack, including JavaScript, TypeScript, and React. While they possess strong general engineering fundamentals and Agile experience, they do not meet the core technical requirements of the role. A transition-based application is insufficient for a position requiring hands-on expertise in specific modern frontend frameworks and tools.

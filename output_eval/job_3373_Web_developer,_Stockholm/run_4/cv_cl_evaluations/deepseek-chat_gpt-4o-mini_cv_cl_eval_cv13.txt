@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not as a hands-on front-end developer. While they mention some relevant technologies (JavaScript, Angular, Git, SASS), they lack demonstrable, recent, and in-depth experience with the core requirements like React, TypeScript, modern testing frameworks, and specific security knowledge. Their background is more aligned with project leadership and digital marketing than with the technical development and coding focus of this role.

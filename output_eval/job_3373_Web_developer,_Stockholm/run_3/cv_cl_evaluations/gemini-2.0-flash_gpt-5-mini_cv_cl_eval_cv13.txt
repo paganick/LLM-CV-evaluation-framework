@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has project management experience and some front-end skills like JavaScript, HTML, and CSS. However, they lack the depth in modern FE frameworks (specifically React), testing, and other technologies mentioned in the job description, such as NodeJS, CI/CD, and AWS. The experience seems outdated.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java backend development, with limited demonstrable experience in modern frontend frameworks like React, which is the team's focus. While they express a willingness to learn, their experience with JavaScript and HTML is not highlighted with practical project examples using modern FE frameworks. The resume showcases some frontend skills but in older frameworks like Struts and JSP.

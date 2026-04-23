@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong background in analytics and engineering, they lack direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which is a critical requirement for the position. Their knowledge of ASP.NET and SQL does not sufficiently translate to the needed technologies and practices. Additionally, their experience with testing and automation tools seems limited, which is essential in the role.

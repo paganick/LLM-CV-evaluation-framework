@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter emphasizes data analysis and statistical skills, which are not the primary focus of the job description. While it mentions an interest in new technologies, it lacks specific examples of experience with JavaScript, TypeScript, HTML, CSS, React, or testing frameworks outlined in the job requirements. The candidate's background is more aligned with data analysis than front-end development.

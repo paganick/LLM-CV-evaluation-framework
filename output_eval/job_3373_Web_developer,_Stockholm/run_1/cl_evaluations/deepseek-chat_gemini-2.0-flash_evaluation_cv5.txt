@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in Mainframe development, which is a relevant technical industry, but they lack direct, hands-on experience with the core technologies listed in the job description. Their knowledge of modern frontend frameworks, testing, tools, and security concepts is described as foundational or aspirational, not demonstrated. While their soft skills and analytical background are transferable, the specific technical skill gap is significant for a direct Frontend Developer role.

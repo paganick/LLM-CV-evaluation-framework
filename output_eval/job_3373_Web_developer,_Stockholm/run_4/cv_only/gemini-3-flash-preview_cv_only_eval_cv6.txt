@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced web developer, their expertise is almost entirely centered on Drupal, PHP, and jQuery rather than the modern React and TypeScript stack required for this role. There is no evidence of experience with modern frontend frameworks, TypeScript, or the specific testing and CI/CD tools mentioned in the job description. The candidate lacks the core technical competencies necessary to fulfill the requirements of a modern frontend engineering position.

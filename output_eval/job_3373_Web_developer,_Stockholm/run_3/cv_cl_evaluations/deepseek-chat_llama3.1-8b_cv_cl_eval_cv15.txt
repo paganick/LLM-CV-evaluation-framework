@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in general IT support and management, not modern front-end software development. The resume and cover letter mention outdated or irrelevant technologies and lack concrete, recent experience with the required stack (React, TypeScript, modern testing, CI/CD, functional programming). The cover letter appears to generically list keywords from the job description without supporting evidence from the provided work history.

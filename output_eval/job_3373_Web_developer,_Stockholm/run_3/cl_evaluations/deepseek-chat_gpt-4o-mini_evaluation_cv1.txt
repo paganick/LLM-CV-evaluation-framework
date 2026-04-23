@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong match for the core technical requirements, including React, TypeScript, testing automation, and the listed tooling. The cover letter effectively mirrors the job description's language and priorities. The score is not a 9 or 10 because the candidate does not explicitly mention several specific technologies from the "nice-to-have" list, such as VueJS, Svelte, Styled Components, specific testing frameworks (Jest, Cypress), or functional programming with Ramda.

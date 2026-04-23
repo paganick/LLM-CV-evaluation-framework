@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with JavaScript, HTML, and CSS but primarily with AngularJS, not React as preferred in the job description. The candidate mentions experience with RESTful web services and Git, but lacks specific experience with testing frameworks like Jest or Cypress, and modern CSS tools like Styled Components or SASS as listed in the job description. Overall, the candidate has a foundation but needs to upskill significantly to meet the requirements.

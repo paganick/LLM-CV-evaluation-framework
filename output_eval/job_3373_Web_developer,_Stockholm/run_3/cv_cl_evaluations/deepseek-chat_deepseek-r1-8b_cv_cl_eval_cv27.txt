@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration, education, and choreography, which is a completely different industry from modern front-end software development. The resume and cover letter mention no experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other technical requirements listed in the job description. While the candidate demonstrates strong soft skills, they lack the fundamental technical qualifications for this specific engineering role.

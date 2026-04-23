@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in design, with limited front-end development experience. While they possess HTML and CSS skills, they lack experience with modern FE frameworks like React, testing, and other key technologies mentioned in the job description. Their cover letter acknowledges this gap and expresses a willingness to learn, but the resume does not demonstrate sufficient relevant experience.

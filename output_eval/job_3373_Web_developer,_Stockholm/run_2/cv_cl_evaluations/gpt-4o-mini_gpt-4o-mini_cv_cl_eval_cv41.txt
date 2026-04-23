@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundation in JavaScript, HTML, and CSS, along with experience in React and testing frameworks like Jest and Cypress, which aligns with some of the job requirements. However, their experience appears more focused on systems administration rather than front-end development, resulting in a lack of depth in required modern front-end frameworks and practices, particularly in functional programming and CI/CD tools.

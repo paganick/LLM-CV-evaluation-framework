@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design and basic HTML/CSS experience and demonstrates collaboration and learning aptitude, but lacks hands-on experience with core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node/npm, CI/CD, and security topics). The expressed willingness to learn is positive, but does not compensate for the current absence of essential frontend development skills and tooling experience required for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in graphic design, a field very different from the software engineering role described in the job description. While the cover letter expresses interest in learning new technologies, the resume lacks any demonstrable experience with JavaScript, TypeScript, modern FE frameworks, or other essential technical skills listed. The candidate does not meet the minimum qualifications for the role.

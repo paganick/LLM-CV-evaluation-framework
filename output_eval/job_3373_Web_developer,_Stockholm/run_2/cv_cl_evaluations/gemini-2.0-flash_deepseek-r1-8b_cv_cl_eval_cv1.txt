@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in several key areas including JavaScript, HTML, CSS, React, and testing frameworks, aligning well with the job description. Their experience with Git, Agile, and CI/CD pipelines is also a strong fit. While the resume highlights relevant experience, the cover letter lacks specific examples of accomplishments which keeps the score from being higher.

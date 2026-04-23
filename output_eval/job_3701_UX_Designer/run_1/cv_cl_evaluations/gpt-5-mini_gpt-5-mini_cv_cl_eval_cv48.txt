@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate does not demonstrate the required 2-3 years of commercial UX design experience, lacks evidence of Figma or prototyping work and shows no clear front-end (HTML/CSS/JS) or UI design system experience. While they have strong testing, QA and user-facing support skills plus workshop/training experience that are somewhat transferable, these do not compensate for the absence of direct UX practice, tool proficiency, and documented Agile UX delivery.

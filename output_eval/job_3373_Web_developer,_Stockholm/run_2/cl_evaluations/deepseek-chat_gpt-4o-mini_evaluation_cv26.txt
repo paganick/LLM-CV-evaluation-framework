@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required hands-on experience with core technologies like JavaScript, TypeScript, HTML, and CSS, explicitly stating they are not yet proficient. While they demonstrate relevant soft skills and an eagerness to learn, their technical background is from a different industry, and they do not provide evidence of practical experience with the listed frameworks, testing tools, or development workflows. This places them at the lower end of "relevant industry but lacks specific experience/skills."

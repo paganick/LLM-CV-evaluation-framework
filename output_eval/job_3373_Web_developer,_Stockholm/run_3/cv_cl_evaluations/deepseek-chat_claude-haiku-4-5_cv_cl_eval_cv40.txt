@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in senior product management and business strategy, not hands-on frontend engineering. The resume and cover letter show no direct, professional experience with the required technologies like React, TypeScript, or modern testing frameworks. While they express interest and some adjacent awareness, they lack the specific technical skills and recent development experience the job description mandates.

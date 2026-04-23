@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has HTML/CSS fundamentals and strong client-facing, documentation, and QA experience, but lacks demonstrated hands-on JavaScript/TypeScript, React, modern frontend tooling (Node/npm, Git, Styled Components/SASS), and testing frameworks required for this role. Their cover letter signals willingness to learn, but there is insufficient practical experience with the core technologies and workflows—significant upskilling would be required before they could perform at the expected level.

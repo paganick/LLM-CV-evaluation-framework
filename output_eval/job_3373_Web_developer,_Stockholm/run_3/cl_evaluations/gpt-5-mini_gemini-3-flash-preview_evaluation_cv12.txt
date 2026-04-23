@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong front-end experience with JavaScript, React-aligned work, modern CSS/SASS, testing (Jest/Cypress), Git, API design, web security, and Agile leadership—matching many core requirements. However, they do not explicitly show TypeScript experience or concrete familiarity with the Node/npm/Express ecosystem, linters/formatters, CI/CD tooling (e.g., CircleCI), or AWS/Terraform, which are important gaps for a strict match.

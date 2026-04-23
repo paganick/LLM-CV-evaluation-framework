@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong general frontend experience (7+ years), solid JavaScript/HTML/CSS skills, SASS, Git, testing mindset, and Agile/collaboration experience, which are relevant to the role. However, the letter omits explicit TypeScript and concrete React experience, specific testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem tools, CI/CD, and explicit web security practices (OWASP/CSP/CORS/OAuth) or AWS/Terraform knowledge, so it does not meet several key technical requirements listed.

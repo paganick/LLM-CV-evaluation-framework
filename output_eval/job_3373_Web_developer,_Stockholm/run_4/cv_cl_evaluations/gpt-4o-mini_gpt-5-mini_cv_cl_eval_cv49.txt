@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and statistical modeling, but lacks direct experience with the core technologies listed in the job description, such as JavaScript, TypeScript, and modern frontend frameworks like React. While they express an eagerness to learn frontend skills, there is insufficient evidence of any hands-on experience with relevant tools and frameworks required for the role.

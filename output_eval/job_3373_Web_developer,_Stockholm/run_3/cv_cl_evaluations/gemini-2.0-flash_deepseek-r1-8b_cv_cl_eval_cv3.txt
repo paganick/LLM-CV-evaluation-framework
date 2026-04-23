@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundation in web development through academic projects, including HTML, CSS, and JavaScript. However, the resume lacks professional experience and specific skills outlined in the job description such as React, Typescript, testing frameworks, and modern CSS tools. Their listed skills are somewhat outdated and the focus on older technologies is not aligned with the job requirements.

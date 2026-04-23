@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in electronics testing, not front-end development. While they mention familiarity with JavaScript, the resume lacks concrete evidence of building modern web applications with frameworks like React, which is a core requirement. The cover letter attempts to bridge the gap, but the experience is too tangential.

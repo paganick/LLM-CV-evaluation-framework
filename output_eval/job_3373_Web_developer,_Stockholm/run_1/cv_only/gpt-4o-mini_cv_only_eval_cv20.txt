@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant web development experience and familiarity with JavaScript, HTML, and CSS, but lacks direct experience with modern front-end frameworks like React, which is a requirement for the position. Additionally, while the candidate has worked in Agile environments, there is insufficient evidence of experience with testing frameworks or modern CSS tools as mentioned in the job description. Overall, the candidate has potential but does not fully meet the requirements for this role.

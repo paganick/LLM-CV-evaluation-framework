@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but critically lacks the specific, required skills listed in the job description. They have no demonstrable experience with React, TypeScript, modern testing frameworks, or the other key front-end technologies and practices mentioned. While they possess foundational skills and a willingness to learn, their current expertise is misaligned with the role's core requirements.

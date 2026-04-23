@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their professional experience is entirely in sales and management rather than software engineering. They lack the required proficiency in JavaScript, TypeScript, React, and automated testing, with their only technical mention being basic HTML and desktop publishing tools. This is a career-transition application that fails to meet any of the core technical or industry-specific requirements listed in the job description.

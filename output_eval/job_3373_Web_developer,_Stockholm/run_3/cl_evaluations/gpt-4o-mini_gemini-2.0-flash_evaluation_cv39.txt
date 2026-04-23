@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in graphic and web design, they lack the specific technical skills required for the Front-End Developer position, such as proficiency in React, TypeScript, and modern CSS tools. Additionally, the candidate does not mention experience with testing frameworks or CI/CD tools, which are vital for this role. Their willingness to learn is noted, but it does not compensate for the missing critical qualifications.

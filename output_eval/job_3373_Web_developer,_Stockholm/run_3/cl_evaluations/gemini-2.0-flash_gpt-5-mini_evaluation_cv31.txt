@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in sales and leadership, not front-end engineering. While they mention HTML, Photoshop and Illustrator, this isn't equivalent to the required Javascript, React, and testing experience. The letter focuses heavily on sales achievements, which are not directly relevant to the job description's technical requirements.

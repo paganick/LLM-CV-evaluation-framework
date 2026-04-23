@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a strong hardware/validation and QA background and some familiarity with JavaScript, but lacks demonstrated hands-on front-end development experience with React, TypeScript, HTML/CSS, modern CSS tooling, and front-end testing/automation frameworks required for this role. There is no clear evidence of Git/GitHub, Node.js ecosystem, CI/CD, or web security knowledge in the resume. While motivated to learn, the current skillset does not meet the core technical requirements for the position.

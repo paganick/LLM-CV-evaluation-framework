@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a broad IT background with some relevant skills like JavaScript, HTML, CSS, and web development. However, the resume lacks specific details about modern FE frameworks (React experience is only mentioned in the cover letter) and testing methodologies beyond general statements. While the candidate mentions Agile and collaboration, the depth of experience with CI/CD, NodeJS, and cloud platforms is unclear.

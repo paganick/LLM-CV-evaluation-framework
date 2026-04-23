@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant front-end adjacent experience (HTML/CSS), security awareness, and collaborative skills, but explicitly lacks hands-on JavaScript/TypeScript, React, testing, and many required tools (Git, Node/npm, modern CSS tooling, CI/CD). Those are core, day‑to‑day requirements for the role, so they are not currently qualified without substantial upskilling and demonstrable experience in the listed technologies.

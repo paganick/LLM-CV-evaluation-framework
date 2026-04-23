@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant analytical and programming fundamentals (HTML, Python, SQL) and strong communication skills, but does not demonstrate core front-end experience. Critical requirements are missing or unproven: no JavaScript/TypeScript, no React experience, no modern CSS tooling, no Node/npm/Express knowledge, no front-end testing frameworks or Git/GitHub experience, and no web security/CI/CD exposure. Given the gap in required front-end technologies and tooling, this application is below the level sought for the role.

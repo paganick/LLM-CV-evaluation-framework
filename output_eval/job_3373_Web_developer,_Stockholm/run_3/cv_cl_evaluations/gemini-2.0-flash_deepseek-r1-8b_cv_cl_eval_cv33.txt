@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in business banking, sales, and training, with no demonstrable experience in JavaScript, TypeScript, HTML, CSS, or related front-end technologies. The cover letter attempts to bridge the gap by highlighting project management and training skills, but lacks the essential technical skills required for the role. There is no evidence of familiarity with modern FE frameworks, testing, or web security.

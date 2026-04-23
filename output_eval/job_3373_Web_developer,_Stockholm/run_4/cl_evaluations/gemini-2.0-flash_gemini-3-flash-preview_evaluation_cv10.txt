@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with frontend technologies, particularly JavaScript and related frameworks. They mention AngularJS experience and adapting to new libraries which could translate to React. They also have experience in testing and Agile environments, aligning with key requirements.

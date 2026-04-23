@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a basic understanding of the required front-end technologies like JavaScript, HTML, and CSS, and experience with testing and Agile environments. However, they lack explicit mention of React, TypeScript, or other modern CSS tools and testing frameworks listed in the job description. Their experience seems more back-end focused, and they do not explicitly state experience with Git or web security principles.

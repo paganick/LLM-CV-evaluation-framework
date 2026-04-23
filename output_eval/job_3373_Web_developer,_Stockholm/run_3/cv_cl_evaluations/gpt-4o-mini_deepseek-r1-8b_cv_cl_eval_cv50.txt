@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in business development and quality management, which is not aligned with the technical requirements of the job. There is no evidence of experience in JavaScript, TypeScript, or modern front-end frameworks such as React, nor any mention of relevant testing or security knowledge that the position demands.

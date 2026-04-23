@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate shows strong front-end and testing experience (React, Jest/Cypress/TestCafe), NodeJS ecosystem familiarity, CI/CD (CircleCI), modern CSS tools, and solid Agile/PM credentials, aligning well with many core requirements. However, they do not explicitly mention TypeScript, Git/GitHub workflows, or AWS/Terraform — omissions of commonly required skills for this role — which prevents a higher score. Overall a strong match but not complete.

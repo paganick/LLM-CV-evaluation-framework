@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+As a results-oriented professional with a Bachelor of Science in Leadership and Cultural Studies and a proven track record in the technology sector, I am excited to apply for the Frontend Developer position. My background as a Sales Director at JMF Solutions, combined with my technical certifications and hands-on experience with HTML, positions me as a unique candidate who understands both the business objectives and the technical rigors required to build high-quality web applications.
+
+Your focus on React, TypeScript, and functional programming aligns perfectly with my professional trajectory. Having worked extensively within the telecommunications and technology space, I have developed a keen eye for detail and a commitment to writing (truly) clean, maintainable code. My experience with desktop publishing software like Photoshop and Illustrator, alongside my foundational knowledge of HTML, has provided me with a strong visual and structural basis for modern frontend development. Furthermore, my VMware Federal and Academic Specialization certifications, along with my Lenovo Partner Certification, demonstrate my ability to master complex technical environments and security protocols, mirroring your requirements for knowledge of OWASP, CSP, and CORS.
+
+I thrive in Agile environments where collaboration is paramount. In my previous leadership roles, I spearheaded initiatives that resulted in a 115% revenue growth margin, requiring constant interaction with cross-functional teams and external partners. This experience has honed my communication skills, allowing me to translate complex technical concepts into actionable strategies. I am particularly drawn to your use of React and Ramda; I appreciate the elegance of functional programming and am committed to implementing testing frameworks like Jest or Cypress to ensure robust, error-free deployments. I am also familiar with the NodeJS ecosystem and using Git for version control.
+
+My degree has equipped me with advanced critical thinking and interpersonal skills, which are essential when navigating the complexities of API design and AWS infrastructure. I am an avid learner, constantly keeping up to date with modern CSS tools like SASS and Styled Components to deliver seamless user experiences. I am eager to leverage my strategic mindset and technical foundation to contribute to your team’s success. Thank you for your time and consideration. I look forward to discussing further.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in systems integration and testing, their background primarily focuses on marketing technology rather than direct web development with JavaScript, TypeScript, HTML, and CSS. They lack hands-on experience with modern front-end frameworks like React, and specific testing frameworks mentioned in the job description. Additionally, there is no mention of familiarity with CI/CD tools or the NodeJS ecosystem, which are important for this role.

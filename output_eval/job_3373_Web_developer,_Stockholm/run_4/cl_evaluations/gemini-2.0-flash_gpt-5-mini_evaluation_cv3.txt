@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web development principles and technologies. However, the cover letter reveals limited direct experience with the specific frameworks and tools outlined in the job description (React, TypeScript, Jest, Cypress, CI/CD pipelines). While eager to learn, the candidate's current skill set is not an immediate strong match for the listed requirements.

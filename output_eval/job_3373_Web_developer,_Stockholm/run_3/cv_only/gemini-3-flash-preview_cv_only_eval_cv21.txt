@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in the .NET ecosystem (C#, ASP.NET) and legacy frontend technologies like AngularJS and jQuery, failing to meet the core requirement for modern React and TypeScript expertise. They lack experience with essential tools mentioned in the job description, such as modern testing frameworks (Jest/Cypress), CI/CD pipelines, and AWS/Terraform infrastructure. While the candidate has relevant web development experience, their technical stack is significantly outdated compared to the requirements of this modern frontend role.

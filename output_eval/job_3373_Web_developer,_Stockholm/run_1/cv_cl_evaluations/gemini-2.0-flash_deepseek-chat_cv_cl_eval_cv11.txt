@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they express interest in React and possess some relevant skills like JavaScript and HTML, the resume lacks demonstrable experience with modern front-end frameworks. Their experience with testing frameworks is a plus, but the overall fit is weak for a front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive professional experience in the software industry, their background is primarily in Java/J2EE and legacy frontend technologies like jQuery and Struts. The job description specifically requires modern React and TypeScript expertise, which the candidate admits they are only currently "evolving" into rather than having professional-grade proficiency. Consequently, they lack the hands-on experience with the required modern ecosystem (Jest, Node.js, Ramda, SASS) to be considered a strong match.

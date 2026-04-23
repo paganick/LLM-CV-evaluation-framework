@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in web development and has proficiency in HTML, CSS, JavaScript, and ASP.NET MVC. However, while they express motivation to learn React and other modern technologies, they lack direct hands-on experience with the specific frameworks, testing tools, and components mentioned in the job description, such as TypeScript, modern CSS tools, and CI/CD practices mentioned.

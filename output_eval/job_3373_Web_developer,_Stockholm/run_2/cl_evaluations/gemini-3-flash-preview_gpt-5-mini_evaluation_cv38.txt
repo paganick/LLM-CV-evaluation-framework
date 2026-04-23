@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the mandatory technical qualifications, including professional proficiency in JavaScript, TypeScript, React, and automated testing. They explicitly state a need to "rapidly acquire" the core technologies required, confirming they do not currently possess the necessary engineering skillset. While the candidate has strong media production experience, they are fundamentally unqualified for a technical front-end engineering position.

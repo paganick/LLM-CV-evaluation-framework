@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in sales and management with no demonstrated professional experience in frontend development or required technologies (JavaScript/TypeScript, React, modern CSS, testing, Git, Node/NPM, etc.). There is only a single mention of "HTML" under desktop publishing, which does not evidence the technical skills, frameworks, or tooling required by the role. This candidate is therefore completely unqualified for the position.

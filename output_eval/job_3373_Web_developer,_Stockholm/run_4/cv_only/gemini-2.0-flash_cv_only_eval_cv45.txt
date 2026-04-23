@@ -1,0 +1,2 @@
+Score: [2]
+Reasoning: The candidate's resume focuses on IT program management, cybersecurity, and INFOSEC/NETOPS, lacking any mention of front-end technologies like JavaScript, React, or modern CSS tools. The skills listed are primarily related to security protocols, network defense, and budget management, which do not align with the job description's emphasis on front-end development and specific frameworks. The candidate's experience is in a different area of IT.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates core front-end fundamentals (HTML, CSS, JavaScript/TypeScript), Git familiarity, basic testing knowledge, and exposure to SASS and OWASP, which align with the role. However, they lack hands-on experience with the team's primary framework (React), practical test automation (unit/integration/E2E), and substantive NodeJS/CI-CD/API/AWS experience required for immediate contribution. Given relevant foundations but missing several key, role-critical skills, this profile is a moderate fit that would require significant upskilling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong, relevant transferable skills in testing, documentation, validation and cross-functional collaboration, but lacks demonstrated hands-on experience with core requirements: JavaScript/TypeScript, React, modern front-end toolchains, testing frameworks (Jest/Cypress/TestCafe), Git, modern CSS tooling, Node/npm, and CI/CD. For a role that requires immediate practical FE engineering skills and tooling familiarity, this profile is underskilled without evidence of concrete front-end experience or projects.

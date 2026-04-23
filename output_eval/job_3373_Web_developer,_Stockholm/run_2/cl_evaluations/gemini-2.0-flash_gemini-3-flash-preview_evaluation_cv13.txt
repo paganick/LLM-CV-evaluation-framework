@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate showcases front-end experience and project management skills, aligning with the collaborative Agile environment. However, the letter mentions jQuery and Angular, while the job description emphasizes React, and lacks explicit mention of Typescript, and the modern CSS tools the job description asks for. The cover letter also doesn't mention NodeJS, Express.js or functional programming experience which are listed as beneficial.

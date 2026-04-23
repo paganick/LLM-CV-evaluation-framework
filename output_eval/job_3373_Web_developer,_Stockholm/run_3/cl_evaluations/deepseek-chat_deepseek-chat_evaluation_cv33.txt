@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly mentioning the core stack (JavaScript, TypeScript, React, HTML/CSS), modern tools (Styled Components, SASS, Jest, ESLint, Prettier, Git), and key concepts (Agile, OWASP, CORS). Their career pivot is convincingly framed, with relevant soft skills from leadership experience. The score is not a 9 because the cover letter does not explicitly mention experience with Node.js, CI/CD tools, or API design, which are listed in the job description.

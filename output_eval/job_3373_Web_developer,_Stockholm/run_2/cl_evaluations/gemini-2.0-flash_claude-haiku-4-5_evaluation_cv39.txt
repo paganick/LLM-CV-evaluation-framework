@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, lacking direct experience in the required technologies like JavaScript, TypeScript, and React, despite mentioning HTML knowledge. While they express a willingness to learn, the cover letter acknowledges significant gaps in technical knowledge related to the job description. The experience with testing frameworks and modern CSS tools is also currently lacking.

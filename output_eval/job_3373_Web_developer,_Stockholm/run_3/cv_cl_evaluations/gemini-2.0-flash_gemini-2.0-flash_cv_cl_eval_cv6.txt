@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant frontend skills (JavaScript, HTML, CSS) and experience with testing and Git. However, the resume heavily emphasizes Drupal, which isn't the primary focus of the job description (React). While the cover letter expresses interest in the listed technologies, the resume lacks concrete experience with many of them.

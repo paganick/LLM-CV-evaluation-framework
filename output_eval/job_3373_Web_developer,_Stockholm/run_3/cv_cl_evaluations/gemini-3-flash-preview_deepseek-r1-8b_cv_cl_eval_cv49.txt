@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks any professional experience or demonstrated proficiency in the required frontend technical stack, including JavaScript, TypeScript, React, and CSS. Their entire background is in data science and industrial engineering, and the cover letter confirms they have yet to acquire the core competencies requested. This profile is completely unqualified for a software engineering role focused on web development.

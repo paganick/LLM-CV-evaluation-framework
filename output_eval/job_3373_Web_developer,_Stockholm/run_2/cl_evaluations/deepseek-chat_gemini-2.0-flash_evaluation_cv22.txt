@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from an unrelated field and lacks the required hands-on experience with JavaScript, TypeScript, React, testing frameworks, and other core technologies listed in the job description. While they demonstrate foundational knowledge in HTML/CSS and transferable skills like database design and collaboration, their technical qualifications are insufficient for the role. The letter expresses eagerness to learn but does not provide evidence of proficiency in the specific, modern frontend tools and practices demanded by the position.

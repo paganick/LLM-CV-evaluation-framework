@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a completely different technology stack (Mainframe, COBOL, DB2) with only foundational knowledge of the required frontend technologies. While they demonstrate strong analytical skills and a willingness to learn, they lack hands-on experience with React, modern testing, Git, and the other specific tools and concepts listed in the job description. Their experience is relevant to software development but insufficiently aligned with the specific technical requirements for a Frontend Developer role.

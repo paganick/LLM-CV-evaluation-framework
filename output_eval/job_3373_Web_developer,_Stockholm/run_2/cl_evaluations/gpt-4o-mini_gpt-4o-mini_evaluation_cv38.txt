@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in web technologies and a collaborative background in media production, which is valuable. However, they lack specific hands-on experience with the modern frameworks and tools mentioned in the job description, such as Jest or Cypress for testing, and they do not mention familiarity with CSS tools like Styled Components or SASS. This oversight indicates a gap in the practical experience required for the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend development and test automation, particularly with the technologies mentioned in the job description like JavaScript, React, and testing frameworks. However, they lack direct experience with some modern tools specified, such as TypeScript, and do not mention familiarity with essential frameworks like Jest or CI/CD tools like CircleCI, which could enhance their suitability for the position.

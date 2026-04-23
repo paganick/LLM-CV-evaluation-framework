@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not a hands-on front-end developer, which is the core requirement. While they mention some relevant technologies (JavaScript, Angular, Git), their resume lacks demonstrable, recent hands-on coding experience with React, TypeScript, and modern testing frameworks as specified. The cover letter attempts to bridge the gap but does not provide concrete evidence of the deep technical proficiency required for the role.

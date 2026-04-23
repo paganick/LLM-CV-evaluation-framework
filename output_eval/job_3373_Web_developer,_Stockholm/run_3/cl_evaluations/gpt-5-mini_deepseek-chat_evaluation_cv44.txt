@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid HTML/CSS, design and UX experience and some exposure to React and testing principles, and fits the collaborative/Agile aspects of the role. However, the letter lacks concrete, verifiable hands-on experience with key requirements such as TypeScript, test automation (unit/integration/E2E), Git/GitHub workflows, the Node.js/npm ecosystem, CI/CD, and web security practices, so they are not yet a strong technical match.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in web development and front-end technologies, specifically JavaScript and HTML/CSS. However, they lack strong hands-on experience with modern frameworks like React, which is essential for the role, as well as specific testing frameworks requested in the job description. Their knowledge of other mentioned technologies is not sufficiently demonstrated to warrant a higher score.

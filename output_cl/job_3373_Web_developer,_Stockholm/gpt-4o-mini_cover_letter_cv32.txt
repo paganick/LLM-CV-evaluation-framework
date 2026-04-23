@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Frontend Developer position that emphasizes JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, which aligns perfectly with my career aspirations. Though my professional background is rooted in customer service and management, I am eager to pivot into the tech industry, leveraging my strong analytical and communication skills developed through years of hands-on experience.
+
+My extensive experience in sales and customer support has honed my ability to understand complex client needs and foster collaborations within diverse teams. I truly enjoy working in Agile environments, where flexibility and adaptability are key. My passion for learning will drive me to master critical frontend technologies such as React, and familiarize myself with tools like Jest, ESLint, and Prettier to ensure the delivery of clean, maintainable code.
+
+I possess a foundational knowledge of web security issues including OWASP, CORS, and OAuth, which I consider essential for creating secure applications. My interest in continuous improvement and staying up to date with the latest technologies ensures that I can contribute effectively to your team while also expanding my skill set in areas like API design, AWS, and Terraform.
+
+As a manager, I prioritized effective communication and building motivated teams. These collaborative skills will help me interact effectively with both internal teams and external partners. I am enthusiastic about understanding the broader context of our work and how different platforms interconnect.
+
+I am particularly drawn to your emphasis on test automation, as my analytical background nurtures a strong focus on detail and quality assurance. I am committed to developing high-quality, user-centric applications and look forward to applying my strong project management skills to ensure timely and coherent delivery.
+
+I am eager to bring my dedication and experience from customer-focused environments into the tech world. Thank you for considering my application. I am excited about the possibility of contributing to your team and am enthusiastic about the challenges ahead.
+
+Sincerely,  
+Alexis

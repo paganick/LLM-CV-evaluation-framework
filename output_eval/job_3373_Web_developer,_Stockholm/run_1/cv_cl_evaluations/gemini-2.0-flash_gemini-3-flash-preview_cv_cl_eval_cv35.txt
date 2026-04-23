@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not software engineering. While they express interest in frontend technologies and related concepts, the resume lacks concrete experience with JavaScript, TypeScript, React, and other core requirements. Their experience with HTML/CSS appears limited to marketing contexts.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a professional Frontend Developer role, as their background is almost entirely in administrative management, arts, and plant operations. There is no evidence of professional experience with JavaScript, TypeScript, React, or any of the modern testing and CI/CD tools required by the job description. The resume lacks the fundamental engineering experience necessary to fulfill the technical demands of this position.

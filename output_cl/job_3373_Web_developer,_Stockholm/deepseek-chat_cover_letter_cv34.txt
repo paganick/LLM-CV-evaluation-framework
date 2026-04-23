@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my recent title has been Implementation Consultant, my career has been fundamentally built on bridging technical solutions with client needs, a skill set I am eager to apply directly to your development team. My background is not just in project management and Salesforce Marketing Cloud, but in the hands-on application of core web technologies—HTML, CSS, and SQL—to build, configure, and troubleshoot sophisticated digital solutions.
+
+Your requirement for a strong collaborator comfortable in Agile environments resonates deeply. For over a decade, I have led consultative engagements, working closely with cross-functional internal teams and external client partners to define requirements, manage scope, and deliver tailored software implementations. This has honed my ability to translate business needs into technical specifications, a process akin to understanding product requirements in a development sprint. My experience crafting detailed requirements documentation, designing solution flow diagrams, and creating comprehensive test plans for User Acceptance Testing (UAT) directly parallels the need for clear communication and quality assurance in a software development lifecycle.
+
+My technical foundation is rooted in web technologies. I have practical experience coding HTML and CSS for website maintenance and customization within Dot Net Nuke and WordPress frameworks. While I am proficient in the Salesforce ecosystem, I have a foundational knowledge of SQL for data querying and a genuine passion for clean, functional code. I am actively transitioning my career into full-time development, and your tech stack is precisely where I am focusing my upskilling efforts. I am diligently building modern projects with React, TypeScript, and SASS, and I understand the critical importance of testing, security principles (like OWASP and CORS), and version control with Git—concepts I’ve applied in a different context while managing implementation integrity and data security for enterprise clients.
+
+My genuine passion for writing, evident in my English degree and meticulous project documentation, translates into a commitment to writing clear, maintainable code. I am a keen learner, currently studying for my PMP and consistently updating my technical skills, and I am keen to understand the full domain of your platforms. I am confident that my unique blend of client-facing problem-solving, technical aptitude, and dedication to quality would make me a valuable and collaborative addition to your engineering team.
+
+Thank you for your time and consideration. I look forward to discussing how my background in delivering complex technical solutions can contribute to your development goals.
+
+Sincerely,
+Alexis

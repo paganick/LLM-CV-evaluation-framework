@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, possessing a background exclusively in film and media production rather than software engineering. They lack all required technical skills, including JavaScript, TypeScript, React, and automated testing, making them an unsuitable match for this professional frontend role. The resume provides no evidence of professional experience with the modern web development stack or the technical domain specified.

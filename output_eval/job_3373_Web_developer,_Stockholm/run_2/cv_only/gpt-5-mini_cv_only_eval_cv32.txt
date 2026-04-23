@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume contains no technical or front-end development experience (no JavaScript/TypeScript, React, HTML/CSS, testing, Git, Node, or related tools) and instead shows a background exclusively in customer service, sales, and retail/operations management. There is no evidence of relevant education, projects, certifications, or transferable technical skills required by the job. Therefore the candidate is completely unqualified for this frontend engineering role.

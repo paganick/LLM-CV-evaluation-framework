@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive Java/J2EE experience, Agile background, and familiarity with Git and unit testing, their resume shows only legacy/frontend work (jQuery, JSP, Bootstrap) and no demonstrated experience with React, TypeScript, modern testing frameworks, NodeJS, or modern CSS tooling. They also lack documented knowledge of web security practices (CSP/CORS/OAuth), CI/CD, and other tooling explicitly required by the role. Overall they are in the relevant industry but lack the specific frontend skills to be a strong match.

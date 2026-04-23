@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Computer Science degree and some experience with HTML and CSS, but lacks the required JavaScript, TypeScript, and modern FE frameworks like React. Their experience is primarily in design, UX, and presentation, not front-end development. The cover letter attempts to bridge the gap, but the resume doesn't demonstrate sufficient coding experience or familiarity with the required technologies.

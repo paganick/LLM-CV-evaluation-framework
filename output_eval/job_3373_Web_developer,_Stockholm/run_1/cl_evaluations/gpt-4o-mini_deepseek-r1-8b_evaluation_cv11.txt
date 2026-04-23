@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software testing and familiarity with the necessary front-end technologies; however, they lack specific hands-on experience with modern front-end frameworks such as React, which is crucial for this role. Additionally, knowledge of other modern CSS tools, testing frameworks beyond basic ones, and CI/CD tools mentioned in the job description is not clearly demonstrated. The passion for clean code and collaboration is noted, but the gaps in required skills result in a score of 5.

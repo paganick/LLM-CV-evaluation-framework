@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media production, not software development, and they lack any demonstrable professional experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing, Git, etc.). While they express enthusiasm and transferable soft skills, they are a career changer with no proven technical skills for this specific frontend developer role, making them completely unqualified for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights IT support experience, which is not the primary focus of the job description. The listed technical skills (Point of Sale systems, Windows Server 2003) do not align well with the required front-end development skills (React, JavaScript, CSS). While the candidate expresses interest in modern technologies, their practical experience in the specified areas seems limited.

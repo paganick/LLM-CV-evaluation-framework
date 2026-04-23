@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights transferable skills but lacks the core technical skills (JavaScript, React, etc.) listed in the job description. While the candidate expresses a willingness to learn, there's no demonstrated experience in front-end development or the specific technologies mentioned, making them underqualified for the role as described. The experience is primarily in finance/operations, a mismatch for a front-end engineering position.

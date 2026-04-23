@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced web developer, but their expertise is heavily concentrated in Drupal, PHP, and jQuery rather than the modern React and TypeScript stack required for this role. There is no evidence of experience with mandatory tools such as Jest, Cypress, Node.js, or cloud infrastructure like AWS and Terraform. Consequently, the candidate lacks the specific technical proficiencies and framework knowledge essential for the position.

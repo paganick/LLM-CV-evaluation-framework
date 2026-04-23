@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a career in aerospace sales, business development, and quality engineering with no relevant software development experience. The cover letter claims proficiency in modern front-end technologies and practices, but these claims are entirely unsupported by the detailed work history, which lacks any mention of development, React, testing, or the other required technical skills. This is a severe mismatch, indicating a completely unqualified application for a senior front-end engineering role.

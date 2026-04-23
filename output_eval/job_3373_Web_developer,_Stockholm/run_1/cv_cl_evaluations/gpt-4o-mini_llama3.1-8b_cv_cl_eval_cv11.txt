@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software testing and quality assurance, including some exposure to web technologies. However, they lack direct experience with key requirements such as modern front-end frameworks like React, as well as testing frameworks specified in the job description. Additionally, their scripting knowledge is limited, and they do not demonstrate familiarity with concepts like CI/CD tools, API design, or security measures relevant to web applications.

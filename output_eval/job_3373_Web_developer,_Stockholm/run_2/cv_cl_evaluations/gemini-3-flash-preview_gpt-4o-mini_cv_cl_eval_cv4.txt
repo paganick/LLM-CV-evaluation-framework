@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over five years of professional experience in software development, their background is heavily focused on C#, .NET, and Python rather than the required modern frontend stack. The resume lacks any professional evidence of working with TypeScript or React, which are primary requirements for this role. Furthermore, many of the specific "nice-to-have" skills, such as CI/CD, AWS, and modern testing frameworks, are missing from their professional history.

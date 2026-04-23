@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in the .NET ecosystem, not the modern front-end stack specified. They lack direct experience with React, TypeScript, testing frameworks, and other key technologies from the job description. While they show eagerness to learn and have some transferable skills (Git, Agile), their current technical profile does not align with the role's core requirements.

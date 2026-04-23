@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemical sales, which is completely unrelated to the front-end engineering role. While they mention basic HTML and C++ from over a decade ago, they lack any experience with the required modern frameworks (React, Vue, Angular, Svelte), testing tools, or the specific technical ecosystem listed. The cover letter explicitly states they have no direct experience with the core technologies for the position.

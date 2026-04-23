@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive senior finance and operations experience and led several web-based projects, but lacks any evidence of hands-on frontend development skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git, or Node ecosystem experience required for this role. Their resume and technical skills list do not demonstrate coding, automated testing, or modern frontend toolchain familiarity, making them unsuitable for a frontend developer position despite strong project management and cross-team collaboration strengths.

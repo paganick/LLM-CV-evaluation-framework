@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all the core technical requirements, explicitly admitting a lack of proficiency in JavaScript, TypeScript, React, and testing frameworks like Jest and Cypress. While they have extensive experience in a related field (graphic design), they do not possess the hands-on engineering experience or the specific technical stack required for this role. As a career-changer, they would require significant training to meet the basic expectations of the position.

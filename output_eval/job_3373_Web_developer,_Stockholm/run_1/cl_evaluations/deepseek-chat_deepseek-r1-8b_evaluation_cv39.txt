@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic and web design, which is a relevant industry, but the cover letter fails to address the core technical requirements of the job. There is no mention of JavaScript, TypeScript, React, testing frameworks, or any of the specific tools and technologies listed. The letter emphasizes artistic vision and design tools, while the job description is heavily focused on front-end engineering, clean code, and specific technical stacks.

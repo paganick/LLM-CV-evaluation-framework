@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely centered on IT management, cybersecurity, and defense policy, with no documented professional history in frontend development. The resume fails to demonstrate any hands-on experience with the required tech stack, including JavaScript, React, or TypeScript, despite the claims made in the cover letter. As a result, the candidate is fundamentally unqualified for a software engineering role that necessitates deep technical expertise in modern web frameworks.

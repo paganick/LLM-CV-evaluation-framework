@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in systems administration and infrastructure, not frontend software development. The resume and cover letter lack any mention of the required technologies like JavaScript, React, TypeScript, or modern testing frameworks. While they have transferable skills, they are completely unqualified for this specific frontend engineering role.

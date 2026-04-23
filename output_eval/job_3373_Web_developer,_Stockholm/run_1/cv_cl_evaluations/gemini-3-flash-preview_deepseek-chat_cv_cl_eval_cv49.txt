@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with a background in Industrial and Mechanical Engineering, lacking any professional experience or documented projects in frontend development. While the cover letter claims proficiency in JavaScript and React, the resume provides no evidence of these skills, instead focusing entirely on statistical modeling, R, and Python for data science. This candidate fails to meet the basic technical requirements and hands-on experience criteria for a Frontend Developer role.

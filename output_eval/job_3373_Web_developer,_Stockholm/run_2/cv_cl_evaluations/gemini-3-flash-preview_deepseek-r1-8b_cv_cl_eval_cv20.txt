@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the core requirements of React and TypeScript, relying instead on an outdated stack of jQuery and ASP.NET from 2016. There is no evidence of proficiency in modern CSS tools, automated JavaScript testing frameworks, or the Node.js ecosystem mentioned in the job description. While the candidate has basic web knowledge and Agile experience, their technical skills do not align with the modern front-end environment required for this role.

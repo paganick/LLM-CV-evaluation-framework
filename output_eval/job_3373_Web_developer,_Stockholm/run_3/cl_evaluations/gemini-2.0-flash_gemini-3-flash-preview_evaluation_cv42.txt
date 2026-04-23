@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct frontend development experience. While the letter highlights project management and system automation skills, it doesn't demonstrate proficiency in JavaScript, React, or other frontend technologies listed in the job description. The applicant attempts to bridge their experience to the requirements, but evidence of the core technical skills is missing.

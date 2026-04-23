@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a career in materials engineering and analytics with skills in manufacturing, Six Sigma, Tableau, and Excel, and shows no evidence of JavaScript/TypeScript, React (or other modern frontend frameworks), web testing frameworks, Node.js, Git/GitHub, CI/CD, or web security knowledge. The candidate is in a completely different industry and lacks the technical frontend/web development experience required for this role. There are no transferable software engineering credentials or projects listed to bridge this gap.

@@ -1,0 +1,2 @@
+Score: 6  
+Reasoning: The candidate possesses relevant experience in front-end development with JavaScript, HTML, and CSS, but lacks specific experience with TypeScript and modern testing frameworks mentioned in the job description. While they demonstrate a strong foundational knowledge and desire to specialize in modern front-end frameworks, their limited exposure to React and other technologies listed in the job posting holds them back from a higher score.

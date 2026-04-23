@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in executive administration and web design, indicating some relevant experiences; however, there is a lack of specific skills mentioned in JavaScript, TypeScript, modern front-end frameworks (other than a vague mention of React), and testing frameworks. While they demonstrate a willingness to learn, they do not meet the required technical qualifications expected for the role.

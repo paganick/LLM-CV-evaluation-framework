@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/J2EE, AngularJS, and performance testing, which is a different tech stack than the React-focused role requires. They mention foundational web skills (HTML, CSS, JS) and Agile/Git experience, but lack direct, hands-on experience with React, TypeScript, modern CSS tools, Node.js ecosystem, and the specific testing frameworks mentioned. While they show an eagerness to learn, their professional background does not align with the specific technical requirements of the position.

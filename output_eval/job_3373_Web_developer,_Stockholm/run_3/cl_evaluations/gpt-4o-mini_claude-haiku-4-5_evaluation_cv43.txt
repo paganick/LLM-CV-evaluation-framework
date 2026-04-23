@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate shows relevant experience in program management and a strong analytical background, which are beneficial for a frontend development role. However, they lack hands-on experience with key technologies such as testing frameworks, Git, and modern CSS tools mentioned in the job description, which limits their qualification for this specific role.

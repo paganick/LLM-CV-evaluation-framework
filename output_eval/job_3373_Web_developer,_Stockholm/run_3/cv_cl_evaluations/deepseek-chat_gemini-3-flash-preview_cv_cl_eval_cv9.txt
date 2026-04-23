@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong backend Java background with relevant soft skills and exposure to Agile environments, but lacks the core frontend experience required. The job description demands hands-on expertise with React, modern CSS tools, and specific testing frameworks (Jest, Cypress), which are not demonstrated in the candidate's professional history. While they mention JavaScript and security concepts, their resume shows no production experience with modern frontend frameworks, making them a poor technical fit for a Frontend Engineer role.

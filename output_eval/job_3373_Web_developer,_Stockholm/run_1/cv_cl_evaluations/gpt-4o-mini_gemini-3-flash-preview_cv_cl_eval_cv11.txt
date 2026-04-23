@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in software testing and quality assurance with relevant experience in JavaScript, HTML, and CSS. They express a keen interest in transitioning to development with a focus on writing clean code and have an understanding of web security protocols. However, they lack direct experience with modern front-end frameworks like React, which is essential for the role, and more specific knowledge of testing frameworks mentioned in the job description.

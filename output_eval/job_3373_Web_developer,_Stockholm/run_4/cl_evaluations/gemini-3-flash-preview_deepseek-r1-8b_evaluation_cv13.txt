@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Technical Project Manager whose experience focuses on oversight and sprint planning rather than professional, hands-on software engineering. They fail to demonstrate practical experience with essential requirements such as web security (OWASP/OAuth), specific testing frameworks, CI/CD pipelines, or functional programming. While the candidate has relevant industry exposure, they lack the verified technical depth and coding-centric background necessary for a dedicated JavaScript/TypeScript developer role.

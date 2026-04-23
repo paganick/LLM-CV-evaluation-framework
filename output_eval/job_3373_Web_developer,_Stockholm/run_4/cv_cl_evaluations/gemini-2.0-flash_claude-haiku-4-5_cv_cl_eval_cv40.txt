@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in product management, lacking the hands-on frontend development experience required for the role. While the cover letter mentions familiarity with React-based workflows and testing frameworks, the resume doesn't showcase concrete coding skills or projects. The candidate's technical foundation is weak and does not align with the job description's requirement for proficiency in JavaScript, TypeScript, and modern frontend frameworks.

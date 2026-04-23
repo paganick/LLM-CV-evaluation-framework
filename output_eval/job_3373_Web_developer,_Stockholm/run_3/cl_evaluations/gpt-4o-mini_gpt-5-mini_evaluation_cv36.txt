@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and transferable skills from their microbiology and validation background, demonstrating strong collaboration and testing capabilities. However, they lack direct experience with modern front-end frameworks like React and the specific technologies mentioned in the job description, such as JavaScript, TypeScript, and CSS tools. Their motivation to learn these technologies is noted, but practical experience is essential for the role.

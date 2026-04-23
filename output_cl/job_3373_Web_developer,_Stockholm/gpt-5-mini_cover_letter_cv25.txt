@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am an experienced graphic designer and art director with over sixteen years of hands-on experience creating visual systems, marketing collateral, and user-facing web graphics. My background combines a strong design sensibility, meticulous attention to detail, and a practical familiarity with HTML and CSS that I am eager to apply in a front-end engineering role.
+
+Throughout my career I have designed web pages, graphic elements and infographics for email newsletters and corporate websites, developed templates for e-newsletters, presentations and reports, and created assets optimized for both print and digital delivery. I have practical experience with HTML coding, CSS, Dreamweaver and the Adobe Creative Suite, and I have routinely preflighted and optimized artwork to produce high-quality, production-ready files. These responsibilities required an appreciation for layout, accessibility, file weight and consistent implementation of brand guidelines—qualities that align with modern front-end priorities.
+
+I am accustomed to working in fast-paced, deadline-driven environments and collaborating closely with cross-functional teams. My roles frequently required coordinating with content production and delivery managers, contributing to strategic brainstorming sessions, and offering direction to other designers. I prioritize competing workloads effectively, communicate clearly with stakeholders, and take responsibility for delivering high-quality results on schedule.
+
+Although my formal title has been in design, I am a quick learner with a genuine passion for clean, maintainable work. I am excited about the opportunity to bridge my visual design expertise with modern front-end development practices, and I am committed to learning relevant technologies, tooling and testing approaches to contribute effectively to a React-based codebase and an Agile workflow.
+
+Complementing my hands-on experience is a Bachelor of Science in Journalism with a concentration in Marketing from Texas A&M University, where I developed strong communication, research and audience-centered storytelling skills. I bring advanced typography knowledge, meticulous production standards and an ability to distill complex information into clear visual messaging. I excel at multi-tasking under pressure, mentoring peers and contributing constructive feedback. I am enthusiastic about expanding my technical skill set—adopting modern front-end tooling, testing practices and collaborative workflows—to help deliver reliable, user-focused products.
+
+I value measurable impact and iteration.
+
+I would welcome the chance to bring my visual craft, meticulous production habits and collaborative approach to your team. Thank you for considering my application. I look forward to the opportunity to discuss how my background in creating clear, consistent and optimized visual experiences can support your front-end work.
+
+Sincerely, Alexis

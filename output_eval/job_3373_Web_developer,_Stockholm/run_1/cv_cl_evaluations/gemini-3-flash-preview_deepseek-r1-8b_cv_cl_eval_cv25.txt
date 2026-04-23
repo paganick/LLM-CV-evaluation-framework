@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer with a background in print and visual layout, which is fundamentally different from the required Senior/Mid-level Software Engineering profile. They lack experience with essential technologies like JavaScript, TypeScript, React, and automated testing frameworks, as well as backend and infrastructure tools like NodeJS and AWS. While the candidate possesses basic HTML/CSS knowledge, their career trajectory and skill set do not align with the technical demands of a frontend developer.

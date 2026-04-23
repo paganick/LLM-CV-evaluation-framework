@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with HTML, CSS, and JavaScript, as well as testing frameworks and Git. However, the resume lacks concrete frontend development experience with modern frameworks like React, which is the company's framework of choice. While the cover letter expresses enthusiasm, the candidate's background is primarily in IT management and cybersecurity, not frontend engineering.

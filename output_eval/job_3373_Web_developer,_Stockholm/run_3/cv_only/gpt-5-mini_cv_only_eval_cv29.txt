@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a career in sales, marketing and business development with no demonstrated hands-on experience in front-end engineering technologies (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, NodeJS, or CI/CD/AWS tooling required by the role. It lists CRM and product/marketing skills but contains no engineering roles, code samples, or technical depth relevant to the position. Therefore the candidate is completely unqualified for this frontend developer position.

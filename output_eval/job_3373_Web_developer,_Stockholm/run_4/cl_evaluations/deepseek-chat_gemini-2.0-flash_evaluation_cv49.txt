@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analysis, not front-end development, and the cover letter fails to demonstrate any hands-on experience with the required technologies listed in the job description (e.g., JavaScript, TypeScript, React, testing frameworks). While they express interest and highlight transferable soft skills, there is no concrete evidence of technical proficiency in the core front-end stack. The letter is aspirational but does not prove qualification for the role's specific technical demands.

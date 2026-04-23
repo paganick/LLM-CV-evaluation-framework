@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in digital communications and relevant front-end development skills, including expertise in JavaScript, TypeScript, React, and modern CSS methodologies. They demonstrate a solid understanding of Agile collaboration and a genuine passion for writing clean code, aligning well with the job requirements. However, there is no mention of familiarity with specific tools such as CI/CD, Ruby, or certain testing frameworks, which slightly lowers their score.

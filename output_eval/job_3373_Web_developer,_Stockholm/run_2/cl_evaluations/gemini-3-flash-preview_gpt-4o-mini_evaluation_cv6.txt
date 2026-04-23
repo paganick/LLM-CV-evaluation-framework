@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant industry experience in web development and automated testing but lacks the mandatory expertise in React and TypeScript. By explicitly stating a need to learn the primary framework utilized by the team, the candidate fails to meet the specific technical requirements for a professional frontend role. Additionally, their background is heavily centered on CMS-based development rather than the modern frontend libraries and functional programming tools requested.

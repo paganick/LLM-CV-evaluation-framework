@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a broad IT background but lacks the specific, modern frontend development experience required. The job description emphasizes React, TypeScript, modern testing frameworks, and functional programming, none of which are demonstrated in the resume or cover letter with concrete examples. While the candidate shows foundational web skills and a willingness to learn, their professional experience is outdated and not aligned with the role's core technical stack.

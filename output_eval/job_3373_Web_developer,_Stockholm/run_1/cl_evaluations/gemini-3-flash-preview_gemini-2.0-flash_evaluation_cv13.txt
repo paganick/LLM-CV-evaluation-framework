@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant experience in web development and Agile methodologies, they lack the specific technical mastery required for this role. They do not mention TypeScript, testing frameworks, or security protocols, and they admit to being a beginner in React, which is the core framework for the position. Furthermore, their recent focus as a Project Manager indicates a lack of current, hands-on engineering depth compared to the "clean code" requirements.

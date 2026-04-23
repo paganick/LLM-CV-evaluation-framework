@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with no professional experience in frontend development and lacks nearly all the mandatory technical requirements, including JavaScript, TypeScript, and React. Their background is almost entirely in media planning and marketing, and their technical exposure is limited to academic projects in Java and SQL. There is no evidence of proficiency in modern CSS tools, testing frameworks, or CI/CD pipelines as required by the job description.

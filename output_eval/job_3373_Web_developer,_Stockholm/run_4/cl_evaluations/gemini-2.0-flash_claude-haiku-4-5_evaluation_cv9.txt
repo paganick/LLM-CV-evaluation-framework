@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background primarily in backend development, which is a mismatch for a frontend role. While they express a passion for learning and have some familiarity with JavaScript, their experience with React and other key frontend technologies seems limited. Their experience with testing and security is valuable, but the lack of direct frontend experience is a significant concern.

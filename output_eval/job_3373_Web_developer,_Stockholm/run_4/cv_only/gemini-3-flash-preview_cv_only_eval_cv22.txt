@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing and media professional with no professional experience in modern frontend development, lacking essential requirements such as React, TypeScript, and testing frameworks. Their technical background is limited to basic academic projects and database management, which does not align with the specialized engineering needs of this role. Furthermore, the candidate explicitly states an interest in database-focused roles rather than the frontend engineering track requested.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant skills in front-end development with a focus on HTML, CSS, and JavaScript, and mentions experience with Git and some tools. However, they lack direct hands-on experience with React, modern CSS frameworks like Styled Components, and the specific testing frameworks mentioned in the job description. Additionally, the candidate's background in media planning may hinder their immediate impact in a technical role.

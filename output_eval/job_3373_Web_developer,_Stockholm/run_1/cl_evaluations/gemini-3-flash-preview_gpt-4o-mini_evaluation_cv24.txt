@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the essential technical proficiency required for this role, specifically missing professional experience with JavaScript, TypeScript, and the React framework. Their background is primarily in digital communications rather than software engineering, and they admit to being in the early stages of learning the necessary testing frameworks, modern CSS tools, and security protocols. While they possess relevant soft skills and basic HTML/CSS knowledge, they do not meet the core technical requirements of the job description.

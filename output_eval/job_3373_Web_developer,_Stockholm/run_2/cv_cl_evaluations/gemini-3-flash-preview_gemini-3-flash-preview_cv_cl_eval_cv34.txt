@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the fundamental technical requirements for this role, with no professional experience in JavaScript, TypeScript, or React. Their background is centered on digital marketing implementation and email platform configuration rather than core software engineering. They fail to demonstrate proficiency in modern front-end testing, CI/CD pipelines, or functional programming as specified in the job description.

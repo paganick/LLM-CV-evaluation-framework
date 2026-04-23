@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering, but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for the role. Their background focuses more on hardware and electronics rather than modern software development practices and web technologies. While they do have experience with Python scripting and test automation, this does not align well enough with the specified requirements for a front-end development position.

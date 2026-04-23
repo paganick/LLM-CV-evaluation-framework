@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in software testing and has familiarity with some applicable technologies such as JavaScript and HTML. However, they lack specific mention of TypeScript, modern front-end frameworks like React, and testing frameworks like Jest or Cypress which are important for the role. Additionally, the cover letter does not address the need for experience with Git and CI/CD tools, which diminishes their alignment with the job description.

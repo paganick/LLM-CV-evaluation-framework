@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a professional software engineering role, lacking any demonstrated experience with the core technical requirements including JavaScript, TypeScript, and React. Their professional history is rooted in arts education and facilities management rather than software development, showing no evidence of experience with modern frontend toolchains, testing frameworks, or CI/CD practices. The resume reflects a total industry mismatch for the specific technical skills required by this position.

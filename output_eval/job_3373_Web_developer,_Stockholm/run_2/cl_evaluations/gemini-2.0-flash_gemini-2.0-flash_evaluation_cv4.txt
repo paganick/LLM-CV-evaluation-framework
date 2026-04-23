@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The cover letter demonstrates experience with JavaScript, HTML, and CSS, which are core requirements. It mentions testing and Agile environments, aligning with the job description. However, it lacks specific mention of React (the FE framework used), TypeScript, and some listed testing frameworks.

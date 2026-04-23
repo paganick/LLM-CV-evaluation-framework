@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in web development, Agile processes, and core technologies like JavaScript, HTML, CSS, and GitHub. However, they lack explicit, hands-on experience with key technologies from the job description, most notably React, TypeScript, and modern testing frameworks like Jest/Cypress, which are required. Their proven ability to learn quickly and foundational knowledge in security and testing make them a good, but not perfect, match for the role.

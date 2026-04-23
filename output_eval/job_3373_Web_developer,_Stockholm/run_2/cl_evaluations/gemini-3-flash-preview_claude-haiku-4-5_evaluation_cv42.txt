@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate possesses zero professional experience in frontend engineering and is currently in the early stages of a career transition from an unrelated industry. While they demonstrate maturity and transferable soft skills, they fail to meet the "hands-on" technical requirements for TypeScript, testing frameworks, and cloud infrastructure. For a role requiring established expertise in software architecture and modern development practices, this candidate is completely unqualified.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation specialist with no professional experience in software engineering or the required technical stack (JavaScript, TypeScript, React, NodeJS). While they possess strong transferable skills in systems integration and project management, they lack the fundamental coding expertise and direct experience with web development frameworks and testing libraries specified in the job description.

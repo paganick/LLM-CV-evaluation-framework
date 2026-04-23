@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is a career-changer whose primary professional experience is in hardware test engineering rather than dedicated front-end software development. While they possess strong testing credentials and foundational knowledge of the React ecosystem, they lack professional experience with key requirements such as functional programming, specific CSS tools, and cloud infrastructure. The application demonstrates theoretical knowledge but lacks the proven track record of a seasoned front-end developer in a production environment.

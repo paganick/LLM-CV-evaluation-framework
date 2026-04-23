@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in C#/.NET backend systems and data science, not in modern front-end development with React. The resume and cover letter lack concrete evidence of hands-on experience with React, TypeScript, modern CSS tools, testing frameworks, or the specific technologies listed in the job description. While they have some relevant foundational skills and soft skills, they do not meet the core technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong experience relevant to the Frontend Developer position, particularly in HTML, CSS, and accessibility. They also show familiarity with React, TypeScript, and testing frameworks, which aligns with the job requirements. However, there is no mention of experience with some specific technologies such as NodeJS and CI/CD tools, which prevents a perfect match score.

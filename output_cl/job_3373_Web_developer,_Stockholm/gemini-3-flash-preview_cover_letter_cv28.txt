@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in this Frontend Developer role. With a robust background as a Senior Materials Analyst at Nike and a degree in Metallurgy and Materials Engineering from the prestigious Colorado School of Mines, I offer a unique blend of analytical rigor and technical adaptability. My career has been defined by mastering complex systems from manufacturing processes to global quality metrics and I am eager to apply this engineering mindset to building robust web applications using React, TypeScript, HTML, and CSS.
+
+My tenure at Nike involved managing intricate data lifecycles and collaborating across global teams. Transitioning into software development is a natural extension of my passion for solving structural problems. I have dedicated myself to mastering the modern frontend stack, including JavaScript, React, and Svelte. I understand the importance of writing clean, maintainable code, a principle that mirrors the Lean Manufacturing and Six Sigma methodologies I utilized to save $800k in annual scrap costs. Just as I facilitated experiments to improve product flatness, I now apply that same precision to unit and E2E testing using tools like Jest and Cypress.
+
+I am highly comfortable in Agile environments, having spent years coordinating cross-functional projects between vendors, senior leadership, and product centers. My experience with Git and GitHub facilitates seamless collaboration, while my background in security audits provides a solid foundation for understanding Web security protocols such as CSP and OAuth. Furthermore, my familiarity with the NodeJS ecosystem and CI/CD tools like CircleCI ensures I can contribute effectively to the full development lifecycle.
+
+Beyond my technical proficiency, I am a "change agent" who thrives on learning new technologies. Whether mastering Tableau for statistical analysis or learning Terraform for cloud infrastructure, I approach every challenge with curiosity and a commitment to excellence. I am particularly drawn to your team's use of React and functional programming with Ramda, as I value the predictability and elegance of these patterns.
+
+I am confident that my proven ability to communicate complex concepts and my genuine passion for clean architecture make me a strong addition to your talented engineering team. I look forward to discussing how my diverse technical background can drive value for your projects.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe systems, which is a mismatch for the frontend developer role focused on modern JavaScript frameworks. While they express interest in React, TypeScript, and NodeJS, their experience is limited. Their skills lean heavily towards legacy technologies and database administration, not frontend development.

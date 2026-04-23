@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript and HTML, but lacks experience with modern FE frameworks, testing frameworks, and other tools mentioned in the job description. The cover letter admits a stronger background in server-side systems and databases. There is limited demonstrable experience with the specific technologies required for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the specific technical expertise required, most notably failing to mention proficiency in React and TypeScript, which are central to the role. Their background is heavily focused on .NET technologies rather than the modern JavaScript ecosystem, and they provide no evidence of experience with the requested security protocols, CSS preprocessors, or CI/CD tools. While they understand the SDLC, the lack of hands-on experience with the specified tech stack makes them an underqualified match for this position.

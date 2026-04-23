@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a project management professional in the technology sector but fails to demonstrate any hands-on experience with the mandatory coding stack, specifically React, TypeScript, and CSS. While they have overseen technical teams, the job description explicitly requires direct development expertise and the ability to write clean code, which the applicant's profile does not support. The candidate's background is administrative and oversight-oriented rather than the technical engineering required for this role.

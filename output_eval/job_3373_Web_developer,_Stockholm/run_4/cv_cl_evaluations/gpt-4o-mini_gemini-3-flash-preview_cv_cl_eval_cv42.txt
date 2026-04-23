@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in operations and project management but lacks the specific frontend development skills and technologies mentioned in the job description, such as JavaScript, React, and testing frameworks. While they demonstrate strong analytical and collaboration skills, their background does not align with the technical requirements needed for the frontend developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant client-facing implementation, HTML/CSS, QA, and documentation experience but lacks demonstrated hands-on JavaScript/TypeScript and React experience, exposure to the Node/npm ecosystem, modern CSS tooling (Styled Components/SASS), testing frameworks (Jest/Cypress) and Git/GitHub usage required for this role. They show strong collaboration and product-facing skills, but do not meet the core technical requirements and tooling experience expected for this front-end engineering position.

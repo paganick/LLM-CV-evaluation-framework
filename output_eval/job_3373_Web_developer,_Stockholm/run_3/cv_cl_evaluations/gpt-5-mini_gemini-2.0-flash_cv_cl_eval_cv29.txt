@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant cloud software industry and cross-functional collaboration experience but provides no demonstrable hands-on front-end skills (JavaScript/TypeScript, React, modern CSS, testing frameworks, NodeJS, CI/CD) required by the role. Their background is primarily business development/marketing and CRM administration rather than software engineering, indicating significant upskilling would be needed before they could contribute as a Front End Developer.

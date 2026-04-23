@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in engineering, quality assurance, and data analytics, with direct skills in HTML and C#. However, while they express familiarity with JavaScript, TypeScript, and React, they do not explicitly mention experience with all required modern frameworks or specific testing tools like Jest or Cypress. Their strong collaboration skills and analytical background align well with the job requirements, but further emphasis on specific technologies could improve their fit.

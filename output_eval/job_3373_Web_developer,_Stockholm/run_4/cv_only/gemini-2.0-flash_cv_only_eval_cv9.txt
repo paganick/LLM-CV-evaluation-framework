@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights Java/JEE experience, which is not the focus of the job description. While the resume mentions JavaScript and HTML, it lacks details on modern FE frameworks like React, VueJS, Angular, or Svelte as requested in the job description. The candidate also lacks experience in the specific testing frameworks and tools outlined.

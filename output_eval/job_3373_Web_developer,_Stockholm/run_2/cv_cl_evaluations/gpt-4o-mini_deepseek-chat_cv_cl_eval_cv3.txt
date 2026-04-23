@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant academic knowledge in HTML, CSS, and JavaScript, and demonstrates a strong enthusiasm for web development. However, they lack hands-on experience with key technologies mentioned in the job description, such as React, testing frameworks, and CI/CD tools, which are critical for the role. Their background in construction provides some transferable skills, but overall, they fall short of the technical requirements needed for a strong candidate.

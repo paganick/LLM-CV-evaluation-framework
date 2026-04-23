@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is entirely unqualified for this technical position, as their professional background is exclusively in business development and organic chemistry. They lack professional experience with the required modern frontend stack, including JavaScript, TypeScript, and React, and do not possess the necessary knowledge of testing frameworks, CI/CD, or cloud infrastructure. This profile represents a complete industry mismatch for a senior-level engineering role.

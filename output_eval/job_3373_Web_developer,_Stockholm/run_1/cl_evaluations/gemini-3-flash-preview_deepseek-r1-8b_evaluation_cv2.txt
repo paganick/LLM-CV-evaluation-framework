@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in the software industry and Agile methodologies, they lack professional, hands-on experience with the core technologies required, specifically JavaScript, TypeScript, and React. Their background is primarily in Java/J2EE, making their frontend skills theoretical or transitional rather than established. Additionally, the letter fails to address critical requirements such as web security (OWASP/CORS) and the specific testing/NodeJS ecosystem mentioned in the job description.

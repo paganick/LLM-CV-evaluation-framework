@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience with web development fundamentals and Agile methodologies. However, the cover letter lacks explicit mention of React, the framework specified in the job description, and only expresses an intention to "quickly master" it. While the candidate lists related technologies, they do not showcase experience with many tools specified such as testing frameworks, Linters and formatters, CI/CD tools and API design.

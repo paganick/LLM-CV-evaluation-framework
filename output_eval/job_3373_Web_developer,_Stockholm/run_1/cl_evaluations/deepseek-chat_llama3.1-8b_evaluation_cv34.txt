@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates several required technical skills, including React, Git, testing, and web security knowledge. However, the cover letter is heavily weighted toward email platform implementation (Salesforce, Adobe) and project management, with minimal direct evidence of the specific modern front-end tools, testing frameworks, and ecosystem technologies (e.g., TypeScript, CI/CD, Node.js, AWS) emphasized in the job description. The match is partial but lacks depth in the core stack.

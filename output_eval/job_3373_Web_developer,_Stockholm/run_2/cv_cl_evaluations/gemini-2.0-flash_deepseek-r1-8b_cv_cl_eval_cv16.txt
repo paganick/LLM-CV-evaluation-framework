@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with JavaScript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React as the job description requires, despite mentioning it in the cover letter. Their experience is primarily in .NET development, and they need to show more depth in modern frontend tools and testing. The resume demonstrates a lot of older tech.

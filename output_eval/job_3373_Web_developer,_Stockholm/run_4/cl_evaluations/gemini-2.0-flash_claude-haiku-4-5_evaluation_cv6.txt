@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of frontend technologies like React, HTML, CSS, and relevant tools such as Styled Components and SASS, aligning well with the job description. They also show experience with testing and Git. While the candidate mentions a full-stack background, the cover letter mainly focuses on frontend development, and lacks explicit expertise in CI/CD tools and AWS.

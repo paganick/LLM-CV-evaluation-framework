@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses five years of general experience in JavaScript, HTML, and CSS, they lack documented experience with any modern frontend frameworks, specifically React. The resume is heavily oriented toward C#/.NET and Data Science/Machine Learning, missing critical requirements such as TypeScript, testing automation, and CI/CD tools. Consequently, the candidate lacks the specific professional experience in the modern JavaScript ecosystem necessary for this role.

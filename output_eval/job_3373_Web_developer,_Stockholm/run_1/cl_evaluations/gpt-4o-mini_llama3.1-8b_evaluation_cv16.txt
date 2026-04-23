@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with JavaScript, TypeScript, HTML, and CSS, as well as familiarity with several modern front-end frameworks like React and testing frameworks. However, there is no mention of experience with Git, web security practices, or specific CI/CD tools mentioned in the job description, which slightly reduces the fit for the role.

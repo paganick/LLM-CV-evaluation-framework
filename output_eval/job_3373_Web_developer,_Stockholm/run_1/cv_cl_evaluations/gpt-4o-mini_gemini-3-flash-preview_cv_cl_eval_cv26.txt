@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in marketing and public relations, which is not directly relevant to the frontend engineering role. Although they mention competencies in JavaScript, TypeScript, and React, there is no solid evidence of hands-on development experience or familiarity with modern frontend frameworks and libraries as outlined in the job description. Additionally, specific testing and automation experience appears limited.

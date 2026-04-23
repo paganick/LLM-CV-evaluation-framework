@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a Frontend Developer role, as their professional history is entirely within program management and learning design rather than software engineering. While the cover letter mentions the required technologies, the resume shows no professional experience with JavaScript, React, TypeScript, or any modern web development frameworks, listing only intermediate R coding skills.

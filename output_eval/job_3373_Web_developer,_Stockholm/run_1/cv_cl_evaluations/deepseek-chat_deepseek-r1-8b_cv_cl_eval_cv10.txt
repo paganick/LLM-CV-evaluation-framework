@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a strong Java/J2EE back-end background with dated front-end experience (AngularJS), which does not align with the required modern React focus. The cover letter claims React and TypeScript proficiency, but these are not substantiated by the resume's listed technical skills or projects. While they have relevant foundational skills like Agile, Git, and testing, they lack demonstrated, current experience in the core technologies specified in the job description.

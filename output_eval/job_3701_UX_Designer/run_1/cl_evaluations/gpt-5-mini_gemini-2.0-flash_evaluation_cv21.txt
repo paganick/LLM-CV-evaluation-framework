@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design and data analysis experience but does not demonstrate the required 2-3 years of commercial UX design experience, nor any explicit experience with Agile delivery, Figma prototyping, user research methodologies, or managing a UX roadmap/team. Their front-end exposure is described as “basic” HTML/JavaScript and there is no evidence of running workshops, mentoring, or maintaining a UI Design System. Overall, skills shown are adjacent to UX but insufficient for this role’s core responsibilities.

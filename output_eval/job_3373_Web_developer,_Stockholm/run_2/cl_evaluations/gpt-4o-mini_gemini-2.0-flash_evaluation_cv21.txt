@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant skills in front-end technologies and Agile methodologies, they lack specific experience with React, testing frameworks, and modern CSS tools mentioned in the job description. Their background in C# and ASP.Net, while useful, does not directly align with the requirements of the position focused on JavaScript, TypeScript, and React. Overall, they demonstrate a foundational level of relevant experience but do not meet several key technical needs of the role.

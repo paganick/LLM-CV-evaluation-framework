@@ -1,0 +1,2 @@
+Score: [7]
+Reasoning: The candidate possesses relevant sales and marketing experience, particularly in new business development and client relationship management. They demonstrate experience in digital media and marketing strategy, aligning with the digital solutions focus of the role. However, the resume lacks explicit experience with Application Services (API, Cloud, DevOps, Microservices) or Business Analytics (BigData, Data Science), which are listed as requirements.

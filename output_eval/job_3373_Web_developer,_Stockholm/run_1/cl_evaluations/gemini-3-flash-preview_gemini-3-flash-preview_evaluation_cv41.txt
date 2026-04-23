@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in systems engineering and IT infrastructure, they lack demonstrated professional experience with the core requirements of React, TypeScript, and modern frontend development. Their knowledge of the requested testing frameworks and functional programming appears theoretical or aspirational rather than proven through hands-on software engineering roles. Consequently, the candidate requires significant upskilling to meet the technical demands of this specific position.

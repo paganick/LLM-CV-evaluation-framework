@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in administrative and artistic roles rather than a technical focus in front-end development. Although they possess basic knowledge of HTML and express a willingness to learn JavaScript and React, they lack the requisite experience with testing frameworks, modern front-end libraries, and other specific technical skills outlined in the job description. Their adaptability and project management experience may be advantageous, but they do not meet the core technical competencies required for the position.

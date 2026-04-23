@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong relevant background in software engineering, Agile collaboration, and core web technologies, aligning well with the role's fundamentals. However, the cover letter lacks explicit, hands-on experience with key required technologies like React, modern CSS tools (SASS/Styled Components), and specific testing frameworks (Jest, Cypress). While the candidate demonstrates a keen ability to learn and a solid foundational overlap, the direct, proven experience with the primary tech stack is not clearly stated.

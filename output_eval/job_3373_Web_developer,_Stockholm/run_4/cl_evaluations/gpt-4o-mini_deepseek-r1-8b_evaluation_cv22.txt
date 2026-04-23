@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience and education in software development, specifically in database systems and backend technologies, which aligns with some of the job requirements. However, they lack significant hands-on experience with the modern frontend frameworks and libraries mentioned in the job description, such as React, and do not demonstrate proficiency with testing frameworks or other specific tools that are emphasized by the employer.

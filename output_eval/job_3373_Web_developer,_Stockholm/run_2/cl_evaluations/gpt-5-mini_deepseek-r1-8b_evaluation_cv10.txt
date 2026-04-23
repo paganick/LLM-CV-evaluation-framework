@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates core frontend skills (JavaScript, TypeScript, HTML, CSS, React) plus testing experience, Git, and Agile collaboration which align with the role's fundamentals. However, they do not provide evidence of several important required or preferred items (modern CSS tools like Styled Components/SASS, specific testing frameworks, NodeJS/npm ecosystem, linters/formatters, Ramda/functional programming, CI/CD, AWS/Terraform, web security and API design), so they are relevant but lack multiple specific experiences needed for a strong match.

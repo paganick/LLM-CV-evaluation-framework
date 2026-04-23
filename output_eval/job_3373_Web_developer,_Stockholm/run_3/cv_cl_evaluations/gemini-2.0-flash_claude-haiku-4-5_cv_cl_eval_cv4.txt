@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of Javascript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React, which is a core requirement. Their experience leans heavily on C# and Python, requiring a significant shift in focus. While they express eagerness to learn, the resume lacks concrete examples of modern front-end testing or CI/CD tools.

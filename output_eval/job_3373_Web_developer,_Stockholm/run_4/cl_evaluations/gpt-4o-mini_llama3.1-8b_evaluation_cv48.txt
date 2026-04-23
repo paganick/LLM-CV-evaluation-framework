@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant experience in IT support and customer service, they lack direct experience with key requirements such as JavaScript, modern front-end frameworks like React, and testing automation tools. Additionally, there is no mention of familiarity with Git, security knowledge, or experience with CI/CD tools, which are critical for the position. Therefore, they demonstrate relevant experience but fall short of the specific skills needed for this role.

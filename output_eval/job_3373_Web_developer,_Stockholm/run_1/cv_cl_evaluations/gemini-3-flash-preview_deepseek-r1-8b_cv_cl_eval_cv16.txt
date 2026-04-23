@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's profile is heavily centered on legacy .NET development and jQuery, lacking the required professional experience with modern frameworks like React and TypeScript. There is no documented evidence of proficiency with modern testing tools (Jest, Cypress), CI/CD pipelines, or functional programming as specified in the job description. Furthermore, the professional experience listed is significantly outdated, with no recent history to demonstrate mastery of the current frontend ecosystem.

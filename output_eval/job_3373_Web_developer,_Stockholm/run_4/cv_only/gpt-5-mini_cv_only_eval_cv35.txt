@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has deep marketing automation and integration experience (Eloqua, Salesforce) but provides no evidence of core front-end development skills required by the role—no JavaScript/TypeScript, React, HTML/CSS, Node, or modern front-end tooling listed. Their testing and QA experience appears specific to marketing platforms rather than unit/integration/E2E front-end test frameworks, and there is no mention of Git/GitHub, CI/CD, or cloud/infra experience. Overall, this is the wrong industry/skillset for the position.

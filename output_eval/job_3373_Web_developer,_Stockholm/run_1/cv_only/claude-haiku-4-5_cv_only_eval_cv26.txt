@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in marketing, communications, public relations, legal administration, and event planning with no software development experience whatsoever. There is zero evidence of proficiency in JavaScript, TypeScript, React, or any of the required technical skills listed in the job description. This candidate is completely unqualified for a frontend engineer position and belongs in a different industry entirely.

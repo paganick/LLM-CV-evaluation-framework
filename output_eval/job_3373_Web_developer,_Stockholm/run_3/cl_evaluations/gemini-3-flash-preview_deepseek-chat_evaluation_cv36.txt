@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a strong theoretical grasp of the required tech stack, specifically mentioning React, TypeScript, Jest, and security protocols like OWASP. However, they lack any professional experience as a developer, with their technical background being entirely self-directed rather than proven in a production environment. While their expertise in regulated industries is a transferable asset, a strict evaluation must prioritize candidates with a documented track record of professional software engineering.

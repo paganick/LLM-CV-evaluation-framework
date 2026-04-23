@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong, lengthy background in visual and product design and basic HTML, but lacks hands-on experience with core frontend technologies required by the role (JavaScript/TypeScript, React), testing frameworks, Git, Node ecosystem, and web security practices. They express willingness to learn but currently do not meet the technical prerequisites and would require significant upskilling before being effective in this position.

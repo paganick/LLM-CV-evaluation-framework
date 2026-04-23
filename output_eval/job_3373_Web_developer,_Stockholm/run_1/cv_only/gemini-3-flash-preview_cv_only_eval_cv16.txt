@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web development and Agile methodologies but lacks any professional experience with the required modern stack, specifically React and TypeScript. Their technical expertise is heavily centered on the .NET ecosystem and legacy frontend libraries like jQuery, which does not align with the modern JavaScript/TypeScript requirements. Furthermore, the resume shows no evidence of automated testing, CI/CD, or cloud infrastructure skills, and the professional experience listed is significantly dated.

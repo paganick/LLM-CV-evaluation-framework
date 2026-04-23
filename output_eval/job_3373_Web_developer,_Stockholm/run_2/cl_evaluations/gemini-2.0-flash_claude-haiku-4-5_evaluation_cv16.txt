@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has experience in web development and some relevant technologies like JavaScript, HTML, and CSS, their primary experience lies outside the React ecosystem specified in the job description. The candidate acknowledges a .NET-focused background, which requires a significant transition. Although they express enthusiasm for learning React, the lack of direct experience is a considerable gap.

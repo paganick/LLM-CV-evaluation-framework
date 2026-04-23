@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant analytical and technical aptitude but lacks direct, professional front-end engineering experience with the required technologies (JavaScript/TypeScript, React, modern CSS). Their background is heavily skewed toward data analysis, research, and quality assurance, not building user-facing applications. While they express enthusiasm to learn, the job requires hands-on experience they have not demonstrated.

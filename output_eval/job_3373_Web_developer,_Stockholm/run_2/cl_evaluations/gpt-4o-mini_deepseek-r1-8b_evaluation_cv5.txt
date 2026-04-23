@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in complex system development and experience in the banking sector but lacks specific hands-on experience with modern front-end frameworks and libraries, particularly React, which is emphasized in the job description. While the ability to learn new technologies is noted, the absence of familiarity with key tools and frameworks stated in the listing, such as testing automation frameworks and modern CSS tools, limits their suitability for this role.

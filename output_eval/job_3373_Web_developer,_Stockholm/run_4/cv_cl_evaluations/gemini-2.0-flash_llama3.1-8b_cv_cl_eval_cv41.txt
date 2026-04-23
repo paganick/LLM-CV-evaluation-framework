@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in systems administration, not front-end development. While they express interest in modern FE frameworks, the resume lacks any demonstrable experience with JavaScript, TypeScript, React, or related technologies listed in the job description. The candidate's skills are more aligned with infrastructure and system maintenance, making them a poor fit for this front-end developer role.

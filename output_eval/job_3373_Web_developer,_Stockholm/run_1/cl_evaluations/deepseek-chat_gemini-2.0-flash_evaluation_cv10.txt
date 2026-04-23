@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but lacks the specific, modern skills required. The cover letter mentions outdated technologies (AngularJS, JQuery) and does not address key requirements like React, TypeScript, modern testing frameworks, or security knowledge. While the candidate demonstrates a good foundational background and soft skills, the technical mismatch with the job's core stack is significant.

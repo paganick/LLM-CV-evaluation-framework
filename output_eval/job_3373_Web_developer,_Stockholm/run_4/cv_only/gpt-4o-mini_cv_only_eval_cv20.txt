@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in front end development using JavaScript, HTML, and CSS, but lacks specific proficiency with modern frameworks like React, VueJS, or Angular, which are essential for the position. Additionally, their experience with testing and test automation is not adequately highlighted, and while they have knowledge of Git, their familiarity with CI/CD tools and other mentioned technologies is minimal.

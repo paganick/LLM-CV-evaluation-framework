@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter demonstrates familiarity with some core technologies (JavaScript, HTML, CSS, Git, basic security), but lacks explicit experience with React, modern FE frameworks, and specific testing frameworks detailed in the job description. The candidate acknowledges limited hands-on testing experience. The letter demonstrates potential but lacks quantifiable achievements or relevant project specifics.

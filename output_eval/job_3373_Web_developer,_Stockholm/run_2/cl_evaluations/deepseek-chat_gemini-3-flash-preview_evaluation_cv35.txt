@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in JavaScript/TypeScript, testing, Git, and Agile collaboration, directly matching several key requirements. However, the cover letter lacks explicit mention of modern frontend frameworks (React is only mentioned aspirationally), specific testing tools (Jest, Cypress), and web security fundamentals, which are required. The transition from marketing automation to pure software engineering is promising but creates gaps in hands-on experience with the listed tech stack.

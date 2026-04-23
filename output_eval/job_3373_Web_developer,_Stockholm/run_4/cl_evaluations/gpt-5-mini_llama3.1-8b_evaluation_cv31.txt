@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lists relevant technologies (JavaScript/TypeScript, React, CSS tools, Git, Node ecosystem) but provides no concrete examples of hands-on front-end engineering or production-level testing with specific frameworks. Critical gaps include no mention of web security (OWASP/CSP/CORS/OAuth), AWS/Terraform experience, or demonstrable CI/CD/API design practice. The heavy emphasis on sales/leadership further raises doubts about recent, focused engineering experience.

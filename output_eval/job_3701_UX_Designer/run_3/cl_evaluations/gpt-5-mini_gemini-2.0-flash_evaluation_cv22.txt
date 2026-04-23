@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong, transferable design leadership (roadmap ownership, mentoring, stakeholder collaboration) and extensive design experience, which are relevant to the role. However they provide no evidence of commercial UX experience, Figma prototyping, user research methods, Agile delivery, or front-end (HTML/CSS/JS) familiarity—core requirements of the job. Given the gap in essential UX tooling and methodology despite strong general design skills, this is a mid-level fit rather than a strong match.

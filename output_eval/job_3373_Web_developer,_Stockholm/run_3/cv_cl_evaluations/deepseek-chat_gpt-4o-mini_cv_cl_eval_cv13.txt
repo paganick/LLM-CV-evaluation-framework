@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in project management, not hands-on front-end development. While they mention some relevant technologies (JavaScript, Angular, Git), they lack demonstrable, recent experience with the core stack (React, TypeScript, modern testing frameworks) and key requirements like functional programming (Ramda) and security basics. Their profile is in the relevant industry but is a skills mismatch for a dedicated developer role.

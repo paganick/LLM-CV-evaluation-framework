@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT support and hardware, with no demonstrated experience in the required front-end technologies like JavaScript, TypeScript, React, or modern CSS. The resume and cover letter show no evidence of professional software development, testing frameworks, version control for code, or any other key skills from the job description. This is a fundamental mismatch for a Front End Developer role.

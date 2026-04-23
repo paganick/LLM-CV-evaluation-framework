@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest and some foundational HTML/CSS skills from a graphic design background, they lack direct experience in the core requirements like JavaScript, TypeScript, React, testing frameworks, and Git. The letter relies heavily on potential and eagerness to learn, which doesn't compensate for the absence of practical experience with the technologies listed in the job description. The application doesn't clearly showcase any experience with modern FE frameworks and libraries like React, VueJS, Angular and Svelte.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a career-changer whose entire professional history and education are in civil engineering and construction management, representing a complete industry mismatch. Despite the claims in the cover letter, the resume provides zero evidence of professional experience, projects, or technical proficiency in JavaScript, React, or any of the required software development tools. Consequently, the candidate does not meet the foundational technical requirements for this frontend development position.

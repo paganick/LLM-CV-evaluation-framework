@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and buying, a completely different field. While they express enthusiasm and some familiarity with HTML and CSS, they lack the core skills and experience in JavaScript, modern FE frameworks (like React), testing, and other crucial technologies mentioned in the job description. Their experience is not directly transferable to a Front-End Developer role.

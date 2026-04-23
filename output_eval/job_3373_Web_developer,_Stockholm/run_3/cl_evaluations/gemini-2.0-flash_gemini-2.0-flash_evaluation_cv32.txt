@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in customer service and management, lacking direct front-end development experience. While they mention actively learning relevant technologies, they don't demonstrate sufficient practical experience in JavaScript, TypeScript, or React as required in the job description. The letter relies heavily on transferable skills, which are valuable but not a substitute for the required technical expertise and experience with testing, Git, and security principles.

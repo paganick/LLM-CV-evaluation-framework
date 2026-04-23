@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant skillset that aligns with the technical stack (JavaScript, TypeScript, React, Git, testing) and soft skills (Agile, collaboration) listed. They effectively translate prior experience into a development context. The score is not a 9 or 10 because the cover letter does not explicitly mention several "nice-to-have" requirements from the job description, such as web security basics (OWASP, CORS), CI/CD tools, or AWS/Terraform.

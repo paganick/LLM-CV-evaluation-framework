@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, with no demonstrated experience in software development. The job description requires extensive, hands-on technical skills in JavaScript, React, testing, and modern web development tools, none of which are present in the candidate's resume or cover letter. While they show strong soft skills and project management, they are completely unqualified for this specific technical role.

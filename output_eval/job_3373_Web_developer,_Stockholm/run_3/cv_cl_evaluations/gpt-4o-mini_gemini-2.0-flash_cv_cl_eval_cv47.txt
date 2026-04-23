@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in business development rather than a technical role specifically in front-end development, which limits their experience with the required technologies such as JavaScript, React, and modern CSS tools. While they have some programming knowledge in HTML and C/C++, the lack of hands-on experience with modern front-end frameworks, testing automation, and relevant web security knowledge indicates a significant gap in the required skills for this position.

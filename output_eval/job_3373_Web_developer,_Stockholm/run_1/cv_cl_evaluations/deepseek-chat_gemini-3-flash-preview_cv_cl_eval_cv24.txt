@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital communications and technical writing, not software development. While the cover letter attempts to align with the job description, the resume lacks any hands-on experience with core required technologies like JavaScript, TypeScript, React, or modern testing frameworks. This is a fundamental mismatch for a frontend developer role requiring specific technical expertise.

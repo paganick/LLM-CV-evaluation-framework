@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in key technologies like React, TypeScript, and testing frameworks, aligning well with the job description. They also showcase understanding of relevant concepts like CI/CD and web security. While the candidate's background is in customer service, their focus on transitioning to software engineering and eagerness to learn modern technologies is a strong point.

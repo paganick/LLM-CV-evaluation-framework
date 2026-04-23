@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-transitioner who lacks the required professional, hands-on experience with React, TypeScript, and automated testing frameworks like Jest or Cypress. While they have a strong background in accessibility and technical communication, their development skills appear to be in the learning phase rather than proven through production-level engineering. The application fails to demonstrate the "hands-on experience" and "genuine passion for clean code" through actual software engineering tenure.

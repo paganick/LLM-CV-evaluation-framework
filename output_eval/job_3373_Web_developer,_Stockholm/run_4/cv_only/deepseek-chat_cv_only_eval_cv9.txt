@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's core expertise is in Java/JEE backend development, with minimal front-end experience. The job description requires strong proficiency in modern JavaScript/TypeScript and React, which are not demonstrated. While there is some overlap in Agile methodology and basic security concepts (OAuth), the candidate lacks the specific, required front-end technical stack and modern testing frameworks.

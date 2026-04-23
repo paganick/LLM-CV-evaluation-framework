@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong analytical background but lacks sufficient front-end experience. While they express enthusiasm for modern front-end technologies, the cover letter doesn't demonstrate hands-on proficiency with React, a key requirement. Their experience seems more focused on data engineering and testing, rather than front-end development.

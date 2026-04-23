@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Backend developer whose frontend experience is outdated and lacks mandatory proficiency in TypeScript and functional programming. While the resume mentions React and SASS, the expertise is centered on legacy testing tools like Selenium rather than the modern ecosystem (Jest, Cypress, Vite) required. Additionally, the lack of professional experience listed after 2017 makes the candidate a high-risk fit for a modern frontend role.

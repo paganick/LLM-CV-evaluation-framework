@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in front-end development and proficiency in key technologies like HTML, CSS, and JavaScript. However, the absence of specific experience with React, TypeScript, and testing frameworks mentioned in the job description, along with a lack of familiarity with modern CSS tools and CI/CD processes, slightly limits their fit for this position. Overall, they demonstrate strong potential but fall short of being a perfect match.

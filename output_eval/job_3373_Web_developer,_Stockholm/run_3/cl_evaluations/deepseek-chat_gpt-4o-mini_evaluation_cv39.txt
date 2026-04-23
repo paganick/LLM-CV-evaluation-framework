@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive design background is relevant but insufficient for a front-end developer role. They lack hands-on experience with core requirements like JavaScript, TypeScript, React, and modern testing frameworks. While they show a good attitude and some tangential knowledge, their technical skill set does not align with the job's specific demands.

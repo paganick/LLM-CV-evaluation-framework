@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am an experienced web developer with a strong track record building robust, secure front-end and full‑stack applications using HTML, CSS, JavaScript and ASP.NET MVC. Over the past decade I have migrated legacy systems to modern web architectures, led UI prototypes and dashboards, and worked closely with cross‑functional teams to deliver production software—experience that aligns with your team's focus on React-based front-end engineering and disciplined delivery practices.
+
+In my current role as an ASP.NET Web Developer (April 2015–present) I migrated the IU Print website from ColdFusion to ASP.NET MVC and created a prototype dashboard for analytics using Highcharts. Prior roles involved designing data‑migration tools, storyboards and responsive interfaces with HTML, CSS and JavaScript, and developing SharePoint and web applications backed by SQL Server. These projects required careful validation of business rules, strong attention to data integrity and secure handling of files via SFTP.
+
+I bring practical experience with source control and collaborative workflows: I use GitHub and Team Foundation Server, participate in code reviews, and practice pair programming to improve coding standards. I have prepared build packages, participated in integration and deployment phases, and supported teams that won recognition for delivery excellence (Associate of the Month and Team of the Month awards).
+
+Quality, testing and security are priorities in my work. I have designed validation and automated processing for projects such as DEBTS and export logging tools, implemented application security controls during migrations, and worked with secure file transfer and authorization workflows. My background gives me a strong foundation for adopting modern front‑end testing and automation tools, linters/formatters and CI/CD practices.
+
+I am motivated to learn and adopt React, TypeScript, modern CSS tooling and NodeJS ecosystems, and I enjoy collaborating in Agile environments and interacting with other teams and partners to understand the full domain. I value writing clean, maintainable code and continuously improving delivery practices.
+
+I hold a Master's in Computer Science from Indiana University (GPA 3.55) and a B.Tech in Computer Science from Jawaharlal Nehru Technological University. I am proud to have been recognized as Associate of the Month and to have contributed to team awards for DEBTS and eRFA, reflecting my commitment to quality and delivery.
+
+I would welcome the opportunity to contribute to your team and to discuss how my experience delivering secure, user‑focused web applications can support your goals.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical role, as their professional background is in digital communications and technical writing rather than software engineering. They lack any mentioned experience with the mandatory tech stack, including JavaScript, React, TypeScript, and automated testing frameworks. While they express an interest in learning, they do not possess the required engineering skills or industry-specific development experience described in the job posting.

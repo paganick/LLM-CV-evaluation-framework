@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of frontend technologies like React, Javascript, HTML, and CSS, aligning well with the job description. They also have experience with testing frameworks and CI/CD pipelines. However, the resume lacks explicit mention of TypeScript and some of the modern CSS tools mentioned in the job description.

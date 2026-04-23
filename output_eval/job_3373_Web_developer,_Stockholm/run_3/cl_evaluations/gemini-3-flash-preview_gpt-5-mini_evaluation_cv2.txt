@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is an experienced software engineer but lacks professional experience with the required front-end stack, including JavaScript, TypeScript, and React. While their background in Java and API design is solid, they are essentially a career-changer for this specific role and do not meet the core technical qualifications. Their lack of hands-on experience with modern CSS tooling, front-end testing frameworks, and the Node.js ecosystem makes them an underqualified match for a position requiring immediate proficiency in these areas.

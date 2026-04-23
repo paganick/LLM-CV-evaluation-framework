@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks essentially all required technical skills for the role (no JavaScript/TypeScript, React, testing, Git, NodeJS, modern CSS tooling, CI/CD, or web security experience). While they demonstrate transferable strengths in communication, project management, and customer-facing roles, those do not compensate for the absence of hands-on frontend development experience. Significant upskilling would be required before this candidate could contribute effectively in this position.

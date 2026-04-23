@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with React, TypeScript, and modern frontend development workflows, which are central to the job requirements. Their professional history is primarily focused on legacy Java systems and database administration, with the last listed work experience ending in 2017. While the candidate possesses a relevant educational background, they fail to demonstrate hands-on proficiency with the modern testing, security, and CI/CD tools specified in the job description.

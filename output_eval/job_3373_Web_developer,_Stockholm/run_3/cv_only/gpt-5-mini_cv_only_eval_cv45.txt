@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates extensive IT/INFOSEC/NETOPS and program management experience but contains no evidence of JavaScript/TypeScript, React or any modern frontend framework, frontend testing, CSS tooling, Node.js, or related development toolchain experience required by the role. The candidate's background is focused on DoD cybersecurity, operations, and management rather than hands-on frontend engineering and test automation. Therefore they are not qualified for this frontend developer position.

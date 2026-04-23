@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and visual merchandising, not software engineering. The resume and cover letter show no experience with the core technical requirements: JavaScript, TypeScript, React, testing frameworks, Git, or modern front-end tooling. While they express eagerness to learn, they lack the foundational skills and hands-on experience required for the role.

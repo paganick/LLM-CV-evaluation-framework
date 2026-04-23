@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent skills and a unique background, but lacks direct, proven experience with the core technical stack. While they mention HTML, CSS, and an interest in React, they provide no evidence of hands-on React development, testing frameworks, version control, or the specific modern tools listed. Their strengths in design, problem-solving, and collaboration are notable, but they do not meet the specific, required technical criteria for the role.

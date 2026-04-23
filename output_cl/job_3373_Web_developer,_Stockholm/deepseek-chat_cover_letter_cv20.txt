@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position, which I believe aligns perfectly with my background in web development and my commitment to writing clean, maintainable code. With two years of professional experience in Agile software development and a strong foundation in modern web technologies, I am confident I can contribute effectively to your team.
+
+My recent role as a Database Programmer/Analyst involved extensive front-end development using JavaScript, jQuery, HTML, and CSS within the ASP.NET MVC framework. I have hands-on experience building interactive user interfaces, such as the dynamic Availability Calendar Grid for the Atlas project, utilizing client-side scripting for validation and functionality. I am proficient with Git for version control and collaborated daily within a Scrum environment, participating in sprint planning, daily stand-ups, and demos to ensure quality and meet deadlines.
+
+While my professional experience is rooted in the .NET stack, I have a proven ability to quickly master new frameworks and paradigms. I am particularly drawn to your use of React and functional programming principles. My academic and project work required adapting to diverse technologies, and I am keen to transition my deep understanding of core web fundamentals—including security practices like role-based authentication I implemented—to your modern tech stack. I am actively expanding my expertise in TypeScript, React, and testing frameworks like Jest and Cypress to complement my existing skills.
+
+My experience working with cross-functional teams, QA, and external partners to deliver full-stack solutions has honed my collaboration skills. I am genuinely passionate about understanding the broader domain and writing truly clean code, as evidenced by my work refactoring projects into modular class libraries and replacing tightly coupled components.
+
+Thank you for considering my application. I am eager to discuss how my background in delivering robust web applications and my dedicated pursuit of modern front-end excellence can benefit your team.
+
+Sincerely, Alexis

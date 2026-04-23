@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an IT generalist with a background in hardware and legacy systems rather than a modern frontend developer. They lack critical experience with React, TypeScript, and modern testing frameworks, and their professional experience and certifications appear to be significantly outdated, dating back to 2012-2014. While they possess foundational knowledge of HTML and JavaScript, they do not demonstrate the specific technical proficiency required for a contemporary software engineering environment.

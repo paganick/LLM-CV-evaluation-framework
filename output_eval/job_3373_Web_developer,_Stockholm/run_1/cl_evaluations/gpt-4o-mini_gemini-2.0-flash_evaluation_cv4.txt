@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS but lacks specific skills in TypeScript, modern front-end frameworks like React, and testing frameworks mentioned in the job description. While they demonstrate abilities in software development and testing, their experience does not align completely with the requirements of this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in analytics and problem-solving, which could be beneficial in a frontend role. However, they lack specific experience with some key technical skills mentioned in the job description, such as modern CSS tools, CI/CD tools, and functional programming. Their transition to web development is noted, but their current skill set does not fully align with the requirements of the position.

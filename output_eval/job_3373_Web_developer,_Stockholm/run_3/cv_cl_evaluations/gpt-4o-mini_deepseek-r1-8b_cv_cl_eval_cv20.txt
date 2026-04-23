@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience with HTML, CSS, and JavaScript, and demonstrates familiarity with Agile practices and testing frameworks. However, they lack direct experience with React, which is a primary requirement, and do not mention modern CSS tools or experience with the broader tech stack specified in the job description. Their strong foundation in web technologies suggests potential but falls short of a strong fit for this role.

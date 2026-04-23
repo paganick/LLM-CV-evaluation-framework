@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume primarily highlights experience in media planning and buying, with some exposure to SQL, Java, HTML, and CSS. However, there's a significant mismatch with the job description's focus on modern FE frameworks like React, TypeScript, testing automation, and NodeJS ecosystem. The resume lacks the depth of experience in these core areas required for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in media production but lacks extensive specific knowledge and hands-on experience required for the front-end development role, particularly with modern frameworks like React, testing frameworks, and CI/CD tools. While the candidate demonstrates transferable skills such as project management and collaboration, they do not meet the technical qualifications outlined in the job description.

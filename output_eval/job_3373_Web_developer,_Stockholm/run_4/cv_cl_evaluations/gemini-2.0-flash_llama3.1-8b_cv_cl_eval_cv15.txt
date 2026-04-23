@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web development technologies like JavaScript, HTML, and CSS, but lacks specific project experience with modern front-end frameworks mentioned in the job description (React, VueJS, etc.). There's also no concrete evidence of experience with testing, CI/CD, or cloud platforms. The resume focuses heavily on general IT support and older technologies, rather than modern web development practices.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend and full-stack development, not the modern frontend focus required. While they mention JavaScript and Agile, they lack specific, hands-on experience with React, TypeScript, modern CSS tools, and the testing frameworks listed in the job description. Their background is in a different tech stack, making them a weak fit for this specialized frontend role.

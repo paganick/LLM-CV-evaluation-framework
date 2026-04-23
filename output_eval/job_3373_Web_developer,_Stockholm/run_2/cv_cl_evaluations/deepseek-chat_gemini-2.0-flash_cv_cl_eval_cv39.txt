@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic and print design, not software engineering. The resume shows no experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, testing frameworks, or modern development tools. While the cover letter expresses a willingness to learn, the candidate lacks the foundational technical skills and professional experience required for a front-end developer role.

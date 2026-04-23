@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with some core technologies (JavaScript, HTML, CSS) but lacks specific experience with modern FE frameworks like React, which is a key requirement. While they mention an ability to learn testing frameworks, there's no proven experience in test automation. The resume leans heavily on general IT skills rather than specialized frontend development.

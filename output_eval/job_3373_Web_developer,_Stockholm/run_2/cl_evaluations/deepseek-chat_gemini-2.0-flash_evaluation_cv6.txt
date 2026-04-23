@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend development, testing, and Agile collaboration, aligning well with core job requirements. However, the cover letter lacks explicit mention of key technologies from the description, such as TypeScript, React (hands-on experience is implied but not stated), and security fundamentals (OWASP, CSP, etc.). The expressed eagerness to learn many listed tools suggests gaps in current direct experience, preventing a higher score.

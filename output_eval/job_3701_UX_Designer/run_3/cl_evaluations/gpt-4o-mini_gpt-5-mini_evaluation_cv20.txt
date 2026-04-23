@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in consulting and product implementations, which is relevant to the UX field, but lacks the specific experience with Figma and running workshops as highlighted in the job description. Their technical skills with HTML and JavaScript do align with some requirements, but the absence of direct UX design experience within an Agile environment and limited exposure to prototyping tools makes them a less strong candidate.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is almost exclusively in Java/JEE backend development, with minimal front-end experience. The job description is heavily focused on modern JavaScript/TypeScript, React, and front-end tooling, which the candidate lacks. While they mention some relevant concepts like Agile and Git, their technical skills are a severe mismatch for the required front-end engineering role.

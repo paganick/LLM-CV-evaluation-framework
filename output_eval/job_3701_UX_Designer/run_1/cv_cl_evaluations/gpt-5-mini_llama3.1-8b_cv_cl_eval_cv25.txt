@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong technical, SDLC and validation experience which is relevant to software delivery, but the resume and cover letter show no demonstrable commercial UX design experience (prototyping, Figma), no evidence of running structured user research or managing a UI design system, and no explicit Agile UX practice. They lack the core UX skills and portfolio evidence required for this role; while technically capable and trainable, they do not meet the job’s primary requirements.

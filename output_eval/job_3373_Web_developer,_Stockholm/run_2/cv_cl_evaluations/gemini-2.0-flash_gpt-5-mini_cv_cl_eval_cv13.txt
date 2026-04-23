@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a project manager, not a front-end developer. While they possess some front-end skills (HTML, CSS, JavaScript, Angular), their experience seems dated and lacks depth in modern frameworks like React (the company's primary framework). The candidate's resume and cover letter focus heavily on project management and marketing, not software engineering.

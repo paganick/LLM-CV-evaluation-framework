@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position, which I discovered through your job posting. With over a decade of experience in full-stack web development and a recent, deliberate focus on modernizing my frontend expertise, I am confident that my technical skills and collaborative approach align perfectly with your team’s needs.
+
+Your requirement for proficiency in JavaScript, TypeScript, HTML, CSS, and React resonates strongly with my career trajectory. While my CV details extensive work with C#, ASP.Net, and AngularJS, my recent freelance work has been centered on transitioning to modern frontend technologies. I have been actively building projects with React, TypeScript, and modern CSS methodologies, complementing my deep foundational experience in HTML5, CSS3, and JavaScript/jQuery. I am adept at using Git and have worked extensively with TFS in Agile environments, ensuring seamless collaboration and version control.
+
+The emphasis your team places on testing, clean code, and understanding the full domain is particularly compelling. In my role at Fiserv, I was instrumental in developing unit testing software and creating rigorous review processes, which reduced client migration hours by 62.5%. This experience, coupled with my history of leading user-acceptance reviews and working closely with QA teams at Bank of America and AgriLogic, has ingrained a meticulous, quality-first mindset. I am keen to apply this discipline to modern testing frameworks like Jest or Cypress.
+
+Furthermore, my career is defined by being a strong collaborator and agile team member. From mentoring junior developers and supervising offshore teams to consulting directly with clients throughout the entire design and development lifecycle, I excel at bridging technical and business needs. My freelance work specifically involves discussing requirements, creating mock-ups, and iterating based on feedback—a process that demands clear communication and a passion for delivering exceptional, clean code.
+
+I am genuinely passionate about frontend architecture and am committed to continuous learning. I am excited by the prospect of contributing to your stack, including React, modern CSS tools, and functional programming principles, and I am eager to deepen my knowledge in areas like Node.js, AWS, and CI/CD pipelines.
+
+Thank you for considering my application. I am eager to discuss how my blend of seasoned software development experience and focused modern frontend skills can benefit your team.
+
+Sincerely, Alexis

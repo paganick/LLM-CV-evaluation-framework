@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate lacks the core technical experience required: no professional JavaScript/TypeScript or React development, limited hands-on testing/test automation experience, and minimal exposure to NodeJS, CI/CD, and modern CSS/tooling. Strengths include leadership, communication, familiarity with HTML, basic security concepts, Git and npm, and a willingness to learn. Overall, the profile is industry-relevant but currently insufficiently qualified for this front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant skill match for the core technical requirements, including React, TypeScript, testing, and modern CSS tools. Their unique design background adds significant value for UI/UX-focused development. The score is not a 9 or 10 because, while they mention basic knowledge of key areas like AWS and express eagerness to learn Ramda and CI/CD, the cover letter does not explicitly confirm hands-on experience with these specific technologies listed in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in software development and familiarity with the technologies mentioned, but lacks specific experience with modern frontend frameworks like React, which is a core requirement. Although they express a willingness to learn and adapt, their experience with frontend testing frameworks and modern CSS tools is still developing, indicating areas of significant improvement needed to meet the job's demands.

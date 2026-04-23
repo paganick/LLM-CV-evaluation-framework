@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has experience in graphic design and some relevant skills in HTML, CSS, and testing tools, they lack key expertise in JavaScript, TypeScript, and modern front-end frameworks specifically mentioned in the job description. Their experience does not strongly align with the primary requirements of the role, leading to a score indicating relevance but insufficient match for the specific position.

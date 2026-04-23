@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume details extensive experience in project and construction management, a completely different field than front-end development. While the cover letter expresses interest and some tangential skills, there's a significant lack of direct experience with the core technologies listed in the job description (JavaScript, React, etc.). The stated familiarity with Git and web security principles is insufficient to compensate for the absence of practical FE development experience.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design and print production, which is the wrong industry for a front-end software engineering role. The resume and cover letter mention only basic HTML/CSS and SASS, completely lacking the required JavaScript, TypeScript, React, testing frameworks, Git, security knowledge, and other core technical competencies. While they demonstrate soft skills like collaboration, their technical profile does not align with any of the job's primary requirements.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software development, and the cover letter provides no evidence of hands-on experience with the core technical requirements listed in the job description. While they express interest in learning technologies like React and TypeScript, they do not demonstrate any existing proficiency in JavaScript, testing, version control, or the other specified tools and frameworks. The skills highlighted are primarily soft skills and design-centric, making them unqualified for this technical front-end developer role.

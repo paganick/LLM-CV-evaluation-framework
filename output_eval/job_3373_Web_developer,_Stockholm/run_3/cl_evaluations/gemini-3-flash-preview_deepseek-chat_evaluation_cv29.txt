@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant industry background in cloud software and demonstrates a solid conceptual grasp of the required tech stack, they lack professional experience in a hands-on development role. Their skills in React, TypeScript, and automated testing appear to be self-taught or project-based rather than battle-tested in a production environment. For a role requiring proficiency in complex areas like AWS, functional programming, and CI/CD, a career pivot without professional tenure in engineering is insufficient.

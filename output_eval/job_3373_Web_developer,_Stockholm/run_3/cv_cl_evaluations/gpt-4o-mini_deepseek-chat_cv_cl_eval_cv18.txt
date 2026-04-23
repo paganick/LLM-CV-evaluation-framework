@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in IT and relevant skills in JavaScript, HTML, and CSS, which align with the job requirements. However, there is limited information regarding modern front-end frameworks like React and testing frameworks such as Jest or Cypress, which are essential for the role. Overall, the candidate appears to be a strong match but lacks some specific modern development experience.

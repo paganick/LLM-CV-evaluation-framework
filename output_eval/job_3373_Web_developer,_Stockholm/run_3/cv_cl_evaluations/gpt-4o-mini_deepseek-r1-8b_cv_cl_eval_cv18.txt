@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and web design but lacks direct experience with modern front-end frameworks such as React, VueJS, or Angular, which are crucial for the role. While they possess relevant skills in JavaScript, HTML, and CSS, their experience with testing methodologies and CI/CD tools appears insufficient for a developer role focused on those areas. Overall, they show potential but do not fully meet the specific requirements outlined in the job description.

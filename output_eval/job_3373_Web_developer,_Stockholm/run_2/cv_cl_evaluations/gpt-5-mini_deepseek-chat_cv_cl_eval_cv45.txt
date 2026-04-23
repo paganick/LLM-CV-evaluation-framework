@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong enterprise IT, cybersecurity, leadership, and Agile experience with a valuable Top Secret/SCI clearance, but their resume contains no demonstrable hands‑on front-end development experience (JavaScript/TypeScript, React, modern CSS, testing frameworks, Node/npm, CI/CD) required for this role. The cover letter asserts skill development in front-end technologies, but without concrete examples, projects, or tool-specific experience on the resume, they lack the specific technical qualifications for this position.

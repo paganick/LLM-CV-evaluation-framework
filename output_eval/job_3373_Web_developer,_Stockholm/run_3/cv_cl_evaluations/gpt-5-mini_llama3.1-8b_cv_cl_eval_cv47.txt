@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development with no substantive experience in modern front-end technologies required for the role (JavaScript/TypeScript, React, modern testing frameworks, CSS-in-JS). The resume shows only basic HTML and C/C++ and provides no evidence of Git, Node.js/npm, testing automation, or cloud/infra experience; the cover letter explicitly acknowledges lack of React and testing experience. This profile is therefore not a fit for the position.

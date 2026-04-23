@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses strong front-end development skills in JavaScript, HTML, and CSS and has relevant experience in integrating APIs. They demonstrate an eagerness to adopt the company's stack, including React and TypeScript. However, they lack mentioned specific experience with modern CSS tools and testing frameworks listed in the job description, which hinders a higher score.

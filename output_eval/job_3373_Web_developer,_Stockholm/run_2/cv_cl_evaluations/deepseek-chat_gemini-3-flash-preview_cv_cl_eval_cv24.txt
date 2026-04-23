@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and journalism, not software engineering. The resume and cover letter show no professional experience with the core technologies required (JavaScript, TypeScript, React, Git, testing frameworks). While the cover letter expresses interest and self-study, it does not demonstrate the hands-on, professional development experience the job description mandates.

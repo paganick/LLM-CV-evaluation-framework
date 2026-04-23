@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight experience in unrelated fields such as administration, arts, and education. While they express interest in learning front-end technologies, there's a severe lack of demonstrable experience with JavaScript, TypeScript, React, or other core requirements listed in the job description. The mention of HTML is insufficient to qualify them for a Front End Developer role.

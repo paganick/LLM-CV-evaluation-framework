@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in graphic design and visual production, which is valuable but lacks specific hands-on experience in critical front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. While the candidate demonstrates collaboration and a detail-oriented mindset, they do not adequately address essential testing and automation skills or familiarity with tools and practices mentioned in the job description.

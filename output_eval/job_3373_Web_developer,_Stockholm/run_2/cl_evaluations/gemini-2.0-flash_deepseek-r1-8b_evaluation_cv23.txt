@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics and general software testing, not front-end development. While they mention JavaScript, they lack specific experience with React or other modern FE frameworks mentioned in the job description. The letter also doesn't showcase experience with relevant testing frameworks like Jest or Cypress, or tools like Git, crucial for this role.

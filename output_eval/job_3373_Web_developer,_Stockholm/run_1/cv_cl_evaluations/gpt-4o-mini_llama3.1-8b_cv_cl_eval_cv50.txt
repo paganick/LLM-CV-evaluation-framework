@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development and project management but lacks specific experience in many of the key technical skills outlined in the job description, such as modern frontend frameworks, testing frameworks, and familiarity with the NodeJS ecosystem. While they have a foundation in computer science and some relevant technical skills, the overall fit is limited by the absence of hands-on experience in the primary technologies the company requires.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume highlights a broad range of IT skills but lacks the depth in modern front-end development specified in the job description. While they mention JavaScript, HTML, and CSS, there's no concrete evidence of experience with modern FE frameworks like React, testing frameworks, or CI/CD tools. The cover letter attempts to bridge this gap but lacks specific examples to demonstrate proficiency.

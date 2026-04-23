@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, which is completely unrelated to the required front-end development role. While they mention foundational HTML and C/C++, they lack any experience with JavaScript, TypeScript, React, modern testing frameworks, or any other specific technologies listed in the job description. Their professional experience does not translate to the technical or collaborative software engineering requirements of the position.

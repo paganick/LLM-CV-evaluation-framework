@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, which is not the core requirement for this front-end development role. While they mention relevant technical skills like HTML, CSS, and SASS, they critically lack experience with JavaScript, TypeScript, React, and the specific testing frameworks and security practices listed. Their experience is in a related but distinct field, making them underqualified for the specific technical demands of the position.

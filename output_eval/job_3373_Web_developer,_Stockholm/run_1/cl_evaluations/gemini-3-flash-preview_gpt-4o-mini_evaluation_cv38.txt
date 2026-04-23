@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience as a front-end developer, as their background is primarily in media production and general project management. They describe themselves as "eager to explore" React rather than having the hands-on mastery required, and they omit mention of critical secondary requirements like CI/CD, API design, and functional programming. Consequently, they do not meet the threshold for a candidate ready to contribute immediately to a high-level Agile development team.

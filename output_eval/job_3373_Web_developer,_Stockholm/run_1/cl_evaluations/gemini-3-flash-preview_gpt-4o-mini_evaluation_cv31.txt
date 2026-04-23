@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer from a sales background who lacks the mandatory professional hands-on experience with TypeScript, React, and testing frameworks required for this role. While they demonstrate foundational theoretical knowledge, they explicitly admit to a lack of experience in automated testing and CI/CD, which are core requirements of the job description. The profile is currently unqualified for a technical position that demands established expertise in modern front-end development and software engineering practices.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows transferable skills (project management, collaboration, HTML and design) and a strong willingness to learn, but the cover letter provides no concrete, hands-on experience with core requirements such as JavaScript/TypeScript, React, testing/automation, Git, modern CSS tooling, NodeJS, or web security. The role explicitly requires practical experience with these technologies and testing practices, so the applicant is not a strong match in its current state.

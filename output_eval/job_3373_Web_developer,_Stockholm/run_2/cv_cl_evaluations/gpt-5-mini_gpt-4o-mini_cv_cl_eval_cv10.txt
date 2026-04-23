@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates front-end fundamentals (HTML5, CSS, JavaScript), SPA experience with AngularJS, testing and Agile exposure, and some API/backend background, which are relevant to the role. However, they lack key required skills: no React or TypeScript experience, no modern CSS tooling (Styled Components/SASS), limited Node.js/modern JS ecosystem exposure, and minimal CI/CD/AWS/Terraform knowledge. These gaps make them a relevant but underqualified match for this specific position.

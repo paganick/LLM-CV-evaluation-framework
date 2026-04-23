@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced graphic designer with only basic HTML/CSS exposure and no demonstrated hands-on experience in core frontend development technologies required (JavaScript, TypeScript, React, testing frameworks, Git, Node/npm, CI/CD, or web security). There are no code samples, repository history, or concrete development projects to validate technical competence. Although motivated to transition and strong in design, they are not qualified for this role without significant upskilling and practical engineering experience.

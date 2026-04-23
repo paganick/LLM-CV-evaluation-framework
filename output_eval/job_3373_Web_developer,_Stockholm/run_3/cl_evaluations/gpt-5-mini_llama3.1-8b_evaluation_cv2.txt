@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong software engineering experience (8.5 years) with Java/J2EE, Spring, web application development, Agile practices and Git, which are relevant foundations. However, they lack the core front-end skills and toolset required by the role—no demonstrated JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks, or Node/npm experience—so they are not yet qualified for this specific position without significant upskilling.

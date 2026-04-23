@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrated technical experience in front-end development, JavaScript, TypeScript, React, or any of the required technologies listed in the job description. While the cover letter acknowledges this gap and expresses willingness to learn, the resume shows zero hands-on software development experience, testing frameworks, Git workflows, or web security knowledge. This is a career-transition candidate from banking and operations with no concrete evidence of technical competency or programming foundation required for the role.

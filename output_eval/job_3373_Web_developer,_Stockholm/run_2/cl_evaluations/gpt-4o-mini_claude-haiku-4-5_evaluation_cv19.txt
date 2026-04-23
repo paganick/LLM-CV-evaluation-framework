@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant background knowledge in HTML and CSS, along with some experience in Git and a desire to learn JavaScript and React. However, they lack hands-on experience with modern frontend frameworks, testing frameworks, and other key technologies mentioned in the job description. Additionally, their unconventional background in graphic design may not fully align with the team's needs for a dedicated frontend development role at this time.

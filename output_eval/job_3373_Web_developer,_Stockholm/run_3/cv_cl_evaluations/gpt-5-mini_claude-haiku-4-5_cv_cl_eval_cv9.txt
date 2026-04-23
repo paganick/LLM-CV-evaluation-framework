@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong backend Java experience, solid fundamentals in JavaScript/HTML/CSS, TDD/BDD discipline, Git usage, OAuth and Agile collaboration, which are relevant to frontend work. However, they lack demonstrated hands-on experience with React (the team's framework), TypeScript, modern Node/npm tooling, frontend testing frameworks (Jest/Cypress), modern CSS tooling (Styled Components/SASS), and other listed frontend/platform tools, so they are not an immediate fit for the role without significant upskilling.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in marketing automation but lacks direct experience with key front-end technologies outlined in the job description, such as modern frameworks like React, VueJS, Angular, or Svelte. While they showcase relevant skills in coding, testing, and collaboration, the absence of specific front-end experience and familiarity with the essential tools (e.g., CI/CD, CSS tools) limits their fit for this role.

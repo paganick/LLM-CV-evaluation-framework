@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant academic background and foundational web knowledge, they lack professional experience with the core required technologies, specifically React and TypeScript. The letter indicates they are currently "expanding" their expertise and "mastering" these tools rather than having applied them in a production environment. Furthermore, they fail to demonstrate hands-on experience with automated testing frameworks or web security protocols, both of which are critical requirements for this role.

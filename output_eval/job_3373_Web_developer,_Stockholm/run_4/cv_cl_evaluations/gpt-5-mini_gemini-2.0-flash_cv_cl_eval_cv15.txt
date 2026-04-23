@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML, CSS, and JavaScript experience and general IT/web project work, but provides no concrete experience with React, TypeScript, modern frontend toolchains (Node/npm), Git/GitHub, testing frameworks, CI/CD, or cloud/infra technologies required by the role. The cover letter expresses willingness to learn, but lacks demonstrated hands-on experience with the specific technologies and practices listed in the job description. This candidate would require substantial upskilling before being ready for this position.

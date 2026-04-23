@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong test engineering experience and some relevant frontend development skills such as JavaScript, HTML, and CSS. However, they lack specific experience with modern frontend frameworks like React and tools mentioned in the job description, such as Styled Components, Jest, and CI/CD tools. Furthermore, their experience in web security, while present, appears to be basic and does not fully align with the role's requirements.

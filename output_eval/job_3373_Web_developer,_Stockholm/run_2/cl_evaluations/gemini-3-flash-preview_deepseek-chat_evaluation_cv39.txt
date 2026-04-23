@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically modern JavaScript, TypeScript, and React, which are essential for this position. Their experience is rooted in visual design and outdated tools like Dreamweaver, with no evidence of professional experience in automated testing, Git, or modern CSS methodologies. While they possess strong transferable design and collaboration skills, they are currently a trainee-level developer rather than the experienced professional required by the job description.

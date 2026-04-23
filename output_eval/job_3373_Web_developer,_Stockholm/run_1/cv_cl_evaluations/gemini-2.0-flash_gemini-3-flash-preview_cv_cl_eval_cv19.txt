@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design and electrical work, lacking substantial experience with the core technologies listed in the job description such as React, TypeScript, and testing frameworks. While the cover letter mentions HTML and CSS skills, the resume does not showcase the required depth of knowledge in modern front-end development practices. The candidate expresses interest in learning new technologies, but the current skill set does not align with the job requirements.

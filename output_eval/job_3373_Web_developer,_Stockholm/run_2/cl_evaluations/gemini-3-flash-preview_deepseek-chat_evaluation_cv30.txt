@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career transitioner who lacks professional, hands-on experience in front-end development and the specific React/TypeScript stack required. While they possess strong analytical and general engineering skills, their front-end expertise is self-described as currently in progress rather than commercially proven. A strict evaluation reveals a significant gap between their background in data analytics and the specialized, senior-level front-end requirements of the role.

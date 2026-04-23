@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, not front-end development. While the cover letter expresses interest and adaptability, the resume lacks demonstrable experience with JavaScript, modern front-end frameworks (React, VueJS, Angular, Svelte), and related testing frameworks. Their limited experience with HTML and ASP.NET is not a strong substitute for the core skills required for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is outdated and not aligned with modern frontend development. The resume shows no hands-on experience with React, TypeScript, modern CSS tools, or the testing frameworks specified in the job description. While the cover letter attempts to bridge the gap, it lacks concrete, recent project evidence for the required technologies and practices.

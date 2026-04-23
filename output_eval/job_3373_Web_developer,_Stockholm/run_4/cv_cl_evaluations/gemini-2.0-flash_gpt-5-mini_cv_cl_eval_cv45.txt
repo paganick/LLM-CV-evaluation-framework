@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT management, INFOSEC/NETOPS, and cybersecurity, with limited evidence of hands-on front-end development experience. While the cover letter mentions familiarity with testing and new technologies, the resume lacks concrete examples of JavaScript, React, or other front-end skills listed in the job description. The experience is more aligned with IT program management and security policy than front-end engineering.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in construction, which is not directly relevant. While they claim proficiency in HTML, CSS, and JavaScript and mention projects using PHP, Java, and other languages during their degree, they lack specific experience with React, TypeScript, and modern FE frameworks emphasized in the job description. The resume showcases older technologies and the cover letter expresses interest in learning but lacks demonstrable experience in the required tech stack.

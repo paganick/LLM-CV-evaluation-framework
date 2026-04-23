@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, modern frontend skills required. They have no demonstrable experience with React, TypeScript, modern CSS tools, or the testing frameworks listed, and their background is heavily skewed towards legacy .NET and backend technologies. While they show a willingness to learn, their current skill set is a significant mismatch for the role's core requirements.

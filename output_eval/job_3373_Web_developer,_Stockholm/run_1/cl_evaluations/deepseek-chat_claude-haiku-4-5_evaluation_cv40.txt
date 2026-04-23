@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in product management, not hands-on frontend engineering, which is the core requirement. While they demonstrate strong product knowledge, collaboration skills, and awareness of tools and processes, they provide no direct evidence of professional experience writing production code in JavaScript, TypeScript, React, or other listed technologies. Their technical insights are from a managerial, not an engineering, perspective, making them underqualified for the hands-on coding role.

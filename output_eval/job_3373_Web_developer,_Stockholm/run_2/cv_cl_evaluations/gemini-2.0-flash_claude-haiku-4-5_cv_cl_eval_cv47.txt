@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development, with limited demonstrable experience in frontend development. While they mention HTML and older tools, the resume lacks evidence of proficiency in modern JavaScript frameworks like React, TypeScript, or relevant testing methodologies. The cover letter expresses a desire to transition, indicating a significant skills gap concerning the job requirements.

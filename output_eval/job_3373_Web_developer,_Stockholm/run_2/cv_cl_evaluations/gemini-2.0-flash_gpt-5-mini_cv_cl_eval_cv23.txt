@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and testing, not front-end development. While they express interest in learning relevant technologies, their resume lacks demonstrable experience with JavaScript frameworks like React, TypeScript, or modern CSS tools. They mention familiarity with JavaScript but without specific FE frameworks so it's hard to evaluate.

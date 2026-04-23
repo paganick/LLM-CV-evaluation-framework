@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant education in IT and web development, with proficiency in HTML, CSS, and JavaScript. However, they lack experience with modern front-end frameworks like React, as well as familiarity with testing automation and CI/CD tools, which are critical for the role. Additionally, their experience is primarily from coursework and lacks real-world application in the required technologies.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all the primary technical requirements, including professional experience with JavaScript, TypeScript, and React. Their background is firmly rooted in hardware and electronics test engineering rather than web development, making them unqualified for a front-end engineering role. As a strict recruiter, a career transitioner with zero industry-specific framework experience cannot be considered for this specialized position.

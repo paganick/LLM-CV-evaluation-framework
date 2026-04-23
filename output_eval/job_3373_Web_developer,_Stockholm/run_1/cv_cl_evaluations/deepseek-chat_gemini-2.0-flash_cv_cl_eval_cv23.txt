@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in electronics engineering and hardware testing, which is the wrong industry for a modern frontend development role. While they mention JavaScript and testing, they lack any demonstrable experience with the required technologies (React, TypeScript, modern CSS tools, testing frameworks) and professional software development practices. The application does not meet the core technical requirements of the job description.

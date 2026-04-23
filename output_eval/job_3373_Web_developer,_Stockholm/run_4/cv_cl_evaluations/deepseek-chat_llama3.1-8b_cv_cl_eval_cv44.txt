@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in presentation and multimedia design, not professional front-end software development. While they list HTML and CSS, they lack any demonstrated experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical requirements from the job description. Their cover letter makes claims about these technologies but the resume provides no supporting evidence of hands-on development work.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not software engineering, and they lack the required professional experience with JavaScript, TypeScript, React, or any modern front-end frameworks. While they have basic HTML/CSS knowledge and a strong desire to learn, they do not meet the core technical requirements for the role, such as testing, Git, security basics, or functional programming.

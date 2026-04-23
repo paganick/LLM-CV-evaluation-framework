@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, regulatory compliance, and training with no evidence of the required frontend technologies (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, NodeJS/npm, or related tooling. Transferable skills like project management and documentation do not substitute for the specific technical experience demanded by the role. Given the lack of any demonstrable frontend development experience or tools listed in the job description, the applicant is not qualified for this position.

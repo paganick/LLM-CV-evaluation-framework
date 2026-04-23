@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience with JavaScript, HTML/CSS, Node.js and API integration, showing general engineering ability, but the resume lacks demonstrated experience with React (or other modern FE frameworks), TypeScript, front-end testing frameworks, modern CSS tooling (Styled Components/SASS), and CI/CD/AWS knowledge required by the role. Overall, they are in the correct industry but missing several key, role-specific front-end and tooling skills.

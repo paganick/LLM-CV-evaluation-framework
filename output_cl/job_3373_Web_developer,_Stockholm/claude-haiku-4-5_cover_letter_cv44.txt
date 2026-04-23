@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With my background in design, technology, and development, combined with my proven ability to collaborate effectively in team environments, I am confident I can make meaningful contributions to your React-focused team.
+
+Throughout my career, I have developed a solid foundation in HTML and CSS, which has been central to my work as both a Presentation Designer and User Experience Designer. My experience in creating wireframes, prototypes, and interactive designs using tools like Axure RP has given me deep insight into frontend principles and user-centered development. This technical foundation, paired with my passion for clean, well-structured code, positions me well to excel in your development environment.
+
+My professional experience demonstrates my commitment to understanding the complete picture. As a UX/UI Team Lead, I collaborated extensively with development teams to ensure that design solutions were not only visually compelling but also technically feasible. I conducted usability testing, developed implementation guidelines, and worked hands-on with technical teams to bridge the gap between design and development. This experience has cultivated my keen interest in understanding full domain knowledge and cross-platform considerations, qualities you value highly.
+
+I am genuinely excited about the opportunity to deepen my technical expertise in JavaScript and TypeScript while contributing to a team that prioritizes code quality and modern development practices. My background in multimedia design and video production demonstrates my ability to learn complex tools quickly and apply them to solve real problems. Similarly, I am confident I can rapidly develop proficiency with React, testing frameworks like Jest and Cypress, and other modern frontend technologies your team utilizes.
+
+Additionally, my experience at MTN Nigeria, where I performed UATs and FUTs of new products and gathered comprehensive requirements, has equipped me with a pragmatic understanding of testing methodologies and quality assurance processes. This directly aligns with your emphasis on hands-on testing experience including unit tests, integration tests, and E2E testing.
+
+I am genuinely passionate about staying current with technological advancements and thrive in collaborative, Agile environments. My track record of receiving recognition such as the MTN Yellow Star Award and Person of the Quarter attests to my ability to work effectively with teams while maintaining high personal standards.
+
+I am enthusiastic about the possibility of bringing my design thinking, technical foundation, and collaborative spirit to your frontend team, and I would welcome the opportunity to discuss how I can contribute to your organization's success.
+
+Sincerely, Alexis

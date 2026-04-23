@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in construction, civil engineering, and project management with no demonstrable experience in frontend web development, JavaScript/TypeScript, React, testing frameworks, Git, NodeJS, or cloud/DevOps tooling required by the role. While they have strong project leadership and domain expertise in engineering and construction, their skills and career history are in a completely different industry and do not meet any of the technical requirements for this position. Therefore they are unsuitable for this role.

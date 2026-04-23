@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant technical industry but lacks the specific, hands-on frontend development experience required. While they express eagerness to learn and have tangential technical knowledge, they do not demonstrate proven expertise with React, TypeScript, modern testing frameworks, or web security principles as specified in the job description. Their background is primarily in data analytics, making this a significant career transition with a substantial skill gap for the immediate role.

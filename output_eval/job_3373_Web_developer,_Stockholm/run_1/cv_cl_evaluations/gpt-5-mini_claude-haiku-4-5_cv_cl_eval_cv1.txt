@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end experience (React, HTML/CSS, SASS) and a strong background in test automation and Git, but their resume lacks explicit TypeScript experience and modern JS testing tools (Jest/Cypress/TestCafe), and shows limited evidence of required tooling (Styled Components, ESLint/Prettier, Yarn/Express, Ramda) and web security practices. They are a reasonable fit for the industry but missing several key technologies and toolchain items the role specifies, so they are not a strong match.

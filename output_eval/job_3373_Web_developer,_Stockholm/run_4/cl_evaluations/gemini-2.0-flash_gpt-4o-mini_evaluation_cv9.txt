@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant skills like JavaScript, HTML, CSS, Git, and Agile experience. However, the cover letter focuses heavily on Java/JEE experience, potentially overshadowing their frontend capabilities. While they express interest in AWS and Terraform, it's framed as a growing interest rather than demonstrated expertise, and the cover letter doesn't showcase direct experience with React, which is the framework used by the company.

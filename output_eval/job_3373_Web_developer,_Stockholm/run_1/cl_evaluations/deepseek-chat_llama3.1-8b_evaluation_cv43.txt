@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management, learning design, and facilitation, which is a relevant industry but does not align with the core technical requirements of the role. While they mention React, Git, and a passion for clean code, the cover letter lacks any demonstrated, hands-on experience with the specific front-end technologies, testing frameworks, and tools listed in the job description. The application emphasizes soft skills and adjacent experience but fails to substantiate proficiency in the required hard skills.

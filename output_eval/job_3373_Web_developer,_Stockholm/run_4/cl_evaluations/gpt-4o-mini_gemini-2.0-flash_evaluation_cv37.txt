@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT management and foundational knowledge in JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks like React, testing frameworks, and tools mentioned in the job description, which are critical for the Front End Developer role. Additionally, their experience does not explicitly demonstrate familiarity with Agile methodologies or proactive collaboration in software development contexts.

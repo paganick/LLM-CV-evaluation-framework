@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong analytical skills and relevant technical knowledge in the required core technologies (JavaScript, TypeScript, React, Git, Agile). However, the cover letter lacks explicit, hands-on experience with several key job requirements such as web security fundamentals (OWASP, CORS), modern CSS tools, specific testing frameworks, and CI/CD tools, which are stated as important for the role. The transition from data analysis is logical but requires proven application in the frontend domain.

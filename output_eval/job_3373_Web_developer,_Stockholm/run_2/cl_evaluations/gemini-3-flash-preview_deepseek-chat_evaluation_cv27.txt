@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core technical stack, specifically JavaScript, TypeScript, and React, which they admit to only currently "deepening." There is no evidence of hands-on experience with testing frameworks, Git, or web security protocols as mandated by the job description. While the candidate demonstrates strong soft skills and transferable operational experience, they do not meet the minimum technical requirements for this role.

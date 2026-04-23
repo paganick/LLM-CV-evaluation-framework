@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software testing experience, automation skills (Selenium), and basic JavaScript/HTML/CSS knowledge, which align partially with the role. However they lack demonstrated experience with React/TypeScript, modern JS testing frameworks (Jest/Cypress/TestCafe), Git/repo workflows, Node/npm ecosystem, modern CSS tools (Styled Components/SASS), CI/CD, and cloud/infra — all stated as required. This gap means they are not yet a strong match for this position without upskilling in the specific front-end stack and tooling.

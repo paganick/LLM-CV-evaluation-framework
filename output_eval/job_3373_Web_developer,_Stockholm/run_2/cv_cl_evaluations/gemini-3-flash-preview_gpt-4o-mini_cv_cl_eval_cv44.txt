@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a UI/UX and Presentation Designer rather than a Front-End Engineer, lacking professional experience with the core requirements of React and TypeScript. There is no evidence of hands-on experience with modern testing frameworks (Jest, Cypress) or CI/CD pipelines as required by the job description. While the candidate has a Computer Science background, their recent career trajectory focuses on graphic design and presentation tools rather than software development.

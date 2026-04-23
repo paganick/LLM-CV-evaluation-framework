@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong visual/design and stakeholder-collaboration experience with some basic front-end exposure, but no clear 2-3 years’ commercial UX designer experience, no mention of Figma, formal user research, or explicit Agile UX practice. They demonstrate transferrable skills (mentoring, prototyping in Adobe, basic JS/HTML) but lack key, demonstrated experience required to manage a UX roadmap, run structured user testing, and maintain a UI design system.

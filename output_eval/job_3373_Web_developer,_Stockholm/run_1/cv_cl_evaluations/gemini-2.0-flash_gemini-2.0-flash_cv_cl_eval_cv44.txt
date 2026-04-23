@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a Computer Science degree and some experience with HTML and CSS, but lacks experience with Javascript, Typescript, modern FE frameworks like React, testing frameworks, and other essential skills mentioned in the job description. The candidate's experience is primarily in design, not front-end development. While the cover letter expresses a willingness to learn, the gap in required skills is significant.

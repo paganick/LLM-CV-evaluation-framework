@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not front-end development, and they lack the required hands-on technical experience. They admit to needing to expand their knowledge of core technologies like JavaScript frameworks and have no stated experience with testing, modern tooling, or the specific technical stack listed. While they demonstrate some adjacent skills and a good attitude, they do not meet the fundamental technical requirements for the role.

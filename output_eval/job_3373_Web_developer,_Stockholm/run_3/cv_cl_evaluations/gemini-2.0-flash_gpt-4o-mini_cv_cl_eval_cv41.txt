@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is in a relevant industry, but the resume focuses on systems administration and lacks substantial front-end development experience. The cover letter mentions JavaScript, HTML, CSS, and React, but the resume doesn't provide concrete evidence of hands-on experience with these technologies or related frameworks. The resume showcases systems engineering skills, which don't align with the front-end developer role.

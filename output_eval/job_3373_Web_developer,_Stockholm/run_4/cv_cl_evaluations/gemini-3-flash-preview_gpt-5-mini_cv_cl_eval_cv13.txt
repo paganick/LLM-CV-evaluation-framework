@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Technical Project Manager rather than a dedicated Front-End Engineer, lacking the professional depth required for a senior-level development role. While they have basic web development knowledge, they lack evidence of experience with the mandatory React and TypeScript stack, modern testing frameworks, and CI/CD pipelines. Their background is heavily focused on project leadership, SEO, and analytics rather than the "clean code" engineering and architectural requirements specified.

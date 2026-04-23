@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer with a background in visual arts and print media, which is entirely unrelated to the technical requirements of a Front-End Developer. There is no evidence of experience with JavaScript, TypeScript, React, or any modern software engineering practices such as unit testing or CI/CD. The resume fails to meet every core technical competency listed in the job description.

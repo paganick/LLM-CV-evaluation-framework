@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate's background is primarily in graphic design, with limited experience in the specific technologies listed in the job description. While they possess HTML/CSS skills, they lack experience with modern FE frameworks like React and TypeScript, testing frameworks, and NodeJS. The cover letter expresses a desire to learn these technologies, but the current skillset doesn't align with the requirements.

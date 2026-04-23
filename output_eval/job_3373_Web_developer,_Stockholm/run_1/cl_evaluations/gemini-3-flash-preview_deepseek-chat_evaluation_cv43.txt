@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career switcher who lacks professional experience in a software engineering role, failing to meet the requirement for established industry tenure. While they have proactively learned the specific technical stack, including React, TypeScript, and Ramda, their "hands-on experience" is limited to self-study and personal projects rather than commercial production environments. Consequently, they do not demonstrate the professional maturity or proven track record necessary to fulfill the role's requirements.

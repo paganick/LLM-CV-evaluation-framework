@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses project management experience in the tech industry and has relevant knowledge of JavaScript, TypeScript, HTML, CSS, and frameworks like React. However, their lack of extensive hands-on development experience, especially in testing automation and modern CSS tools, limits their fit for the role. While they have some understanding of Agile methodologies, a stronger emphasis on development-related skills is needed to fully meet the job requirements.

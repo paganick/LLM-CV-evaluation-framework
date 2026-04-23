@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a foundational understanding of JavaScript, HTML, and CSS but lacks explicit experience with modern FE frameworks like React as the job description requires. While the candidate expresses willingness to learn React, TypeScript, and other tools, the resume doesn't reflect hands-on experience, resulting in a moderate fit. The candidate also mentions experience with API design, which is a plus.

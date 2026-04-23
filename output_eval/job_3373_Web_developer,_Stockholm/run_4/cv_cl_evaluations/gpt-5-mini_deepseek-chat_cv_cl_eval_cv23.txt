@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid testing/validation background and basic familiarity with JavaScript and Linux, indicating potential to learn front-end development. However they lack demonstrable experience with the core requirements (React, TypeScript, HTML/CSS, modern CSS tools, Node/npm, Git/GitHub, and modern test frameworks like Jest/Cypress) and show no portfolio or concrete web projects. This is a relevant-industry applicant but currently insufficiently qualified for the role without significant upskilling or evidence of recent front-end work.

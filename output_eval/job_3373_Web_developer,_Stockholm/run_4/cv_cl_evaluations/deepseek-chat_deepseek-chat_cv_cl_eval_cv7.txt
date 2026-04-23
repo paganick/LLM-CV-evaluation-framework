@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not professional software development, and they lack demonstrable, hands-on experience with the core technologies listed in the job description (React, TypeScript, testing frameworks, Git, security concepts). While they express enthusiasm and mention self-study, the resume provides no evidence of professional work with modern front-end frameworks, testing, or the other required technical skills, making them unqualified for this specific engineering role.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Engineer role. With more than ten years in test engineering and a strong background in test automation, debugging, and cross-functional collaboration, I bring a disciplined, quality-first approach that aligns well with your team's needs.
+
+Throughout my career I have designed, developed and maintained tester software and automated validation procedures for complex electronic systems and firmware. I have hands-on experience writing Python test scripts, creating repeatable test suites, and implementing failure analysis processes to ensure product reliability. I regularly perform root-cause analysis with oscilloscopes, network analyzers and other lab instrumentation, and translate those technical findings into actionable improvements for engineering and manufacturing teams.
+
+My work in New Product Introduction (NPI) environments required tight collaboration with hardware and software engineers, quality teams and external customers. I acted as a primary technical interface to customers, coached diagnostic technicians across domestic and overseas sites, and prepared standardized test processes, MES routes and visual work instructions to ensure consistent results in production. I am Bronze Six Sigma certified and have participated in Lean initiatives including Kaizen, 5S, Kanban and workflow optimization to increase first-pass yield and reduce test WIP.
+
+While my background is rooted in electronics and test engineering rather than front-end JavaScript frameworks, I have a genuine passion for software quality and for learning new technologies. I have written and maintained tester software and shell scripts on Linux and Solaris platforms and I am confident I can quickly pick up modern front-end tools and frameworks such as React, TypeScript, and modern CSS approaches. My strengths are pragmatic debugging, automated test design, clear documentation, and collaborating across teams to deliver reliable products.
+
+I am particularly drawn to roles that combine development with a strong testing culture. I enjoy creating automated checks, improving test coverage, and documenting reproducible procedures so teams can move faster with confidence. Given my history of delivering robust test solutions in high-stakes production environments, I will bring meticulous attention to edge cases, regression risks, and clear handoffs.
+
+I welcome the opportunity to bring my testing mindset, discipline for clean, maintainable code and cross-team communication skills to your front-end team, and to rapidly grow into the React/TypeScript ecosystem.
+
+Sincerely, Alexis

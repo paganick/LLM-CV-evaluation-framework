@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, PHP, HTML, and CSS, and displays a strong understanding of web security fundamentals. However, they lack mention of specific front-end frameworks such as React, and testing frameworks specified in the job description (e.g., Jest, TestCafe). Additionally, there is no reference to modern CSS tools or CI/CD experience, which are important for the role.

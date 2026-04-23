@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates a strong understanding of core frontend concepts, testing, and Agile methodologies. However, the cover letter lacks explicit, hands-on experience with several key technologies listed in the job description, such as CSS tools, security concepts, and modern build/CI/CD pipelines. The candidate's background is primarily in legacy systems, making their direct proficiency in the modern React ecosystem and associated tools aspirational rather than proven.

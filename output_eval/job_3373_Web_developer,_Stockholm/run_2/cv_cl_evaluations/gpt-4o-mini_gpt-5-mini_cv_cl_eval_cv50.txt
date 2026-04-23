@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and a degree in Computer Science, but lacks direct experience with modern frontend frameworks such as React, TypeScript, and relevant testing tools. While the experience in software lifecycle management and quality processes is relevant, the absence of specific skills in JavaScript development and frontend technologies makes them only somewhat qualified for the role.

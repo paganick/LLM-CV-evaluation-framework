@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation professional and lacks any professional software engineering experience or the technical skills required for this role. They do not demonstrate proficiency in React, TypeScript, or modern front-end development tools beyond a stated interest in transitioning careers. Their background in CRM systems and marketing campaigns does not align with the core requirements for a front-end developer.

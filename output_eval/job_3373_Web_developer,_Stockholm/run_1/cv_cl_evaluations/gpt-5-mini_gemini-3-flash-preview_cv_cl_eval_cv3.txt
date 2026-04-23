@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational web skills (HTML, CSS, JavaScript) and a relevant degree with project experience, but lacks demonstrated hands-on experience with core requirements such as React, TypeScript, Git, modern Node tooling, testing/test automation, and CI/CD. Their cover letter states interest and eagerness to learn modern tools (SASS, Jest, Cypress, AWS), but provides no concrete examples or work history showing those competencies. Overall, they are in the relevant industry but do not meet the specific technical expectations for this role.

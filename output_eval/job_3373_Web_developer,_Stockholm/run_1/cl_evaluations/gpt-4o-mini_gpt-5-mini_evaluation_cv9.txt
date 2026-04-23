@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has relevant experience in testing and automation, strong JavaScript and HTML skills, and familiarity with Git and Agile practices, which align well with the job requirements. However, their primary experience is server-side Java and they are still developing their front-end technology skills in React and TypeScript, which slightly lessens their fit for the front-end focused role.

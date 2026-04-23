@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in HTML, JavaScript, and web design, along with experience in collaborative environments. However, they lack specified hands-on experience with the required modern front-end frameworks, testing frameworks, and specific technologies mentioned in the job description such as Git and web security knowledge. Their focus on learning is commendable, but it does not demonstrate the requisite experience for the role.

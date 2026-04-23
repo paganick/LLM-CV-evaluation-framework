@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no professional experience in software engineering or the required technical stack. They lack essential skills in JavaScript, TypeScript, React, automated testing, and cloud infrastructure, possessing only basic HTML knowledge used for desktop publishing. Their background is entirely focused on sales management and leadership, making them completely unqualified for a specialized Front-End Engineer position.

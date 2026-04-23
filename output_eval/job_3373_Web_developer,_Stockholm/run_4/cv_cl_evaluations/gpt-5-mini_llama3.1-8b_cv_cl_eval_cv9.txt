@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced backend Java/JEE engineer with solid TDD/BDD practice, OAuth and Git exposure, but the resume shows only basic JavaScript/HTML and no evidence of React, TypeScript, modern CSS, Node.js ecosystem or frontend testing frameworks required by the role. While Agile collaboration and some security knowledge are present, the lack of demonstrated modern frontend framework experience and frontend toolchain skills makes them a poor fit for this position.

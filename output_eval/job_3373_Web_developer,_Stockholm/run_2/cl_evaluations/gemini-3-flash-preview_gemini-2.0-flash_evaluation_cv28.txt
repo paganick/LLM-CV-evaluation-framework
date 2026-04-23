@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is from a completely unrelated industry and lacks all of the mandatory technical requirements, including JavaScript, TypeScript, and React. While the candidate mentions an aptitude for learning, they possess no professional experience with the modern frontend ecosystem, testing automation, or security protocols listed in the job description. This profile does not meet the minimum qualifications for a developer role and would require significant training to become functional.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and fine arts, which is the wrong industry for a modern front-end engineering role. The resume and cover letter show no evidence of the required technical skills (JavaScript, TypeScript, React, testing, Git, security) or any software development experience. The application is a complete mismatch for the job description's focus on software engineering and modern web development.

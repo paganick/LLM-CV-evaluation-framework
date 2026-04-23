@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in software development but lacks specific proficiency in the required modern front-end technologies like JavaScript frameworks (specifically React) and does not mention TypeScript. While they have a solid background in Java/J2EE and Agile environments, the limited exposure to modern CSS tools and testing frameworks also detracts from their fit for the role.

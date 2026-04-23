@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a basic understanding of web technologies such as HTML, CSS, and JavaScript, but lacks the specific experience with modern front-end frameworks like React, which is crucial for the position. Their background is primarily in advertising and media, with limited relevant technical experience and no hands-on experience in testing frameworks, security principles, or CI/CD tools, which diminishes their fit for the role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on marketing automation consulting with Eloqua and Salesforce, lacking the required front-end development skills such as JavaScript, TypeScript, React, HTML, and CSS. The resume does not demonstrate experience with testing frameworks, CI/CD tools, or cloud platforms like AWS. The candidate's expertise is in a different domain, making them unqualified for this front-end developer position.

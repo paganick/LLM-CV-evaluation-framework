@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant skills in JavaScript, TypeScript, HTML, CSS, and React, their experience primarily lies in finance operations and business management, lacking direct hands-on experience in web development and modern frameworks. Additionally, there is no mention of familiarity with crucial requirements such as modern CSS tools, basic web security knowledge, or specific testing frameworks beyond Jest and Cypress. The applicant shows potential but does not fully satisfy the technical prerequisites outlined in the job description.

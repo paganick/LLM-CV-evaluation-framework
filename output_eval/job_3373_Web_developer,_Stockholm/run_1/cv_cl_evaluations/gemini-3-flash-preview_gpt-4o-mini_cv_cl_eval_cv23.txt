@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is centered on electronics, hardware testing, and lab technician roles rather than modern front-end web development. While the cover letter claims familiarity with React and modern tools, the resume provides no evidence of professional application of these skills and contains a notable eight-year gap in work history since 2016. The candidate lacks the required expertise in TypeScript, React, and CSS-in-JS tools necessary for this senior-level tech stack.

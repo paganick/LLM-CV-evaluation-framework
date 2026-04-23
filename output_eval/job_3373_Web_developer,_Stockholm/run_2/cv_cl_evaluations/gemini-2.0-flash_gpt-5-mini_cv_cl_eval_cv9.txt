@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily Java-focused, lacking significant experience in the core front-end technologies (React, TypeScript, modern CSS) listed in the job description. While the candidate expresses interest and willingness to learn, the resume demonstrates minimal practical experience with the specified JavaScript frameworks and tooling. The candidate's skillset leans heavily toward backend technologies, making them a weaker fit for a front-end role despite some overlap in areas like testing and API design.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate brings strong test-engineering and automation background, relevant web security knowledge, and Agile/collaboration experience, but lacks demonstrated hands-on experience with core front-end technologies required (JavaScript/TypeScript, HTML/CSS, React). They also do not show experience with modern front-end tools and ecosystems expected (Styled Components/SASS, Jest/Cypress, Node/npm, linters/formatters, Ramda, CI/CD). With training and mentorship they could transition, but as-is they do not meet the role's primary technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management, not hands-on front-end development, which is the core requirement. While they mention some relevant technologies (JavaScript, Angular, SASS), their resume and cover letter lack specific, recent, and detailed experience with React, modern testing frameworks, and the security concepts listed. Their project management experience is a secondary asset, but they do not meet the primary technical qualifications for a dedicated front-end developer role.

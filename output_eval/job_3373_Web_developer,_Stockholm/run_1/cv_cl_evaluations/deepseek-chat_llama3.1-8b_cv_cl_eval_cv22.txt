@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, which is the wrong industry for this front-end developer role. The resume and cover letter list many required technologies (e.g., React, TypeScript, Jest) but provide no evidence of professional experience or project work with them, indicating a severe lack of the specific technical skills demanded. The application appears to be an attempt at a career switch with no demonstrated, relevant hands-on experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, which is tangentially related but lacks the core front-end development skills required. While they possess HTML and CSS skills, they admit to limited experience with JavaScript and TypeScript, the primary languages mentioned in the job description. The resume showcases graphic design experience, electrical work, and other unrelated roles, failing to demonstrate the necessary expertise for the position.

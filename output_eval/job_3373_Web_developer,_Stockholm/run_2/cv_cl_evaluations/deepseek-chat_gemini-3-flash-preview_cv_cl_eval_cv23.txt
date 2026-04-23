@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in electronics and hardware testing, not professional frontend software development. While they mention some relevant keywords like JavaScript and Git, they lack demonstrable, hands-on experience with React, TypeScript, modern CSS, testing frameworks, and the other core technologies listed. The application shows a career transition attempt but provides no evidence of the required skills or project work for a Frontend Engineer role.

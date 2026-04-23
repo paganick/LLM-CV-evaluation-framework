@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in design and visual merchandising but lacks specific front-end development skills, such as proficiency in JavaScript, TypeScript, modern frameworks like React, and testing frameworks mentioned in the job description. Additionally, there is no mention of experience with version control systems like Git or knowledge of web security principles. Overall, while the candidate's design background may offer some transferrable skills, they do not meet the core technical requirements for the Front-End Developer position.

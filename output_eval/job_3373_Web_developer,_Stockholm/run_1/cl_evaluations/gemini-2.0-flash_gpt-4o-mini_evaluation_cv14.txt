@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with web development and related technologies like HTML, CSS, JavaScript, and Git/GitHub. They highlight experience in an Agile environment and a commitment to clean code. While they possess a basic understanding of some required technologies, they lack the depth of experience in modern front-end frameworks and testing automation tools, which the job description emphasizes.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal and PHP specialist, which does not align with the requirement for a modern Frontend Engineer proficient in React and TypeScript. There is no evidence of experience with the requested technical stack, including modern JavaScript frameworks, TypeScript, Styled Components, or the Node.js ecosystem. While the candidate possesses solid general IT experience, they lack the specific functional programming and modern frontend architecture skills essential for this role.

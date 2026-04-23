@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is a significant career transition, lacking direct professional experience in web development. While they list many technologies, they are academic and not aligned with the job's specific modern stack (React, TypeScript, testing frameworks). The letter demonstrates soft skills and motivation but provides no evidence of the required technical proficiencies like Git, testing, security, or modern tooling.

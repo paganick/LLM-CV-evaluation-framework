@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and development, particularly with HTML and CSS, which are fundamental skills for a Frontend Developer position. However, there is a notable lack of specific experience with JavaScript, TypeScript, modern frontend frameworks, and testing automation tools mentioned in the job description. While the candidate demonstrates a solid understanding of user experience and collaboration, they do not fully meet the technical skill requirements necessary for a strong fit.

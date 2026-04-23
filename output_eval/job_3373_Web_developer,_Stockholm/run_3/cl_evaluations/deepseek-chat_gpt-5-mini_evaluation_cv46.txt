@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed toward server-side, database, and legacy systems, with minimal direct front-end development experience. They lack demonstrable hands-on experience with the core requirements: modern front-end frameworks (React), testing automation, and specific modern toolchains listed in the job description. While they show strong general engineering principles and a willingness to learn, their current skill set does not align with the specific technical demands of the role.

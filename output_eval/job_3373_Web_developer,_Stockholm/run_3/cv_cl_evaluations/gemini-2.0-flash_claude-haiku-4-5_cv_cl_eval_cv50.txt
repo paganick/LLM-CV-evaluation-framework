@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and project management, with a computer science degree from 1984. They lack demonstrable experience with modern frontend technologies like React, TypeScript, and relevant testing frameworks. While the cover letter expresses interest in learning these technologies, the resume does not reflect hands-on experience required for the role.

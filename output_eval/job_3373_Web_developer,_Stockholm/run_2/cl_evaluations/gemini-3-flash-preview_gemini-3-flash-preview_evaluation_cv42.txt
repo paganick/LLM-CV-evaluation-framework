@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate mentions key technologies like React and functional programming, their professional history is almost entirely rooted in operations and finance rather than engineering. The technical accomplishments described suggest project management and implementation leadership rather than hands-on coding proficiency in JavaScript, TypeScript, or CSS. The lack of verifiable professional experience in a developer role makes them a high-risk candidate for this specific technical requirement.

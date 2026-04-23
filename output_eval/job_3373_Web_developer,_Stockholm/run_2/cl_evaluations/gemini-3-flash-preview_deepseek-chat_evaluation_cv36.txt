@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is transitioning from a completely unrelated industry (microbiology) and lacks any professional experience in software engineering. While they demonstrate a strong theoretical grasp of the required tech stack and niche tools like Ramda, they do not meet the requirement for "hands-on experience" in a commercial, production-level environment. For a strict recruiter, the absence of a verifiable track record in an Agile team or the tech industry as a whole necessitates a low score.

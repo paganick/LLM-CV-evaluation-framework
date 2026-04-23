@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant interest in frontend development and has foundational knowledge in HTML, CSS, and some JavaScript frameworks. However, they lack hands-on experience with the specific technologies and methodologies listed in the job description, such as testing frameworks, modern CSS tools, and familiarity with the NodeJS ecosystem. Their leadership experience adds value, but they do not fully meet the technical skill requirements for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in graphic design and some knowledge of front-end technologies, including HTML and CSS, but lacks specific experience with JavaScript frameworks like React, as well as testing frameworks and CI/CD tools mentioned in the job description. While the applicant demonstrates a willingness to learn, they do not fulfill the required technical skills and experience for the role.

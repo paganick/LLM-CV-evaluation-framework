@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in mainframe development, which doesn't align with the modern front-end technologies listed in the job description. While the cover letter expresses a willingness to learn, the resume lacks demonstrable experience with JavaScript, React, or modern CSS tools. The candidate's skills are outdated for this role.

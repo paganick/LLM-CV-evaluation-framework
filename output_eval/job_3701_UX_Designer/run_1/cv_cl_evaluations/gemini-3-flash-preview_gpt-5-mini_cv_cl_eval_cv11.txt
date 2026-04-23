@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a mechanical/industrial product designer with 40 years of experience in physical manufacturing, which is the wrong industry for this digital UX role. They lack required experience with Figma, Agile software development, and UI design systems, focusing instead on AutoCAD and injection molding. Despite a strong background in physical engineering, they do not possess the 2-3 years of commercial digital UX experience specified in the requirements.

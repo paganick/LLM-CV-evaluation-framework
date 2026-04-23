@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills and has studied core technologies (JavaScript/TypeScript/React) but provides no evidence of hands-on professional frontend experience or demonstrable projects. Key requirements such as proven test automation (Jest/Cypress), CI/CD, practical Node.js ecosystem experience, Ramda usage, and familiarity with AWS/Terraform are not evidenced. Overall, the profile is promising for a career transition but currently underqualified for this role without concrete, practical experience.

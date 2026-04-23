@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior IT management and cybersecurity professional with no documented experience in frontend or full-stack software development. The resume lacks any mention of the required technologies, such as JavaScript, TypeScript, React, or modern CSS tools, and instead focuses on military information assurance and systems administration. There is a complete mismatch between the candidate's background in government defense and the technical requirements of the web development role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer applying for a Software Engineering role and lacks the required professional experience in JavaScript, TypeScript, and modern frameworks like React. While the resume mentions basic HTML and CSS, it shows no evidence of expertise in automated testing, Git, web security, or cloud infrastructure. The candidate's background in print and visual design does not align with the technical requirements of the position.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter demonstrate a career in civil engineering and construction management with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React, frontend testing, Git, NodeJS, or related tooling required for this role. While they emphasize strong project management and collaboration skills, there is no evidence of relevant technical training, hands-on frontend work, or portfolio to meet the job's essential technical requirements.

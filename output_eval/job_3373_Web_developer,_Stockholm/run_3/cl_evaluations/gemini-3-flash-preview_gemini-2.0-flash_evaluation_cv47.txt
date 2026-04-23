@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified, lacking professional experience in JavaScript, TypeScript, and the required React framework. Their background in business development is irrelevant to the engineering requirements, and a basic knowledge of HTML is insufficient for a role demanding expertise in complex software development and testing.

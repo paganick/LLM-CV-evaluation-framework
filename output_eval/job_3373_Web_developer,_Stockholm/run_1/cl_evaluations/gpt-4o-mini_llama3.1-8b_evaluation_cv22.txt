@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web technologies such as JavaScript, TypeScript, HTML, and CSS, which aligns with the job requirements. They also have familiarity with testing frameworks and CI/CD tools, which is beneficial. However, there is no mention of modern front-end frameworks like React, or knowledge of security aspects on the web, which slightly lowers their fit for the role.

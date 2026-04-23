@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in graphic design and HTML/CSS, they lack the specific technical mastery of React and TypeScript required for this role. They describe their JavaScript skills as only a "working understanding" and admit to a significant lack of experience in testing and automation frameworks. The profile is more aligned with a UI/UX Designer than a modern Front-End Engineer capable of handling complex application logic and security.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in digital content creation and website management but lacks essential front-end development skills including JavaScript, TypeScript, and modern frameworks such as React. Their background in film and media production does not align with the technical requirements of the role, and there is no evidence of hands-on experience in testing or automation which are critical for the position.

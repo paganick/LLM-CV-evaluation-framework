@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in advertising and media planning, which is not directly aligned with frontend development. While they possess some foundational knowledge in HTML, CSS, and Java, they lack hands-on experience with modern frontend frameworks like React, as well as testing and automation tools mentioned in the job description. Their eagerness to learn is commendable, but they don't meet the specific skills and experience required for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe development, which is significantly different from the required frontend technologies. While they express a willingness to learn React, they lack demonstrable experience in Javascript, TypeScript, modern FE frameworks, and testing methodologies outlined in the job description. The cover letter highlights transferable skills, but the absence of direct frontend experience is a significant gap.

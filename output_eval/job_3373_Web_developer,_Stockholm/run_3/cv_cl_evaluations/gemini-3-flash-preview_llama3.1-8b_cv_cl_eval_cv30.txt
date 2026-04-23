@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified, as their professional experience is in data analytics and semiconductor engineering rather than modern frontend development. There is no evidence in the resume of professional work with the required tech stack, including React, TypeScript, or modern testing frameworks. The candidate's background in SAS, SQL, and Python represents a complete mismatch for a role centered on JavaScript-based web architecture and cloud infrastructure.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant experience in systems engineering and has a foundational knowledge of key frontend technologies, which is a positive aspect. However, they lack specific hands-on experience with modern frontend frameworks like React and testing frameworks mentioned in the job description, which weakens their suitability for the role. The candidate's enthusiasm and commitment to continuous learning are commendable, but their skill set does not fully align with the requirements for the position.

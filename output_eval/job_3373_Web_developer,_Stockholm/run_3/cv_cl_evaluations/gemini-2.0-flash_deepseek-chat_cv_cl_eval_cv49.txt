@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a data analysis background, which is not a direct fit for a Frontend Developer role. While the cover letter mentions some relevant technologies like JavaScript, TypeScript, HTML, and CSS, the resume lacks substantial evidence of hands-on experience with modern FE frameworks like React. The candidate shows enthusiasm to learn, but lacks the required practical experience.

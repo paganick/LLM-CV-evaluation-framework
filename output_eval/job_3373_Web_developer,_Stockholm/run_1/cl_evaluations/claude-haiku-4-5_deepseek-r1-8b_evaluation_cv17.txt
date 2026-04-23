@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in construction and project management with no mention of software development, frontend development, or any of the required technical skills (JavaScript, TypeScript, React, testing frameworks, Git, etc.). The cover letter demonstrates a fundamental misalignment with a frontend engineering role, as it contains no evidence of programming experience, web development knowledge, or familiarity with the technical stack outlined in the job description. This is a completely wrong industry match for the position.

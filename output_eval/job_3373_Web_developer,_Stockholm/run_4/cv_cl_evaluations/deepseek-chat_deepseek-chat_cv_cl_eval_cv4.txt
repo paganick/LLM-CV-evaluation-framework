@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and Python for backend/data systems, with only generic mentions of HTML, CSS, and JavaScript. The resume and cover letter lack any demonstrated experience with React, TypeScript, modern front-end tooling, or test automation frameworks specified in the job description. While they have relevant software development experience and soft skills, they lack the specific, hands-on front-end and testing expertise required for this role.

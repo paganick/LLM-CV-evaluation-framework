@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in client-side scripting, including HTML, CSS, and JavaScript, as well as experience with AngularJS, which aligns moderately with the job description that emphasizes React. However, there is a lack of specific experience with modern frameworks like React and test automation tools mentioned. Additionally, the candidate's knowledge in areas such as Git, security principles, and the NodeJS ecosystem appears insufficient for a strong match.

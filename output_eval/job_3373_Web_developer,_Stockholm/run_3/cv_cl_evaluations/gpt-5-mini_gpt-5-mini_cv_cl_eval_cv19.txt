@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong graphic design and HTML/CSS background but lacks any demonstrated experience with JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, or web security—core requirements for this role. They express a willingness to learn modern front-end technologies, but current skills do not meet the job's technical needs. With significant upskilling and hands-on experience in the listed technologies, they could become a viable candidate.

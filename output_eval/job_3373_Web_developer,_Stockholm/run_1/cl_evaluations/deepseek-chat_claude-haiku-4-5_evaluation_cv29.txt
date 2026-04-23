@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not hands-on frontend engineering, and they lack demonstrable, direct experience with the core technologies listed in the job description such as React, TypeScript, and modern testing frameworks. While they show enthusiasm and have relevant adjacent knowledge from collaborating with technical teams, they do not meet the specific, practical skill requirements for the role. Their foundational knowledge is insufficient to be considered a qualified applicant for a hands-on development position.

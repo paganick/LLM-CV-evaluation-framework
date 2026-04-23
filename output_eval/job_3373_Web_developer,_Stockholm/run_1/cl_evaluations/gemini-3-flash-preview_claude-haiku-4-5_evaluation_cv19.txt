@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the required core technologies, specifically JavaScript, TypeScript, and React, which are fundamental to the position. While they possess a background in graphic design and basic HTML/CSS, they explicitly admit to needing development in essential areas such as testing frameworks (Jest, Cypress) and the Node.js ecosystem. Consequently, the applicant does not meet the technical requirements for a developer role and would require extensive training to become functional.

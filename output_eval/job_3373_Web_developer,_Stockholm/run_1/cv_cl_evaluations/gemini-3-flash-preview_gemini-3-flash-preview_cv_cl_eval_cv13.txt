@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager rather than a dedicated Front-End Engineer and lacks professional experience with the required tech stack, specifically React and TypeScript. There is no evidence of experience with automated testing frameworks (Jest, Cypress) or modern tooling like CI/CD, AWS, and functional programming. While the candidate has a technical background, their skills appear dated and focused on management rather than modern software development.

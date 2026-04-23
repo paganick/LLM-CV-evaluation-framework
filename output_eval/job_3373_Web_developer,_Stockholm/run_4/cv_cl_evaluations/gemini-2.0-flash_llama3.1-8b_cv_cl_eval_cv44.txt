@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some overlap in skills such as HTML, CSS, and Javascript, but does not showcase enough experience with modern FE frameworks, testing, or security practices. Their work history is focused on presentation and multimedia design, not software development. The cover letter attempts to bridge the gap, but the resume lacks sufficient evidence of the required skills.

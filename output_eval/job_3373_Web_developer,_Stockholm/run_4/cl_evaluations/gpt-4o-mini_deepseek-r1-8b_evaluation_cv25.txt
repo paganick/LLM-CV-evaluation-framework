@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design and some relevant technical experience, including HTML, CSS, and experience with design tools like Adobe Creative Suite. However, they lack key requirements such as experience with JavaScript frameworks like React, comprehensive testing and test automation knowledge, and familiarity with mentioned CI/CD tools and security practices, placing them below a strong candidate level.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and mentions key technologies like React, CSS tools, and Agile. However, the cover letter is vague and lacks concrete, hands-on examples of required skills such as TypeScript, testing frameworks, Git, and specific security knowledge. The background is heavily weighted toward creative direction, with insufficient evidence of recent, practical frontend development experience matching the job's technical depth.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT consulting and a strong foundation in web development, including JavaScript, HTML5, and CSS. However, they lack specific hands-on experience with modern frontend frameworks like React, which is crucial for the role, as well as familiarity with testing frameworks and tools directly aligned with the job description. Additionally, their knowledge of the Node.js ecosystem and modern CSS tools is mentioned but not deeply demonstrated.

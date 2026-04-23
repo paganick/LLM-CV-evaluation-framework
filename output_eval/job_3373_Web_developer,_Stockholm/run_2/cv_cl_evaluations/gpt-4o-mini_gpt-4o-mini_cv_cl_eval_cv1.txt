@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has strong experience in JavaScript, HTML, CSS, React, and Angular, which aligns well with the job description. They also possess hands-on experience with test automation and are familiar with Git and CI/CD practices. However, their experience in specific frameworks like Svelte and knowledge about certain tools and concepts like functional programming and API design could be more robust, preventing a perfect match.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer with no professional experience in software engineering or modern front-end development, lacking the required proficiency in JavaScript, TypeScript, and React. Their technical background is focused on print and visual design tools rather than the development, testing, and CI/CD protocols specified in the job description. The candidate is fundamentally unqualified for this engineering-heavy role.

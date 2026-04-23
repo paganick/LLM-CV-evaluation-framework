@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant education in web development and some knowledge of HTML, CSS, and JavaScript. However, they lack specific experience with modern frameworks like React, testing methodologies, and familiarity with tools such as Git, among other technologies listed in the job description. Their construction background, while demonstrating strong work ethic and problem-solving skills, does not compensate for the lack of direct experience in web development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a digital communications background and lacks any demonstrated hands-on experience with JavaScript/TypeScript, React (or other modern frameworks), testing/automation, Node ecosystem, Git workflows, or related tooling required for this frontend role. They do bring strong communication, accessibility (Section 508) experience, and a willingness to learn, but their current skillset is insufficient for an immediate contribution to this position without substantial technical training.

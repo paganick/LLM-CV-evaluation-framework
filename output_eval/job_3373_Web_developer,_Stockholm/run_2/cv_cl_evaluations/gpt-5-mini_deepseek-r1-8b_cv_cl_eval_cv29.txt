@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a senior business development and marketing professional with no demonstrated front-end engineering experience or the technical skills required (JavaScript/TypeScript, React, testing frameworks, Git/CI, NodeJS, AWS, web security). Their resume and cover letter focus on sales, CRM, and marketing collateral rather than coding, modern FE frameworks, or infrastructure, showing no match to the role. Therefore they are completely unqualified for this frontend engineering position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter highlights database and backend skills (SQL, MySQL, Java), which are not the primary focus of the job description (JavaScript, React). While adaptability and interest in learning are mentioned, the lack of demonstrable experience in the core technologies listed in the job description is a significant weakness. The candidate's skills are misaligned with the requirements.

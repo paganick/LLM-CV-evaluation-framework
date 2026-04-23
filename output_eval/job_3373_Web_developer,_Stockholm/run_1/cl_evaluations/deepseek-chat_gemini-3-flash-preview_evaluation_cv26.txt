@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and direct match to the technical requirements, including React, TypeScript, testing frameworks, security protocols, and the specific tools mentioned (Ramda, CircleCI). Their unique background adds valuable perspective on precision, project management, and business domain understanding. The score is not a 9 because the non-traditional career path, while framed as a strength, requires validation of deep, hands-on engineering experience compared to a candidate with a longer tenure exclusively in software development.

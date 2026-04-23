@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in arts administration and education, with no professional experience in software development. The resume lists only basic HTML and web-design, while the cover letter makes claims about React, Git, and testing frameworks that are not substantiated by any work history or projects. This is a severe mismatch for a role requiring hands-on experience with modern front-end frameworks, testing automation, and specific tools like React, Jest, and AWS.

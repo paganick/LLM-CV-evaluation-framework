@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in frontend development, including React, JavaScript, HTML, and CSS, aligning well with the job description's core requirements. They also demonstrate familiarity with testing and Git. While the candidate expresses interest in CI/CD and AWS, the level of expertise is not definitively proven based on the cover letter.

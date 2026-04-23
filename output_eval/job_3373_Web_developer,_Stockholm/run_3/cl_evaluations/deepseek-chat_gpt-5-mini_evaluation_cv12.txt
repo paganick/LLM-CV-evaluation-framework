@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software engineering experience and demonstrates strong foundational skills, but critically lacks direct, hands-on experience with React and TypeScript, which are core requirements. While they show adaptability and have complementary backend and automation skills, the absence of proven experience with the specific modern frontend stack and testing frameworks listed in the job description is a significant gap. Their experience is adjacent but not a direct match for the role's primary technical demands.

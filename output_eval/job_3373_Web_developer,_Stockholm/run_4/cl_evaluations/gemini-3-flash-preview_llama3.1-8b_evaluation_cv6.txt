@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced web developer, they fail to address the core requirements of the role, specifically React, TypeScript, and modern frontend testing frameworks. The applicant focuses heavily on a Drupal/PHP stack which is not requested, and they provide no evidence of proficiency in the required NodeJS ecosystem, functional programming, or cloud infrastructure.

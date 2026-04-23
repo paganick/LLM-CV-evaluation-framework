@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, HTML, CSS, and Angular, which aligns well with the job requirements. They show familiarity with Agile practices and test automation, but there is no mention of specific experience with React, Jest, or modern CSS tools, which are emphasized in the job description. Overall, while the candidate is strong, they could improve with more targeted experience in some areas.

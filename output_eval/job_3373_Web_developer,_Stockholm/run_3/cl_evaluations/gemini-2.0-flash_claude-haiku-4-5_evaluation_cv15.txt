@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundation in JavaScript, HTML, and CSS, and mentions Git, aligning with some job requirements. However, they lack explicit experience with React, TypeScript, and testing frameworks mentioned in the job description. While they express a willingness to learn, the cover letter doesn't showcase sufficient direct experience with the core technologies used by the company.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant transferable skills (HTML, design, collaboration) and clear motivation to learn React, TypeScript, testing, and related tooling, but lacks demonstrated hands-on professional experience with JavaScript/TypeScript, React, testing frameworks, Node ecosystem, and CI/CD required for this role. As a strict evaluator, I find them not yet qualified for the position as described, though they could be considered for a junior/trainee role with further verified technical experience.

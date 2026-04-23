@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in business development and online advertising, demonstrating some understanding of the digital landscape. However, the resume lacks explicit evidence of experience with API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, or Design Thinking, as specified in the job description. While the cover letter attempts to bridge this gap, the resume does not showcase the required depth in specific digital solutions or technology stacks.

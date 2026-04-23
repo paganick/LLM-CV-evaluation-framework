@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate claims proficiency in modern front-end technologies in their cover letter, their resume fails to provide evidence of professional experience with React, TypeScript, or modern testing frameworks like Jest and Cypress. Their primary work history is centered on PHP, Perl, and C++, which does not align with the modern JavaScript-driven stack required for this position. Essential requirements such as CI/CD tools, AWS, and specific web security knowledge are also absent from their documented professional history.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid foundation in the key technical skills relevant to the position, such as JavaScript, React, and modern CSS tools. However, there is insufficient mention of specific testing frameworks and security knowledge as outlined in the job description. Additionally, while the candidate's sales experience is noteworthy, it may not directly align with the technical focus of the role.

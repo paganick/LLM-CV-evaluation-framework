@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and a background in computer science, but lacks specific expertise in modern front-end frameworks like React, as indicated in the job description. While they mention familiarity with some testing frameworks and CI/CD tools, their overall experience seems more focused on database administration and backend technologies rather than the required front-end skills.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and fine arts, not software engineering. They lack any demonstrable experience with the core technologies required, such as JavaScript, TypeScript, React, testing frameworks, Git, or modern front-end development practices. Their "some HTML knowledge" and experience with Dreamweaver are not relevant to the technical demands of this development role.

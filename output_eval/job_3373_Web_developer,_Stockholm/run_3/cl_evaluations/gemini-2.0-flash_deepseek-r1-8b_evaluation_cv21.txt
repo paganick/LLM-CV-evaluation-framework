@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter emphasizes C# and .NET, which are not the primary technologies listed in the job description (React, JavaScript, TypeScript). While the candidate mentions JavaScript, the focus is not aligned with the front-end focus described. The letter highlights full-stack experience, but the job description strongly emphasizes front-end skills.

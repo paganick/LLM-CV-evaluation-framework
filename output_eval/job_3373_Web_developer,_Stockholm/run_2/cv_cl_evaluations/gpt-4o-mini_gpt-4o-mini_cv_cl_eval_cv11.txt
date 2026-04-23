@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and demonstrates familiarity with JavaScript, HTML, and CSS. However, they lack direct experience with modern frontend frameworks specifically related to React as mentioned in the job description. Additionally, while the candidate mentions knowledge of testing frameworks, they do not explicitly highlight experience with the specified tools such as Jest or CI/CD processes, which are crucial for the role.

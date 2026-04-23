@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to meet the mandatory requirement of 2-3 years of commercial UX experience and explicitly admits to having no experience in user research, prototyping, or UI design systems. Their background is entirely within the construction and project management industry, which does not align with the Agile software development environment required for this role. Consequently, the candidate lacks the technical proficiency in Figma, HTML/CSS, and user-centric methodologies necessary to perform the job duties or mentor junior staff.

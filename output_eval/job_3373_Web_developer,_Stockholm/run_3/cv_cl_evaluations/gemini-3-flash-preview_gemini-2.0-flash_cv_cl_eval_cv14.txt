@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional history is centered on the legacy ASP.NET and SharePoint ecosystems, which does not align with the requirement for modern React and TypeScript expertise. There is no verifiable professional experience with automated testing frameworks, modern CSS tools, or functional programming as specified in the job description. While the cover letter claims proficiency in these areas, the resume fails to substantiate these claims through project work or technical certifications.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily centered on backend Java development and legacy frontend technologies like AngularJS, which does not meet the primary requirement for React and TypeScript proficiency. Furthermore, the professional experience is significantly outdated and lacks evidence of modern frontend practices such as E2E testing, CI/CD, or functional programming. While the candidate has a relevant educational background, they lack the specific, contemporary technical skills required for this modern frontend role.

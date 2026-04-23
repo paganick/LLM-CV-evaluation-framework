@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics manufacturing and test engineering, not front-end development. While they demonstrate some relevant transferable skills like problem-solving and test automation, they lack direct, stated experience with the core technologies required (JavaScript, TypeScript, React, HTML, CSS). Their mention of web security concepts is a positive, but the overall profile indicates a significant career transition with unproven hands-on experience in the target role.

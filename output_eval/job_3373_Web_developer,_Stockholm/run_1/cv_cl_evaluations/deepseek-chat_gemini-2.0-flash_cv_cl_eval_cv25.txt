@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design, with no professional experience in modern front-end development, JavaScript, TypeScript, React, testing, or any of the core technical requirements listed. While they mention HTML and CSS, this is in the context of basic web page and email design, not software engineering. The application demonstrates a significant industry and skill mismatch for a senior front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical foundations, strong debugging/testing experience, and security awareness that transfer to frontend work, but lacks demonstrated hands-on experience with React, JavaScript/TypeScript, modern frontend tooling (Styled Components/SASS), frontend testing frameworks (Jest/Cypress/TestCafe), and the NodeJS/CI/CD ecosystem required by the role. Their background suggests trainability but does not meet the job's specific, practical frontend requirements today.

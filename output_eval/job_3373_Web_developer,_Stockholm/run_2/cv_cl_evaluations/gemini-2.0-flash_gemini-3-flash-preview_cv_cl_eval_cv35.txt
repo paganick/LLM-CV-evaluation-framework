@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not software engineering. While they express interest in transitioning and highlight transferable skills, they lack direct experience with JavaScript, TypeScript, modern FE frameworks (React), and testing frameworks mentioned in the job description. The cover letter attempts to bridge the gap, but the resume doesn't provide sufficient evidence of relevant technical skills.

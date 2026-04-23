@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in digital communications and basic front-end technologies like HTML and CSS. However, they lack hands-on experience with essential tools and frameworks specified in the job description, such as various JavaScript frameworks (especially React), testing automation frameworks, and familiarity with Node.js and CI/CD tools. Their enthusiasm for learning is promising, but without concrete skills in key areas, they fall short of being a strong candidate for the position.

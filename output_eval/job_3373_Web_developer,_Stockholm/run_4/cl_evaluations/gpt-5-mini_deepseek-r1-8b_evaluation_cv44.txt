@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant design and QA experience and a Computer Science background, but provides no evidence of core required frontend skills (JavaScript, TypeScript, HTML/CSS), React, modern CSS tooling, Node/npm, or Git. There is no mention of testing frameworks (Jest/Cypress/TestCafe), CI/CD, AWS/Terraform, or web security knowledge (OWASP/CSP/CORS/OAuth), only a stated willingness to learn. Given the gap between stated skills and the role's concrete technical requirements, this is a weak match despite transferable experience.

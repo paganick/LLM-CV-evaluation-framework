@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design with no demonstrated experience in the core technical requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, NodeJS, or AWS/Terraform). While they show strong project management, stakeholder collaboration, and rapid-learning claims, those transferable skills do not compensate for the absence of required frontend engineering competencies. This makes them unsuitable for the engineering role as described.

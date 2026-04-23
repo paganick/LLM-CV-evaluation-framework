@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is broad but outdated and not specific to modern front-end development. The resume and cover letter lack any mention of React, TypeScript, testing frameworks, Git, or the other specific tools and practices listed in the job description. The profile is that of a general IT consultant/systems administrator, not a specialized front-end developer.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in user experience and interface design, which aligns with the industry; however, they lack specific experience with JavaScript, TypeScript, and modern front-end frameworks such as React. While they possess relevant soft skills like collaboration in Agile environments, their experience with testing frameworks and security principles is not adequately demonstrated, making them only a partially qualified candidate.

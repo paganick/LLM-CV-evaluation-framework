@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate’s technical background is heavily focused on a Java/Spring ecosystem, failing to meet the core requirement for TypeScript and modern JavaScript testing frameworks like Jest or Cypress. Furthermore, the application does not address critical job requirements such as web security knowledge, functional programming, and CI/CD tools, representing a significant misalignment with the specified tech stack.

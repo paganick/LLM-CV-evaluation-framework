@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a foundational understanding of HTML and CSS and expresses willingness to learn more. However, the resume lacks concrete experience with modern FE frameworks like React, testing frameworks, and other essential tools mentioned in the job description. Their experience is primarily in a different domain (email marketing) which doesn't align well with the job requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume shows experience as a .NET developer, which has some overlap with the front-end technologies listed in the job description (JavaScript, CSS, HTML). However, the candidate's claimed proficiency in React and other modern FE tools seems overstated, given the lack of concrete projects demonstrating these skills. The resume highlights database and back-end skills more prominently, indicating a weaker focus on the specific front-end requirements of the role.

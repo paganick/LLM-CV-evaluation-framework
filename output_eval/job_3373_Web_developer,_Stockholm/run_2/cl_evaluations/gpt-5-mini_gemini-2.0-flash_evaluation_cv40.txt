@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong product and video-platform experience but the cover letter provides no evidence of hands-on front-end engineering skills (JavaScript/TypeScript, React, HTML/CSS) or examples of coding work. It also omits key tooling and practices required by the role such as testing frameworks, Node/npm, Git workflows, CI/CD, and web security. The profile is industry-relevant but lacks the specific technical qualifications needed for this front-end developer position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has deep UX/UI experience, relevant Agile delivery experience, has led products, run workshops, produced prototypes (Axure, Sketch, XD) and maintained style-guides/design system patterns—matching most core responsibilities. However, they lack explicit Figma experience (listed as highly desirable), show no clear recent employment after 2016, and have limited evidence of JavaScript exposure, which weakens fit for managing a modern UI Design System and team handoffs.

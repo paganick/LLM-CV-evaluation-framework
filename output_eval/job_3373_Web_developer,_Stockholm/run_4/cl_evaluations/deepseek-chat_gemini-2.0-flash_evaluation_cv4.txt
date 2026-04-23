@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions key required skills like JavaScript, HTML, CSS, Agile, and testing. However, the cover letter critically lacks mention of the core technologies from the job description, such as React, TypeScript, modern testing frameworks (Jest, Cypress), and the specific toolchain (ESLint, Node.js, CI/CD). The experience described is heavily back-end and data science focused, not aligning with the front-end and modern web development stack required.

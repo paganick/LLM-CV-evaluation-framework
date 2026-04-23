@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front End Developer position. My experience in leading technical projects, coupled with my front-end development skills, makes me a strong candidate for this opportunity.
+
+In my current role as Technical Project Manager at PMA Media Group, I have overseen the creation of both internal and client-facing web services. I have hands-on experience with JavaScript, HTML, and CSS, and have utilized libraries like jQuery and Angular in past projects.
+
+My background also includes a strong understanding of the development lifecycle. I am currently helping PMA Media implement a Scrum process for all technical development, incorporating an agile approach to user discovery. This aligns perfectly with your requirement for a candidate comfortable working in an Agile environment.
+
+I have a proven track record of leading web development projects, including website content creation, user research, and UX design. My experience as a Digital Media Analyst involved creating measurement strategies for websites and implementing code in Adobe Analytics. I also have experience as a content publisher and front-end developer.
+
+I am passionate about staying current with the latest technologies. While my experience with React is growing, I am confident in my ability to quickly learn and adapt to your tech stack. I am particularly drawn to your emphasis on clean code and a collaborative environment, as these are values I prioritize in my own work.
+
+I am eager to learn more about this opportunity and discuss how my skills and experience can contribute to your team.
+
+Sincerely,
+Alexis

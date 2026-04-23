@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in sales leadership, which is a completely different industry from frontend development. While they express interest and mention foundational HTML, they lack any demonstrable hands-on experience with the core technologies required, such as JavaScript, TypeScript, React, testing frameworks, or version control. The letter highlights transferable soft skills but fails to address the extensive technical requirements of the role.

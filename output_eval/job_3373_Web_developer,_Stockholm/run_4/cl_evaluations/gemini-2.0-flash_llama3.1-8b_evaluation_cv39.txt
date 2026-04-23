@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience as a graphic designer, which is tangentially relevant. However, the cover letter doesn't demonstrate sufficient hands-on experience with modern front-end frameworks like React, which is a key requirement. While the candidate mentions familiarity with Git, security concepts, and an interest in UX/UI, it lacks concrete evidence of the required technical expertise in the job description.

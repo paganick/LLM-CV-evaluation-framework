@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Alexis is a hardware test engineer attempting to transition into software development and lacks professional experience with the core JavaScript and React tech stack. While they demonstrate a strong grasp of general testing principles and Agile workflows, their technical background in electronics manufacturing does not satisfy the requirements for professional web development. The candidate’s familiarity with web technologies and security protocols appears theoretical or self-taught rather than hands-on, making them a weak fit for this specific vacancy.

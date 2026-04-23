@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in media planning, with only foundational web technology knowledge. While they express interest in React and mention transferable skills like database management, they lack direct experience with the core technologies (JavaScript, TypeScript) and tools (testing frameworks, linters) mentioned in the job description. The cover letter highlights academic projects more than practical frontend experience.

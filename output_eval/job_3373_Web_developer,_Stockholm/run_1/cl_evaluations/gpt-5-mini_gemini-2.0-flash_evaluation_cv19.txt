@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant HTML/CSS and design experience and demonstrates strong collaboration and eagerness to learn, but lacks core technical requirements such as JavaScript/TypeScript, React, testing/test automation, Git, and Node/npm experience. They do not show familiarity with the modern tooling, security, or CI/CD practices listed in the job description. As submitted, they would require significant upskilling before contributing to the team's tech stack.

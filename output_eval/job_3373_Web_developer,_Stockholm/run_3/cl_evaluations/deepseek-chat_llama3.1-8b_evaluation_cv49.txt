@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in data analytics and statistics, which is a different domain from the front-end development focus of the job description. While they mention React and Agile, they lack the required specific skills in JavaScript/TypeScript, testing frameworks, modern CSS, and the other listed web technologies. The cover letter is generic and does not convincingly bridge their data background to the front-end role's requirements.

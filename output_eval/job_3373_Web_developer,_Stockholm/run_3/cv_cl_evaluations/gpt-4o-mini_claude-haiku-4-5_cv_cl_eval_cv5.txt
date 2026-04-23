@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in mainframe technologies but lacks direct experience with JavaScript, TypeScript, modern front-end frameworks such as React, and the necessary testing frameworks mentioned in the job description. While they express a willingness to transition to frontend development, their core expertise does not align closely with the specific requirements of the position. Additionally, there is minimal exposure to security knowledge relevant to web development.

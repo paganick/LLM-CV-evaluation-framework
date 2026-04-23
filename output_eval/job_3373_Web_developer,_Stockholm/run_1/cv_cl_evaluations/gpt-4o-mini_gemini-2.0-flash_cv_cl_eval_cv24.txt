@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications but lacks the specific technical skills mentioned in the job description, such as proficiency in JavaScript frameworks (particularly React), TypeScript, and modern testing frameworks. Although they express a willingness to learn and a foundation in core web technologies, their resume does not demonstrate sufficient experience or expertise in front-end development as required for this role.

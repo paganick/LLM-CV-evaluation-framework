@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in sales, lacking extensive practical experience with the core technologies listed in the job description such as React, TypeScript, and testing frameworks. While they express interest in learning and possess some foundational knowledge, the gap between their current skillset and the job requirements is significant. Their experience doesn't directly translate to the required hands-on development expertise.

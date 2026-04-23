@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Although the candidate possesses extensive experience in the software industry, they lack the required professional proficiency in the core frontend stack, specifically React and TypeScript. Their background is heavily weighted toward backend development and legacy frontend tools like jQuery, leaving them without the hands-on experience in modern testing frameworks or functional programming required for this position. As a strict recruiter, a "transitioning" candidate does not meet the immediate technical requirements for a specialized frontend role.

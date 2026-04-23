@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong IT leadership, INFOSEC expertise, and relevant collaboration experience, but their resume lacks verifiable, hands-on front-end development experience (JavaScript/TypeScript, React, modern CSS) and specific toolchain knowledge (testing frameworks, Node/npm/Yarn, linters, CI/CD) required by the role. The cover letter asserts skill refinement but provides no concrete projects, technologies, or evidence of applied front-end work, so they do not meet the essential technical qualifications for this position.

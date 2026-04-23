@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant software engineering experience but lacks the specific, hands-on modern frontend skills required. The resume shows extensive PHP and system-level work with minimal, dated JavaScript/React experience, and no mention of key tools like TypeScript, testing frameworks (Jest, Cypress), or modern CSS tools. The cover letter acknowledges a gap in primary experience and relies on being a "quick learner," which is insufficient for the listed technical requirements.

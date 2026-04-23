@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant background in graphic design and product development, which is somewhat aligned with frontend development. However, significant gaps exist in technical knowledge, specifically in JavaScript, TypeScript, React, and testing frameworks, which are critical for the role. The applicant demonstrates enthusiasm and a commitment to learning but lacks the hands-on experience needed for a strong match.

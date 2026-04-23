@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a background in design and some frontend principles, but lacks demonstrable experience with React, a key requirement. While the candidate expresses interest in learning JavaScript and TypeScript, the letter lacks concrete examples of past coding projects using these technologies or testing frameworks. The candidate highlights transferable skills but doesn't sufficiently bridge the gap to the specific technologies mentioned in the job description beyond HTML and CSS.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with front-end technologies like HTML, CSS, and JavaScript, and has worked with AngularJS, which is a modern framework. However, they lack direct experience with React, TypeScript, and the specific modern tools like Styled Components, Jest, and CI/CD methodologies mentioned in the job description. Additionally, while they have a background in Agile methodology, they do not demonstrate sufficient experience with testing automation practices that are required.

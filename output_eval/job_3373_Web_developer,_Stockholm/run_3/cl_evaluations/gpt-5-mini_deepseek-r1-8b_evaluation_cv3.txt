@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows foundational web knowledge (HTML, CSS, JavaScript), Git experience, and relevant academic projects plus strong soft skills, which makes them relevant to the role. However, they lack most of the specific, required practical experience — no TypeScript, limited React/modern frontend ecosystem exposure, no testing/test automation experience, and no Node/npm, modern CSS tooling, CI/CD, or cloud/infra familiarity. Given the gap between stated skills and the job's core requirements, they are not yet sufficiently qualified for this position.

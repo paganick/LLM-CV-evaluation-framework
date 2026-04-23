@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end developer position at your company. With over 18 years of experience in information technology, including web design and development, I possess a strong foundation in JavaScript, HTML, CSS, and various modern front-end frameworks such as React, which aligns with the requirements outlined in your job description.
+
+Throughout my career, I have demonstrated my capability to collaborate effectively within Agile environments. My experience as an Information Technology Consultant has required me to work closely with cross-functional teams and external partners to implement technology solutions that meet client needs efficiently. I thrive in team settings and believe that strong communication is key to understanding broader project domains, regardless of whether they fall directly within my expertise.
+
+I am committed to writing clean, maintainable code and leveraging best practices in software development. My hands-on experience with testing and test automation, utilizing frameworks such as Jest and Cypress, is well-suited to your team's requirements. I have worked extensively with Git and repository hosting services like GitHub, managing version control seamlessly while ensuring code quality through consistent use of linters and formatters such as ESLint and Prettier.
+
+In addition to my technical skills, I am well-versed in modern CSS tools, including Styled Components and SASS, which enhance my capability to design responsive and visually appealing user interfaces. My foundational knowledge of security best practices on the web, including OWASP, CORS, and OAuth, further complements my skill set.
+
+As a keen learner, I am passionate about keeping up to date with the latest in technology to ensure the solutions I provide are not only effective but also innovative. I have a general understanding of the Node.js ecosystem, including npm and Express.js, and I am familiar with CI/CD tools like CircleCI, which allows for streamlined development workflows.
+
+I am excited about the opportunity to contribute my expertise to your organization and collaborate with your talented team to produce exceptional web applications.
+
+Sincerely,  
+Alexis

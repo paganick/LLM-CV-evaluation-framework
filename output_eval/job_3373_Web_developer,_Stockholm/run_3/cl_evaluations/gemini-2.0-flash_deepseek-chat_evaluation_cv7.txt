@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights transferable skills from graphic design but lacks concrete front-end experience beyond basic HTML and CSS. While they mention learning JavaScript, TypeScript, and React, they don't demonstrate hands-on experience with testing, modern CSS tools, or the NodeJS ecosystem mentioned in the job description. The cover letter focuses heavily on past experience rather than demonstrating proficiency in the required technical skills.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant educational background and basic experience with some of the required technologies like HTML and ASP.NET. However, they lack hands-on experience with JavaScript, modern frontend frameworks (particularly React, which is specified), and specific testing frameworks required for the role. Their interest in transitioning to frontend development is noted, but additional relevant skills and experience are necessary to meet the position's demands fully.

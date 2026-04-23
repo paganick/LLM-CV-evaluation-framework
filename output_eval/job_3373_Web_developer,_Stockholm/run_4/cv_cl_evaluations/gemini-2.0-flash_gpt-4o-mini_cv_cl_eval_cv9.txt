@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some JavaScript and HTML experience, but the resume is heavily focused on Java/JEE. The cover letter expresses interest in frontend development but lacks concrete examples of modern FE framework experience (React, VueJS, Angular, Svelte). While they mention CI/CD, their experience with AWS and Terraform seems minimal.

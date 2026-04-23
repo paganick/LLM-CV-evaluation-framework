@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior project manager and IT administrator with no demonstrated hands-on experience in software development or the required tech stack (JavaScript, TypeScript, React). While they have a background in IT infrastructure and project management, they lack the specific engineering skills and coding proficiency mandated by the job description. There is a total mismatch between the candidate's professional history and the technical requirements of the frontend developer role.

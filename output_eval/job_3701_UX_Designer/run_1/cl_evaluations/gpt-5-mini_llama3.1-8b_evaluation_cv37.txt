@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows transferable skills (stakeholder engagement, workshops, basic prototyping and some HTML/CSS/JS knowledge) but lacks the required commercial UX design experience, demonstrable user research practice, and evidence of working in an Agile product environment. Their Figma proficiency is described as limited and there is no proof of owning a UX roadmap, managing a UI Design System, or mentoring a UX team. Given these gaps relative to the job's core requirements, they are not yet a strong fit.

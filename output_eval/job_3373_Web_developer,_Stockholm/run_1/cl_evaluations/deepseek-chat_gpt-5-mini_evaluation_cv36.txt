@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a completely different field (microbiology/validation consulting) with no demonstrated professional experience in front-end development or the required technical stack. While they articulate strong transferable skills in testing, documentation, and process, they explicitly state they need to learn React, modern JavaScript, and testing frameworks. This lack of direct, hands-on experience in the core job requirements makes them unqualified for the role as advertised.

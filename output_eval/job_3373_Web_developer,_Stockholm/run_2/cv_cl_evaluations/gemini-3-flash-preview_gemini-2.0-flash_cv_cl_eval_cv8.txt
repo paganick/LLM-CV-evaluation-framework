@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for a Front-End Developer role, as their entire professional background is in hardware electronics and manufacturing test engineering rather than software development. They lack all mandatory technical skills required for the position, including JavaScript, TypeScript, React, and modern CSS tools. While the candidate possesses a strong background in hardware validation and Python scripting, they provide no evidence of professional experience in web technologies or front-end frameworks.

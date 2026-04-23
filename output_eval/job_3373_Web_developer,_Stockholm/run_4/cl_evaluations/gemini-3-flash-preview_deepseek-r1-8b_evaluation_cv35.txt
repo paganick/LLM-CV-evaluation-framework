@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct professional experience with the primary tech stack, including JavaScript, TypeScript, and React, which are essential requirements for the position. While their background in marketing automation provides some transferable logic and testing skills, it does not compensate for the absence of a proven track record in software engineering. The profile remains more aligned with marketing technology consulting than the specific technical demands of a dedicated frontend developer.

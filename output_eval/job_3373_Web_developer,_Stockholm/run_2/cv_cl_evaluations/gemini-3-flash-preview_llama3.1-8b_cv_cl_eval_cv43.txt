@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical Software Engineering position, as their professional background is entirely in program management and learning design. They lack the required expertise in JavaScript, TypeScript, and React, with their only technical skill being intermediate R studio, which is irrelevant to the front-end stack requested. There is no evidence of experience with web security, CI/CD, or modern testing frameworks, representing a total mismatch in industry and skillset.

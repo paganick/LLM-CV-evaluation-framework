@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE experience and basic HTML/CSS/JavaScript plus Git, but lacks hands-on experience with React/TypeScript, modern frontend testing frameworks (Jest/Cypress/TestCafe), Node/npm tooling, modern CSS solutions (Styled Components/SASS), linters/formatters, CI/CD, and AWS/Terraform. Their cover letter expresses interest and some familiarity but does not demonstrate practical experience with the core frontend technologies required. This is a relevant-industry applicant but missing critical frontend skills for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in digital communications and technical writing, which is a completely different industry and skillset from the required front-end software engineering role. The resume and cover letter show no experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other technical requirements listed in the job description. While they express an interest in learning, they lack the fundamental, hands-on technical qualifications for the position.

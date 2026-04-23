@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant but lacks the required technical proficiency. They admit to only a foundational understanding of HTML/CSS and no demonstrable hands-on experience with JavaScript, TypeScript, React, or any testing frameworks listed in the job description. While their design skills and soft attributes are a positive bridge, they are currently unqualified for the core technical responsibilities of the role.

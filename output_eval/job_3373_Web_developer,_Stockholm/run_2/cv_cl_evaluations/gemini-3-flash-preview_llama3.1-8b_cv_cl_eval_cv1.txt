@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java/Spring developer and Test Automation specialist, which significantly deviates from the job's core requirement for a modern JavaScript/TypeScript frontend expert. Key technical competencies such as TypeScript, functional programming with Ramda, and specific JavaScript testing frameworks like Jest or Cypress are missing from the profile. Additionally, the candidate's cover letter expresses interest in an internship, failing to align with the professional depth and specialized tooling required for this specific role.

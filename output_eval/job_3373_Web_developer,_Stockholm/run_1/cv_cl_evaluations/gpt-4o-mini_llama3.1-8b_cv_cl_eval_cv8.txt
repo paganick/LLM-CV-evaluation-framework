@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in test engineering but lacks direct expertise in web technologies such as JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for this position. Additionally, while they mention familiarity with CI/CD tools and testing frameworks, the specifics about testing automation relevant to web development are insufficient. Overall, the candidate's experience does not fully align with the core requirements of the role.

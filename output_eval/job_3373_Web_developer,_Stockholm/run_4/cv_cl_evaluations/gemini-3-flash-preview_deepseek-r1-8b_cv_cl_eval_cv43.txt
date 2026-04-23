@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their professional experience is in program management and learning design rather than software engineering. They lack all mandatory technical skills, including proficiency in JavaScript, React, TypeScript, and modern CSS tools. Despite strong soft skills and project management experience, the candidate does not meet any of the core requirements specified in the job description.

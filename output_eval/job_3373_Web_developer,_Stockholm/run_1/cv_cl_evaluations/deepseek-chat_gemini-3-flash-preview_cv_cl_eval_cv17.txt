@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in civil engineering and construction project management, which is a completely different industry from frontend software development. While the cover letter attempts to map project management experience to the job's soft skills, it provides no verifiable evidence of hands-on technical experience with JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. The resume contains zero relevant technical skills or professional experience for a frontend developer role.

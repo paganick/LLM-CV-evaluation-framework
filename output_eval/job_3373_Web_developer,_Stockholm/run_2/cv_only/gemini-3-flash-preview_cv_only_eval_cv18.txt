@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate is an experienced IT professional, they lack any documented experience with React, TypeScript, or modern front-end testing frameworks required for this position. Their technical background is centered on systems administration, CMS management, and legacy web technologies rather than modern software engineering. Consequently, they do not possess the specific core competencies needed for a senior-level front-end developer role.

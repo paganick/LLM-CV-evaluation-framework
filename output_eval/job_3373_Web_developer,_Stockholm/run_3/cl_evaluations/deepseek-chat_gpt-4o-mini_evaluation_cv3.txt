@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant educational background and demonstrates knowledge of key front-end technologies, including React, which aligns with the job's core requirements. However, the letter lacks concrete evidence of hands-on professional experience with testing frameworks, CI/CD tools, and the specific modern tools (e.g., Jest, CircleCI, Styled Components) listed in the job description. While transferable skills are noted, the direct technical experience is primarily academic, placing the candidate at the lower end of the "relevant industry" range.

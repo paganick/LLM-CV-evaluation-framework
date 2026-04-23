@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong front-end experience with React, JavaScript, HTML/CSS, testing (Jest, Cypress), Git, linters/formatters, modern CSS tools and familiarity with CI, aligning well with core requirements. However, they do not mention TypeScript, explicit functional-programming experience (e.g., Ramda), API design, or AWS/Terraform knowledge which are called out in the job description. Given solid relevant experience but notable gaps in several specified technologies, this is a good but not exceptional match.

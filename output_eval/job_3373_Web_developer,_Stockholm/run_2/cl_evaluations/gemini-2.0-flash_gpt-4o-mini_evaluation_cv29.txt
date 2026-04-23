@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in business development, not front-end development, indicating a career transition. While they express interest in relevant technologies and demonstrate some understanding, the cover letter lacks sufficient evidence of practical experience with the core technologies listed in the job description (React, TypeScript, HTML, CSS, testing frameworks). The experience is more conceptual than practical.

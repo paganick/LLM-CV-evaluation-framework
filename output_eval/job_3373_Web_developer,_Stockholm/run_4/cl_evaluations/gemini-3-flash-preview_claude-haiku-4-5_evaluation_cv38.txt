@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer who lacks nearly all core technical requirements, including professional experience with JavaScript, TypeScript, React, and testing frameworks. While they possess transferable soft skills and basic HTML/CSS knowledge, they do not meet the minimum proficiency levels for the specific tools and security standards required. As a "very strict" assessment, this candidate is currently unqualified for a professional frontend engineering role.

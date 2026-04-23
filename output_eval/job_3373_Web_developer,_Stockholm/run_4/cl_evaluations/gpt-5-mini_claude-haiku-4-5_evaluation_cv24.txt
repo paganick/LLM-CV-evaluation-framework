@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant digital communications, accessibility, and cross-functional collaboration experience, but provides no demonstrated hands-on expertise with core technical requirements—JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, Ramda, CI/CD, or AWS/Terraform—that this role requires. Their stated willingness to train is positive but insufficient for a position needing immediate practical experience. This score reflects a relevant background but a clear gap in necessary frontend engineering skills.

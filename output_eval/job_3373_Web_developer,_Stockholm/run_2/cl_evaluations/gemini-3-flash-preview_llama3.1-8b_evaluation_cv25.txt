@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the fundamental technical requirements for the role, explicitly stating they have no direct experience with JavaScript or TypeScript. While they possess basic HTML/CSS knowledge, they lack the necessary proficiency in React, testing frameworks, and version control (Git) required for a front-end engineering position. The transition from graphic design without a demonstrated technical portfolio makes them unqualified for this mid-to-senior level engineering stack.

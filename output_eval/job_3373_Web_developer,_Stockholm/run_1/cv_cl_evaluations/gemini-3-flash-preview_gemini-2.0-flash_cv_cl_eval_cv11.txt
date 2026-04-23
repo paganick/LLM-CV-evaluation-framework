@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized Software Test Analyst rather than a Front-End Developer and lacks professional experience with React or any modern UI frameworks. While they have a strong testing background and basic knowledge of JavaScript and HTML, they do not possess the required development expertise in TypeScript, modern CSS tools, or building web applications. Their profile suggests a career pivot, which does not meet the requirements for a developer with hands-on experience in the requested tech stack.

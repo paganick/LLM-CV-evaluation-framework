@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in web development, particularly with JavaScript, HTML, and CSS. However, the resume heavily emphasizes Drupal, while the job description prioritizes React. The candidate expresses interest in learning React and related technologies, but lacks demonstrated experience in the specific modern FE frameworks the job requires.

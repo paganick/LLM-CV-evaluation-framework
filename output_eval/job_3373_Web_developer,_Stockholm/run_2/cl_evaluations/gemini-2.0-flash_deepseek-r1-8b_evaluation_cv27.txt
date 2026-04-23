@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses on project management and general skills, lacking any mention of the technical skills listed in the job description such as JavaScript, React, or testing frameworks. While collaboration and Agile are mentioned, the absence of specific technical expertise makes the candidate a weak fit. The letter does not convey the required passion for clean code in the context of front-end development.

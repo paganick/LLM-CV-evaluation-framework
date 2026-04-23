@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has no direct experience in software development and lacks familiarity with essential technologies like JavaScript, TypeScript, React, and testing frameworks mentioned in the job description. While they demonstrate transferable skills from marketing and communication, these do not align closely with the specific requirements of the Front-End Developer position.

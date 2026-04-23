@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Mainframe development, which is a different tech stack than the frontend technologies required for the job. While they express interest in learning React and have some foundational knowledge of HTML, XML, and JavaScript, they lack the necessary experience with modern FE frameworks and testing tools. The cover letter attempts to bridge the gap, but the resume highlights a career focused on older technologies.

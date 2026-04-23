@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and some HTML/CSS experience, but lacks the required JavaScript, TypeScript, and modern FE framework expertise. While they express interest in learning, the resume lacks concrete evidence of these skills. The candidate's experience is more focused on design and UX/UI rather than frontend development.

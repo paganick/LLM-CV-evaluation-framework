@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing, communications, and legal administration, which is not directly related to the required JavaScript and technical skills. While there is an indication of project management and learning agility, the lack of specific experience with modern front-end frameworks, testing frameworks, and industry-standard tools like Git and CI/CD pipelines suggests they are not fully qualified for the role.

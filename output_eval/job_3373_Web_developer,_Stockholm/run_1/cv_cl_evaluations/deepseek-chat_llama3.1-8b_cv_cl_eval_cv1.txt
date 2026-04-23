@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards Java backend development and test automation, with only superficial mentions of the required frontend technologies like React. They lack demonstrated, recent hands-on experience with the core stack (React, TypeScript, modern CSS tools, Node.js ecosystem) and key requirements like functional programming with Ramda, API design, and AWS/Terraform. While they have some relevant foundational skills and Agile experience, their profile does not align with the specific frontend-focused role described.

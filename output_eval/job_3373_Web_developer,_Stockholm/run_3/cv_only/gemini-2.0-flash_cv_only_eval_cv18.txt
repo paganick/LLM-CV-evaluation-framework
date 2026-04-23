@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a broad IT background with experience in web design and development using HTML, CSS, and JavaScript. However, the resume lacks specific mentions of modern FE frameworks like React, TypeScript, testing frameworks, and other tools mentioned in the job description. The candidate also doesn't showcase experience with Agile environments or CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: While the candidate possesses a degree in Computer Science and a high level of professional maturity, their work history for the past 20 years is concentrated in business development, sales, and aerospace quality analysis rather than software engineering. There is no evidence in the resume of professional experience with the required modern tech stack, including React, TypeScript, or automated testing frameworks. The candidate’s background does not align with the technical hands-on requirements of a modern front-end developer role.

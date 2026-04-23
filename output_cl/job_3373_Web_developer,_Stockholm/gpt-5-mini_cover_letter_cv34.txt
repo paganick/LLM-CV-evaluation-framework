@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced implementation consultant with over a decade delivering complex, client facing digital solutions, bringing my technical background, documentation discipline, and client focused approach to your front end engineering team. In my current role I lead discovery and configuration engagements for Salesforce Marketing Cloud, translate marketing requirements into technical solutions, maintain requirements documentation, and design and execute test plans and UAT to ensure reliable deployments.
+
+I have experience coding HTML, CSS and writing SQL queries to support data segmentation and automation. I am familiar with content management frameworks including WordPress and DotNetNuke, and I bring an aptitude for troubleshooting web implementations and integrating disparate systems. My work regularly requires me to present technical configurations to client teams, lead cross functional calls to manage scope and timelines, and provide training to enable client adoption of new platforms.
+
+Quality assurance is a central part of my practice: I create test plans, perform solution testing, and guide clients through UAT and go live support. I take pride in producing clear, concise documentation and readable technical designs, a habit reinforced by my English degree and long experience writing client facing materials. Those communication skills make me comfortable interacting with internal teams, external partners, and stakeholders at all levels.
+
+Throughout my career I have served as a certified Salesforce Marketing Cloud trainer, delivering virtual and onsite workshops that translate technical concepts into practical hands on steps for marketing teams. I identify project risks, propose mitigation alternatives, and manage scope to keep implementations on schedule. I bring patience, strong attention to detail, and a passion for clean, maintainable solutions.
+
+I am eager to expand my front end engineering skills in JavaScript, modern frameworks like React, automated testing tools, and the Node.js ecosystem. I am a quick learner who actively pursues professional development and holds Salesforce Marketing Cloud consultant certifications; I am also studying for PMP certification. I would welcome the opportunity to apply my implementation, testing, and documentation strengths while rapidly adopting the technical tools and practices your team uses.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team and learning the technologies you value.
+
+Sincerely, Alexis

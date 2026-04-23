@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in QA, not frontend development. While they possess foundational knowledge of HTML, CSS, and JavaScript, the cover letter doesn't showcase hands-on experience building and deploying frontend applications with React. There's a lack of demonstrable project experience and depth in the required frontend technologies.

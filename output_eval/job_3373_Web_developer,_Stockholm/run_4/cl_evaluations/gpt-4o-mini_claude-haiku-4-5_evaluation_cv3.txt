@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant educational background and foundational knowledge of key technologies such as JavaScript, HTML, and CSS. However, they lack experience with modern frameworks like React, as well as other specific skills mentioned in the job description, such as familiarity with testing frameworks, modern CSS tools, and the NodeJS ecosystem. While they demonstrate enthusiasm and a willingness to learn, the gap in hands-on experience with the required technologies prevents a higher score.

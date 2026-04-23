@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical stack, including React, Jest, Node.js, and CI/CD tools, and directly addresses the passion for clean code and Agile collaboration. However, the cover letter lacks explicit mention of key requirements from the job description such as TypeScript, security knowledge (OWASP, CORS), and specific testing automation experience (E2E, integration). While a good match, the absence of these specified skills prevents a higher score.

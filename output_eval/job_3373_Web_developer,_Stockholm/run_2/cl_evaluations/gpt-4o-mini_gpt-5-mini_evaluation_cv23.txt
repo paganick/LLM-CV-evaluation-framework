@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in engineering and testing, including familiarity with programming languages like JavaScript and concepts related to testing. However, they lack specific experience with modern front-end frameworks like React, CSS tooling, and the broader Node ecosystem as highlighted in the job description. Their enthusiasm for learning these technologies is noted, but they do not demonstrate the required hands-on experience with the specific skills mentioned in the job posting.

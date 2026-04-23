@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background is in materials analysis and metallurgy rather than software engineering. They possess none of the required technical skills, such as JavaScript, TypeScript, or React, and have no professional experience in the tech industry. Despite their analytical background, they do not meet the foundational requirements for a frontend developer role.

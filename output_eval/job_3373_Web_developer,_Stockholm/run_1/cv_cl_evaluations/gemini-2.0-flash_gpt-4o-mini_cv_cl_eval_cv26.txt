@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight experience in marketing, public relations, and legal administration, which are completely irrelevant to the requirements of a front-end developer role. There is a stated interest in learning front-end technologies, but no demonstrable experience. The candidate lacks the core technical skills (JavaScript, React, HTML, CSS, etc.) and experience with related tools and methodologies mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java backend and test automation, not modern front-end development with React. While they mention ReactJS and SASS, their hands-on, professional experience with the specific stack (React, TypeScript, modern FE tooling) is not demonstrated. They lack explicit experience with key requirements like TypeScript, functional programming (Ramda), and the listed testing frameworks (Jest, Cypress).

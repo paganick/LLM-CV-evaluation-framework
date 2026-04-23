@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses some relevant skills in JavaScript, HTML, CSS, and experience with AngularJS, which aligns with the job requirements. However, they lack direct experience with React, modern testing frameworks like Jest or Cypress, and do not mention knowledge of security practices outlined in the job description. Additionally, while they have worked in Agile environments, the overall experience does not fully meet the expectations for this Front-End Developer role.

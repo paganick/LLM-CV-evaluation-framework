@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in React and relevant front-end technologies mentioned in the job description. They also have experience with testing, Git, and Agile, which aligns well with the requirements. While they express familiarity with the NodeJS ecosystem, AWS, Terraform, and CI/CD, it's not clear if this is more than just basic knowledge, and the job description suggests more than basic.

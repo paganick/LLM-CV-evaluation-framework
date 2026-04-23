@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses five years of general software development experience, their resume fails to demonstrate professional proficiency in the primary requirements of React and TypeScript. The technical background is heavily focused on C#, .NET, and Python, with no evidence of hands-on experience in modern frontend testing frameworks (Jest, Cypress) or CI/CD tools. Consequently, there is a significant mismatch between the candidate's actual work history and the specific technological stack requested.

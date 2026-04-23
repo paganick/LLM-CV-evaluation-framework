@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational background and demonstrates foundational knowledge of key front-end technologies mentioned in the job description. However, they lack direct, professional hands-on experience with the specific tools and frameworks required, such as TypeScript, testing frameworks, CI/CD tools, and the Node.js ecosystem. Their career transition and absence of proven industry experience place them in the category of a relevant but underqualified applicant.

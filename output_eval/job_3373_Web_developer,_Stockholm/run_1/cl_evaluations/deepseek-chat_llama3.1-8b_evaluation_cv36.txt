@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in molecular genetics and microbiology, which is a completely different industry from modern front-end web development. While they mention adaptability, they provide no demonstrable experience with the core technologies listed in the job description, such as JavaScript, React, or Git. Their attempt to link laboratory software to web development frameworks is unconvincing and highlights a fundamental lack of required skills.

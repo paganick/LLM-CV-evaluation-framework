@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and sales, not frontend development. While the cover letter attempts to bridge the gap by highlighting tangential technical experience, the resume lacks concrete evidence of hands-on coding skills in JavaScript, TypeScript, or React. The skills listed are too general and don't demonstrate the required technical depth.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a business development and marketing professional with no demonstrated experience in software engineering or front-end development. They lack all mandatory technical skills, including JavaScript, React, and TypeScript, which are essential for this role. Their background is entirely focused on sales strategy and CRM management rather than technical code implementation.

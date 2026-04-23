@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, which are core requirements for this engineering position. While they possess a relevant background in graphic design and HTML/CSS, there is no evidence of experience with testing frameworks, Git, or web security protocols. This applicant is essentially a career-changer at the beginning of their learning journey and does not meet the specialized skill set demanded by the job description.

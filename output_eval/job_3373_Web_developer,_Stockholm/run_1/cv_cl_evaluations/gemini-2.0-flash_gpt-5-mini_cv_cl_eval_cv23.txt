@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and testing, with limited direct experience in front-end development. While they express interest in learning relevant technologies like React and TypeScript, their resume lacks concrete projects or experience with modern FE frameworks and testing tools mentioned in the job description. The candidate's skills align more with QA and troubleshooting than with front-end engineering.

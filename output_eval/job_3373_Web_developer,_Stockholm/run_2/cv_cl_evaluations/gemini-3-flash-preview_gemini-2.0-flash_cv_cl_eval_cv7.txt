@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Graphic Designer who lacks nearly all technical requirements for a Front-End Developer role, including JavaScript, TypeScript, and React. Their experience is centered on print media and legacy tools like Dreamweaver rather than modern software engineering, testing, or CI/CD workflows. The cover letter explicitly confirms a lack of experience with the required frameworks, making them completely unqualified for this position.

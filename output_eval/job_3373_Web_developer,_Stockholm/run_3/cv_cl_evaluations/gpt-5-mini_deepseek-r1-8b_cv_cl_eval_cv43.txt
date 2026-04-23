@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in program management and learning design with no demonstrated experience in core technical requirements (JavaScript/TypeScript, React, modern CSS, testing frameworks, Git, NodeJS, AWS, etc.), which are essential for this frontend role. While they show strong project management and collaboration skills, those do not compensate for the lack of hands-on frontend development and testing experience required.

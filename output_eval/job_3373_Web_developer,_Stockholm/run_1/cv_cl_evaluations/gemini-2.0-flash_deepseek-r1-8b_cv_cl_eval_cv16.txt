@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, and CSS. However, the resume heavily emphasizes .NET development and lacks concrete experience with modern FE frameworks like React, which is a key requirement. The candidate also has limited experience (2 years) and the cover letter feels generic.

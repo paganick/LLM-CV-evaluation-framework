@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not front-end development. While they express interest in React and list HTML, CSS, and JavaScript as skills, their experience appears limited. They lack demonstrable experience with modern FE frameworks, testing frameworks, and other tools mentioned in the job description beyond GoogleUIAutomator.

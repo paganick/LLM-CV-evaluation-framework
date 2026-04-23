@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web development and related technologies like HTML, CSS, and some JavaScript experience. They possess relevant experience with Git and a collaborative mindset. However, they lack explicit hands-on experience with React, which is a key requirement, and only express an eagerness to learn other modern tools, implying limited practical skills.

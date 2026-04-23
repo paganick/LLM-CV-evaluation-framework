@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong business development background but lacks direct experience with key technologies such as JavaScript, React, and modern testing frameworks. While they demonstrate a willingness to learn and have foundational programming skills in HTML and C/C++, their overall experience is not directly aligned with the requirements of the frontend developer position. The lack of specific experience with CI/CD tools, API design, and familiarity with security protocols further narrows their fit for this role.

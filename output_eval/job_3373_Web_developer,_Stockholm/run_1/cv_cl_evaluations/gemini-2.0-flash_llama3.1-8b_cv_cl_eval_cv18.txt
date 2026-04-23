@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in web development and general IT consulting. While they mention familiarity with React, VueJS, and Angular in the cover letter, their resume lacks specific projects utilizing these frameworks, and doesn't go into enough depth. The resume lacks depth in modern FE tooling and testing.

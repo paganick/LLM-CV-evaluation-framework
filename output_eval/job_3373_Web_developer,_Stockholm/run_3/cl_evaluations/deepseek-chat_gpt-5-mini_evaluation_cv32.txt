@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in customer service, sales, and management, which is not directly relevant to front-end engineering. While they demonstrate strong soft skills and a willingness to learn, they explicitly lack hands-on technical experience with the required technologies like JavaScript, React, testing frameworks, and version control. Their experience is in a different industry and does not fulfill the core technical requirements of the role.

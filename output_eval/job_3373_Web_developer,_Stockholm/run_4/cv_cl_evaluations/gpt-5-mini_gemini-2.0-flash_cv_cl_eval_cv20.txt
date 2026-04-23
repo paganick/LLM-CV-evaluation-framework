@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML, CSS, jQuery, Agile) and basic Git familiarity, but their background is primarily .NET/legacy stack and does not demonstrate experience with React, TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm, modern CSS tools, or CI/CD/cloud tooling required by the role. Key required skills such as modern frontend frameworks, test automation, and familiarity with the Node ecosystem and related tooling are missing, making them underqualified for this position.

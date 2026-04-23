@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant foundational knowledge and a strong aptitude for learning, but lacks the required hands-on experience with key technologies. They have no proven experience with JavaScript, TypeScript, React, or testing frameworks, which are core requirements. While their soft skills and career narrative are compelling, the technical skill gap for a Frontend Developer role is significant.

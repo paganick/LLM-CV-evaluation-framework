@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical stack, React framework, and key soft skills like collaboration and Agile. However, the cover letter lacks explicit mention of several specific requirements from the job description, including web security basics, modern CSS tools, functional programming, CI/CD, and API design. The transition from media production is compelling but leaves some technical experience gaps versus a candidate with direct professional development experience.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in information technology and cybersecurity, along with relevant leadership experience. However, they do not explicitly mention hands-on experience with the specific front-end technologies required, such as React, modern CSS tools, and testing frameworks like Jest or Cypress. Additionally, while they have relevant programming and security skills, the lack of current front-end development experience and specific technologies may hinder their suitability for the role.

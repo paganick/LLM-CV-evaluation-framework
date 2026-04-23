@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in front-end technologies, particularly with HTML, CSS, and modern frameworks like React. They also demonstrate strong collaboration skills in Agile environments and show a commitment to writing clean code. However, the cover letter does not mention familiarity with certain tools and technologies listed in the job description, such as Modern CSS tools, functional programming libraries like Ramda, or specific CI/CD tools, which slightly limits their alignment with the role.

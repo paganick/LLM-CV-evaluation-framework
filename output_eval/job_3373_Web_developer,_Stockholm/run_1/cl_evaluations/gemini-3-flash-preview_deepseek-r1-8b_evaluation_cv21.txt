@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant software development and Agile experience, they fail to demonstrate proficiency in the core technologies required, specifically React and TypeScript. The letter focuses heavily on a .NET and SQL background, which does not align with the modern front-end and Node.js-focused stack described in the job description. Key requirements such as specific testing frameworks, modern CSS tools, and functional programming are entirely unaddressed.

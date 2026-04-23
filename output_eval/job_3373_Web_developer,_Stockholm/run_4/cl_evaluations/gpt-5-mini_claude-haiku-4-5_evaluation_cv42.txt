@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows transferable analytical skills and is actively learning JavaScript/TypeScript, React, testing, and tooling, but provides no verifiable hands-on or production experience with the core requirements. Significant gaps remain in practical frontend work (production React projects, modern CSS tooling, testing automation), Node/npm ecosystem experience, web security practices, CI/CD, and cloud/infra familiarity, so they are not yet qualified for this role.

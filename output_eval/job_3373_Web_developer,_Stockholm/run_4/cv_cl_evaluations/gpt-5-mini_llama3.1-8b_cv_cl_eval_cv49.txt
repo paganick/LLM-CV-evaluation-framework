@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is focused on data analysis, statistical modeling and tools like R, SAS, Python and Tableau, with no demonstrated experience in required front-end technologies (JavaScript/TypeScript, HTML/CSS, React) or ecosystem tools (NodeJS, testing frameworks, CI/CD, Git). The cover letter's suggestion that analytical skills translate to front-end development is unsupported by concrete projects or skills on the resume. Given the clear mismatch with core technical requirements, they are not qualified for this front-end role.

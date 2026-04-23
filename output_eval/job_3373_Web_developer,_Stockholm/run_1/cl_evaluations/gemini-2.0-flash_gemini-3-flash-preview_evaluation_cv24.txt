@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a background in digital communications and technical writing, relevant to crafting user-centric web applications. While the candidate mentions familiarity with HTML, CSS, and accessibility standards, they lack demonstrable experience with React, the core framework used by the company. They express interest in learning React and TypeScript but do not provide concrete examples of their proficiency.

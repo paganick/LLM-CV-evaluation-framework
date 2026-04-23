@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant full-stack experience and demonstrates foundational knowledge in key areas like JavaScript, Git, and Agile. However, the cover letter lacks specific, direct experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and the specific toolchain (e.g., ESLint, Prettier, NodeJS ecosystem). While adaptable, the candidate's professional background is in a different primary stack (PHP/MVC), making them a partial but not strong match for this specific role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong transferable skills (leadership, HTML, design tools, vendor and documentation experience) but lacks hands-on experience with core requirements such as JavaScript/TypeScript, React, modern testing frameworks, Git/repo workflows, NodeJS ecosystem, and web security practices. Their cover letter expresses motivation to learn but provides no concrete examples of frontend projects, automated testing, or CI/CD experience, so they do not currently meet the role's technical expectations.

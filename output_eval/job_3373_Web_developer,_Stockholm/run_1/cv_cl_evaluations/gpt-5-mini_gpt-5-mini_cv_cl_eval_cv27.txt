@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks essential front-end engineering experience—there is no demonstrated proficiency with JavaScript/TypeScript, React, testing frameworks, Git, or NodeJS which are core requirements. While they have transferable strengths in HTML, media production, documentation and project management, those do not meet the technical qualifications needed for this role.

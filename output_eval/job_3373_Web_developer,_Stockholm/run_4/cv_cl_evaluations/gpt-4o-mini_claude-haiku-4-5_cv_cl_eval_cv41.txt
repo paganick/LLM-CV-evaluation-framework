@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in IT and systems engineering, which shows relevant industry experience but lacks specific frontend development skills such as JavaScript, TypeScript, modern frontend frameworks like React, and testing tools. While they express a desire to transition into frontend development and show some understanding of quality assurance, they do not meet the core technical requirements outlined in the job description.

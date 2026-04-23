@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing automation, which is in a different domain than front-end development. While the cover letter mentions some relevant skills like JavaScript, HTML, CSS, React, Git, and testing, the resume lacks concrete evidence of hands-on experience in these areas within a software development context. The candidate's skills appear to be more related to marketing technologies.

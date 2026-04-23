@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundation in HTML, CSS, and JavaScript but lacks experience with modern FE frameworks like React, which is central to the job description. There's no mention of TypeScript, testing frameworks, or other tools listed as preferred. The candidate's background is primarily in construction, making them an entry-level candidate requiring significant training.

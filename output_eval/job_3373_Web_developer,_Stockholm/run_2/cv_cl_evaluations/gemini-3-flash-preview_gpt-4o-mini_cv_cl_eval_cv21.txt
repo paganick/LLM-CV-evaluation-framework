@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in web development, their professional history is heavily centered on legacy .NET technologies, ASP.NET, and outdated frontend frameworks like AngularJS and jQuery. The resume fails to demonstrate professional hands-on experience with the required modern stack, specifically React, TypeScript, and functional programming. Additionally, the candidate lacks evidence of proficiency with the specified modern tooling, such as Git, Jest, and AWS, relying instead on a legacy environment (TFS/Visual Studio).

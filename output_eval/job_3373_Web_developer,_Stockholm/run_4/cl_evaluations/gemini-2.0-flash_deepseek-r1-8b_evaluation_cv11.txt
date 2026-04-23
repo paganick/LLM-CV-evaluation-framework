@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in software testing, not front-end development as required. While they have some familiarity with JavaScript, HTML, and CSS, they lack demonstrable experience with React, TypeScript, and other listed technologies like Styled Components or NodeJS. The letter focuses more on testing frameworks than front-end development skills.

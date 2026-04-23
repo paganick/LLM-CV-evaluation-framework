@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume mentions JavaScript and HTML, but lacks specific experience with modern FE frameworks like React, TypeScript, or modern CSS tools. There's no mention of testing frameworks, CI/CD tools, or cloud platforms. The experience is dated and doesn't showcase the required skills for this role.

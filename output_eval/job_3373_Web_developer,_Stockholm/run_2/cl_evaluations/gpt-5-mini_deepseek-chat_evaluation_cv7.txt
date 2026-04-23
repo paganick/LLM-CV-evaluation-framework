@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong visual design experience, HTML/CSS proficiency, and is actively learning JavaScript/TypeScript and React, making them relevant to the role. However, the cover letter provides no evidence of required, hands-on experience with testing and test automation, modern CSS tooling (Styled Components/SASS), Node/npm ecosystem, linters/formatters, CI/CD, security practices, API design, or cloud/infra (AWS/Terraform). Given the significant technical gaps against the job's stated stack and tools, they are not yet a fully qualified match.

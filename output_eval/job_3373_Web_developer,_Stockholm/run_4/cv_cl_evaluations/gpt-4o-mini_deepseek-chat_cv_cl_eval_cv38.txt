@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in project management and production, but lacks direct expertise in essential front-end technologies such as modern frameworks (besides React use) and testing automation tools. While they mention knowledge of JavaScript, TypeScript, HTML, CSS, and some modern CSS tools, the practical application of these skills in a software development context is not sufficiently demonstrated. The background in media production does not provide a strong alignment with the technical requirements outlined in the job description.

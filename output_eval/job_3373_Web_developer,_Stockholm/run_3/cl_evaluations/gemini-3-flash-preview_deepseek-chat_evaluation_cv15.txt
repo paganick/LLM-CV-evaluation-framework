@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a solid foundation in core web technologies and general IT infrastructure, they lack the required professional proficiency in React and fail to mention any experience with automated testing frameworks, which are central requirements of the role. The candidate’s admission that their React skills are still "evolving" and the omission of specific tools like Git, CI/CD, and modern CSS libraries make them a high-risk hire for a senior-level front-end position.

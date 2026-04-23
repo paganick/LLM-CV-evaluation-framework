@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required professional experience in React, TypeScript, and modern CSS tools, explicitly stating they are currently looking to learn these core technologies. Their background is heavily rooted in mainframe environments and enterprise back-end systems rather than modern front-end development. While they possess strong general engineering discipline, they do not meet the specific technical skill set or tooling requirements necessary for this position.

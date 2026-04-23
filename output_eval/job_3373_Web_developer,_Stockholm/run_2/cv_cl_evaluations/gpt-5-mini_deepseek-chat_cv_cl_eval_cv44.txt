@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong design and HTML/CSS/UX background and expresses interest in JavaScript and React, but their resume shows no demonstrated professional experience with modern JavaScript frameworks, TypeScript, testing/automation, NodeJS, Git workflows, CI/CD, or web security practices required for this role. Claims in the cover letter about learning React and related tooling are unverified by concrete project or professional experience, so they lack the specific technical depth and proven implementation the position requires.

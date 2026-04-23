@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is pivoting from a different role and while they possess some relevant technical skills (JavaScript, React, Git), they lack hands-on experience. The cover letter highlights exposure to some technologies and concepts mentioned in the job description but doesn't demonstrate proficiency. The candidate is missing experience with some key technologies (e.g. Styled Components, Cypress, CI/CD tools).

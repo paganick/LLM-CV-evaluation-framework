@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The cover letter highlights a background in microbiology and regulatory compliance, fields completely unrelated to the job description's focus on front-end web development technologies. The candidate attempts to bridge the gap by mentioning tangential skills like project management and documentation, but lacks any demonstrable experience in the required technologies (JavaScript, React, HTML, CSS, etc.). The letter fails to address the core technical requirements outlined in the job description.

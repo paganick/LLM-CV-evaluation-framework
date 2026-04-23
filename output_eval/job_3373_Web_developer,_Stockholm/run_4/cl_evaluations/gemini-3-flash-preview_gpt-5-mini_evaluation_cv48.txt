@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience with the mandatory technical stack, including JavaScript, TypeScript, React, and web-specific testing frameworks. While they demonstrate a strong background in IT infrastructure and security compliance, they explicitly state a "motivation to learn" the core requirements rather than possessing current proficiency. This profile fails to meet the specific technical demands for a front-end engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in the .NET/C# stack with limited exposure to the specific modern front-end technologies required (React, TypeScript, modern CSS tools). While they demonstrate foundational web skills (JavaScript, HTML, CSS) and Agile experience, they lack hands-on experience with the core tech stack, testing frameworks, and tooling listed as essential. Their foundational knowledge is relevant to the industry, but they are missing the specific, required skills for this front-end developer role.

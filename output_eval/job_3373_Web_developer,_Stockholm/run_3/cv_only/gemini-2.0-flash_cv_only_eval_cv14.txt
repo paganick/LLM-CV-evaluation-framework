@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks experience with modern FE frameworks like React, VueJS, Angular, or Svelte. The resume also lacks experience with testing frameworks, CI/CD tools, and cloud platforms mentioned in the job description. While there's some overlap with web technologies, the specific skills required for this role are not sufficiently demonstrated.

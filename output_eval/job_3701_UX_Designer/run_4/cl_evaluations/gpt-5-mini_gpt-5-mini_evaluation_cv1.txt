@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong UX experience (end-to-end product design, user research, usability testing, workshops, mentoring, and participation in Agile rituals) and familiarity with managing UX roadmaps and design systems, matching most core requirements. However, they do not list Figma (requested as highly desirable) and only cite HTML5 with no CSS/JS exposure, which weakens their technical fit for a role that aids UI Design System management. Overall a strong match but not a perfect fit due to the missing tooling and front-end skills.

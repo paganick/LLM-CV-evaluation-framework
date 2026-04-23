@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT and technical support, but lacks direct experience with frontend development, JavaScript, TypeScript, and the frameworks mentioned in the job description. While they demonstrate a commitment to learning and a relevant technical background, they do not meet the specific requirements for web technologies and associated tools, resulting in a low score.

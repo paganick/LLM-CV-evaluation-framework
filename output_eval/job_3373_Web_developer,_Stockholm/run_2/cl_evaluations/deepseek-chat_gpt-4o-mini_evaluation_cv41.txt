@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the core technical requirements, including React, testing, Git, and security. However, the cover letter does not explicitly mention several key technologies from the job description, such as TypeScript, CI/CD tools, or functional programming (Ramda). The candidate's experience is relevant and well-articulated, but the absence of these specifics prevents a higher score.

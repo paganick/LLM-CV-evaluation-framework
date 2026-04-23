@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is from a completely different industry with no professional web development experience. While they have an IT degree and basic coursework knowledge of HTML, CSS, and JavaScript, they lack any hands-on experience with the required React framework, testing automation, modern tooling, or Agile development in a professional setting. Their background does not meet the specific technical and experiential requirements outlined in the job description.

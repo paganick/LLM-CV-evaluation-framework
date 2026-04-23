@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate shows solid HTML/CSS, design background, Git, basic web security knowledge, and strong collaboration/Agile experience, but explicitly states limited JavaScript/TypeScript experience and does not demonstrate React experience. They lack hands-on exposure to required testing frameworks (Jest/Cypress/TestCafe), modern CSS-in-JS/SASS tooling, and practical NodeJS/npm/Yarn and API/functional programming experience. Eagerness to learn is noted, but current technical gaps mean significant upskilling would be required to meet this role's expectations.

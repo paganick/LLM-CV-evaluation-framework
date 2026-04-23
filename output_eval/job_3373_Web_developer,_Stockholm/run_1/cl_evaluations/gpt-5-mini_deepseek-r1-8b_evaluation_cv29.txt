@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development, sales, and marketing with no demonstrated frontend engineering skills (JavaScript, TypeScript, React) or hands-on experience with testing, NodeJS, CI/CD, or web security required by the role. The cover letter details CRM and partnership work but contains no evidence of coding, frameworks, linters, or relevant tooling, indicating a complete mismatch for this technical position.

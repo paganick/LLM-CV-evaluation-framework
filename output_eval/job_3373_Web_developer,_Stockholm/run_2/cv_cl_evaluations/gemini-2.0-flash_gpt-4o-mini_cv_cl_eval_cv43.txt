@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in program management and learning design, with limited demonstrable experience in the core technical skills required for a JavaScript Developer role. While they express interest in learning JavaScript and related technologies, the resume lacks evidence of practical application beyond "intermediate coding in R studio." The cover letter acknowledges a lack of experience in key areas such as testing frameworks and CI/CD tools.

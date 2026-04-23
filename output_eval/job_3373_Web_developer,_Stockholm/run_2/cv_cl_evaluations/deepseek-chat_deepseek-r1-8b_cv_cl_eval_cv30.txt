@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost exclusively in data analysis, backend technologies (C#, ASP.NET, SQL), and environmental science, with no demonstrated experience in the required front-end stack (JavaScript, TypeScript, React, modern CSS). The cover letter acknowledges the misalignment, attempting to pivot from a QA/data role to front-end development without providing any relevant project evidence. This is a fundamental mismatch for the specific technical requirements of the role.

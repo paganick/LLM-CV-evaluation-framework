@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior systems architect with extensive technical and executive experience in media delivery, but shows no demonstrated commercial UX design experience, portfolio, or familiarity with key tools and methods required (Figma, prototyping, user research, Agile UX practices, HTML/CSS/JS). They do not show experience running UX workshops, managing a UX team, or maintaining a UI design system. While strong in product/technical leadership, their background does not meet the specific, hands-on UX requirements for this role.

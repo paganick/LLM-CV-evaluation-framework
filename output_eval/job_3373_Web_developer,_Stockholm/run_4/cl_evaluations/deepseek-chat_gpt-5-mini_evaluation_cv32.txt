@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in customer service, sales, and management, not software development, which is a significant mismatch for a front-end engineering role. While they demonstrate strong soft skills and express motivation to learn, they provide no evidence of hands-on experience with the required technical stack (JavaScript, React, testing, Git, etc.). Their application is for a relevant industry but critically lacks the specific technical experience and skills outlined in the job description.

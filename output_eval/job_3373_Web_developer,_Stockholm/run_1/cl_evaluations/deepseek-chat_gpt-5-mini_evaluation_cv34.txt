@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in client-facing digital solutions and demonstrates strong soft skills, documentation, and QA practices. However, they lack the required hands-on experience with core technologies like JavaScript, React, TypeScript, and modern testing frameworks specified in the job description. Their stated eagerness to learn these skills is noted but does not substitute for the required current proficiency.

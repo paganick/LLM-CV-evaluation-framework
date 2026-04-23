@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX/UI experience (wireframes, prototyping with Axure, user research, workshops, HTML/CSS and prior team lead responsibility) but much of their recent work is presentation/multimedia rather than pure UX. They provide no evidence of Figma proficiency, Agile delivery experience, or JavaScript exposure, and there is limited indication of recent commercial UX delivery or active design system management. Overall this is a partial fit that lacks several key, stated requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter focus heavily on project management and leadership roles, lacking concrete evidence of hands-on front-end development experience with JavaScript, React, or other modern FE frameworks. While the candidate mentions familiarity with software development lifecycles and modern technologies, this is not sufficient to demonstrate the required technical skills. The resume does not list any relevant technical projects or specific coding experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a marketing executive and content strategist whose experience is focused on agency-side digital marketing rather than enterprise technical solution sales. They lack the specific technical background required in Application Services, Cloud, and DevOps, as well as the industry-specific experience in Banking, Insurance, or Telco. While highly senior, their expertise in SEO, influencer engagement, and journalism does not align with the requirement to lead technical architectural reviews and AI/ML-driven platform sales.

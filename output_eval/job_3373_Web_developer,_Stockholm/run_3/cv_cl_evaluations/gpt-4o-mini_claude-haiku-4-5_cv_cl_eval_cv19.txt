@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design, which is not directly related to frontend development. While they have some knowledge of HTML and CSS and express a desire to learn JavaScript and React, they lack the required hands-on experience with modern frameworks and testing tools. Their experience in collaboration and adaptability is a positive point, but it does not sufficiently compensate for the gaps in specific technical skills required for the position.

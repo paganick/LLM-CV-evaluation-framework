@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML, CSS, Git) and Agile exposure but their background is predominantly .NET, jQuery and server-side work rather than modern front-end frameworks. They lack demonstrated experience with React or TypeScript, modern testing/automation tools, Node/npm ecosystem, modern CSS tooling, and web security/CI/CD/AWS knowledge required for the role. With significant upskilling they could become a fit, but they are not ready to meet the job's core technical requirements today.

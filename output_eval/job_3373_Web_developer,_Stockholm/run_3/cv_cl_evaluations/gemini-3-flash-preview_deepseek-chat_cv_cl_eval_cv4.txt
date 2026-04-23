@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of React and TypeScript, as their background is primarily focused on C#, .NET, and Python-based data science. There is no evidence of hands-on experience with modern frontend testing frameworks (Jest/Cypress) or CI/CD tools like CircleCI and Terraform. While the candidate has general web development knowledge, their profile is that of a backend or data engineer rather than a specialized modern frontend developer.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has substantial experience in graphic design and front-end technologies like HTML, CSS, and SASS, which align with the role. However, their limited experience with JavaScript, testing frameworks, and lack of hands-on experience with React and Node.js significantly weaken their application. While they display a strong desire for continuous learning, they do not meet many specific needs outlined in the job description, making them a relevant but not fully qualified candidate.

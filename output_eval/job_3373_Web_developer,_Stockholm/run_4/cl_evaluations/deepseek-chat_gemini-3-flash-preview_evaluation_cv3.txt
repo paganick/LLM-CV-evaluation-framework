@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant technical skills and a strong, transferable professional background, directly addressing many job requirements like React, SASS, Jest, and Agile collaboration. However, the cover letter lacks explicit mention of several key technologies from the job description, such as TypeScript, Git/CI/CD, security concepts, Node.js, and functional programming. The unique perspective is valuable, but the match is not complete.

@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am currently pursuing a Master’s in Management Information Systems in the United States and bring over four years of professional experience in media planning and account management, together with practical technical foundations in HTML, CSS, Core Java and SQL/MySQL. I am seeking to transition into a front-end engineering role where I can apply my analytical mindset, client-facing experience, and growing technical skills to deliver robust, user-focused web applications.
+
+In my previous roles I managed client relationships for major FMCG, automobile, retail and e-commerce accounts, led cross-functional teams, and translated business requirements into actionable technical and media plans. I have experience with system analysis and design: I contributed to projects that included ER and schema design, distributed Java-based application proposals, and ERP implementation planning. These engagements sharpened my ability to understand domain requirements, document workflows, and collaborate closely with stakeholders — strengths I will bring to an Agile engineering team.
+
+Technically, I have hands-on experience with HTML and CSS, practical exposure to database design and SQL/MySQL, and a foundation in Core Java and J2EE concepts from academic and project work. While I am newer to modern JavaScript frameworks, TypeScript, and React, I am actively expanding my skill set through my MIS coursework and self-directed study. I am enthusiastic about learning front-end frameworks, modern CSS tools, and testing practices; I value writing clean, maintainable code and adopting linting, formatting and testing discipline.
+
+I am comfortable interacting with other teams and external partners, generating clear documentation, and presenting technical findings to non-technical stakeholders. My prior work required meticulous reporting, versioned deliverables, and continuous improvement based on post-evaluation insights — habits aligned with CI/CD and disciplined development practices.
+
+During my academic projects I designed and implemented a Hospital Database Management System where I developed ER models, normalized schemas and implemented the database using MySQL. In another capstone I proposed an Accounts Receivable Application using J2EE, created sequence and class diagrams and suggested tools such as Java JDK, Business Objects and WebLogic. These experiences strengthened my SQL, system design and documentation capabilities. I welcome the opportunity to learn and contribute.
+
+I am excited about the opportunity to join a team that values modern front-end engineering and cross-team collaboration. I am confident my analytical background, client-centered perspective, and commitment to learning will make me a valuable contributor as I grow into a full-stack front-end role.
+
+Sincerely, Alexis

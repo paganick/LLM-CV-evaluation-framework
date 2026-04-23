@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in business development and a technical foundation in HTML and programming languages, but lacks sufficient hands-on experience with JavaScript, TypeScript, React, and relevant testing frameworks. Additionally, there is no mention of familiarity with modern CSS tools or CI/CD practices, which are important for the role. While the leadership and analytical skills are commendable, the technical skills do not meet the job requirements adequately.

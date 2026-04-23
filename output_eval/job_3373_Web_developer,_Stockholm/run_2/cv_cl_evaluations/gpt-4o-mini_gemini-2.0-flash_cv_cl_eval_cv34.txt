@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience in web technologies, including HTML and CSS, but lacks the necessary hands-on experience with JavaScript frameworks, particularly React, which is critical for the role. Their background as an Implementation Consultant does not align well with the technical requirements outlined in the job description, and they have limited experience with testing automation, security knowledge, and CI/CD tools.

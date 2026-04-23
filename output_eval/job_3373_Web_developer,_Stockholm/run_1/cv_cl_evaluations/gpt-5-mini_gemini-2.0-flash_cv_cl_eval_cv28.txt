@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is in materials analysis and manufacturing with no demonstrable experience in JavaScript, TypeScript, React, frontend frameworks, testing, Git, or web security—core requirements for this role. While they show analytical ability and a willingness to learn, there is no evidence of the specific technical skills or hands-on frontend work required for immediate contribution. Recommend significant retraining or entry-level frontend experience before being considered for this position.

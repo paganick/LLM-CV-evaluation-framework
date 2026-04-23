@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant academic training in web development and some practical experience, particularly in PHP/MySQL and front-end technologies. However, they lack hands-on experience with the specific frameworks and testing tools mentioned in the job description, such as React, Jest, and modern CSS tools. Additionally, the candidate's transition from construction to IT may raise concerns about adaptability in a fast-paced development environment.

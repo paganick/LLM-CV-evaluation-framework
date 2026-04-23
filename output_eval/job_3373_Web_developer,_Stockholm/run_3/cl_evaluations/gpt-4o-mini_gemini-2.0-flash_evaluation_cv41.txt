@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT and system administration but lacks direct front-end development experience with React or modern frameworks, which are essential for the role. While they mention familiarity with HTML, CSS, and JavaScript, they do not demonstrate proficiency or hands-on experience with the required technologies, testing frameworks, or CI/CD tools mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume is for a Marketing Automation Consultant, with expertise in Eloqua and Salesforce. It lacks the required front-end development skills such as JavaScript, React, HTML, CSS, and testing frameworks. The candidate's experience does not align with the job description's focus on modern FE frameworks and web security.

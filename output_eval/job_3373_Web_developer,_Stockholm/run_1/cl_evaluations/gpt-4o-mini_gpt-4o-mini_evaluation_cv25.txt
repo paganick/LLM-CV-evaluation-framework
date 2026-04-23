@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and project management, which is valuable, but lacks significant hands-on experience with JavaScript, modern frameworks like React, and testing frameworks. While they express a strong willingness to learn and collaborate, they do not meet several key technical requirements outlined in the job description. Their knowledge of web security principles is basic, which falls short of what is expected for the role.

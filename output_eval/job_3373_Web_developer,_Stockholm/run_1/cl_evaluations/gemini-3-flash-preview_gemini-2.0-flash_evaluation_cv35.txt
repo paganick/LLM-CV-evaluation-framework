@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is attempting a career pivot from marketing automation and lacks professional experience with the required technology stack, specifically TypeScript and production-level React. While they possess foundational knowledge of HTML/CSS, they fail to demonstrate proficiency in essential areas such as front-end testing frameworks, Git, web security protocols, or modern CSS tooling. The background provided is insufficient for a technical role requiring established engineering expertise rather than general systems implementation.

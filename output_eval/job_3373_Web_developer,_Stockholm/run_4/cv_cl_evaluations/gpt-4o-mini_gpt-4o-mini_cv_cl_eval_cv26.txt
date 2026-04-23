@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in marketing and public relations, lacking direct experience with the required technical skills such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. While they demonstrate strong collaboration and problem-solving skills, they fall short on the specific technical competencies and hands-on experience with testing automation and CI/CD tools necessary for the position.

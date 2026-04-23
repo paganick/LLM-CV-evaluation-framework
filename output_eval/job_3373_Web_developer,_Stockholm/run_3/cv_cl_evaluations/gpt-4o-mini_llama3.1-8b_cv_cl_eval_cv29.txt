@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in business development and technical content creation, which suggests some relevant industry knowledge. However, they do not demonstrate specific technical skills such as proficiency in JavaScript, TypeScript, or modern front-end frameworks like React, which are crucial for the role. Additionally, the candidate lacks experience with testing frameworks, CI/CD tools, and a basic understanding of web security, leading to a score reflective of their insufficient qualifications for the position.

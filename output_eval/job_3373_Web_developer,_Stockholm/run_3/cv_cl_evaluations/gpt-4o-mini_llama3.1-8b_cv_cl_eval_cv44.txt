@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and user experience but lacks direct experience with key technologies and frameworks mentioned in the job description, such as JavaScript, TypeScript, and React. While the candidate shows familiarity with HTML and CSS, the absence of specific experience in testing frameworks and CI/CD tools further limits their fit for the technical requirements of the role. Overall, they could be a valuable addition with further development in the required technical areas.

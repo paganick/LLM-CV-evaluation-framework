@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight project management experience, but lack demonstrable expertise in the specific technologies outlined in the job description (JavaScript, React, etc.). While the cover letter mentions some relevant technologies, this is not backed by concrete experience in the resume. The candidate's background appears more focused on general IT infrastructure and project management rather than front-end development.

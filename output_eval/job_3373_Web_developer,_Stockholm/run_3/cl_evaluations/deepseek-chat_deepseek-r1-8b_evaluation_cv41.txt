@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in systems administration, not software engineering, and they lack demonstrated hands-on experience with the core frontend technologies listed (React, TypeScript, modern CSS tools). While they show relevant soft skills and awareness of some concepts like OWASP, their direct, practical experience with the required development stack, testing frameworks, and modern development practices is not substantiated. They are a relevant industry candidate but lack the specific, proven skills for this frontend-focused role.

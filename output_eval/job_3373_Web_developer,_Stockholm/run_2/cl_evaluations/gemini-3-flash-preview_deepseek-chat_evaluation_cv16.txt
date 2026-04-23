@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses the required industry background and Agile experience but lacks professional proficiency in the core technical stack, specifically React and TypeScript. Their experience is primarily rooted in the .NET ecosystem and legacy libraries like jQuery, whereas the role demands immediate expertise in modern JavaScript frameworks and automated testing tools like Jest or Cypress. Consequently, the candidate would require significant upskilling to meet the primary technical requirements of the position.

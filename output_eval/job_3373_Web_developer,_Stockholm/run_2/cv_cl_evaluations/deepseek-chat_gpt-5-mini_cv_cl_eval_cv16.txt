@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and mentions JavaScript, HTML, and CSS, but their core expertise is in legacy .NET/C# stack, not the modern React/TypeScript ecosystem required. They lack any demonstrated experience with React, testing frameworks, modern CSS tools, or the other specific technologies listed (e.g., Node.js, AWS, CI/CD). While they show a willingness to learn, their professional background does not align with the specific technical requirements of the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UI-related experience within game development (UI implementation, HUDs, prototypes in Unity) and meets the years-of-experience expectation, but the cover letter lacks critical UI/UX evidence required by the job: no portfolio, no explicit mention of required design tools (Adobe Illustrator/Photoshop, named wireframe tools like InVision), and no clear UI/UX job title or formal design background. These gaps make it uncertain they can fulfill the role's design deliverables and stakeholder-facing responsibilities.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over five years of general software development experience, the resume fails to demonstrate professional experience with the core requirements of React, TypeScript, and modern testing frameworks like Jest or Cypress. Their background is heavily focused on C#, .NET, and Python-based data science projects, which does not align with the modern frontend stack and CI/CD tools requested. The mentions of React and TypeScript in the cover letter are not supported by the technical skills or project descriptions provided in the resume.

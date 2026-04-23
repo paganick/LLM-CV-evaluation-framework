@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in sales, management, and unrelated fields, with zero demonstrated experience in any of the required technical skills such as JavaScript, React, testing, or modern web development. The cover letter attempts to pivot but provides no evidence of technical competency or relevant project work. This is a complete mismatch for a software engineering role.

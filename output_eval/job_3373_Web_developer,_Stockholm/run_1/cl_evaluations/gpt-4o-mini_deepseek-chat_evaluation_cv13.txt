@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: While the candidate demonstrates strong foundational skills in front-end development and relevant experience with JavaScript, HTML, CSS, and Angular, they lack direct experience with React, which is specified as the primary framework used by the company. Additionally, their knowledge of testing frameworks, modern CSS tools, and CI/CD practices needs to be more explicitly communicated. Overall, they are a strong candidate who has relevant skills but could better align with specific job requirements.

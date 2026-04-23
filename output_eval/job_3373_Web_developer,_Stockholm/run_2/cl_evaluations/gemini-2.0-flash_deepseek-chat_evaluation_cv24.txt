@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate highlights relevant technical skills like JavaScript, TypeScript, React, Styled Components, Git, ESLint, Prettier, and Jest, aligning well with the job description. They also emphasize Agile experience and collaboration skills. While the candidate's background is in digital communications, the cover letter effectively conveys a dedication to frontend development and addresses the listed requirements, though practical experience within a team is less clear.

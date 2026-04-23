@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive software development experience but lacks the critical expertise required in React and TypeScript, which are primary requirements for this role. Their background is heavily concentrated in the .NET ecosystem and legacy technologies like jQuery and AngularJS, with no evidence of experience in modern testing frameworks, functional programming, or CI/CD tools. While they have relevant industry experience, their technical stack does not align with the modern frontend requirements of the position.

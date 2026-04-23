@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Although the candidate has over twenty years of experience in digital business development, they fail to demonstrate specific proficiency in the mandatory technical pillars of Application Services (API, Cloud, Microservices) or modern Data Science analytics. The background presented is heavily centered on legacy digital marketing and SEO rather than the enterprise-level IT architectural review and digitalization strategies required for this specific role.

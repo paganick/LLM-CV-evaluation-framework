@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in digital communications and technical writing but lacks direct experience with core front-end technologies like JavaScript, TypeScript, and modern frameworks such as React. While the applicant expresses an eagerness to learn, their current skill set does not align closely with the requirements of the role, particularly in terms of hands-on development experience and familiarity with testing frameworks and CI/CD tools.

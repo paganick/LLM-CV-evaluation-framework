@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely from the software development industry and lacks the required 3-5 years of experience in construction planning or management. While they have an engineering degree, their professional background and technical skills (C#, .NET, SQL) do not align with construction scheduling requirements or proficiency in industry-standard software like Primavera P6. The attempt to bridge Agile software methodologies to construction planning does not compensate for the lack of civil or site-based project experience.

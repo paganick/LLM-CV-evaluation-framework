@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates analytical skills and a willingness to learn, the cover letter lacks direct, demonstrable experience with the specific frontend technologies mentioned in the job description (React, TypeScript, HTML, CSS). The applicant's background is primarily in data analysis, requiring a significant pivot and upskilling to meet the position's core requirements. Although transferable skills are present, the lack of explicit frontend project experience is a notable weakness.

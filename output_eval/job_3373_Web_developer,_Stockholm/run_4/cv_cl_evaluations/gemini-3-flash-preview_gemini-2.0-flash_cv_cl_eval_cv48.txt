@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate possesses zero professional experience with the required technical stack, including JavaScript, TypeScript, and React. Their extensive background is strictly in hardware maintenance, IT support, and system administration, which does not translate to the specialized software engineering skills demanded by this role. While they have a long history in the IT industry, they are completely unqualified for a front-end development position.

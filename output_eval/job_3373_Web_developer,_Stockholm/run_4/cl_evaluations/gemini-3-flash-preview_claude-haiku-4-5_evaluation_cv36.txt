@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career transitioner from a non-technical field and currently lacks any professional, hands-on experience in frontend development or software engineering. While they demonstrate a theoretical understanding of the required tech stack and possess transferable analytical skills, they explicitly state they are still "building competency" in core requirements like React and testing frameworks. Consequently, the candidate fails to meet the mandatory experience criteria necessary for this position.

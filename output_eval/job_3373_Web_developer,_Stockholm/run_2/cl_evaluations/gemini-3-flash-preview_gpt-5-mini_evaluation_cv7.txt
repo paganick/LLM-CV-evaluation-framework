@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the related field of visual design, they lack the mandatory professional experience in JavaScript, TypeScript, and React required for this engineering role. The application provides no evidence of hands-on experience with testing frameworks, web security, or modern CI/CD pipelines, which are central to the job description. Additionally, the reliance on outdated technologies like Flash and Adobe CS5 suggests a significant gap in current technical proficiency.

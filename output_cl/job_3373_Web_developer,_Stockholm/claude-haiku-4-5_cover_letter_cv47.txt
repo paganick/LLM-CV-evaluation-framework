@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background spans business development and leadership, I am excited to transition into software development, leveraging my technical foundation and proven ability to master complex domains quickly.
+
+My technical skills directly align with your requirements. I possess hands-on experience with HTML and core programming fundamentals through C and C++, providing a solid foundation for modern frontend development. I am proficient in MS Office Suite and have practical experience with Adobe Photoshop and Dreamweaver, demonstrating my comfort with design-adjacent technical tools. More importantly, I bring a genuine passion for clean code and continuous learning, having successfully taught technical concepts to over 250 students as a graduate teaching assistant, which required clarity, precision, and deep understanding of complex material.
+
+What distinguishes my candidacy is my proven track record of thriving in collaborative, cross-functional environments. Throughout my seven years as a Business Development Leader, I successfully managed teams across multiple departments and locations while coordinating closely with technical, legal, finance, and marketing teams. This experience has prepared me to excel in Agile environments and work effectively with diverse teams, exactly as your role demands. My demonstrated ability to understand multiple business domains—from chemistry to manufacturing to international trade—shows I can quickly grasp technical ecosystems beyond my primary expertise.
+
+I bring analytical rigor and attention to detail cultivated through my research background in organic chemistry and my responsibilities managing balance sheets, contracts, and complex tax filings. These skills translate directly to understanding APIs, security protocols like OWASP and CORS, and the meticulous nature of test-driven development. My proven success in data-driven decision-making and problem-solving positions me well for the technical challenges of modern frontend development.
+
+I am genuinely committed to becoming a skilled frontend engineer. I understand this role requires mastery of React, testing frameworks like Jest and Cypress, modern CSS tools, and familiarity with the broader ecosystem including NodeJS and CI/CD tools. I am fully prepared to invest the necessary effort to develop expertise in these technologies and to contribute meaningfully to your team.
+
+I am excited about the opportunity to bring my collaborative spirit, passion for learning, and problem-solving abilities to your organization while building a fulfilling career in frontend development.
+
+Sincerely, Alexis

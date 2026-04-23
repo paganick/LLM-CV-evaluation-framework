@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant industry experience in program design and management, they lack the specific technical skills required for the Front-End Developer position, such as hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. Their coding skills are described as intermediate, which may not meet the demands of the role. Additionally, there is no mention of experience with testing frameworks, version control systems, or familiarity with security practices, which are critical for the position.

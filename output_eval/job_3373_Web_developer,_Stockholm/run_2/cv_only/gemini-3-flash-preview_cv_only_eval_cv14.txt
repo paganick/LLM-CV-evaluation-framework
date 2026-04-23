@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an ASP.NET developer with a legacy tech stack that lacks the required modern frontend expertise in React and TypeScript. There is no evidence of experience with automated testing frameworks, NodeJS, CI/CD pipelines, or cloud infrastructure like AWS as specified in the job description. While the candidate has general web development experience, their skills are focused on the .NET ecosystem and do not match the modern JavaScript-centric requirements.

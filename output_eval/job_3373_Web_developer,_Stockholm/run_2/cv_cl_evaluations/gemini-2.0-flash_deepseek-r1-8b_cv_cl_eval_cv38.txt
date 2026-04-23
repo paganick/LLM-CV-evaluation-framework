@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in media production, lacking the necessary technical skills (JavaScript, React, testing frameworks, etc.) outlined in the job description. While the cover letter attempts to bridge the gap, the resume doesn't provide any evidence of front-end development experience. The candidate's skills are not transferable to the role.

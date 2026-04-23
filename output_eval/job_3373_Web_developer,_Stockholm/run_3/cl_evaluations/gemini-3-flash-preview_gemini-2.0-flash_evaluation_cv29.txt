@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses experience in the relevant industry but lacks all mandatory technical proficiencies, explicitly stating they have no experience with JavaScript, TypeScript, or React. They provide no evidence of familiarity with essential tools like Git, testing frameworks, or modern CSS, which are core requirements for the role. While they have transferable soft skills, their total lack of a technical background makes them unqualified for a developer position.

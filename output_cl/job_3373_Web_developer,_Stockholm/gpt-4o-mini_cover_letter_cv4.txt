@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Developer position that emphasizes JavaScript, TypeScript, and modern front-end frameworks such as React. With over five years of experience in web development, particularly in JavaScript and HTML/CSS, I am excited about the opportunity to contribute my skills to your team.
+
+In my current role as a Software Developer, I successfully designed and implemented an Internal Marketing System using a range of technologies, including C#, SQL, and HTML. My responsibilities included integrating marketplace APIs and optimizing code to modern development standards. The successful launch of this system resulted in a 30% growth for my company. I also possess hands-on experience with testing frameworks, such as Jest and Performance testing, which parallels your requirement for experience with test automation.
+
+I am familiar with a variety of modern CSS tools, and my experience includes working with frameworks like Node.js and understanding the principles of RESTful API design. I have collaborated within cross-functional teams in Agile environments, and I genuinely enjoy engaging with colleagues across different domains to gain a holistic understanding of the product and its underlying technologies.
+
+As for security principles, I have a foundational knowledge of OWASP guidelines and CORS, as well as experience with Git and repository hosting services like GitHub. I continuously seek to improve my skills, staying up-to-date with the latest technologies and best practices, ensuring my work is not only functional but also clean and maintainable.
+
+My academic background in Computer Engineering, coupled with my internship experiences, has equipped me with a robust problem-solving mindset. I thrive in collaborative settings and appreciate the importance of communication and teamwork, which I have demonstrated through my ability to build positive relationships with coworkers and clients.
+
+I am enthusiastic about the opportunity to bring my background in JavaScript and my passion for clean code to your team. Thank you for considering my application.
+
+Sincerely,  
+Alexis

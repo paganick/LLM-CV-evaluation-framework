@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design with some experience in HTML and CSS, which is relevant, but lacks hands-on experience with modern front-end frameworks like React, testing frameworks, and essential tools and practices mentioned in the job description. While their design skills are strong, they do not demonstrate sufficient familiarity with the technical requirements or environment outlined for the position.

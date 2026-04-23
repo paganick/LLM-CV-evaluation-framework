@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong transferable skills (program management, curriculum design, Agile collaboration) and a clear willingness to learn, but lacks the required hands-on experience in JavaScript/TypeScript, HTML/CSS, and React. They only list intermediate R Studio experience and limited familiarity with testing frameworks, NodeJS tooling, and front-end technologies critical to the role. Given the technical requirements, this profile is relevant but does not meet the specific skillset needed for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in web development and a background in frontend technologies, which is a positive aspect. However, there is limited specific experience with frameworks like React and testing frameworks such as Jest and Cypress, as well as the lack of direct software development experience. While they demonstrate a willingness to learn and a solid technical foundation, they do not fully meet the job requirements.

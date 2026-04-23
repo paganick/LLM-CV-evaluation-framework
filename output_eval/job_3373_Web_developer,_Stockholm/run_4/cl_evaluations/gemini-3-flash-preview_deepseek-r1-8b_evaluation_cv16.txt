@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates the core competencies in JavaScript, TypeScript, and React, yet fails to address critical requirements like web security (OWASP), functional programming, or the requested CI/CD tools. Their professional background is heavily concentrated in C# and ASP.NET, which suggests a lack of the specialized frontend depth and experience with the modern toolset (Ramda, Cypress, CircleCI) specified in the job description. Consequently, the application lacks the specific technical evidence required to move beyond a basic qualification level.

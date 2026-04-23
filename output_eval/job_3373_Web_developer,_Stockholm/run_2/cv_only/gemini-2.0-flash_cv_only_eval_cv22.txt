@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on media planning and buying, with limited and outdated technical skills. While the resume mentions HTML and CSS, it lacks depth in modern FE frameworks like React, TypeScript, or testing methodologies. The candidate's experience is primarily in marketing and advertising, making them a poor fit for a front-end developer role.

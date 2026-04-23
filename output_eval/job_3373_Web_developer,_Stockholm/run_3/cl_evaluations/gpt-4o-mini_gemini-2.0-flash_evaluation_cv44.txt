@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows some relevant experience in front-end technologies such as HTML and CSS, and highlights skills in design and collaboration within an Agile environment. However, they lack proficiency in JavaScript, TypeScript, modern front-end frameworks like React, and specific testing frameworks, which are critical for the position. Additionally, there is no mention of experience with Git or familiarity with security practices or advanced technical tools mentioned in the job description.

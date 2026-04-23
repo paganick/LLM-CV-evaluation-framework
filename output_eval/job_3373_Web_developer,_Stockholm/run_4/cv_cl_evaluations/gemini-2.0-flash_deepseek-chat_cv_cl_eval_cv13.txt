@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, and CSS, but lacks the depth in modern FE frameworks (React, VueJS, Svelte) mentioned in the job description. Their experience leans heavily towards project management rather than hands-on development, and the resume mentions Angular, not React which is the preferred framework. While they express interest in React, there isn't enough evidence of practical experience to justify a higher rating.

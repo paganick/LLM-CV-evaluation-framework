@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate meets the minimum 2-3 years of UX/UI experience and demonstrates solid hands-on skills (prototypes, wireframes, usability testing, content strategy) and relevant education. However, they do not evidence Agile experience, Figma proficiency, sufficient front-end exposure (only HTML5 listed, no CSS/JS), nor clear experience managing a UX roadmap, mentoring a team, or maintaining a UI Design System. Given these gaps against the job’s stated requirements, they are a relevant candidate but lack several specific skills needed for this role.

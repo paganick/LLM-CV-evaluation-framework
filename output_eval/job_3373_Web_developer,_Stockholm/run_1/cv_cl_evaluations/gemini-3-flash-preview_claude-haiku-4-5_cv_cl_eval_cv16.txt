@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily focused on the .NET ecosystem and legacy frontend tools like jQuery, failing to meet the core requirement for proficiency in React and TypeScript. There is no evidence of experience with modern testing frameworks (Jest, Cypress), CI/CD tools, or the specific CSS-in-JS libraries requested. While the candidate understands the SDLC and Agile methodologies, they lack the specific technical stack necessary to function as a modern frontend developer without extensive retraining.

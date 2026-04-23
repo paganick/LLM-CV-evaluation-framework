@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE backend experience, Git familiarity, and Agile exposure but their frontend experience is limited to jQuery/Bootstrap and basic JavaScript. They lack demonstrated practical experience with React, TypeScript, modern Node/npm tooling, CSS-in-JS/SASS, and frontend testing frameworks (Jest/Cypress), which are essential for this role. While motivated to learn, they would require significant upskilling to meet the position's core frontend requirements.

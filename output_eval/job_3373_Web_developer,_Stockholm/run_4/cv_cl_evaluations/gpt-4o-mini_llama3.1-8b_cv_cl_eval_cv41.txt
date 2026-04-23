@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in systems administration and troubleshooting but lacks the specific skills required for the JavaScript, TypeScript, and modern front-end frameworks like React. There is no mention of test automation experience or familiarity with tools such as Jest, TestCafe, or CI/CD processes, which are essential for this role. While the candidate has relevant industry experience, they do not meet the critical technical requirements of the job description.

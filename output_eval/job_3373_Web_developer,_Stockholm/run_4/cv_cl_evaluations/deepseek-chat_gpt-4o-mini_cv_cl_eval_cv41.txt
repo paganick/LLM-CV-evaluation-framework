@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows a background in systems administration and IT support, not front-end development, with no demonstrable project experience in React, TypeScript, or modern FE frameworks. The cover letter claims relevant skills but is unsupported by the resume's detailed work history, which lacks any mention of front-end technologies, testing frameworks, or agile software development. This indicates a significant mismatch between the candidate's proven experience and the core requirements of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a relevant industry but is heavily misaligned with the specific technical requirements. The job description emphasizes modern front-end technologies (React, TypeScript, CSS-in-JS), testing frameworks, and functional programming, while the cover letter focuses almost exclusively on back-end Java/J2EE, JSP, and Struts. The candidate mentions generic Agile and communication skills, but lacks any demonstrated experience in the required tech stack.

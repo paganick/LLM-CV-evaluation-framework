@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer with no professional experience in software engineering or modern front-end development frameworks like React. They lack nearly all core technical requirements, including JavaScript, TypeScript, Git, and automated testing. While they possess basic HTML and CSS skills for email newsletters, they are fundamentally unqualified for a technical developer role.

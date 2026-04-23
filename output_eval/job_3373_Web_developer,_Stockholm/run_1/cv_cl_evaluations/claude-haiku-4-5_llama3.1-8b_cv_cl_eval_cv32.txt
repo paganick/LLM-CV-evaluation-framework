@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has no software development experience, programming knowledge, or technical background relevant to a frontend engineering role. The resume demonstrates a career entirely in customer service, sales, and management with no evidence of JavaScript, TypeScript, React, testing frameworks, Git, or any of the required technical competencies. While the cover letter acknowledges the lack of programming experience and expresses willingness to learn, this represents a complete career pivot with zero foundational qualifications for the position.

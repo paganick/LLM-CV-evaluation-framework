@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and demonstrates familiarity with key technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks. However, there is no mention of specific modern CSS tools like Styled Components or SASS, and while they mention hands-on experience with testing automation, there is no indication of familiarity with specific testing frameworks listed in the job description. Additionally, they lack mention of basic web security knowledge and familiarity with AWS or CI/CD tools.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in full-stack development and relevant experience with core web technologies. However, they lack specific hands-on experience with TypeScript, VueJS, and the particular testing frameworks mentioned in the job description. Overall, the candidate demonstrates a solid understanding of front-end development and Agile collaboration, but does not fully meet all the specific requirements.

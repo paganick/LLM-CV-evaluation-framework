@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in manual and automation testing as mentioned but lacks specific expertise in technologies and tools listed in the job description, such as TypeScript and modern testing frameworks like Jest or Cypress. Additionally, there is no mention of experience with Git or familiarity with security practices on the Web, which further limits the candidate's fit for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background in web development and knowledge of JavaScript/TypeScript, their profile is heavily weighted toward project management rather than hands-on engineering. The application lacks evidence of practical experience with critical technical requirements, such as web security (OWASP), specific testing frameworks, CI/CD pipelines, and functional programming. As a Technical Project Manager, the candidate fails to demonstrate the deep, implementation-level expertise required for a dedicated developer role.

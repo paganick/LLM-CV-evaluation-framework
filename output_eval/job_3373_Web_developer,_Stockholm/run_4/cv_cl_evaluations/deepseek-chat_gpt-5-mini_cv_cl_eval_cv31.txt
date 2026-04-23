@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales and management, not software engineering. While they mention basic HTML and a desire to learn, they lack any professional experience with the required technologies (React, TypeScript, testing frameworks, Git, etc.) or the specific technical skills listed in the job description. This is a severe industry and role mismatch.

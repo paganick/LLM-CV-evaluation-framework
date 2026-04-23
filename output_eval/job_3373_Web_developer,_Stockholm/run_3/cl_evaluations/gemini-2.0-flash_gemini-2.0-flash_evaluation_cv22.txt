@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in media planning, not frontend development. While they express interest and are pursuing a relevant degree, they lack specific experience with JavaScript, TypeScript, modern FE frameworks (beyond expressing interest in React), and testing frameworks mentioned in the job description. The cover letter focuses more on database and backend skills, which are not the primary focus of the Frontend Developer role.

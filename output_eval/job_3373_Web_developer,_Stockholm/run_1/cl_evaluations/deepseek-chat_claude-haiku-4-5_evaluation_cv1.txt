@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core technical requirements, including React, JavaScript/TypeScript, and testing/automation experience. However, the cover letter lacks specific mention of several key tools from the job description, such as Jest/Cypress, modern CSS tools (Styled Components), Node.js ecosystem details, and functional programming with Ramda. While the experience is comprehensive and relevant, these omissions prevent a higher score as they are explicitly listed requirements.

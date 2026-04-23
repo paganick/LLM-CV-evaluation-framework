@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree and expresses interest in frontend development, the resume lacks concrete evidence of recent or hands-on experience with JavaScript, modern FE frameworks like React, or relevant testing frameworks. The experience leans heavily towards project management, quality engineering, and business development within different industries, making the fit weak despite the expressed eagerness to learn. The cover letter attempts to bridge the gap but doesn't compensate for the absence of demonstrated skills.

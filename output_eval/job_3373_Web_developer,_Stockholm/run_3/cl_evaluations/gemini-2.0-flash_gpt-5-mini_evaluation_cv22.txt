@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience but lacks specific front-end skills mentioned in the job description. While they show eagerness to learn React, TypeScript, and testing practices, they do not have demonstrable hands-on experience with these technologies. Their background is in media planning and account management, which is a significant shift from front-end engineering.

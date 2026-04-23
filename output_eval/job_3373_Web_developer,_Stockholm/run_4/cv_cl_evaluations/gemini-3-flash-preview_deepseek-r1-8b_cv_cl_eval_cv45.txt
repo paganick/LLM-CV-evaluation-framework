@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience with the mandatory frontend stack, including React, TypeScript, and modern CSS tools. Their background is focused almost entirely on Information Security, network operations, and high-level IT management rather than hands-on web development. Despite general IT proficiency, they do not meet the specific technical requirements for a modern frontend engineering role.

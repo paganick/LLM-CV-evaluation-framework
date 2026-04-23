@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, not frontend development. While they express interest and some foundational knowledge, they lack the required depth in JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), and testing frameworks. The cover letter indicates a desire to learn, but the resume lacks concrete frontend experience.

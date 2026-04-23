@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in mainframe development but lacks direct experience with the required frontend technologies such as JavaScript, TypeScript, and modern frameworks like React. While they express a willingness to learn, their current skill set does not adequately match the specific needs of the role, particularly in web security and testing frameworks. Overall, their experience is relevant but insufficient for a strong fit in a frontend development position.

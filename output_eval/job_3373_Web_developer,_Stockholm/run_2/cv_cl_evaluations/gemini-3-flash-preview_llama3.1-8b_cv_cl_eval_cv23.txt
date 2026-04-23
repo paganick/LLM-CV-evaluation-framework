@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics technician whose professional experience is almost entirely focused on hardware testing, circuit troubleshooting, and electromechanical assembly rather than web development. While the cover letter claims proficiency in React and TypeScript, the resume provides no evidence of professional experience with the modern front-end stack, web security, or the automated testing frameworks required. Consequently, the applicant lacks the fundamental software engineering background necessary for this specific role.

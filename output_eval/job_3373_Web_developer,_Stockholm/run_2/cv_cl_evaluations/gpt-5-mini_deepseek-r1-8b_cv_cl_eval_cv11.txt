@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant software testing experience and basic JavaScript/HTML/CSS and test-automation skills, but their background is primarily QA rather than front-end development. They lack demonstrated experience with TypeScript, React (or other modern frameworks), Node/npm, modern CSS tooling, CI/CD, and cloud/DevOps practices required by the role. Their cover letter asserts familiarity with some tools, but the resume provides little concrete evidence of the core frontend and ecosystem skills needed to succeed immediately in this position.

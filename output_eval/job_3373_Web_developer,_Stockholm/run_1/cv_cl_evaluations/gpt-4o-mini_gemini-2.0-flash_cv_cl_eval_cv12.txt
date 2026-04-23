@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and familiarity with essential front-end technologies such as JavaScript, HTML, and CSS. However, there is no specific experience mentioned with React, the primary framework used by the company, which is a crucial requirement. Additionally, while testing experience is noted, the candidate's exposure to modern CSS tools and other listed technologies appears limited.

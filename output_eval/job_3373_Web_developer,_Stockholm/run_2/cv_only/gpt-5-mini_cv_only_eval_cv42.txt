@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects a senior finance/operations executive with project and vendor management experience, but contains no hands-on front-end development skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git, Node.js, or cloud/CI/CD experience required for the role. References to implementing business systems are project-management related and do not demonstrate the technical expertise or tooling experience sought. Therefore the candidate is completely unqualified for this frontend engineering position.

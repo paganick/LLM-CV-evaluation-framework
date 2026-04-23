@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant testing experience, familiarity with JavaScript, and Agile collaboration which are useful foundations. However, they lack direct, demonstrable experience with the core front-end requirements (React, TypeScript, HTML/CSS), modern FE tooling (Styled Components/SASS), JavaScript testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, Node/npm, and web security/CI/CD—major gaps for this role. Their background appears more hardware/QA-focused and would require significant upskilling to meet the job's expectations.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a background in web development with JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React as the job description requires. While the candidate expresses interest in learning React, TypeScript, AWS, and Terraform, they currently don't have experience and the role requires experience. The resume shows .NET focus rather than modern JavaScript frameworks.

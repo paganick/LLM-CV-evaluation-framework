@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience and the required technical proficiency in JavaScript, TypeScript, and React. While they demonstrate strong transferable project management skills and an understanding of Agile, they do not possess the mandatory hands-on experience with testing frameworks or web security protocols specified in the job description. The profile currently reflects a trainee level rather than a qualified frontend developer ready to contribute to a production environment.

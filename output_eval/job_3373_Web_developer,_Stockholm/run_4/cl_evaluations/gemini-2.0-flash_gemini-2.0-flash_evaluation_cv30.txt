@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis, not front-end development. While they express interest in learning React, they lack demonstrable experience with JavaScript, TypeScript, modern front-end frameworks, testing, and other core requirements listed in the job description. The cover letter relies heavily on transferable skills and eagerness to learn, which are not enough to offset the lack of direct experience.

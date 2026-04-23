@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter showcases business development and marketing expertise, entirely missing the technical skills emphasized in the job description, such as JavaScript, React, and testing frameworks. There is no mention of front-end development or any of the required technologies. This candidate is completely unqualified for a front-end developer role.

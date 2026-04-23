@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern front-end technologies required. The resume shows no experience with React, TypeScript, or the listed testing frameworks, and the cover letter's claims about transitioning to React are not supported by concrete evidence. While they have general JavaScript and Agile experience, the core technical stack and tooling requirements from the job description are not met.

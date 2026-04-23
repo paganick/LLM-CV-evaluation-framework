@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in sales leadership, not frontend development, which is a significant mismatch. While they mention some relevant keywords (HTML, React, Agile), they lack demonstrable, hands-on experience with the core technologies listed in the job description, such as TypeScript, modern CSS tools, and testing frameworks. Their certifications and degree are not directly relevant to the technical requirements of the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates extensive experience with the core tech stack, specifically React, testing frameworks, and cloud infrastructure. However, they failed to address the explicit requirement for TypeScript and functional programming (Ramda), which are central to the job description. While the candidate is highly qualified in the general industry, these specific technical omissions prevent a higher rating from a strict recruitment perspective.

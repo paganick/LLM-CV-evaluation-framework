@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, testing frameworks, linters, Node.js, and Git. However, the cover letter lacks explicit mention of several key job description items such as TypeScript, security fundamentals (OWASP, CORS), modern CSS tools, functional programming/Ramda, and CI/CD. The candidate's extensive ASP.NET background is less relevant to the front-end focused role described.

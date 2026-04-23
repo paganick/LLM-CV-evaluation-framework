@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in quality assurance and testing, they lack professional experience in software development and the core tech stack required, specifically React and TypeScript. Their knowledge of modern front-end frameworks is self-described as "foundational," and they do not demonstrate prior experience building or maintaining production-level codebases. This application reflects a career pivot rather than the established engineering expertise requested in the job description.

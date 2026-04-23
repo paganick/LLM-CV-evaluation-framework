@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in presentation and multimedia design, with some UX/UI experience. While they express interest in the required technologies and have some foundational knowledge of HTML and CSS, they lack demonstrable experience in JavaScript, React, testing frameworks, and other key front-end development skills. The cover letter attempts to bridge the gap, but the resume doesn't provide sufficient evidence of the required skills.

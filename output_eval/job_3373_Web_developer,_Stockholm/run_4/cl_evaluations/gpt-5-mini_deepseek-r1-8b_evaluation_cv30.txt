@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong backend, data analysis, and QA experience plus a clear interest in clean code and Agile collaboration, which are relevant to software development. However, they lack demonstrable, hands-on experience with the core frontend stack required (JavaScript/TypeScript, React, HTML/CSS), modern CSS tooling, the Node ecosystem, and the specified JS testing frameworks and automation. Overall, they are in the relevant industry but do not meet the specific frontend skill requirements for this role.

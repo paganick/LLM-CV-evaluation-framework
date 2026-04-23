@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, and testing frameworks. However, the cover letter does not address several key items from the job description, such as security knowledge (OWASP, CORS), CI/CD tools, linters/formatters, and AWS/Terraform. The experience is relevant and the soft skills match well, but the omission of these specified requirements prevents a higher score.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional history is centered on business development, sales, and program management in the aerospace industry, lacking any recent or relevant professional experience in software engineering. While the cover letter echoes the job description's keywords, the resume provides no evidence of hands-on work with React, TypeScript, or modern frontend ecosystems. This candidate is a senior-level manager and lacks the specific technical background required for a modern software development role.

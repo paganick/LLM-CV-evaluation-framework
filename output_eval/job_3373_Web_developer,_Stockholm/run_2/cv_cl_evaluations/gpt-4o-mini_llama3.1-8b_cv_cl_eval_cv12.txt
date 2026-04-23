@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in software development and mentions relevant technologies such as JavaScript and CSS. However, they lack specific experience with modern frameworks like React, as evidenced in their resume. While they claim to have hands-on experience with testing, the overall match to the specific job description is moderate, preventing a higher score.

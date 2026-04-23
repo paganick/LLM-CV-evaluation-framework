@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has worked with JavaScript, HTML5, and CSS3, which aligns with the job description. However, they lack direct experience with React, modern testing frameworks like Jest or Cypress, and CI/CD tools mentioned in the job description. While the candidate demonstrates a commitment to clean coding and security practices, their familiarity with specific technologies and frameworks falls short of the requirements for this position.

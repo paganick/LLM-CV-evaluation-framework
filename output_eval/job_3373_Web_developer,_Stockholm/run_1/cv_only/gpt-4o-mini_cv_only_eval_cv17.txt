@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in construction and project management, with no relevant background in software development or the required technical skills such as JavaScript, TypeScript, or modern front-end frameworks like React. The resume does not address any of the job description's essential requirements, including testing experience, web security knowledge, or familiarity with tools and environments pertinent to software development.

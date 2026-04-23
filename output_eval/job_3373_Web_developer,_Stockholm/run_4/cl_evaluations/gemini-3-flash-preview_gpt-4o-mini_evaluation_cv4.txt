@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate lacks proven professional experience with React and TypeScript, as their primary project highlight centers on an unrelated C# and SQL backend stack. They also fail to address several technical requirements, including functional programming, CI/CD pipelines, and specific cloud infrastructure. While they possess a relevant general background, the lack of specific evidence for the core frontend ecosystem makes them an insufficient match for this specialized role.

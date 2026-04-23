@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design, product development, and some knowledge of HTML, but lacks the key technical skills required for the role, particularly in JavaScript, TypeScript, modern front-end frameworks like React, and testing automation practices. While they express a willingness to learn and grow into a front-end engineering role, their current experience does not meet the specific requirements outlined in the job description.

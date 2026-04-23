@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in IT and system administration but lacks direct experience with front-end technologies such as JavaScript, TypeScript, and modern frameworks like React or others mentioned in the job description. While the resume indicates a technical foundation, it does not demonstrate hands-on experience with testing automation, CSS tools, or the specific libraries and tools required for this role. Overall, the candidate falls short in essential skills needed for the position.

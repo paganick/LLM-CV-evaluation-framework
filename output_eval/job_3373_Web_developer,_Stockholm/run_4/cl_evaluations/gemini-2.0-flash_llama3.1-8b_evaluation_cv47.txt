@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in business development, which is not the focus of the job description that requires strong FE engineering skills. While they express interest in technology and familiarity with some related tools (CI/CD, API design), they lack the core requirements such as React, testing frameworks, and modern JavaScript fundamentals. Their business background is likely not relevant, given what the role focuses on.

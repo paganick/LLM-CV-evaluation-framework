@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is not a strong fit for a front-end developer role. While the cover letter mentions HTML and some programming experience, it heavily emphasizes business development experience and a desire to learn modern front-end tools. The reliance on C and C++ for a front-end position is a weakness, and the cover letter highlights a lack of direct experience with required technologies like React, Javascript, or Typescript.

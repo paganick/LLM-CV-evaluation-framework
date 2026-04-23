@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience with JavaScript, HTML, and CSS. However, the resume lacks specific details on modern FE frameworks like React, focusing more on .NET and other languages. The cover letter mentions React experience, but the resume should provide concrete examples.

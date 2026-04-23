@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundational understanding of web development principles and technologies. While they highlight their eagerness to learn React and mention relevant tools like SASS and Jest/Cypress, they lack direct experience with TypeScript, modern FE frameworks, and key areas like API design and CI/CD, which are essential for the role. The candidate's background is more relevant than a completely unrelated industry, but they require significant upskilling.

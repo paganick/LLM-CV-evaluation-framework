@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on project management, with limited details about hands-on front-end development experience. While they mention JavaScript, HTML, CSS, and Angular, the depth of their technical skills is unclear. The cover letter expresses interest in React but doesn't demonstrate substantial experience, and lacks specific examples of implementing security best practices or API design.

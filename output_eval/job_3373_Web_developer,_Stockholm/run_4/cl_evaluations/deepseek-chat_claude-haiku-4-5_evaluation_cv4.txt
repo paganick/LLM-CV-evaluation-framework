@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in core frontend technologies, React, and API integration, and demonstrates a collaborative, Agile mindset that aligns with the job description. However, they lack explicit, direct experience with several key requirements from the job description, including TypeScript, modern CSS tools, specific testing frameworks (Jest, Cypress), and security concepts. Their eagerness to learn these is noted, but the absence of proven hands-on experience prevents a higher score.

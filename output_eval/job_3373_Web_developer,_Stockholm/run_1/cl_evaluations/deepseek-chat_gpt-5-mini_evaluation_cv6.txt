@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, testing, and Agile collaboration. However, the role heavily emphasizes modern front-end frameworks like React, TypeScript, and CSS-in-JS, which the candidate explicitly states are areas for expansion, not current expertise. While their Drupal and traditional front-end background is solid, they lack the specific, hands-on experience with the core technologies listed in the job description.

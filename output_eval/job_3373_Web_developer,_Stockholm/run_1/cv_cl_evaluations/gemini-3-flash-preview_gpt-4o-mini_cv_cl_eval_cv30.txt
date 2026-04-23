@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally a Data Analyst and Scientist whose professional background and technical skills in Python, SQL, and SAS do not align with the requirements for a Front-End Developer. There is no evidence in the resume of professional experience with JavaScript, TypeScript, or modern frameworks like React, which are core requirements for the role. While the cover letter expresses interest, the candidate’s history in environmental science and analytics represents a significant industry and skill-set mismatch.

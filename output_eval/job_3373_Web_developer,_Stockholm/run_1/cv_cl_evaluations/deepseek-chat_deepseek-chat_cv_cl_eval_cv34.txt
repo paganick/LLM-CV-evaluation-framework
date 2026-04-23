@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing and Salesforce implementation, not professional front-end development. While they mention foundational HTML/CSS and a desire to learn React/TypeScript, they lack hands-on experience with the core technologies (React, TypeScript, modern testing frameworks) and tools (Git, CI/CD) specified in the job description. Their project management and client skills are relevant to the collaborative aspects, but the technical fit for a development role is very weak.

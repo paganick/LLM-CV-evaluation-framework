@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and chemistry, lacking direct experience with modern front-end technologies like React, TypeScript, or Node.js. While they express interest in learning these skills, the resume demonstrates a mismatch with the required technical expertise outlined in the job description. The provided experience does not align with the core requirements of a front-end developer role.

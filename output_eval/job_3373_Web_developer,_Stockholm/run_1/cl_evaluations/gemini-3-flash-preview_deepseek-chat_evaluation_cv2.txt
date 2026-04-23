@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a backend Java developer who lacks professional, hands-on experience with the core requirements of React and modern frontend testing frameworks. While they possess strong general software engineering foundations and Agile experience, their frontend skills are self-described as "in-development" rather than proven in a production environment. This profile represents a significant skill gap for a specialized Frontend Developer role.

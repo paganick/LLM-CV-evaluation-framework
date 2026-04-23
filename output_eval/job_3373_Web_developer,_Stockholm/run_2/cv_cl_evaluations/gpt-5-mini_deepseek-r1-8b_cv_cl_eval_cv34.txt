@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant digital and web experience (HTML/CSS, SQL, Salesforce Marketing Cloud, strong documentation and client-facing/project management skills) but lacks the core technical requirements for this React developer role. They show no demonstrated hands-on experience with JavaScript/TypeScript, React, Node/npm, Git/GitHub workflows, modern CSS tooling (Styled Components/SASS), testing frameworks, or CI/CD/cloud fundamentals. Given these critical gaps, they are not qualified for the position without substantial upskilling.

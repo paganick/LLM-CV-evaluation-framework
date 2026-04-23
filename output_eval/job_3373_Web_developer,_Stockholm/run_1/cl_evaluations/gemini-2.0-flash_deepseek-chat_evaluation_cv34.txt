@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates soft skills like collaboration and communication, they lack sufficient hands-on experience with the core technologies listed in the job description, particularly JavaScript and React. Their experience seems primarily focused on implementation and consulting, rather than direct front-end development. The cover letter highlights upskilling efforts, but lacks demonstrable project experience.

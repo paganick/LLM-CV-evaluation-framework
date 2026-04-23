@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong experience in essential technologies such as JavaScript, HTML, CSS, and modern frameworks like React, aligning well with the job requirements. They have relevant testing and CI/CD experience and a basic understanding of web security principles. However, they do not mention TypeScript, and while they mention familiarity with modern CSS tools, experience with the NodeJS ecosystem and functional programming tools like Ramda is absent, which slightly lowers their score.

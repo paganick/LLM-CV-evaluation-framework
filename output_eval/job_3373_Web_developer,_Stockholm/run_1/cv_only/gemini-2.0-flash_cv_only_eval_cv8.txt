@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights extensive experience in test engineering and troubleshooting hardware, but lacks specific skills in modern front-end technologies like JavaScript, React, or related frameworks mentioned in the job description. While they possess Python scripting experience, the resume doesn't demonstrate familiarity with the specific testing frameworks, CSS tools, or CI/CD tools listed as desirable. Their experience leans towards hardware and system-level testing rather than the software development focus of the role.

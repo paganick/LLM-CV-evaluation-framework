@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant background with direct experience in React, modern CSS tools, Jest, Cypress, and a clear understanding of OWASP, CORS, and OAuth. They exceed in areas like TDD/BDD, security, and Agile methodology, and show strong alignment with the company's tech stack and cultural values. The score is not a 9 because the cover letter does not explicitly mention TypeScript, which is a listed requirement, and their extensive backend experience, while valuable, slightly shifts the focus from a pure frontend specialization.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The applicant identifies as a Graphic Designer, which is fundamentally the wrong industry and professional focus for a Software Engineering position requiring TypeScript, React, and DevOps expertise. Essential technical requirements such as Git, Web Security (OWASP), CI/CD, and API design are entirely unaddressed in the application. Despite mentioning some technical keywords, the candidate lacks the core engineering background and software development experience necessary for this role.

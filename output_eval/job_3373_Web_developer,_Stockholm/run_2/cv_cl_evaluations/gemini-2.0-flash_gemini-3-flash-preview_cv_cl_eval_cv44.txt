@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a computer science degree and some front-end experience (HTML, CSS, Javascript), but lacks demonstrable experience with modern FE frameworks like React, which is central to the job. While the cover letter mentions an interest in TypeScript and Ramda, the resume doesn't reflect practical application. Experience with testing, security, and CI/CD tools is also weak based on the provided materials.

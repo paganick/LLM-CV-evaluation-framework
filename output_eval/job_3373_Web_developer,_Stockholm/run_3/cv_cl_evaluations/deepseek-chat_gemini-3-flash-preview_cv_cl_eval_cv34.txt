@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in digital marketing implementation and project management, not software engineering. While they mention HTML and CSS, they lack demonstrable, professional experience with core job requirements like JavaScript, TypeScript, React, modern testing frameworks, and Git. Their experience is in a different domain (Salesforce Marketing Cloud), making them unqualified for this front-end developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive general IT experience but lacks professional, hands-on experience with the specific modern tech stack required, including React, TypeScript, and functional programming. While the cover letter expresses interest, the resume fails to demonstrate proficiency in modern frontend testing frameworks, CI/CD tools, or cloud infrastructure like AWS and Terraform. The applicant's background is primarily in legacy web development and systems administration rather than modern frontend engineering.

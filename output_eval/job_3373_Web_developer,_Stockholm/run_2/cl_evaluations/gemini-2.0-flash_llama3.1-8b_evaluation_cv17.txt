@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in construction management, which is not directly relevant to the software development role. While they express a willingness to learn and highlight transferable skills like problem-solving and communication, they lack the core technical skills mentioned in the job description, such as JavaScript, TypeScript, and experience with modern FE frameworks beyond self-study. The cover letter focuses more on project management experience than demonstrable coding abilities.

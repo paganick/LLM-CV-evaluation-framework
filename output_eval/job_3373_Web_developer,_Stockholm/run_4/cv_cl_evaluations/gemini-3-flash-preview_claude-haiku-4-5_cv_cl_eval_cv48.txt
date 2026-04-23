@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a frontend development role, as their entire professional background is in IT infrastructure, hardware support, and system administration. They lack any documented professional experience or technical proficiency in JavaScript, TypeScript, React, or modern testing frameworks. While the candidate possesses a general technology background, they fail to meet every mandatory requirement for the software engineering stack specified.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate acknowledges a career transition and lacks direct frontend experience. While transferable skills are highlighted, the cover letter primarily focuses on intentions and foundational knowledge, not practical application of the required technologies. The listed skills do not meet the job description's requirements for Javascript, frameworks, testing, and Git.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily an ASP.NET developer with a legacy stack (C#, SharePoint, jQuery) that does not align with the requirement for modern React and TypeScript expertise. Despite claims in the cover letter, the resume lacks professional evidence of experience with modern CSS tools, front-end testing frameworks, or the Node.js ecosystem. The candidate’s background in server-side Microsoft technologies and legacy migrations is a poor fit for a specialized modern front-end engineering role.

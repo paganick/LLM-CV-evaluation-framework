@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not frontend development, which is a significant industry mismatch. While the cover letter expresses interest and claims foundational knowledge, the resume provides no concrete evidence of hands-on experience with the required technologies like React, TypeScript, or modern testing frameworks. The candidate lacks the specific, demonstrable skills listed in the job description for a frontend developer role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all essential technical qualifications, including proficiency in JavaScript, TypeScript, and modern frameworks like React. Mentioning Dreamweaver as a core technical skill demonstrates a significant misalignment with modern front-end engineering practices and requirements like CI/CD, testing, and security. While the candidate has extensive design experience, they provide no evidence of the coding expertise required to fulfill this role.

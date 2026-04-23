@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role as their professional experience is in cybersecurity, government IT management, and systems administration rather than software engineering. There is no evidence of proficiency in JavaScript, TypeScript, React, or any modern front-end frameworks required by the job description. The resume lacks the necessary technical background in web development, testing automation, and cloud-native application design.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of web development experience, they lack professional proficiency in the core required technologies, specifically React and TypeScript. Most of the critical technical requirements, including modern testing frameworks, Node.js, and CI/CD tools, are listed as areas they hope to learn rather than established skills. As a Drupal specialist, the candidate does not currently possess the specific frontend expertise required for this high-level React position.

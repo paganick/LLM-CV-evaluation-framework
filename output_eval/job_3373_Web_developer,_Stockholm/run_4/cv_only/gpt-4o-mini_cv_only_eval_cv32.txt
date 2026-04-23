@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume indicates significant experience in customer service and sales, but there is no relevant experience or skills in JavaScript, TypeScript, HTML, CSS, or any modern front-end frameworks like React. Furthermore, they lack any knowledge of testing automation, Git, or web security, which are critical for the role. Overall, the candidate is completely unqualified for this software development position.

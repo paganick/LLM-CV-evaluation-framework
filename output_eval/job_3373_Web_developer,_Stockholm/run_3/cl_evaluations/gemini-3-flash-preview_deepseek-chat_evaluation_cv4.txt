@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong proficiency in the core tech stack, specifically React, TypeScript, and Node.js, while exhibiting the required collaborative mindset and focus on clean code. However, the application fails to explicitly address critical requirements such as web security protocols (OWASP/CORS), CI/CD experience, and cloud infrastructure (AWS/Terraform). While highly qualified for general development, these specific technical omissions in the professional history prevent a higher rating under strict review.

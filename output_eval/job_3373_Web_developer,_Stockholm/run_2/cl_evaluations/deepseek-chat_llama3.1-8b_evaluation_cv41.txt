@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in systems administration and network management, which is a relevant industry but does not align with the specific front-end developer skills required. The cover letter mentions modern FE frameworks only in the context of the company's interests, not the candidate's own hands-on experience. Critical requirements like JavaScript, React, testing, Git, and web security are not demonstrated, showing a significant lack of the specific technical skills listed in the job description.

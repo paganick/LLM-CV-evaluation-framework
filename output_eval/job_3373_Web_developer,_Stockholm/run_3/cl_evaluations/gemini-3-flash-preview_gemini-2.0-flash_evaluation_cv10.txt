@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant academic background and basic front-end foundations, but fails to demonstrate experience with the core requirements of React and TypeScript. Their technical profile relies on legacy tools like jQuery and AngularJS, showing a significant gap in modern CSS libraries, front-end testing frameworks (Jest/Cypress), and web security protocols. While they have Agile experience, the lack of specific expertise in the required modern ecosystem makes them an underqualified match for this senior-leaning technical stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in information technology and front-end development but lacks specific experience in TypeScript, modern CSS tools, testing frameworks, and CI/CD tools mentioned in the job description. While they demonstrate relevant skills, they do not fully meet the comprehensive requirements outlined, particularly in testing and modern front-end frameworks fitting the company's needs.

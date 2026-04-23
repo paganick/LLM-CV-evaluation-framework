@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications but lacks specific frontend development skills and experiences, particularly in JavaScript, TypeScript, and modern frameworks like React. Their background indicates a strong writing and content management focus, but it does not demonstrate the technical competencies required for the position, such as familiarity with testing frameworks or API design.

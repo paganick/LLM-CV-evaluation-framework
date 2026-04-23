@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a relevant background in software development but lacks explicit experience with React, TypeScript, and modern FE testing frameworks mentioned in the job description. While they mention AngularJS, the company uses React. Their experience is primarily Java-focused, and while they express interest in learning React, the resume doesn't demonstrate proficiency.

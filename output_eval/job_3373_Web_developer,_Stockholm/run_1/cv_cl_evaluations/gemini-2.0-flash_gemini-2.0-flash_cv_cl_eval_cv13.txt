@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume highlights project management experience more than front-end development skills. While they list JavaScript, HTML/CSS, and Angular, the job description emphasizes React and modern FE frameworks, where the candidate admits their experience is "growing." The candidate lacks concrete examples of testing, security knowledge, or modern CSS tools mentioned in the job description.

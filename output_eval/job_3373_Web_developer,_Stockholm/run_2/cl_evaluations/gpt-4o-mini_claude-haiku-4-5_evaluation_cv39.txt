@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in graphic design and some foundational knowledge in web development tools like HTML, but lacks proficiency in critical areas such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate a willingness to learn and adapt, the significant gaps in technical knowledge and hands-on experience in coding and testing frameworks do not fully meet the job's requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates a strong desire to pivot and has relevant soft skills, but lacks concrete, hands-on professional experience with the core technical stack. The cover letter is aspirational, focusing on a willingness to learn rather than proven expertise in React, testing automation, Git, and other mandatory tools listed in the job description. While the candidate's background shows transferable qualities, the absence of demonstrable frontend development experience makes them unqualified for the role as advertised.

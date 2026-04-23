@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong graphic design background with basic HTML/CSS skills but lacks core requirements for this role, including JavaScript/TypeScript, React (or other modern frameworks), testing and test automation, and Git experience. There is no evidence of NodeJS ecosystem knowledge, API design, CI/CD, or familiarity with web security, AWS, or Terraform. Overall, the profile is in a different discipline and does not meet the technical expectations for the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical requirements, including JavaScript, TypeScript, React, and modern frontend development experience. Their professional history is centered entirely on IT support, hardware maintenance, and systems administration rather than software engineering. While the candidate possesses a strong IT background, they do not have the specific coding, testing, or cloud infrastructure skills required for this developer role.

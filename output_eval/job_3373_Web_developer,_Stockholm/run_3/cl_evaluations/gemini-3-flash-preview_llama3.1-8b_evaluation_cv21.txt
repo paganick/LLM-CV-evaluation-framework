@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong background in the core requirements of React, Agile methodologies, and testing frameworks like Jest and Cypress. However, the application fails to address several critical technical requirements mentioned in the job description, specifically TypeScript, Node.js, web security standards, and functional programming. While the 18 years of experience is substantial, the mention of irrelevant legacy technologies suggests a lack of alignment with the specific modern infrastructure and toolset requested.

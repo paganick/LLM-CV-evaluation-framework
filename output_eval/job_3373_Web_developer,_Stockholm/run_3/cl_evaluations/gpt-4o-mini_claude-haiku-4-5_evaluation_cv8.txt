@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in test automation and quality engineering, which aligns with the company's emphasis on testing frameworks. However, there is a lack of direct experience with modern frontend technologies such as React, CSS tools, and the specific frameworks mentioned in the job description, which limits their overall fit for the position.

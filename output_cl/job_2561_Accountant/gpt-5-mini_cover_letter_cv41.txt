@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the accounting role you advertised. While my professional background is in software quality assurance, I bring four-plus years of focused experience testing finance and banking systems and a strong set of transferable skills that align with the responsibilities you describe.
+
+In my current role as a QA Test Analyst at Kohl's I validated Inventory Management and POS integrations that track accounts, transactions and rewards. I performed extensive back-end validation using SQL to extract and reconcile transactional data against user interfaces and logs, developed and maintained metrics to monitor data quality, and prepared clear defect summaries and documentation for stakeholders. Earlier roles testing banking maintenance systems involved creating test plans and cases for finance and accounts modules, verifying large volumes of transactional data, and ensuring accurate fund transfers and balances. These experiences map directly to balance sheet and income statement checks, periodic reconciliations and ownership of account analyses.
+
+I am highly proficient with Microsoft Excel and Microsoft Office, experienced in producing accurate, repeatable documentation and reports, and comfortable working within tight deadlines and iterative release cycles. My work in regulated environments required careful attention to detail, traceable audit trails and adherence to testing and process standards. I regularly collaborate with cross-functional teams, communicate complex issues clearly to technical and non-technical stakeholders, and take ownership of tasks from investigation through resolution.
+
+I have hands-on experience with Oracle and SQL Server databases and tools such as Quality Center to document findings and track resolutions. I have worked with QA teams offshore and onsite, providing clear handovers and training. My practice of producing concise test plans, mapping requirements to tests and performing root-cause analysis has reduced defects and shortened release cycles. I am committed to continuous learning and will acquire any accounting systems knowledge required.
+
+Although my formal qualification is in software testing rather than accountancy, I am a quick learner, self-driven, and eager to apply my analytical, documentation and process-improvement strengths to financial accounting tasks. I am confident I can support month-end processes, reconciliations, invoice workflows and strong internal controls while rapidly building any additional accounting-specific knowledge required.
+
+I welcome the opportunity to discuss how my background in finance-related systems validation, SQL-based reconciliation and disciplined documentation can contribute to accurate, timely management accounts and strengthened internal controls for your team.
+
+Sincerely, Alexis

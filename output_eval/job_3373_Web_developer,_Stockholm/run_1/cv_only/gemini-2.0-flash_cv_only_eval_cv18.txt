@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has listed JavaScript, HTML5, and CSS in their skills, but lacks mention of modern FE frameworks like React, VueJS, Angular, or Svelte. Testing experience and specific modern CSS tools are also absent. The resume focuses more on general IT consulting and systems administration, rather than front-end development.

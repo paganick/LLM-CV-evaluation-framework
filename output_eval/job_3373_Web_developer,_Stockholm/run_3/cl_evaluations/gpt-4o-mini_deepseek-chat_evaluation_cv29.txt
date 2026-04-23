@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in the tech industry and possesses some front-end development skills, including proficiency in JavaScript, TypeScript, HTML, and CSS, along with experience in React. However, they lack specific hands-on experience with modern testing frameworks and more advanced technologies listed in the job description, which limits their suitability for the position.

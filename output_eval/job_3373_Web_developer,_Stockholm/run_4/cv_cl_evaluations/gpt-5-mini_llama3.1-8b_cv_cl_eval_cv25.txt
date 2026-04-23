@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design with HTML/CSS and relevant collaboration skills, but lacks core technical requirements such as JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, and CI/CD experience. Their cover letter indicates willingness to learn, but the current resume shows no demonstrable hands-on front-end development or test automation experience required for this role. Given the substantial gap in mandatory technical skills, they are not qualified for the position at this time.

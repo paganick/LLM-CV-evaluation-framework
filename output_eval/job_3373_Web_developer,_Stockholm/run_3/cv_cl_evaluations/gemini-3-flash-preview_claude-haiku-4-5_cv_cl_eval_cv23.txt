@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is rooted in electromechanical engineering and hardware validation rather than software development. They lack demonstrable experience with the core requirements of the role, specifically React, TypeScript, and modern frontend styling tools. While they have a background in hardware-based software testing, they do not possess the necessary web development expertise or industry experience required for this position.

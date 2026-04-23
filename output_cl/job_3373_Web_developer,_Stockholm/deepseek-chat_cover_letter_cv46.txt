@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position, as advertised. With a robust background in full-stack development, a passion for clean code, and a proven ability to adapt to new technologies, I am confident I possess the precise blend of technical skill and collaborative mindset you are seeking.
+
+My career has been built on a strong foundation in core web technologies, including JavaScript, HTML, and CSS, which I have applied in professional contexts for over a decade. While my experience includes significant work with Java and object-oriented design for billing and e-commerce systems, I have consistently maintained and expanded my front-end expertise. I am proficient with modern development tools, including Git, and have a deep understanding of the full software lifecycle, from system design and database integration to creating comprehensive test plans and user documentation.
+
+I am particularly drawn to this role because of your tech stack. I am keen to deepen my hands-on experience with React and modern CSS methodologies like Styled Components, moving from a strong foundational knowledge into dedicated, daily practice. My experience with testing plans and system integration gives me a solid framework for adopting specific testing frameworks like Jest and Cypress. Furthermore, my academic and professional background in Information Technology has fostered a keen interest in web security principles, CI/CD pipelines, and understanding complex domains—all of which align perfectly with your requirements.
+
+The description of your team culture strongly resonates with me. My experience as a Consultant required constant collaboration, problem-solving with diverse teams, and translating technical concepts for stakeholders—skills that make me a strong fit for an Agile environment. I am genuinely passionate about writing clean, maintainable code and am committed to continuously learning, as evidenced by my ongoing Master’s in Information Technology.
+
+I am eager to contribute my analytical skills, dedication to quality, and collaborative spirit to your team. Thank you for considering my application. I look forward to the opportunity to discuss how my experience can benefit your projects.
+
+Sincerely, Alexis

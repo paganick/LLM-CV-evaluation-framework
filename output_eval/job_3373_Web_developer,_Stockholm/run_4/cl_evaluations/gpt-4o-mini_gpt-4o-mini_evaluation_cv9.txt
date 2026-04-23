@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in relevant technologies such as JavaScript, HTML, CSS, as well as familiarity with modern frameworks, although they specifically mention a focus on Java (JEE). They have experience with testing frameworks which aligns with the job requirements, and demonstrate knowledge of security basics. However, they lack explicit mention of React, which is essential for the position, and their experience appears more Java-centric than frontend-focused.

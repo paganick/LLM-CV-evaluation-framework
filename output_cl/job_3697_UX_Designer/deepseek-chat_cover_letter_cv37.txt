@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the UI/UX Designer position. While my extensive background is in IT infrastructure and systems engineering, my career has been fundamentally shaped by a deep commitment to user-centric design, cross-functional collaboration, and translating complex technical requirements into seamless operational experiences—principles that align directly with the core competencies you seek.
+
+For over a decade, I have operated at the intersection of technology and user need. My roles have consistently required me to design and implement enterprise-scale systems, such as Microsoft System Center suites, with the end-user's efficiency and clarity as a primary goal. For instance, at Stanford Hospital and Clinics, I didn't just deploy a monitoring solution; I designed intuitive dashboards and reports to meet specific stakeholder SLAs, ensuring critical data was accessible and actionable. This process of understanding user pain points, illustrating solutions through architectural diagrams (akin to sitemaps and process flows), and iterating based on feedback mirrors the UI/UX design lifecycle.
+
+My experience is rooted in close collaboration with researchers, product teams, and engineers to build solutions that address real customer needs. As a Technical Lead and Subject Matter Expert, I regularly prepared and presented technical drafts and prototypes to internal teams and key stakeholders, communicating complex design ideas effectively to ensure successful implementation. Furthermore, my resourcefulness in adapting to new challenges—evidenced by managing large-scale datacenter migrations and learning new technologies like System Center Orchestrator—demonstrates the agility required in a fast-paced scale-up environment.
+
+I am eager to pivot my analytical problem-solving skills, my proven ability to influence and lead through collaboration, and my user-focused design philosophy into the UI/UX domain. I am a self-sufficient professional who takes initiative, and I am confident that my unique perspective as an engineer who has always prioritized the user experience will allow me to contribute meaningfully to your most important product line.
+
+I have attached my portfolio for your review and welcome the opportunity to discuss how my background can bring value to your team.
+
+Sincerely,
+Alexis

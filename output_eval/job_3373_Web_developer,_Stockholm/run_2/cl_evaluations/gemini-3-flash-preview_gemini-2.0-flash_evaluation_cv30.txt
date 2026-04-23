@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically professional experience with JavaScript, TypeScript, and React, which they openly admit they need to learn. Their background is heavily skewed toward data analytics and backend tools like SQL and Python, offering no evidence of proficiency in CSS, modern testing frameworks, or web security. While they possess a relevant technical background, they are significantly underqualified for a front-end position requiring immediate hands-on expertise.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a long career in marketing, communications, public relations, events, and legal administration with no technical experience or evidence of front-end development skills (JavaScript, TypeScript, React, HTML/CSS), testing, Git, Node.js, or related tooling. There are no software projects, technical certifications, or education in computer science/web development to suggest competency or transferability to this role. This candidate is in a completely different industry and is not qualified for the listed engineering position.

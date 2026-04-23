@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and chemistry, lacking the necessary front-end development experience. While the candidate expresses interest in learning the required technologies, they don't possess the hands-on experience with JavaScript, React, TypeScript, or modern testing practices outlined in the job description. Their technical skills listed are outdated, focusing on HTML, C, and C++ with no mention of modern front-end frameworks.

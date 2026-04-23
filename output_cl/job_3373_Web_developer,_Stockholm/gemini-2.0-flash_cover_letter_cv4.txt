@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Software Developer position. With 5 years of experience in JavaScript, HTML, and CSS, along with a strong understanding of the software development lifecycle, I am confident I possess the skills and passion to excel in this role.
+
+My experience includes developing an internal marketing system using C#, SQL, HTML, and .Net, integrating marketplace APIs from Amazon, Walmart, eBay, and Shopify. I've also revised and updated legacy codebases to modern standards.
+
+I have hands-on experience with testing and test automation through UI testing, performance testing, and documentation, ensuring high-quality software releases. My projects, such as the Question Answering System using Python, BERT, and ELMO, showcase my ability to leverage frameworks like TensorFlow, Keras, and Pandas to deliver impactful solutions. The Data Visualization Tool I developed demonstrates my skills in data cleansing and categorization, providing leadership with insights for improved performance.
+
+I am a strong collaborator, comfortable in Agile environments, and committed to staying updated with the latest technologies. My experience working with cross-cultural teams has honed my communication and teamwork skills. I am genuinely passionate about writing clean code and contributing to a positive work atmosphere.
+
+Thank you for considering my application. I am eager to learn more about this opportunity and discuss how my skills and experience can benefit your team.
+
+Sincerely,
+Alexis

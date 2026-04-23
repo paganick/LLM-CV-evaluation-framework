@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media planning and advertising but lacks direct experience in the required technical skills such as JavaScript, TypeScript, React, and modern CSS tools. Although there are some relevant skills like HTML and CSS stated, the absence of hands-on experience with modern front-end frameworks and testing automation tools makes the candidate less suitable for the role.

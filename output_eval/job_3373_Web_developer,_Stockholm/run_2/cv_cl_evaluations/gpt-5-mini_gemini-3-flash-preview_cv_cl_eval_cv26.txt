@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a long history in marketing, PR, legal administration and events but no verifiable professional frontend engineering roles, projects, or technical deliverables. The cover letter asserts proficiency with JavaScript/TypeScript, React, testing, Node, and infrastructure, but those claims are not substantiated by the resume or concrete examples. Given the strict technical requirements (modern front-end frameworks, testing/automation, Node ecosystem, CI/CD, and cloud/infra familiarity), the candidate is not a qualified match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT management, cybersecurity, and government work, which doesn't directly align with the front-end development skills required. While the cover letter expresses willingness to learn React and other front-end technologies, there's no concrete evidence of prior experience with JavaScript, TypeScript, HTML, CSS, or modern FE frameworks in the resume. The experience is more aligned with security and infrastructure rather than front-end engineering.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a background in construction and project management with no demonstrated experience in JavaScript, TypeScript, React, frontend frameworks, NodeJS, testing frameworks, or web security, which are core requirements for this role. While they note Agile experience and strong project management skills, those transferable skills do not compensate for the lack of any required technical expertise. Therefore they are effectively unqualified for this frontend engineering position.

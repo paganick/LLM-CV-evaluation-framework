@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows an extensive background in graphic and print design with basic HTML/CSS experience but lacks any demonstrated JavaScript/TypeScript, modern frontend framework (React) experience, testing, Git, NodeJS, CI/CD, or web security knowledge required for the role. The candidate's skills and career focus are firmly in visual design rather than software engineering, so they are not a fit for this frontend developer position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in project management and quality engineering, which are relevant to the tech industry, but lacks direct experience with key front-end technologies and frameworks such as React, as well as testing frameworks and tools mentioned in the job description. Although they demonstrate a foundational understanding of programming concepts and express a willingness to learn, their qualifications do not fully align with the specific requirements for the Front-End Developer position.

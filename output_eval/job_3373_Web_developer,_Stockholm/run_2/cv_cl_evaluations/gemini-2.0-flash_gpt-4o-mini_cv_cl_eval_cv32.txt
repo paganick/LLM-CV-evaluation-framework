@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume showcases extensive customer service and management experience, completely unrelated to the required frontend development skills. While the cover letter expresses interest in pivoting to tech and learning the necessary technologies, the resume lacks any practical experience or projects in JavaScript, React, or other relevant frameworks, indicating a fundamental mismatch with the job requirements. The candidate's skillset is geared towards a completely different industry.

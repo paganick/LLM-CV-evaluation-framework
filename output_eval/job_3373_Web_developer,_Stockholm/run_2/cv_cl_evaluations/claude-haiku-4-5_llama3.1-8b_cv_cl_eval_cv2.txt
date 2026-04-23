@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has extensive Java/J2EE backend experience but lacks the core frontend technologies required for this role. The resume shows minimal exposure to JavaScript, TypeScript, React, or modern CSS tools—all critical requirements. While the candidate demonstrates Agile experience and mentions Git, there is no evidence of testing frameworks (Jest, Cypress), modern frontend build tools, or functional programming knowledge. The career trajectory and skill set are fundamentally misaligned with a frontend-focused position.

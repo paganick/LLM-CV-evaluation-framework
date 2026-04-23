@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in data analysis and statistical modeling but lacks any relevant experience or skills in the required technologies such as JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. Additionally, there is no mention of testing or automation experience, collaboration in an Agile environment, or familiarity with the specified security concepts, making them completely unqualified for this position.

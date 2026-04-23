@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing, not active front-end development. While they have some exposure to JavaScript, HTML, and CSS, they lack demonstrable professional experience with modern FE frameworks like React, TypeScript, or the specific tools listed (Styled Components, SASS, Ramda). Their testing experience is relevant, but the core development skills required for the role are not proven.

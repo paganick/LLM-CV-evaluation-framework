@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in information technology and leadership in enterprise-level IT programs, but lacks specific experience with modern frontend development technologies such as JavaScript, TypeScript, React, or relevant CSS tools. Their experience seems more focused on IT security and network operations rather than direct frontend development, which is a significant gap for this position.

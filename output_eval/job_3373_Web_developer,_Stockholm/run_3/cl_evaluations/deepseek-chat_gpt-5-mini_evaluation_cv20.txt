@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end and Agile experience but critically lacks direct experience with the required modern frameworks, especially React, and does not mention TypeScript or modern testing tools. Their technical stack is heavily centered on legacy .NET and jQuery, which does not align with the job's focus on contemporary front-end technologies. While they express eagerness to learn, the absence of demonstrated skills in the key required areas makes them a partial, not strong, match.

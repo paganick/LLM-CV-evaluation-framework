@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is almost exclusively in Java/J2EE backend development with no demonstrated experience in the required frontend technologies (React, TypeScript, modern CSS). The resume and cover letter show a complete lack of the specific skills listed in the job description, such as modern FE frameworks, testing tools, and web security knowledge. While they express a desire to transition, their current profile is for a different role and does not meet the professional requirements for this frontend position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a sales background, and while the cover letter attempts to bridge the gap, the resume lacks concrete evidence of relevant front-end development experience. While the cover letter mentions technologies like React and Jest, the resume focuses on sales achievements and unrelated skills. The skills section lists HTML but alongside desktop publishing software, suggesting a limited depth of knowledge.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core tech stack, specifically mentioning React, testing frameworks like Jest and Cypress, and web security principles. However, the application fails to mention TypeScript, which is a primary requirement in the job description, and ignores the specific functional programming and CI/CD tools requested. While the candidate is a strong match for many areas, these technical omissions are significant for a senior-level front-end role.

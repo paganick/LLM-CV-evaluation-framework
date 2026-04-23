@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital marketing and project management, but lacks direct experience with modern front-end frameworks such as React. While they are familiar with HTML, CSS, and have some knowledge of testing and automation, they do not demonstrate proficiency with the specific testing frameworks or CI/CD tools mentioned in the job description. Furthermore, the candidate's expertise in Salesforce Marketing Cloud does not align closely with the core requirements of the role.

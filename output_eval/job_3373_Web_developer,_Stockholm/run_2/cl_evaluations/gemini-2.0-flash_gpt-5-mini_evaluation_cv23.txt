@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in hardware and testing, not front-end development. While they express enthusiasm for learning relevant technologies, they lack demonstrable experience with core requirements like JavaScript, TypeScript, HTML, CSS, React, and modern CSS tooling. The cover letter indicates a willingness to learn, but the lack of hands-on front-end experience makes them a weak fit for the stated requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the core technical requirements, specifically JavaScript, TypeScript, and React, admitting only to a "working knowledge" and a commitment to future learning. While they demonstrate transferable analytical skills and familiarity with secondary tools like CircleCI, they fail to meet the mandatory criteria for hands-on testing automation and production-level development. As a career-changer, the applicant does not possess the necessary technical proficiency required for this mid-to-senior level front-end role.

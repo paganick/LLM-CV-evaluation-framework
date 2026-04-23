@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a significant amount of IT experience and familiarity with JavaScript, HTML, and CSS, the letter lacks specific examples of modern FE frameworks like React (the one they use). There is no mention of TypeScript, testing/test automation, or Git. The candidate’s experience leans heavily towards systems administration rather than front-end development, making them a weaker fit for the role as described.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer from the advertising industry who lacks professional experience in software engineering and possesses none of the required expertise in JavaScript, TypeScript, or React. Their technical background is limited to basic academic projects in Java and SQL, falling significantly short of the hands-on requirements for testing automation, CI/CD, and front-end architecture specified in the job description.

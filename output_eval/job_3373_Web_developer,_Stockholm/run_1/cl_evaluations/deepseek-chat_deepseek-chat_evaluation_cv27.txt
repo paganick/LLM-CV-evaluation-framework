@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant soft skills and a strong foundational understanding of web principles, but the cover letter lacks concrete, hands-on experience with the specific technical stack required. While they express eagerness to learn React, TypeScript, and testing frameworks, they provide no evidence of current proficiency or project work. The experience described is largely non-technical and does not directly fulfill the core job requirements for a front-end developer role.

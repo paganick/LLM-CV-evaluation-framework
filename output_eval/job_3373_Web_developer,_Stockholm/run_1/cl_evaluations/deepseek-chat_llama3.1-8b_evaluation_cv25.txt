@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not front-end development, which is a significant mismatch for the core requirement. While they demonstrate awareness of some relevant concepts (HTML, CSS, security topics) and a willingness to learn, they explicitly lack the required hands-on experience with JavaScript, TypeScript, React, and testing frameworks. Their transferable skills are insufficient to compensate for the absence of the primary technical qualifications.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS, and mentions an understanding of testing and documentation. However, there's a lack of explicit experience with modern FE frameworks like React (despite claiming familiarity) and CI/CD tools. The resume focuses heavily on Java and database administration, which are less relevant to a frontend developer role, therefore is only a moderate fit.

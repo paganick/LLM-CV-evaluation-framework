@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and user experience but lacks specific technical skills required for the role, such as proficiency in JavaScript, TypeScript, and modern front-end frameworks like React. Their emphasis on design tools and experience is not fully aligned with the key technical requirements outlined in the job description, resulting in a moderate score.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter indicate a long career in graphic design with only legacy web/design tool experience (Dreamweaver, Flash) and no demonstrated hands-on skills in JavaScript, TypeScript, React, testing frameworks, Git, Node.js, or cloud/infra tools required by the role. While they display strong design, collaboration, and attention-to-detail traits that are somewhat transferable, there is no evidence of the technical frontend engineering experience or testing/CI/CD knowledge needed for this position.

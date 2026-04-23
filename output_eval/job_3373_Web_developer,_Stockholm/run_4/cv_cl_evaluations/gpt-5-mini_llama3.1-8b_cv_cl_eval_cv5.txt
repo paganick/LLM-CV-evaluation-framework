@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is overwhelmingly mainframe (COBOL, CICS, JCL, DB2) with only incidental mention of JavaScript/HTML and no demonstrated experience with React, TypeScript, modern CSS, Node.js, testing frameworks, Git/GitHub, or CI/CD. The resume and cover letter do not provide evidence of the core front-end technologies, tooling, or web security knowledge required for this role. Overall, this is a skills and domain mismatch for the advertised modern front-end position.

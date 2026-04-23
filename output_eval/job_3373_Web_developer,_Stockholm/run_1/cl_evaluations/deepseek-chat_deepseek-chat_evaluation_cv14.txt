@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, Agile, and collaboration. However, the cover letter lacks direct, hands-on experience with the core requirements of React, TypeScript, and modern testing frameworks, instead focusing on a backend-heavy ASP.NET MVC background. While the candidate shows adaptability and eagerness to learn, the absence of proven, specific experience with the stated tech stack places them in the "relevant but lacks specific skills" category.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills like JavaScript, HTML, CSS, and Git. However, the resume lacks experience with modern FE frameworks like React, testing frameworks, and CI/CD tools. The experience leans heavily towards PHP and older technologies, making the fit less ideal for a modern front-end role focused on React.

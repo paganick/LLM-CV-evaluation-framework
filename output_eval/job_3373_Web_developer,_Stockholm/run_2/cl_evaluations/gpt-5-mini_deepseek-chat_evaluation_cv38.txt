@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate shows relevant front-end fundamentals (JavaScript/TypeScript/HTML/CSS, React), tooling (ESLint/Prettier), unit testing (Jest), Git, Node.js ecosystem familiarity, and strong product/collaboration skills. However, the cover letter lacks explicit experience with E2E/integration testing (Cypress/TestCafe), modern CSS tools (Styled Components/SASS), functional programming (Ramda), CI/CD, API design, and explicit web security knowledge (OWASP/CSP/CORS/OAuth) that the role requires, so they do not fully meet the job's technical expectations.

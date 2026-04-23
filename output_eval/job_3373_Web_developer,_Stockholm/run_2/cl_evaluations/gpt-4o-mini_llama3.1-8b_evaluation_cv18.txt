@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in information technology and relevant skills in several modern front-end frameworks, which aligns with the job description. However, they do not explicitly mention experience with TypeScript, modern CSS tools, or specific knowledge in security practices like OWASP, which slightly diminishes their suitability for the position.

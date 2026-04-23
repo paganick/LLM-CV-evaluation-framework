@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume and work history are entirely in microbiology, quality control, and training with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React or other required front-end technologies, nor evidence of Git, NodeJS, testing frameworks, or CI/CD. The cover letter's claim of adaptability is unsupported by concrete technical projects or skills relevant to the role. This candidate is in the wrong industry for the position and is therefore completely unqualified.

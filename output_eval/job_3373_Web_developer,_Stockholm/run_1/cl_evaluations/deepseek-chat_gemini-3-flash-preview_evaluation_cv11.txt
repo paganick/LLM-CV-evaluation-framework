@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical and soft skill requirements, including React, testing, Agile, and security knowledge. However, the cover letter does not explicitly mention several key technologies from the job description, such as TypeScript, modern CSS tools, Node.js, or CI/CD specifics. The background is heavily QA-focused, which is relevant but requires clear articulation of a transition to a development-centric role.

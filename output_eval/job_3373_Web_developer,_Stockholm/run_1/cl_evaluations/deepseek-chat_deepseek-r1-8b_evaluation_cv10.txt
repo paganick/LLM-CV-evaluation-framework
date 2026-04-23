@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience and matches several core technical requirements, including JavaScript, TypeScript, React, testing, and Git. However, the cover letter fails to address multiple key requirements from the job description, such as web security basics (OWASP, CORS), modern CSS tools, specific testing frameworks, and the Agile/collaborative soft skills. The experience cited with AngularJS is outdated and not directly aligned with the modern frameworks listed.

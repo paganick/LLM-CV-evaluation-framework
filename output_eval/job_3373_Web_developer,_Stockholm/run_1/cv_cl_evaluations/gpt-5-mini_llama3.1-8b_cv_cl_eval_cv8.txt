@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong hardware/test-engineering and automation experience (Python, lab testing, Linux) but lacks verifiable front-end software qualifications required by the role. There is no substantiated experience in JavaScript/TypeScript, React, modern CSS, Node ecosystem, front-end testing frameworks, or cloud/CI tools on the resume despite claims in the cover letter. This is a relevant industry background but does not meet the specific frontend-focused skillset the job requires.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in design and some experience in web technologies such as HTML, CSS, and jQuery, they lack hands-on experience with JavaScript frameworks like React, TypeScript, and modern testing frameworks mentioned in the job description. Their experience seems more aligned with design than with a technical front-end engineering role, leading to a skills mismatch with the requirements outlined.

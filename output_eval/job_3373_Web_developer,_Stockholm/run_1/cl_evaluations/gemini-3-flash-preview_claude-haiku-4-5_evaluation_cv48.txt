@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a lengthy background in IT infrastructure, they lack any professional experience with the required frontend stack, including React, TypeScript, and automated testing. Their profile indicates they are currently in the learning phase rather than possessing the hands-on expertise explicitly requested in the job description. As a career-transitioner without a proven track record in modern web development, they do not meet the technical requirements for this role.

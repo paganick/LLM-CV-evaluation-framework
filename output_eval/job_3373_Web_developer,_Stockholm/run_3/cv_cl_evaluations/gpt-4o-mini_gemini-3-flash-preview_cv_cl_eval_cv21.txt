@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, and CSS, and has worked with AngularJS, which aligns well with the job's requirements. However, the candidate lacks hands-on experience with React, modern CSS tools like Styled Components and SASS, and specific testing frameworks mentioned in the job description. Overall, they show a strong foundation and willingness to learn but do not fully meet all the technical requirements.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has a background in program design and learning which does not align with the technical requirements specified in the job description for a front-end developer. There is a significant lack of experience in key areas such as JavaScript, TypeScript, modern front-end frameworks (especially React), and relevant testing and CI/CD tools. Additionally, the candidate does not demonstrate familiarity with web security concepts or coding in relevant front-end languages.

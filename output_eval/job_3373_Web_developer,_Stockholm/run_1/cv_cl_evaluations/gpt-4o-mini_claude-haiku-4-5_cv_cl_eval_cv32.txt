@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has significant experience in customer service and management but lacks essential technical skills and hands-on experience with JavaScript, TypeScript, React, and testing frameworks outlined in the job description. Additionally, there is no evidence of familiarity with modern frontend frameworks, CSS tools, or the NodeJS ecosystem. The transition to web development seems overly ambitious given their background, making them an unqualified fit for this technical role.

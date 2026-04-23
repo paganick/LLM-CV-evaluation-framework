@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in graphic design and lacks the required depth in JavaScript, TypeScript, and modern FE frameworks like React. While the cover letter expresses interest in learning these technologies, the resume doesn't demonstrate sufficient existing skills in the core areas listed in the job description. The candidate's background doesn't align with the specific requirements of a front-end engineering role.

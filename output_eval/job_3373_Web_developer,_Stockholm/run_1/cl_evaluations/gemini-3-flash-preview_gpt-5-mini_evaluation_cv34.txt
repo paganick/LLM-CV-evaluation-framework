@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is an implementation consultant rather than a developer and lacks professional experience with the core requirements, including JavaScript, TypeScript, and React. While they possess strong documentation and client-facing skills, they explicitly state they need to learn the fundamental technical stack and automated testing tools required for the role. There is no evidence of experience with version control, modern CSS tooling, or the CI/CD practices essential to this engineering position.

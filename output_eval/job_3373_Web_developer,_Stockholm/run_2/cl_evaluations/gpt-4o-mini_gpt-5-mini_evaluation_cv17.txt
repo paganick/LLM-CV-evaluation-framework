@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in project management and engineering but lacks direct, hands-on experience with the required modern front-end technologies, frameworks, and tools such as React, CSS preprocessors, and testing frameworks specifically mentioned in the job description. Their transition from civil engineering to software development is ambitious, but insufficient technical specificity raises concerns about their immediate fit for the role.

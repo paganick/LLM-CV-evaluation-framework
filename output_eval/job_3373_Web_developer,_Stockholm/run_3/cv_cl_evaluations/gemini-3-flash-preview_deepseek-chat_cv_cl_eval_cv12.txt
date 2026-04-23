@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with modern frontend frameworks like React or the TypeScript language, which are core requirements for this position. While they have extensive experience in legacy technologies such as PHP, Perl, and C++, they do not demonstrate the required proficiency in web security, testing automation tools, or modern CI/CD pipelines. This mismatch in the technical stack makes them an unsuitable fit for a modern React-focused development team.

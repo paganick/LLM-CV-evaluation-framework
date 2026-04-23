@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in customer service, sales, and management, with no demonstrated experience in software development. The job description requires extensive, hands-on technical skills in JavaScript, React, testing, and modern web tooling, none of which are present in the resume or cover letter. While the candidate expresses a willingness to learn, they lack the foundational technical qualifications required for the role.

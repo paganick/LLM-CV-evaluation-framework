@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in ASP.NET development, but lacks direct experience with key front-end technologies specified in the job description, such as JavaScript frameworks like React, VueJS, or Svelte. While they mention familiarity with Git and have experience in agile environments, they do not demonstrate hands-on experience with modern testing frameworks, security practices, or CSS tools relevant to the position.

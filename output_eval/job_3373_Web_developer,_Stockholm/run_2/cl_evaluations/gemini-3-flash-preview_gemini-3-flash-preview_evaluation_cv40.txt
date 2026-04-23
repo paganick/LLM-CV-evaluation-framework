@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate is an exceptional match, explicitly mentioning nearly every specific tool in the job description, including niche requirements like Ramda, CircleCI, and Terraform. They demonstrate a strong progression from legacy systems to modern React-based architectures and provide evidence of leadership in Agile environments. The only minor omission is an explicit mention of web security protocols (OWASP/CORS), but their comprehensive technical proficiency and full-domain understanding make them a top-tier applicant.

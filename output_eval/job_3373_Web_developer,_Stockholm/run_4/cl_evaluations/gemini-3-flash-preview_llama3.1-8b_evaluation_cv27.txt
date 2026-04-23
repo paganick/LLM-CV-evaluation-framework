@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional background in software development, making them fundamentally unqualified for this technical role. They explicitly state a need to learn core requirements such as React, testing automation, and CI/CD tools, which the job description lists as essential skills. While they possess transferable soft skills, their lack of practical experience with the specified tech stack and development lifecycle is a disqualifying gap.

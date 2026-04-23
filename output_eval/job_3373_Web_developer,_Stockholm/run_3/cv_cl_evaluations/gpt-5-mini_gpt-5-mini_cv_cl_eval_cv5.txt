@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is overwhelmingly mainframe/backend (COBOL, DB2, CICS) with only incidental mention of JavaScript/HTML and no demonstrated practical experience in React, TypeScript, modern CSS, Node/npm, front-end testing frameworks, Git/GitHub, or CI/CD. While they show strong engineering discipline, testing awareness and leadership, they lack the core modern front-end skills required for this role and would need substantial upskilling to be productive.

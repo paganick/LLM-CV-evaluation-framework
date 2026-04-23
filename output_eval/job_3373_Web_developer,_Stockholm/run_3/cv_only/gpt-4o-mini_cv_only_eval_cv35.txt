@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in marketing automation but lacks direct experience with JavaScript, TypeScript, HTML, CSS, and modern frontend frameworks like React. While they demonstrate some level of technical skill and cross-functional collaboration, the specific requirements of the job, including testing frameworks, modern CSS tools, and knowledge of CI/CD, are not evident in their resume.

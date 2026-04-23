@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is predominantly Java/JEE backend with only basic JavaScript/HTML/CSS exposure and no demonstrated hands-on experience with React, TypeScript, modern CSS tools (Styled Components/SASS), or frontend testing frameworks (Jest/Cypress), which are core requirements for this role. They do have relevant strengths in TDD/BDD, API security (OAuth), Git, and Agile collaboration, but these do not compensate for the lack of essential modern frontend skills and toolchain experience.

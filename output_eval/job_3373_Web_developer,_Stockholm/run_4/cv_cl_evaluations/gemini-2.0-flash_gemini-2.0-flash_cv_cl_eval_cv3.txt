@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights older technologies and lacks experience with modern FE frameworks like React, which is a core requirement. While they possess HTML, CSS, and JavaScript skills, the job description emphasizes experience with modern tools and testing, which are absent from their resume. The candidate is also transitioning from a completely unrelated industry.

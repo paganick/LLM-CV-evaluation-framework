@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid foundation in web development and testing, but their professional experience is heavily rooted in ASP.NET rather than the required modern JavaScript ecosystem. They fail to mention experience with TypeScript, Styled Components, or the NodeJS ecosystem, which are critical components of the job description. While they show potential and a commitment to clean code, the lack of proven, high-level proficiency in React and modern front-end tooling makes them an underqualified match for this specific role.

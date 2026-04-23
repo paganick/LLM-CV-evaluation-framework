@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a strong technical background in data engineering and analytics, they lack demonstrated experience in the specific tech stack required, most notably TypeScript, the Node.js ecosystem, and AWS. Much of the letter relies on mirroring the job description's language rather than providing concrete evidence of professional experience with React or functional programming. Their profile suggests a data specialist attempting to pivot into a front-end quality role without the foundational framework expertise.

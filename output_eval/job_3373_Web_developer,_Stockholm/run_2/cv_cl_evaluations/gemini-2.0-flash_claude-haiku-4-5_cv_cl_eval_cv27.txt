@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administrative and creative fields, with minimal direct experience in frontend development. While they express a commitment to learning, the resume lacks demonstrable skills in the core technologies listed in the job description, such as JavaScript, TypeScript, React, and testing frameworks. The candidate's experience does not align with the technical requirements of the role.

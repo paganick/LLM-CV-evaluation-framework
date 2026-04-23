@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional background in software development and is still in the learning phase for core requirements like JavaScript, TypeScript, and React. They explicitly lack the "hands-on experience" requested for testing, security protocols, and the Node.js ecosystem, admitting they are only "familiarizing" themselves with these tools. Because they do not meet the minimum technical proficiency or industry experience required by the job description, they are considered unqualified.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer transitioning from microbiology who lacks professional experience in front-end development and fails to demonstrate hands-on proficiency with the required testing and NodeJS ecosystems. They lack current expertise in critical areas such as web security, API design, and AWS, offering only a willingness to learn rather than established skills. While they possess transferable soft skills and basic familiarity with React, they do not meet the technical depth or industry experience necessitated by the job description.

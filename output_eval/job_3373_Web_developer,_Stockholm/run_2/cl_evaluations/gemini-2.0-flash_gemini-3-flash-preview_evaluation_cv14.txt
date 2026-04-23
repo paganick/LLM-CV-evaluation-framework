@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with web development and some familiarity with the listed technologies, particularly React, SASS, and the NodeJS ecosystem. They highlight security awareness and clean code practices. While the experience isn't a perfect match (C#/.NET vs. Javascript), their willingness to learn and collaborate makes them a strong candidate.

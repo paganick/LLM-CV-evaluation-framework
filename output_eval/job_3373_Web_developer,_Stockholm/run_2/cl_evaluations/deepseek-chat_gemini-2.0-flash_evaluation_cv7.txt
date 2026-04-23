@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in graphic design, not front-end development, and the cover letter fails to demonstrate any hands-on experience with the core technologies listed in the job description (e.g., JavaScript, React, testing, Git). While they express eagerness to learn, the letter provides no concrete evidence of existing technical skills, presenting them as a career changer with no proven development capability. The experience cited is largely in adjacent creative fields, which does not meet the specific technical requirements for the role.

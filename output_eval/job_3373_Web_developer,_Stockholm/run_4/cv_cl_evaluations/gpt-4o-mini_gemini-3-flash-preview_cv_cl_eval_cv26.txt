@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in marketing and public relations but lacks direct experience in core frontend technologies such as JavaScript, TypeScript, and React. While they demonstrate some understanding of development concepts, their skills and experiences do not align closely with the technical requirements of the position, particularly in testing and modern frontend frameworks. Their experience is largely in unrelated fields, which raises concerns about their ability to transition into a technical role effectively.

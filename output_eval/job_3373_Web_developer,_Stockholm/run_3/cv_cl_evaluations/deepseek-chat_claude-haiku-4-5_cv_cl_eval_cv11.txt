@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing/QA, not frontend development. While they mention JavaScript and HTML, they lack demonstrable hands-on experience with React, TypeScript, modern CSS tools, or the functional programming (Ramda) specified in the job description. Their testing experience is relevant, but the core requirement for a developer role with specific modern frameworks is not met.

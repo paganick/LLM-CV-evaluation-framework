@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in business development and lacks the required front-end development skills (React, testing frameworks) outlined in the job description. While they mention some technical skills, they are not aligned with the core requirements. Their admission of lacking experience with modern front-end frameworks is a significant drawback.

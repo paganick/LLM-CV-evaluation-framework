@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend technologies and a solid understanding of Agile methodologies; however, they lack experience with some of the modern tools and frameworks mentioned in the job description, such as TypeScript, Styled Components, and specific testing frameworks like Jest and Cypress. While they express a willingness to deepen their expertise in React, the background primarily focused on ASP.NET may not be as aligned with the requirements of the React-focused role.

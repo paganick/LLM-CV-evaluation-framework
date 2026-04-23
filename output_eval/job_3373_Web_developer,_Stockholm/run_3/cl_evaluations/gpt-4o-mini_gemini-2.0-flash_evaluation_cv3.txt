@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant educational background and some knowledge of web development technologies but lacks the specific experience and skills required for the position, such as proficiency in TypeScript, modern front-end frameworks, testing frameworks, and familiarity with tools like Git and CI/CD. Their construction background provides some transferable skills, but it does not compensate for the gaps in technical expertise related to the job description.

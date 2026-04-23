@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML, CSS and JavaScript knowledge and broad IT experience but provides no evidence of modern frontend frameworks (React), TypeScript, Git/GitHub, frontend testing frameworks, Node/npm, or web security concepts required by the role. Their background is primarily IT support/management and dated coursework rather than hands-on modern frontend development. Given the significant gaps in essential tooling and framework experience, they are not a strong fit for this role.

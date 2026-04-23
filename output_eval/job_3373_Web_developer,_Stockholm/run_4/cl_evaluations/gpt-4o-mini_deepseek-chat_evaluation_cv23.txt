@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience as a technician and demonstrates problem-solving capabilities, they lack hands-on experience with essential technologies such as TypeScript and specific frameworks like React, which are critical for the Front-End Developer role. Additionally, there is no mention of familiarity with modern CSS tools or testing frameworks, which further hinders their fit for the position.

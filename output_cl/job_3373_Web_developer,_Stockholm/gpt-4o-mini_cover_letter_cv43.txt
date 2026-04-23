@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the JavaScript Developer position, as advertised. With a strong background in program management and curriculum design, I have developed skills that would enable me to excel in this role. My passionate approach to problem-solving, paired with my commitment to writing clean code, makes me an ideal candidate for your team.
+
+While my previous experience primarily focused on educational program development, I have successfully integrated technical elements into my work. I possess an intermediate coding proficiency in R Studio and am keenly interested in extending my skill set to JavaScript, TypeScript, HTML, and CSS. I am particularly excited about the opportunity to work with React, as it aligns perfectly with my fascination for modern front-end frameworks and libraries.
+
+Moreover, I am well-practiced in collaboration within Agile environments, having led teams across multiple cultural contexts. My hands-on experience with developing learner success strategies has honed my ability to enhance project outcomes—skills that I am eager to apply in a technical capacity. I thrive in environments that require interaction with diverse teams and external partners, and I am enthusiastic about embracing the full scope of the domain, even in areas beyond my current expertise.
+
+I also recognize the importance of testing and test automation in software development. My familiarity with online learning platforms has instilled in me the value of implementing rigorous evaluation methods. While I am new to specific testing frameworks like Jest and Cypress, I am a quick learner and excited about leveraging these tools to ensure high-quality deliverables.
+
+Furthermore, I possess basic knowledge of web security principles, such as OWASP and OAuth, which I understand are essential in today's rapidly evolving digital landscape. I am committed to continuous learning and am eager to dive deeper into CI/CD tools like CircleCI and broaden my understanding of the NodeJS ecosystem.
+
+I am excited about the possibility of contributing to your team and helping drive innovative projects. Thank you for considering my application.
+
+Sincerely,  
+Alexis

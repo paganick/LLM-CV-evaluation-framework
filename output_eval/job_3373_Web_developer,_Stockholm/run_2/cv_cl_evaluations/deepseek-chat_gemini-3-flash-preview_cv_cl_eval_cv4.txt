@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and backend/data science, not the modern React/TypeScript frontend stack required. While they mention JavaScript/HTML/CSS, there is no demonstrated experience with React, TypeScript, modern CSS tools, or the specific testing frameworks listed. Their API and Node.js experience is a plus, but the overall fit for a frontend-focused role is weak due to the lack of direct, relevant framework and tooling experience.

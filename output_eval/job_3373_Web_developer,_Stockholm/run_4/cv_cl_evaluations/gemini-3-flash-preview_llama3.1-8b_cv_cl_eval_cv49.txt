@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Data Analyst with a background in Industrial Engineering and statistics, possessing zero experience in Front End Development or the required tech stack (JavaScript, TypeScript, React, CSS). Despite trying to pivot in the cover letter, they lack any professional or academic evidence of proficiency in web development, testing frameworks, or web security. There is a total mismatch between the candidate’s qualifications and the technical requirements of the role.

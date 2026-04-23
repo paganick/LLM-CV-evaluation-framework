@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my professional background has primarily focused on customer service and management roles, I am genuinely excited about transitioning into web development and believe my foundational qualities make me a promising candidate for your team.
+
+Throughout my career, I have demonstrated the core competencies that translate well to software development. My experience managing multiple tasks simultaneously, working under pressure in fast-paced environments, and collaborating effectively with cross-functional teams aligns with your requirement for strong collaboration in an Agile setting. My proven ability to establish priorities, solve complex problems, and maintain organized workflows will serve me well in tackling development challenges.
+
+I recognize that my CV does not currently reflect hands-on experience with JavaScript, TypeScript, React, or the testing frameworks your team utilizes. However, I am genuinely passionate about acquiring these technical skills and have a demonstrated track record of rapidly learning new systems and tools, as evidenced by my proficiency across multiple CRM platforms, software systems, and operational technologies.
+
+What I bring to your team is a foundation built on meticulous attention to detail, exemplified by my experience with accurate data entry, financial reporting, and quality control. My exceptional communication skills, honed through years of managing customer interactions and leading diverse teams, position me to effectively collaborate with colleagues and external partners. Additionally, my commitment to continuous improvement and staying current with industry standards reflects the passion you seek for keeping up with the latest technologies.
+
+I am eager to begin formal training in your technology stack, including React, Jest, ESLint, and the other modern tools your team employs. My genuine interest in understanding the full domain, combined with my resourceful and self-motivated nature, will enable me to quickly become a productive contributor to your development efforts.
+
+I am excited about the opportunity to channel my strong work ethic and collaborative spirit into frontend development. I would welcome the chance to discuss how my dedication, problem-solving abilities, and enthusiasm for learning can contribute to your team's success.
+
+Sincerely, Alexis

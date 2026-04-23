@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in engineering and testing, which is somewhat relevant but lacks direct experience with modern frontend frameworks like React or proficiency in the required CSS tools. While they demonstrate skills in JavaScript and testing methodologies, the overall experience is more hardware-focused and does not meet the specific requirements of frontend development. Additionally, familiarity with security practices and CI/CD tools is not clearly addressed.

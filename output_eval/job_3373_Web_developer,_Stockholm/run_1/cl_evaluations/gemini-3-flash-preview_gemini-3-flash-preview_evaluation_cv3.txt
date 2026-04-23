@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a recent graduate who lacks hands-on professional experience with the required modern stack, specifically React, TypeScript, and the NodeJS ecosystem. While they demonstrate strong transferable soft skills and a disciplined work ethic from their previous career, their technical portfolio relies on outdated or less relevant technologies like ActionScript and PHP. Furthermore, they only express an "interest" in critical requirements like Jest and Cypress rather than demonstrating the required hands-on proficiency.

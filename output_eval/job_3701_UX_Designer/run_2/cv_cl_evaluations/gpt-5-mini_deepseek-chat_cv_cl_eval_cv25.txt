@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong SDLC, systems-analysis, stakeholder collaboration and user-support experience but lacks any demonstrated commercial UX design experience (no UX roles, portfolios, or prototyping work). There is no evidence of Figma or modern UX tooling, limited front-end exposure (only "some HTML"/VBA) and no clear experience running formal user research, usability testing, or managing a UI design system. While transferable skills exist, the candidate does not meet the core UX design and tooling requirements for this role.

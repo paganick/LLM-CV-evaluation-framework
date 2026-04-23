@@ -1,0 +1,2 @@
+Score: [5]
+Reasoning: The candidate has experience in business development and sales, but lacks specific experience in digital solutions or the required technology stacks (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). The resume doesn't demonstrate deep experience in enterprise client interaction or coordinating with large global organizations, which are crucial for this role. While there is some alignment with sales and marketing, the digital solutions focus is missing.

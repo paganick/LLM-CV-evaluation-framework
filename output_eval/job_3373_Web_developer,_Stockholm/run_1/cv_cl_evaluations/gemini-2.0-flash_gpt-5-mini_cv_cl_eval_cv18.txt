@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience in web development, including HTML, CSS, and JavaScript, but lacks explicit mention of modern FE frameworks like React (beyond expressing enthusiasm). The resume highlights systems administration and project management more prominently than FE development. While the cover letter expresses familiarity with related tools, the depth of experience with the specific technologies outlined in the job description (especially React) is unclear.

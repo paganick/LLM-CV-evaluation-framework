@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the specific technical stack, including niche requirements like Ramda, CI/CD pipelines, and infrastructure tools. While they effectively bridge the gap between scientific validation and software quality assurance, they lack professional tenure in a dedicated software engineering role. Additionally, the candidate failed to explicitly address the required knowledge of web security standards such as OWASP and OAuth.

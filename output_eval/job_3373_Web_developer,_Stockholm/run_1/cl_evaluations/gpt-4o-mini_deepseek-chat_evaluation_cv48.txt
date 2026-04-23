@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong qualifications with extensive experience in front-end development and relevant technologies such as JavaScript, TypeScript, HTML, and CSS. Their familiarity with React and testing frameworks like Jest aligns well with the job requirements. However, there is limited mention of CI/CD tools, API design, and specific experience with the Node.js ecosystem which prevents a perfect score.

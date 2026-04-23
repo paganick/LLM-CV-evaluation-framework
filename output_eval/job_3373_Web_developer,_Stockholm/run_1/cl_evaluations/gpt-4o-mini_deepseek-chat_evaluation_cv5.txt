@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates relevant experience in backend technologies and a growing interest in frontend development, they lack specific experience with modern frameworks like React, as well as familiarity with the other required tools and technologies listed, such as testing frameworks and CSS tools. Their background in banking systems provides some transferable skills, but their qualifications do not align closely enough with the job requirements.

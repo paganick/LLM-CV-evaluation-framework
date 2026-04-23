@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in digital marketing and implementation consulting, not direct front-end development, which is a significant mismatch for a core development role. While they mention some relevant technologies (HTML, CSS, security concepts, Agile), they fail to provide concrete evidence of hands-on experience with the job's core requirements: JavaScript, TypeScript, React, testing frameworks, Git, and modern tooling. The letter demonstrates awareness but lacks proof of applied technical proficiency.

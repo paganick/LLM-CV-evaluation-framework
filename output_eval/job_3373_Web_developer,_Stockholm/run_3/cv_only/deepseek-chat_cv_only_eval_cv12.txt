@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (JavaScript, HTML, CSS, Git). However, they lack specific, recent experience with modern React, TypeScript, and the testing frameworks (Jest, Cypress) and tooling (ESLint, Prettier, CI/CD) listed as requirements. Their experience is heavily weighted towards backend and scripting languages, with no mention of the key frontend libraries or practices emphasized in the job description.

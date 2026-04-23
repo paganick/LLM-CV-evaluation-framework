@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in web technologies such as HTML and CSS but lacks essential skills in JavaScript, TypeScript, and modern front-end frameworks like React, which are specifically required for the position. While they have a background in project management and digital marketing, their technical experience does not align with critical aspects of the job description, leading to a lower fit score.

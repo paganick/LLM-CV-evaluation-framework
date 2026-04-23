@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in essential technologies such as JavaScript, HTML, CSS, and has a foundational understanding of React. However, they lack hands-on experience with testing frameworks and do not mention familiarity with key modern tools and practices like CI/CD, Git, or specific testing automation tools, which are critical for the position.

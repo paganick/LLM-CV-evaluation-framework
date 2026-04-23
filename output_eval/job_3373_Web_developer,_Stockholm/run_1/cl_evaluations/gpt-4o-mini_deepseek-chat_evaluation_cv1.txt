@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong frontend development skills with relevant experience in ReactJS and modern CSS, aligning well with the job description. They also possess a solid understanding of testing principles and Agile methodologies. However, there is no clear mention of familiarity with TypeScript, modern CSS tools like Styled Components, or specific experience with all required testing frameworks, which prevents a perfect score.

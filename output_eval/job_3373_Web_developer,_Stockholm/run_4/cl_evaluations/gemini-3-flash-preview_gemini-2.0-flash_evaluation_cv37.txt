@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core technologies required, specifically failing to demonstrate hands-on proficiency with React, TypeScript, or modern testing frameworks. While they possess a strong background in IT management and Agile environments, their technical profile is limited to basic HTML/CSS/JS and shows no exposure to the advanced ecosystem (CI/CD, Web Security, API design) mentioned in the job description. This profile suggests a career transitioner rather than the established developer the role demands.

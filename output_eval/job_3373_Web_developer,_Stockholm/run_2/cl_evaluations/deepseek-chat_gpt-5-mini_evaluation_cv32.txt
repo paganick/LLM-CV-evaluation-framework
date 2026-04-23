@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in customer service, sales, and management, which is a completely different industry from front-end engineering. The cover letter demonstrates no hands-on experience with the core technical requirements listed in the job description, such as JavaScript, React, testing frameworks, or version control. While the candidate expresses strong motivation to learn, they currently lack any of the specific, required technical skills for the role.

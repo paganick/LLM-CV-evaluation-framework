@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and lists foundational web technologies (JavaScript, HTML, CSS). However, the resume lacks specific, hands-on experience with the required modern front-end framework (React), modern CSS tools, testing frameworks, and the other key technologies listed (e.g., TypeScript, Node.js ecosystem, functional programming with Ramda). Their expertise is heavily centered on Drupal and PHP backend development, which does not align with the job's focus on a modern React-based front-end stack.

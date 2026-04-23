@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is primarily in testing, not front-end development, although they demonstrate familiarity with relevant technologies. They express eagerness to learn React and other tools in the stack, but lack sufficient hands-on experience in front-end development, especially with frameworks mentioned in the job description. While their testing experience is valuable, it doesn't fully compensate for the lack of direct front-end experience.

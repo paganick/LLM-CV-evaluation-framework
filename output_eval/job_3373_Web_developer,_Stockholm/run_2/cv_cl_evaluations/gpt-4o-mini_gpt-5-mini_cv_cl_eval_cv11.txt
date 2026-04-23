@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software testing and automation but lacks strong front-end development skills, specifically with React and modern JavaScript frameworks, which are essential for this role. While they have experience with the testing side, their primary focus has been on manual testing and they do not demonstrate familiarity with CI/CD tools, modern CSS frameworks, or API design, which are noted in the job description.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and mentions several required technical skills, including JavaScript, TypeScript, React, and modern CSS tools. However, the cover letter is heavily weighted towards design experience, with only brief mentions of the core development and engineering practices (testing, security, CI/CD, specific frameworks/tools) that are the primary focus of the job description. Key requirements like experience with specific testing frameworks, linters, Node.js, functional programming, and CI/CD are not substantiated.

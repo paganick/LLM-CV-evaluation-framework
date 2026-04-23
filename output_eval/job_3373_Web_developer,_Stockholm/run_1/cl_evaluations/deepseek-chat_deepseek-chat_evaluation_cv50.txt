@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational education and demonstrates some alignment with required technical skills like JavaScript, React, and Git. However, the cover letter lacks specific, hands-on evidence of modern front-end development experience, mentioning no concrete projects or proficiency with key tools like testing frameworks, modern CSS tools, or CI/CD. The background is heavily weighted toward quality engineering and systems analysis, not direct front-end development, indicating a significant skills gap for the role.

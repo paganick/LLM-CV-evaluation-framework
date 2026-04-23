@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in project management and some experience with front-end web development, but lacks hands-on proficiency in the specific technologies required for the role, such as React, TypeScript, and modern CSS tools. There is no evidence of test automation or experience with the specific testing frameworks outlined in the job description. Although they have relevant experience in the digital marketing and UX sectors, they do not meet the core technical requirements for this position.

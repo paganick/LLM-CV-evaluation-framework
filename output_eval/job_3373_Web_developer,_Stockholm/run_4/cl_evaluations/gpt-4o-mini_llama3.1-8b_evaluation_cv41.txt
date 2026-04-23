@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience as a Systems Administrator and a solid understanding of various systems and processes. However, they lack direct experience with key technologies and tools specified in the job description, such as JavaScript, TypeScript, React, testing frameworks, and CI/CD tools. This gap in specific technical skills leads to a moderate score, acknowledging their industry experience but noting the lack of relevant technical capabilities.

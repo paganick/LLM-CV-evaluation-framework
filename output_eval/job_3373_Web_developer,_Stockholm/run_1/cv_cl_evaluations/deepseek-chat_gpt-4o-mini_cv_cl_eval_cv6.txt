@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Drupal/PHP full-stack development, not the modern React-based frontend role specified. While they mention JavaScript, HTML, and CSS, they lack demonstrated hands-on experience with React, Vue, Angular, or Svelte, and their testing experience (Selenium, Behat) is not aligned with the requested frameworks (Jest, Cypress). The cover letter attempts to align with the job description but does not substantiate the claimed skills with concrete project evidence from their resume.

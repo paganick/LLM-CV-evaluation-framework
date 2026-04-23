@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has relevant SaaS domain knowledge and strong cross-team collaboration skills, and the cover letter claims a deliberate pivot to development. However, the resume contains no verifiable hands-on front-end development experience, projects, or technical roles demonstrating React/TypeScript, testing automation, Git usage, or Node/CI work. Given the role's technical requirements, the submission lacks the concrete engineering evidence needed to be considered a solid fit.

@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Software Developer position as described in the job description. Based on my extensive background in web technologies and software development, I believe my skills and experience align well with the requirements of this role.
+
+My professional journey has primarily focused on full-stack development, with significant experience in creating robust web applications using technologies like C#, ASP.Net, HTML5, CSS3, JavaScript, and SQL. I have a proven track record in developing user interfaces and collaborating effectively within Agile environments. For instance, during my time at Bank of America, I redesigned user interfaces to enhance user experience, leading to improved user satisfaction and participation in the design process through iterative feedback sessions.
+
+I understand the importance of modern development practices and have experience with testing frameworks, version control systems like Git, and methodologies that ensure code quality and reliability. My background includes managing projects, mentoring junior developers, and implementing processes that improve team efficiency and code standards.
+
+While my primary expertise has been in .NET technologies and SQL, my experience in software development principles, application security, and collaboration within cross-functional teams positions me well to contribute effectively to your team. I am passionate about writing clean, maintainable code and continuously learning to stay updated with the latest technologies.
+
+I am confident that my technical skills, collaborative approach, and passion for software development make me a strong candidate for this position. I am eager to bring my expertise to your team and contribute to your success.
+
+Sincerely,
+Alexis

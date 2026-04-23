@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume is overwhelmingly focused on graphic design with only HTML/CSS listed and no verifiable professional experience in JavaScript/TypeScript, React, Node, testing frameworks, CI/CD, or cloud/infrastructure required by the role. The cover letter asserts a transition to frontend development and familiarity with some tools, but provides no concrete projects or evidence to substantiate those claims. This candidate is in a relevant adjacent field but lacks the specific, demonstrable frontend engineering experience needed for this position.

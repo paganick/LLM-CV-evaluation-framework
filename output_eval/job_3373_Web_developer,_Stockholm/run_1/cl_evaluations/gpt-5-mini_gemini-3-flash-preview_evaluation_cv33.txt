@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid experience with React, TypeScript, modern CSS (Styled Components/SASS), testing frameworks (Jest, Cypress), NodeJS ecosystem, security concepts, functional programming (Ramda) and CI/CD (CircleCI), matching many core requirements. However, the cover letter omits explicit mention of Git/GitHub, linters/formatters (ESLint/Prettier), API design and cloud/infra experience (AWS/Terraform), and includes non-technical sales achievements that do not demonstrate hands-on frontend depth.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Frontend Developer position. While my background may seem unconventional, my robust analytical skills, meticulous attention to detail, and passion for clean code, honed over 7+ years in Mainframe development, are highly transferable and align perfectly with your requirements.
+
+My experience includes extensive programming using COBOL, JCL, and DB2, as well as a foundational understanding of HTML, XML, JavaScript, and Java. I am eager to leverage my existing knowledge and quickly adapt to modern FE frameworks, specifically React, which I understand is used by your team. My certifications in z/OS Database Administration, DB2 Application Development, and DB2 UDB V8 family Fundamentals demonstrate my commitment to mastering complex technical environments.
+
+In my previous role as an Associate Consultant, I was responsible for designing, coding, and testing solutions within the HSBC Core Banking system. This involved creating CICS MAPs, developing presentation layers and service programs, and ensuring timely and flawless delivery. My experience with debugging tools, configuration management tools, and performance tuning will be invaluable in ensuring the quality and efficiency of frontend applications.
+
+I am a strong collaborator and comfortable working in Agile environments. I have experience managing teams, mentoring new members, and proactively resolving technical issues. My accomplishments include contributing to the development of a new platform for HSBC's banking business, showcasing my ability to learn quickly and contribute effectively to large-scale projects.
+
+I am particularly drawn to your emphasis on writing clean code and staying up-to-date with the latest technologies. I am confident that my dedication to problem-solving, coupled with my eagerness to learn and adapt, will make me a valuable asset to your team.
+
+I am excited about the opportunity to contribute to your team and am confident I can rapidly acquire the necessary skills to excel in this role. Thank you for your time and consideration.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows extensive back-end and IT support experience but lacks any demonstrated professional experience with modern front-end frameworks like React, testing libraries, or the specific tools listed in the job description. The cover letter attempts to bridge this gap with foundational knowledge and interest, but it does not provide evidence of hands-on application. The core requirements for the role are not met, making the candidate unqualified for this specific front-end developer position.

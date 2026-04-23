@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and projects demonstrate strong data analysis skills (R, Python, SAS, SQL) but show no practical experience with core frontend requirements such as JavaScript/TypeScript, HTML/CSS, React, frontend testing frameworks, or the Node/npm ecosystem. Although they mention Git and a willingness to learn in the cover letter, there are no concrete frontend projects, testing/CI experience, or web security knowledge demonstrated, making them unsuitable for this frontend role without substantial upskilling.

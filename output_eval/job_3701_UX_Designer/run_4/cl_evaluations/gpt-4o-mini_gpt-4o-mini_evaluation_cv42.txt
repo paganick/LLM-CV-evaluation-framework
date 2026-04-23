@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in dynamic environments and demonstrates some understanding of user experience design principles. However, they lack specific experience in an Agile software development environment and do not mention exposure to HTML, CSS, or JavaScript, which are essential for managing the UI Design System. Their skills in running workshops are noted but could be further substantiated with specific examples related to UX design.

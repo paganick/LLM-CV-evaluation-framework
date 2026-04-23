@@ -1,0 +1,3 @@
+Score: 4
+Reasoning:
+The candidate's background is primarily in film and television, lacking direct experience in front-end development. While they mention relevant soft skills and a willingness to learn, they lack the required technical skills in JavaScript, modern FE frameworks (React), testing, and other crucial technologies outlined in the job description. Their Ruby experience is also becoming obsolete for the company.

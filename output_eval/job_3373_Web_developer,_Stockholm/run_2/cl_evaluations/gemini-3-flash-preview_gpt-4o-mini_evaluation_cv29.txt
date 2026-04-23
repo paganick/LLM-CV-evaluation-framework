@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience as a software developer, with a background primarily focused on business development and technical writing. While they demonstrate relevant industry context, they do not possess the required hands-on mastery of JavaScript, TypeScript, or React in a production environment. The application identifies a career transition rather than the technical proficiency required to fulfill the specific engineering demands of the role.

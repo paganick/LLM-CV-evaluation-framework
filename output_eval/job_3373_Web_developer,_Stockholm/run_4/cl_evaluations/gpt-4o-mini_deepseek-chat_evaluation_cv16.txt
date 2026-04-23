@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience as a .NET Developer with a strong foundation in key web technologies and Agile methodologies. They exhibit familiarity with testing frameworks and modern web security principles, aligning well with the job requirements. However, the lack of mention of TypeScript, specific CSS tools, and limited exposure to the NodeJS ecosystem hold them back from a higher score.

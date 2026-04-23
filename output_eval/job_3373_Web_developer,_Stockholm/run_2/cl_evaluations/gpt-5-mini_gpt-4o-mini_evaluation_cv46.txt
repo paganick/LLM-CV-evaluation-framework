@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience, testing knowledge (including Jest) and familiarity with Git, NodeJS, and basic web security, but primarily has a Java/back-end background rather than demonstrated hands-on experience with React and several specific front-end technologies the role requires. They state eagerness to learn modern frameworks and tools but do not provide concrete experience with React, Styled Components/SASS, Ramda, CI/CD, AWS/Terraform, or E2E testing frameworks, making them a partial but not strong match.

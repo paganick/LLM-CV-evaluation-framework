@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT support and system administration, not professional front-end development, which is a significant mismatch. While they express interest in the required technologies and mention some relevant soft skills, they provide no demonstrable hands-on experience with the core technical stack (e.g., React, testing frameworks, modern CSS tools). Their knowledge of web security concepts is theoretical, and they lack evidence of practical development work.

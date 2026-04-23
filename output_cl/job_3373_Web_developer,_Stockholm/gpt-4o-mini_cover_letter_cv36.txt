@@ -1,0 +1,18 @@
+Dear Hiring Manager,  
+
+I am writing to express my interest in the Front-End Developer position, as advertised. With a strong background in project management and technical consulting, I am eager to transition my skills into the technology sector, particularly focusing on JavaScript, TypeScript, HTML, and CSS, with an emphasis on modern frameworks such as React.
+
+In my current role as a Consultant, I have honed my skills in developing engaging training programs and collaboratively leading teams. This experience has equipped me with valuable insights into working effectively within Agile environments, managing timelines, and fostering strong communication within diverse teams. My role has not only involved direct training but also extensive project management and quality control, ensuring compliance with industry standards.
+
+While my CV reflects my scientific expertise, my passion for technology has driven me to continually learn and adapt. I possess hands-on experience in utilizing various tools and libraries and am committed to writing clean, maintainable code. I am enthusiastic about embracing the latest technologies and applying my analytical and problem-solving skills to Front-End Development.
+
+Through my experience in quality control and regulatory compliance, I have developed a keen eye for detail, which is crucial for implementing testing and automation practices, including unit tests and integration tests. I am also familiar with Git, and repositories like GitHub, which I understand are essential in modern development workflows.
+
+Furthermore, my familiarity with modern CSS tools, testing frameworks, and CI/CD tools like CircleCI speaks to my proactive approach to understanding and implementing tech solutions. While transitioning from microbiology to tech, my learning curve has accelerated, and I am eager to contribute my unique perspective and collaborative spirit to your team.
+
+I am or am willing to learn more about security practices on the web, API design, and concepts in AWS, which I believe can enhance my contribution to your projects. My experiences have cultivated an intuitive understanding of working with cross-functional teams, and I am eager to expand my technical expertise within your organization.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my unique background can contribute to your team at [Company Name].
+
+Sincerely,  
+Alexis

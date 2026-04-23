@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not frontend development, which is a significant mismatch for the core role. While they mention some relevant technologies (JavaScript, React, Git), they fail to demonstrate hands-on experience with most specific requirements from the job description, such as testing frameworks, modern CSS tools, security basics, or the listed tech stack. The letter focuses on transferring soft skills rather than proving concrete, relevant technical expertise.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core expertise is in C# and ASP.NET, which is a significant mismatch for a role requiring deep proficiency in JavaScript/TypeScript and React. While they mention a willingness to learn and touch on some relevant soft skills and general concepts (GitHub, testing), they provide no demonstrable experience with the specific technologies listed in the job description. The cover letter is generic and fails to convincingly bridge the substantial technical gap between their background and the role's requirements.

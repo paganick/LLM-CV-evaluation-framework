@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has over two decades of software development experience, their technical expertise is heavily centered on legacy Microsoft stacks and AngularJS rather than the required React and TypeScript. They lack experience with modern CSS tools, modern testing frameworks like Jest or Cypress, and the Node.js ecosystem specified in the job description. Despite strong collaborative skills, the misalignment between their current skillset and the required modern front-end technologies makes them a weak fit for this specific role.

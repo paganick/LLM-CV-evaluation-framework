@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with front-end technologies like AngularJS, HTML, and CSS, and mentions familiarity with Node.js, Git, and GitHub. However, the resume heavily emphasizes Java and server-side technologies, while the job description prioritizes React, TypeScript, and modern FE frameworks. There is a significant gap in the required skills, and the candidate's experience doesn't align closely with the listed technologies beyond basic front-end knowledge.

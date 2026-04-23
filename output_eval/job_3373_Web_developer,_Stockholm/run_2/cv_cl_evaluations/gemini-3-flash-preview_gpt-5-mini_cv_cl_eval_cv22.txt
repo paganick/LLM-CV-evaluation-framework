@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional experience is almost exclusively in media planning and marketing rather than software engineering. They lack the required proficiency in JavaScript, TypeScript, and React, as well as the necessary experience with testing frameworks and CI/CD tools. While they have a foundational interest in technology, they do not meet the core technical requirements for this specific engineering position.

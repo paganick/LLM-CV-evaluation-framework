@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a backend-focused engineer with a Java/Spring background and lacks professional experience in the required React/TypeScript stack. While they possess strong general engineering principles like TDD and Agile, they admit to being in the process of learning core job requirements such as modern CSS and TypeScript. Consequently, they do not meet the specialized frontend technical requirements or the expertise level in modern UI frameworks necessary for this role.

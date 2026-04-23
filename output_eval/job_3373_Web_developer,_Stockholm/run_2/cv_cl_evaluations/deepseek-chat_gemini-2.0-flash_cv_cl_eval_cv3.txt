@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is in the correct industry but is completely unqualified for the specific role. The job requires hands-on experience with modern frameworks like React, testing automation, and specific tools, none of which are demonstrated. The candidate's experience is outdated (e.g., ASP.NET, Flash, Java Applets) and academic, lacking any professional development experience relevant to the listed requirements.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and cybersecurity, which is relevant, but lacks hands-on experience specifically with front-end technologies such as React, TypeScript, and modern CSS tools as mentioned in the job description. While they demonstrate a strong understanding of web and system security, their experience does not clearly align with the specific requirements for a front-end engineering role, particularly regarding collaboration in Agile settings and familiarity with necessary testing frameworks.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience with frontend technologies, testing, and Agile methodologies. They mention familiarity with React-adjacent concepts and a desire to learn AWS and Terraform. However, their experience with React itself seems limited, and specific testing frameworks mentioned in the job description are not explicitly addressed.

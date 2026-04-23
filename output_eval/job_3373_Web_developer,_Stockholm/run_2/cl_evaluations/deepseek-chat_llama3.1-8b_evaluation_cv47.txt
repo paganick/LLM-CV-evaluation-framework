@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's core experience is in business development and chemical trading, which is a completely different industry and skillset from the front-end engineering role described. While they mention some tangential technical skills like HTML and C++, they explicitly lack the required modern frameworks (React), testing tools (Jest), and core programming focus. The application demonstrates a fundamental misunderstanding of the role's requirements.

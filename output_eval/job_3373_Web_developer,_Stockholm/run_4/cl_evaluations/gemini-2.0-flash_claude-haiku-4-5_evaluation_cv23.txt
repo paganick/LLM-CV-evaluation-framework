@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a testing background, which is relevant but not the primary skill sought for a frontend developer. While they express interest in React and frontend technologies, they lack demonstrable experience in the required frameworks and tools such as TypeScript, modern CSS tools, and the NodeJS ecosystem. Their experience is primarily in a different domain, requiring a significant transition.

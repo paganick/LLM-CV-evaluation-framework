@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused professional with expertise in Java and SQL, which lacks alignment with the core requirements for this frontend-heavy role. They admit to only having an interest in learning the mandatory technologies—specifically TypeScript, React, and automated testing frameworks—rather than possessing hands-on experience. While the candidate has relevant software engineering foundations, they do not currently meet the specific technical criteria outlined in the job description.

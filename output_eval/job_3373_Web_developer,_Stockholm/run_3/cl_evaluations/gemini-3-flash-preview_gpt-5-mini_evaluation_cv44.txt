@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree, their professional experience is rooted in presentation design and UX rather than engineering, relying on outdated tools like Dreamweaver and jQuery. They lack the required professional proficiency in React, TypeScript, and automated testing frameworks, explicitly stating a need to "grow into" these core technologies. This profile reflects a career transitioner who does not meet the immediate technical requirements for a modern Front-End Engineer role.

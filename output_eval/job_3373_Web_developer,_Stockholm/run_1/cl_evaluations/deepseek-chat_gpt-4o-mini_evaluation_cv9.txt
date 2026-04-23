@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and touches on many required areas like JavaScript, Agile, Git, testing, and OAuth. However, the cover letter lacks specific, demonstrable experience with the core frontend technologies listed, most critically React and TypeScript, and does not convincingly address modern testing frameworks or functional programming. The background is heavily weighted toward Java/JEE and backend API work, which dilutes the focus on frontend development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid background in IT and systems administration but lacks direct experience with key technologies specified in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. They also do not demonstrate familiarity with testing frameworks, CI/CD tools, or web security concepts, which are critical for the role. While there are relevant skills in their experience, they do not align closely with the required qualifications for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in testing web applications and possesses JavaScript skills, but the resume lacks specific mention of modern FE frameworks like React, VueJS, or Angular, which are crucial for the job. While they have automation experience, the listed tools don't align with the preferred testing frameworks. The resume also doesn't demonstrate experience with the other technologies mentioned in the job description, such as CSS tools, NodeJS, CI/CD tools, or cloud platforms.

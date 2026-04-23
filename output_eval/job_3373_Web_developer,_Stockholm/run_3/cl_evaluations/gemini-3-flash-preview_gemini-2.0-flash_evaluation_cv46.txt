@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Alexis demonstrates strong technical alignment by explicitly addressing the core tech stack (React, TypeScript) and several specific "nice-to-have" requirements such as AWS, Terraform, and multiple testing frameworks. However, the candidate fails to mention essential security protocols (OWASP, CORS) or the functional programming requirement (Ramda) specified in the job description. The inclusion of outdated back-end technologies like EJB suggests a broad background, but the overall match for the front-end requirements remains highly competitive.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, specifically highlighting niche skills like Ramda, CSP/CORS, and modern testing frameworks. While they fail to explicitly mention TypeScript and their primary listed professional experience was in a PHP stack, their direct address of the Ruby transition and leadership in Agile environments show high competency. They meet nearly all key criteria, though the lack of dedicated professional React tenure prevents a perfect score.

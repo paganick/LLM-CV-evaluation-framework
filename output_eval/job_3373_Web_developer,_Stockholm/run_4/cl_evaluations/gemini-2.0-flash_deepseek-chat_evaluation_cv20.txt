@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates familiarity with relevant front-end technologies and Agile methodologies, aligning with the job description's requirements. However, the cover letter highlights more .NET stack experience than the desired React focus, and lacks specific examples of testing and test automation experience. There's also no evidence of experience with modern CSS tools or the NodeJS ecosystem.

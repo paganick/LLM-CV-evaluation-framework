@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in data analysis, engineering, and teaching, not front-end development. While they mention HTML and some web technologies, there's a lack of demonstrable experience with JavaScript, React, or modern front-end frameworks as specified in the job description. Their skills are more aligned with back-end data processing and analysis.

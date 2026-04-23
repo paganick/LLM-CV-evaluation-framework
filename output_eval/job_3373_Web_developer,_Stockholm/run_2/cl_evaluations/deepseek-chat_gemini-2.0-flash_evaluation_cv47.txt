@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in business development, not software engineering, which is a fundamental mismatch for a technical front-end developer role. The cover letter demonstrates only a superficial mention of HTML and no concrete, professional experience with the core technologies listed in the job description, such as JavaScript, React, TypeScript, testing, or modern tooling. While soft skills like collaboration are mentioned, the severe lack of required technical qualifications makes the candidate unqualified for this specific position.

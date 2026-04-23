@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundation in JavaScript, HTML, and CSS, and expresses eagerness to learn React and TypeScript. They have experience with Git, some familiarity with the NodeJS ecosystem, and exposure to API integration. However, their resume lacks direct experience with modern FE frameworks like React and testing frameworks, and only mentions web security basics.

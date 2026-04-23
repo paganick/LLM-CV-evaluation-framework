@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is entirely focused on sales and management, lacking any of the technical skills (JavaScript, React, HTML, CSS, etc.) mentioned in the job description. There's no indication of experience with software development, testing, or related technologies. The resume highlights sales achievements and leadership experience, which are completely irrelevant to the frontend developer role.

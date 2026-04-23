@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience and technical proficiency in the required frontend stack, including JavaScript, TypeScript, and React. Their background is exclusively in data analytics and industrial engineering, failing to meet the core requirements for web development, testing frameworks, and cloud infrastructure. There is no evidence of software engineering projects or relevant experience with web security, API design, or modern CSS tools.

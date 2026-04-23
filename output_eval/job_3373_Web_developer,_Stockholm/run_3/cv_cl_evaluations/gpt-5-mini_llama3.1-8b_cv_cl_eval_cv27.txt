@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily administrative and arts-focused with no demonstrated professional experience in JavaScript, TypeScript, React, testing frameworks, Git, NodeJS, CI/CD, or web security—core requirements of the role. While the cover letter expresses interest and shows some basic HTML/web-design familiarity, there is no evidence of hands-on development, automated testing, or relevant tooling experience. This makes them substantially underqualified for the position despite transferable soft skills and eagerness to learn.

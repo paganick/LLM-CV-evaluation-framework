@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware testing and lab technician work, not professional frontend development. While they demonstrate foundational knowledge of JavaScript and testing concepts, they lack proven, hands-on experience with React, modern CSS tools, version control (Git/GitHub), and the other specific technologies listed in the job description. Their adaptability and testing experience are relevant, but the core requirement of professional frontend development experience is not met.

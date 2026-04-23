@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in information technology and solid skills in JavaScript, HTML, and CSS, aligning well with the fundamental requirements. However, they lack specific experience with TypeScript, some modern CSS tools like Styled Components and SASS, and testing frameworks mentioned in the job description. While the candidate demonstrates a strong background and willingness to learn, they do not exactly meet all the requirements listed, which impacts the score.

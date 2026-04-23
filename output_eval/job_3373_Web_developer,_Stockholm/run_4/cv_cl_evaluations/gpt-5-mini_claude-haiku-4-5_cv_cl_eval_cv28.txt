@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no demonstrated hands-on experience with JavaScript/TypeScript, React, modern CSS, frontend testing frameworks, Node.js/npm, CI/CD, or cloud/infra tools required for this role. They show strong analytical, QA, and cross-functional collaboration skills and express willingness to learn, but that does not meet the immediate technical expectations for a production frontend developer. Given the substantial gap in core technical competencies, the candidate is largely unqualified for this position.

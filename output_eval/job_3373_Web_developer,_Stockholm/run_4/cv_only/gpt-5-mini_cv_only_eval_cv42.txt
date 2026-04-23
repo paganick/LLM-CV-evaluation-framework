@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a 20-year career in finance and operations with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React (or other modern frontend frameworks), testing frameworks, Git, Node.js, or cloud/DevOps technologies required for this role. There is also no evidence of web security knowledge, API design, or relevant developer toolchains. While the candidate has strong leadership and operations experience, those qualifications are not applicable to the technical frontend engineering position.

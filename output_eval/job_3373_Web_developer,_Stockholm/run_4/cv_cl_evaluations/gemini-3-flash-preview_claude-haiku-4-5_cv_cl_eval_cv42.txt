@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for a technical engineering role, possessing twenty years of experience exclusively in finance and operations rather than software development. While the cover letter expresses a desire to transition careers, the resume lacks any professional experience, projects, or verifiable skills in JavaScript, React, or modern frontend architecture. As a result, the candidate does not meet any of the core technical requirements specified in the job description.

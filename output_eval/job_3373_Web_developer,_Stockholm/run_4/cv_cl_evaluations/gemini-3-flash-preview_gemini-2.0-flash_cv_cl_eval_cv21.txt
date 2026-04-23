@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in software development but lacks the core modern frontend requirements, specifically React and TypeScript. Their technical expertise is heavily centered on legacy .NET ecosystems, jQuery, and the original AngularJS, with no evidence of experience in Git, modern testing frameworks, or NodeJS. Furthermore, the resume shows no familiarity with the requested cloud infrastructure or functional programming paradigms essential for this position.

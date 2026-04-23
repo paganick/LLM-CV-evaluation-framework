@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is an experienced developer in the C#/.NET and Python ecosystems, but they lack professional experience with the core requirements of React and TypeScript. There is no evidence of familiarity with modern frontend tooling such as Styled Components, SASS, or automated testing frameworks like Jest and Cypress. While the cover letter claims alignment with the tech stack, the resume confirms a background primarily focused on backend systems and data science rather than modern web frontend development.

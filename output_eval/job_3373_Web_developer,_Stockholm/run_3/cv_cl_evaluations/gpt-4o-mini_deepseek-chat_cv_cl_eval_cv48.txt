@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in IT and demonstrates knowledge of JavaScript, TypeScript, HTML, CSS, and React. However, they lack direct experience with many specific requirements outlined in the job description such as modern CSS tools, testing frameworks, and API design, making them less than fully qualified for the role.

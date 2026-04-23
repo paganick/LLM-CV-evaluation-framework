@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong senior design leadership, prototyping experience, stakeholder-facing work and basic front-end familiarity, which align with the role. However, they do not explicitly state experience working in an Agile environment, do not mention Figma or CSS, and provide no concrete examples of user research methods (journey mapping, user interviews, testing). Overall relevant but missing several specific, stated requirements for a stronger score.

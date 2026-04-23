@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development, with very limited demonstrable experience in front-end development technologies. While the candidate mentions HTML proficiency, the resume lacks evidence of the required JavaScript, TypeScript, React, or other modern FE framework skills mentioned in the job description. The candidate's cover letter expresses a willingness to learn, but the current skillset does not align with the job requirements.

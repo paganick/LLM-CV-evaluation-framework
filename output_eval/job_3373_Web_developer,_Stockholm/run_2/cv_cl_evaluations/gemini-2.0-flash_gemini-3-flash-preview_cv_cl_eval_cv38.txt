@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in film and video production, not software engineering. While the cover letter mentions JavaScript, TypeScript, HTML, and CSS, the resume lacks demonstrable professional experience in these technologies within a software development context. The candidate's skills appear to be self-taught or applied in a different field, making them a weak fit for a front-end engineer role focused on React development.

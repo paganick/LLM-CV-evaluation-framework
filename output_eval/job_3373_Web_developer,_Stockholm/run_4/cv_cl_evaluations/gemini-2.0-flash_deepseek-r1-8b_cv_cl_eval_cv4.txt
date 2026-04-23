@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses several key skills mentioned in the job description, including JavaScript, HTML, CSS, and experience with React. They also demonstrate experience with Git and API integration. However, the resume lacks explicit mention of testing frameworks and modern CSS tools, and depth in areas like CI/CD and AWS is unclear.

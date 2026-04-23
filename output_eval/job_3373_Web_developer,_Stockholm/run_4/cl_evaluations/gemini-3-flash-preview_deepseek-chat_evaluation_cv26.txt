@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with no professional tenure in software engineering, failing to demonstrate the required hands-on experience in a production environment. While they have acquired core technical keywords like React and TypeScript, significant gaps remain regarding enterprise requirements such as CI/CD, AWS, and API design. Their background in Law and Public Relations, while indicating strong soft skills, does not provide the technical maturity or proven track record required for this role.

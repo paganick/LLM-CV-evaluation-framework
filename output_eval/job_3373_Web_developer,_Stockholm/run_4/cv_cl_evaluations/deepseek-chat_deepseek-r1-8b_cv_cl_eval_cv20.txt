@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET and legacy front-end technologies (jQuery, Bootstrap), with no demonstrated experience in the required modern frameworks like React, TypeScript, or modern CSS tools. While they have relevant Agile experience and basic Git knowledge, they lack the core technical stack and specific testing/security experience listed in the job description. The candidate is in the relevant industry but lacks the specific, required skills for this front-end role.

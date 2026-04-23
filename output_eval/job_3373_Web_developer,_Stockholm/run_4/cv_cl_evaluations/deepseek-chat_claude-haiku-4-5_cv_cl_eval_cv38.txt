@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media production and film, which is a completely different industry from professional software development. The resume and cover letter show no direct, hands-on experience with any of the required technologies (JavaScript, TypeScript, React, testing frameworks, Git, etc.). While the candidate expresses enthusiasm for a career transition, they currently lack the specific technical qualifications and professional experience demanded by the job description.

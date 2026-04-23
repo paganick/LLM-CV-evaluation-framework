@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Mainframe specialist with over 7 years of experience in legacy technologies like COBOL, CICS, and DB2, which is fundamentally different from the required modern Front-End stack. There is no professional evidence of experience with React, TypeScript, or modern CI/CD and cloud tools mentioned in the job description. While they list JavaScript as a skill, their career trajectory and project history are entirely focused on banking backend systems rather than modern web development.

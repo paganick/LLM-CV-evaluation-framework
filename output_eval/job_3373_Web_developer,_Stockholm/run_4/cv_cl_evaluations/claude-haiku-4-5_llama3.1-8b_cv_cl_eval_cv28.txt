@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Engineer position. The resume shows extensive experience in materials analysis, quality engineering, and manufacturing processes with no demonstrable knowledge of JavaScript, TypeScript, React, or any frontend technologies. The cover letter makes no mention of software development, web technologies, testing frameworks, or any of the required technical skills listed in the job description. This is a fundamental career mismatch between materials engineering and frontend software development.

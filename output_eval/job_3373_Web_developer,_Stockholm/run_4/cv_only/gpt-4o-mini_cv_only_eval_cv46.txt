@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some experience in software development, specifically in Java and web technologies like HTML and JavaScript. However, they lack significant experience with modern front-end frameworks like React, VueJS, or Angular, as well as formal testing experience and knowledge of contemporary CSS tools. Their background is more focused on back-end development and database administration, which doesn't align closely with the job requirements.

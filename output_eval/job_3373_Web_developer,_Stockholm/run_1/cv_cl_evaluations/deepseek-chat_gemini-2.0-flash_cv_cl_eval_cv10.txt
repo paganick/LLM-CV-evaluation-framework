@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java back-end development and legacy front-end technologies like AngularJS, with no demonstrated experience in React, TypeScript, or modern testing frameworks as required. While they have foundational web skills and Agile exposure, they lack the specific, hands-on experience with the core technologies and tools listed in the job description. The resume shows a relevant industry background but is a significant mismatch for the specific front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions core technologies like HTML, CSS, JavaScript, and React. However, the cover letter is too vague and lacks specific, demonstrable experience with the majority of the job's technical requirements, such as TypeScript, testing frameworks, modern CSS tools, security concepts, and the listed toolchain. It relies on general statements about IT consulting and full-stack concepts without concrete, front-end-focused examples that match the detailed job description.

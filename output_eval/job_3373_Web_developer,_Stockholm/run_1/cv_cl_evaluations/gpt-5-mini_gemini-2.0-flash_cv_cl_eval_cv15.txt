@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates basic HTML/CSS/JavaScript knowledge and some web project experience but their background is primarily IT support/management rather than modern front-end development. The resume and cover letter do not provide evidence of React, TypeScript, Git/GitHub workflow, Node/npm/Yarn, testing frameworks, web security practices, or CI/CD experience required for this role. This is a relevant-industry applicant who lacks the specific hands-on skills and toolchain experience needed for the position.

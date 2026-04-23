@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills such as HTML and CSS, and experience in user experience design. However, they lack hands-on experience with modern front-end frameworks like React, as well as testing automation and collaborative tools like Git and CI/CD. Their background appears to be more focused on design rather than development, which is a significant gap for this role.

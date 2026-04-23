@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong IT, systems, and client-facing experience but their resume provides no verifiable front-end development work (JavaScript/TypeScript), React projects, testing suites, Git/GitHub usage, Node.js/npm experience, or modern CSS tooling required for this role. The cover letter asserts upskilling in these areas but offers no concrete examples, portfolio, or measurable outcomes to substantiate those claims. Given the relevant industry background but lack of demonstrated core front-end skills, this candidate is not yet a solid fit.

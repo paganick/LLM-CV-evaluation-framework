@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and a grasp of JavaScript, HTML, and CSS, but lacks direct experience with TypeScript and modern front-end frameworks, specifically React. While they demonstrate familiarity with testing frameworks and Agile methodologies, their knowledge in web security principles and modern CSS tools appears limited, which detracts from a stronger match for the position.

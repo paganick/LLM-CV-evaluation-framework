@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT support and systems administration, not professional frontend software development. While the cover letter attempts to align with the job description, the resume lacks any evidence of hands-on experience with the required technologies (React, TypeScript, modern testing frameworks, etc.) or experience in an Agile software engineering team. This is a fundamental mismatch for a role requiring deep, practical expertise in modern frontend development and tooling.

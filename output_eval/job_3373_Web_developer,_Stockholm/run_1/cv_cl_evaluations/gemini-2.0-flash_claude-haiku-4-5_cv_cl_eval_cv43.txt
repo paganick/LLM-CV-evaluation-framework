@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, with limited demonstrable experience in frontend development. While the cover letter expresses interest in transitioning to frontend development and mentions a technical foundation in coding, the resume lacks concrete evidence of proficiency in the required technologies (JavaScript, TypeScript, React, HTML, CSS). The candidate highlights transferable skills like collaboration and problem-solving, but the lack of direct technical experience is a significant drawback.

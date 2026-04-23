@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills in HTML, CSS, and basic Java knowledge; however, they lack hands-on experience with modern frontend frameworks like React, which is essential for the position. Additionally, their background primarily revolves around media planning rather than software development, resulting in a significant gap in the desired technical expertise required for the job.

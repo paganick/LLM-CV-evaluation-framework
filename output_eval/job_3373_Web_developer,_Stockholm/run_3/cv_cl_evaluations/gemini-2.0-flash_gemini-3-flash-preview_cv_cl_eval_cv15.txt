@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates knowledge of HTML, CSS, and JavaScript, but lacks specific experience with modern FE frameworks like React as mentioned in the job description. While the cover letter expresses interest in learning TypeScript and testing frameworks, the resume doesn't reflect practical experience. The resume focuses more on general IT and hardware troubleshooting than frontend development.

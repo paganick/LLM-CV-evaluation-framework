@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and cybersecurity, demonstrating managerial and problem-solving skills, but lacks the hands-on experience specifically with JavaScript, TypeScript, and modern frontend frameworks like React. While they express enthusiasm for transitioning to frontend development, their current skill set does not meet the technical requirements outlined in the job description. Their familiarity with web security principles may partially align with the role, but overall they are underqualified for the position.

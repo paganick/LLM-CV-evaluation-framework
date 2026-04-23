@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct, hands-on experience in frontend development, which is a core requirement. While they demonstrate strong soft skills and a foundational awareness of some required technologies, they do not provide concrete evidence of professional work with JavaScript, TypeScript, React, testing frameworks, or version control. Their background is in a different industry, and their application is based on aspiration and transferable skills rather than proven technical competency for the role.

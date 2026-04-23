@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS, but lacks explicit experience with modern FE frameworks like React as the job description requires. While they express willingness to learn React, their experience appears to be more heavily weighted towards Java. There's also a lack of concrete examples demonstrating hands-on experience with testing frameworks and CI/CD tools mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows senior business development, program management and legacy IT/system administration experience in aerospace and quality engineering but contains no demonstrated hands-on skills in JavaScript/TypeScript, React (or other modern FE frameworks), CSS, testing frameworks, Git workflows, Node/npm, or cloud/CI tools required for this role. The candidate’s technical background is outdated and focused on a different domain, so they are completely unqualified for the described front-end developer position.

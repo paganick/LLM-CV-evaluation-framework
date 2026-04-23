@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a project manager and IT director applying for a hands-on software engineering role, resulting in a significant functional mismatch. While the applicant has industry experience and understands Agile methodologies, they lack the required technical proficiency in JavaScript, TypeScript, and React. Their exposure to development concepts is purely conceptual and managerial rather than practical, failing to meet the job's core coding and implementation requirements.

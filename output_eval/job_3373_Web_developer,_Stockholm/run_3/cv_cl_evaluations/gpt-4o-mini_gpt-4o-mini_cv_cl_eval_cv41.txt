@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates foundational knowledge and relevant background in JavaScript, HTML, CSS, and React, which aligns well with the position. However, they lack specific experience with modern testing frameworks like Jest and specific CSS tools mentioned in the job description. Additionally, while they have a good understanding of web security, their overall experience seems more aligned with systems administration rather than a strong emphasis on front-end development.

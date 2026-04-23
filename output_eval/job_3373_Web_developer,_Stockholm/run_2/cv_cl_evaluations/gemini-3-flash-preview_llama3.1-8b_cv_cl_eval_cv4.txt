@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume demonstrates a background in C#/.NET and Python development, but lacks any professional experience or evidence of proficiency in the required React and TypeScript stack. Core requirements such as modern testing frameworks (Jest/Cypress), CI/CD tools, and AWS are missing from the work history and project descriptions. While the cover letter claims familiarity with these tools, the resume fails to substantiate these claims, making the candidate a poor fit for a modern frontend-focused role.

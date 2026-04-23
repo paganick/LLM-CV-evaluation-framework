@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with JavaScript and TypeScript and explicitly admits to needing training in React, which is a primary requirement for this role. Furthermore, the application fails to demonstrate any knowledge of automated testing, Git, or web security protocols specified in the job description. While the candidate possesses relevant soft skills and basic HTML/CSS knowledge, they do not meet the core technical qualifications required for a developer position.

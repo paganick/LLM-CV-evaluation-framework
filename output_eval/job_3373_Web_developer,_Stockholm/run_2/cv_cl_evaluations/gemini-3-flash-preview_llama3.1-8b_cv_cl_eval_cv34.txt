@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital marketing and Salesforce consultant whose professional history lacks any documented experience with JavaScript, TypeScript, or modern front-end frameworks like React. While the cover letter claims technical proficiency, the resume focuses entirely on email platform implementations and project management rather than software engineering. Consequently, the candidate fails to meet nearly all the core technical requirements, including testing automation, CI/CD, and web security.

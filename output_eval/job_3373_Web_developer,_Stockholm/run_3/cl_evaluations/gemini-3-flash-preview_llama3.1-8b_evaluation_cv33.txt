@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career switcher with nine years of experience in business banking and sales, which is entirely irrelevant to the professional software engineering background required. They lack any documented professional history with the tech stack and explicitly admit their background is not related to software development. Consequently, they do not meet the mandatory requirements for hands-on experience in a production environment.

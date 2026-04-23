@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Developer position. As a business development leader with a technical foundation in HTML, C and C++, seven-plus years leading cross-functional teams and a Master of Science in Organic Chemistry, I bring a rare combination of disciplined problem solving, stakeholder management and a practical engineering mindset that will help accelerate delivery and collaboration on your React-based front end.
+
+In previous roles I led teams across marketing, technical, legal, finance and sales to launch new products, negotiate vendor contracts and scale operations. I have recruited and trained more than 20 employees, managed over 300 customer accounts, and drove initiatives that increased gross profit and net profit significantly. Those experiences sharpened my ability to break complex domains into actionable tasks, prioritize work in ambiguous contexts and communicate clearly with technical and non-technical partners — qualities that translate directly to Agile software teams.
+
+Technically, I have hands-on experience with HTML and general programming in C and C++. Throughout my career I have built tooling and documentation to support reproducible processes and trained large groups, which reflects a commitment to clarity and maintainability. I am comfortable learning new tools and patterns and have a strong record of rapidly acquiring domain knowledge to deliver results.
+
+As a Graduate Teaching Assistant I trained over 250 students, delivered lectures to classes of 100–150 undergraduates and ran one-on-one review sessions. These teaching responsibilities honed my ability to explain technical material, produce clear documentation and mentor learners. In earlier leadership roles I worked closely with auditors, prepared balance sheets and managed compliance and budgeting processes — experience that underpins a disciplined, audit-friendly approach to engineering practices and quality assurance.
+
+While much of my formal experience is in business development and scientific research, I am eager to apply my analytical rigor and collaborative skills to modern front-end engineering. I am especially motivated to learn React, TypeScript, modern testing practices, Node.js tooling and functional libraries such as Ramda so I can contribute code that is reliable, secure and testable.
+
+I welcome the opportunity to discuss how my leadership, problem-solving and foundational technical skills would support your engineering goals and cross-team initiatives. Thank you sincerely.
+
+Sincerely, Alexis

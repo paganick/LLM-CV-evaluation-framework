@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses some of the required skills, like Javascript, HTML, and CSS, and mentions API experience. However, they lack specific experience with modern FE frameworks like React as stated in the job description, and there's no mention of testing frameworks or CI/CD tools. While they claim to be comfortable in an Agile environment, the technical fit is not strong enough.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is an IT Project Manager and Director whose experience is centered on infrastructure, budgeting, and leadership rather than software engineering. The resume provides no evidence of professional experience with JavaScript, React, TypeScript, or any modern frontend development tools specified in the job description. Despite an interest in transitioning roles, the lack of technical coding skills makes the candidate unqualified for this specific developer position.

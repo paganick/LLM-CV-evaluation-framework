@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end experience with React, JavaScript, HTML/CSS, testing experience, and familiarity with Agile and Git, but does not mention TypeScript, modern JS testing tools (Jest/Cypress/TestCafe), or the Node/npm ecosystem. They also omit modern CSS toolchains (Styled Components/SASS), web security fundamentals (OWASP/CSP/CORS/OAuth), CI/CD and cloud/infra familiarity, and functional/Tooling specifics (Ramda, CircleCI), so they fall short of several key requirements.

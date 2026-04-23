@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills in HTML, CSS, and basic JavaScript, but lacks sufficient hands-on experience with key technologies such as React, modern CSS tools, and testing frameworks. While the candidate shows commitment to learning and a passion for web development, they do not meet several critical requirements outlined in the job description, placing them at a moderate level of qualification.

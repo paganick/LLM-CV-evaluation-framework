@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong Java background but lacks explicit hands-on experience with React, TypeScript, and modern FE testing frameworks as prioritized in the job description. While the candidate expresses interest in these technologies, the cover letter leans heavily on their Java/J2EE experience and mentions a commitment to *evolving* their skillset. There is a need for someone with more immediate proficiency in the specific technologies required.

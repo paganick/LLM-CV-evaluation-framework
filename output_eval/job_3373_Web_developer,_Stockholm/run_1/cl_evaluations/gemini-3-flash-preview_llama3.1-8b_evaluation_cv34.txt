@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates foundational knowledge in React, testing, and web security, but fails to mention proficiency in TypeScript, which is a primary technical requirement. Their experience is heavily concentrated in CRM-specific implementations (Salesforce and Adobe) rather than the broader software development and modern front-end ecosystem requested. Furthermore, the application lacks evidence of experience with mandatory tools such as Node.js, CI/CD pipelines, and functional programming.

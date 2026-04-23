@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has 2 years of web development experience with JavaScript, HTML/CSS, GitHub, and Agile experience, but their background is strongly .NET-focused and uses jQuery/Bootstrap rather than modern frontend frameworks. They have no demonstrated experience with React or TypeScript, modern testing frameworks (Jest/Cypress/TestCafe), Node/npm/Express, CSS-in-JS/SASS, or cloud/CI tools required by the role. Given these substantial gaps against the job's core technical requirements, they are not a suitable match without significant upskilling.

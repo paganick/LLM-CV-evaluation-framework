@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter focuses heavily on backend and database experience, which is not the primary focus of a front-end role. While the candidate expresses interest in React and front-end technologies, the letter lacks concrete examples of relevant front-end skills and experience. The candidate acknowledges a stronger background in server-side systems, indicating a skill gap for this specific front-end position.

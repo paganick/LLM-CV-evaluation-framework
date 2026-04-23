@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter heavily emphasize customer service, sales, and management experience, lacking any demonstrable skills or projects related to frontend development technologies like JavaScript, React, or testing frameworks. The cover letter admits a complete lack of experience with the required technologies. The candidate's skill set does not align with the job description's technical requirements.

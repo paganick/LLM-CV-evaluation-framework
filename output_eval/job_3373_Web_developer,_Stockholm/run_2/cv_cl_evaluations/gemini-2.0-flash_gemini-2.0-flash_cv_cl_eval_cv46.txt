@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with the required technologies like Javascript, HTML, CSS and React. However, the resume focuses heavily on older technologies (EJB, Java) and database administration, and lacks concrete examples of modern front-end development experience. While the cover letter mentions relevant skills, the resume doesn't provide sufficient evidence to support these claims.

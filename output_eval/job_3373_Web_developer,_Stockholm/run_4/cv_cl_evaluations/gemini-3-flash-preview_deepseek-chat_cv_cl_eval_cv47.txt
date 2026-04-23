@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for a modern front-end development role, as their professional background is entirely in business development and organic chemistry. Their technical skills listed on the resume are severely outdated, and they lack any documented professional experience with the required stack, including React, TypeScript, or automated testing frameworks. While the cover letter mentions a transition to coding, the resume provides no evidence of software engineering competency or relevant industry experience.

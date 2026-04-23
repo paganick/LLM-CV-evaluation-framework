@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in Java and related technologies but lacks direct experience with the required front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. They also do not demonstrate experience with testing frameworks specific to JavaScript or web security principles outlined in the job description. Overall, their skills are relevant, but they do not meet key requirements for the position.

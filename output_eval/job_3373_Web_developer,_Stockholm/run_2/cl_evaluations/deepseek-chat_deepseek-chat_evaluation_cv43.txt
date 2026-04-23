@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical requirements, explicitly mentioning proficiency in JavaScript, TypeScript, React, testing (Jest), Git, security (OWASP, CORS), and modern CSS tools. Their non-traditional background is framed as a strength, highlighting systems thinking and project management. The score is not a 9-10 because, while they claim proficiency, the cover letter cannot verify the depth of hands-on, professional development experience versus self-study and project work.

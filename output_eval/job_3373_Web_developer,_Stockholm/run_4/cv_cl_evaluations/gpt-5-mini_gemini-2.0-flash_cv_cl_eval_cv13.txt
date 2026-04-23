@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web experience (JavaScript, HTML/CSS, Angular/jQuery) and strong project management/Agile background, but lacks hands-on experience in the employer's required stack—notably React (primary), TypeScript, frontend testing frameworks, Git/repo workflows, Node/npm tooling, modern CSS tooling, CI/CD, and basic web security practices. Their resume indicates more of a technical project manager/analyst profile rather than a current, production-level modern front-end engineer, so they are not a strong technical fit for this role.

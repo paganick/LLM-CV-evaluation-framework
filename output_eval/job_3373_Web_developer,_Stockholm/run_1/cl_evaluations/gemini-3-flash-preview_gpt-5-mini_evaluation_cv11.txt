@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional attempting to pivot into a front-end development role but lacks the required commercial experience with React, TypeScript, and modern CSS. While they possess strong automation testing skills, they explicitly admit to needing to learn the core technologies demanded by the job description. Furthermore, there is no mention of essential requirements such as Git, web security protocols, or the specific testing frameworks listed.

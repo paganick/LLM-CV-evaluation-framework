@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer who lacks professional experience in the required technical stack, specifically regarding React, TypeScript, and automated testing. While they possess relevant soft skills and a background in management information systems, they only demonstrate a foundational understanding of the core tools rather than the hands-on expertise demanded. Key requirements such as web security knowledge, CI/CD, and functional programming are either missing or listed as areas of current study.

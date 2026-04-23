@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development with some overlap in required technologies like JavaScript, HTML, and CSS, but the experience is primarily in .NET, not the modern FE frameworks like React that the job emphasizes. The cover letter mentions an interest in learning React, but lacks concrete experience. There is also no mention of Typescript and limited experience with testing frameworks mentioned.

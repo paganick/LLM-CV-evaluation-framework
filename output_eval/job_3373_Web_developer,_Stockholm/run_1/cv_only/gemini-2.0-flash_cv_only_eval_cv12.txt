@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some of the required skills such as Javascript, CSS, HTML and Git. However, the resume lacks any mention of modern FE frameworks and libraries like React, VueJS, Angular and Svelte. The candidate also lacks experience with testing frameworks and CI/CD tools mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong background in microbiology and molecular genetics, they lack direct experience with the required programming languages (JavaScript, TypeScript, HTML, CSS) and modern front-end frameworks, particularly React. Their adaptability and training experience are noteworthy, but the significant gap in technical skills essential for this role prevents them from being a strong fit.

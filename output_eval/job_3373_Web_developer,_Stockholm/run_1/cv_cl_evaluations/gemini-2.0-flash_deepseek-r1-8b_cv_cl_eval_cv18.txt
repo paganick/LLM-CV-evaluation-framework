@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a broad IT background with some exposure to web development technologies like JavaScript, HTML, and CSS. However, they lack explicit experience with modern front-end frameworks (React, VueJS, Angular, Svelte) and testing frameworks mentioned in the job description. While they mention Agile and collaboration, the depth of relevant experience is unclear, leaning more toward general IT consulting.

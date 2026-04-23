@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical competencies required for this role, including professional experience with JavaScript, TypeScript, and React. Their decade of experience is in digital communications and content management rather than software engineering, leaving a significant gap in testing, web security, and backend familiarity. While they possess foundational knowledge of HTML/CSS, they do not meet the standards for a modern front-end developer position.

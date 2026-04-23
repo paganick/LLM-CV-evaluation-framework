@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and familiarity with JavaScript, HTML, and CSS, which aligns with the job description. However, they lack specific and modern frontend framework experience beyond React, and there is no mention of practical experience with testing automation or CI/CD tools, which are critical for the role.

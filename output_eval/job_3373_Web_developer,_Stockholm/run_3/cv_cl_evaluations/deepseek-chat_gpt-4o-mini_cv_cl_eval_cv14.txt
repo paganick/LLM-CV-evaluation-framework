@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in ASP.NET and C# backend development, not the modern JavaScript/TypeScript and React-focused stack required. While they mention some relevant skills like Git, HTML, CSS, and basic security, they lack demonstrable, hands-on professional experience with React, TypeScript, modern testing frameworks, and the specific toolchain listed. Their background is in a different tech ecosystem, making them a weak fit for this specific front-end role.

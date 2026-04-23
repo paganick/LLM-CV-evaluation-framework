@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is an entry-level applicant transitioning from a 15-year career in construction and lacks any professional experience in modern web development. They do not possess the required proficiency in React, TypeScript, Git, or modern testing frameworks, and their academic background is outdated, featuring deprecated technologies like Flash and ActionScript. Consequently, they fail to meet the technical and seniority requirements established in the job description.

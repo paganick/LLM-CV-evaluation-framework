@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in software testing and understands front-end technologies like JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks, particularly React, which is a key requirement in the job description. Additionally, their familiarity with CI/CD tools and security principles is basic, indicating they would need more training or experience to fully meet the role's demands.

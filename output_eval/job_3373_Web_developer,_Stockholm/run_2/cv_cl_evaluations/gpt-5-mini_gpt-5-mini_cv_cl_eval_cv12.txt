@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid general web development experience (JavaScript, HTML, CSS/SASS), Git use, backend and automation experience, and a pragmatic approach to shipping production systems. However, there is no demonstrated hands-on experience with React or TypeScript, nor evidence of modern front-end tooling and testing frameworks (Jest/Cypress/TestCafe), linters/formatters, CI/CD, or cloud/infra (AWS/Terraform) required by the role. They may be trainable, but currently lack several key, role-essential skills.

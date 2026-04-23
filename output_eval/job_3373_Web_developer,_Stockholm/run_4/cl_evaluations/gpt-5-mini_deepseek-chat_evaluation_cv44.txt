@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant front-end fundamentals, strong design/UX experience, and claims proactive learning in JavaScript and React, plus an Agile mindset. However, the letter lacks concrete, hands-on evidence for critical job requirements such as TypeScript, test automation (unit/integration/E2E), Git/GitHub workflows, Node.js ecosystem experience, CI/CD, and practical security/DevOps exposure. Given the gap between stated interests and demonstrated experience, they are a relevant but not fully qualified fit for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in program management and educational design but lacks the necessary experience in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. While they demonstrate a willingness to learn, their technical skills do not align with the core requirements of the role, particularly regarding testing frameworks and Git experience. Overall, they fit within the relevant industry but do not meet the specific competence expected for this position.

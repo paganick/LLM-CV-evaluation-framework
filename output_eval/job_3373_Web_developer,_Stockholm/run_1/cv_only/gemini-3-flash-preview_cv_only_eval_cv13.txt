@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Project Manager whose recent experience focuses on leadership and digital marketing rather than hands-on senior software engineering. They lack the required professional expertise in React, TypeScript, and modern testing automation (Jest/Cypress), and their front-end development experience is largely dated or secondary to their management duties. Furthermore, there is no evidence of proficiency in CI/CD, AWS, or the functional programming paradigms specified in the requirements.

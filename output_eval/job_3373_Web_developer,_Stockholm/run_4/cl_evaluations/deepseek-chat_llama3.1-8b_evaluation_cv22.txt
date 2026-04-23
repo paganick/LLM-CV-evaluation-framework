@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical skills (JavaScript, TypeScript, React, testing tools) that align with the job description. However, the cover letter is unfocused, heavily emphasizes backend/database experience (SQL, SAP, Java) not requested, and fails to explicitly address several key requirements like Agile, security basics, AWS, or clean code passion. The application feels like a generic template rather than a tailored match for this specific frontend-focused role.

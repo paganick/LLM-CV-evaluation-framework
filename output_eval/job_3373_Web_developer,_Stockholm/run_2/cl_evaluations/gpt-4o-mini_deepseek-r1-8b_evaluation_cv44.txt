@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in design and user experience, but lacks specific experience with key technical requirements such as JavaScript frameworks (React, VueJS, etc.), testing frameworks, and CI/CD tools mentioned in the job description. While they have relevant skills and a willingness to learn, they do not fully meet all of the essential criteria for the role.

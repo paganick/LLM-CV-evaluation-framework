@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong analytics and technical background with some HTML/ASP.NET experience and demonstrates an ability to learn, but provides no demonstrated hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, frontend testing frameworks, Node/npm, or CI/CD and cloud tooling required for this role. They express intent to transition and learn required technologies, but the role requires immediate, production-ready frontend expertise which the resume and cover letter do not evidence.

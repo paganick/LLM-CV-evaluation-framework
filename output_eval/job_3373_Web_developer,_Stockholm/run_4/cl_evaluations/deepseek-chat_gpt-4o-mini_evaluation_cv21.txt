@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in frontend development, testing, Agile collaboration, and many specific tools mentioned (Styled Components, SASS, Jest, Git). However, they do not explicitly mention the key framework (React) or address the required basic web security knowledge. The experience with AngularJS is outdated, and while they show breadth, the direct match to the job's primary tech stack is not perfect.

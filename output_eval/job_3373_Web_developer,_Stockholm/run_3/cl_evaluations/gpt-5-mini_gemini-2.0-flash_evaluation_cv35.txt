@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant HTML/CSS/JavaScript experience, API/testing background, and strong collaboration/Agile skills which indicate potential for a front-end role. However, they lack demonstrated hands-on experience with React and TypeScript, modern CSS toolchains (Styled Components/SASS), JS testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, Git/GitHub, and basic web security/CI/CD/AWS knowledge required by the role. Given these significant gaps, they are not yet a strong match but could transition with focused training.

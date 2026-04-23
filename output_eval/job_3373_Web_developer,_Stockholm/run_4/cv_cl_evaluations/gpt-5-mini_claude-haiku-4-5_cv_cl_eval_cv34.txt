@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates basic HTML/CSS knowledge and strong client-facing implementation and documentation skills, but has no demonstrated experience with core frontend requirements such as JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), Git/Node tooling, or web security/DevOps practices. They express willingness to learn, but currently lack the technical depth and hands-on experience required for this role. This makes them relevant to the industry but under-qualified for the position's expectations.

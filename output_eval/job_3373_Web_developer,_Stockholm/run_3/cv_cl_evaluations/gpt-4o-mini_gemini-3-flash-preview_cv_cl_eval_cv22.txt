@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some foundational knowledge in HTML, CSS, and JavaScript, but lacks specific experience with modern frontend frameworks like React and testing automation tools, which are critical for the position. Additionally, their background is predominantly in media and consulting, indicating a lack of direct industry experience in software development. While they express a keen interest in transitioning into a technical role, they do not sufficiently meet the skill requirements outlined in the job description.

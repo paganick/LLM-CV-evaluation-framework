@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume documents a career in marketing, communications, and legal support with no demonstrable experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git, or the Node/AWS ecosystem required for this role. The cover letter explicitly admits lack of proficiency in core front-end technologies and states the candidate is still learning them, confirming they are not qualified for the position. This is a clear mismatch with the technical and experiential requirements of the job.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in business development and sales within the cloud software industry but lacks any hands-on experience or skills relevant to the job description, such as proficiency in JavaScript, TypeScript, or modern front-end frameworks like React. Their resume does not mention any experience with testing frameworks, Git, or web security principles, indicating a complete mismatch for the technical requirements of the position.

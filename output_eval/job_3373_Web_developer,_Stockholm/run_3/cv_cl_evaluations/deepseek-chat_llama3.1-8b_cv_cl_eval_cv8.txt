@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in hardware and electronics test engineering, which is a completely different industry from modern web front-end development. The resume and cover letter show no demonstrable, professional experience with the core technologies listed in the job description, such as React, TypeScript, or modern web testing frameworks. The claims of expertise in the cover letter regarding web technologies are not substantiated by the professional experience detailed in the resume.

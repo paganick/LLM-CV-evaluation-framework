@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some experience in web development, including JavaScript, HTML, and CSS. However, they lack direct experience with modern FE frameworks like React (the primary framework used by the company) and have a background primarily in .NET development. While they express eagerness to learn, their current skillset doesn't fully align with the job description's requirements.

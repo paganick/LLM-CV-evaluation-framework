@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role as their entire professional background is in civil engineering and construction management rather than software development. They do not possess any of the mandatory technical skills required, such as React, TypeScript, or automated testing, and lack professional experience in the tech industry. This is a total industry mismatch, making the candidate unsuitable for a front-end engineering position.

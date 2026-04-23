@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in Java and web services, with experience in RESTful API design and a passion for clean code and test-driven development. However, they lack specific experience with front-end frameworks like React, TypeScript, and modern CSS tools, which are essential to the role. While they demonstrate a willingness to learn and adapt, there are gaps in the required front-end skills that prevent a higher score.

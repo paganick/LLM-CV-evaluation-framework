@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's cover letter focuses heavily on design skills and Adobe Creative Suite, which are not primary requirements in the provided job description. While they mention a Computer Science degree, their technical skills are framed as potential future learning (React, TypeScript), rather than demonstrated experience. The letter lacks explicit mention of the required JavaScript, HTML, CSS, or testing frameworks.

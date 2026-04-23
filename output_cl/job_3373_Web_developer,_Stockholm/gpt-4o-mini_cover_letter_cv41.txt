@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position at your company, where I can leverage my solid background in systems engineering and application services to contribute effectively to your team. My experience in technology and my proactive approach to problem-solving align well with the requirements you've outlined.
+
+With a robust foundation in JavaScript, HTML, and CSS, I have gained hands-on experience with front-end frameworks such as React, which I understand is your primary technology. My background includes a commitment to writing clean, efficient code, supported by industry best practices in testing and test automation using frameworks like Jest and Cypress. I am also well-versed in using Git and GitHub for version control, ensuring excellent collaboration with team members in agile environments.
+
+Having worked in roles that demanded strong collaboration and independent problem-solving skills, I thrive on engaging with cross-functional teams and external partners. My ability to translate complex system requirements into user-friendly applications has been honed through responsibilities that included conducting system health analyses and providing technical support for various platforms. I truly enjoy the challenge of learning new technologies and understanding multiple domains, allowing me to adapt quickly within fast-paced environments.
+
+Additionally, I have a foundational understanding of web security practices, including OWASP principles and common vulnerabilities like CORS and OAuth. My familiarity with modern CSS tools such as SASS, coupled with my exposure to the NodeJS ecosystem, positions me to contribute to your team's mission effectively.
+
+I am eager to bring my technical expertise and collaborative spirit to your organization, fostering a development culture that prioritizes code quality and user experience. Thank you for considering my application. I look forward to the opportunity to discuss how I can help your team achieve its goals.
+
+Sincerely,  
+Alexis

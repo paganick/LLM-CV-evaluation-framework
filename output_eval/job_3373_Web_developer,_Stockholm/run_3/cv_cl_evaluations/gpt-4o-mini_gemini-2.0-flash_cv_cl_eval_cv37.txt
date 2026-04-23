@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in IT and project management but lacks specific front-end development skills and recent experience with JavaScript frameworks like React, which is essential for the role. Additionally, familiarity with testing frameworks and CI/CD tools is not evident in the resume or cover letter, indicating a gap in the required technical competencies for the position.

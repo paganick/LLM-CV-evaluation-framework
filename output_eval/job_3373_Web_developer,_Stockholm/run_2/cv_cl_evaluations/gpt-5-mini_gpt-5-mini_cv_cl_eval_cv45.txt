@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong IT, INFOSEC, and program-management experience with Agile exposure and familiarity with testing processes, which are relevant to the role. However, there is no demonstrable hands-on experience with core front-end technologies (JavaScript/TypeScript, React), modern CSS tooling, Node ecosystem, or front-end testing frameworks required by the job. The cover letter's willingness to learn does not substitute for the immediate, practical engineering skills the position requires, so they are not a strong technical fit.

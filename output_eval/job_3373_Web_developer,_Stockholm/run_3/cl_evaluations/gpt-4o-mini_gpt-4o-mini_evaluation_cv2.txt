@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and some front-end skills, such as HTML, CSS, and JavaScript. However, they lack familiarity with key modern frameworks specified in the job description, such as React, VueJS, or Angular, and have not demonstrated experience with essential testing frameworks and tools like Jest or Cypress. Overall, while the candidate shows potential, they do not fully meet the specific requirements for the position.

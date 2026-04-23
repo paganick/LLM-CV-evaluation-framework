@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in the wrong technology stack (.NET, C#, SQL) and lacks any mention of the required front-end frameworks, especially React, or the specific modern tools listed. While they demonstrate relevant soft skills and general development principles, the absence of the core technical requirements makes them a poor fit for this specific role. They are in the relevant industry but critically lack the specific skills and experience demanded.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in sales rather than a direct frontend development experience. Although they mention knowledge of HTML and certifications in technology, they do not have the required hands-on experience with JavaScript frameworks such as React, nor do they have details regarding test automation and other specific technologies mentioned in the job description. Their skills are more aligned with sales and management rather than frontend development roles.

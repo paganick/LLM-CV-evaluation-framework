@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern JavaScript stack, specifically React, TypeScript, and testing frameworks like Jest or Cypress. Their work history is primarily focused on Java and database administration, with no evidence of hands-on application of the NodeJS ecosystem or CI/CD tools. Furthermore, the candidate's professional experience appears to have stalled in 2017, leaving them without the current technical expertise necessary for this role.

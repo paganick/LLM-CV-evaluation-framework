@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong technical skills (HTML, JavaScript, SQL) and proven stakeholder collaboration, mentoring and product implementation experience which are somewhat relevant to the role. However, there is no documented commercial UX designer role, no evidence of Figma or formal prototyping/design-system work, and little explicit user research, testing, or Agile UX team experience. Given the mismatch on core UX responsibilities and tools, the candidate is relevant but lacks the specific UX experience required.

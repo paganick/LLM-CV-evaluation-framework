@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development and marketing professional with no documented professional experience in software engineering or frontend development. While they have worked in the cloud software industry, they lack the essential technical skills and hands-on experience with JavaScript, TypeScript, React, and automated testing required for this role. The resume focus is entirely on sales strategy and CRM management rather than coding or technical implementation.

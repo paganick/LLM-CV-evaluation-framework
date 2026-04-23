@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in graphic design, with a more recent interest in front-end development. While they list some relevant skills, the cover letter lacks concrete examples of professional front-end development experience using React. Their experience doesn't match the job description's emphasis on hands-on experience, particularly in modern FE frameworks, testing, and the NodeJS ecosystem.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant background in user experience and design, and possesses foundational skills in HTML and CSS. However, they lack experience with key technologies specified in the job description such as JavaScript, modern frameworks like React, testing frameworks, and familiarity with tools like Git. This gap in specific experience and skills leads to a lower evaluation, despite a strong potential and eagerness to learn.

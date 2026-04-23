@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive background is in product management and leadership, not hands-on frontend development. The resume and cover letter lack any demonstrable, recent experience with the core required technologies (React, TypeScript, modern testing frameworks) or evidence of writing production code. While the candidate shows strategic awareness of development processes, this does not fulfill the technical requirements for a Frontend Engineer role.

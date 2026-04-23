@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant experience with JavaScript and HTML but lacks specific experience with modern FE frameworks like React, which is crucial for the role. While they express willingness to learn, the resume focuses on older technologies and database administration, showing a gap in the required frontend expertise. The cover letter attempts to bridge this gap, but the candidate's background doesn't align strongly with the job description's emphasis on modern frontend tools and practices.

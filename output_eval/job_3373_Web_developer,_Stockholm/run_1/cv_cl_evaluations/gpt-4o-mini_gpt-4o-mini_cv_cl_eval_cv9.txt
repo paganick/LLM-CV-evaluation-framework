@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in IT with 7 years of experience and familiarity with JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frontend frameworks such as React, VueJS, or Angular, which are crucial for the position. Additionally, while they mention testing and some knowledge of security protocols, the overall experience does not fully align with the specific requirements of the job description.

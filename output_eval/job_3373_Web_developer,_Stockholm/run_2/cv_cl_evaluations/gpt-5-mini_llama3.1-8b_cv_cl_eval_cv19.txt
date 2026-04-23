@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume demonstrates a background in graphic design with basic HTML/CSS but lacks any verifiable experience in core requirements such as JavaScript/TypeScript, React, testing frameworks, NodeJS, Git, or web security. The cover letter asserts familiarity with many frontend and backend tools, but those claims are not supported by the resume or concrete examples of relevant projects. Given the significant gap between the job's technical requirements and the candidate's documented experience, they are not a viable match for this role.

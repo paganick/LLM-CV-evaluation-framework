@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience or demonstrated proficiency in the required technical stack, including JavaScript, TypeScript, and React. Their background is centered in business banking and operations rather than software engineering, and they explicitly state a need to begin learning the core technologies listed as mandatory requirements. This profile represents a career transitioner who does not meet the minimum technical qualifications for a front-end engineering position.

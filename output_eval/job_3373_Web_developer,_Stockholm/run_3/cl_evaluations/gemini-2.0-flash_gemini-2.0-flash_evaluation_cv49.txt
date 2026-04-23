@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is not directly relevant to front-end development, and they admit to a lack of experience with React, the primary framework used by the company. While they express a willingness to learn and possess analytical skills, the cover letter does not showcase sufficient hands-on experience or projects using the required technologies (JavaScript, HTML, CSS). Their experience with data analysis tools and methodologies doesn't directly translate to the front-end skills required.

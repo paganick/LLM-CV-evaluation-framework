@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in finance and operations, they lack direct experience with the required technologies such as JavaScript, TypeScript, and relevant front-end frameworks like React. The knowledge of testing, CI/CD tools, and security practices is also not mentioned. Thus, they are relevant to the industry but do not meet the specific technical skill requirements.

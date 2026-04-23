@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has strong customer service and management experience but demonstrates no hands-on front-end engineering skills (JavaScript/TypeScript, React, modern CSS, testing frameworks, Git/CI, Node) required for this role. Their cover letter admits they are not traditionally technical and expresses willingness to learn, but that does not substitute for the core technical experience needed to contribute immediately. Given the substantial gap in required technical competencies, they are not a suitable match for this position.

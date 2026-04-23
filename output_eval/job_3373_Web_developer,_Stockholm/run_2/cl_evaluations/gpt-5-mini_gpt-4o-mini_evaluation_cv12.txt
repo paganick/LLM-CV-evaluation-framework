@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid, relevant experience with JavaScript, React, testing (Jest/TestCafe), Git, web security principles, Node/npm/Express, CSS tooling (SASS) and cloud concepts—covering many core requirements. However, they do not explicitly state TypeScript experience, linters/formatters (ESLint/Prettier), functional tooling (Ramda), or CI/CD and API design experience, which are called out in the job description. Given the strong overlap on fundamentals but missing several specific items, this is a good match but not a perfect one.

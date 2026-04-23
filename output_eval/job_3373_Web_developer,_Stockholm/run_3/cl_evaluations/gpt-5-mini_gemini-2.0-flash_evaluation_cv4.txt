@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end fundamentals (5 years with JavaScript, HTML, CSS), API integration experience, testing exposure, and Agile collaboration, but fails to cite critical required technologies such as React (the team's primary framework), TypeScript, modern CSS tooling (Styled Components/SASS), Node/npm/Express, Git/GitHub specifics, common JS testing frameworks (Jest/Cypress), CI/CD, and basic web security/AWS knowledge. Given the gap on multiple explicit job requirements, they are a relevant but incomplete match for the role.

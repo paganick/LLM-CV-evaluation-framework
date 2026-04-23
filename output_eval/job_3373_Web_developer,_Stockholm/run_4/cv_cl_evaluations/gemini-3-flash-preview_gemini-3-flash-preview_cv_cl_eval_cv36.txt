@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's entire professional work history and education are centered in microbiology and laboratory consulting, representing a complete mismatch for a software engineering role. While the cover letter mentions a transition to web development, the resume contains no evidence of professional experience, technical projects, or formal training in JavaScript, React, or the associated tech stack. This candidate is currently unqualified for a professional frontend position based on the provided documentation.

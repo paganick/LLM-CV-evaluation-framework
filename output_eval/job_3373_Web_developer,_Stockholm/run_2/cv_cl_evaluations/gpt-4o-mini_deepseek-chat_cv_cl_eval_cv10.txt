@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end technologies, particularly with AngularJS, HTML, and CSS, but lacks specific experience with React, which is the primary framework used by the company. While they have testing experience and a solid educational background, they do not demonstrate familiarity with modern CSS tools, CI/CD frameworks, or functional programming in a practical context, which are crucial to the role.

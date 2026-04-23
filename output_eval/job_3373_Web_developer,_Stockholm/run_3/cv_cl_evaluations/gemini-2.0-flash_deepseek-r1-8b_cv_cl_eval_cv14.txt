@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET and C#, which doesn't align with the JavaScript-focused requirements. While the cover letter expresses interest in modern JavaScript frameworks, there's no demonstrable experience. The resume lacks the specific skills mentioned in the job description, such as React, TypeScript, or modern CSS tools.

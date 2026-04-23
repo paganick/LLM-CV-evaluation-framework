@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design, which is somewhat relevant to frontend development, particularly in terms of visual design and user experience. However, they lack significant experience and skills in key technical areas such as JavaScript, TypeScript, modern frontend frameworks like React, and testing automation, all of which are critical for the role. Their enthusiasm for transitioning is noted, but the lack of specific experience with required technologies limits their suitability for the position.

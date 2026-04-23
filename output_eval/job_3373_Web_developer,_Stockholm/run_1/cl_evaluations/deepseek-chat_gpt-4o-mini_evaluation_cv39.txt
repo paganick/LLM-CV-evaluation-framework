@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive design background is relevant but insufficient for the core technical requirements. They lack demonstrable experience with modern JavaScript frameworks (especially React), TypeScript, and the required testing/automation skills. While they show a willingness to learn, their current technical proficiency is a significant mismatch for the specific front-end developer role as described.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end developer position that requires expertise in JavaScript, TypeScript, HTML, and CSS, as well as experience with modern frameworks such as React. With a Bachelor’s degree in Computer Science and over five years of professional experience in user experience and interface design, I have cultivated a strong foundation in the essential skills needed for this role.
+
+My background includes hands-on experience with HTML and CSS, complemented by proficiency in wireframing and mockup tools such as Adobe Dreamweaver and Axure RP. I am well-versed in collaborating with cross-functional teams and understand the importance of Agile methodologies in delivering high-quality projects. My role as a User Experience and User Interaction Designer involved working closely with teams to develop user-centric solutions, ensuring that the end products met business objectives effectively.
+
+I have a genuine passion for writing clean code and am committed to continuous learning to stay updated on the latest technologies. My experience in utilizing testing frameworks—while currently not fully aligned with E2E tests—has instilled an understanding of the importance of quality assurance through testing and automation processes. Additionally, my exposure to content organization and API design aligns with your requirements for a well-rounded perspective of the development process.
+
+While my primary focus has been on design and UX, I have actively managed projects that required integrating security principles such as OWASP and CORS. My collaborative nature has led me to successfully interact with various teams, addressing design-related challenges with imaginative and pragmatic solutions.
+
+I am enthusiastic about the opportunity to contribute to your team while leveraging my design skills, coding proficiency, and commitment to collaboration to develop robust front-end solutions.
+
+Thank you for considering my application. 
+
+Sincerely,  
+Alexis

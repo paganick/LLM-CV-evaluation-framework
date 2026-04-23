@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter emphasizes design skills and software proficiency that are not primary requirements for the role. While it mentions a Computer Science degree and willingness to learn, there is a lack of demonstrable experience in the specific technologies listed (JavaScript, React, testing frameworks). The candidate's current and previous roles are not directly related to front-end development.

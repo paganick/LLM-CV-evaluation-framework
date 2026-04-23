@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end and Agile experience but critically lacks direct experience with the specified modern frameworks like React, TypeScript, and the required testing tools. While they demonstrate strong foundational skills in the .NET ecosystem and a willingness to learn, the job description demands proven, hands-on experience with a specific modern tech stack which this cover letter does not substantiate. The mention of legacy refactoring and Git is positive, but does not offset the core skill gap.

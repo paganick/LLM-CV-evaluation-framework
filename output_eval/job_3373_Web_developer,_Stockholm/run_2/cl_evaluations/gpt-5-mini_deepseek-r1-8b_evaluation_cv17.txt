@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in construction and project management with no mention of JavaScript/TypeScript, HTML/CSS, modern frontend frameworks (React), testing/tooling, NodeJS, or cloud/infra experience required by the role. While they note Agile and cross-team collaboration strengths, those soft skills do not compensate for the complete lack of required technical competencies. Based on the job requirements, the candidate is not qualified for this technical frontend position.

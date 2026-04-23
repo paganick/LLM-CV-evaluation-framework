@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Front-End Developer position. With over seven years of experience in software development and a strong foundation in JavaScript, TypeScript, HTML, and CSS, I am confident I possess the skills and passion to excel in this role and contribute significantly to your team.
+
+My background includes extensive experience with modern front-end frameworks, and while I understand your team utilizes React, I am also familiar with VueJS and Angular, demonstrating my adaptability and commitment to staying current with industry best practices. I have hands-on experience with testing and test automation, including unit, integration, and E2E tests, ensuring the delivery of high-quality, reliable code.
+
+In my previous role as a Full Stack Engineer at LogonTutor LLC, I designed and implemented an e-commerce website using PHP, demonstrating my ability to work with various technologies and deliver comprehensive solutions. I also automated system administration tasks using Bash scripts, showcasing my proficiency in scripting and automation. Furthermore, my experience as a Project Manager at Seeketh.org honed my collaboration and leadership skills, making me comfortable working in an Agile environment.
+
+My skills also include familiarity with Git, API design, and database technologies such as MySQL, PostgreSQL, and NoSQL. My passion for writing clean code, combined with my experience in software testing and troubleshooting, makes me a strong candidate to contribute to your team's success.
+
+I am eager to learn more about this opportunity and discuss how my skills and experience can benefit your organization.
+
+Sincerely,
+Alexis

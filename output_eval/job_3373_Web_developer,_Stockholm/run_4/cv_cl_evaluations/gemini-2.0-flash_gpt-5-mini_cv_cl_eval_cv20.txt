@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in .NET development with some front-end experience (JavaScript, HTML, CSS), but lacks specific experience with modern FE frameworks like React, which is a core requirement. While they express interest in learning, the resume leans heavily towards backend technologies and older frameworks. The cover letter shows a willingness to learn new technologies but doesn't compensate for the lack of direct experience with the technologies mentioned in the job description.

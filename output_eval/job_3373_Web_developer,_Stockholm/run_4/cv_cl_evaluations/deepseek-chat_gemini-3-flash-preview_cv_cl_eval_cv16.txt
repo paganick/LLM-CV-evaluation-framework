@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in the .NET/C# stack with limited modern front-end framework exposure, which is a core requirement. While they demonstrate relevant industry experience in web development and Agile, they lack hands-on experience with React, TypeScript, and the specific testing/CI/CD tools listed. Their foundational skills in JavaScript, HTML, CSS, and Git are present, but the specific technical stack misalignment is significant.

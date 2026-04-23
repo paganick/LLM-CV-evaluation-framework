@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's analytical and quality assurance background is relevant but lacks direct, hands-on experience with the core technical stack required for front-end engineering. They explicitly state they need to learn React, modern testing frameworks, and key technologies listed in the job description. While their soft skills and process mindset are strong, the absence of proven, practical experience in the specified programming languages, frameworks, and tools makes them unqualified for the role as advertised.

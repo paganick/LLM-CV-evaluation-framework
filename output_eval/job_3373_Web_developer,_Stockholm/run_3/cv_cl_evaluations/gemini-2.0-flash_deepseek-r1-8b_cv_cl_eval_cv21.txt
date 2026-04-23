@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but lacks experience with modern FE frameworks mentioned in the job description (React, VueJS, Angular, Svelte). They mention AngularJS which is outdated, and no experience with testing frameworks, NodeJS, or cloud platforms is listed. While collaborative and passionate, the technical fit is weak.

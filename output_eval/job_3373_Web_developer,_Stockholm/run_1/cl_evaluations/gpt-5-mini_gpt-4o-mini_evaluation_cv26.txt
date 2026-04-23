@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable skills (communication, project management, Agile collaboration) and a clear commitment to learning, but explicitly lacks hands-on experience with the core technical requirements (JavaScript/TypeScript, HTML/CSS, React) and the specific tooling listed (testing frameworks, Git/npm/Node, modern CSS tools, CI/CD, AWS). This is a relevant-industry applicant who currently does not meet the practical, demonstrable front-end engineering qualifications the role requires.

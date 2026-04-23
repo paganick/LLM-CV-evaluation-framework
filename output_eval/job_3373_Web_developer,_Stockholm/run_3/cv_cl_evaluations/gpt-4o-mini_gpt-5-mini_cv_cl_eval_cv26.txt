@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a marketing and communications background, which is far removed from the technical requirements of the Front-End Engineer position. While they possess strong organizational and communication skills, they lack direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and essential tools such as Git and testing frameworks. Their understanding of web security principles is noted, but without relevant technical experience, they do not meet the necessary criteria for this role.

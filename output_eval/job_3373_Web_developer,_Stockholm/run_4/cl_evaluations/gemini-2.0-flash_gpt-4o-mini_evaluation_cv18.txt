@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with key technologies like React, JavaScript, HTML, and CSS, and mentions experience with testing frameworks and Git. They also highlight their collaboration skills and commitment to clean code. While they mention some relevant tools, they lack specific experience with TypeScript and functional programming, which are listed in the job description.

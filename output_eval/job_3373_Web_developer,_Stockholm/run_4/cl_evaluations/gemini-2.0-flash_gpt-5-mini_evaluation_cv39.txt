@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive design experience but lacks demonstrable experience in modern front-end technologies like React, TypeScript, and testing frameworks mentioned in the job description. While they express a willingness to learn, the lack of practical experience in the core requirements is a significant drawback. Their experience is design-focused, not engineering-focused.

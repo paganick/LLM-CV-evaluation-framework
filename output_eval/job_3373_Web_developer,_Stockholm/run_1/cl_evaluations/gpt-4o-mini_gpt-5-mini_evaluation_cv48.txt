@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has significant experience in IT support and management, which aligns with some industry skills; however, they lack direct experience or specific skills in front-end development with the technologies listed in the job description, such as React, TypeScript, and testing frameworks. Their familiarity with web content management systems is not enough to bridge the gap to the requirements stated.

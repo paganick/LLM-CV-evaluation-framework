@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary technologies required, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. Their background is heavily focused on Drupal development and PHP, which does not meet the strict requirements for a modern frontend role utilizing React and functional programming.

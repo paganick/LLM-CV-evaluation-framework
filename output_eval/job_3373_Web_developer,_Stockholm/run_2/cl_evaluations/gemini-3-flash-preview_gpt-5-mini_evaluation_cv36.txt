@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all required technical proficiencies, including JavaScript, TypeScript, React, and modern CSS tools, explicitly stating they are "eager to learn" these core technologies. While they have extensive experience in laboratory validation and quality control, this is the wrong industry, and they do not demonstrate any hands-on experience with software development or modern testing frameworks. Consequently, the candidate is fundamentally unqualified for a professional engineering role at this stage of their transition.

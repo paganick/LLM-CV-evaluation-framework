@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in business development, not hands-on front-end development, which is a significant mismatch for the core technical role. While they express interest and mention some relevant technologies (React, Git), they lack demonstrable, professional experience with the specific technical stack, testing frameworks, and modern tools listed in the job description. Their strategic and collaborative skills are relevant to the secondary requirements, but the primary technical qualifications are not met.

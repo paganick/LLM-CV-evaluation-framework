@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a broad IT background and basic HTML/CSS/JavaScript knowledge, but their resume lacks concrete, recent hands-on experience with React, TypeScript, modern JS tooling, test automation, Node ecosystem, CI/CD, and cloud technologies required by the role. Many claimed competencies appear in the cover letter but are not substantiated by dates, projects, or professional experience on the resume. Overall relevant industry experience is present but it does not meet the specific front-end engineering requirements for this position.

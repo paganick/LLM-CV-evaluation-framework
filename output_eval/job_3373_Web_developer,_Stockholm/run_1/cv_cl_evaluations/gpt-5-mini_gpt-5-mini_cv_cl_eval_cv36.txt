@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is entirely in microbiology, validation, and training with no demonstrated hands-on experience in JavaScript, TypeScript, React, modern front-end frameworks, front-end testing frameworks, Git, NodeJS, or CI/CD. Although they describe strong transferable skills (testing discipline, documentation, cross-functional collaboration), they do not meet the core technical requirements of the role. Significant retraining and demonstrable front-end work would be required before being considered for this position.

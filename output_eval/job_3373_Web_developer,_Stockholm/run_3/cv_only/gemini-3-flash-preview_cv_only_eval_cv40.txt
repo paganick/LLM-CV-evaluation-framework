@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a high-level Product Management executive whose career focus is on business strategy, marketing, and leadership rather than hands-on software engineering. They lack the required technical proficiency in JavaScript, TypeScript, React, and the modern development ecosystem specified in the job description. There is no evidence of recent coding experience, testing automation skills, or cloud infrastructure knowledge necessary for this role.

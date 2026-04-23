@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not software engineering, and they lack nearly all technical requirements. They mention only basic HTML/CSS and no experience with JavaScript, TypeScript, React, testing, Git, security, or any other modern front-end tooling from the job description. While they have transferable soft skills, their technical profile is for a completely different role and industry.

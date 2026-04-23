@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position detailed in your job description. With eight and a half years of experience as a Technical Designer at Tata Consultancy Services, I have developed a robust skill set encompassing software development, system design, and Agile collaboration. While my background is primarily in Java/J2EE technologies, I am highly adaptable and possess a proven ability to learn and excel in new technical domains.
+
+The job description's requirements for JavaScript, TypeScript, HTML, CSS, and modern frontend frameworks like React align well with my transferable skills and eagerness to expand my expertise. My extensive experience with Git and repo hosting services like GitHub ensures I am proficient in collaborative software development practices. Furthermore, I am familiar with testing frameworks, linters, and formatters, reflecting a genuine passion for writing clean, maintainable code.
+
+My experience working within Agile environments and collaborating with cross-functional teams directly addresses the collaborative and communication aspects required. I am genuinely interested in staying current with the latest technologies and understanding broader domains to effectively contribute to complex projects.
+
+I am confident that my technical foundation, combined with my proactive learning attitude and collaborative spirit, makes me a strong candidate for this role. I am excited by the prospect of contributing to your team and am eager to leverage my skills in testing, Git, and Agile methodologies within this context.
+
+Sincerely,
+Alexis

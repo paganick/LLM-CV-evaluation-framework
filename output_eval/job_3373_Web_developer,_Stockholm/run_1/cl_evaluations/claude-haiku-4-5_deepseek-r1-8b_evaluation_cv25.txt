@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is entirely in graphic design and visual branding, which is a fundamentally different discipline from front-end software engineering. While the cover letter mentions familiarity with HTML, CSS, and some testing concepts, there is no evidence of JavaScript, TypeScript, React, or any modern front-end framework experience—all core requirements for this role. The candidate demonstrates a critical misalignment between their professional expertise and the technical demands of a senior front-end developer position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Graphic Designer with no professional experience in software engineering or modern frontend development. While the cover letter claims proficiency in React, TypeScript, and testing frameworks, the resume lacks any evidence of these skills being applied in a professional capacity and shows an employment gap since 2015. The candidate does not meet the minimum technical requirements for hands-on experience in the specified tech stack.

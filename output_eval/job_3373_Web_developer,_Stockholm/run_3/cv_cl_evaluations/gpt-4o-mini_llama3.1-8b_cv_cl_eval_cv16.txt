@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development but lacks specific expertise in modern frameworks such as React, which is a requirement for the position. While they have a solid foundation in JavaScript and CSS, their familiarity with key technologies like SASS, Jest, and CI/CD processes is not clearly demonstrated. Overall, they are a relevant candidate but do not fully meet the job description's specific criteria.

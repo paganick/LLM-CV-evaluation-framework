@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project management and IT leadership with only high-level familiarity with APIs, CI/CD and testing through vendor interactions. They do not demonstrate hands-on experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, the Node ecosystem, or AWS/Terraform required for this frontend engineering role. While strong in collaboration and process improvement, they lack the specific technical and coding experience necessary to be a strong match.

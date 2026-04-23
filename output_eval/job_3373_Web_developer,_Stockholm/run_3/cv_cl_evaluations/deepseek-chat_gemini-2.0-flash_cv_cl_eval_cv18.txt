@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is in broad IT consulting and systems administration, not modern front-end development. The resume and cover letter lack specific, hands-on evidence of required skills like React, TypeScript, modern testing frameworks, Git, and Agile collaboration. While they mention web development, the technologies listed (e.g., PHP, C++, Visual Basic) are outdated and not aligned with the job's core requirements.

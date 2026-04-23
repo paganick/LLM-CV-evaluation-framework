@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the specific technical requirements for the role, including React, TypeScript, and modern testing frameworks like Jest or Cypress. Their educational background and projects focus on largely obsolete technologies such as Flash, ActionScript, and Java Applets, which do not align with a modern front-end stack. Additionally, the candidate has no professional experience in software development, making them unqualified for this mid-level to senior-level position.

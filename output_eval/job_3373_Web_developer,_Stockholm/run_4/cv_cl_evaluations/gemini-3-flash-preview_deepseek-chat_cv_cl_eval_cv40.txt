@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience in the relevant digital media industry, their professional history is entirely comprised of high-level product management and leadership roles rather than software engineering. The resume provides no evidence of professional, hands-on experience with the required technical stack, including React, TypeScript, or automated testing frameworks. Despite a relevant academic background and industry context, the candidate lacks the specific practical experience required for a Front-End Developer position.

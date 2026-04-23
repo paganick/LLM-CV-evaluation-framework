@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career switcher transitioning from Marketing Automation and lacks professional experience as a dedicated software engineer. While they mention familiarity with the core tech stack, the application fails to demonstrate hands-on experience with critical requirements such as specific testing frameworks (Jest, Cypress), CI/CD pipelines, security protocols, or the Node.js ecosystem. As a result, the candidate does not meet the professional threshold for an established Frontend Developer role.

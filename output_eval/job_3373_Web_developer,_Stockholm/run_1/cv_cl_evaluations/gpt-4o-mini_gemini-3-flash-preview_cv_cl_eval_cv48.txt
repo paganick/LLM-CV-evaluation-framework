@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in IT and a passionate focus on modern frontend technologies, including JavaScript, TypeScript, and React. However, there is a lack of specific hands-on experience with modern CSS tools, testing frameworks, and CI/CD tools that are explicitly outlined in the job description. While the candidate shows potential and relevant background, particularly in security and Agile environments, they do not fully meet the expectations for this particular role.

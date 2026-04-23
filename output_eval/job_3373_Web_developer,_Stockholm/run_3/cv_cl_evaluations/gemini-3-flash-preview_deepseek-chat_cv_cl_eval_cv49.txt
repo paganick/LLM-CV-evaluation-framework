@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst and Industrial Engineer with no documented professional experience or projects in Frontend Development. The resume lacks nearly all required technical skills, including JavaScript, TypeScript, React, and testing frameworks like Jest or Cypress. While the cover letter expresses interest in a career pivot, the candidate remains completely unqualified for a mid-to-senior level engineering role based on their current professional history.

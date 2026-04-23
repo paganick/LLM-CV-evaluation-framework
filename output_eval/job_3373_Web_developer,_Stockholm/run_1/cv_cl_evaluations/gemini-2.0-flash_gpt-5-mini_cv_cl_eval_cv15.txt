@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a background in IT and some web development experience (HTML, CSS, JavaScript), but lacks specific experience with modern FE frameworks like React, TypeScript, and testing frameworks mentioned in the job description. They express willingness to learn, but the resume lacks concrete evidence of skills matching the core requirements. The cover letter also acknowledges a gap in modern front-end conventions.

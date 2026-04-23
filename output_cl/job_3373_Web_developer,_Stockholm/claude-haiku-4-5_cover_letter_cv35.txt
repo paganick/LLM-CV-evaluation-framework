@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my professional background has been rooted in marketing automation and technology consulting, I am eager to transition into frontend development and bring my technical foundation and collaborative spirit to your React-focused team.
+
+Throughout my career as a Senior Marketing Automation Consultant, I have developed a deep appreciation for clean, efficient code and robust system architecture. My experience implementing complex integrations across multiple platforms has given me valuable insights into API design, data management, and the importance of seamless cross-functional collaboration. I have consistently worked alongside development teams to understand technical requirements and translate business needs into actionable solutions, skills that will serve me well in an Agile environment.
+
+My technical journey has equipped me with foundational knowledge in JavaScript and HTML/CSS through hands-on work with marketing technology platforms and custom development. I have direct experience with testing methodologies, having developed and implemented comprehensive QA processes and automation testing strategies across Eloqua, Salesforce, and integrated platforms. This background demonstrates my commitment to writing reliable, well-tested code and my understanding of the testing frameworks crucial to modern frontend development.
+
+I am particularly drawn to your emphasis on clean code and continuous learning. My track record includes designing and implementing process improvements, developing best practices documentation, and serving as an expert educator for complex technical systems. These experiences reflect my genuine passion for code quality and my commitment to staying current with industry standards and emerging technologies.
+
+What excites me most about this opportunity is the chance to deepen my technical expertise in React, TypeScript, and modern development tools like Jest, ESLint, and Prettier. I am genuinely passionate about mastering the full development lifecycle and understanding how frontend architecture impacts broader business objectives. My collaborative nature and comfort working across teams position me to thrive in your environment while contributing meaningfully to your projects.
+
+I am eager to bring my problem-solving abilities, technical foundation, and collaborative mindset to your frontend development team. I am confident that my dedication to excellence and passion for continuous improvement will make me a valuable asset to your organization.
+
+Sincerely,
+Alexis

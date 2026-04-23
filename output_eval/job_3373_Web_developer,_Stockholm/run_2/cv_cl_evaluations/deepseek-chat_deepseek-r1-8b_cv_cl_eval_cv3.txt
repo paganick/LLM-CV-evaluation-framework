@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in construction with only academic web development experience, lacking any professional experience with modern front-end frameworks like React, testing automation, or the specific tools listed. While they show foundational knowledge of HTML, CSS, and JavaScript, they do not meet the core technical requirements for the role. Their soft skills and eagerness to learn are positive but insufficient to compensate for the significant gap in required hands-on, professional technical experience.

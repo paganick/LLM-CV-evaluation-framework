@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's cover letter focuses heavily on system administration and infrastructure management, while the job description emphasizes front-end development skills like JavaScript, React, and testing. While the candidate mentions an interest in modern FE frameworks, they provide no concrete evidence of hands-on experience. The letter highlights skills not directly relevant to the specific requirements outlined in the job description, indicating a mismatch in core competencies.

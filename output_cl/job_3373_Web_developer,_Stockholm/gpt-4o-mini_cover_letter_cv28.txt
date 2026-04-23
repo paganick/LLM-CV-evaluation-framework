@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position, as advertised. With a robust background in data analysis and project management, complemented by a strong engagement in technical fields, I am keen on transitioning my analytical skills into front-end development focused on JavaScript and modern frameworks like React.
+
+My extensive experience as a Senior Materials Analyst at Nike involved not only collaboration across teams but also the dissection of complex data to inform critical business decisions. This background has honed my ability to communicate effectively with diverse audiences, ensuring that project goals align with both client and team expectations. I believe these skills will translate well into an Agile development environment, where continuous collaboration is key.
+
+I am particularly drawn to your dedication to clean code and modern technologies. I have developed a keen interest in web security issues such as OWASP and OAuth. Although my primary expertise has not been in software development, I have a working knowledge of HTML and CSS, and I am committed to broadening my skills in JavaScript frameworks, specifically React. My analytical mindset, developed through years of using statistical programs and managing cross-functional projects, allows me to think critically about coding practices and optimization.
+
+Additionally, my experience with the NodeJS ecosystem and familiarization with CI/CD tools like CircleCI could be beneficial in adopting your tech stack. I am aware of the importance of testing automation in software development and am eager to become proficient in frameworks such as Jest and Cypress.
+
+In previous roles, I have led initiatives that required an understanding of complex manufacturing processes and quality improvement projects, demonstrating my ability to approach coding and development from a systematic and structured perspective.
+
+I am excited about the possibility of applying my analytical skills to front-end development at your company. I am eager to grow within a team that values both collaboration and technical excellence. 
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your team.
+
+Sincerely,  
+Alexis

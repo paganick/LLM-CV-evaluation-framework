@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a background in program management and learning design with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React or other modern frontend frameworks, nor frontend testing or CI/CD. There is only "intermediate coding in R studio" and Salesforce experience, which do not meet the technical requirements. This candidate is in a different discipline and is not qualified for the frontend engineering role.

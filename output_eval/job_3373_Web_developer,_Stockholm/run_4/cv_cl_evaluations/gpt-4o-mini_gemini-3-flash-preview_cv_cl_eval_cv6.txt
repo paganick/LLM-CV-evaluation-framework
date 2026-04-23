@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in web development but lacks specific experience with modern frontend frameworks like React, which is heavily emphasized in the job description. While they demonstrate adequate familiarity with JavaScript, HTML, CSS, and testing frameworks, their experience predominantly revolves around Drupal rather than the specified technologies and practices, such as using Styled Components or Ramda for functional programming.

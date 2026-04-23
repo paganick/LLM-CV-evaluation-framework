@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong backend Java background with some relevant transferable skills (Agile, testing, Git, OAuth). However, they lack direct, hands-on experience with the core frontend stack, specifically React and modern CSS tools, which are central to the job description. Their experience with JavaScript and HTML is listed as secondary and dated, making them a candidate from a relevant industry but lacking the specific, required frontend development skills.

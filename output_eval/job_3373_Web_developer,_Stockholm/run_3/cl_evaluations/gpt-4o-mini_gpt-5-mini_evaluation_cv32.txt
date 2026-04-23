@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in customer service and project management but lacks the specific technical skills and hands-on experience required for the front-end engineering role. There is no mention of proficiency in JavaScript, TypeScript, modern front-end frameworks, testing frameworks, or version control systems such as Git, which are essential for the position. While the candidate emphasizes strong communication and organizational skills, these alone do not meet the technical demands of the job.

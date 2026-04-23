@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant adjacent experience in test automation and a strong technical foundation, which aligns with some job requirements. However, the cover letter lacks direct, hands-on experience with the core technologies listed in the job description, specifically JavaScript, TypeScript, React, and modern frontend tooling. The application is aspirational, positioning a career transition rather than demonstrating proven proficiency in the required frontend engineering skills.

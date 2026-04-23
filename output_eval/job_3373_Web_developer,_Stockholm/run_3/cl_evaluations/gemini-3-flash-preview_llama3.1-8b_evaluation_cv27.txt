@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer with no professional experience in software engineering, explicitly stating a need to learn core requirements such as React, testing automation, and CI/CD. Their background is entirely administrative and artistic, failing to demonstrate the required hands-on expertise in web security, version control, or cloud infrastructure. This profile does not meet the technical or industrial experience levels necessitated by the job description.

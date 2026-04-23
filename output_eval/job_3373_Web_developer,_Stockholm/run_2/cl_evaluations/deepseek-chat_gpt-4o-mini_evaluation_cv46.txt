@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry background and demonstrates some overlapping skills like JavaScript, HTML, CSS, Git, and an understanding of Agile and web security. However, they lack hands-on experience with the core requirements of React, TypeScript, and modern testing frameworks, and their primary experience is in Java, not the modern front-end stack specified. Their eagerness to learn is noted but does not compensate for the absence of proven, specific experience required for the role.

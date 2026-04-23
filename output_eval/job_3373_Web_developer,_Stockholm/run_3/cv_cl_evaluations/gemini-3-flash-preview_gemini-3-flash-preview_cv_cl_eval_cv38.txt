@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this technical role, as their professional background is entirely within film and media production rather than software engineering. While the cover letter claims proficiency in the required tech stack, the resume provides zero evidence of professional experience with JavaScript, React, or TypeScript, listing only video editing and production skills. The candidate's education and work history reflect a different industry altogether, failing to meet any of the core technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in digital communications, technical writing, and collaboration with IT teams, but lacks specific skills in JavaScript, TypeScript, React, modern front-end frameworks, and testing automation, which are critical for the role. Additionally, there is no mention of experience with Git or the Node ecosystem. Overall, while the candidate demonstrates strong communication skills and a willingness to learn, they do not meet the essential technical qualifications needed for this position.

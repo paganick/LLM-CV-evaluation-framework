@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills in HTML and web design, but lacks hands-on experience with key technologies such as JavaScript, TypeScript, modern frameworks like React, testing frameworks, and CI/CD tools. While there is evidence of transferable skills, the specific front-end development experience required for the position is missing, which limits their applicability to the role.

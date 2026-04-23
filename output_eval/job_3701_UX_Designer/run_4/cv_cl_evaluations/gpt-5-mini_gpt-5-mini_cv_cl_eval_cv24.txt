@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX experience (team lead experience, user research, workshops, Axure prototyping and HTML/CSS/JS) and some responsibility for guidelines and mentoring, but their recent roles are presentation/multimedia focused and they do not explicitly demonstrate having worked in an Agile software development environment or with modern tooling like Figma. Key requirements for managing a UX roadmap, running Agile rituals, and maintaining a UI Design System are not clearly evidenced, so they are a partial but not strong fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java/J2EE backend developer whose 8.5 years of professional experience does not align with the requirements for a modern React and TypeScript frontend specialist. Their resume lists outdated technologies like Struts and jQuery, lacking any professional application of the core technologies requested, such as modern testing frameworks, CSS-in-JS, or the Node.js ecosystem. While they possess transferable Agile and Git skills, they lack the specific, hands-on frontend expertise necessary for this role.

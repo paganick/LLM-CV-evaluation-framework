@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in .NET development, not the modern FE frameworks (React, VueJS, Angular, Svelte) listed. While they claim proficiency in JavaScript, HTML, and CSS, the resume focuses on server-side technologies. There's a lack of specific experience with modern CSS tools, testing frameworks (Jest, Cypress), and the NodeJS ecosystem mentioned in the job description.

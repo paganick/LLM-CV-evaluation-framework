@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a solid background in frontend development with experience specifically in React, HTML, CSS, and modern frameworks which aligns well with the job description. They also have experience in test automation and Agile methodologies, which are highly relevant to the role. However, there could be a stronger emphasis on TypeScript and some modern CSS tools mentioned in the job description, which slightly limits their scoring.

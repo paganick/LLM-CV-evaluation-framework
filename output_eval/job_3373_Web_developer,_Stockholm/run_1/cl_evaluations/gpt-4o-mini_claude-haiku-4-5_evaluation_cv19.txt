@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in graphic design and foundational knowledge in HTML and CSS, but lacks sufficient experience with critical technologies mentioned in the job description, such as JavaScript, TypeScript, modern frontend frameworks, and testing frameworks. While they demonstrate enthusiasm for learning and adaptability, they do not possess hands-on experience with many of the required skills, making them a potential but unqualified candidate for this specific position.

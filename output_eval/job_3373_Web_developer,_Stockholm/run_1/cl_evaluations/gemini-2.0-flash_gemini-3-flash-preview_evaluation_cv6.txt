@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and Git. They highlight experience with testing frameworks and Agile methodologies, which aligns with the job description. While they mention Drupal experience, they effectively connect it to relevant frontend technologies like JavaScript and AJAX, showcasing adaptability.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses foundational knowledge of HTML, CSS, and JavaScript, they lack the required hands-on experience with React, which is a core requirement for this position. Their experience with testing frameworks and security principles appears theoretical rather than applied, and they are missing the practical proficiency in the modern CI/CD and API design tools mentioned in the job description. The profile indicates an entry-level candidate who requires significant training to meet the team's current technical standards.

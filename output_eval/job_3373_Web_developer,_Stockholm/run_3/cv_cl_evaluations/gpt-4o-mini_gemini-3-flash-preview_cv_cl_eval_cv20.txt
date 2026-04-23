@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and has proficiency in JavaScript, HTML, and CSS, which aligns with the job description. However, they lack direct experience with modern frontend frameworks like React, TypeScript, and testing frameworks like Jest or Cypress, which are explicitly required for the role. While they exhibit a willingness to learn and adapt, the gaps in experience with specific technologies lower their overall suitability.

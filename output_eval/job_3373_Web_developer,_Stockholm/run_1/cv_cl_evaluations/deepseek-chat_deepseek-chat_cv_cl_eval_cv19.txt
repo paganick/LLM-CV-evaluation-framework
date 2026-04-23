@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's primary experience is in graphic design and unrelated fields, not professional front-end development. While they claim self-taught proficiency in React, TypeScript, and testing, the resume provides no verifiable work experience or project evidence for these critical requirements. The job demands hands-on experience with modern FE frameworks, testing automation, and specific tools, which the candidate's documented history does not substantiate.

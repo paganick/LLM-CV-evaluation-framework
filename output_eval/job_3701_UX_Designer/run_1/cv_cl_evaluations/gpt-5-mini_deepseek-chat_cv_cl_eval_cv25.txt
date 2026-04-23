@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong SDLC, systems analysis, user advocacy and stakeholder communication experience but lacks direct, demonstrable UX design experience such as Figma prototyping, user research methodologies, and UI design system management. There is no clear evidence of recent Agile UX work, workshop facilitation for design, or front-end skills in HTML/CSS/JS at a level useful for managing a UI system. Overall relevant background but missing core, hands-on UX skills required for this role.

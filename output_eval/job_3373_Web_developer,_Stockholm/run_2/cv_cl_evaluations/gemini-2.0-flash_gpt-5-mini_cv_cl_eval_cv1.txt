@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid understanding of frontend technologies, particularly React, and has experience with test automation, aligning well with the job description's core requirements. The resume showcases practical experience with relevant tools like Selenium, Jenkins, and Git. While there's no explicit mention of TypeScript, the cover letter indicates a willingness to learn, and the candidate's experience doesn't perfectly align with all desired qualifications, it is a good match overall.

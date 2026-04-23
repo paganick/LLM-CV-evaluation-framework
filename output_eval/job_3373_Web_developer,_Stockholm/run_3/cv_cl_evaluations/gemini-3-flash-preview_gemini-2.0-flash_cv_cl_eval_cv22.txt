@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-switcher with no professional experience in frontend development and lacks nearly all the core technical requirements, including JavaScript, TypeScript, React, and automated testing. Their background is entirely in media planning and marketing, and their stated career objective is to focus on database management rather than frontend engineering. There is no evidence of familiarity with modern development workflows, Git, or the cloud infrastructure specified in the job description.

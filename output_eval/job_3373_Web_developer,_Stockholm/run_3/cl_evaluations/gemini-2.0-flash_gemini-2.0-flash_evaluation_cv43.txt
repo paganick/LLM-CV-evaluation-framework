@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter focuses heavily on program management and curriculum development, which is not the core requirement for a front-end developer. While the candidate expresses interest in learning new technologies and mentions React, there's a lack of demonstrable experience in the specific technologies (JavaScript, TypeScript, HTML, CSS, testing frameworks, Git) outlined in the job description. The emphasis on "intermediate coding skills" suggests a skills gap.

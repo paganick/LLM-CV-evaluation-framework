@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong product design, e-commerce, and collaborative experience, but lacks the core, hands-on technical skills required (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git workflow, Node ecosystem, CI/CD, and web security). Their cover letter emphasizes motivation to learn rather than demonstrated experience with the technologies listed in the job description. Given the role's need for immediate, practical frontend development expertise, the candidate is not currently qualified.

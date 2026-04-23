@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in marketing, communications, and law, with no substantial evidence of professional software development experience. While the cover letter mentions familiarity with JavaScript, TypeScript, and React, this is not supported by the resume, which lacks concrete projects or roles demonstrating these skills. The candidate's experience does not align with the requirements of a frontend engineer role.

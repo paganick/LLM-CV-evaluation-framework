@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in digital communications, they lack direct hands-on experience with front-end development technologies such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Additionally, although they express a willingness to learn, specifics around testing automation and familiarity with the NodeJS ecosystem are missing, which is critical for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is almost entirely unqualified, coming from a background in Business Development and Organic Chemistry rather than software engineering. They lack essential experience in JavaScript, TypeScript, and React, which are fundamental to the role. Their technical skills are limited to basic HTML and non-web-centric languages, failing to meet the requirements for modern front-end development and testing.

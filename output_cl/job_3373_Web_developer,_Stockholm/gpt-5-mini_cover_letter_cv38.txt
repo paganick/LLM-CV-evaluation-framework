@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am writing to express my interest in the Front-End Developer role at your company. As Co-CEO of The "Jill-of-all-Trades" and a Magna Cum Laude graduate in Film/TV Production and ScreenWriting, I bring hands-on production leadership, product delivery discipline, and a deep commitment to quality that translate well into software development. Over more than a decade I have shepherded projects from concept through delivery, creating budgets, schedules, staffing, client liaison, and producing web and multimedia assets.
+
+In my current role I design, build, and maintain the D.R.E.A.M website, produce and edit digital content, and create graphics using Photoshop and Illustrator. I manage social media channels, coordinate external partners and clients, and train interns and staff—responsibilities that demand clear communication, rigorous organization, and collaborative problem solving. I thrive in environments where cross-functional teamwork is essential and have demonstrated experience negotiating priorities under tight deadlines while preserving product integrity.
+
+My production background has instilled a discipline for testing, quality assurance, and detail-oriented iteration: I extensively review edits, run media quality checks, maintain asset organization, and enforce release procedures. I am an eager, self-directed learner who regularly completes online courses to expand my skills. I am excited to transfer this aptitude into front-end engineering and commit to rapidly acquiring the technical foundations you value—JavaScript, TypeScript, React, testing frameworks, Git workflows, modern CSS tooling, and the Node ecosystem—so I can contribute to clean, maintainable code and reliable delivery pipelines.
+
+My technical toolkit from media production includes advanced proficiency with Final Cut Pro X, Adobe Premiere, Photoshop and Illustrator, and both Mac and PC environments; working daily with DSLR cameras and lighting has honed my visual sensibility for pixel-level detail and UX. I have created unique branding campaigns, written business plans, found investors, and served as primary client liaison—experiences that sharpen product thinking and align with building meaningful front-end experiences for users.
+
+I am comfortable interacting with other teams and external partners, keen to understand the full domain beyond my current expertise, and willing to relocate closer to the company. I would welcome the opportunity to bring my project ownership, communication strengths, and dedication to quality to your engineering team. Thankful
+
+Sincerely, Alexis

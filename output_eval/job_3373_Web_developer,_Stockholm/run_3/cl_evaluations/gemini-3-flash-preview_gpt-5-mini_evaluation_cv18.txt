@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to address several core technical requirements, most notably TypeScript, Web Security standards (OWASP/CORS), and cloud infrastructure tools like AWS or Terraform. While they possess extensive general experience and a strong focus on testing, their cover letter suggests they are currently transitioning into the React ecosystem rather than possessing the professional seniority and hands-on mastery of the framework required for this role.

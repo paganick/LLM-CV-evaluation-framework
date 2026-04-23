@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core tech stack, specifically mentioning React, Ramda, and comprehensive testing frameworks. However, they failed to address several specific requirements from the job description, including Git proficiency, web security (OWASP/CORS), and CI/CD tools like CircleCI. While the technical foundation is solid, these omissions regarding security and infrastructure prevent a higher rating from a strict recruitment perspective.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate admits to limited experience with Figma, which is a highly desirable tool for this role, and relies on Adobe Illustrator, which is insufficient for modern UI/UX prototyping. While they have five years in "technical design," they fail to demonstrate the specific 2-3 years of commercial UX Designer experience required, suggesting a lack of direct industry expertise. Additionally, the candidate ignores the preferred technical requirements for HTML/CSS/JS knowledge necessary for managing the UI Design System.

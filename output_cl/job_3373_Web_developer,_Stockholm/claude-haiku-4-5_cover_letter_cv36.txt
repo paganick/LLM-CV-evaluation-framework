@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my professional background is rooted in microbiology and quality control, I am making a deliberate career transition into frontend development, bringing with me the discipline, analytical rigor, and commitment to excellence that have defined my scientific career.
+
+Your job description emphasizes clean code, collaborative teamwork, and a passion for continuous learning—values that align perfectly with my professional philosophy. Throughout my consulting career, I have consistently demonstrated the ability to master complex technical systems, develop comprehensive documentation, and communicate effectively across cross-functional teams. These transferable skills form a solid foundation as I pursue frontend development.
+
+I am actively building competency in the core technologies you require. I have focused my learning on JavaScript, TypeScript, HTML, and CSS, with concentrated study on React, as this aligns with your team's stack. I am committed to developing practical experience with testing frameworks such as Jest and Cypress, understanding that robust test automation is fundamental to professional development. Additionally, I am familiarizing myself with Git workflows and GitHub-based collaboration to ensure I can seamlessly integrate into your development environment.
+
+My background in project management, process development, and documentation positions me well to understand API design principles and web security fundamentals including OWASP, CORS, and OAuth. My experience developing training programs and creating detailed protocols demonstrates my ability to write clear, maintainable code and comprehensive documentation—reflecting the clean code principles you value.
+
+I am particularly drawn to your emphasis on Agile methodology and cross-team collaboration. My extensive experience leading validation teams, conducting internal audits, and serving as a subject matter expert across departments has honed my collaborative instincts and ability to work effectively in structured, iterative environments. I am comfortable engaging with diverse stakeholders and am genuinely passionate about understanding systems holistically.
+
+My commitment to staying current with technological advancement is evident in my transition itself. I recognize that frontend development requires continuous learning, and I am enthusiastically engaging with modern tools and best practices. I am eager to develop deeper expertise in CSS tools like Styled Components, SASS, linters, and the broader Node.js ecosystem as I grow within your team.
+
+I am confident that my analytical mindset, proven ability to master complex technical domains, strong work ethic, and genuine passion for clean, functional code make me a valuable addition to your team. I am excited about the opportunity to contribute meaningfully to your projects while growing my frontend development expertise alongside experienced professionals.
+
+Thank you for considering my application.
+
+Sincerely, Alexis

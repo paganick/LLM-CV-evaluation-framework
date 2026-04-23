@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in managing technology platforms and understands concepts such as API design and data integration. However, they do not explicitly mention experience with modern front-end frameworks like React, the specific testing frameworks listed, or a strong alignment with the required web technologies, which limits their fit for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant education and some foundational knowledge in web technologies, particularly HTML and CSS. However, they lack direct experience with key requirements such as JavaScript, modern frontend frameworks like React, testing methodologies, and tools specified in the job description. Their project experience, while valuable, does not sufficiently align with the technical requirements for the position.

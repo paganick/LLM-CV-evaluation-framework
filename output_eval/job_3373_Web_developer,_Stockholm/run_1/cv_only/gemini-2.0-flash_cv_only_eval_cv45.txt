@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: This candidate's resume demonstrates experience in IT management, cybersecurity, and INFOSEC, primarily within government and military contexts. They lack demonstrable experience in the specific technologies mentioned in the job description, such as Javascript, React, and modern CSS tools. The resume focuses on strategic planning, budget management, and security protocols rather than hands-on software development.

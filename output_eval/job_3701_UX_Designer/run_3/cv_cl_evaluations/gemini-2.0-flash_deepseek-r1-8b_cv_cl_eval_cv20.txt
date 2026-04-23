@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some technical skills mentioned, such as HTML, CSS and Javascript. However, they lack the specific UX design experience detailed in the job description, particularly with Figma and managing a UI Design System. Their experience is more rooted in systems integration and finance.

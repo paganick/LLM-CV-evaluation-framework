@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a strong background in software development and automation testing with relevant technical skills in JavaScript, TypeScript, HTML, and CSS, as well as experience with testing methodologies. However, they do not mention familiarity with key tools and concepts specifically listed in the job description, such as modern CSS tools, functional programming, CI/CD tools, or security best practices. This lack of specific experience with the desired frameworks and tools prevents a higher score.

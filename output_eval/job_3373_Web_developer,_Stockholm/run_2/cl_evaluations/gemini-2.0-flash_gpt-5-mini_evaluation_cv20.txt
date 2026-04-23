@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses front-end experience and Agile familiarity, they lack direct experience with React, modern testing frameworks, and other tools listed in the job description. They express interest in learning React, but the letter does not showcase sufficient hands-on experience with the technologies the company currently uses. There is a clear experience gap between what the candidate knows and what the job requires.

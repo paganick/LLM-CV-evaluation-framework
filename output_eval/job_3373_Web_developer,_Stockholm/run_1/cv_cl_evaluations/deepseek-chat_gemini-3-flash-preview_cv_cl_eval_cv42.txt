@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's 20-year career is exclusively in finance and operations management, with zero demonstrated experience in frontend development, JavaScript, React, or any other technologies listed in the job description. While the cover letter attempts to reframe project management experience as relevant, it provides no evidence of hands-on coding, testing, or modern web development skills. This is a severe mismatch for a technical frontend developer role.

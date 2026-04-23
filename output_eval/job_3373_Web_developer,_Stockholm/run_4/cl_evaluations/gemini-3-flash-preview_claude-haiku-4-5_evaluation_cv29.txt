@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the primary technical requirements, specifically JavaScript, TypeScript, and React, which are essential for this role. While they have a background in the tech industry, their experience is limited to business development and sales rather than hands-on frontend engineering. Consequently, they do not meet the mandatory criteria for software development proficiency or automated testing experience.

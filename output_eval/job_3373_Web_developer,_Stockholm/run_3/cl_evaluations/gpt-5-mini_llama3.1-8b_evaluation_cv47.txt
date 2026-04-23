@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the essential front-end technical skills required for this role—no JavaScript/TypeScript, no React experience, and no familiarity with frontend testing frameworks, modern CSS tools, or NodeJS. While they mention HTML, CircleCI, and API design, their background is clearly business development rather than software engineering, making them unqualified for the technical demands of the position. A quick-learning attitude does not compensate for the absence of core, hands-on experience required here.

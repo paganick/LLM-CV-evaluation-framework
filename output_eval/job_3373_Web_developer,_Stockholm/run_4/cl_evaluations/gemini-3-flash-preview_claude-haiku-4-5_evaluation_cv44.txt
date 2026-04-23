@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory professional proficiency in JavaScript, TypeScript, and React, explicitly stating a need to develop these core technical skills upon hiring. Furthermore, they do not possess the required hands-on experience with automated testing frameworks, offering only unrelated user-acceptance testing (UAT) experience from a design perspective. While the applicant has a relevant background in UI/UX, they fail to meet the fundamental engineering requirements and technical toolset specified in the job description.

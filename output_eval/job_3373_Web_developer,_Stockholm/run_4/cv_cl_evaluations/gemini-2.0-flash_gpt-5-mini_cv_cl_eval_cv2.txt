@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, lacking the required JavaScript, TypeScript, and modern FE framework experience. While they express a strong desire to transition to front-end development, their resume showcases limited relevant skills. The cover letter mentions familiarity with API design and Agile, but this is insufficient to compensate for the lack of core skills outlined in the job description.

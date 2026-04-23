@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical qualifications for the role, explicitly stating they have no professional experience in coding or development. While they possess transferable soft skills from the banking and sales sectors, they demonstrate no proficiency in JavaScript, TypeScript, React, or testing frameworks. This application represents a career pivot without the foundational technical background required for a mid-to-senior level engineering position.

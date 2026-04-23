@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks demonstrated, hands-on experience with the core front-end stack required (JavaScript/TypeScript and React) and does not show practical use of modern front-end tooling (SASS/Styled Components, Ramda, Node/npm) or established front-end testing frameworks and CI/CD. Strengths include solid QA, backend/analytics experience, SQL/Python, Git familiarity, and security awareness, indicating potential to learn. Given the role's need for immediate proficiency in modern front-end technologies, the candidate is not currently a strong fit.

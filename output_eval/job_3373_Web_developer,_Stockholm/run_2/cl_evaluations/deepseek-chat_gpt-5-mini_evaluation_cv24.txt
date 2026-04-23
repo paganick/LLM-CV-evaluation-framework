@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital communications, not software engineering, and they lack direct, hands-on experience with the core technical requirements like JavaScript, TypeScript, React, testing frameworks, and Git. While they demonstrate strong soft skills, project management, and a willingness to learn, their professional experience does not align with the specific technical competencies demanded by the front-end engineering role. They are from a relevant digital industry but lack the specific technical skills and proven experience.

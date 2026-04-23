@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is primarily administrative, arts, and operations-focused with no demonstrable experience in JavaScript, TypeScript, React (or other modern JS frameworks), testing/automation, NodeJS, Git, or cloud/CI tools required for this front-end engineering role. A lone mention of "html" and "web-design" does not meet the technical depth or tooling experience specified. Overall this is a mismatch in industry and core technical skills.

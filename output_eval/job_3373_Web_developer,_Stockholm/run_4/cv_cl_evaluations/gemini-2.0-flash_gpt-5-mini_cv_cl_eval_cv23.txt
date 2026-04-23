@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and testing, with limited demonstrable experience in front-end development. While they express interest in learning React and other relevant technologies, the resume lacks practical experience with the core requirements of the job description, such as modern FE frameworks, testing frameworks, and modern CSS tools. The cover letter attempts to bridge the gap, but the lack of direct experience is a significant weakness.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in the cloud software industry and demonstrates strong communication and collaboration skills, which are relevant to an Agile environment. However, they lack specific technical skills in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React, which are critical for the position. While they express a willingness to learn, the absence of relevant programming experience significantly impacts their suitability for this role.

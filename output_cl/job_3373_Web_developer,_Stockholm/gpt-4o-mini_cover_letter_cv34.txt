@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the development position that emphasizes proficiency in JavaScript, TypeScript, HTML, and CSS, as well as modern front-end frameworks like React. With a solid background in digital marketing and implementation consulting, I bring a unique blend of technical skills and project management experience that aligns well with your requirements.
+
+In my current role as an Implementation Consultant at Company Name, I have developed a strong aptitude for web technologies, including HTML, CSS, and SQL, to deliver robust solutions for clients using Salesforce Marketing Cloud. My hands-on experience crafting technical documentation, utilizing testing frameworks, and collaborating with various teams has honed my ability to communicate effectively across departments. During this time, I have led client calls, gathered solution requirements, and provided the necessary training to enable clients, ensuring successful project outcomes.
+
+I am particularly drawn to this opportunity not only because of my passion for writing clean, efficient code but also my commitment to continuously learn and adapt to the latest technologies. I believe that staying current with industry trends, such as modern CSS tools like Styled Components and SASS, is essential for delivering quality solutions that meet evolving market demands.
+
+Furthermore, I possess a foundational understanding of security on the web, including concepts such as OWASP and CORS, which I believe is crucial in today's security-conscious environment. My experience working in Agile environments has enhanced my collaborative skills, enabling me to work seamlessly with other teams and external partners while maintaining project objectives and timelines.
+
+I am eager to bring my technical skills and project management experience to your organization, where I look forward to the opportunity to contribute to innovative web solutions. Thank you for considering my application. I am excited about the potential to be part of your dynamic team.
+
+Sincerely,  
+Alexis

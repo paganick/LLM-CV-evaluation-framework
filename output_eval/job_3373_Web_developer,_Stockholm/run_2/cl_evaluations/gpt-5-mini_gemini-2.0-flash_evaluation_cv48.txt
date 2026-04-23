@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong IT support and systems administration experience and demonstrates collaboration and security awareness, but the cover letter shows no demonstrable hands-on experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, NodeJS, or frontend-specific tooling required by the role. Their willingness to learn is positive but insufficient given the technical expectations; this makes them a relevant but underqualified applicant.

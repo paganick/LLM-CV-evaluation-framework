@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant interest and strong transferable skills (collaboration, documentation, Agile experience) but lacks demonstrated, hands-on experience with the core technical requirements (proven React projects, test automation practice, Node.js ecosystem, CI/CD, and modern CSS tooling). Claims are primarily of learning and familiarity rather than measurable delivery in a frontend role, so they are not yet a fully qualified match. With concrete project experience and demonstrable technical work, the candidate could move into a higher bracket.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant design and HTML/CSS experience and demonstrates willingness to learn, but provides no demonstrated experience with core requirements: JavaScript/TypeScript, React, testing/automation, Node ecosystem, Git workflows, modern CSS tooling, or web security practices. Given the role's strong emphasis on being production-ready with these technologies (React, testing frameworks, CI/CD, AWS, etc.), the applicant is currently underqualified despite transferable skills and motivation.

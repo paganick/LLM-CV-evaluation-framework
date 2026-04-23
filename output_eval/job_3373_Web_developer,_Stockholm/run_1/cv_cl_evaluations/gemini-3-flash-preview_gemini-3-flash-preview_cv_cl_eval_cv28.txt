@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely within the field of metallurgy and materials analysis, representing a complete industry mismatch for a frontend developer role. While the cover letter mentions a transition to software development, the resume provides no evidence of professional experience, projects, or certifications related to JavaScript, React, or modern web technologies. As a result, the candidate does not meet the technical requirements or professional experience levels established in the job description.

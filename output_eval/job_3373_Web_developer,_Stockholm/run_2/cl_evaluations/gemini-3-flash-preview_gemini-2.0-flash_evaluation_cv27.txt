@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks almost all mandatory technical requirements, including JavaScript, TypeScript, and React, explicitly stating a need to learn these foundational skills. There is no evidence of experience with testing, version control, or web security, making the applicant fundamentally unqualified for a professional developer position. While the candidate has basic web design exposure, their professional background in media and directing does not translate to the technical proficiency required for this role.

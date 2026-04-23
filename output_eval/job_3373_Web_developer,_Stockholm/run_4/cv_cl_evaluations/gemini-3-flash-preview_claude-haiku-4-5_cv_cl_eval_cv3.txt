@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional experience in web development and possesses an obsolete technical stack (Flash, ActionScript, Dreamweaver) that does not meet the modern React/TypeScript requirements. They lack any hands-on experience with modern testing frameworks, CI/CD tools, or functional programming as specified in the job description. While they hold an IT degree, the 2013 graduation date and lack of recent relevant projects make them unqualified for this specific front-end role.

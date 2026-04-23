@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, and Agile environments, aligning with the job description. They also express eagerness to learn React, the framework used by the company. However, they lack specific experience with TypeScript, modern CSS tools, testing frameworks mentioned, or NodeJS, which are also listed as desirable skills in the job description, preventing a higher score.

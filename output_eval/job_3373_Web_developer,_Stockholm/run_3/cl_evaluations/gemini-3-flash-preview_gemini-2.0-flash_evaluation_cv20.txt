@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks essential experience with the required React framework and TypeScript, focusing instead on a .NET-centric background that is not requested. They failed to mention proficiency in specific testing tools (Jest/Cypress), web security (OWASP), or the modern CSS and CI/CD tools central to the job description. While the candidate has relevant industry experience, their skills do not align with the specific technical requirements for this front-end role.

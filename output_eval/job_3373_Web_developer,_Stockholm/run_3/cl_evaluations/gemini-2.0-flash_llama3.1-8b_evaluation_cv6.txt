@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter highlights Drupal and backend skills (PHP, SQL) which are less relevant to the provided job description focusing on modern front-end development (React, JavaScript/Typescript). While Git is mentioned, experience with testing and specific front-end tools are missing, indicating a skills gap. The letter emphasizes general problem-solving and project management rather than the specific technical proficiencies needed.

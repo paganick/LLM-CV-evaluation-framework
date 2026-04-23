@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable skills and a clear, structured approach to learning, but lacks the required hands-on professional experience in frontend development. They are actively studying the core technologies but have not demonstrated practical application or project work with React, testing frameworks, or the other tools listed. Their background is relevant in mindset but not in specific technical execution, placing them in the "relevant industry but lacks specific experience/skills" category.

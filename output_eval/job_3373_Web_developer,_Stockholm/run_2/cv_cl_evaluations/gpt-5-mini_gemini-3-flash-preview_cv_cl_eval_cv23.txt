@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant engineering and QA background with basic JavaScript/HTML/CSS familiarity and experience in testing and Agile workflows, but lacks demonstrable hands-on experience with React, TypeScript, modern frontend tooling (Node/npm, Styled Components/SASS), testing frameworks like Jest/Cypress, and GitHub/CI/CD. Key job requirements such as proven React/TypeScript projects, frontend testing automation, and familiarity with the Node ecosystem and web security are not evidenced, making them underqualified for this frontend engineer role.

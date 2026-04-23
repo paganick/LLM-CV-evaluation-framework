@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend experience (React, HTML/CSS, SASS) and strong testing discipline from a Java/Selenium background, but lacks explicit experience with several key requirements: TypeScript, Node.js ecosystem tools (npm/Yarn/Express), Ramda/functional programming, modern JS testing frameworks (Jest/Cypress), linters/formatters, CircleCI, and basic web security knowledge. They demonstrate transferable skills and willingness to learn, but do not currently meet multiple specific technologies listed in the job description.

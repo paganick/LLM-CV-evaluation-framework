@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the core technical requirements, including JavaScript, TypeScript, and modern React experience, which are essential for this role. Mentioning Dreamweaver as a primary front-end tool indicates a significant disconnect from modern development standards and professional engineering workflows. While the candidate has extensive design experience, they possess no documented background in testing, version control, or software architecture as required by the job description.

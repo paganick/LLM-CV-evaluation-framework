@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong cross-functional, leadership, and learning aptitude but lacks verifiable, hands-on front-end experience with the core technologies required (React, TypeScript, modern JS tooling, testing frameworks, Git, NodeJS, CI/CD, and web security practices). Their resume shows only basic HTML and legacy tools and no professional software engineering roles or concrete projects using the specified stack. While motivated and transferable skills are present, they do not meet the role's technical requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses foundational knowledge of HTML, CSS, and JavaScript but lacks experience with modern FE frameworks like React, which is a core requirement. While they express interest in learning, the resume highlights older technologies. The candidate also lacks experience with testing, CI/CD, and other crucial aspects of the job description.

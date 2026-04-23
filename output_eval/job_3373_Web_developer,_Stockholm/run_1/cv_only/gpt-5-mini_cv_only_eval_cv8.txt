@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in hardware/test engineering and electronics with no evidence of JavaScript, TypeScript, HTML/CSS, React, modern frontend frameworks, or frontend testing frameworks. There is also no mention of Git, npm/Yarn, NodeJS, web security (OWASP/CSP/CORS/OAuth), or cloud/CI tooling required for the role. While experienced in test engineering and Python scripting, these skills do not meet the specific frontend/web development requirements of the job.

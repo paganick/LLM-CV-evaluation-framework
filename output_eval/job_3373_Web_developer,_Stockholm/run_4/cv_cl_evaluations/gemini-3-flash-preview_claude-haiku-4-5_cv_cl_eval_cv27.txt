@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with an extensive background in administrative and artistic fields but lacks any professional experience or documented proficiency in JavaScript, TypeScript, or React. While the resume mentions basic HTML and web design, it fails to demonstrate the required technical expertise in modern frontend frameworks, testing, or CI/CD pipelines. This profile does not meet the minimum technical requirements for the position.

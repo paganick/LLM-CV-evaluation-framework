@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a systems administrator with a professional focus on hardware, networking, and infrastructure maintenance, which does not align with the core requirements for a modern frontend developer. There is no documented professional experience with React, TypeScript, or the modern testing frameworks specified, and the work history provided is significantly outdated. The profile lacks the specific software engineering skills and clean-code development expertise necessitated by the job description.

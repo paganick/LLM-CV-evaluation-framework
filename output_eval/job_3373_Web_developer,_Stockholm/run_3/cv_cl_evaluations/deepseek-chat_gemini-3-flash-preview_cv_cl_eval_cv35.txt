@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not software engineering, and they lack direct, hands-on experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks). While they demonstrate strong analytical skills and an ability to learn, their technical experience is tangential, focused on platforms like Eloqua and Salesforce, rather than modern frontend development. This represents a significant industry and skillset gap for the specific role.

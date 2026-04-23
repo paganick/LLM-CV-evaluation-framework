@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the mandatory technical stack, specifically JavaScript, TypeScript, React, and modern CSS tooling. While they possess strong transferable skills in QA, API integrations, and cross-functional collaboration, their self-admitted need to learn the core technologies makes them unqualified for an engineering role requiring immediate proficiency. From a strict recruitment perspective, the gap between marketing automation and front-end engineering is too significant for this specific job profile.

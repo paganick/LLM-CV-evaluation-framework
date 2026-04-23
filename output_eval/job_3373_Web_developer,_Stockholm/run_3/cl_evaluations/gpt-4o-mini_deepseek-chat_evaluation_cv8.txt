@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate displays a strong background in testing and software quality, which aligns well with the requirements for a Front End Developer, particularly in terms of clean code and rigorous testing. However, while they have experience with JavaScript, TypeScript, and React, they lack specific mentions of modern CSS tools like Styled Components or SASS, and other technologies such as functional programming and CI/CD tools, which are also highlighted in the job description.

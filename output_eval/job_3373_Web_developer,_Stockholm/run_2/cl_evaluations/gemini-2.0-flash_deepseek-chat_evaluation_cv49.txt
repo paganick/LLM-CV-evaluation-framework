@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate comes from a different field (Data Analysis) but possesses some of the required technical skills (JavaScript, TypeScript, HTML, CSS, Git). However, the cover letter highlights a desire to learn React rather than demonstrating existing proficiency. The lack of direct frontend experience and reliance on transferable skills makes them a moderate match.

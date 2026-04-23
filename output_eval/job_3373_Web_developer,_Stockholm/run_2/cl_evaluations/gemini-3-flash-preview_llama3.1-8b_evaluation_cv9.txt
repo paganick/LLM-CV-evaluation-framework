@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is a seasoned Java backend specialist whose professional history focuses on legacy enterprise architectures, failing to meet the primary requirement for an expert in the modern React and Node.js ecosystem. Significant technical gaps exist regarding SASS, Styled Components, and DevOps tools such as CircleCI, AWS, and Terraform. Although the candidate demonstrates strong alignment with testing and security requirements, their profile suggests a career pivot rather than established professional mastery of the requested tech stack.

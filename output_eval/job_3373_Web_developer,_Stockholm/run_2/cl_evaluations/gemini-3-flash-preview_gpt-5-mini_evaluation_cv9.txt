@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is a seasoned engineer with strong testing discipline and API knowledge, they lack professional, hands-on experience with the primary technical stack required, specifically React and TypeScript. Their background is almost entirely Java-centric, and they are essentially transitioning into front-end development rather than bringing established expertise. As a strict recruiter, I cannot prioritize a candidate who requires extensive training on the core technologies listed in the job description.

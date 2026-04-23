@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience with JavaScript, HTML, and CSS, and mentions React. However, the cover letter focuses heavily on .NET and database experience, which are not emphasized in the job description. The candidate expresses a desire to deepen front-end skills, but lacks demonstrable experience in testing frameworks and modern CSS tools mentioned in the job description, indicating a gap in desired skills.

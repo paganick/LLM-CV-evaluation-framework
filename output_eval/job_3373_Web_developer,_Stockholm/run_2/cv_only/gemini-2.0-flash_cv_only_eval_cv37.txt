@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on project management and IT infrastructure management, lacking the required front-end development skills like JavaScript, React, and CSS. There's no mention of modern front-end frameworks, testing frameworks, or CI/CD tools. The skills listed are primarily related to IT management, budgeting, and infrastructure, which are not relevant to the job description.

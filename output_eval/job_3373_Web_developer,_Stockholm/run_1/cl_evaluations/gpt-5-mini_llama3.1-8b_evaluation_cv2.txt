@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates solid Java/J2EE backend experience, Agile exposure, and familiarity with Git, but lacks virtually all core frontend requirements (React, JavaScript/TypeScript, modern CSS tooling, Node ecosystem) and does not mention testing frameworks or web security knowledge. These are critical for the role, so despite relevant software development experience, the candidate would require significant upskilling to meet the job's needs.

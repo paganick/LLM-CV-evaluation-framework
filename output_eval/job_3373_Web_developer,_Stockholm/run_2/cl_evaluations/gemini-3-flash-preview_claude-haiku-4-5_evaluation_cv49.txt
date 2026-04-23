@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the required hands-on professional experience with the specific frontend stack, admitting they are still in the learning phase for JavaScript, React, and testing frameworks. Critical technical requirements such as TypeScript, Web Security (OWASP/CORS), Node.js, and CI/CD are completely unaddressed. While the applicant has a technical background, they fail to demonstrate the proficiency or practical application necessary to meet the criteria for this developer position.

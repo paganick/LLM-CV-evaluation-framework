@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses a strong interest in transitioning to a front-end development role and has relevant exposure to technologies such as JavaScript and React, their professional background has primarily been in business development rather than hands-on development experience. They mentioned familiarity with some technical skills and tools, but lack substantial practical experience in a development environment, especially with testing automation frameworks and CI/CD tools specified in the job description.

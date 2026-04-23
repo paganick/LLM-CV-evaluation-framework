@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java Backend developer with expertise in legacy enterprise systems, which deviates significantly from the requirement for a modern Frontend developer specialized in React and TypeScript. They lack any documented experience with modern JavaScript frameworks, CSS preprocessors, or the specific testing tools like Jest and Cypress requested in the job description. Despite strong professional background in Agile and Clean Code, the fundamental technical stack mismatch makes them an unsuitable fit for this specific role.

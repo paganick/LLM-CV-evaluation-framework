@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in film/TV production, lacking direct experience in front-end development. While they mention creating a website and using design software, they don't demonstrate sufficient proficiency in the core technologies listed in the job description (JavaScript, TypeScript, React, testing frameworks). The letter focuses on transferable skills rather than technical qualifications.

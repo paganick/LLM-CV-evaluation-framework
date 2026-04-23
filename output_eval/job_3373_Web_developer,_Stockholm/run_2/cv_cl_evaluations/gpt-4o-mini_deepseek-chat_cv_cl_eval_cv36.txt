@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has transitioned from a microbiology and consulting background, which is not directly relevant to the front-end development position. While they have made strides in acquiring skills in JavaScript, React, and testing frameworks, their lack of proven professional experience in front-end development and modern frameworks limits their fit for the role. They demonstrate a foundational understanding of web security and collaborative skills but still fall short of meeting the specific technical expertise required.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional hands-on experience in front-end engineering and is currently only in the "self-directed study" phase for the required technical stack. While they have extensive experience in the cloud software industry and product enablement, they do not meet the core requirements for proficiency in React, TypeScript, or testing frameworks. As a strict recruiter, the absence of a proven track record in software development makes them a high-risk candidate for a technical engineering role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is making a career pivot from mainframe technologies and lacks professional, hands-on experience with the required modern frontend stack, specifically React and TypeScript. While they possess strong foundational software engineering principles and leadership experience, they do not currently meet the technical requirements for a frontend specialist. Most requested skills, such as modern CSS tools and specific testing frameworks, are mentioned only as areas for future learning rather than established expertise.

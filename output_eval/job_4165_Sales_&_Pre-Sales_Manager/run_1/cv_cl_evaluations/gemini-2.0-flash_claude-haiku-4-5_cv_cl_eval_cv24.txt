@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in sales and business development within the financial services industry. However, the resume lacks explicit evidence of experience with Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research), which are listed as required. The cover letter attempts to bridge this gap but lacks concrete examples in these specific digital solution areas.

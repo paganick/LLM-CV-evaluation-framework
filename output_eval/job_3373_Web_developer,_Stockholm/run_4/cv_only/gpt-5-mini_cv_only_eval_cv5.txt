@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s background is almost entirely mainframe (COBOL, CICS, DB2, JCL) with only incidental HTML/JavaScript exposure and no demonstrable experience in React, TypeScript, modern CSS tooling, Node/npm, testing frameworks, CI/CD, or cloud infrastructure. This is a clear skills and domain mismatch for the front-end role described. Candidate is therefore not qualified for the position without significant retraining or recent front-end project experience.

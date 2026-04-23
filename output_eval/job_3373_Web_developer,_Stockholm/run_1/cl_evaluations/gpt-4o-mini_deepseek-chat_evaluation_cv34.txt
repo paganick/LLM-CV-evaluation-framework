@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant industry experience and a solid understanding of core web technologies like HTML, CSS, and SQL. They also possess some familiarity with modern technologies like React and SASS, aligning with the job description. However, their experience with testing frameworks, CI/CD tools, and specific knowledge of JavaScript, as mentioned in the requirements, is lacking, which prevents a higher score.

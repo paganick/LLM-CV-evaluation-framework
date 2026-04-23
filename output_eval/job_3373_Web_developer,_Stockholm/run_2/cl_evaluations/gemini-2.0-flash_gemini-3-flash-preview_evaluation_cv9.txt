@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in frontend development, particularly with React, and showcases a strong understanding of web security protocols, testing methodologies, and Agile environments. They also demonstrate familiarity with relevant tools and technologies mentioned in the job description. While there is no direct experience with Typescript, the overall fit is quite strong, and their willingness to learn is evident.

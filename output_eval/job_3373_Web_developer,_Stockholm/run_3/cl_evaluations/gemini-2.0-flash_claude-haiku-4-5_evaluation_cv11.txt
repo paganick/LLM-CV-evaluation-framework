@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in testing, not frontend development. While they claim a technical foundation in JavaScript, HTML, and CSS, the job description emphasizes experience with React, which is not highlighted in their letter. The letter focuses heavily on quality assurance, which is not the primary focus of a frontend developer role, suggesting a misalignment with the job requirements.

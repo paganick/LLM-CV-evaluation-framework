@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and some web development experience (HTML, CSS, JavaScript), but lacks specific experience with modern front-end frameworks like React, TypeScript, and testing frameworks mentioned in the job description. The resume focuses more on general IT support and troubleshooting than front-end development. While the cover letter expresses interest in learning these technologies, their current skill set doesn't align well with the requirements.

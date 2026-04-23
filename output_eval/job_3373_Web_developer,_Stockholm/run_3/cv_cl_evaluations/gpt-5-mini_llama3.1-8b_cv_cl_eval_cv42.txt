@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume documents a 20-year career in finance and operations with no verifiable software engineering or frontend development experience. The role requires concrete expertise in JavaScript/TypeScript, React, testing frameworks, Node/NPM, CI/CD, and web security — none of which are demonstrated in the resume, and the cover letter assertions are unsubstantiated by the candidate's work history. Given the complete mismatch in core technical skills and industry experience, the candidate is completely unqualified for this role.

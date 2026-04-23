@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a different industry with no professional web development experience, lacking all required modern frameworks (React, Vue, Angular, Svelte) and testing/automation tools. While they demonstrate foundational web skills and a strong willingness to learn, their practical experience is limited to academic projects from a decade ago and does not meet the specific, hands-on technical requirements of the role.

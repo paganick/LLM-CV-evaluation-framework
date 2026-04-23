@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings 8.5 years of solid Java/J2EE experience, agile exposure, Git usage and a focus on code quality, which is relevant to software engineering generally. However they lack hands-on experience with core requirements: JavaScript/TypeScript, modern frontend frameworks (React), modern testing/automation tools, and the Node/npm ecosystem, and show no demonstrated AWS/CI-CD or Ramda experience. Given the role is React/modern-frontend focused, this profile does not meet the specific technical needs.

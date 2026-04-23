@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in the web industry, they are currently a Project Manager and lack recent, professional experience as a dedicated Front End Developer. Their profile shows no professional experience with the required React framework or TypeScript, and they lack the specified expertise in automated testing frameworks, CI/CD, and web security.

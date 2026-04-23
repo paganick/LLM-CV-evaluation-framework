@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is almost entirely in back-end Java/J2EE development, with only minimal, outdated front-end exposure (jQuery, Struts). They lack any demonstrable experience with the core requirements: modern front-end frameworks (React, Vue, Angular, Svelte), TypeScript, modern CSS tools, or relevant testing frameworks (Jest, Cypress). While they express interest, their professional background does not align with the specific technical skills demanded by the job description.

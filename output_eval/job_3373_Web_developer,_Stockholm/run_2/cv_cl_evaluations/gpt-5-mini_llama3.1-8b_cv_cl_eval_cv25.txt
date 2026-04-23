@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design with only incidental HTML/CSS experience and no demonstrated JavaScript/TypeScript, React, testing, Git, Node, CI/CD, or cloud/DevOps skills required for the role. Claims in the cover letter about security knowledge and willingness to learn are unsubstantiated by the resume and do not compensate for the lack of core technical experience. This applicant would need substantial retraining and hands-on development experience before being a viable hire for this position.

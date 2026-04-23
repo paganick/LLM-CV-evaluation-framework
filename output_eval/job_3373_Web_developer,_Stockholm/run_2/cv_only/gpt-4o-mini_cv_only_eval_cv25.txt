@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in graphic design and artistic roles, but lacks any demonstrated experience or skills in JavaScript, TypeScript, React, or other modern front-end frameworks mentioned in the job description. They also do not have hands-on testing experience, knowledge of web security, or familiarity with CI/CD tools and the NodeJS ecosystem, indicating a complete mismatch for this technical position.

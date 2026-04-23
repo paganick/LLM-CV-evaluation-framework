@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in product management and a background in technology, but their resume reveals little to no hands-on experience with the specific programming languages and frameworks mentioned in the job description, such as JavaScript, React, or testing frameworks. While they demonstrate strong leadership and collaboration skills in an Agile environment, they lack the technical proficiencies required for this role, primarily focusing on high-level management and strategy rather than direct execution in frontend development.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is applying for a business development position, whereas the job description is strictly for a highly technical software engineering role requiring expertise in React, TypeScript, and automated testing. Although the applicant mentions basic coding knowledge and specific tools like CircleCI, they explicitly lack the mandatory modern frontend framework experience and the core programming background required. There is a fundamental misalignment between the candidate’s career focus in sales and the technical engineering requirements of the role.

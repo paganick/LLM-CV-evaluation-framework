@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in sales management, with no demonstrated experience in software development, front-end technologies, or any technical skills listed in the job description. The resume lacks any mention of JavaScript, React, testing, Git, or other required technical competencies. This is a completely unqualified application for a front-end engineering role.

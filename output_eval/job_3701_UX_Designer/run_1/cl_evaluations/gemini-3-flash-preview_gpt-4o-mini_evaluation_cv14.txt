@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to meet the mandatory requirement for experience in an Agile software development environment, which is critical for the day-to-day operations described. Furthermore, they lack proficiency in the primary tool requested (Figma) and are only in the learning phase for necessary technical skills like HTML and CSS. Despite strong experience in user research and stakeholder management, these gaps in methodology and core software proficiency make them an unsuitable match for this specific technical role.

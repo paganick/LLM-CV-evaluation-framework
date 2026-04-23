@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions relevant technologies like JavaScript, HTML, and CSS, and experience with front-end frameworks, but lacks specific details and depth required by the job description, especially regarding React and testing. The cover letter focuses heavily on general IT experience rather than specific front-end development skills. The absence of details about testing, Git, security knowledge, and modern CSS tools are significant drawbacks.

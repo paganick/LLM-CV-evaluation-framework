@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned Java/J2EE developer but lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and functional programming. While they possess strong general software engineering principles and Agile experience, their technical profile does not align with the specific requirements for modern CSS tools, NodeJS, or frontend testing frameworks like Jest and Cypress.

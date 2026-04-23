@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career-changer with zero professional experience in frontend development, explicitly stating they are pivoting from customer service and management. While they mention theoretical knowledge of web security, they lack the required "hands-on experience" with React and testing frameworks, viewing them as tools they still need to "master" or "familiarize" themselves with. As a strict recruiter, this candidate is unqualified for a role requiring practical expertise in a production environment.

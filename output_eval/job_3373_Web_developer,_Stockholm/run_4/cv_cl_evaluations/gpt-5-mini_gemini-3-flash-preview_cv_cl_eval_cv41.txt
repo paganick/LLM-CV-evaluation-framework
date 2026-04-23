@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong systems engineering, troubleshooting and security fundamentals, but provides no concrete evidence of the core front-end skills required (JavaScript/TypeScript, React, HTML/CSS) or experience with modern front-end tooling, testing frameworks, and Git workflows. Their background is primarily infrastructure and legacy/server-side technologies, making them a marginal fit for a React-focused front-end engineering role that requires proven hands-on experience.

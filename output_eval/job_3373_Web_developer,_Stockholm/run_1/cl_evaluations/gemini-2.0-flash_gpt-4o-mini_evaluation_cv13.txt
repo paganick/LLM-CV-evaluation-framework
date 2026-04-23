@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience, particularly with JavaScript, HTML, CSS, and Angular, aligning with the job description's core requirements. However, the letter emphasizes project management experience more than hands-on React development, which is a key technology mentioned. While the candidate mentions familiarity with React and related tools, they lack demonstrable experience, leading to a moderate score.

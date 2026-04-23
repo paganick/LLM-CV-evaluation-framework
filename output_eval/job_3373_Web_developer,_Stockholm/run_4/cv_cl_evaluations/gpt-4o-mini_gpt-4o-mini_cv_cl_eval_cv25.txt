@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and project management but lacks the necessary experience in JavaScript, TypeScript, and modern front-end frameworks such as React. While they have a basic understanding of HTML, CSS, and some web security principles, their limited experience with testing frameworks and agile methodologies is concerning for a front-end developer role. Overall, the candidate demonstrates potential but does not meet the specific technical requirements of the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in marketing, public relations, and legal administration with no verifiable professional frontend engineering roles, projects, or technical experience listed. The cover letter asserts frontend skills (React, TypeScript, testing, CI/CD, AWS/Terraform), but those claims are unsupported by the work history or concrete technical evidence. Given the lack of demonstrable engineering experience and relevant technical deliverables, the candidate is not qualified for this frontend engineering role.

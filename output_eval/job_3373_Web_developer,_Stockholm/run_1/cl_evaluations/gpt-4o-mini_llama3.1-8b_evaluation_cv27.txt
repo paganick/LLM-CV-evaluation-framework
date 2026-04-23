@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant web development skills in JavaScript, TypeScript, HTML, and CSS, they lack specific experience with modern frameworks such as React and testing frameworks mentioned in the job description. Additionally, there is no indication of familiarity with Git, CI/CD tools, or knowledge of web security principles, which are critical for the role. Despite having strong administrative and soft skills, the technical requirements for this position remain largely unfulfilled.

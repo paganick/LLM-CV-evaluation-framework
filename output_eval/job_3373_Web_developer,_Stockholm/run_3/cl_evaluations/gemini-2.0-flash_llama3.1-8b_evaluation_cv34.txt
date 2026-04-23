@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions React and Git, aligning with the job description. They also highlight Agile experience and a passion for clean code. However, the cover letter focuses heavily on Salesforce Marketing Cloud and project management, which aren't core requirements of the outlined JavaScript/front-end focused job description.

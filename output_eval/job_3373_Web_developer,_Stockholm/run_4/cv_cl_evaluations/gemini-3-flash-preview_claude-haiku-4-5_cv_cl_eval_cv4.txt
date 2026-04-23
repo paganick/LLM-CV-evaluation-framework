@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the core technologies required, specifically React, TypeScript, and modern frontend testing frameworks like Jest or Cypress. While they have five years of software development experience, their background is heavily concentrated in C#, .NET, and Python-based data science rather than the specialized frontend ecosystem described. Their cover letter confirms they would require significant upskilling to meet the technical demands of the role.

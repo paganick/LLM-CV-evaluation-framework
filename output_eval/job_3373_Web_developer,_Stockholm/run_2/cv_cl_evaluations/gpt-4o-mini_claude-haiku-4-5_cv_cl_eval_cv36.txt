@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is attempting a career transition from microbiology to frontend development, demonstrating some understanding of the core technologies listed in the job description. However, they lack practical experience with JavaScript frameworks like React and do not showcase experience with essential testing tools or modern CSS methodologies. While they possess transferable skills, they do not meet the technical requirements necessary for this position.

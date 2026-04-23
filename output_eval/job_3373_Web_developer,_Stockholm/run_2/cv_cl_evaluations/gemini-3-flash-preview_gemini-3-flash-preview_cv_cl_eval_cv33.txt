@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate’s professional history and education are entirely focused on business banking, sales, and residential management, with no evidence of professional experience in software development. Despite the cover letter mentioning the required tech stack, the resume fails to list any relevant programming languages, frameworks, or technical projects, focusing instead on Microsoft Office and sales KPIs. This candidate is completely unqualified and lacks the foundational technical requirements for a frontend developer role.

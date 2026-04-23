@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates experience with Javascript and some older front-end frameworks like AngularJS, but lacks specific experience with React, which is a core requirement. While the candidate expresses interest in modern FE practices, the resume focuses more on Java and back-end technologies. The candidate only demonstrates limited experience with the modern toolchain described in the job posting.

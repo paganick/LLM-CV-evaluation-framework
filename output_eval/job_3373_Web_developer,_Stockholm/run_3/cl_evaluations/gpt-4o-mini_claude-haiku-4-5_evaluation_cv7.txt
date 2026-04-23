@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in design and a strong willingness to learn, but lacks direct experience with key technologies required for the position, including JavaScript, TypeScript, and React. While they demonstrate problem-solving skills and collaboration experience, they do not meet the essential technical requirements needed for a frontend developer role.

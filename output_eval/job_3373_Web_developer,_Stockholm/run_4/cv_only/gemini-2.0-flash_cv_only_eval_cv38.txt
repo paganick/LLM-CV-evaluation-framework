@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume focuses on film and media production, lacking any mention of the required front-end development skills such as JavaScript, React, or CSS. Their experience is primarily in content creation, editing, and social media management, which doesn't align with the job description's technical requirements. The resume also doesn't demonstrate experience with testing frameworks, CI/CD tools, or cloud platforms like AWS.

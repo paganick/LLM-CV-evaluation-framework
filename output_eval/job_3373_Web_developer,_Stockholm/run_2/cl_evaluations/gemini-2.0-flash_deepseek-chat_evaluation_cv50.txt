@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions proficiency in the required core technologies (JavaScript, TypeScript, HTML, CSS, React), the cover letter relies heavily on past experiences in unrelated fields. The extent of hands-on experience with testing and test automation, as well as modern CSS tools, linters, and the NodeJS ecosystem, is not explicitly demonstrated. The candidate's background suggests a potential learning curve to fully meet the demands of the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates strong seniority and alignment with the company’s infrastructure, specifically regarding the Ruby migration, security standards, and CI/CD tools. The candidate provides impressive metrics for testing efficiency and shows a solid grasp of backend and cloud technologies. However, the total absence of TypeScript in the letter and the admission of currently transitioning into React suggest a potential skill gap for a position requiring immediate proficiency in those core technologies.

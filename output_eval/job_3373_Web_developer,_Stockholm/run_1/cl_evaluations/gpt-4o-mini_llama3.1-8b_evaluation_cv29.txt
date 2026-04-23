@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant experience in business development and understands technical concepts, they lack specific hands-on experience with JavaScript, TypeScript, modern frontend frameworks (especially React), and testing frameworks as outlined in the job description. Additionally, their background does not demonstrate familiarity with essential skills like CI/CD tools, API design, or the NodeJS ecosystem, which are crucial for this role.

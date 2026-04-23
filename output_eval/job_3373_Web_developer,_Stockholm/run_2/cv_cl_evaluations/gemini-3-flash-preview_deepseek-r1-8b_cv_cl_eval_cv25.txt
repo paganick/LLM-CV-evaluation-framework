@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer applying for a high-level Software Engineering role and lacks the required professional experience in JavaScript, TypeScript, and React. The resume focuses almost exclusively on print media and visual design, with no evidence of work in software development, test automation, or cloud infrastructure. While the cover letter claims familiarity with technical tools, the professional history does not support the level of expertise needed for this technical position.

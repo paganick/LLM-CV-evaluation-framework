@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match, demonstrating over seven years of experience and proficiency in key areas like React, automated testing frameworks (Jest, TestCafe), and cloud infrastructure. They successfully address the security and collaboration requirements mentioned in the job description. However, the score is limited by the failure to explicitly mention TypeScript or functional programming, both of which are specifically highlighted as part of the current tech stack.

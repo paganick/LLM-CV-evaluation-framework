@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive experience in mainframe technologies and programming languages like COBOL and JCL but lacks the necessary skills and experience in modern web development technologies such as JavaScript, TypeScript, and front-end frameworks like React, VueJS, or Angular. Additionally, there is no evidence of experience with testing, Git, modern CSS tools, or familiarity with the NodeJS ecosystem, which are critical to the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited demonstrable experience in the specific technologies mentioned in the job description beyond basic HTML and CSS. While they express interest and some self-learning in JavaScript, React, and other FE tools, the resume lacks substantial project work or professional experience to validate these claims. The candidate's previous roles are in unrelated fields, making them a weak fit for a front-end developer position despite their enthusiasm.

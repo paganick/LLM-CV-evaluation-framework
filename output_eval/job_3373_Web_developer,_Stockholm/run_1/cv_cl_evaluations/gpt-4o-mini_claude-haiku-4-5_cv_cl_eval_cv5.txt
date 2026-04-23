@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in software development, their primary expertise lies in mainframe technologies, which does not align well with the modern frontend requirements of this role. They mention familiarity with core web technologies such as HTML, CSS, and JavaScript, but lack significant hands-on experience with React and other specified frontend frameworks. Additionally, there is no clear evidence of experience with testing frameworks or CSS tools mentioned in the job description.

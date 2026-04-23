@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management and cybersecurity, not commercial front-end development. The resume and cover letter lack concrete, hands-on experience with the required technologies (React, TypeScript, modern CSS, testing frameworks) and demonstrate no evidence of writing production front-end code. While they possess transferable soft skills and security knowledge, they are missing the core technical qualifications for this specific engineering role.

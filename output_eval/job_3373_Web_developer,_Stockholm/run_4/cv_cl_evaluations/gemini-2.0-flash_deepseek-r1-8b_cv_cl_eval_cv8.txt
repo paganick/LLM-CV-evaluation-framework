@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and systems testing, with limited evidence of the required JavaScript, TypeScript, or modern FE frameworks. While they express interest in web security and some relevant tools, their core experience doesn't align with the front-end focus and technologies outlined in the job description. The resume highlights test engineering experience, but not in the specific domain requested.

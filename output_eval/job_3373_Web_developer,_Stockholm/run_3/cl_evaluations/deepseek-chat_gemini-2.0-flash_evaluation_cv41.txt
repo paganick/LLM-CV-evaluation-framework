@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in system administration, not front-end development, which is a significant mismatch. While they mention foundational web technologies and a desire to learn, they lack demonstrable experience with React, TypeScript, testing, version control, and other specific technical requirements from the job description. Their problem-solving skills are noted, but the core technical competencies for the role are absent.

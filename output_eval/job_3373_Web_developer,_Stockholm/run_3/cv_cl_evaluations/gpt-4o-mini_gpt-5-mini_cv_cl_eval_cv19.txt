@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in graphic design and some experience with HTML/CSS, but lacks direct experience with JavaScript frameworks, testing automation, and other required skills such as Git, security knowledge, and CI/CD tools. While they show eagerness to learn, their current skill set does not align closely with the technical demands of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks documented professional experience with the mandatory technical stack, specifically failing to mention proficiency in JavaScript, TypeScript, or version control systems like Git. While the applicant has significant experience in operations and project leadership, their background does not demonstrate the hands-on frontend engineering expertise required for this role. The letter focuses on high-level management of technical initiatives rather than the direct application of modern development frameworks and testing suites.

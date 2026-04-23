@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's extensive experience is primarily in design, not front-end engineering. While they express eagerness to learn modern front-end technologies, they lack the required hands-on experience with React, testing, and related tools mentioned in the job description. The cover letter highlights design skills more prominently than demonstrable front-end engineering abilities.

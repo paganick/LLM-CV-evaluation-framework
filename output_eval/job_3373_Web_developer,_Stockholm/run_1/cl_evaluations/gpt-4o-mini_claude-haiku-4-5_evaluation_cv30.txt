@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in programming and data analytics, but they lack hands-on experience with key frontend technologies specified in the job description, such as JavaScript frameworks beyond ASP.NET and modern CSS tools. While their background indicates a strong analytical and collaborative ability, the absence of direct frontend development experience and specific knowledge of the technologies listed (e.g., React, testing frameworks, and security principles) limits their suitability for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a background in software development, their expertise is heavily skewed towards Java and backend technologies, not the frontend technologies specified in the job description. Although the candidate mentions JavaScript and HTML, the depth of experience with modern FE frameworks like React is not evident. The cover letter expresses interest in transitioning to frontend, but the resume lacks concrete experience, making them a potentially risky hire.

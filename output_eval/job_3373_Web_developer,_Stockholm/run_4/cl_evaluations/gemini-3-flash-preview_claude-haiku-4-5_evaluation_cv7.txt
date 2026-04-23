@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the essential technical qualifications for the role, explicitly stating they have no production experience with JavaScript, TypeScript, or React. Their 15-year background is in graphic design rather than software development, and the technical skills mentioned—such as Adobe Flash and Dreamweaver—are obsolete in a modern frontend environment. While the candidate possesses transferable soft skills, they fail to meet any of the mandatory programming, testing, or architectural requirements listed in the job description.

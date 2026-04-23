@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational skills (HTML, CSS, JavaScript, TypeScript, Git) and addresses some desired areas like Agile, security, and SASS. However, they lack hands-on experience with the key requirement of React or any modern front-end framework, and their experience with testing frameworks and other listed tools (e.g., Node.js, CI/CD) is stated as only fundamental or budding. This places them in the relevant industry but lacking specific, required experience.

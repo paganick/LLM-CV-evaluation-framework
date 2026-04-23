@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in the IT industry, the cover letter fails to mention any of the required technical skills such as JavaScript, TypeScript, or React. The experience is heavily focused on systems management and cyber operations rather than hands-on frontend development, making the candidate unqualified for this specific engineering role. There is no evidence of experience with modern testing frameworks, CSS tools, or the NodeJS ecosystem required.

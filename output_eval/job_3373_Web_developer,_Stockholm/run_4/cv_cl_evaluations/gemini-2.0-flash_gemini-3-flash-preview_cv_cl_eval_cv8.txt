@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is heavily focused on hardware and electronics testing, which is not the primary focus of the job description. While they express interest in JavaScript, TypeScript, and React, their resume lacks concrete experience in these areas. The cover letter attempts to bridge the gap, but the resume doesn't provide sufficient evidence of the required FE skills.

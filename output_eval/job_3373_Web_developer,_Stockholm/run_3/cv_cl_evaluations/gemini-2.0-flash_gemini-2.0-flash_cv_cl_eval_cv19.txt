@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's background is primarily in graphic design, with limited experience in front-end development. While they express interest in learning relevant technologies, the resume lacks the required skills and experience in JavaScript, TypeScript, modern FE frameworks, testing, and other essential qualifications outlined in the job description. The cover letter acknowledges this gap, further solidifying the mismatch between the candidate's skills and the job requirements.

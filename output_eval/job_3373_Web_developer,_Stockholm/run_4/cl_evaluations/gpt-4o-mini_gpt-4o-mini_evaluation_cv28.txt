@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant experience in data analysis and some familiarity with front-end technologies, but lacks significant hands-on experience in JavaScript, React, and testing frameworks. While they have demonstrated collaboration skills and a keen interest in coding practices, they do not meet several specific technical requirements outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java/JEE, which doesn't align well with the front-end focus of the job description. While they mention JavaScript, HTML, and CSS, their experience seems limited. The cover letter expresses interest in front-end frameworks, but the resume lacks concrete experience, making them a weak match for the role's core requirements.

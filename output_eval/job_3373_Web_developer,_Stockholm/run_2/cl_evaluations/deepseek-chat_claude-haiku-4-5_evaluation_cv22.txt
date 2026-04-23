@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is transitioning and lacks direct, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, and modern testing frameworks. While they demonstrate a strong willingness to learn and possess relevant soft skills, their technical experience is foundational and not yet aligned with the specific, practical requirements for a frontend developer role. The mention of Java and database projects further indicates a background not fully focused on modern frontend development.

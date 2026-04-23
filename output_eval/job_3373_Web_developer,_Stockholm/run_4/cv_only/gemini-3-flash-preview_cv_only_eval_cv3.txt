@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with no professional web development experience and lacks nearly all the specific technical requirements, including React, TypeScript, and modern testing frameworks. Their academic background and projects rely on outdated technologies like Flash and ActionScript, which do not align with the modern front-end stack requested. Furthermore, there is no evidence of experience with CI/CD tools, security practices, or cloud platforms mentioned in the job description.

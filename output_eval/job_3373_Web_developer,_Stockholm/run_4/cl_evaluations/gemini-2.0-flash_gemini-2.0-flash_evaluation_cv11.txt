@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in software testing, not front-end development. While they possess some foundational front-end skills, their experience with React, a core requirement, appears limited to an eagerness to learn. The cover letter highlights testing frameworks (GoogleUIAutomator) that aren't aligned with the job description's focus on Jest, TestCafe, or Cypress.

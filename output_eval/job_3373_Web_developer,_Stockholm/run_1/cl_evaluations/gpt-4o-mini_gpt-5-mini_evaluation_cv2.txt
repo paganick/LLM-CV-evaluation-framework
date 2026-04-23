@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong experience in server-side development with Java and related technologies but lacks direct experience with front-end frameworks and tools specified in the job description, particularly React and modern CSS tools. While they show motivation to transition into front-end development and have some relevant skills, the specific experience with the technologies mentioned and a genuine passion for modern front-end practices appears to be insufficient.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a software engineering background, with limited explicit UI/UX design experience as described in the job description. While the cover letter attempts to bridge the gap by referencing UI implementation within game development, there's a lack of specific UI/UX design projects and a portfolio, which are crucial requirements. The candidate's skills appear more aligned with software development than user interface/user experience design.

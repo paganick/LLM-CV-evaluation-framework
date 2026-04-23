@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates relevant skills in JavaScript, TypeScript, HTML, CSS, and has experience with Git, their background is primarily in finance operations, lacking extensive hands-on experience with front-end frameworks beyond React. The cover letter indicates an interest in testing frameworks but does not explicitly mention experience with the specific tools listed in the job description. Additionally, the candidate lacks familiarity with several other necessary technologies such as NodeJS and CI/CD tools, which prevents a higher score.

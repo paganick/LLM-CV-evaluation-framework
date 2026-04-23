@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, and demonstrates familiarity with the Node.js ecosystem as well as API design. However, they lack explicit experience with modern front-end frameworks like React, and while they mention testing experience, they do not specify knowledge in the required testing frameworks or CI/CD tools outlined in the job description. Overall, they align well with the role but missing some specific requirements prevents a higher score.

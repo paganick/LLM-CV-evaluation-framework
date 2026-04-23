@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is heavily skewed towards UX/UI design, with only implied front-end development skills. They lack explicit, demonstrable experience with key job requirements like testing frameworks (Jest, Cypress), modern CSS tools (SASS, Styled Components), Git, and the specific tech stack (Node.js, React tooling). While they show some awareness of Agile and security concepts, their direct coding and technical implementation experience for a developer role is insufficiently proven.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing automation, not frontend development, and they lack direct, professional experience with the core technologies listed in the job description (React, TypeScript, modern CSS tools). While they demonstrate transferable soft skills and a foundational interest in coding, their resume does not show hands-on experience with the required frameworks, testing libraries, or development tools. This represents a significant career transition with a substantial skills gap for a senior-level frontend role.

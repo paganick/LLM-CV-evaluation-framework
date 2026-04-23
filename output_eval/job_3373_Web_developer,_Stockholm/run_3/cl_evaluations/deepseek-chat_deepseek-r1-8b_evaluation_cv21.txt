@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in the correct industry but is a poor technical match for the specific role. The job description heavily emphasizes modern front-end frameworks (React), TypeScript, and specific tooling, none of which are mentioned in the cover letter. The candidate's experience is primarily in .NET/C# and SQL, which are not listed as requirements, indicating a significant lack of the required front-end and full-stack JavaScript/Node.js skills.

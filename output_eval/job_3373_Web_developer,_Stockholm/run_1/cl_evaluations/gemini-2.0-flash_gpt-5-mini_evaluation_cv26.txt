@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's cover letter highlights experience in marketing, communications, and legal administration, lacking any demonstrable experience with the technologies listed in the job description. The focus is on transferable skills rather than direct technical expertise in front-end development. There is no mention of Javascript, React, or any of the core FE technologies mentioned in the job description.

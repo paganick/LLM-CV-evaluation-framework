@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an infrastructure and systems administration professional whose background lacks all the mandatory modern frontend development skills, such as React, TypeScript, and CSS. While the resume indicates experience in IT systems and hardware maintenance, there is no evidence of proficiency in JavaScript frameworks, testing automation, or the CI/CD tools specified. The candidate's profile is fundamentally misaligned with the requirements for a senior-level software engineering role.

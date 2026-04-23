@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in software testing and some background in programming, but lacks proficiency in key technologies and frameworks mentioned in the job description, such as JavaScript, TypeScript, and modern front-end frameworks like React. Their primary expertise in electronics and lack of specific web development experience make them a weak match for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, required technical skills listed in the job description. While they mention React and general testing, they fail to address key requirements like TypeScript, modern CSS tools, specific testing frameworks, Node.js, functional programming, security knowledge, and the other listed technologies. The experience described is not closely aligned with the detailed tech stack and responsibilities of the role.

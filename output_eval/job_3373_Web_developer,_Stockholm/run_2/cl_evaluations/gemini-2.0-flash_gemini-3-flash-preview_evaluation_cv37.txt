@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates experience with JavaScript, TypeScript, React, Git, and testing, their background is heavily focused on IT management rather than hands-on front-end development. The letter highlights strategic leadership more than specific coding achievements. Their understanding of AWS and API design is a plus, but the focus on management experience is a detractor.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in leadership and project management, demonstrating strong problem-solving skills and an understanding of process automation. However, they lack specific hands-on experience with modern CSS tools, other frameworks beyond React, and CI/CD tools, which are essential for the Front-End Developer position. Their transition to software engineering is promising but does not fully align with the technical depth required for this role.

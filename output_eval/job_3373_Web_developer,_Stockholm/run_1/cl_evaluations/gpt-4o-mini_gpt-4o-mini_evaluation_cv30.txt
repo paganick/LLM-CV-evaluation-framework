@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, and mentions familiarity with Git and test automation, which aligns well with the job description. However, they lack specific experience with the mentioned modern front-end frameworks like React, and do not reference knowledge of security practices or the NodeJS ecosystem as explicitly required. While their background is related, there are gaps in matching the specific technical requirements.

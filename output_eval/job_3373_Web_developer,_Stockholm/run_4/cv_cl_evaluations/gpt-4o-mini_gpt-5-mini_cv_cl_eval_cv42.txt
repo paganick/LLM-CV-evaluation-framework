@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in finance and operations management but does not demonstrate relevant technical skills in JavaScript, front-end frameworks (such as React), testing, or automation as outlined in the job description. While they have led technology implementations, the lack of hands-on experience in modern software development practices and collaboration with technical teams makes them a poor fit for the role.

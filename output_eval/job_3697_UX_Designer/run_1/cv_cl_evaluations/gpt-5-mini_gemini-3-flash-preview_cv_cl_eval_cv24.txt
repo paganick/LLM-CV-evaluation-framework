@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: Candidate has extensive visual design and front-end development experience, a portfolio link, and over 10 years in related roles which meets the baseline industry experience. However the resume lacks explicit evidence of modern wireframing/prototyping tools (InVision, Wireframe.cc/Figma/Sketch), formal UX process artifacts and measurable UX outcomes, and the submission is poorly organized, making it uncertain they meet the job's specific UX tool and collaboration requirements.

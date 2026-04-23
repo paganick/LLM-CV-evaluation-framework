@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is heavily rooted in the .NET ecosystem and legacy libraries like jQuery, lacking the required hands-on expertise in React, TypeScript, and modern testing frameworks. There is no evidence of experience with the mandatory Node.js ecosystem, functional programming, or cloud infrastructure tools like AWS and Terraform. While the candidate understands Agile methodologies, the significant gap in core technical skills makes them an unsuitable match for this specific front-end stack.

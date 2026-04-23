@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development but severely lacks the specific, modern technical skills required. The resume shows no experience with React, TypeScript, modern CSS tools, testing frameworks, or the other listed technologies, relying instead on outdated stacks. While the cover letter attempts to bridge the gap, it provides no concrete evidence of hands-on work with the core technologies from the job description.

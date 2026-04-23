@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial visual design and legacy web tooling experience (Dreamweaver, Flash, UI assets) and demonstrates learning aptitude and collaboration skills, but lacks the core technical requirements for this frontend developer role — no demonstrated JavaScript/TypeScript, React, modern CSS, testing/automation, Node/npm, Git, or web security experience. Given the significant gap in production-level frontend engineering skills and tooling, they are not ready for this position without substantial retraining or hands-on development experience.

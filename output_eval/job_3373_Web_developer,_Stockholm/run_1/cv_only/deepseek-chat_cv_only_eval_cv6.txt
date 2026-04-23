@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and lists foundational skills like JavaScript, HTML, and CSS. However, the resume shows a heavy specialization in Drupal and PHP backend development, with no mention of modern React, TypeScript, testing frameworks, or the other specific tools and practices (e.g., functional programming, CI/CD, AWS) required by the job description. The core experience does not align with the specific frontend engineering and modern toolchain focus of the role.

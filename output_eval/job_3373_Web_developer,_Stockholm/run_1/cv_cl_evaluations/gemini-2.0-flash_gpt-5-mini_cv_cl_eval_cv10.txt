@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant experience with JavaScript, HTML, and CSS, along with experience in Agile environments and Git. However, the resume heavily focuses on Java and older front-end technologies like AngularJS, with limited evidence of React experience as desired in the job description. The cover letter expresses interest in modern FE practices, but lacks concrete evidence of hands-on experience with the specific technologies mentioned in the job description beyond AngularJS.

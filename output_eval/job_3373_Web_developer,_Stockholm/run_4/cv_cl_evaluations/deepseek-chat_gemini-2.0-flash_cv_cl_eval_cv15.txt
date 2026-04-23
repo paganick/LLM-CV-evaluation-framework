@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in general IT management and troubleshooting, not modern front-end development. While they list foundational web technologies, they lack any demonstrated experience with React, TypeScript, modern testing frameworks, or the other specific tools and practices (CI/CD, functional programming, AWS) required by the job description. Their experience is outdated and not aligned with the specialized, framework-focused role.

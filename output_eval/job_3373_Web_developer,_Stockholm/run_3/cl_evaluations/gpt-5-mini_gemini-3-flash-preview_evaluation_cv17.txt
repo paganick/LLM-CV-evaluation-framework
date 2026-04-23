@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates many of the listed technologies and strong transferable skills (testing, Node ecosystem, security awareness, Agile experience), but the cover letter lacks concrete evidence of hands-on, production-grade frontend work (e.g., portfolio, specific React projects, measurable frontend outcomes) and depth in modern CSS/CI practices. Their background is heavily engineering/project-management oriented which is valuable but does not sufficiently prove the sustained, demonstrable frontend development experience this role requires.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT and cybersecurity but lacks the specific front-end development skills listed in the job description, particularly in JavaScript, TypeScript, HTML, CSS, and modern frameworks such as React. Additionally, they do not demonstrate hands-on experience with testing and test automation or familiarity with Agile methodologies, which are critical for this role. Although the candidate has leadership and managerial experience, their technical skill set does not align with the job requirements.

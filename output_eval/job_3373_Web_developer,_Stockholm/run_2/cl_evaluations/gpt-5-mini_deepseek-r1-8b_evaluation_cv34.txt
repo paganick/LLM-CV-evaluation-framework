@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant technical-adjacent experience (HTML/CSS, SQL, scripting, platform configuration) and strong project management and QA exposure, but lacks demonstrated hands-on experience with core requirements: JavaScript/TypeScript, React, modern testing frameworks, Git-based workflows, Node ecosystem, and web security practices. Those are essential for this role and the cover letter relies on willingness to learn rather than evidence of proficiency, so the fit is weak despite transferable skills.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in construction and recent IT degree but lacks professional web development experience. They mention familiarity with HTML, CSS, and JavaScript but doesn't showcase experience with modern FE frameworks like React which is used by the company. Although the candidate mentions interest in technologies like TypeScript and AWS, they don't show actual experience.

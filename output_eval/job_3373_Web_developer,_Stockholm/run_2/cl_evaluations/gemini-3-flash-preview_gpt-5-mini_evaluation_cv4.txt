@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience in the mandatory core technologies, specifically React and TypeScript, explicitly stating a need to learn these rather than demonstrating current proficiency. Additionally, the application fails to address critical security requirements like OWASP or specific testing frameworks requested in the job description. While the candidate has a solid background in general software development and APIs, they do not meet the specific technical requirements for this frontend-focused role.

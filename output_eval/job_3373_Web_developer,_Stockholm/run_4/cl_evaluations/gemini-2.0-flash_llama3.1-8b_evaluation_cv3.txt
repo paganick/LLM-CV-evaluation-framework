@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is a significant departure from the job requirements, with a heavy emphasis on outdated technologies like Flash and Java Applets. While they mention JavaScript and HTML/CSS, the letter lacks specific examples of experience with modern front-end frameworks, especially React, which is central to the job. The listed skills do not closely align with the job description's requirements for testing, security knowledge, and specific tools (Jest, Cypress, CI/CD).

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is senior finance and operations leadership with no demonstrated hands-on front-end development skills or experience in JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, NodeJS, or cloud/CI workflows required for this role. While they have strong project management and systems-implementation experience, that does not substitute for the technical competencies and tooling expertise the job requires. This is a mismatch in industry and core skills, so the candidate is completely unqualified for the position.

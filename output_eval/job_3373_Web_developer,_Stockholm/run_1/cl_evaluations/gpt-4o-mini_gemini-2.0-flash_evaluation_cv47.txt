@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in project management and collaboration, but lacks direct experience with key technologies such as JavaScript, TypeScript, and testing frameworks mentioned in the job description. While there is proficiency in HTML and a willingness to learn React, the absence of hands-on experience with modern front-end frameworks and development practices presents a significant gap. Overall, the candidate seems to be from a different industry with only partial relevance to the requirements.

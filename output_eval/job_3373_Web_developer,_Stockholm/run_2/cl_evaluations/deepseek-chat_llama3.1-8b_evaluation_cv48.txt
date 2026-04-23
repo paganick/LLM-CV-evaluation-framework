@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in IT support and hardware, which is the relevant technology industry but lacks the specific front-end development skills required. The cover letter mentions modern CSS and testing tools, but the core requirements like JavaScript, React, TypeScript, and modern FE frameworks are not demonstrated with professional experience. The bulk of their described expertise is misaligned with the software engineering focus of the job description.

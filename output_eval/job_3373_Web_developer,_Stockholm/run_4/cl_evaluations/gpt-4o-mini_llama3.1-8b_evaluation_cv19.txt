@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has graphic design experience and some relevant technical skills in HTML/CSS and modern CSS tools, which aligns partially with the job description. However, they lack direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and experience with Git and security principles. Overall, while they have relevant industry experience, they do not meet several key technical requirements of the position.

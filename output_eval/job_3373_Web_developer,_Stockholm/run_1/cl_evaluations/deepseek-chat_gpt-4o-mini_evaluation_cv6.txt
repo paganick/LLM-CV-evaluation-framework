@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in core frontend technologies, testing, security, and Agile collaboration, directly matching many job requirements. However, the cover letter lacks explicit mention of key technologies from the description, such as TypeScript, React, and modern CSS tools, and does not address functional programming or specific testing frameworks. The candidate's eagerness to learn React is noted, but direct, proven experience is not demonstrated, placing them as a strong but not perfect match.

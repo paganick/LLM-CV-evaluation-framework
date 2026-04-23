@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume is primarily focused on graphic design and lacks the required JavaScript, TypeScript, and modern FE frameworks experience. While the candidate lists HTML/CSS coding under skills and education, the depth and practical experience needed for the role are not demonstrated. The resume does not mention any testing frameworks, CI/CD tools, or backend technologies required in the job description.

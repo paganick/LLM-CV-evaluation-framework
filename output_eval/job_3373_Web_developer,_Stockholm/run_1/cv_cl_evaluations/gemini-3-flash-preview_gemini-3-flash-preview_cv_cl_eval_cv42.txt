@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, possessing a background exclusively in finance operations and management rather than software engineering. There is zero evidence of proficiency in the required technical stack, including JavaScript, React, TypeScript, or modern testing frameworks. While the candidate has managed technical projects from a business perspective, they lack the foundational coding experience and engineering expertise specified in the job description.

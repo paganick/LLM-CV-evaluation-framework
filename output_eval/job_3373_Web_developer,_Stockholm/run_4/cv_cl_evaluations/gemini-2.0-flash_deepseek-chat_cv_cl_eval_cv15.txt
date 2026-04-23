@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant background in IT and web development but lacks specific, demonstrable experience with the modern front-end frameworks (React, VueJS, Angular, Svelte) mentioned in the job description; their experience is more foundational. While the cover letter mentions an evolving experience with React, this is not sufficiently supported by the resume. The resume emphasizes a broader IT skillset rather than focused front-end expertise.

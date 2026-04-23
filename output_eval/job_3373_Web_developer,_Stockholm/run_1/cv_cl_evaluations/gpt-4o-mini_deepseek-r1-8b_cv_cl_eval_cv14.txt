@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and a solid background in web development, but they lack hands-on experience with modern JavaScript frameworks like React, which is essential for this role. Their familiarity with Git and testing practices is noted, but there is a significant gap in the required modern front-end technologies and specific testing automation tools mentioned in the job description.

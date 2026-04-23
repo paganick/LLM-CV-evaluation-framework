@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position. While my professional title has been Senior Marketing Automation Consultant, my career has been fundamentally built on a deep technical foundation in implementing, integrating, and optimizing complex web-based platforms. The technical stack outlined in your description aligns directly with the core of my hands-on, problem-solving work.
+
+For nearly a decade, I have been architecting and building sophisticated marketing solutions, which has required a robust understanding of front-end principles. My role has consistently involved developing custom subscription centers, dynamic email templates, and complex data-driven programs—all of which demand precise, clean code in HTML, CSS, and JavaScript. I have extensive hands-on experience with systems integration via APIs, which has provided me with a practical understanding of security considerations like OAuth and CORS in a real-world context.
+
+My experience is defined by more than just technical execution; it is rooted in a methodology that mirrors your requirements. I have developed and led automation testing efforts for platforms like Eloqua and Salesforce, creating robust QA processes and documentation. This demonstrates my inherent passion for quality, testing, and process improvement. Furthermore, my career has been spent as a strong collaborator in Agile, cross-functional environments, working directly with marketing, sales, and web development teams to translate business requirements into technical solutions. I am keenly interested in understanding full domains, as evidenced by my work managing integrations with numerous third-party vendors and platforms.
+
+I am deeply motivated by the challenge of writing truly clean, maintainable code and have a proven track record of independently managing complex projects from conception to completion. I am now purposefully seeking to transition this analytical mindset, my passion for elegant technical solutions, and my collaborative approach into a dedicated front-end development role. I am confident that my unique blend of strategic client-facing experience and hands-on technical production would bring a valuable perspective to your team.
+
+Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: [5]
+Reasoning: The candidate has sales experience but lacks the specific digital solutions experience (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI, Design Thinking, UX Research) mentioned in the job description. While there's client-facing experience, it doesn't strongly align with the technology focus required. The candidate's experience appears more general marketing and sales, rather than digital solution sales.

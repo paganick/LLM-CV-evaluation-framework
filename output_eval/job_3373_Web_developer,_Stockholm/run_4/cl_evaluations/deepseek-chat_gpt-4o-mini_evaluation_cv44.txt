@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and soft skills but lacks specific, demonstrable technical proficiency in key required areas. The cover letter is heavily focused on UX/UI design and mentions front-end technologies only in passing, without concrete examples of hands-on development with React, testing frameworks, or the modern toolchain listed. Critical requirements like Git, modern CSS tools, and detailed testing automation experience are not addressed.

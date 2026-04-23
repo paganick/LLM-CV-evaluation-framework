@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume contains no verifiable UX roles, projects, or tools (no Figma, prototyping artifacts, or HTML/CSS/JS exposure shown) despite claims in the cover letter. There is also no clear evidence of working in an Agile software environment, running workshops, conducting user research, or managing a design system. Given the mismatch between assertions and documented experience, the candidate is relevant to the industry at a high level but lacks the specific, demonstrable UX experience required.

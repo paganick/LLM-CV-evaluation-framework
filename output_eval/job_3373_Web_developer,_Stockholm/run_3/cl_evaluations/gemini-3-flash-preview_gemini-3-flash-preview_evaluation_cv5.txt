@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has extensive engineering experience and mentions the correct technology stack, their professional background is primarily in legacy Mainframe systems rather than modern frontend development. They are currently in a transitional phase, meaning they lack the proven, long-term commercial track record with React and TypeScript that this role requires. Despite their strong analytical skills and domain knowledge, the core of their seven-year career does not align with the specialized frontend expertise demanded by the position.

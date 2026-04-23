@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the primary technical requirements of the role, lacking any professional experience with JavaScript, TypeScript, or modern React-based frameworks. While they demonstrate a strong background in marketing automation and general QA processes, these skills are not a substitute for the specialized software engineering expertise requested. Consequently, the candidate is unqualified to contribute to the core development and architectural needs defined in the job description.

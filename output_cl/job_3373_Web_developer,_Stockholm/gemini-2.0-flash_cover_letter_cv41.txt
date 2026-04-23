@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position. With several years of experience in system administration and a proven ability to learn and adapt to new technologies, I am confident I possess a solid foundation to quickly become a valuable asset to your team.
+
+My background as an Information Technology Specialist involved extensive troubleshooting of complex infrastructure, including network management services and operating system monitoring. While my experience has been focused on system administration, I am eager to transition my skills into front-end development, particularly with React.
+
+I am familiar with HTML, CSS, and JavaScript, and I am keen to learn TypeScript. My experience in identifying system errors and improving accuracy, as demonstrated by a 15% improvement through root cause analysis, highlights my analytical and problem-solving abilities. Furthermore, my experience with scripting and automation aligns with the clean code practices you value.
+
+I am a strong collaborator with experience working in team environments. I am confident in my ability to learn quickly and contribute to your team's success.
+
+Thank you for considering my application. I am enthusiastic about the opportunity to learn more about this role.
+
+Sincerely,
+Alexis

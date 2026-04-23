@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has seven years of IT experience, their background is predominantly in Java-based backend development rather than modern frontend engineering. They lack professional experience with the required modern frameworks like React, Vue, or Angular, and there is no mention of TypeScript proficiency. Furthermore, their testing and toolset experience (JUnit, JMeter, SOA) is backend-centric and does not align with the frontend-specific requirements like Jest, Cypress, or SASS.

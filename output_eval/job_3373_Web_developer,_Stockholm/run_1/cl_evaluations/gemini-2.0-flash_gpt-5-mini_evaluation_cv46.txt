@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily server-side and database focused, lacking explicit front-end experience, especially with React, the company's framework of choice. While the candidate expresses eagerness to learn, the cover letter highlights skills that are not directly relevant to the job description's emphasis on modern front-end technologies and testing methodologies. The candidate demonstrates potential but needs to acquire practical skills to be considered a strong fit.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a foundation in JavaScript, HTML, and CSS, and demonstrated some relevant achievements in web development. However, they lack specific hands-on experience with modern frameworks like React, as well as comprehensive testing and automation skills mentioned in the job description. While they possess a broad range of IT skills, the lack of direct experience with the core technologies and practices required for this role limits their suitability.

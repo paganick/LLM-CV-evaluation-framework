@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant IT experience and has developed web applications, but lacks specific experience with modern frontend frameworks like React, VueJS, or Angular as required in the job description. While they express interest in learning React and have a strong background in related technologies, they do not fully meet the testing and CI/CD experience requirements nor do they mention familiarity with tools like ESLint or Prettier, which are important for this role.

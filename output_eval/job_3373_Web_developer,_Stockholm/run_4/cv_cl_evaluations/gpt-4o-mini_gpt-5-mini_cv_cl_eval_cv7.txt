@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design but lacks the necessary technical skills in JavaScript, TypeScript, and contemporary front-end frameworks like React, as stated in the job description. While there is an acknowledgment of interest in learning these technologies, the current lack of hands-on experience in relevant programming and testing practices, as well as front-end development, makes them a weak fit for this role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, proactive alignment with the core technical stack and team values, explicitly matching key requirements like React, TypeScript, testing with Jest, and OAuth. However, the lack of direct, hands-on professional development experience creates a gap against the "hands-on experience" expectation, and some listed desirable skills like specific CI/CD tools or Ramda are not addressed. The pivot is well-argued but remains a transition, not a proven track record.

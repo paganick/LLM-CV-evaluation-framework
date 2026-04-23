@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with the core technologies listed in the job description, particularly JavaScript, React, and testing frameworks. While they express a willingness to learn, the letter heavily emphasizes their background in a different field (materials analysis). Their experience with data visualization and version control is relevant but not sufficient to compensate for the missing front-end skills.

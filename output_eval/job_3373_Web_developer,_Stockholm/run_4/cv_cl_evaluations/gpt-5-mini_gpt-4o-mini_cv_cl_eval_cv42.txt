@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume demonstrates a long career in finance operations and project/financial management with no verifiable front-end development experience, code samples, or relevant technical roles. Required skills such as JavaScript/TypeScript, React, HTML/CSS, Node ecosystem, testing frameworks, and CI/CD are absent from the resume, and the cover letter assertions are unsupported by concrete evidence. While strong in project leadership and process improvement, the candidate does not meet the technical qualifications for this front-end developer role.

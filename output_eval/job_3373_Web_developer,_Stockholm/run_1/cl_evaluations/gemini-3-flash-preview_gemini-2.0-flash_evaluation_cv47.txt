@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical qualifications, including JavaScript, TypeScript, and practical experience with React or modern testing frameworks. Their background is in business development rather than software engineering, and they explicitly state they have yet to learn the primary technologies required for the role. This profile represents a complete mismatch for a developer position requiring established technical proficiency.

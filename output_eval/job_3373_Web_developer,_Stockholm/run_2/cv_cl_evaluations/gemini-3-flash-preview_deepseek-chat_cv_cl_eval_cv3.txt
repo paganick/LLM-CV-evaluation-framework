@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional web development experience and possesses an outdated technical profile focused on obsolete technologies like Flash, ActionScript, and Dreamweaver. There is no evidence of proficiency in the required modern stack, specifically React, TypeScript, modern testing frameworks, or CI/CD pipelines. While the candidate has a foundational IT degree, it was completed over a decade ago and does not align with the current industry standards or specific senior-level requirements of the role.

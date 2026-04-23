@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in PHP, with limited hands-on experience in the required JavaScript/React stack. While they express a willingness to learn, the cover letter doesn't demonstrate sufficient experience with testing frameworks, modern CSS tools, or the NodeJS ecosystem mentioned in the job description. The listed experience in other areas appears more tangential than core to the role's requirements.

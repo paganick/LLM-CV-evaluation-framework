@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate attempts to relate past sales and leadership roles to frontend development, which is a weak connection. While they mention HTML, the cover letter emphasizes skills and experiences (e.g., desktop publishing, certifications unrelated to frontend) that are not directly relevant to the core requirements of React, TypeScript, and deeper FE knowledge. The candidate highlights an interest in technologies mentioned in the job description but lacks demonstrated extensive experience.

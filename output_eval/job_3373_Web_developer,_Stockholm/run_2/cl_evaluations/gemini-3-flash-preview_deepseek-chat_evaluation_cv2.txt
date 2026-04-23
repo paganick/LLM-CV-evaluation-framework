@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java developer who lacks professional, hands-on experience with the required frontend stack, explicitly stating they are still "developing proficiency" in React. They do not demonstrate mastery of essential requirements such as web security, frontend testing frameworks (Jest/Cypress), or modern CSS tools. While they have strong general engineering foundations, they are unqualified for a role requiring established expertise in modern frontend development.

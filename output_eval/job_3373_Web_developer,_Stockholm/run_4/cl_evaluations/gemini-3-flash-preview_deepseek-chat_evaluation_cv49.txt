@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer from Data Science who lacks professional, hands-on experience with React and modern frontend testing frameworks like Jest or Cypress. While they possess foundational knowledge of JavaScript and TypeScript, they fail to demonstrate practical application of web security, modern CSS tools, or functional programming in a development environment. The application relies heavily on transferable skills from statistical modeling rather than proven frontend engineering expertise.

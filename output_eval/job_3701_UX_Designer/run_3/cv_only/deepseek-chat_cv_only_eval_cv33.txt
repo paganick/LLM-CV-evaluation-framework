@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in Master Data Management (MDM) architecture and integration, which is a different field from User Experience (UX) Design. The resume shows no evidence of commercial UX design experience, user research, prototyping with Figma, or working in an Agile environment as required. While there is a mention of HTML/CSS, it is in the context of system integration, not UI design system management.

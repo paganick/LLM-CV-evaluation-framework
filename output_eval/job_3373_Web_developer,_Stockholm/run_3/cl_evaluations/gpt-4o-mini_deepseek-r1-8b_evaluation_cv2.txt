@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant industry experience as a Technical Designer and has a strong background in Java/J2EE technologies. However, they lack hands-on experience with several listed technologies such as React (beyond familiarity), modern CSS tools, testing frameworks, and CI/CD tools essential for the position. While they demonstrate a willingness to learn and adapt, they do not fully meet the specific requirements stated in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE backend development and AngularJS, which is an outdated frontend framework. While they mention some relevant concepts (Agile, testing, Git), they lack hands-on experience with the core required technologies: modern React, TypeScript, and the specific testing and CSS tools listed. Their experience is not aligned with the current tech stack and the role's focus on modern frontend engineering.

@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, CSS, and experience with .NET development, but lacks experience with modern FE frameworks such as React, VueJS, Angular, or Svelte. There is also no mention of testing frameworks or CI/CD tools, which are essential for the role. The candidate's experience seems more backend-focused, and doesn't align well with the front-end focus of the job description.

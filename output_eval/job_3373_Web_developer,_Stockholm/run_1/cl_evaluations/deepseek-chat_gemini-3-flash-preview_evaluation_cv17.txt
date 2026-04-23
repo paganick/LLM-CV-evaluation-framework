@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical requirements, including React, testing, Node.js, security, and CI/CD. However, the cover letter is overly dominated by unrelated civil engineering achievements, which dilutes the focus on frontend development. While the skills are transferable, the lack of direct, explicit frontend project experience and portfolio context prevents a higher score.

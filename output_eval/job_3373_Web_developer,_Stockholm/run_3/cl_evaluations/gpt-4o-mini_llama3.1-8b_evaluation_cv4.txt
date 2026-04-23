@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in software development with relevant experience in several key programming languages and frameworks. However, they do not mention specific experience with TypeScript, which is highlighted in the job description. Their familiarity with modern technologies and collaboration in Agile environments aligns well, but there are gaps regarding the web security knowledge mentioned.

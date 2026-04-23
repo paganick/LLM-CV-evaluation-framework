@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in design and media production, which relates to front-end development; however, they lack specific hands-on experience with key technologies such as JavaScript, React, and testing frameworks mentioned in the job description. They demonstrate general skills in collaboration and documentation but do not meet many technical requirements or familiarity with modern development practices expected for the role.

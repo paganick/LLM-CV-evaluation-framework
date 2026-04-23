@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in systems engineering and IT, indicating a solid foundational knowledge of technology. However, they lack direct experience with key requirements such as JavaScript, React, and modern testing frameworks. Their background seems more focused on system administration rather than front-end development, which is essential for the role.

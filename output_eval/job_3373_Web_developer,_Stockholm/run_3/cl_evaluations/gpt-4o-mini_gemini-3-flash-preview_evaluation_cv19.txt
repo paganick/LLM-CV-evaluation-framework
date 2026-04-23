@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in graphic design and foundational knowledge of HTML and CSS, as well as some exposure to modern development concepts. However, they lack hands-on experience with essential skills such as JavaScript, React, testing frameworks, and Git, which are crucial for the Frontend Developer position. Furthermore, specific knowledge of security practices and familiarity with the NodeJS ecosystem and CI/CD tools are not addressed in the letter.

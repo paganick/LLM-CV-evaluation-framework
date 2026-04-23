@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows a 20+ year career exclusively in senior product management, marketing, and business development, with zero evidence of hands-on software engineering work. The cover letter attempts to claim technical skills but provides no concrete proof of professional experience with the required technologies like React, TypeScript, or testing frameworks. This is a severe mismatch for a hands-on Frontend Engineer role, placing the candidate in the wrong functional discipline.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks hands-on experience with the required modern front-end stack, specifically missing React, TypeScript, and the comprehensive testing experience (unit, E2E) mandated by the job description. Their background is heavily centered on the .NET ecosystem and database management rather than the modern CSS, Node.js, and security protocols required for this role. While they possess basic Git and Agile knowledge, they do not meet the core technical proficiency levels for a front-end specialist.

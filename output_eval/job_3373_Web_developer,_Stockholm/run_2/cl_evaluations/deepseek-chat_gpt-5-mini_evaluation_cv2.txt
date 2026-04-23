@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has strong backend Java experience and demonstrates relevant soft skills, but lacks direct, hands-on experience with the core front-end technologies listed in the job description (React, TypeScript, modern CSS tooling). While they express motivation to learn and have solid engineering fundamentals, the absence of proven, professional front-end development work is a significant gap against the specific technical requirements.

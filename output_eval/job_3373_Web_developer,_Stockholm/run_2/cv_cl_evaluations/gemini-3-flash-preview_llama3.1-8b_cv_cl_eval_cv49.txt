@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a data analyst whose profile completely lacks the mandatory technical skills required for this front-end engineering role, such as JavaScript, TypeScript, HTML, and CSS. While the cover letter mentions React, the resume provides no evidence of experience with web development, front-end frameworks, or DevOps tools. This is a total mismatch between a data science background and a specialized software development position.

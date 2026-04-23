@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on systems administration and infrastructure support, lacking demonstrable experience with front-end technologies like JavaScript, React, or modern CSS tools. While the candidate possesses general technical skills, there is no evidence of relevant experience in web development, testing frameworks, or CI/CD practices mentioned in the job description. The skill set is fundamentally misaligned with the requirements of a front-end developer role.

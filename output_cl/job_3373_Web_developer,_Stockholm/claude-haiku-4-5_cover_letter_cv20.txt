@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With two years of professional web development experience and a proven track record of delivering high-quality solutions in collaborative Agile environments, I am confident in my ability to contribute meaningfully to your team.
+
+My technical foundation aligns well with your core requirements. I have extensive hands-on experience with JavaScript, HTML, CSS, and modern web development tools. Throughout my career at the Application Development Network, I have demonstrated proficiency with testing frameworks, version control systems like GitHub, and security best practices including role-based authorization and form-based authentication. My experience implementing client-side validations and working with AJAX controls demonstrates my understanding of web security principles.
+
+What distinguishes my candidacy is my genuine passion for clean, maintainable code and my collaborative approach to development. I have consistently worked across cross-functional teams, including QA and project stakeholders, to ensure quality standards and project success. My active participation in daily Scrum meetings and Sprint planning showcases my comfort with Agile methodologies and my commitment to team-driven development.
+
+I have hands-on experience with several technologies you utilize. My work with Bootstrap CSS and jQuery demonstrates my capability with modern CSS tools and JavaScript libraries. I have created reusable components and implemented n-tier architecture, reflecting my understanding of scalable frontend design patterns. Additionally, my experience with SQL databases and backend integration through web services provides valuable insight into full-stack development contexts.
+
+Throughout my projects including Atlas, AppInventory, and GoAdmin, I have consistently demonstrated the ability to understand complex domains beyond my primary expertise. I actively seek to expand my technical knowledge and stay current with industry trends, which positions me well to quickly master React and other technologies within your ecosystem.
+
+My background in Entity Framework, LINQ, and API integration further strengthens my ability to work effectively with backend teams and understand the complete development landscape. I am eager to leverage my problem-solving skills and collaborative spirit to contribute to your frontend team's success.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my experience and enthusiasm can add value to your organization.
+
+Sincerely, Alexis

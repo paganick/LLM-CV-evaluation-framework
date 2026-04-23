@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has considerable experience in software development and Agile environments, but lacks direct experience with modern frontend frameworks such as React and TypeScript, which are crucial for this role. While they show enthusiasm for transitioning into frontend development, their background primarily focuses on backend technologies, making them only partially suitable for the demands of the position.

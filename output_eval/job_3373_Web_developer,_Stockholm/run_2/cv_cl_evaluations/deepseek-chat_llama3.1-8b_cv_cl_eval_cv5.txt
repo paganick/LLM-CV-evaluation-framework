@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and has no demonstrated experience with the required modern web stack (JavaScript, TypeScript, React, HTML/CSS). The skills listed are from a completely different industry and technology era, showing no alignment with the job's front-end, testing, or modern tooling requirements.

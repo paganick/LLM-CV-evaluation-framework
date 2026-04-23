@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight skills in data analysis and statistical modeling, which are not aligned with the front-end development focus of the job description. There is no mention of JavaScript, TypeScript, HTML, CSS, or modern FE frameworks like React. The candidate's expertise lies in data science tools and statistical techniques, making them unsuitable for this role.

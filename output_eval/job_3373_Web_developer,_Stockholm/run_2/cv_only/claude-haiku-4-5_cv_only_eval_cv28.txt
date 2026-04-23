@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a Senior Materials Analyst with expertise in materials science, manufacturing processes, and quality analysis - completely unrelated to frontend web development. The resume contains zero relevant technical skills for the position, including no experience with JavaScript, TypeScript, React, testing frameworks, Git, CSS tools, or any web development technologies. The candidate's background is entirely in materials engineering and business analysis, making them fundamentally unsuitable for a frontend software engineering role.

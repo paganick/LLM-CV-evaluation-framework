@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT industry experience but lacks the specific, hands-on frontend development skills required. The resume and cover letter show no direct experience with React, TypeScript, modern testing frameworks, or the other key technologies listed (e.g., Jest, Cypress, Styled Components, CI/CD). While the candidate demonstrates general web knowledge and soft skills, the core technical requirements for the role are not met.

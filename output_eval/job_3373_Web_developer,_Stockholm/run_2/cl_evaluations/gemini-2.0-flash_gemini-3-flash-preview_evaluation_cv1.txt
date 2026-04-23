@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong understanding of the required technologies, particularly React, JavaScript, and testing frameworks. They highlight relevant experience with Agile, collaboration, and security practices (OWASP, CSP, CORS). The cover letter showcases a genuine passion for clean code and a willingness to learn, aligning well with the job description.

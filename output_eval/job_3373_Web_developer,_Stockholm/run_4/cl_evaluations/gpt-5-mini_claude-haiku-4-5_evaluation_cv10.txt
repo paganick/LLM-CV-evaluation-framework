@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience—JavaScript, HTML/CSS, AngularJS, Git, Agile, and test automation experience—which demonstrates a solid foundation. However, they lack direct experience with the employer's primary stack requirements (React and TypeScript), common modern tooling (Node/npm/Yarn, Styled Components/SASS), front-end testing frameworks (Jest/Cypress/TestCafe), and basic web security knowledge (OWASP/CSP/CORS/OAuth). These missing, role-critical skills justify a mid-range score despite the strong general background.

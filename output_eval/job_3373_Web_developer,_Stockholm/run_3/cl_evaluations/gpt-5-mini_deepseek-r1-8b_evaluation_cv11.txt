@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in testing, JavaScript, HTML/CSS, Agile practices, and test automation tools which align partially with the role. However, they lack demonstrated experience with TypeScript, modern front-end frameworks (React), modern CSS tooling (Styled Components/SASS), NodeJS ecosystem, linters/formatters, CI/CD, and other platform/tooling expectations listed, making them an incomplete fit for this front-end developer role.

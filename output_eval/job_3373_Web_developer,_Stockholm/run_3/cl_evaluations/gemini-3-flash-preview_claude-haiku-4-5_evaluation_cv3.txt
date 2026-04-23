@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience and fails to mention mandatory requirements such as TypeScript and web security protocols (OWASP, CORS, OAuth). While they possess a relevant degree, they admit to having only foundational knowledge in React and testing frameworks, which are listed as core job requirements. Their background is primarily academic and career-transitional, demonstrating a significant gap in the practical, hands-on expertise required for this position.

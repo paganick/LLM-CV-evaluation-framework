@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in marketing and public relations, with some mention of technical skills in JavaScript, TypeScript, and React, but lacks substantial hands-on experience in frontend development and modern web frameworks. While they express familiarity with components of the job description, they do not demonstrate a strong proficiency in specific required technical skills such as testing frameworks or CI/CD tools. Additionally, their experience does not align closely with the software engineering domain.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant skills like JavaScript, TypeScript, HTML, CSS, and React, but the depth of experience is questionable given their primary background in media production. While they mention testing and code quality tools, the extent of hands-on experience with different testing frameworks and the NodeJS ecosystem described in the job description is unclear. The cover letter focuses more on transferable skills from their previous role than demonstrating concrete front-end development expertise.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights transferable skills like visual communication and UX design but lacks sufficient evidence of core front-end development skills such as Javascript, React, and testing. While the candidate mentions HTML/CSS and a basic understanding of computer science, they admit to needing to learn the frameworks listed in the job description. The letter does not demonstrate the required hands-on experience or passion for clean code emphasized in the job description.

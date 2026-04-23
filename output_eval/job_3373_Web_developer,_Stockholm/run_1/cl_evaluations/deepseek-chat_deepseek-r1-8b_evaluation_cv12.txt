@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary expertise is in PHP and backend automation, which misaligns with the job's heavy focus on modern frontend technologies like React, TypeScript, and specific testing frameworks. While they demonstrate relevant soft skills and a willingness to learn, they lack direct, hands-on experience with the core technical stack specified. The application shows a relevant industry background but is missing the specific, required frontend and testing proficiencies.

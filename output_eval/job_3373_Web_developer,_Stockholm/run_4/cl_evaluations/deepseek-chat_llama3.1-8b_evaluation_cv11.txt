@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in software testing and Agile, which aligns with the base requirements. However, the cover letter critically lacks specific mention of the key technologies from the job description, such as React, TypeScript, modern testing frameworks (Jest, Cypress), and CI/CD tools. The skills listed are generic and do not demonstrate the hands-on, modern front-end testing expertise required for the role.

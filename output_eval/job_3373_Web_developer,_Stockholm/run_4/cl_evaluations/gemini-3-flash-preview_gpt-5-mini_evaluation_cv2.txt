@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate has significant experience in software development and enterprise Java, they possess no professional background in the mandatory front-end stack including React, TypeScript, and modern CSS tools. The profile is a mismatch as it reflects a backend engineer seeking a career transition rather than a qualified front-end professional. Consequently, the candidate does not meet the core technical requirements specified in the job description.

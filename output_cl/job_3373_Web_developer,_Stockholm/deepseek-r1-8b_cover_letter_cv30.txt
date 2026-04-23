@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position as advertised. With a robust background in data analysis, software development, and a genuine passion for writing clean code, I am confident that my skills and experiences align well with your requirements.
+
+My experience in identifying product defects and performing quality assurance tests, particularly within data systems, demonstrates a strong aptitude for ensuring code quality and functionality. Although my primary expertise lies in data analysis and backend development (including SQL, Python, and ASP.NET), I am a highly adaptable problem-solver with a keen interest in the full software development lifecycle. I understand the importance of collaborating effectively in an Agile environment and am eager to apply my skills to contribute to your team.
+
+While my core competencies are currently centered on data analysis and backend technologies, I possess a solid understanding of the fundamentals required for this role. I am proficient in SQL and have experience with testing frameworks and methodologies during my quality assurance work. My background in software development (including C# and ASP.NET) provides a strong foundation for understanding API interactions and system architecture, which are crucial for effective front-end development.
+
+Furthermore, I am deeply passionate about writing clean, maintainable code and continuously expanding my technical knowledge to stay current with industry trends, including modern JavaScript frameworks and testing practices. My collaborative spirit and ability to understand domain needs, even outside my primary area of expertise, align well with the requirements of this role.
+
+I am excited by the prospect of applying my analytical skills and technical background to the challenges of front-end development. My resume provides further detail on my qualifications, and I am eager to discuss how I can contribute to your team.
+
+Sincerely,
+Alexis

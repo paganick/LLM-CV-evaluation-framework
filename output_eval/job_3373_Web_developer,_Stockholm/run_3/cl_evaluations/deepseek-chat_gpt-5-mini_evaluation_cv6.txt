@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, testing, and Agile collaboration. However, the cover letter heavily emphasizes Drupal and traditional technologies, with only aspirational interest in the specific modern stack (React, TypeScript, modern CSS-in-JS, etc.) and tools (Jest, Cypress, Node.js ecosystem, CI/CD) required by the job description. The candidate lacks proven, hands-on experience with the core technologies listed for the role.

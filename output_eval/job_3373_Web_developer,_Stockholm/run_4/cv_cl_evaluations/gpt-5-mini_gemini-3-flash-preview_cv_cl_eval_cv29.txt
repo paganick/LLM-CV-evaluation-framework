@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in business development and cloud product advocacy but shows no demonstrated hands-on frontend engineering experience with JavaScript/TypeScript, HTML/CSS, React, Node/npm/Yarn, testing frameworks, Git, CI/CD, or AWS/Terraform. The cover letter's claims about frontend technologies and testing appear aspirational and are unsupported by the resume. Transferable skills in collaboration and security awareness are noted but do not meet the core technical requirements for this role.

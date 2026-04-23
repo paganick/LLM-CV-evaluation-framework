@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has over three years of experience in software development and demonstrates proficiency in JavaScript, HTML, CSS, and frameworks like React and AngularJS. They have hands-on experience with test automation and Agile methodologies, as well as familiarity with Git and version control. However, while the candidate mentions a basic understanding of web security concepts and CI/CD tools, specific experience with some of the more advanced areas, like functional programming with Ramda and AWS/Terraform, is not fully demonstrated.

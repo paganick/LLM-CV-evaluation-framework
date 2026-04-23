@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience is in PHP, which is not a focus of the job description. While they mention JavaScript and React, it's framed as a secondary skill and something they're "eager to learn," not demonstrating hands-on experience. They also lack explicit mentions of TypeScript, modern CSS tools, and specific testing frameworks mentioned.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a strong theoretical understanding of the required tech stack and has excellently tailored their application to include specific keywords like Ramda and OWASP. However, their five years of professional experience are rooted in systems engineering and IT support rather than dedicated software development. They lack a documented professional history of building applications, as their experience focuses more on troubleshooting, maintenance, and legacy environments.

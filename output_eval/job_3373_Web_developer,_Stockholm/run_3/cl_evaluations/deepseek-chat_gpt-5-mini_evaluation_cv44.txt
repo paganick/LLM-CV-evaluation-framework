@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design and web production experience but lacks direct, hands-on experience with the core technical requirements. The cover letter demonstrates no specific proficiency with React, TypeScript, modern toolchains (e.g., Jest, Cypress, Git), or the security concepts listed. While the candidate expresses eagerness to learn, the current skillset is more aligned with a design-to-production role than a modern front-end engineering position.

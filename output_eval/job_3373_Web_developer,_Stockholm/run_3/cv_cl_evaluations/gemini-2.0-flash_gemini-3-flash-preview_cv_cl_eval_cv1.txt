@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, React, HTML, and CSS, and has some experience with testing frameworks. However, they lack explicit experience with TypeScript and some of the specific tools mentioned (Styled Components, CI/CD). Their background in Java is a plus, but not the primary focus of the role.

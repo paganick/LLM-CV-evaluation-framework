@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate focuses heavily on project management and broad IT experience, which doesn't align perfectly with the front-end development focus of the job description. While they mention some relevant technologies like JavaScript, React, and testing frameworks, the cover letter is not targeted enough towards the specific technical skills and passion for clean code emphasized in the job posting. There's a disconnect between the project management background and the required front-end expertise.

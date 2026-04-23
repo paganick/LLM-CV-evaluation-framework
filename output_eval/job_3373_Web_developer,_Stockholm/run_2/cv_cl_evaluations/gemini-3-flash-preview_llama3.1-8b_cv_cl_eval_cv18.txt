@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over 18 years of general IT experience, the resume lacks any professional evidence of the core required skills such as React, TypeScript, or modern automated testing. The candidate’s background is primarily in systems administration, IT consulting, and legacy web design (PHP, WordPress) rather than modern frontend software engineering. Furthermore, the modern framework experience mentioned in the cover letter is entirely unsupported by the professional work history and technical skills list provided in the resume.

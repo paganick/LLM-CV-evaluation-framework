@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong, long-term visual and HTML/CSS design experience which is relevant, but lacks demonstrated proficiency in core technical requirements such as React, TypeScript, modern JavaScript frameworks, testing and test automation, and Git/CI workflows. Their experience with Node.js, AWS, and testing is described as foundational or limited, so significant upskilling would be required to meet the role's expectations.

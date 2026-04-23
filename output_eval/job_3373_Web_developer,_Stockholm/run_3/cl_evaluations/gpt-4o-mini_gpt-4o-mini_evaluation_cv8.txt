@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in test engineering and demonstrates a solid understanding of scripting, automation, and testing methodologies which align with the job requirements. However, there is a lack of direct experience mentioned with modern frontend frameworks such as React, VueJS, or Angular, and specific tools like Jest or CI/CD processes, placing them as a strong but not perfect match for the role.

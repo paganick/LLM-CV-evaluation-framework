@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in government IT management and cybersecurity, not commercial front-end development. While they claim to be refining skills in JavaScript and React, their resume provides zero evidence of hands-on experience with the required technologies (React, TypeScript, modern CSS, testing frameworks) or a product development environment. The profile is a severe mismatch for a hands-on front-end engineering role.

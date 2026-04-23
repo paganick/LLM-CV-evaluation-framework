@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant familiarity with JavaScript/TypeScript/HTML/CSS, modern CSS tools, Agile, and Git, but their background is primarily senior product management rather than hands-on front-end engineering. There is no concrete evidence of experience with React projects, testing frameworks (Jest/Cypress/TestCafe), Node/npm/Yarn/Express, functional programming (Ramda), CI/CD, or AWS/Terraform—key requirements for the role. While they have some aligned knowledge, they lack the specific technical, tooling, and hands-on engineering depth required.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified as their professional background is in administrative and artistic roles rather than software engineering. They lack the required technical expertise in React, TypeScript, automated testing frameworks, and CI/CD tools mentioned in the job description. While they express an interest in learning, they do not possess the necessary industry experience or professional coding history to fulfill this role.

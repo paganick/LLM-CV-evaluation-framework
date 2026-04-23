@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks the required hands-on experience with modern front-end frameworks like React, explicitly stating a need to learn these tools rather than demonstrating proficiency. While they possess foundational knowledge of HTML, CSS, and web security, they fail to meet the "hands-on" requirement for testing automation and advanced TypeScript application. The profile suggests a junior-level career changer who does not currently possess the specific technical expertise or professional experience requested.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like Javascript, HTML, and CSS, but lacks experience with modern FE frameworks and the specified testing frameworks. The resume focuses heavily on Java and database administration, which are not the primary requirements of the job. While the candidate expresses interest in learning React, their current skillset doesn't align well with the job description's emphasis on React experience.

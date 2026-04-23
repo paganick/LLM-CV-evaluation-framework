@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java/Backend developer with no professional experience in modern frontend frameworks like React or TypeScript, which are central to the role. While they demonstrate strong general engineering principles and experience with Agile and OAuth, their frontend skills are limited to legacy technologies like JSP and Struts. They lack the required hands-on experience with modern CSS tools, Node.js ecosystems, and frontend-specific testing frameworks like Jest or Cypress.

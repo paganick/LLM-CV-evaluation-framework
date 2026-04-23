@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in project management, not hands-on front-end development. While they mention foundational skills like JavaScript and HTML/CSS, they lack demonstrable, recent production experience with the core stack (React, TypeScript, modern testing frameworks, functional programming). Their background shows domain relevance but insufficient specific technical proficiency for a dedicated developer role.

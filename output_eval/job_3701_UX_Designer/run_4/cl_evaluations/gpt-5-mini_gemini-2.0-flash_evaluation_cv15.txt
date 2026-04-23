@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong transferable design and product development experience, including mentoring and translating user needs into product features, which is relevant to the role. However there is no evidence of commercial UX experience in a software/Agile environment, no mention of Figma or front-end exposure (HTML/CSS/JS), and no demonstrated use of UX research methods or managing a UI Design System. Given the relevant background but clear gaps on core technical and software-UX requirements, this is a partial but limited match.

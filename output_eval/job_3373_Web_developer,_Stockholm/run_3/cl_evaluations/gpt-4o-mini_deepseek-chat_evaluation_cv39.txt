@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in design and has relevant experience in web development and e-commerce; however, they lack direct experience with several key technologies listed in the job description, such as modern JavaScript frameworks (React, VueJS, Angular, Svelte) and testing frameworks (Jest, Cypress, etc.). While they show enthusiasm for learning and transitioning into a development role, their fundamental skills in front-end development need further development to meet the specific requirements of the position.

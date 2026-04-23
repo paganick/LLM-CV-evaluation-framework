@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT support, hardware, and systems administration, which is a completely different industry and skillset from modern frontend software engineering. The resume and cover letter show no demonstrable, professional experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, or functional programming. The attempt to map general IT experience to specific web development requirements is unconvincing and indicates a fundamental lack of the required qualifications.

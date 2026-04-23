@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate matches the core front-end requirements (JavaScript/TypeScript, HTML/CSS, React, Jest/Cypress, Git, ESLint/Prettier, Node/npm and security fundamentals) and demonstrates strong collaborative and project-management experience relevant to an Agile team. However, several role-specific technologies and tooling listed (Styled Components/SASS, Ramda, Express.js, CircleCI, AWS/Terraform) are not evidenced, and the letter indicates a career pivot so hands-on, production-level front-end experience depth is unclear.

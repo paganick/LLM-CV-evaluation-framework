@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant educational background and some applicable technical skills, such as HTML, CSS, and Core Java. However, they lack direct experience with JavaScript frameworks like React, as well as testing frameworks and CI/CD tools mentioned in the job description. While they show potential and enthusiasm for learning, they do not fully meet the specific requirements for this position.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front End Developer position at your organization, as advertised. With over twenty years of experience in product management and a strong foundation in technology, I am eager to leverage my skills in a collaborative Agile environment, particularly one that utilizes React, as mentioned in your job description.
+
+Throughout my career, I have consistently focused on understanding customer needs and ensuring the successful delivery of high-quality software. At ReverbNation, I led product development teams to design and launch a mobile-responsive version of our platform, conducting extensive user testing to inform enhancements. This experience has honed my hands-on skills in managing project lifecycles and collaborating with cross-functional teams, equipping me to thrive in your dynamic setting.
+
+Although my primary background is in product management rather than direct software development, I am well-versed in modern web technologies, including JavaScript, HTML, CSS, and testing frameworks such as Jest and Cypress. I have collaborated closely with technical teams to develop product requirements and ensure adherence to best practices, including maintaining clean code and streamlined deployment processes.
+
+Moreover, I possess a foundational understanding of web security principles, including OWASP and CORS, which will aid in developing secure applications. My proactive approach allows me to stay current with the latest technologies, ensuring I can contribute valuable insights on tools like Styled Components and the NodeJS ecosystem.
+
+As a professional who is genuinely passionate about the interplay between technology and media, I am enthusiastic about the opportunity to engage not only with your development team but also with external partners, helping to innovate and refine solutions for your platform.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your team and harness my skills in this exciting role.
+
+Sincerely,  
+Alexis

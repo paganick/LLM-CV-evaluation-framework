@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive software development experience, it is almost entirely rooted in legacy Java backend technologies rather than the required modern frontend stack. They lack professional hands-on experience with React, modern CSS tools, and frontend testing frameworks, explicitly stating they are still in the process of learning these core requirements. Additionally, the letter fails to demonstrate specific expertise in web security protocols or the Node.js ecosystem requested in the job description.

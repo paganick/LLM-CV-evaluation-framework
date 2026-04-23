@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's extensive mainframe background is in the correct industry but is not directly relevant to the frontend role. They acknowledge a lack of hands-on experience with the core technologies (React, modern tooling, specific testing frameworks) listed in the job description. While they demonstrate strong foundational principles and a keen willingness to learn, their current practical skills do not meet the specific requirements for a mid-to-senior frontend developer position.

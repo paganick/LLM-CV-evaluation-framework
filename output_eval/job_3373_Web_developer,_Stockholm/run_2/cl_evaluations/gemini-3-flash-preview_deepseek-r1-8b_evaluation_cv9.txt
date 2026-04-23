@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a solid foundation in software engineering and Agile methodologies, their primary expertise is in Java and the Spring ecosystem rather than the required modern frontend stack. The application lacks specific experience with React and frontend-specific testing tools like Jest or Cypress, relying instead on backend frameworks which do not meet the core technical requirements. As a strict recruiter, the candidate is viewed as a "pivot" profile requiring significant upskilling in the primary technologies requested.

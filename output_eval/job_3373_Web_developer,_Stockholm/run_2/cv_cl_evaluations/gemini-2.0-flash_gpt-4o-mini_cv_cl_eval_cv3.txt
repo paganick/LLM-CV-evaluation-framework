@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a foundational understanding of HTML, CSS, and JavaScript, but lacks specific experience with modern FE frameworks like React, the testing frameworks, and CI/CD tools mentioned in the job description. While the cover letter expresses interest in these areas, the resume provides limited evidence of practical application. The candidate's background in construction and education might provide some transferable skills, but significant on-the-job training would likely be required.

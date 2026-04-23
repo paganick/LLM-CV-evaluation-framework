@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in business development and product enablement, and demonstrates a strong understanding of technical collaboration. However, they lack direct hands-on experience with core front-end technologies like React, TypeScript, and modern testing frameworks mentioned in the job description. While they show initiative in self-directed learning, their current level of proficiency does not fully meet the requirements for this technical role.

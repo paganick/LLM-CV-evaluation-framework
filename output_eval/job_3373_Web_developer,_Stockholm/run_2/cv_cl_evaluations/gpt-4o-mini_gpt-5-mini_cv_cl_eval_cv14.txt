@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience with web development technologies like HTML, CSS, and JavaScript, alongside some knowledge in ASP.NET. However, they lack direct experience with modern front-end frameworks such as React, VueJS, or Angular, and do not demonstrate hands-on experience with testing frameworks or CI/CD tools. Their collaboration experience in Agile environments is a plus, but overall, they do not fully meet the job's technical requirements.

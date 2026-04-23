@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is a relevant but adjacent field, not a direct match for a front-end engineering role. While they mention several required technical tools (CSS tools, testing frameworks, NodeJS), they fail to address the core requirements of JavaScript, TypeScript, React, or other modern frameworks. The letter lacks evidence of hands-on development experience, API design, security knowledge, or the specific collaborative methodologies mentioned in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks experience with the primary required technologies, specifically React and TypeScript, which are central to the role. While they possess general software development experience in .Net and Python, they demonstrate no proficiency in modern front-end testing frameworks, functional programming, or the specific CI/CD and cloud tools requested.

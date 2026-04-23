@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS, but their primary expertise seems to be Drupal development. While they express interest in React and modern FE frameworks, their resume highlights Drupal-specific skills. The cover letter mentions automated testing and security practices, but the resume lacks concrete examples beyond Selenium and Behat which may not be directly applicable.

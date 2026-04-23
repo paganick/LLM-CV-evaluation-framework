@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in data analytics and systems engineering, requiring a significant career transition. While they express interest in frontend technologies and are actively learning, they lack direct experience with React, testing frameworks, and modern CSS tools mentioned in the job description. Their current skill set doesn't fully align with the required technologies and experience.

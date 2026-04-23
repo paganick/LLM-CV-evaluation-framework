@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is as a project manager, not as a hands-on developer as required by the job description. While they mention many technologies from the job description in their cover letter, their resume shows no professional experience with React, modern testing frameworks, or the other core technical skills listed. The role is for a developer, and their profile is a mismatch for the required technical execution duties.

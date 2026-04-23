@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a specialized Quality Assurance professional who lacks the required hands-on experience with modern front-end frameworks like React and TypeScript. While they possess strong testing fundamentals and basic JavaScript knowledge, they do not demonstrate proficiency in the core development stack, modern CSS tools, or the NodeJS ecosystem. Their professional background is focused on manual and automated testing rather than the functional front-end development required for this role.

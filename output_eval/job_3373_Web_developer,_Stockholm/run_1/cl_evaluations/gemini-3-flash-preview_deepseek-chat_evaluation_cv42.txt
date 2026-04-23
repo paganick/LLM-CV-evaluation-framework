@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience in software engineering, presenting only a self-taught technical skill set alongside an unrelated twenty-year executive career. While they have successfully identified the required tech stack, they provide no evidence of applying these skills in a commercial production environment or a professional Agile team. Consequently, they fail to meet the requirement for hands-on experience in development and testing.

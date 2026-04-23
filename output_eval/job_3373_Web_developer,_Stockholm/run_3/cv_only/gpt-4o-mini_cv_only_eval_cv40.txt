@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in product management and digital media but does not demonstrate the specific technical skills required for the position, such as proficiency in JavaScript, TypeScript, or modern front-end frameworks like React. Additionally, there is no mention of hands-on experience with testing automation, Git, or security knowledge specific to web applications, which are crucial for this role.

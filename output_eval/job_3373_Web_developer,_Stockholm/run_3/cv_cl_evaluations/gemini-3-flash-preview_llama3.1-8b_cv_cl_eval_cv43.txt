@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this technical role, as their professional background is in program management and learning design rather than software engineering. They lack the required proficiency in JavaScript, TypeScript, and React, with their only technical skill being intermediate R studio, which is irrelevant to frontend development. The cover letter claims technical expertise that is entirely unsupported by the professional history and skills listed in the resume.

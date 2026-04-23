@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional background is in graphic design and visual arts rather than software engineering. They lack all the mandatory technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. While the candidate has design experience, they possess no professional experience in modern frontend development or the required CI/CD and cloud ecosystems.

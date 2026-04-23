@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant front-end skills like HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks specifically React as mentioned in the job description. They also show no experience with testing frameworks, CI/CD tools, or cloud platforms, all of which are listed as desirable skills. The resume highlights older technologies and a different tech stack.

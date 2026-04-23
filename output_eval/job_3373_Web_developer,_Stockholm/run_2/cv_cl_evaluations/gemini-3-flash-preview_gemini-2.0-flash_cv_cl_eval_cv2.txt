@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy Java/J2EE developer who lacks professional experience with the required modern frontend stack, including React, TypeScript, and modern CSS tools. While they possess strong general IT experience and Agile knowledge, they do not meet the core technical requirements for a senior-level Frontend Developer role. Their background in jQuery and JSP is outdated and insufficient for a team focused on modern JavaScript frameworks and functional programming.

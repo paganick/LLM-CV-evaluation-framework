@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML/CSS, React (stated explicitly), and Git/GitHub, aligning well with the job description. They mention experience with testing frameworks like Jest, collaboration in Agile environments, and foundational knowledge of OWASP and CORS, which are also positives. However, the cover letter lacks specific examples showcasing their proficiency in CI/CD tools, functional programming with Ramda, and API design, which are desired skills, preventing a higher score.

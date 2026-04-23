@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and knowledge of several important programming languages and frameworks, including JavaScript and Node.js. However, there is a notable lack of specific experience with modern front-end frameworks like React, which is the primary technology used in this role, and also no hands-on testing experience mentioned. Additionally, familiarity with specific tools such as CircleCI or Ramda is not clearly demonstrated.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional, hands-on experience with the core requirements, specifically TypeScript and React, noting only that they are "pursuing knowledge" in these areas. While they demonstrate strong soft skills and leadership experience, they fail to provide evidence of technical proficiency in testing frameworks, CI/CD, or functional programming as required by the job description. Consequently, the applicant does not meet the technical seniority level expected for this front-end development position.

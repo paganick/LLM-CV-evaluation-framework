@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is senior finance and operations leadership with project/implementation experience but contains no evidence of required front-end engineering skills (JavaScript, TypeScript, React, HTML/CSS), testing, Git, Node.js, or related toolchains. Their experience is in vendor management and process implementations rather than hands-on software development or modern frontend frameworks, making them unsuitable for this technical role. Willingness to learn does not compensate for the complete lack of demonstrated technical qualifications.

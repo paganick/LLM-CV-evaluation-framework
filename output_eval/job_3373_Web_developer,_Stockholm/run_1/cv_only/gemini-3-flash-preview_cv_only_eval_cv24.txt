@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a communications professional with no experience or skills in software engineering, frontend development, or programming. They lack all mandatory technical requirements, including JavaScript, React, TypeScript, and testing frameworks. Their background in journalism and digital marketing is entirely irrelevant to this technical engineering role.

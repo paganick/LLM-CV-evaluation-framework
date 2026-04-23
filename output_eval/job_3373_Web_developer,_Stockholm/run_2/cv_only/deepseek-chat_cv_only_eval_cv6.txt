@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and lists foundational skills like JavaScript, HTML, and CSS. However, the resume is heavily centered on Drupal and PHP backend development, with no mention of the required modern frontend frameworks (React, Vue, Angular, Svelte), testing frameworks, or specific tools like Styled Components, SASS, or CI/CD. The profile lacks the specific, hands-on experience with the modern frontend stack and practices outlined in the job description.

@@ -1,0 +1,3 @@
+Score: 4
+Reasoning:
+The candidate's background is primarily in graphic design, lacking the required development experience in JavaScript, TypeScript, and modern FE frameworks. While they express interest in learning and mention HTML/CSS experience, the cover letter lacks concrete evidence of proficiency in the specific technologies mentioned in the job description, such as React, Jest, and Cypress. The candidate focuses heavily on design principles rather than development skills.

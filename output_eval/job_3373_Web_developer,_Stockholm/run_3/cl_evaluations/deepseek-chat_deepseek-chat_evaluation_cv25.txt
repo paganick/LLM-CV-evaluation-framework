@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant design experience and foundational HTML/CSS skills but lacks the required hands-on proficiency in JavaScript, TypeScript, and React. They mention no experience with testing, security, or the specific modern tools listed in the job description. Their background shows potential for transition but does not meet the core technical requirements for the role.

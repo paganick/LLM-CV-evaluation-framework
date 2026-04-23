@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has basic knowledge in HTML and CSS, and while they're pursuing a Master's in Management Information Systems, they lack hands-on experience with specific technologies like JavaScript, React, and modern testing frameworks mentioned in the job description. Their background in the advertising industry does not align closely with the technical requirements of the frontend developer position, indicating a gap in relevant experience for the role.

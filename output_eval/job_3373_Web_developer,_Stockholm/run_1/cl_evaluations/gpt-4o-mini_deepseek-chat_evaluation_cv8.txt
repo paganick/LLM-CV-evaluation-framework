@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in software quality, testing, and front-end technologies aligned with the job description. They possess a strong foundation in JavaScript, TypeScript, HTML, CSS, and have experience with React and testing frameworks, fulfilling many key requirements. However, there is a lack of mention regarding modern CSS tools, familiarity with specific CI/CD tools, and functional programming, which slightly hinders a perfect match.

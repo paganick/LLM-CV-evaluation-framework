@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT support and infrastructure, but lacks direct experience with front-end development technologies such as JavaScript, TypeScript, and React, which are critical for the role. While they demonstrate a strong collaborative mindset and a willingness to learn, their background is primarily in system administration rather than the required front-end engineering, making them less suitable for this position.

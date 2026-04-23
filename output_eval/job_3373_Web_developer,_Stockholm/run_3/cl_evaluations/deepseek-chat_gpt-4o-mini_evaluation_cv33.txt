@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in leadership, sales operations, and training, not hands-on front-end development. While they mention relevant technologies, the experience is described as secondary, self-taught, or aspirational (e.g., "actively pursuing knowledge," "exposure to," "eager to deepen"). They lack demonstrated, professional experience with the core technical stack (React, TypeScript, modern CSS tools) and key methodologies (functional programming, CI/CD) specified in the job description.

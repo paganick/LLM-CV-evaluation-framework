@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, self-taught proficiency in the core required technologies (JavaScript, TypeScript, React, HTML, CSS, SASS, Git) and relevant workflows (ESLint, Prettier, testing). However, the cover letter lacks explicit mention of several key requirements from the job description, including web security basics (OWASP, CORS), specific testing frameworks, CI/CD tools, and functional programming. The transition from graphic design is compelling but leaves some required technical depth unverified.

@@ -1,0 +1,2 @@
+Score: [5]
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks experience with modern FE frameworks like React, VueJS, Angular and Svelte, a core requirement. There's also a lack of demonstrable experience with testing frameworks and other modern FE tools mentioned in the job description. The resume focuses heavily on .NET development, making it a less ideal fit for a front-end React focused role.

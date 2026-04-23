@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience with JavaScript, HTML, and CSS, fitting the job description's core requirements. However, there's a lack of specific mention of modern FE frameworks like React, VueJS, Angular, or Svelte (React is preferred by the company). The resume also lacks detail regarding testing frameworks and CI/CD tools.

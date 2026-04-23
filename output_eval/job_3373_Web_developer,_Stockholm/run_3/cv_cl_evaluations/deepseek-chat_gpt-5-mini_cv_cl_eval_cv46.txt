@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in server-side Java, database administration, and legacy systems, with only generic mentions of JavaScript and HTML. They lack demonstrable, hands-on experience with the required modern front-end stack (React, testing frameworks, modern CSS tools) and key concepts like OWASP, CI/CD, and functional programming. While they show a willingness to learn and have transferable soft skills, their technical profile does not align with the specific, modern front-end developer requirements.

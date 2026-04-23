@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational background in web development with some experience in JavaScript and HTML, but lacks specific experience with modern frameworks like React, VueJS, or Angular as stated in the job description. Although they have relevant experience in testing and a desire to learn, their overall skills do not align closely enough with the requirements to be considered a strong candidate.

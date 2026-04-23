@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate acknowledges a lack of direct frontend experience, which is a significant drawback. While transferable skills are mentioned, the letter heavily relies on potential rather than demonstrated expertise in the required technologies (React, TypeScript, etc.). The candidate's background is in systems engineering, making them a risky hire for a frontend role.

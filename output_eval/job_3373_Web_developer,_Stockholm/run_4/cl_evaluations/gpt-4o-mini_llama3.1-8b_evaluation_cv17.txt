@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a background in project management and demonstrates problem-solving skills, their lack of direct experience with key technologies such as JavaScript, TypeScript, and modern front-end frameworks significantly limits their suitability for the role. Additionally, their familiarity with tools and practices essential for the position, like testing frameworks and CI/CD processes, is minimal or absent. This makes them a relevant candidate from a management perspective, but they lack the specific technical expertise required.

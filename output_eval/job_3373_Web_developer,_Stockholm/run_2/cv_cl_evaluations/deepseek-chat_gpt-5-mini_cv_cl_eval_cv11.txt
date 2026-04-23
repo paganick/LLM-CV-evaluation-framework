@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in software testing and quality assurance, not in front-end development which is the primary requirement of the job. While they have some exposure to JavaScript, HTML, and Agile processes, they lack hands-on experience with React, TypeScript, modern CSS tools, and the specific development and testing frameworks listed. Their testing background is relevant to the role's secondary requirements but does not fulfill the core need for a developer with modern front-end engineering skills.

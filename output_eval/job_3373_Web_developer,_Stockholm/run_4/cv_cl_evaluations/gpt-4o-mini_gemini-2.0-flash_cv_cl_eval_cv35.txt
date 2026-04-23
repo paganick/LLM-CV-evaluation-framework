@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in marketing automation and experience with tools like Eloqua and Salesforce, but lacks direct experience in front-end development, particularly with JavaScript frameworks like React, which is critical for the role. While they demonstrate some relevant skills in collaboration and problem-solving, the absence of hands-on front-end development experience and knowledge of modern CSS tools and testing frameworks significantly limits their fit for this position.

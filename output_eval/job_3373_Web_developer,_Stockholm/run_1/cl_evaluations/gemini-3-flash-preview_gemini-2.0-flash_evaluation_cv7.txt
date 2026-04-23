@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the fundamental technical requirements for this role, specifically omitting any mention of JavaScript, TypeScript, or modern development workflows. Mentioning Adobe Dreamweaver confirms an outdated understanding of the field that does not align with the professional engineering standards required for React and CI/CD environments. While the design background is extensive, the application fails to demonstrate any proficiency in the core programming and testing competencies specified in the job description.

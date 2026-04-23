@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in marketing automation and technical consulting but lacks direct experience in frontend development frameworks like React, which is critical for the role. While they demonstrate an understanding of relevant technologies and a basic foundation in JavaScript, HTML, and CSS, their experience does not fully align with the specific frontend development skills required for the position.

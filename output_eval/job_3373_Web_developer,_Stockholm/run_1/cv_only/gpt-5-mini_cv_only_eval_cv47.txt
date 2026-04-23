@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this front-end developer role — their background is in business development and organic chemistry with no demonstrated experience in JavaScript, TypeScript, React (or any modern JS framework), testing frameworks, Git, or modern CSS tooling. The resume only lists basic HTML and unrelated programming in C/C++, and lacks any evidence of web security, Node.js, CI/CD, or cloud/DevOps experience. This is a wrong industry/role fit with no relevant technical skills for the position.

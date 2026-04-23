@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates experience with JavaScript, HTML, CSS, and Git, which aligns with the job description's core requirements. However, the resume lacks specific details regarding modern FE frameworks like React, VueJS, Angular, or Svelte, which are crucial for the role. While the candidate expresses interest in learning React, their experience is more heavily weighted towards PHP, MySQL, and systems administration tasks.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience and mentions key technologies like JavaScript, AngularJS, and Agile. However, the cover letter lacks specific, direct experience with the primary required framework (React) and does not address several critical requirements from the job description, such as TypeScript, modern CSS tools, security knowledge, functional programming, or CI/CD tools. The experience is more foundational than hands-on for the senior-level skills listed.

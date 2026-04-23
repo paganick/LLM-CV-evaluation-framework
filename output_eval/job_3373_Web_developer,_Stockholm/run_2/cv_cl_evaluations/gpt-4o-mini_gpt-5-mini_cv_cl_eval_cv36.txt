@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in regulated environments and experience in testing and validation, which could be applicable to front-end development. However, they lack direct experience with the required technologies such as JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. The transition to front-end engineering is ambitious but insufficiently supported by relevant technical skills or experience.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is in sales, requiring a significant career shift. While the cover letter highlights transferable skills and technical proficiency in key areas like React, JavaScript, and testing frameworks (Jest, Cypress), the depth of experience compared to traditional candidates is uncertain. The candidate addresses most requirements but lacks explicit experience in CI/CD and Node.js.

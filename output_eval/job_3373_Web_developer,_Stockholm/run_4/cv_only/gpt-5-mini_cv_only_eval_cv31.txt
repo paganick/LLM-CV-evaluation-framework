@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in sales and management with no professional front-end engineering experience or demonstrable skills in JavaScript/TypeScript, modern frameworks (React), CSS, testing, Git, NodeJS, or cloud/CI tooling required by the role. Only a single, non-technical mention of "HTML" under desktop publishing does not meet the technical depth or experience expected. Candidate is in the wrong industry and is completely unqualified for this front-end developer position.

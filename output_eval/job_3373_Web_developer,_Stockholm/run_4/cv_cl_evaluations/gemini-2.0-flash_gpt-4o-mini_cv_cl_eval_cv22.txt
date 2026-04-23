@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and buying, a completely different field. While they have some exposure to HTML and CSS, they lack substantial experience with modern front-end frameworks like React, which is a core requirement. Their knowledge of JavaScript and TypeScript seems very limited, and they lack practical experience in testing and CI/CD tools.

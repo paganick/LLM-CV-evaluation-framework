@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in systems administration and infrastructure support but lacks direct experience with key technologies specified in the job description, such as JavaScript, modern frontend frameworks (React), and testing frameworks. While they demonstrate a strong understanding of software development principles and security, the absence of hands-on frontend experience and specific technology skills limits their fit for the role.

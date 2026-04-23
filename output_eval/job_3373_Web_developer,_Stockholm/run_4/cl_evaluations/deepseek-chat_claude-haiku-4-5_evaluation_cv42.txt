@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a clear understanding of the role's core technical requirements and effectively translates non-technical experience into relevant soft skills. However, they lack demonstrable, professional hands-on experience with the listed technologies and provide no evidence for several key job requirements, including web security, functional programming, CI/CD, and cloud infrastructure. Their application is based on self-directed learning and transferable skills rather than proven frontend engineering experience.

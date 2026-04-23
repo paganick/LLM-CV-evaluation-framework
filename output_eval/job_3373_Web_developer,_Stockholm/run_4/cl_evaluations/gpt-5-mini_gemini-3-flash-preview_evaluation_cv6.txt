@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong web fundamentals (JavaScript, HTML5, CSS3), leadership on large Drupal projects, accessibility and Git experience which are relevant to the role. However, they do not demonstrate hands-on experience with React or TypeScript, nor proven use of the modern JS testing stack (Jest/Cypress), linters/formatters, CI/CD tools, or cloud/infra (AWS/Terraform) called for in the JD. Given the gap in several key, listed technologies and explicit React/TypeScript experience, this is a moderate match rather than a strong one.

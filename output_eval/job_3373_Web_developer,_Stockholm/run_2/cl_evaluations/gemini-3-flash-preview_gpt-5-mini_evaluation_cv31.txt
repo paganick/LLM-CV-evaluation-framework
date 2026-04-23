@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the mandatory technical proficiency in JavaScript, TypeScript, and React, which are fundamental requirements for this engineering role. While they have significant experience in tech sales and leadership, they explicitly state a need to learn the core frameworks and testing practices requested in the job description. Consequently, they do not possess the hands-on development experience or the security knowledge necessary to perform the job.

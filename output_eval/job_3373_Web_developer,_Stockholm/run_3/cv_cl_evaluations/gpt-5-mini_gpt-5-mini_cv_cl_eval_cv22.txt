@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate does not demonstrate the core front-end engineering skills required (no evidence of JavaScript/TypeScript, React, Node/npm, Git, testing frameworks, or CI/CD experience). Their background is primarily media planning/account management with only basic HTML/CSS and academic Java/SQL exposure, which is insufficient for the role. While motivated to transition, they lack the practical, demonstrable experience needed to perform this position.

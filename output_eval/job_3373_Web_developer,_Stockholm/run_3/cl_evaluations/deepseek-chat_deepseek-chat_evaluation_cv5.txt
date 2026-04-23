@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational software principles, but lacks specific, hands-on experience with the core technologies listed in the job description, particularly React, modern testing frameworks, and the specific toolchain. The cover letter heavily relies on transferable skills from a mainframe background rather than proven, recent expertise in the modern frontend stack. While the candidate shows enthusiasm and a willingness to learn, the direct technical match for the role is insufficient.

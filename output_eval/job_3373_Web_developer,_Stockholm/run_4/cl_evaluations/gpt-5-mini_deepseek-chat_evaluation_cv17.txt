@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core requirements (JavaScript/TypeScript, React, HTML/CSS, Jest/Cypress, Git, security fundamentals, Agile collaboration) and shows relevant testing and tooling experience. However, they do not explicitly demonstrate experience with several listed stack specifics (Styled Components/SASS, Ramda, CircleCI, and AWS/Terraform) or concrete production CI/CD tooling, which are relevant to the role. Given solid core skills but gaps in several stated technologies, this is a good but not perfect match.

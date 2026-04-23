@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in microbiology and quality systems, which is not directly aligned with the required front-end development role. While they mention experience with React, TypeScript, and testing frameworks, the overall technical skills seem limited and lack practical experience in the specified technologies and methodologies. Additionally, many of the required skills, such as modern CSS tools and CI/CD tools, are not addressed, indicating a lack of comprehensive fit for the position.

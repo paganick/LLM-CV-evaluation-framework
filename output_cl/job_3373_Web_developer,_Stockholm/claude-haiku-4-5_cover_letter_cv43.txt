@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my background is primarily in program management and learning design, I am actively transitioning into frontend development and am excited about the opportunity to bring my analytical mindset and collaborative approach to your React-focused team.
+
+My journey into frontend development stems from my technical foundation in coding, where I have completed intermediate coursework in programming fundamentals. This technical curiosity, combined with my experience developing technology platforms that increased user engagement by fifty percent, has motivated me to deepen my technical expertise in modern web development. I am committed to building a strong foundation in JavaScript, TypeScript, HTML, and CSS, and I am particularly drawn to your team's use of React for building scalable applications.
+
+What distinguishes my candidacy is my proven ability to thrive in collaborative, Agile environments. Throughout my career, I have successfully managed cross-functional teams, facilitated complex projects across seven countries, and demonstrated genuine passion for continuous learning and improvement. These same principles that guided my program management work directly translate to frontend development, where clean code, effective collaboration, and a commitment to understanding the broader domain are essential.
+
+I bring a strong research and analytical background that will serve me well in mastering testing frameworks, understanding API design, and grasping web security fundamentals including OWASP and CORS protocols. My experience optimizing processes, such as streamlining onboarding from two months to two weeks, reflects my attention to detail and problem-solving capabilities—qualities essential for writing robust, maintainable code.
+
+I am genuinely passionate about entering the frontend development space and am committed to rapidly acquiring proficiency with your technology stack, including Jest and testing best practices. My multilingual fluency demonstrates my ability to learn complex systems quickly, and my track record of achieving measurable results in demanding environments shows my dedication to excellence.
+
+I am eager to bring my collaborative spirit, analytical thinking, and genuine enthusiasm for writing clean code to your team. I would welcome the opportunity to discuss how my unique background and commitment to technical growth can contribute to your organization's success.
+
+Sincerely,
+Alexis

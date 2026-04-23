@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and a good grasp of JavaScript, HTML, and CSS. However, they lack direct experience with modern front-end frameworks like React, TypeScript, and CSS methodologies such as SASS or Styled Components that are specifically mentioned in the job description. Their background primarily focuses on .NET technologies, which may not align perfectly with the role's requirements.

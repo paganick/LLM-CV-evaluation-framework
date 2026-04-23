@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in IT leadership and strategic planning, not hands-on frontend development. While they demonstrate high-level awareness of concepts like Agile, clean code, and modern tools, the cover letter lacks specific, direct experience with the required technical stack (e.g., React, TypeScript, testing frameworks). Their experience is managerial and infrastructural, making them underqualified for a hands-on developer role despite being in the relevant technology industry.

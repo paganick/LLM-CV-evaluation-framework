@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses relevant technical skills and experience in software development, the cover letter heavily emphasizes back-end experience with Java and related technologies, whereas the job description is primarily focused on front-end development using JavaScript, React, and related technologies. The candidate does mention some front-end skills, but the emphasis is not as strong as the job description requires. The candidate needs to tailor the cover letter to show specific experience with React.

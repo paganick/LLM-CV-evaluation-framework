@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in sales and demonstrated transferable skills that could benefit software development, but lacks specific front-end development experience with required technologies like React, TypeScript, and modern CSS tools. While they claim proficiency in some relevant areas, the lack of comprehensive experience in the key technologies mentioned in the job description limits their suitability for the role.

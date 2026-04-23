@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has experience in web design and development, the resume lacks specific details on modern front-end frameworks like React, which is crucial for the role. The candidate mentions Javascript, HTML, and CSS, but the resume focuses more on general IT consulting and systems administration rather than front-end development. The cover letter also provides generic information.

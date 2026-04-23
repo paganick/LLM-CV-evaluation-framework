@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a Software Engineer with no professional history as a UI/UX Designer, failing to meet the core requirement of 3+ years in a design-specific role. While they have implemented UI from a technical standpoint in game development, the resume lacks evidence of proficiency in design-centric tasks like sitemaps, wireframing, or user experience research. The candidate's background is in C++, C#, and AI programming, which does not align with the creative and graphic design expectations of this position.

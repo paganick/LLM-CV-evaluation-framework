@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong proficiency in the core front-end stack, testing frameworks, and security principles explicitly requested in the job description. They successfully highlight experience with CI/CD tools and collaborative environments, providing a quantifiable achievement to back their expertise. However, the application is incomplete as it fails to address essential requirements such as TypeScript, functional programming, and the Node.js ecosystem.

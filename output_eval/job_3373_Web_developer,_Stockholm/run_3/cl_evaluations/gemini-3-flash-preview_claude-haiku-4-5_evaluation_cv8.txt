@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has an impressive background in test automation and quality engineering, they lack professional experience in the core technologies required for this role, specifically JavaScript, TypeScript, and React. The letter indicates a need to "learn" these primary languages and frameworks rather than demonstrating current proficiency or a portfolio of work. As a result, the candidate is underqualified for a frontend development position despite their relevant technical foundation in testing.

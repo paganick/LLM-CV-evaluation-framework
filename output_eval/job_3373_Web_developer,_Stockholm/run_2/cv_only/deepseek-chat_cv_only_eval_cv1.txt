@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong backend and Java-focused background with limited, outdated front-end experience. They lack recent, hands-on experience with modern React, TypeScript, and the specific testing frameworks (Jest, Cypress) and tooling (ESLint, Prettier, Ramda) mentioned in the job description. While they have some overlapping skills (Agile, Git, SASS), their profile is primarily that of a Java/Spring/Automation engineer, not a modern front-end specialist.

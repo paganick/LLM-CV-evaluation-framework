@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in HTML and CSS but lacks direct experience with key technologies such as JavaScript, TypeScript, and React. While their background in graphic design suggests a strong visual acumen, they do not demonstrate familiarity with modern front-end frameworks or testing frameworks required for the position. Therefore, they are somewhat relevant but do not meet the specific technical requirements of the role.

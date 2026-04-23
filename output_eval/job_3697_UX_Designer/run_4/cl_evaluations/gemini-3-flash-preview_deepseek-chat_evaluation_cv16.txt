@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates transferable skills in technical design and cross-functional collaboration, their primary experience is in CAD and civil engineering rather than digital UI/UX design. They lack direct experience with specific UI prototyping tools mentioned in the requirements and have not demonstrated proficiency in designing web or mobile-specific GUI elements like menus and widgets. This is a career-pivot application that does not meet the strict requirement of 3+ years of professional UI/UX design experience.

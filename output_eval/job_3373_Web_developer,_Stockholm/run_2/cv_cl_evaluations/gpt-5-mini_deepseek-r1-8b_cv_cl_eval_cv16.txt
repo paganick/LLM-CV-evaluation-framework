@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has relevant web development background (JavaScript, HTML/CSS, Git, Agile) but the resume primarily shows ASP.NET/.NET and jQuery work, with no concrete evidence of React, TypeScript, modern frontend tooling (Styled Components/SASS), Node/npm, or CI/CD. The cover letter claims React/TypeScript/testing experience but the resume lacks supporting projects or tools (Jest/Cypress, ESLint/Prettier, CircleCI). Due to these gaps in core stack and automated testing experience, the candidate is a partial match and would require significant upskilling.

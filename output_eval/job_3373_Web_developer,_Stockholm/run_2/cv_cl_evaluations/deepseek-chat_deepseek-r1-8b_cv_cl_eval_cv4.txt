@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a backend-focused background in C#/.NET with limited, non-specific frontend experience, lacking direct evidence of React, TypeScript, or modern testing frameworks required by the job. The cover letter claims relevant skills but is not substantiated by the concrete project details in the resume. While the candidate works in software development and mentions some overlapping technologies, they lack the specific, hands-on experience with the core frontend stack and practices outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end technologies such as HTML5, CSS3, and JavaScript, which aligns with the job description. However, they lack hands-on experience with modern frameworks like React, as well as specific tools such as testing frameworks and CI/CD tools required for the position. While they have a good foundation in Agile methodologies, their resume does not demonstrate sufficient experience with the full range of technologies listed in the job description.

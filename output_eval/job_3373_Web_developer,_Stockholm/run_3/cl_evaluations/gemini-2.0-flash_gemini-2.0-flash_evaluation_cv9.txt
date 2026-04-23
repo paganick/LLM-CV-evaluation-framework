@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, RESTful APIs, and Agile environments. They mention React, aligning with the job description's focus. While the candidate's background is primarily Java, they show a willingness to learn and use modern FE frameworks and tools, which is a positive indicator.

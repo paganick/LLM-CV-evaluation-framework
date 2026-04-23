@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Software Engineer position, which I believe aligns perfectly with my extensive full-stack development experience and deep technical expertise. With over seven years of hands-on experience in software design, development, and integration, I have cultivated a robust skill set that directly matches your technology stack and collaborative work environment.
+
+Your requirement for proficiency in JavaScript, HTML, and CSS is core to my experience, as demonstrated through my long-term role at LogonTutor LLC where I designed and implemented a full ecommerce website. My work involved significant front-end development, and I have utilized SASS in my projects. While my professional history is grounded in PHP and MVC architecture, my foundational knowledge of JavaScript and modern tooling provides a strong platform for rapidly mastering your React-based environment. I am deeply interested in keeping up with the latest technologies and am keen to apply my programming diligence to a modern framework.
+
+My experience is not limited to front-end technologies. I have substantial backend and systems expertise, having written command-line scripts in Bash to automate deployment and administration tasks, and I have extensive database experience with MySQL and PostgreSQL. This full-lifecycle perspective fuels my passion for writing clean, maintainable code and my keen interest in understanding the full domain. Furthermore, my hands-on experience with Git, Linux/Unix systems, and software testing and troubleshooting ensures I can contribute effectively from day one within an Agile team setting.
+
+The aspects of your role that emphasize collaboration, clean code, and a broad understanding of the platform are particularly compelling. My background includes managing a student team for a complex project and consistently working to integrate third-party APIs and tools, which required clear communication and a detailed, problem-solving approach. I am a tenacious and adaptable professional who thrives in dynamic technical environments.
+
+I am confident that my proven track record in developing robust web applications, automating processes, and my dedicated approach to software engineering would make me a valuable asset to your team. I am eager to discuss how my skills in JavaScript, system architecture, and collaborative project management can support your objectives.
+
+Thank you for your time and consideration.
+
+Sincerely, Alexis

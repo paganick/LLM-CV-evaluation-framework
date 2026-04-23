@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a specialized UI/UX and Presentation Designer who lacks the fundamental engineering experience required for this role. There is no evidence of proficiency in React, TypeScript, or modern testing frameworks, and their technical toolkit—focused on Dreamweaver and jQuery—is significantly outdated for a high-level front-end position. While the candidate possesses a relevant degree, their professional history does not demonstrate the required expertise in software architecture, CI/CD, or production-level JavaScript development.

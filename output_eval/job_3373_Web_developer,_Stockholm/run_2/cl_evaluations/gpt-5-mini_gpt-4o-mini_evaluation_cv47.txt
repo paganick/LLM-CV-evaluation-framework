@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows relevant transferable skills (HTML, Git, collaboration, and strong business results) and an eagerness to learn, but the cover letter lacks demonstrable, hands-on experience with core requirements such as JavaScript/TypeScript, React, modern CSS tools, testing frameworks, and the Node/npm ecosystem. Willingness to upskill is positive, but there is insufficient evidence of the technical depth needed for this front-end role.

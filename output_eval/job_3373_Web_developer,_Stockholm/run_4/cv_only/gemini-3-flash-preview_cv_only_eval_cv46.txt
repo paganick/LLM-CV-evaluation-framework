@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks essential experience with modern frontend technologies such as React, TypeScript, and contemporary CSS frameworks required by the position. Their professional history is centered on legacy Java development, database administration, and IT support, with no evidence of proficiency in unit testing, CI/CD, or modern web security standards. Additionally, the resume shows no recent software development experience, making them unqualified for this specific modern stack.

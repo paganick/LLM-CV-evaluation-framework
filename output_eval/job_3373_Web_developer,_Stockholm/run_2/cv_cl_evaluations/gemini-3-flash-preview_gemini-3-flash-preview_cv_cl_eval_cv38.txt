@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional experience and education are entirely rooted in film, television, and media production rather than software engineering. While the cover letter claims proficiency in the required tech stack, the resume provides no evidence of professional experience with React, TypeScript, or testing frameworks. This represents a complete industry mismatch and a lack of the foundational technical experience required for a front-end engineering position.

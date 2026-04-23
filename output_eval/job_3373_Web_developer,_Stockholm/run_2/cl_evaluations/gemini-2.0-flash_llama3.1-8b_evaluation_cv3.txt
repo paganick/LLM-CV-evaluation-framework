@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights relevant technologies like HTML, CSS, and JavaScript but lacks explicit experience with React, the company's primary front-end framework. The cover letter mentions past projects using older technologies like Flash and Java Applets, which are not relevant to the job description. While Agile experience and collaboration skills are mentioned, the lack of direct experience with the specified testing frameworks and modern CSS tools weakens the application.

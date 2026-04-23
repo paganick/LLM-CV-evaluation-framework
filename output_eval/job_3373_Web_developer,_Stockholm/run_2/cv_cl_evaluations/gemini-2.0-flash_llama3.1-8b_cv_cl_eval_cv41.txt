@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight system administration and IT support experience, which is not aligned with the front-end development focus of the job description. While the candidate mentions "writing clean code," there's no evidence of JavaScript, TypeScript, React, or other modern front-end technologies. The skills listed are more related to system maintenance than front-end development.

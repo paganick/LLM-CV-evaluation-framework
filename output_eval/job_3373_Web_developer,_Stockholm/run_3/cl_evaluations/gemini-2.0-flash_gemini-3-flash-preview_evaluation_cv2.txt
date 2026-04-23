@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong Java background but lacks depth in the core technologies (React, TypeScript) mentioned in the job description. While they express interest in modern frameworks, their experience is primarily in older technologies (jQuery, Bootstrap). Their experience with testing and security is mentioned but not detailed, and the lack of familiarity with other FE technologies listed lowers the overall suitability.

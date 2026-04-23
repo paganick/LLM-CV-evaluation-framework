@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional experience is entirely rooted in marketing and media planning rather than software engineering. They lack any demonstrated proficiency in the required JavaScript/TypeScript ecosystem, React framework, or testing automation suites specified in the job description. Their technical skills are limited to basic HTML and academic projects in Java and SQL, making them fundamentally unqualified for this professional Frontend Developer position.

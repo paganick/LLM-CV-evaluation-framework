@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in web development, particularly with Drupal, which is somewhat relevant to the role. While they possess skills in JavaScript, HTML, and CSS, there is no direct experience mentioned with modern front-end frameworks like React, VueJS, or Angular. Additionally, the candidate lacks details on testing frameworks and frameworks/tools specified in the job description, which limits their suitability for the position.

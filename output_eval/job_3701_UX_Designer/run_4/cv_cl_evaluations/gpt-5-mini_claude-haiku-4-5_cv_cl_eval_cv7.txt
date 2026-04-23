@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates extensive UX/UI experience, solid Agile collaboration, design system ownership, and strong prototyping and user-research background (Axure/Sketch/XD, HTML/CSS). However, they do not list Figma (specified as highly desirable), show no explicit JavaScript exposure, and the resume’s most recent in-house UX role ends in 2016 with unclear recent commercial UX activity. Given relevance to the role but missing key modern tooling and recency, this is a relevant but not fully qualified match.

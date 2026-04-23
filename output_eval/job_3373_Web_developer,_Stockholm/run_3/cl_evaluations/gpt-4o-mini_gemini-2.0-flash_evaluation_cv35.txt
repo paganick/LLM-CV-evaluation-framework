@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in marketing automation and demonstrates familiarity with some front-end technologies like HTML, CSS, and JavaScript. However, they lack specific skills in required frameworks (React, TypeScript), testing frameworks (Jest, Cypress), version control (Git), and modern CSS tools. Additionally, they do not mention experience with CI/CD processes or security practices, making them a weaker fit for the role.

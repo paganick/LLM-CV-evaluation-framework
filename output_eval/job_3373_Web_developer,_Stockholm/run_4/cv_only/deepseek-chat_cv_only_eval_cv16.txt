@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in web development and Agile processes, but their technical background is heavily centered on legacy .NET/C#/ASP.NET MVC stack with minimal exposure to the required modern front-end technologies. The resume shows no experience with React, TypeScript, modern CSS tools, testing frameworks, Node.js, or the other specific technologies listed as essential or desired in the job description. While foundational skills like JavaScript, HTML, CSS, and Git are present, the core tech stack mismatch is significant.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in business development but lacks the specific skills and hands-on experience required for front-end development, such as expertise in JavaScript, React, modern CSS tools, testing frameworks, and knowledge about security on the web. Their programming knowledge appears limited to HTML and some basic languages, which does not sufficiently align with the technical demands of the position.

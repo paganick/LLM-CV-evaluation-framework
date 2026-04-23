@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analysis and statistical tooling (R, Python, SAS) with no demonstrated experience in JavaScript/TypeScript, HTML/CSS, or practical React/front-end development required for this role. There is no evidence of testing/test automation, Git/repo workflows, Node/npm ecosystem familiarity, modern CSS tools, web security knowledge, or CI/CD experience. While they mention Agile and clean coding interest, those do not compensate for the lack of core front-end skills and tooling.

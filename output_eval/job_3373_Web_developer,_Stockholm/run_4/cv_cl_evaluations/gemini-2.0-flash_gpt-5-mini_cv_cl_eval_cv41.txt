@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in systems administration and engineering, with limited explicit front-end development experience. While the cover letter mentions supporting web applications and a commitment to learning modern front-end technologies, the resume lacks concrete examples of JavaScript, TypeScript, HTML, CSS, or modern FE frameworks. The candidate's skills align more closely with infrastructure and security than front-end development.

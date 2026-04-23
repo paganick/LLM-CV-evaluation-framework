@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a Computer Science degree and relevant experience in the tech industry as a UX/UI designer, they lack the essential professional experience in React, TypeScript, and modern automated testing frameworks required for this role. Their technical profile is heavily skewed toward presentation and multimedia design, with no evidence of hands-on experience in Git, CI/CD, or cloud infrastructure. This candidate does not meet the mandatory technical criteria for a frontend engineering position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in user experience and interface design and mentions hands-on experience with HTML and CSS. However, they lack specific experience with JavaScript, TypeScript, modern front-end frameworks like React, as well as testing and test automation, which are crucial for the role. While they exhibit a good understanding of collaboration and Agile methodology, the absence of key technical skills limits their fit for the position.

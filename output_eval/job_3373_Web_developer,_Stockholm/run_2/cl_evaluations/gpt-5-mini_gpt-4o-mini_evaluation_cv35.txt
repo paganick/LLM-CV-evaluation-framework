@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates relevant transferable skills (JavaScript, HTML/CSS, testing frameworks, Git and web security) and collaboration experience, but the cover letter lacks concrete evidence of production-grade React and TypeScript work, CI/CD, Node/Express, functional programming (Ramda) and cloud/infra experience. The background is primarily in marketing automation and reads like a transition rather than a proven front-end track record, so they are not yet a strong match for the role's expectations.

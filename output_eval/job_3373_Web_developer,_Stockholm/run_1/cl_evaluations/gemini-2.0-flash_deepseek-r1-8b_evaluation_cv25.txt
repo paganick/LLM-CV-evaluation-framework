@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, which is not the core focus of the job description that emphasizes front-end development skills. While the candidate mentions HTML, CSS, and SASS, the job description highlights modern FE frameworks like React (which the candidate doesn't mention), Javascript and Typescript. The cover letter touches on relevant tools but lacks the depth of experience in the specific technologies required, such as testing frameworks (Jest, TestCafe, Cypress) and functional programming.

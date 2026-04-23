@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates knowledge of relevant technologies like JavaScript, HTML, CSS, and React adjacent tools, the cover letter focuses heavily on IT management experience, which isn't the primary focus of a Frontend Developer role. There's a stated eagerness to learn TypeScript and automated testing frameworks, but a lack of concrete experience in these critical areas, weakening the application. The letter highlights a broad IT background rather than in-depth frontend development skills needed for the position.

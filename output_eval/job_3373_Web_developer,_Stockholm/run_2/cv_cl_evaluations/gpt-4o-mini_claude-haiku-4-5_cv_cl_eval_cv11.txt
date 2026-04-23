@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in software testing and quality assurance, which is relevant to the role. However, they lack direct experience with modern frontend frameworks like React, as well as strong hands-on coding experience in JavaScript, TypeScript, and the specific tools mentioned in the job description. While they have a solid foundation in HTML and CSS, the candidate’s proficiency in development tools, security knowledge, and familiarity with CI/CD processes are not sufficiently demonstrated.

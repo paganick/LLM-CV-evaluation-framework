@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong validation and testing discipline and some familiarity with JavaScript, but lacks demonstrable hands-on experience with the core technologies required (React, TypeScript, modern CSS tooling, Jest/Cypress, Node ecosystem, and Git/GitHub). They also do not show knowledge of web security (OWASP/CSP/CORS/OAuth), CI/CD, or other listed tools (Ramda, CircleCI, AWS/Terraform). While technically capable and motivated to learn, the submission does not meet the specific front-end experience the role requires.

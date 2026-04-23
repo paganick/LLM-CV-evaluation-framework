@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a strong motivation to transition into the tech industry and possesses foundational knowledge of required technologies. However, they lack hands-on experience with critical skills such as modern frameworks, testing frameworks, and CI/CD tools mentioned in the job description. While they show an understanding of collaboration in Agile environments, their overall experience does not fully align with the technical demands of the role.

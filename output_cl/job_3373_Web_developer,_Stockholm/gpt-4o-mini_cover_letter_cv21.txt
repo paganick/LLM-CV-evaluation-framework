@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the frontend developer position, where my extensive experience with JavaScript, HTML, and CSS, combined with my deep understanding of modern frameworks such as AngularJS and a genuine passion for clean code, will contribute significantly to your team.
+
+Throughout my career, I have thrived as a software developer, engaged in all stages of website development, including consulting, designing mock-ups, programming, and delivering tailored solutions to clients. My recent work as a freelancer has allowed me to refine my skills, employing technologies such as ASP.Net, HTML5, CSS3, and JavaScript. I have a strong foundation in both unit testing and end-to-end testing processes, having developed testing software to ensure the reliability of various applications.
+
+I understand that your team values strong collaboration within an Agile environment. In my previous roles, I participated in daily Scrum meetings and collaborated across various teams and external partners, ensuring that client needs and specifications were always met. My ability to communicate effectively and my keen understanding of user feedback have enabled me to deliver projects that resonate with end-users.
+
+In addition to my development skills, I have actively kept abreast of advancements in technology, particularly in the realms of front-end development. My hands-on experience with tools like Styled Components, SASS, and testing frameworks such as Jest, speaks to my commitment to quality. I have also utilized Git and hosted services like TFS and JIRA to manage projects effectively.
+
+While I am well-versed in the NodeJS ecosystem, my exposure to AWS and Terraform allows me to appreciate different layers of web development and deployment. My enthusiasm for functional programming complements my technical skill set, and I'm eager to learn new frameworks as your team transitions from Ruby.
+
+I am looking forward to the opportunity to contribute my skills and passion for clean, efficient code to your organization. Thank you for considering my application.
+
+Sincerely,  
+Alexis

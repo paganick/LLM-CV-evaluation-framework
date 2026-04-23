@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience in software testing and basic JavaScript/HTML/CSS skills plus Agile collaboration, but lacks demonstrated hands-on experience with core requirements such as React, TypeScript, modern front-end tooling (Node/npm, Styled Components/SASS), front-end testing frameworks (Jest/Cypress), Git/GitHub, and CI/CD/API work. The cover letter shows willingness to learn, yet the resume does not evidence the practical front-end development experience needed for this role.

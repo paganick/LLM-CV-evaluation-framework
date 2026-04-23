@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the required technical experience in modern JavaScript frameworks, TypeScript, and automated testing tools specified in the job description. Their professional history is focused on business development and project management rather than hands-on software engineering, and their computer science degree is significantly outdated. While the candidate expresses a willingness to learn, they currently do not meet any of the core technical requirements for a frontend developer role.

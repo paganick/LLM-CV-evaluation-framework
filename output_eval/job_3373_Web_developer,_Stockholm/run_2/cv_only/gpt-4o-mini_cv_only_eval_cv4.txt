@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks hands-on experience with modern front-end frameworks such as React, VueJS, or Angular which are critical for the role. While they have some experience with testing and APIs, they do not demonstrate the required knowledge of CI/CD tools or specific testing frameworks mentioned in the job description, limiting their fit for the position.

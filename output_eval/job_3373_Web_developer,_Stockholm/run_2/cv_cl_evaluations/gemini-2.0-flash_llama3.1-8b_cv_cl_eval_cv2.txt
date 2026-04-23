@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume and cover letter highlight expertise in Java/J2EE technologies, which is not aligned with the JavaScript, TypeScript, and modern FE frameworks emphasized in the job description. There is no mention of relevant frontend technologies or frameworks. The candidate's skillset does not match the requirements for this role.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. With over three years of experience in software development and a strong focus on front-end technologies, I am confident I possess the skills and passion to excel in this role.
+
+My background includes extensive experience with JavaScript, HTML, CSS, and modern front-end frameworks, particularly ReactJS. I have also worked with AngularJS and BackboneJS. During my internship as a Test Automation Engineer, I used Selenium WebDriver and Spring Boot to create automation scripts for dynamic pages using the AngularJS Framework. I am proficient in testing and test automation, including unit, integration, and E2E tests, and have experience with testing frameworks like Cucumber.
+
+I am experienced in Agile methodologies and have used Git for version control. My projects have involved a strong emphasis on clean code, and I am committed to staying up-to-date with the latest technologies.
+
+In previous roles, I developed web interfaces using HTML, CSS, Bootstrap, and ReactJS, creating interactive user experiences. My experience extends to backend development using Spring modules, Microservices with Spring Boot, and REST web services. I am also familiar with SQL and NoSQL databases.
+
+I am passionate about collaborating with teams and external partners. I am eager to learn about new domains and platforms beyond my immediate expertise.
+
+I am confident that my skills and experience align well with the requirements. I am eager to contribute to your team and further enhance my skills in a challenging and rewarding environment.
+
+Sincerely,
+Alexis

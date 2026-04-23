@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is entirely in construction and project management with no professional software engineering background and lacks the core technical skills required (JavaScript/TypeScript, React, testing frameworks, Git, Node ecosystem, web security, modern CSS tools, CI/CD, etc.). While they show strong leadership, communication, and project management abilities, these transferable skills do not compensate for the absence of hands-on frontend engineering experience. The applicant is therefore effectively unqualified for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some fundamental knowledge of Javascript, HTML, and CSS, but lacks experience with modern frontend frameworks like React, which is a key requirement. The resume focuses more on general IT skills and troubleshooting, rather than specialized frontend development. While they express a willingness to learn, the current skillset doesn't align with the job description's emphasis on modern FE technologies.

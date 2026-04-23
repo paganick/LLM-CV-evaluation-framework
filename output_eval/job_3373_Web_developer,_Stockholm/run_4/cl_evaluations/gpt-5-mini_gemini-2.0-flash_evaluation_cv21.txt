@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end fundamentals (HTML5, CSS3, JavaScript) and AngularJS experience, plus some unit testing and Agile/team leadership exposure, but lacks key requirements: React and TypeScript expertise, modern testing frameworks and test automation (Jest/Cypress/TestCafe), Node/npm ecosystem familiarity, CI/CD, Git/GitHub mention, and web security knowledge. Overall, a relevant but incomplete match for the role's specific tech stack and tooling expectations.

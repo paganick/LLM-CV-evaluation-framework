@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media production and some experience with web-related tasks, such as managing a website and social media. However, they lack specific technical skills in JavaScript, TypeScript, React, and modern CSS tools, which are crucial for the Front-End Developer role. Their experience does not translate effectively into the required software development competencies.

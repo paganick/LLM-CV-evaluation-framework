@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a business development leader with no demonstrated hands-on experience in JavaScript/TypeScript, React, HTML/CSS, frontend testing, Git, NodeJS, or CI/CD as required by the job. Their background in technical content, API familiarity, and cloud communications is high-level and does not satisfy the practical frontend engineering skills and tooling listed. Given the clear mismatch with the core technical requirements, they are not qualified for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates relevant experience in media planning and some technical skills in HTML, CSS, and SQL/MySQL, they lack hands-on experience with modern front-end frameworks like React and do not have sufficient exposure to testing frameworks and CI/CD tools mentioned in the job description. Their familiarity with only basic Java concepts also does not adequately fulfill the technical requirements for this role.

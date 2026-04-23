@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a high-level executive with twenty years of experience in Product Management and lacks any professional background as a Frontend Engineer. Their resume provides no evidence of hands-on proficiency in JavaScript, TypeScript, or React, nor does it demonstrate practical experience with testing frameworks or web security. While they have worked in the relevant industry, they are completely unqualified for a technical engineering role that requires active development and coding expertise.

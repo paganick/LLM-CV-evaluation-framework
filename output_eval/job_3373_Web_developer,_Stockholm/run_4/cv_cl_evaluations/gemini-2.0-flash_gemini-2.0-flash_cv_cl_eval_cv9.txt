@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in Java, not the JavaScript-focused frontend development outlined in the job description. While they express interest in learning React and have some experience with JavaScript, HTML, and CSS, the resume lacks substantial evidence of modern frontend framework expertise. Their experience with testing and APIs is a plus, but the core skills are not a strong match.

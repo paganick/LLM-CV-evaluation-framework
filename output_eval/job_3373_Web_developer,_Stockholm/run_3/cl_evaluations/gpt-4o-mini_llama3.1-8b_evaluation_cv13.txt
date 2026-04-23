@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has relevant experience in technical project management, particularly with JavaScript and modern front-end frameworks like React. They also demonstrate familiarity with testing frameworks, CI/CD tools, and web security, aligning well with the job requirements. However, there is no mention of TypeScript experience or familiarity with AWS and Terraform, which slightly detracts from being a perfect match.

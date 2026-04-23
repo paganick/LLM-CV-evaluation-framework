@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses project management experience in a relevant industry and lists Javascript, HTML/CSS and Angular, they lack demonstrable depth with modern FE frameworks like React (the primary framework mentioned). Their experience seems more focused on project management rather than hands-on front-end development. The resume also doesn't reflect experience with testing frameworks, CI/CD tools, or other technologies listed in the job description.

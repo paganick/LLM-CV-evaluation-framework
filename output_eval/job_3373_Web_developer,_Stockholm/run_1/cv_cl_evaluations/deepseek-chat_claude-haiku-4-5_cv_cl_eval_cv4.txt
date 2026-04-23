@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in C#/.NET and Python full-stack development, with only foundational JavaScript/HTML/CSS listed. The resume and cover letter show no direct experience with React, TypeScript, modern CSS tools, or the specific testing frameworks required. While they demonstrate relevant soft skills and a willingness to learn, they lack the hands-on, professional experience with the core technologies specified in the job description.

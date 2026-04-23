@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career Project Manager attempting to pivot into development and lacks professional, hands-on experience in a dedicated Frontend Developer role. While they have basic knowledge of JavaScript and HTML/CSS, they do not meet the core requirements for React, TypeScript, or modern testing frameworks like Jest and Cypress. Their background in Agile and project lifecycle is valuable, but it does not compensate for the absence of technical depth in the required modern frontend stack.

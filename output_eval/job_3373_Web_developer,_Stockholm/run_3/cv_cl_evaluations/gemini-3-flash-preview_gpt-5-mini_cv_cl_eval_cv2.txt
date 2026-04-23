@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the software industry, their background is almost entirely focused on legacy Java/J2EE backend technologies like Struts and EJB rather than the required modern front-end stack. They lack professional experience with JavaScript, TypeScript, React, and modern CSS tooling, which are core requirements for this role. The candidate’s profile does not demonstrate the necessary proficiency in front-end testing frameworks or the Node.js ecosystem specified in the job description.

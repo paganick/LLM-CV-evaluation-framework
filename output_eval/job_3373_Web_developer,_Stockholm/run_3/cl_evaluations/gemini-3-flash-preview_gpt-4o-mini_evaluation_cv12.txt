@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate meets most core requirements, including seven years of experience, proficiency in React, and a solid understanding of testing and web security. However, they failed to mention TypeScript, which is listed as a primary requirement alongside JavaScript, and omitted experience with CI/CD and API design. While the candidate is a strong match, these missing technical competencies and a focus on student-led project management prevent a higher rating.

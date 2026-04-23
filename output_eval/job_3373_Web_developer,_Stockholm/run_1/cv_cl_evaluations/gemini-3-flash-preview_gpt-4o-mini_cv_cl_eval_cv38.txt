@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's entire professional history and education are in film and media production, representing a complete industry mismatch for a technical Front-End Developer role. While the cover letter claims familiarity with JavaScript and React, the resume provides no evidence of professional experience, technical projects, or relevant certifications to support these claims. The applicant lacks the required hands-on experience with modern development frameworks, testing suites, and CI/CD tools specified in the job description.

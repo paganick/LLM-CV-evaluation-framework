@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a systems administration professional whose experience is centered on infrastructure, hardware, and legacy IT support rather than modern frontend software engineering. The resume provides no evidence of professional expertise in React, TypeScript, or modern testing suites, and the work history has been stagnant since 2015. While the cover letter expresses interest in the stack, the lack of relevant, recent development experience makes them unqualified for this specific role.

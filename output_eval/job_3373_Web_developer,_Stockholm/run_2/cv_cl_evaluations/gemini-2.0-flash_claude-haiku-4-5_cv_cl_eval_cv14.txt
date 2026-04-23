@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development, but primarily within the ASP.NET ecosystem, which isn't the focus of the job description. While they express interest in learning React and modern frontend tools, their resume lacks concrete experience with the specific technologies listed as essential, such as React, TypeScript, or modern CSS tools. Their experience with JavaScript, HTML, and CSS is noted, but the depth of experience with modern FE frameworks is not demonstrated.

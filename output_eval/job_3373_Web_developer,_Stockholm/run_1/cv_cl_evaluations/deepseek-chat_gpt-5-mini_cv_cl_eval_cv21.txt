@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive full-stack experience but in a legacy .NET stack, not the modern React/TypeScript ecosystem specified. They lack direct experience with key required technologies like React, modern testing frameworks (Jest, Cypress), Node.js, and functional programming (Ramda). While they demonstrate relevant soft skills and a willingness to learn, their technical background is a significant mismatch for the specific front-end and tooling requirements of the role.

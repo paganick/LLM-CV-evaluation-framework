@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct front-end engineering experience. While they highlight transferable skills like testing and collaboration, the cover letter focuses primarily on materials analysis and quality assurance. Their enthusiasm for learning new technologies is noted, but the absence of practical experience in the core technologies (React, TypeScript, etc.) mentioned in the job description is a significant gap.

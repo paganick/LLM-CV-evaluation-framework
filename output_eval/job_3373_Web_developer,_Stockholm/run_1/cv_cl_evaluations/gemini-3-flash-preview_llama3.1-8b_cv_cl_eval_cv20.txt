@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows a background almost exclusively in legacy .NET, SQL, and jQuery, lacking professional experience with the required modern React and TypeScript stack. While the cover letter claims familiarity with modern tools like Jest and Cypress, these skills are completely absent from the resume's professional history and highlights. Additionally, the candidate's professional experience appears to be significantly outdated, with no work history listed after 2016.

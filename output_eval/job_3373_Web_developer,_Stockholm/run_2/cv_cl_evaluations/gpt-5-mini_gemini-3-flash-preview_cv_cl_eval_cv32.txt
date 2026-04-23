@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a decade of customer service and sales experience with no documented software development roles, projects, or technical credentials, so the candidate does not demonstrate the required hands-on frontend experience. The cover letter contains asserted technical skills (React, TypeScript, testing, CI/CD, AWS) but provides no verifiable evidence such as a portfolio, GitHub, or prior engineering positions. Given the lack of concrete technical experience or artifacts, the candidate is not qualified for this frontend developer role.

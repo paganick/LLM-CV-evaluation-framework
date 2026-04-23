@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate brings strong visual design, HTML/CSS and production skills and demonstrates collaboration and deadline-driven experience relevant to front-end work. However, they show no demonstrated experience with JavaScript/TypeScript, React, testing/automation, Node/npm, Git, modern CSS tooling, or the security/CI/CD practices called for in the job, so they would require significant upskilling to meet the role's core technical requirements.

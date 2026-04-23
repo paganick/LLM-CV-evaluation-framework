@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in web development with experience in JavaScript, HTML, CSS, and AngularJS, and has recently transitioned to React and TypeScript. However, they lack familiarity with modern testing frameworks and CI/CD tools specifically mentioned in the job description. While they have relevant industry experience, their specific expertise with modern tools and approaches seems limited, which may hinder their ability to meet the high standards of this position.

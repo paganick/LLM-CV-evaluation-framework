@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project management and technical leadership, but lacks hands-on experience with front-end technologies like JavaScript, React, and CSS. They do not demonstrate familiarity with modern testing frameworks, CI/CD tools, or functional programming, which are key requirements for the role. While the candidate shows a willingness to transition into a technical role, their background primarily focuses on management rather than direct software development.

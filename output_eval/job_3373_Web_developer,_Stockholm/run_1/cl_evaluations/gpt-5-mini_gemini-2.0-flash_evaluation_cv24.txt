@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows foundational front-end knowledge (HTML, CSS, JavaScript), content management experience, and Agile collaboration, which are relevant. However, they do not demonstrate hands-on experience with core requirements for this role—React, TypeScript, testing/automation, NodeJS ecosystem, CI/CD, and web security—only expressing willingness to learn. Without concrete examples or projects proving competency in the listed technologies, they are a relevant but underqualified applicant who would need significant upskilling.

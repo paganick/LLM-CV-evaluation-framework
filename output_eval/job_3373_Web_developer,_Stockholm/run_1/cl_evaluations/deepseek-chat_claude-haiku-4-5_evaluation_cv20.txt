@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in core web technologies and Agile collaboration. However, the cover letter fails to explicitly mention several key requirements from the job description, most notably React, TypeScript, and modern testing frameworks, which are critical for the role. While they show adaptability, the lack of direct experience with the specified tech stack places them in the category of a candidate who is relevant but lacks specific, required skills.

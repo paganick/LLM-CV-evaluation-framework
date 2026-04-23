@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in product management, but the resume lacks concrete examples of hands-on coding experience with the specific technologies mentioned in the job description. While the cover letter claims proficiency in JavaScript, TypeScript, and related tools, the resume focuses heavily on management and marketing roles. The candidate demonstrates awareness of relevant technologies but lacks demonstrable experience as a Frontend Engineer.

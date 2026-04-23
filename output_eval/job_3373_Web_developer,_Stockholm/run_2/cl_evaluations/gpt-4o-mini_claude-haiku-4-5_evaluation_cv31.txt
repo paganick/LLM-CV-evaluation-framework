@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background in frontend development fundamentals, particularly with HTML and foundational knowledge in JavaScript. However, they lack hands-on experience with critical technologies such as modern CSS tools and NodeJS ecosystem, which limits their suitability for the role. Their strong collaborative and leadership skills are commendable, but the absence of direct experience in required frameworks and testing methodologies is a significant gap.

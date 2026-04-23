@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight a background primarily in graphic and product design, with limited evidence of the required front-end development skills. While the candidate mentions familiarity with HTML and some web design tools, they lack the necessary experience in JavaScript, TypeScript, modern FE frameworks like React, testing, and other crucial technologies listed in the job description. The skill set is not a match for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the primary technologies required for this role, specifically React and TypeScript, which are non-negotiable for the current team. While they possess strong general software engineering fundamentals and 7+ years of experience, their profile requires significant training to become productive in the specified stack. As a strict recruiter, I cannot prioritize a candidate who explicitly lacks the core technical requirements listed in the job description.

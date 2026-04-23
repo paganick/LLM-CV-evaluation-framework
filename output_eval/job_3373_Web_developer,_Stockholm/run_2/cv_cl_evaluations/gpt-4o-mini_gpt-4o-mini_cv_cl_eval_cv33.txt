@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in business operations and team management, but lacks the specific technical skills and hands-on experience in JavaScript frameworks, testing automation, and web security required for the front-end development position. While there is some familiarity with HTML, CSS, and JavaScript, the candidate does not demonstrate sufficient proficiency in React or other modern front-end frameworks which are critical for this role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development, particularly with JavaScript and various frameworks, but lacks direct experience with React, modern CSS tools like Styled Components and SASS, and testing frameworks mentioned in the job description. Their background is promising, and they have familiarity with CI/CD tools and API design, but they do not fully meet the specific skills required for the position.

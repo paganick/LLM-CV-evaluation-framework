@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and deliberate transition, directly addressing the core technical requirements (JavaScript, TypeScript, React, testing, Git) and key soft skills (Agile, collaboration). The application is compelling due to the transferable analytical and systems-thinking experience. The score is not a 9 because the cover letter does not explicitly mention several "nice-to-have" items from the job description, such as web security fundamentals (OWASP, CORS), specific CI/CD tools, or AWS/Terraform.

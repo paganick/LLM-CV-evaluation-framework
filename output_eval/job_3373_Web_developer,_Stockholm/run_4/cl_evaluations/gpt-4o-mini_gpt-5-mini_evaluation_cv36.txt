@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in regulated environments and strong collaboration skills but lacks specific front-end engineering experience and knowledge of key technologies such as React, modern JavaScript frameworks, and testing frameworks like Jest or Cypress. Their eagerness to transition into front-end engineering is noted, but the absence of direct technical skills prevents a higher score.

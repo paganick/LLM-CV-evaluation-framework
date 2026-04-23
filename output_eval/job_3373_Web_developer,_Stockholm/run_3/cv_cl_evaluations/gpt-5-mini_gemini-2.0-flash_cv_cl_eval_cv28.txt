@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials analysis and manufacturing with no demonstrated experience in JavaScript, TypeScript, React, frontend frameworks, testing, Git, or related web technologies required for this role. While they show strong analytical, cross-functional collaboration, and learning aptitude, these transferable skills do not compensate for the lack of core technical frontend experience. This makes them largely unqualified for the position as described.

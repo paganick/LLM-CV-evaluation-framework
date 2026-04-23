@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a strong software development background and understanding of testing principles, the cover letter highlights expertise primarily in backend technologies (Java). The letter expresses a genuine interest in front-end development, but lacks demonstrable experience with the required technologies (React, TypeScript, modern CSS). The candidate acknowledges a need to learn and bridge gaps, which suggests a learning curve for immediate contributions to the team.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has broad software experience and mentions JavaScript and HTML, but the background is primarily IBM mainframe/COBOL work and lacks the core, explicitly required front-end skills. There is no evidence of React or TypeScript experience, modern CSS tooling, front-end testing frameworks, Git/GitHub usage, Node/npm, CI/CD, or cloud/infra knowledge. Given the role's strong emphasis on modern front-end tooling, testing, and ecosystem familiarity, this application does not meet the position’s specific requirements.

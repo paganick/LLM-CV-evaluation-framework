@@ -1,0 +1,2 @@
+Score: [4]
+Reasoning: The candidate has extensive experience in web design and graphic design, but lacks explicit UX design experience as required by the job description. While they possess some relevant skills like HTML and CSS editing, they don't demonstrate experience in key areas like Figma prototyping, user research methods (journey mapping, user interviews, user testing), or managing a UI design system. The resume also lacks experience in Agile software development environments and running UX-focused workshops.

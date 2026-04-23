@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in programming and business development, which offers a unique perspective. However, their experience does not directly mention JavaScript, TypeScript, or familiarity with modern front-end frameworks beyond React. While they express a willingness to learn and adapt, they lack specific experience with key technologies and tools required for the role, such as CSS tools, testing frameworks, and CI/CD practices.

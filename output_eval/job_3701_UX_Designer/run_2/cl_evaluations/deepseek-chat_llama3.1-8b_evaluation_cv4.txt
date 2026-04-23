@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design and proposal coordination, not in a dedicated UX role, which is a core requirement. While they mention some relevant skills like HTML/CSS and workshops, they lack explicit experience in Agile environments, user research methods, and the specified prototyping tool (Figma). Their extensive but misaligned experience does not directly translate to the specific responsibilities of managing a UX roadmap, mentoring, and working within a software development lifecycle.

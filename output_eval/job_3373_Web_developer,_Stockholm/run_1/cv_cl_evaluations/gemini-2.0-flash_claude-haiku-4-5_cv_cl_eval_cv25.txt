@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design, with limited experience in frontend development. While they express interest in learning the required technologies, their resume lacks the necessary skills and experience in JavaScript, React, testing frameworks, and other essential tools mentioned in the job description. Their cover letter acknowledges the need for significant learning, highlighting a gap in required expertise.

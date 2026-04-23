@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and demonstrates a solid understanding of development practices. However, their primary background is in ASP.NET rather than modern front-end technologies like React, along with limited exposure to the required frameworks and tools. While they have some familiarity with testing and modern CSS, their experience does not fully match the job description's emphasis on JavaScript frameworks and modern front-end tools.

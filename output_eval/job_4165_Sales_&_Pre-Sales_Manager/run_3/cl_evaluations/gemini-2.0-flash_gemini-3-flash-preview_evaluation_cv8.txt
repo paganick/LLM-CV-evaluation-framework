@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive sales experience and a track record of exceeding goals, aligning with the role's focus on driving sales. Their experience in managing complex solutions and building relationships with diverse stakeholders is relevant. The cover letter highlights experience in areas relevant to the job description's requirements, but lacks explicit discussion of Application Services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research).

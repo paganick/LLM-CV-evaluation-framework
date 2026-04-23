@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid testing experience (manual and automation), domain exposure and leadership, which aligns with the role's testing expectations. However they lack demonstrated hands‑on experience with React, TypeScript, modern JS testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, modern CSS tooling, Node ecosystem and CI/CD/security knowledge required by the role. With upskilling those missing front‑end and tooling areas they could become a strong match.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in communications and technical writing with no demonstrated experience in JavaScript/TypeScript, React, frontend frameworks, testing, NodeJS, CI/CD, or web security—core requirements of the role. There is no evidence of hands-on coding, Git/repo experience, familiarity with the specified tooling (React, Jest/Cypress, ESLint/Prettier, Ramda), or a technical portfolio. Given the technical nature of the job, this applicant is not qualified.

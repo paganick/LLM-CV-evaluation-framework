@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# backend development with only tangential front-end work using jQuery and basic JavaScript, which does not align with the requirement for modern React expertise. They lack demonstrable experience with key technologies like TypeScript, React, modern CSS tools, functional programming (Ramda), and the Node.js ecosystem. While they show foundational knowledge of Agile, Git, and testing concepts, their skill set is outdated and not a direct match for the specific front-end developer role.

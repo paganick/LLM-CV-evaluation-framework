@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter focuses heavily on system administration, which is not the primary focus of the job description. While the candidate mentions an interest in modern FE frameworks, they do not provide concrete examples of experience with JavaScript, TypeScript, or the specific frameworks (React) mentioned. The letter emphasizes skills like system reboots and maintenance, which are less relevant to a front-end development role.

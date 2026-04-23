@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant IT leadership experience but lacks direct, hands-on experience with the core front-end technologies and frameworks listed in the job description (e.g., React, TypeScript, modern CSS tools, testing frameworks). While they demonstrate strong adjacent skills in security, project management, and systems integration, the cover letter does not provide concrete evidence of recent, practical front-end engineering work, which is the primary requirement for this role.

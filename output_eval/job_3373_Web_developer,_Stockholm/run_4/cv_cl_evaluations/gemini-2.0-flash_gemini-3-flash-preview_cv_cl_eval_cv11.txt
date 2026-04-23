@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's experience is primarily in QA/Testing, not development. While they possess some of the listed technical skills (JavaScript, HTML, CSS, Git), their experience lacks depth in modern FE frameworks like React, which is heavily used by the company. The cover letter attempts to bridge this gap, but the resume doesn't demonstrate sufficient hands-on development experience.

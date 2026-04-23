@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience as a Systems Administrator but lacks specific frontend development expertise in JavaScript, TypeScript, and associated frameworks like React, which are crucial for the position. While they demonstrate solid technical skills in system administration and troubleshooting, they do not address many of the key requirements listed in the job description, such as testing frameworks and proficiency in Git. Overall, they are somewhat qualified but do not fully meet the role's demands.

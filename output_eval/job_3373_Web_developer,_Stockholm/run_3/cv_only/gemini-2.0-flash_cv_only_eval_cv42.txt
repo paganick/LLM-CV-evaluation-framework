@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate's resume is entirely focused on finance and operations management within publishing and non-profit sectors. There is absolutely no mention of any of the required technical skills (JavaScript, React, HTML, CSS, etc.) or relevant experience in software development, testing, or web security. The resume showcases budgeting, project management, and leadership skills, which are irrelevant to the job description.

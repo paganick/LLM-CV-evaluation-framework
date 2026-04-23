@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in finance operations, not front-end development, which is a significant mismatch for a hands-on technical role. While they demonstrate awareness of some required technologies like React, Git, and security concepts, the cover letter lacks concrete evidence of professional experience building or maintaining web applications. The skills listed are presented as foundational knowledge or keen interest, not proven, practical expertise required for the position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing technology, which is tangentially related but lacks direct experience with modern FE frameworks like React. While the candidate mentions Git, testing strategies, and security fundamentals, the experience seems indirect and not hands-on with the specific tools mentioned in the job description. The letter focuses on transferable skills rather than concrete examples of JavaScript/TypeScript/HTML/CSS development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a sales leadership background with some knowledge of front-end technologies, particularly React, but lacks hands-on experience with many of the specific technologies and tools mentioned in the job description. There is no evidence of familiarity with testing frameworks, modern CSS tools, version control, or other key requirements. While the candidate demonstrates a willingness to expand their technical skills, they do not meet enough of the specific criteria to be considered a strong candidate for the role.

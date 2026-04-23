@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant front-end development experience and familiarity with key technologies such as JavaScript, HTML, CSS, and React, aligning well with the job requirements. However, they lack specific experience with TypeScript, some modern frameworks mentioned in the description, and certain tools like ESLint and Prettier, which slightly affects their overall match. Their knowledge of testing frameworks is also not specified in detail, which is crucial for the role.

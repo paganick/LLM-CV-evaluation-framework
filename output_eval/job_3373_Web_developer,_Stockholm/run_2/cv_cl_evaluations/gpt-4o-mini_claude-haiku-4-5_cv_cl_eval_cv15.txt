@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant skills in JavaScript, HTML, and CSS, along with web development experience, making them a viable candidate. However, they lack specific experience with modern frontend frameworks like React, as well as knowledge in testing frameworks and CI/CD tools mentioned in the job description. Their familiarity with web security principles is a positive aspect, but overall, they do not fully align with the role's requirements.

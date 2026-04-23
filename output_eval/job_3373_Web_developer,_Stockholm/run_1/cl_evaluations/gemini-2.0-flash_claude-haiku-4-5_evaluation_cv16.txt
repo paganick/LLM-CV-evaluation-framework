@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some relevant skills, particularly in JavaScript, HTML, and CSS. However, the primary framework experience is ASP.NET, and the letter emphasizes a desire to "deepen expertise in React" rather than demonstrating existing proficiency. While the candidate mentions security and testing, the experience seems more peripheral than hands-on with the specific tools and concepts listed in the job description.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend/UX design experience and solid HTML/CSS and collaboration background, but lacks demonstrated hands-on JavaScript/TypeScript and React development experience, as well as required testing automation, Node/npm ecosystem, Git workflow, and security/CI/CD knowledge. Their cover letter expresses willingness to learn, but there is no concrete evidence of the core technical skills the role requires. This makes them a relevant-industry candidate who currently lacks the specific technical qualifications for this position.

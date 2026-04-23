@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume showcases a strong background in Java/J2EE technologies, which is not the primary focus of the job description. There's a lack of experience with JavaScript, TypeScript, modern front-end frameworks (React, VueJS, Angular, Svelte), and related testing/automation tools. While the candidate has experience with Agile and Git, the core skills required for this front-end role are missing.

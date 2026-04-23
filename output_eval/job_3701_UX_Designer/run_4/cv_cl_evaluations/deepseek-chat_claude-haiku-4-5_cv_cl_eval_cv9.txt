@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in HR systems analysis, not UX design, lacking the required 2-3 years of commercial UX experience. While they demonstrate transferable skills in analysis and stakeholder management, they have no proven experience with core UX tools like Figma, user research methods, or prototyping, which are central to the role. Their technical exposure is to backend systems, not front-end web technologies (HTML/CSS/JS) relevant for managing a UI Design System.

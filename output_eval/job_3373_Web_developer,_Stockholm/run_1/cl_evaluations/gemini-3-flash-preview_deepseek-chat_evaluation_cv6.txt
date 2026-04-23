@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant full-stack experience and soft skills, they lack professional proficiency in the core technologies required, specifically React and TypeScript. Their background is heavily focused on the Drupal ecosystem, and they describe their JavaScript skills as "foundational" rather than advanced. Additionally, the letter fails to demonstrate experience with modern CSS methodologies or the specific testing frameworks requested in the job description.

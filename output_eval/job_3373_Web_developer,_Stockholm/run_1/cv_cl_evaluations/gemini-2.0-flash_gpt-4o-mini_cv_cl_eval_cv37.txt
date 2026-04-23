@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight project management and IT leadership experience, but lack concrete evidence of hands-on front-end development skills. While the candidate mentions familiarity with SDLC and modern technologies, there's no demonstrable experience with specific technologies mentioned in the job description such as React, Typescript, or testing frameworks. The candidate's background appears more aligned with management and strategic oversight rather than the required technical expertise.

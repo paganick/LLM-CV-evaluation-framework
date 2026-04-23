@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this role, as their professional background is in program management and learning design rather than software engineering. The resume lacks any mention of the required technical stack, including JavaScript, React, TypeScript, or web security protocols. This candidate is from a different industry and does not possess the necessary coding or front-end development experience.

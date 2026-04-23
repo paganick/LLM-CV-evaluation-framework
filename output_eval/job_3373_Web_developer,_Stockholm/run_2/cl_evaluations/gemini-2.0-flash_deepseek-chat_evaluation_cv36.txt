@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate's background is in an unrelated field, requiring a significant career shift. While they demonstrate self-taught skills in React, TypeScript, and testing, the depth of practical experience is questionable. The cover letter relies heavily on transferable skills from a previous career, which may not directly translate to the demands of a front-end developer role.

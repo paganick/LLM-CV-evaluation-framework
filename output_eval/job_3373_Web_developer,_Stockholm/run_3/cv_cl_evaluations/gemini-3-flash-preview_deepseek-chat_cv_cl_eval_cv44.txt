@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a Computer Science degree and foundational knowledge of HTML/CSS, their professional experience is primarily centered on presentation and UX design rather than software development. They lack documented professional experience with the required modern tech stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. Consequently, the candidate does not meet the technical requirements for a mid-to-senior level Front-End Developer role.

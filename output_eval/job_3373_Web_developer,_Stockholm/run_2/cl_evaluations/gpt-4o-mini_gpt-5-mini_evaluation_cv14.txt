@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in web development, particularly with ASP.NET and traditional web technologies. However, they lack direct experience with React, TypeScript, and modern CSS tools mentioned in the job description, which lowers their overall fit for the role. Their motivation to learn these technologies is noted, but it may not fully compensate for the lack of hands-on experience in key areas required for this position.

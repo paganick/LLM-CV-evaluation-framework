@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates a strong theoretical grasp of the required tech stack and holds a relevant Security+ certification, their professional experience is primarily in Systems Engineering and IT infrastructure rather than dedicated software development. They lack a proven professional track record of building production-scale applications with React, TypeScript, or functional programming patterns. Consequently, the candidate requires significant upskilling to meet the core development expectations despite their relevant industry background.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all the core technical requirements for the role, including JavaScript, TypeScript, CSS, and professional experience with React. Their background is heavily focused on data analytics and quality assurance rather than software engineering, and they explicitly state a need to learn the technologies required for the position. While they possess relevant technical literacy in Python and SQL, they do not meet the minimum qualifications for a front-end developer role as outlined in the job description.

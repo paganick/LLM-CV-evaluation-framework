@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The applicant lacks the mandatory technical experience in JavaScript, TypeScript, and React, admitting to being in the early stages of a career transition from a different industry. They provide no evidence of proficiency in testing frameworks, version control, or web security, which are essential requirements for this role. Despite strong soft skills, the candidate is fundamentally unqualified due to a complete absence of professional frontend development experience.

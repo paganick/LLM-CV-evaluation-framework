@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer transitioning from marketing automation and lacks the professional hands-on experience required for a core Front-End Developer role. While they possess basic knowledge of HTML, CSS, and JavaScript, they fail to demonstrate proficiency in mandatory requirements such as TypeScript, React, Git, and Web Security (OWASP/CORS). Their experience is largely centered on platform-specific automation (Eloqua/Salesforce) rather than modern software engineering practices.

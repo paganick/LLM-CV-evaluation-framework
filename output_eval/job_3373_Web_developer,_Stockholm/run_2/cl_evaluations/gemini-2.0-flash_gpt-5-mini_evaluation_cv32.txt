@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in customer service, sales, and management, which doesn't align with the front-end engineering requirements. While soft skills like collaboration and communication are valuable, the lack of technical skills (JavaScript, React, testing) is a significant drawback. The candidate acknowledges the skills gap but over relies on soft skills.

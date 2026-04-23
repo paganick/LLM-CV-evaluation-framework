@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different industry with no direct professional software development experience. While they demonstrate transferable soft skills and a willingness to learn, they lack all the required technical skills (JavaScript, TypeScript, testing, Git, modern frameworks, etc.). The application is a significant career pivot with no evidence of hands-on technical proficiency for the role.

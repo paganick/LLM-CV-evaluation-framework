@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, and AngularJS, but lacks experience with modern FE frameworks like React, testing frameworks mentioned, and NodeJS. While the resume mentions Agile, it doesn't showcase a strong collaboration. The candidate's experience is primarily Java-focused, with limited depth in the specific FE technologies required.

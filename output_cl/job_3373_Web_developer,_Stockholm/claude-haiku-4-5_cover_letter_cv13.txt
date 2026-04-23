@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With over eight years of progressive experience in technical project management, web development, and digital product creation, I am confident in my ability to contribute meaningfully to your team while continuing to grow as a developer.
+
+Throughout my career, I have developed a solid foundation in JavaScript, HTML, and CSS, complemented by hands-on experience with Angular and other modern frameworks. My work as a Technical Project Manager at PMA Media Group and my previous roles have provided me with practical exposure to frontend development across multiple projects, including prominent websites like RootsTech.org and FamilySearch.org. This experience has given me a genuine appreciation for clean, maintainable code and the importance of technical excellence.
+
+I am particularly drawn to your emphasis on testing and quality assurance. My background includes designing and executing comprehensive user research scripts and testing plans, which has cultivated my understanding of test-driven development principles. While my formal testing framework experience is limited, my analytical background in Adobe Analytics and measurement strategy demonstrates my capacity to quickly master Jest, Cypress, and other testing tools your team employs.
+
+My technical skillset aligns well with your requirements. I possess working knowledge of Git and version control systems, basic web security principles including CORS and OAuth, and familiarity with the Node.js ecosystem through project exposure. Additionally, my proven experience with Agile methodologies, including leading Scrum implementations at PMA Media, directly matches your collaborative team environment.
+
+What truly excites me about this opportunity is your team's commitment to staying current with emerging technologies and maintaining code quality standards. These values resonate deeply with my professional philosophy. My proven ability to work cross-functionally with designers, marketers, and backend teams demonstrates my comfort collaborating with diverse stakeholders. My experience understanding full product domains, from user research through analytics, positions me to grasp not just frontend concerns but the broader platform implications.
+
+I am genuinely enthusiastic about transitioning from project management into a dedicated frontend development role where I can apply my technical foundation while leveraging my unique perspective on user-centered development. I am eager to contribute to your team using React, embrace your functional programming practices with Ramda, and grow within your supportive technical environment.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my background and passion for quality frontend development can benefit your organization.
+
+Sincerely,
+Alexis

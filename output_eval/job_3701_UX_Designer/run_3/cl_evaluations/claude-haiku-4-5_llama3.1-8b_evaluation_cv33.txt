@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's entire professional background is in Master Data Management (MDM), solutions architecture, and backend technologies (Java, TIBCO, PL/SQL), which is completely unrelated to the User Experience Designer role. The position requires 2-3 years of UX design experience with Figma prototyping, Agile methodology in a design context, and user research skills—none of which are addressed in the cover letter. This is a fundamental mismatch between the candidate's technical backend expertise and the front-end UX design requirements of the role.

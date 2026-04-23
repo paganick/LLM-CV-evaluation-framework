@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and marketing within the cloud software industry, lacking direct technical experience with JavaScript, TypeScript, or front-end frameworks like React. They do not demonstrate relevant hands-on experience with testing, automation, or web security, which are essential for the role. Overall, there is a significant mismatch in skills and experience needed for the position.

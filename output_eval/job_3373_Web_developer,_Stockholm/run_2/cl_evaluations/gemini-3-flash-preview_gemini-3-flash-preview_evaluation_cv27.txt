@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks demonstrated professional experience with core requirements such as JavaScript, TypeScript, and automated testing, focusing instead on a background in media production and artistic direction. While they mention interest in React and the NodeJS ecosystem, these are framed as aspirational goals rather than established technical proficiencies. The letter fails to provide evidence of hands-on engineering experience or familiarity with the full development lifecycle required for this role.

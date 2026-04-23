@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is almost exclusively in Java/JEE backend development, with minimal and non-professional frontend experience. The job requires deep expertise in modern JavaScript, TypeScript, and React, which the candidate demonstrably lacks. While they show an eagerness to learn and have transferable soft skills, their technical profile is a severe mismatch for the core requirements of the role.

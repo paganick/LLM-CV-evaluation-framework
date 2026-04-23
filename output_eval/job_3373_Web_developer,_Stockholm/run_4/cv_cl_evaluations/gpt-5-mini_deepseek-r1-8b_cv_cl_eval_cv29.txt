@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter demonstrate a career in business development, sales, and marketing with no evidence of hands-on front-end engineering experience or proficiency in required technologies (JavaScript/TypeScript, React, testing frameworks, Node.js, CSS tooling, CI/CD, AWS/Terraform). There are no technical projects, coding skills, or engineering roles listed that match the job requirements. This profile is therefore not qualified for the frontend developer role.

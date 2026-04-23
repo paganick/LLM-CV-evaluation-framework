@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience within the relevant industry, their background is primarily in business development and strategy rather than professional software engineering. They lack demonstrated hands-on experience with the core technical requirements—specifically TypeScript, CSS, and professional-grade React development—beyond personal interest and "familiarity." As a career-changer, they do not meet the criteria for a candidate ready to perform at a professional front-end developer level.

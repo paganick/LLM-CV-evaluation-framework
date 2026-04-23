@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses relevant experience in programming and a strong educational background, primarily focusing on data analysis. They demonstrate familiarity with several required technologies, including web development principles and tools like React, as well as a foundational understanding of testing and security concepts. However, a lack of direct experience with TypeScript, the NodeJS ecosystem, and CI/CD tools puts them short of being a perfect match.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in IT infrastructure and technical support, lacking the necessary frontend development skills outlined in the job description. While the candidate expresses interest in learning, they currently don't possess the required experience with JavaScript, React, modern CSS tools, or testing frameworks. Their experience with WordPress and Joomla is not equivalent to modern frontend development experience.

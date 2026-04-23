@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and some exposure to technologies listed in the job description, including HTML, CSS, and JavaScript. However, they lack specific experience with modern front-end frameworks like React, testing frameworks, and a general understanding of security principles on the web. Additionally, the candidate's Agile experience is mentioned but not elaborated on, which is critical for the position.

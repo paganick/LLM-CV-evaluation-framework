@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in construction and project management, which does not align with the requirements for a Front-End Developer role. While they have expressed a desire to transition into software development and mentioned relevant technologies such as JavaScript, TypeScript, and React, there is insufficient demonstration of hands-on experience with the specific frameworks and tools required in the job description, such as modern CSS tools, testing frameworks, and CI/CD practices.

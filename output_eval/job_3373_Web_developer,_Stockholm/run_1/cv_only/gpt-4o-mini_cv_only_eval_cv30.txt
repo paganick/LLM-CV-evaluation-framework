@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in data analysis and some familiarity with HTML, but lacks the full range of required skills in JavaScript, TypeScript, modern front-end frameworks (specifically React), and testing frameworks. Their background is primarily in data and environmental science rather than the specific web development expertise sought in the job description. Overall, they are from a relevant industry but lack many specific experiences required for this position.

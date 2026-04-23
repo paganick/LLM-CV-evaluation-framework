@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid background in information technology and emphasizes relevant skills such as collaboration in Agile environments and experience with testing frameworks, they lack direct experience with front-end technologies like JavaScript, TypeScript, and modern frameworks such as React. The specific hands-on development experience needed for a front-end developer role appears to be minimal, which limits their suitability for the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is rooted in data analytics, environmental science, and semiconductor quality control, which is entirely outside the scope of a modern Frontend Engineer role. The resume fails to demonstrate any practical experience or proficiency in JavaScript, React, TypeScript, or modern web security, which are mandatory requirements. While the cover letter repeats keywords from the job description, the actual work history shows zero evidence of application development or frontend framework usage.

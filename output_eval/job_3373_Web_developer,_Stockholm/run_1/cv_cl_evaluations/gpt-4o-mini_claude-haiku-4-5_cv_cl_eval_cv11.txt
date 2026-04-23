@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software testing and quality assurance, they lack direct experience with modern frontend frameworks like React, which is critical for the position. Although they possess skills in JavaScript, HTML, and CSS, their background primarily focuses on testing rather than development. Additionally, while they show familiarity with some automation testing tools, they do not explicitly mention experience in test automation frameworks relevant to frontend development.

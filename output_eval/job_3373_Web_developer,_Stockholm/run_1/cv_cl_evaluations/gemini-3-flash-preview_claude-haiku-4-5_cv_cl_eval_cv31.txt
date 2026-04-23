@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no documented professional experience or technical proficiency in the required stack, including React, TypeScript, and testing automation. The resume reflects a career entirely in sales and hospitality, failing to meet any of the core technical requirements for a frontend developer role. This application represents a complete mismatch between the candidate's career history and the specialized technical needs of the position.

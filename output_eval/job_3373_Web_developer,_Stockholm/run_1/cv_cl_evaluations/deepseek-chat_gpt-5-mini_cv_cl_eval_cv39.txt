@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and fine arts, not software engineering. They lack any professional experience with the core technologies required (JavaScript, TypeScript, React, testing frameworks, Git) and their listed skills are primarily in Adobe Creative Suite and basic HTML. While they express eagerness to learn, their profile is a complete mismatch for a modern front-end engineering role.

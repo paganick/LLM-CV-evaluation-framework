@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in graphic design but lacks the fundamental skills and experience required for the role, such as proficiency in JavaScript, TypeScript, modern front-end frameworks (React), testing frameworks, and understanding of web security principles. Their experience is primarily in graphic design and does not align with the technical and software development focus of the job description.

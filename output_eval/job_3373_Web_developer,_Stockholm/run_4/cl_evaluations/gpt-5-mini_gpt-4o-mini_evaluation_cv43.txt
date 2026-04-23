@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable soft skills (program management, Agile collaboration) and willingness to learn, but provides no hands-on experience in core technical requirements: JavaScript/TypeScript, React, HTML/CSS, testing frameworks (Jest/Cypress), Git, or the NodeJS/tooling ecosystem. Basic familiarity with web security and interest in CI/CD are noted, but the lack of practical, demonstrable frontend development experience means they are not immediately qualified for this role.

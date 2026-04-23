@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory hands-on experience with the core tech stack, including JavaScript, TypeScript, and React, explicitly stating a need to "ramp up" on these tools. While the applicant has a strong technical background in systems administration and security, they fail to demonstrate any professional experience with frontend development, testing automation, or modern CSS tools. This profile represents a career transitioner who does not meet the immediate technical requirements of the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate meets the baseline UX experience (2-3+ years freelance work with prototypes, wireframes, usability testing and research) but key requirements are missing or undocumented. There is no clear Agile/sprint experience, no Figma listed (only Sketch/InVision), only HTML5 noted (no CSS/JS exposure), and no evidence of running workshops, managing a UX team, or maintaining a UI design system. These gaps mean the candidate is relevant to the industry but lacks several specific skills and experience required for this role.

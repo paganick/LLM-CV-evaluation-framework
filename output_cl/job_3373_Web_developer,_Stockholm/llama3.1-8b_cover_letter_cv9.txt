@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Consultant position at your esteemed organization. As a seasoned IT professional with 7 years of experience and a Master's degree in Computer Applications, I am confident that my skills and expertise align perfectly with the requirements of this role.
+
+With extensive experience working with Java (JEE) programming languages, I have developed a strong proficiency in designing and developing robust software applications. My expertise spans various technologies including Spring, Hibernate, MyBatis, Maven, Mockito, WireMock, and RabbitMQ. I have also worked on implementing Service-Oriented Architecture (SOA), Enterprise Service Bus (OSB), Business Process Execution Language, and Web services.
+
+In my previous roles, I have demonstrated exceptional skills in Test-Driven Development (TDD) and Behavior-Driven Development (BDD). My experience with Git and repository hosting services such as GitHub has enabled me to efficiently manage code repositories. Furthermore, I possess a solid understanding of security on the web, including OWASP, CSP, CORS, OAuth, and basic knowledge of Web application firewalls.
+
+As a strong collaborator, I thrive in Agile environments and have successfully worked with cross-functional teams to deliver high-quality products. My passion for writing clean code is reflected in my work, where I have consistently achieved meaningful unit test coverage above 90%.
+
+I am particularly drawn to this role because it involves working with modern front-end frameworks such as React, VueJS, Angular, and Svelte. My experience with JavaScript, TypeScript, HTML, CSS, and testing frameworks including Jest, TestCafe, and Cypress will enable me to make a seamless transition into your team.
+
+In addition to my technical expertise, I possess excellent communication skills, having worked with clients and colleagues in Germany for over five years. My fluency in English and Hindi, along with my basic German (A1) certification, has allowed me to effectively communicate across cultures.
+
+Thank you for considering my application. I am excited at the prospect of joining your team and contributing my expertise to drive success.
+
+Sincerely,
+Alexis

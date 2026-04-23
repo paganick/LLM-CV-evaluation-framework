@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate is a graphic designer with no relevant experience in frontend web development, JavaScript, TypeScript, React, or any of the required technical skills. While the resume mentions some web design work and Adobe Dreamweaver, there is no evidence of modern web development frameworks, testing frameworks, Git/GitHub, or any of the core competencies listed in the job description. The candidate's background is entirely in traditional graphic design and visual arts, making them completely unqualified for this senior frontend engineer position.

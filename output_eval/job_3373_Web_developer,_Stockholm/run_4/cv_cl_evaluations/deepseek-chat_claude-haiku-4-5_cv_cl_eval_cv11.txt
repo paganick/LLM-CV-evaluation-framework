@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in software testing/QA, not frontend development. While they mention JavaScript, HTML, and testing tools, they lack demonstrable professional experience with React, TypeScript, modern CSS tools, or the other core frontend technologies and frameworks listed in the job description. Their experience is adjacent but not directly aligned with the core responsibilities of a frontend developer role.

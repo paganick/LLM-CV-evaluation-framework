@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am an Information Technology Specialist with over twelve years of hands on experience supporting servers, networks, and end users, and I am excited to bring my troubleshooting discipline, security minded approach, and customer focused collaboration to a front end engineering team using React. In my current role I support more than 480 Windows devices and 44 Windows/VMware servers, manage business continuity and backup solutions (StorageCraft, Datto, VEEAM, Intronis), and perform wired/wireless network, VoIP and CCTV administration. Those responsibilities have given me a practical understanding of the full stack of operational technology that underpins reliable user experiences.
+
+My career is built on resolving complex technical problems, automating repeatable tasks, and communicating clearly across teams. I have overseen business assessments and compliance testing for FINRA, HIPAA and PCI requirements, performed drive duplication and imaging processes, and reduced average daily help desk tickets by nearly 100% through targeted remediation and user training. I hold CompTIA A+ and Network+ certifications and several vendor certifications, and I am comfortable working with technicians, management and external vendors to deliver solutions on schedule.
+
+Training, documentation and customer engagement are strengths I bring to development teams. I have led in store demonstrations, formal training sessions, and one on one coaching for sales and technical staff. Those experiences taught me to translate technical concepts into clear, actionable steps and to collaborate effectively across disciplines — qualities that are essential for working in Agile teams and coordinating with product managers and external partners.
+
+While my background is primarily infrastructure and support rather than production front end development, I am already familiar with web content management systems such as WordPress and Joomla, with digital imaging tools like Photoshop and Illustrator, and with systematic testing and deployment practices. I am highly motivated to learn React, TypeScript, modern testing frameworks and the broader Node.js toolchain, and I bring a genuine passion for writing clean, maintainable code informed by years of disciplined systems work.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my operational experience, collaborative mindset and commitment to continuous learning can contribute to your team. I am ready to transition into front end engineering, eager to contribute immediately and prepared to learn frameworks, testing tools and modern workflow practices.
+
+Sincerely, Alexis

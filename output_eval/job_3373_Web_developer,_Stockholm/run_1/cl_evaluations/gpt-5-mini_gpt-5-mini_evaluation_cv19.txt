@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong visual design and HTML/CSS experience and demonstrates motivation to learn front-end engineering, which is relevant to the role. However they provide no demonstrated experience with JavaScript/TypeScript, React (the team's framework), testing frameworks, Node/npm, Git workflows, or web security—core requirements listed in the job description. Given the gap in essential technical skills and practical engineering experience, they are not yet qualified for this position despite transferable design strengths.

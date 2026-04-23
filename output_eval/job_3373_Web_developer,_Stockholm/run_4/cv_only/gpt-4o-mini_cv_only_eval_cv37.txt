@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in project management and IT leadership, but lacks specific technical skills in JavaScript, TypeScript, modern front-end frameworks (like React), and testing frameworks mentioned in the job description. Their resume does not demonstrate hands-on coding experience or familiarity with web security concepts, which are crucial for the role.

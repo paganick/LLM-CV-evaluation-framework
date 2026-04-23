@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in graphic design and visual arts, with limited demonstrable experience in modern front-end technologies. While the cover letter expresses interest in learning React and related technologies, the resume lacks concrete evidence of skills like JavaScript, TypeScript, or modern testing frameworks. The candidate's HTML experience appears dated, and there's no mention of Node.js or CI/CD tools.

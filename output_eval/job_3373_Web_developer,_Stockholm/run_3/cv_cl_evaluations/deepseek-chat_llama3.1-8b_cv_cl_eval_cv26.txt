@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in marketing, communications, and law, with zero demonstrated experience in any of the required technical skills (JavaScript, React, testing, Git, etc.). The cover letter explicitly states a lack of direct experience in front-end development. This profile is from a completely different industry and does not meet any of the core technical requirements for the software engineering role.

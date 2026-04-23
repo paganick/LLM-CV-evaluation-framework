@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical qualifications required for this front-end developer role—there is no evidence of JavaScript/TypeScript, React, testing frameworks, Git, Node.js, or related tooling experience. While they demonstrate strong communications, content management, and accessibility experience, those skills do not satisfy the technical requirements for the position.

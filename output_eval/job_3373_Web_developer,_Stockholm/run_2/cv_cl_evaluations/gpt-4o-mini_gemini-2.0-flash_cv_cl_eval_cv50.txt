@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a Bachelor's degree in Computer Science and some transferable skills from project management and business development. However, they lack direct experience with the specific technologies mentioned in the job description, such as JavaScript, TypeScript, React, testing frameworks, and modern CSS tools. Their experience appears more aligned with business roles rather than technical development, making them less suitable for this front-end developer position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume shows a senior IT/project management background but contains no demonstrated hands-on front-end development experience with JavaScript/TypeScript, React, modern CSS tools, testing frameworks, Node/npm, or Git/GitHub projects. The cover letter asserts familiarity with these technologies but provides no concrete examples, deliverables, or portfolio to validate coding ability. For a role requiring practical FE development, testing automation, and modern toolchain experience, the candidate lacks the specific technical evidence to be a strong match.

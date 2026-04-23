@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited demonstrable experience in the specific technologies listed in the job description. While the cover letter expresses interest and some familiarity with aspects of the required tech stack (HTML, CSS, Jest, GitHub, ESLint), the resume lacks concrete projects or roles showcasing these skills in a professional software development context. The candidate does not have sufficient experience with modern FE frameworks and libraries like React, VueJS, Angular and Svelte.

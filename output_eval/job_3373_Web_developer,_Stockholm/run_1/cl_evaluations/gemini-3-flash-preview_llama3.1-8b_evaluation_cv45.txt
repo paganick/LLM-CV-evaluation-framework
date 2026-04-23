@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an IT management and cybersecurity professional whose 15-year career focus is on infrastructure, NetOps, and DoD policy rather than hands-on software engineering. While the letter lists the required technologies, the professional experience as a "Branch Chief" suggests a significant lack of practical, professional experience in modern frontend development and clean code practices. The profile reflects a high-level administrator rather than the specialized developer required by the job description.

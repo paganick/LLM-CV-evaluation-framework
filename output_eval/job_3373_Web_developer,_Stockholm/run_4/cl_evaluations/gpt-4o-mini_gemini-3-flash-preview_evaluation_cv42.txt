@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in operations and project management, but lacks direct experience in specific frontend technologies like JavaScript, TypeScript, and modern frameworks (specifically React) as outlined in the job description. While they demonstrate relevant skills in user experience and collaboration within Agile environments, their technical expertise does not fully align with the requirements for the Frontend Developer position.

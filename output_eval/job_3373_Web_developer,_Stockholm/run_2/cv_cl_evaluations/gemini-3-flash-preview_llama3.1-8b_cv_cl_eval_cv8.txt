@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware/electronics test engineer whose entire professional history focuses on RF circuits, PCB debugging, and manufacturing testing rather than software development. There is no evidence in the resume of professional experience with the required web stack (React, TypeScript, HTML/CSS) or frontend testing frameworks. The profile is a complete mismatch for a modern web-based software engineering role.

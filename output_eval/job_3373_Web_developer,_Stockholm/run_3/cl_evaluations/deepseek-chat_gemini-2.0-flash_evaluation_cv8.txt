@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics manufacturing and test engineering, not front-end development. While they mention relevant concepts like OWASP and Agile, they provide no demonstrable experience with the core technologies required: JavaScript, TypeScript, React, HTML, CSS, or modern front-end tooling. Their Python scripting and process skills are transferable but insufficient to meet the specific technical demands of the role.

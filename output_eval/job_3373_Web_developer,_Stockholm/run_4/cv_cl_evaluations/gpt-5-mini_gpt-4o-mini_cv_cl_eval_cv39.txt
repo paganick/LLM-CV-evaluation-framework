@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a decades‑long graphic and product designer with only limited, self‑reported HTML/CSS and basic JavaScript/SASS exposure and no demonstrated experience with modern front‑end engineering. They lack core requirements for this role including React/TypeScript, testing frameworks (Jest/Cypress), Git/GitHub workflow, Node/npm and CI/CD, API design, and meaningful AWS/Terraform experience. While motivated to learn and strong in visual design, the technical gap is too large for this position.

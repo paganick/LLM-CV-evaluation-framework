@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a somewhat relevant background in data analysis and engineering but lacks direct frontend development experience. While they demonstrate an interest in the required technologies like React and functional programming, their experience seems mostly theoretical or self-taught, rather than professional. Their past roles do not clearly demonstrate the required skills, especially hands-on experience with JavaScript, TypeScript, HTML, and CSS.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and foundational web skills but lacks direct, hands-on experience with the specific technologies listed in the job description, most critically React, TypeScript, and modern testing frameworks. While they express a desire to learn and have transferable skills, the cover letter does not demonstrate proven, practical expertise in the core requirements. Their background is more generalized, leaning towards consulting and backend/database work, rather than the specialized frontend development focus demanded.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, with limited front-end experience. While they express interest in learning modern frameworks, they lack practical experience with JavaScript, TypeScript, testing, and Git, which are core requirements for the role. The cover letter highlights potential but falls short of the required skill set.

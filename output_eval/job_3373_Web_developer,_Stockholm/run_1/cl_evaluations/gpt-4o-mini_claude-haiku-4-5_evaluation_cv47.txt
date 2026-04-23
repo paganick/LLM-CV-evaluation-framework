@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in business development and some technical skills in HTML, C, and C++, but lacks specific experience with core requirements such as JavaScript, TypeScript, modern frontend frameworks like React, and testing frameworks mentioned in the job description. While they display a willingness to learn and an understanding of certain technical concepts, they do not demonstrate sufficient direct experience in the key technologies or methodologies required for the role.

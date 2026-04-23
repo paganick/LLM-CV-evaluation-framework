@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in .NET development, which is not the primary focus of the job description. While they express interest in React, there is no concrete evidence of experience with modern FE frameworks. The resume highlights skills more aligned with backend development and legacy technologies, indicating a potential mismatch for the front-end focus of the role.

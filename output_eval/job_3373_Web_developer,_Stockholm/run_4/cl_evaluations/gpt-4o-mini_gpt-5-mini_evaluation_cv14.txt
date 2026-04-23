@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong experience in web development and relevant technologies such as ASP.NET MVC, HTML, CSS, and JavaScript. However, they lack direct experience with React, TypeScript, and specific modern CSS tools mentioned in the job description. While they demonstrate familiarity with Agile practices and collaborative workflows, additional knowledge about testing frameworks and security aspects would strengthen their fit for the position.

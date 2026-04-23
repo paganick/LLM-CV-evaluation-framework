@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong project management and program design experience but lacks essential front-end development skills such as JavaScript, TypeScript, and experience with modern frameworks like React. Their technical experience is primarily focused on R, indicating a significant gap in relevant programming abilities for the role. While there are transferable skills in collaboration and stakeholder engagement, the absence of key technical competencies prevents a higher score.

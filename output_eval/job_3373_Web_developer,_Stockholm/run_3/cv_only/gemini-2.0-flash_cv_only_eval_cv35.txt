@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: This candidate has a strong background in marketing automation, specifically with Eloqua and Salesforce. However, the resume lacks any mention of the core technologies listed in the job description: JavaScript, TypeScript, HTML, CSS, React, or other front-end development skills. The candidate's experience is primarily focused on marketing strategy and implementation, not front-end software development.

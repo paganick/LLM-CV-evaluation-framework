@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills such as experience with HTML and basic web design, but lacks the essential experience in modern front-end frameworks, specifically React, which is a critical requirement for the position. Additionally, there is no demonstration of familiarity with key testing and automation tools or security practices as outlined in the job description. Overall, the candidate's technical qualifications are insufficient for the role.

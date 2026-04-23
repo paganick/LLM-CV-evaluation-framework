@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate presents as a Corporate Project Manager, which creates a significant role mismatch for a position requiring hands-on software engineering expertise in React, TypeScript, and AWS. While the letter mentions the required technical keywords, the professional experience highlights administrative management and process design rather than actual development or architectural contributions. There is no evidence of the deep technical proficiency or the "clean code" experience requested in the job description.

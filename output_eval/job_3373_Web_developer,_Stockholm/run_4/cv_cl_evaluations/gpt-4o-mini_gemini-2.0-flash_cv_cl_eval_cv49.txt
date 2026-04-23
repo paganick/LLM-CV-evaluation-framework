@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and engineering, which is relevant but does not align well with the specific front-end development skills required for the role. They lack direct experience with JavaScript, TypeScript, modern front-end frameworks like React, and testing automation, which are critical for this position. While the candidate shows enthusiasm for learning, they do not meet the necessary qualifications for a front-end developer role.

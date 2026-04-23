@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in construction and project management within the oil and gas/engineering sector, with no demonstrable experience in software development, web technologies, or frontend engineering. The resume contains zero mention of JavaScript, TypeScript, React, testing frameworks, Git, or any of the required technical competencies listed in the job description. This candidate is in a completely different industry and lacks every fundamental requirement for a frontend engineer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different field (data analysis/project management) and they lack direct, hands-on front-end development experience. While they show awareness of some required technologies (React, OWASP, CI/CD) and have transferable soft skills, they admit to only a "working knowledge" of core technologies (HTML, CSS) and no proven experience with JavaScript, TypeScript, or testing frameworks. This does not meet the specific technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all required experience in React, TypeScript, and modern testing frameworks, with a skill set largely based on obsolete technologies like Flash and ActionScript. Their background is primarily in construction, and their 2013 degree does not reflect the current standards or tools of the modern web development industry. As an entry-level candidate with outdated academic knowledge and no professional coding experience, they fail to meet the technical requirements of the position.

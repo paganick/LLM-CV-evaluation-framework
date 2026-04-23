@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a computer science background and some front-end experience with AngularJS, HTML, CSS, and JavaScript, which are relevant. However, the resume heavily emphasizes Java and back-end technologies, and lacks explicit experience with React, TypeScript, modern FE frameworks (besides AngularJS), testing frameworks mentioned, and other tools listed in the job description. While the cover letter expresses enthusiasm, the experience doesn't fully align with the requirements.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant experience in test automation, modern web technologies (including React), and the specified testing frameworks. However, the cover letter heavily emphasizes electronics manufacturing and hardware testing, which is not the primary focus of the provided job description for a web-focused role. While they mention many required tools and methodologies, the core experience appears misaligned with the day-to-day responsibilities of a front-end/test engineer in a modern web development environment.

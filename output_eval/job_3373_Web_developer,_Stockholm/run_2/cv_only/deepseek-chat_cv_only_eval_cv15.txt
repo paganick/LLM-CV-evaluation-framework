@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in broad IT management and hardware support, not modern front-end software development. The resume lacks any mention of React, TypeScript, modern testing frameworks, or the specific tools and practices listed in the job description. While they have foundational web skills (HTML, CSS, JavaScript), their experience is outdated and does not align with the required professional focus on contemporary front-end engineering and Agile collaboration.

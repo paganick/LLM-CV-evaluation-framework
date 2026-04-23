@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation, not software engineering, and they lack direct, hands-on experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks). While they demonstrate strong analytical and project management skills, their technical experience is tangential and focused on different ecosystems (Oracle, Salesforce), making them unqualified for this specific developer role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume indicates extensive experience in business development and sales, but lacks any relevant experience or skills in software development, particularly with JavaScript, TypeScript, HTML, CSS, or modern frontend frameworks. Additionally, there is no mention of experience with testing, Git, or any other technologies specified in the job description, making them completely unqualified for this position.

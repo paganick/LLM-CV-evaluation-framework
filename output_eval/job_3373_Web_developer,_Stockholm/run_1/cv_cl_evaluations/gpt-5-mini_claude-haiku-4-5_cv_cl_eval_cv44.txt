@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong UX/UI and HTML/CSS design experience and some exposure to QA/UAT and cross-team collaboration, which are relevant to frontend work. However they lack demonstrated JavaScript/TypeScript proficiency, any React (or modern framework) experience, automated testing, Node/npm ecosystem knowledge, and other required toolchain skills, making them insufficiently qualified for this React-focused frontend developer role without substantial upskilling.

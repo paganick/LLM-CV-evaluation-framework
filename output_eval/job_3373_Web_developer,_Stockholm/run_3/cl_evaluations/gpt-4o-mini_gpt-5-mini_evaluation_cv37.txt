@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in project management and a solid technical background; however, they do not demonstrate hands-on experience with the specific front-end technologies listed in the job description, such as React, JavaScript, TypeScript, and modern CSS tools. Additionally, the lack of direct experience with testing frameworks and CI/CD tools further limits their suitability for the role.

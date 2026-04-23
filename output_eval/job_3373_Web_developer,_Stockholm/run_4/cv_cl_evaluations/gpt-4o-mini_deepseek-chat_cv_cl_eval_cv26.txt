@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a non-technical background in marketing and public relations, which is not aligned with the core skills required for a Front End Developer position. While they have expressed an interest in transitioning into web development and mentioned some relevant skills in JavaScript, React, and Git, the overall lack of direct experience with modern front-end frameworks, testing frameworks, and required technical tools limits their suitability for the position.

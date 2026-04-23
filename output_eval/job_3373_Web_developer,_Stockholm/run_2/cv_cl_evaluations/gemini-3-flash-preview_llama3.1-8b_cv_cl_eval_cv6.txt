@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a PHP and Drupal specialist, whereas the role strictly requires expert knowledge of the React and TypeScript ecosystem. They lack the essential experience with modern frontend libraries, testing suites like Jest or Cypress, and functional programming concepts specified in the job description. While they possess relevant industry experience, their technical stack does not align with the core requirements of this modern JavaScript-focused position.

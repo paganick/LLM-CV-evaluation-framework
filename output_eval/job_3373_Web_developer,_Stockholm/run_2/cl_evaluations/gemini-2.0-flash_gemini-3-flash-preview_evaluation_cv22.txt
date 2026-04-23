@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates potential and transferable skills, the cover letter highlights Java and database experience, which are not primary requirements for a Frontend Developer role focusing on React, JavaScript, and related technologies. The candidate acknowledges a learning curve with JavaScript and React. Therefore, they lack demonstrable experience with the core technologies outlined in the job description.

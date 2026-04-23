@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales leadership with only minimal HTML exposure and no demonstrated experience in JavaScript, TypeScript, React, testing frameworks, Git, Node.js, or the other technical requirements listed. Their cover letter expresses interest and transferable soft skills but provides no concrete evidence of hands-on frontend development or relevant tooling. While collaboration and learning attitude are positives, they do not meet the technical baseline for this frontend developer role.

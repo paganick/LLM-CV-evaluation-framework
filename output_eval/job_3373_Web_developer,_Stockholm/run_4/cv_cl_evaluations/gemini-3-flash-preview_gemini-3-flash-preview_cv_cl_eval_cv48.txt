@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional background is exclusively in IT systems administration, hardware maintenance, and technical support rather than software engineering. While the cover letter claims recent learning in React and TypeScript, the resume lacks any professional experience, projects, or technical evidence of the required frontend development skills. This candidate is a career-changer who does not meet the threshold for a role requiring hands-on experience with modern JavaScript frameworks and automated testing.

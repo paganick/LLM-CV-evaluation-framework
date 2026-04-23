@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, which doesn't align with the job description's focus on JavaScript, modern FE frameworks like React, and associated testing/security practices. While the candidate mentions HTML, CSS, and SASS, their portfolio lacks the necessary depth in modern front-end development. There is no mention of Javascript or React experience.

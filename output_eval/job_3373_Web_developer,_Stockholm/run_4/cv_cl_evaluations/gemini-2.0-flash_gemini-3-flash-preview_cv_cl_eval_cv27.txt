@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administrative and artistic roles, lacking the necessary front-end development experience outlined in the job description. While the candidate expresses interest in relevant technologies, there is insufficient evidence of practical experience with JavaScript, React, or related tools. The candidate does mention HTML, but this is insufficient to demonstrate the required skills.

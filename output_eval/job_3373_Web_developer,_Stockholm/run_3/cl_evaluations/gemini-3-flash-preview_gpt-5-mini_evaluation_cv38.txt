@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the fundamental technical requirements for the role, specifically professional experience with JavaScript, TypeScript, React, and automated testing. Their background is rooted in film production and graphic design rather than software engineering, and they explicitly admit to needing to learn the core technologies listed in the job description. Consequently, the applicant does not meet the minimum qualifications or technical proficiency required for this engineering position.

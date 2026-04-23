@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and user experience but lacks specific hands-on experience with JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate an understanding of testing and quality assurance, the absence of direct experience with the required technologies and tools limits their fit for the role.

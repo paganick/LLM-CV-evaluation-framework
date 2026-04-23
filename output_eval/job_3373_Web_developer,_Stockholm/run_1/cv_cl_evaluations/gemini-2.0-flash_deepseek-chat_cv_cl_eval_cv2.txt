@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align with the frontend focus of the job description. While the cover letter expresses interest in frontend technologies and self-learning, the resume lacks concrete experience with JavaScript, React, or other modern frontend tools. The listed skills are mostly related to backend development.

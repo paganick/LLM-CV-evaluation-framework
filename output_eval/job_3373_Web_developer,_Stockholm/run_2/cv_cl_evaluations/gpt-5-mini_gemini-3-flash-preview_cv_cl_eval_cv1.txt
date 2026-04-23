@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience with React, SASS, JavaScript, Git, AWS and strong test automation background (Selenium, Cucumber, Jenkins), and works in Agile environments. However, they lack demonstrated experience with the modern JavaScript testing tools specified (Jest, Cypress/TestCafe), modern CSS-in-JS (Styled Components), functional libraries like Ramda, CI/CD tooling used here (CircleCI), and concrete web security/OAuth experience. Overall this is a relevant but incomplete match to the specific frontend/tooling requirements.

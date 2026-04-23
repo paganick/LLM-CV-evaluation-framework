@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial Java/J2EE backend experience and familiarity with Agile and Git, but lacks demonstrated experience with core requirements such as JavaScript/TypeScript, modern front-end frameworks (React), modern JS tooling (npm/Node), and front-end testing frameworks. There is only legacy front-end exposure (jQuery/Bootstrap) and no evidence of CI/CD, AWS/Terraform, CSS-in-JS/SASS, or web security knowledge, making them a weak fit for this front-end-focused role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume and cover letter highlight project management skills more prominently than front-end development expertise. While they mention familiarity with JavaScript, HTML, and CSS, there's a lack of depth regarding modern front-end frameworks like React, which is specifically used by the company. The candidate's experience with testing and web security seems limited.

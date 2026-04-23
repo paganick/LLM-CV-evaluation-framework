@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in design and legacy web technologies, they lack the required professional proficiency in JavaScript, TypeScript, and React. The cover letter explicitly identifies modern front-end engineering, testing frameworks, and CI/CD workflows as areas for future growth rather than existing expertise, making them unqualified for a role requiring hands-on experience in these domains.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in business development, quality management, and process improvement with no mention of required front-end technologies (JavaScript, TypeScript, React, HTML/CSS), testing frameworks, or NodeJS ecosystem experience. While strong in project management and process optimization, these transferable skills do not compensate for the lack of core technical qualifications and hands-on development experience required for this role. The application therefore does not meet the essential job requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills, including JavaScript, HTML, and CSS, but lacks specific experience with modern FE frameworks like React (the company's framework of choice) and other tools mentioned in the job description. While the candidate mentions Angular, the job description prioritizes React. The resume highlights project management experience more than hands-on development.

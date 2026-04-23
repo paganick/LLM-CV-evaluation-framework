@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in testing web applications and some scripting skills with JavaScript and HTML. However, the resume lacks specific details on modern FE frameworks like React, TypeScript, CSS tools and testing frameworks mentioned in the job description. There is no experience with CI/CD tools or cloud platforms.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program design and learning science with only "intermediate coding in R" and no demonstrable experience in JavaScript, TypeScript, HTML/CSS, React, front-end testing, Git, or NodeJS — all core requirements for this role. While they show strong project management, collaboration, and rapid learning ability, they lack the essential technical skills and hands-on front-end experience and would require substantial upskilling before being productive.

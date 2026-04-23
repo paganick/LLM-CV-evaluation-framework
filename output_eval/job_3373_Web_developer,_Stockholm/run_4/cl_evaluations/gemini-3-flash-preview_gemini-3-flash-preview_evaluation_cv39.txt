@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks verified professional experience with critical requirements including automated testing, Git, and CI/CD workflows. Their technical proficiency in the requested stack—specifically React, TypeScript, and functional programming—appears to be in a transitionary phase rather than a level of proven mastery. Referencing outdated technology like Dreamweaver suggests a significant misalignment with the modern, high-standard frontend development environment requested.

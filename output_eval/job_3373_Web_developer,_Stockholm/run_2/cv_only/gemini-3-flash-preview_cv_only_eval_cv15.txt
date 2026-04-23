@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT generalist with a focus on hardware and networking rather than a professional software engineer. They lack any experience with modern frontend frameworks (React), TypeScript, automated testing, or CI/CD pipelines as required by the job description. Additionally, the candidate's work history is significantly outdated, with no relevant professional software development experience in over a decade.

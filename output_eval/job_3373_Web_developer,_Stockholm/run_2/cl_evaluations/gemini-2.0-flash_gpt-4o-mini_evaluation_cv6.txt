@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend development and related technologies like JavaScript, HTML, CSS, and Git. They have hands-on experience with testing and CI/CD tools mentioned in the job description. However, the cover letter could be stronger by explicitly showcasing experience with React, and modern CSS tools.

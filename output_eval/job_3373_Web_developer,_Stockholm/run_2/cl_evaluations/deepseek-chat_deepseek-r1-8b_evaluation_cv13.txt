@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in technical project management, not hands-on development, which is the core requirement. While they mention exposure to the required technologies, they lack demonstrable, direct experience with key job specifics like testing automation, modern CSS tools, security basics, and the listed frameworks/libraries. Their project management skills and collaborative mindset are relevant to the secondary requirements but do not compensate for the significant deficit in practical, current development expertise.

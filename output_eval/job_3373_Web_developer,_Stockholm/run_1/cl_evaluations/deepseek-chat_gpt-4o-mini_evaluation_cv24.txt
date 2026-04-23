@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry background but lacks the specific, hands-on technical experience required for a front-end development role. They admit to needing to expand their experience with core technologies like JavaScript frameworks and have only a theoretical or introductory familiarity with key tools (React, Styled Components, SASS, testing frameworks). While their soft skills and willingness to learn are assets, they do not meet the practical, demonstrable skill requirements outlined in the job description.

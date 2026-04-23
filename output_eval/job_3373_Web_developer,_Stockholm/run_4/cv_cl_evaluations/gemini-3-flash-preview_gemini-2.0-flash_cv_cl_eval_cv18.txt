@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general IT and web design experience, they lack the specific expertise in React, TypeScript, and modern front-end testing frameworks required for this role. Their background is heavily focused on systems administration, legacy web technologies (PHP, WordPress), and project management rather than modern JavaScript engineering. There is no evidence of experience with CI/CD pipelines, AWS, or the modern CSS and tooling ecosystem mentioned in the job description.

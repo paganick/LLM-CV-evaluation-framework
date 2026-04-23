@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, with limited demonstrable experience in front-end development. While the cover letter expresses interest in learning React, the resume lacks concrete evidence of proficiency in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks, which are core requirements. The listed skills are more relevant to data science than front-end engineering.

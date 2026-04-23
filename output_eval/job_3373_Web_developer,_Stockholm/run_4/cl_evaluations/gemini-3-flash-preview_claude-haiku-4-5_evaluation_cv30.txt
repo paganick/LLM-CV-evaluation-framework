@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core requirements of JavaScript, TypeScript, and React, stating only a commitment to learn these technologies rather than existing proficiency. While they possess a strong technical foundation in data engineering and analytics, they fail to demonstrate hands-on expertise with modern frontend testing, styling tools, or specific web security protocols. The applicant is clearly in a transition phase and does not currently meet the specialized technical standards required for this position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate provides no evidence of required frontend technical skills (JavaScript/TypeScript, HTML/CSS, React) or experience with the specified tooling (testing frameworks, Git, Node ecosystem). Their background is in microbiology and consulting with regulatory/validation experience, which does not satisfy the hands-on development requirements. While they note transferable soft skills and eagerness to learn, those do not compensate for the absence of core technical qualifications.

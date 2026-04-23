@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a solid design background and basic HTML/CSS plus strong collaboration skills, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks (Jest/Cypress), Node/npm, and web security practices. Their stated willingness to learn is positive but does not compensate for the absence of proven technical experience required for this role.

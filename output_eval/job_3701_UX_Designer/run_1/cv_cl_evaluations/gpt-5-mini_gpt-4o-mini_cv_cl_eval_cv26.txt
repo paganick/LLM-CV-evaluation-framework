@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily BPO, administrative and implementation management with no verifiable commercial UX designer experience, portfolio, or demonstrated use of core UX tools (Figma, prototyping) listed on the resume. There is no clear evidence of working in Agile product teams, conducting user research, managing a design system, or producing low/high-fidelity prototypes. While they show people-management and stakeholder collaboration skills, these do not meet the specific technical and UX experience required for this role.

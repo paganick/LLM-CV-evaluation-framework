@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in software development but focuses almost entirely on the .NET stack and legacy technologies like jQuery and ASP.NET. They lack the required expertise in modern frontend frameworks like React, have no mentioned experience with TypeScript, and show no evidence of skills in automated testing, CI/CD, or cloud infrastructure required for this role.

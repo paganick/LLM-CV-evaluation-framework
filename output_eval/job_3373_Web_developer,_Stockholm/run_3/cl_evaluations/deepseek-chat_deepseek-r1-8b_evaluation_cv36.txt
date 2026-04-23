@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in scientific/regulatory fields with no mention of the required technical skills (JavaScript, React, testing, Git, etc.). The cover letter attempts to draw abstract parallels between scientific processes and software development, but demonstrates no direct, hands-on experience relevant to the role. This is a clear mismatch for a front-end engineering position.

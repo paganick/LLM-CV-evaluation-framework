@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience and mentions foundational skills like JavaScript, HTML, CSS, and Git. However, they lack direct, hands-on experience with the core technologies listed in the job description, specifically React, modern frontend frameworks, and functional programming with Ramda. Their background is heavily centered on ASP.NET and SharePoint, which does not align with the modern JavaScript/React stack and specific tooling required for the role.

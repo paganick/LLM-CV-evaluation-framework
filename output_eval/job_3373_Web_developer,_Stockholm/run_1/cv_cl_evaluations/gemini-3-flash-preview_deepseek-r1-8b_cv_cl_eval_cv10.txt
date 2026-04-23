@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional experience is heavily focused on legacy Java/J2EE backend technologies and outdated frontend frameworks like AngularJS and jQuery. The resume fails to substantiate the claims made in the cover letter regarding proficiency in React, TypeScript, or modern testing frameworks like Jest and Cypress. Furthermore, the candidate lacks the required experience with modern CI/CD tools, AWS, and functional programming, making them a poor fit for this modern frontend stack.

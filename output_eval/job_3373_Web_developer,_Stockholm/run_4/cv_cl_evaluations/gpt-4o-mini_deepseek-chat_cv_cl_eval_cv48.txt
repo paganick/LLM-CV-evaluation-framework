@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and a passion for modern front-end development, but lacks direct experience with key technologies outlined in the job description such as TypeScript, modern frontend frameworks (React), testing frameworks, and knowledge of security practices. While they demonstrate relevant skills in code quality and collaborative work, their experience does not fully align with the specified requirements for the role.

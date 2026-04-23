@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a long history in IT support, field service, and hardware/desktop administration but contains no evidence of JavaScript, TypeScript, React (or other modern frontend frameworks), frontend testing, Node/npm, Git-based development, CSS tooling, or cloud/CI experience required by the role. There is no portfolio, project development experience, or relevant technical certifications that align with frontend engineering responsibilities. This candidate is therefore entirely mismatched to the job's required frontend engineering skillset.

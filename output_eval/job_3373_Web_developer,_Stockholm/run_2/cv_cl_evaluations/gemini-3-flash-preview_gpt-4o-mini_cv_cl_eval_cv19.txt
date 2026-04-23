@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks the essential technical requirements for this role, specifically professional experience with JavaScript, TypeScript, and React. While the applicant has a background in HTML/CSS, they do not possess the necessary expertise in software testing, CI/CD, or the NodeJS ecosystem. Their professional history is centered on visual arts and manual labor rather than software engineering.

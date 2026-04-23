@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate shows high alignment with the specific tech stack, explicitly mentioning secondary tools like CircleCI, Jest, Cypress, and Styled Components. While they fail to explicitly list TypeScript, a primary requirement, their background in C# and web security suggests the necessary technical depth. Their experience with Agile methodologies and functional programming paradigms further confirms they are a strong match for this specific role.

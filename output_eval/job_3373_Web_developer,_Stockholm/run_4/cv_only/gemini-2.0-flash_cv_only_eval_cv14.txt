@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but the resume is heavily focused on ASP.NET and older Microsoft technologies. There's no mention of modern FE frameworks like React, VueJS, or Angular. The candidate also lacks explicit experience with testing frameworks, CI/CD tools, and cloud platforms like AWS.

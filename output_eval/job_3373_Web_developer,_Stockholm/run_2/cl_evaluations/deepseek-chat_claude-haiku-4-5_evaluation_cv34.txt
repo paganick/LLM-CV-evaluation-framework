@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience with HTML and CSS, and demonstrates strong soft skills like collaboration and communication. However, the cover letter shows a critical lack of the required core technical skills, specifically no mention of JavaScript, TypeScript, React, or modern testing frameworks as hands-on experience. The candidate's technical foundation is outdated and misaligned with the job's specific requirements for a modern frontend developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant experience in front-end technologies such as HTML, CSS, and JavaScript, along with knowledge of testing and system design. However, the cover letter and resume lack specific experience with modern frameworks like React as well as testing frameworks such as Jest and Cypress, which are crucial for the role. The candidate's work primarily involves older technologies and lacks the recent hands-on experience with the required tech stack.

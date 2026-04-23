@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates relevant domain experience (HTML/CSS, SQL/MySQL, system design) and strong collaboration/Agile skills, but lacks the core, hands-on front-end technologies required for this role. They do not show practical experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, Git workflows, or web security—key requirements in the job description. As written, they are not qualified for this position without significant upskilling or demonstrable project experience in the listed front-end stack.

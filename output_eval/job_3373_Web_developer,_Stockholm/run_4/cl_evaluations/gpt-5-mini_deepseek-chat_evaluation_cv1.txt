@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant frontend experience (React, HTML/CSS, SASS), solid testing and CI/CD background, and strong collaboration skills which align with several job requirements. However, they do not show explicit experience with TypeScript, the Node.js/npm/Yarn/Express ecosystem, modern JS testing frameworks (Jest/Cypress), or web security topics (OWASP/CSP/CORS/OAuth), and only express willingness to learn tools like Ramda and AWS, making them an incomplete match for this role.

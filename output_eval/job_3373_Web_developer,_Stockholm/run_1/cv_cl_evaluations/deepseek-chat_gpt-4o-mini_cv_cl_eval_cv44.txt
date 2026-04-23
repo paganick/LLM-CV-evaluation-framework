@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in presentation/multimedia design and UX/UI, not in professional front-end development. The resume and cover letter show no practical experience with core required technologies like JavaScript, TypeScript, React, testing frameworks, Git, or modern development tools. While they have basic HTML/CSS knowledge and mention Agile collaboration, they lack the specific technical skills and hands-on coding experience demanded by the job description.

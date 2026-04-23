@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely concentrated in business development and sales, with no documented professional history in software engineering or front-end development. While the cover letter mentions a career pivot, the resume lacks any evidence of commercial experience with React, TypeScript, or automated testing as required by the job description. The candidate is fundamentally unqualified for a technical developer role based on their career trajectory and skill set.

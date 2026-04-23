@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry exposure and demonstrates a foundational understanding of some required technologies (HTML, CSS, React, TypeScript, SASS, Git, OWASP/CORS). However, they lack proven, hands-on professional experience with the core front-end development stack, testing frameworks, and modern tooling specified in the job description. Their experience is primarily consultative and implementation-focused, not as a dedicated developer, making them a candidate with potential but significant skill gaps for the role.

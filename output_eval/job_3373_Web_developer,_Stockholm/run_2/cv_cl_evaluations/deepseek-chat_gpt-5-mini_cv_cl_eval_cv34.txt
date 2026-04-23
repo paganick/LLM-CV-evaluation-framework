@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital marketing implementation and project management, not front-end engineering. While they have basic HTML/CSS knowledge and mention a desire to learn, they lack any professional experience with JavaScript, TypeScript, React, modern testing frameworks, or the other core technologies listed in the job description. Their skills are not aligned with the technical requirements for a front-end developer role.

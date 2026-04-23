@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in backend Java development, but the job description requires expertise in front-end technologies. While the candidate expresses interest in learning React and TypeScript, they lack demonstrable experience in these areas. Their testing experience is valuable, but needs to be adapted to the front-end.

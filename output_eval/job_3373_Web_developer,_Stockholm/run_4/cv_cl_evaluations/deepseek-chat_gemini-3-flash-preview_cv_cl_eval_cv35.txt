@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in marketing automation with tools like Eloqua and Salesforce, not in modern frontend software development. The resume and cover letter lack any direct, hands-on experience with the core technologies listed in the job description, such as JavaScript, TypeScript, React, or testing frameworks. While they demonstrate strong logic and project skills, this is a career transition attempt with no proven professional experience in the required tech stack.

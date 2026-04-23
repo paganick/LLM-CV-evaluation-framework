@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the core requirements of the role, including React, TypeScript, HTML, and modern CSS. While their background in software testing and JavaScript is relevant, they do not demonstrate proficiency with essential industry tools like Git or web security standards (OWASP/CORS). As a transitioning professional from a hardware-focused role, they lack the specific technical portfolio required for a frontend developer position.

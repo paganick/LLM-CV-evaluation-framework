@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong project management, collaboration, and domain-understanding from engineering, but provides no concrete evidence of the core frontend technical skills required (JavaScript/TypeScript, React, testing, Git, Node ecosystem, modern CSS tooling). Eagerness to learn and Agile experience are positives, but without demonstrable frontend projects, tools, or certifications, the candidate is not immediately qualified for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary tech stack, explicitly admitting they are only currently learning JavaScript and React. Critical requirements such as TypeScript, automated testing frameworks, Git, and web security are entirely unaddressed, representing a significant gap in essential qualifications. While the candidate has a technical background in Java and SQL, they do not possess the hands-on frontend expertise required for this position.

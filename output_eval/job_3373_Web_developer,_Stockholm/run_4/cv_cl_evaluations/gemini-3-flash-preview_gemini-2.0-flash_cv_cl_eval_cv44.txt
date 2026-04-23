@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks mandatory professional experience with modern JavaScript frameworks like React, as well as TypeScript, automated testing, and CI/CD pipelines. Their background is primarily focused on visual and presentation design rather than software engineering, relying on outdated tools like Dreamweaver and jQuery. While they possess a Computer Science degree, they do not demonstrate the technical proficiency required for a modern front-end development role.

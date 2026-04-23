@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front-End Developer position, which I believe aligns perfectly with my technical foundation and my passion for building robust, secure web applications. With a background in systems engineering and IT specialization, I bring a unique perspective focused on stability, performance, and clean, maintainable code—principles I understand are critical to your team.
+
+My professional experience has been built on a deep understanding of complex systems, from UNIX/Linux administration and network performance optimization to rigorous troubleshooting and root-cause analysis. This has instilled in me a meticulous, quality-driven approach to software development. While my CV details my systems expertise, I have actively cultivated the modern front-end skills your role requires. I am proficient in JavaScript, TypeScript, HTML, and CSS, and I have hands-on experience with React and its ecosystem. My work has involved writing unit and integration tests, and I am familiar with tools like Jest and Cypress for test automation.
+
+My systems background directly supports your technical requirements. My CompTIA Security+ certification and experience implementing security policies provide a solid foundation for understanding OWASP principles, CSP, and CORS. My extensive work with Git, CI/CD pipelines, and functional programming paradigms allows me to appreciate the importance of clean code and automated workflows. Furthermore, my familiarity with the Node.js ecosystem, npm, and Express.js, coupled with a general understanding of AWS, enables me to collaborate effectively across the full stack.
+
+I am a strong collaborator, accustomed to working in Agile environments and interfacing with multiple teams and external partners, as evidenced by my history of coordinating with systems partners and providing tiered technical support. The opportunity to deeply understand your full domain and contribute to a modern React codebase is exactly the challenge I seek.
+
+Thank you for considering my application. I am confident that my blend of systemic rigor and modern front-end development skills would make me a valuable asset to your team.
+
+Sincerely,
+Alexis

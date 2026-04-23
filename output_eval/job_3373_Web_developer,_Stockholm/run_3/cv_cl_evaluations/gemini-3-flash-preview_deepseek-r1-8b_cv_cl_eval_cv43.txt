@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all the mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and modern testing frameworks. Their professional background is entirely in program management and learning design, offering zero experience in software engineering or the specified tech stack. Consequently, they are completely unqualified for this technical development role.

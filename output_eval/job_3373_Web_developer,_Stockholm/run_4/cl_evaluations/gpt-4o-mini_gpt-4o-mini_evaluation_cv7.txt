@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and design, but lacks specific hands-on experience with key modern frontend frameworks like VueJS, Angular, and Svelte. They also do not mention experience with testing frameworks beyond Jest and seem less familiar with some advanced tools and knowledge areas outlined in the job description, which limits their match for this position.

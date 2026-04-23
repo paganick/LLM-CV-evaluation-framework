@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in design and some exposure to web technologies, including HTML and CSS, but lacks substantial experience with modern frontend frameworks like React, which is a core requirement. Additionally, there is no evidence of experience with JavaScript, TypeScript, testing frameworks, or other technologies mentioned in the job description, which signifies a significant skill gap for the role.

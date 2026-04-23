@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is almost entirely rooted in hardware testing, electronics, and manual software QA rather than professional front-end development. While the cover letter mentions the required stack, the resume lacks any evidence of professional React, TypeScript, or modern web development projects. The applicant lacks the specific expertise in CSS-in-JS, functional programming, and cloud infrastructure required for this role.

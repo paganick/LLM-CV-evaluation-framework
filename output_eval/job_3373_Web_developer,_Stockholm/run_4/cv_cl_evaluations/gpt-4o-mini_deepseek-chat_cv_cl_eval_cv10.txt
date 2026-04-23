@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong educational background and relevant experience in front-end and full-stack development, particularly with HTML, CSS, JavaScript, and AngularJS. However, their experience with React is not directly stated, which is a requirement for the position. Additionally, while they mention testing skills, specific frameworks like Jest or Cypress are not referenced. Overall, the candidate demonstrates relevant skills but lacks some of the specific technologies and frameworks emphasized in the job description.

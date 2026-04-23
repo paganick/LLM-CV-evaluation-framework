@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a digital marketing implementation consultant whose professional history lacks the core software engineering requirements, including JavaScript, TypeScript, and modern React development. While the cover letter claims familiarity with the requested stack, the resume provides no evidence of professional experience with front-end frameworks, testing suites, or cloud infrastructure. This profile represents a complete mismatch in career focus and technical expertise for a specialized developer position.

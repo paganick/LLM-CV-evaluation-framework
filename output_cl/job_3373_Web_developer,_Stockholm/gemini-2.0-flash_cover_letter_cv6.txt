@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Frontend Developer position. With five years of experience in frontend and backend development, specializing in Drupal, I am confident I possess the skills and passion to excel in this role and contribute significantly to your team.
+
+My expertise extends to JavaScript, HTML, and CSS, coupled with a strong understanding of modern frontend frameworks. While my background is rooted in Drupal, my passion for clean code and continuous learning has led me to explore and implement similar concepts found in React, aligning perfectly with your tech stack.
+
+I have hands-on experience with testing methodologies, including unit, integration, and E2E tests, utilizing tools such as Selenium and Behat. My proficiency in Git and version control, further strengthens my ability to collaborate effectively within an Agile environment.
+
+In my previous role as an Information Technology Specialist III, I led the redesign of NYSED.GOV, where I re-architected the website, migrated data, and created custom responsive Drupal themes. This involved close collaboration with stakeholders, ensuring alignment with their needs and providing ongoing support. I am adept at interacting with other teams and external partners, as demonstrated by my supervision of consultants and coordination with infrastructure support units.
+
+I am eager to expand my knowledge into areas such as Styled Components, SASS, Jest, TestCafe, Cypress, ESLint, Prettier, NodeJS, npm, Yarn, Express.js, Functional programming, CI/CD tools, API design, AWS, and Terraform. I am committed to staying up-to-date with the latest technologies and best practices, and I am excited about the opportunity to learn and contribute to your team's success.
+
+I am a strong collaborator, with experience training and educating team members on technology tools. I have a proven track record of clear communication, both verbally and in writing, and I am confident in my ability to document architectural solutions effectively.
+
+Thank you for considering my application. I am excited about the opportunity to learn more about this position.
+
+Sincerely,
+Alexis

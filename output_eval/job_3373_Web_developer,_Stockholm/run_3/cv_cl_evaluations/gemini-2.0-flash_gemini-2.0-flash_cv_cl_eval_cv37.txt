@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in project and IT management, lacking explicit front-end development experience. While they claim exposure to JavaScript, HTML, and CSS, they don't demonstrate hands-on experience with modern FE frameworks like React, which is crucial for the role. The resume highlights project management skills and IT leadership, but not front-end development expertise.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant professional experience in web development and Agile methodologies, they lack hands-on experience with the specific required stack of React and TypeScript. Furthermore, the candidate admits to having only an interest in—rather than professional experience with—automated testing, CI/CD, and web security, which are key requirements for this role.

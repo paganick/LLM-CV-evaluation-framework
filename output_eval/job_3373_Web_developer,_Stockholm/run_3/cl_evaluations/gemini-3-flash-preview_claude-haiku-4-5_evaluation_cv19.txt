@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks the core technical competencies required for the role, specifically demonstrating no professional proficiency in JavaScript, TypeScript, or React. While they possess design experience, they fail to meet the mandatory requirements for testing automation, API design, and modern frontend frameworks, admitting they require focused development in these fundamental areas.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate possesses relevant experience in frontend development, particularly with JavaScript and AngularJS, which aligns well with the company's use of React. They have demonstrated knowledge in testing and automation, along with experience in working in Agile environments. However, the candidate lacks specific mentions of familiarity with some of the preferred technologies like Node.js, Jest, and CI/CD tools used by the company, which prevents a perfect match.

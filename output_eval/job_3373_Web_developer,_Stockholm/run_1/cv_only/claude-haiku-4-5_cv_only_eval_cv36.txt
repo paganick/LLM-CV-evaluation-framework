@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in microbiology, pharmaceutical quality control, and laboratory management—a completely different industry from frontend web development. The resume contains no evidence of any programming languages (JavaScript, TypeScript), web development frameworks (React, Vue, Angular, Svelte), testing frameworks (Jest, Cypress), or any web technology skills required for the role. This candidate is entirely unqualified for a React/JavaScript frontend engineer position and appears to be in the wrong career field entirely.

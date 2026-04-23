@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in electronics engineering technology and lab technician roles, lacking substantial experience in modern FE frameworks like React. While the candidate mentions JavaScript, the resume doesn't showcase the required depth of experience in modern web development, testing frameworks, or CI/CD tools. The candidate shows some interest in the required technologies, but overall the experience is not a strong match.

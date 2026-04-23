@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this frontend engineering role, as their background is primarily in data science, analytics, and quality technician work. They lack nearly all core requirements, including professional experience with JavaScript, TypeScript, React, modern CSS, and CI/CD pipelines. Their expertise in SAS, SQL, and predictive modeling does not translate to the software development skills required for this position.

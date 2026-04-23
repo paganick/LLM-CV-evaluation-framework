@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has transitioned from a different industry and demonstrates a willingness to learn frontend development. However, they lack specific hands-on experience with the required technologies, frameworks, and tools mentioned in the job description, such as React, testing frameworks, and security knowledge. While they possess relevant skills from their past experience, these do not sufficiently align with the immediate technical needs of the role.

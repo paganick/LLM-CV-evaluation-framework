@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to demonstrate any of the required technical competencies, completely omitting mentions of JavaScript, React, or testing frameworks. Their background is in an entirely unrelated industry, and the letter provides no evidence of practical coding experience or technical proficiency. As a result, the applicant does not meet the minimum qualifications for a frontend engineering role.

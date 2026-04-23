@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional background is heavily specialized in Drupal and PHP, lacking the required hands-on experience with React, TypeScript, and modern frontend tooling. Their cover letter acknowledges that they are only beginning to explore the core technologies requested, such as Styled Components, Jest, Node.js, and CI/CD pipelines. As a result, the candidate requires significant upskilling to meet the specific technical demands and architectural standards of this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong technical and stakeholder-management experience but does not demonstrate the required 2-3 years in a commercial UX designer role or concrete experience with Figma, prototyping, user research, or managing a UI Design System. Their skills are largely architecture/MDM-focused with only tangential UX relevance and limited front-end exposure (HTML/XML/XSLT rather than modern HTML/CSS/JS and Figma). Overall relevant industry experience exists but lacks the specific UX competencies the role demands.

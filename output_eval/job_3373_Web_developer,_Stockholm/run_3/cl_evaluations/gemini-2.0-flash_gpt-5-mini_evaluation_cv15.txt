@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundation in web development (HTML, CSS, JavaScript) but lacks explicit experience with modern front-end frameworks like React (mentioned as the company's primary framework). While they express eagerness to learn, the cover letter doesn't showcase hands-on experience with testing frameworks, modern CSS tooling (Styled Components, SASS), or CI/CD practices, which are all listed as requirements in the job description. The candidate has some relevant skills but needs significant upskilling to fully meet the job requirements.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in software testing, with some exposure to JavaScript, HTML, and CSS. However, the resume lacks demonstrable experience with modern FE frameworks like React, which is a core requirement. The cover letter expresses interest in transitioning to a frontend role, but the resume showcases primarily testing experience, making it a less strong fit.

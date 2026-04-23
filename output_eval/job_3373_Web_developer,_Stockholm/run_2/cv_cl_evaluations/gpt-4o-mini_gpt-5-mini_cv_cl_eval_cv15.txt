@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in web development with experience in HTML, CSS, and JavaScript, but lacks specific experience with modern front-end frameworks like React, which is a crucial requirement for the role. They show potential to learn and adapt but do not possess hands-on experience with testing frameworks or CI/CD tools, which are important for the position.

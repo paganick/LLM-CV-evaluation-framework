@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware technician whose professional experience is entirely outside of software engineering and modern front-end development. They lack the required expertise in React, TypeScript, and modern CSS tools, and their software knowledge is limited to basic academic exposure and hardware-specific validation. As a result, the candidate does not meet the core technical requirements or industry experience necessary for this position.

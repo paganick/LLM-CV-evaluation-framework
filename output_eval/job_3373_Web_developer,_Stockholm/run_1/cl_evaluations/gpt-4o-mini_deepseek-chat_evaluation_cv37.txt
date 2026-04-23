@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in IT and project management but lacks specific hands-on experience in front-end development technologies such as modern frameworks like React, testing frameworks, and CI/CD tools mentioned in the job description. While they demonstrate a strong understanding of SDLC and collaboration in Agile environments, their transition into a pure development role may not fully align with the expectations for this position.

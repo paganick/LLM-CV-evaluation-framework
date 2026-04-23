@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design and visual merchandising, which is not directly relevant to frontend development. While they express willingness to learn, they lack production-level experience with the required technologies (JavaScript, TypeScript, React). The cover letter highlights transferable skills but doesn't demonstrate the necessary technical expertise outlined in the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: While the candidate holds a degree in Computer Science, their professional history is almost exclusively in business development, sales, and quality engineering within the aerospace industry. The resume lacks any professional experience or documented projects utilizing the required modern frontend stack, such as React, TypeScript, or CI/CD tools. This candidate is a senior-level manager/executive whose background does not align with the technical hands-on requirements of a web development role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in program management and learning design, not software development. While the cover letter mentions self-study in relevant technologies, the resume lacks demonstrable professional experience with the specific technologies listed in the job description beyond R studio. The candidate attempts to bridge this gap, but the lack of concrete front-end development experience is a significant weakness.

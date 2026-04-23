@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has experience in relevant technologies such as JavaScript, AngularJS, HTML, and CSS, but does not mention React, which is a critical requirement for the job. While they have experience in testing automation and an Agile environment, there is limited mention of modern CSS tools and CI/CD practices. Overall, the candidate shows potential but lacks key experience and specificity for a strong fit.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant background in engineering and data analysis, along with experience in quality assurance which is beneficial. However, there is a lack of direct experience with JavaScript, TypeScript, and the specified modern frameworks like React, as well as with specific testing frameworks and CI/CD tools mentioned in the job description. Their knowledge of tools and practices is relevant but not extensive enough to meet the full requirements.

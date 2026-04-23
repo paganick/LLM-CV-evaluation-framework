@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced senior product manager with strong domain and leadership skills but provides no evidence of hands‑on front-end engineering experience (JavaScript/TypeScript, React, modern CSS, Node.js) required by the role. Their resume and cover letter emphasize product strategy, Agile adoption, and partnerships but list no relevant technical proficiencies, testing frameworks, or CI/CD/AWS experience. While a good fit for product leadership roles, they are not qualified for a hands‑on front‑end developer position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and mentions several key requirements like JavaScript, React, testing, Git, and Agile. However, the cover letter lacks specific, demonstrable examples for many critical job requirements such as TypeScript, modern CSS tools, specific testing frameworks, Node.js ecosystem details, and security principles beyond a mention. The experience described leans heavily on a C#/SQL project, which is less relevant to the front-end focused role.

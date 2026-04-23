@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume is primarily focused on business development, lacking concrete evidence of professional front-end development experience. While the cover letter mentions HTML, CSS, and JavaScript, it doesn't provide enough detail to ascertain the candidate's proficiency in modern front-end frameworks like React. The resume mentions HTML but it is listed along with MS Office, suggesting basic knowledge and not expertise.

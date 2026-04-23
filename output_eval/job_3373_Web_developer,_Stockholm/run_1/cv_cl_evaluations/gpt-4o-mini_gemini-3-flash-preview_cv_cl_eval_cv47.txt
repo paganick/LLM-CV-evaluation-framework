@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in business development and leadership, which is relevant but does not align closely with the specific technical requirements outlined in the job description. While they mention some knowledge of JavaScript, TypeScript, and React, the lack of direct experience with modern front-end frameworks, testing frameworks, and specific programming skills presents a significant gap. Additionally, the technology focus of their background does not convincingly match the requirements for a Front-End Engineer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in Java and they lack hands-on experience with the required modern front-end frameworks, specifically React. While they mention relevant soft skills and a willingness to learn, they do not demonstrate proven expertise in TypeScript, modern CSS tools, testing frameworks, or the Node.js ecosystem as specified in the job description. The application shows foundational knowledge but misses on the core technical requirements for the role.

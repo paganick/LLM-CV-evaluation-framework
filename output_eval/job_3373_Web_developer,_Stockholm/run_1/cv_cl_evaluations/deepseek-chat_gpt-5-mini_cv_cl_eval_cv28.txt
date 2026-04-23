@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials engineering and quality analysis for manufacturing, which is a completely different industry from front-end software development. The resume and cover letter show no experience with JavaScript, TypeScript, React, modern web tooling, or any of the technical skills listed in the job description. While the candidate demonstrates strong analytical and collaborative soft skills, they lack the fundamental technical qualifications required for the role.

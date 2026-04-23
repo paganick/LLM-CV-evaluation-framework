@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong project management and IT operations experience with SDLC knowledge and relevant certifications, but there is no demonstrable hands-on experience with JavaScript/TypeScript, React, modern CSS, front-end testing frameworks, Git, or Node.js as required for the role. Their cover letter expresses intent and transferable skills (security, CI/CD awareness), but lacks concrete development work, tooling proficiency, or examples of coded deliverables to qualify as a Front End Developer.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has only basic HTML/CSS and database/Java exposure and comes from a media-planning background, but lacks the core required skills for this front-end role—notably JavaScript/TypeScript, React (or other modern frameworks), front-end testing frameworks, Git/CI workflows, NodeJS ecosystem experience, and web security knowledge. Their transferable soft skills and academic MIS study indicate willingness to learn, but they do not meet the practical technical requirements to be considered a strong fit for this position.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core requirements, specifically React, TypeScript, and web security principles. However, their testing experience focuses on Selenium and Cucumber rather than the preferred modern tools like Jest or Cypress, and they omit any mention of the Node.js ecosystem or cloud infrastructure. While a solid match, the letter fails to address several "nice-to-have" technical specifications that would elevate them to a top-tier candidate.

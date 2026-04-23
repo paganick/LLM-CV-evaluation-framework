@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web development concepts, including HTML, CSS, and JavaScript. However, the resume lacks concrete experience with React, TypeScript, and modern testing frameworks emphasized in the job description. While the cover letter expresses interest in these areas, the demonstrated practical experience appears limited, making the candidate a weak fit.

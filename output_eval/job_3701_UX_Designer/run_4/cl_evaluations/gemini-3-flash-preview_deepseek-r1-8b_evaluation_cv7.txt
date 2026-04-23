@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate is significantly overqualified for a mid-level role with a £40,000 salary, which presents a major flight risk for the organization. While they possess extensive leadership and user research experience, they lack direct proficiency in Figma, which was specified as a highly desirable tool for this position. Their primary reliance on legacy tools like Axure and Sketch suggests a potential technical gap regarding the modern stack requested.

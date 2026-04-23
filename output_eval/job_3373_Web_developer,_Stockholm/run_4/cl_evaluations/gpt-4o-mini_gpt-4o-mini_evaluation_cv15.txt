@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong proficiency in relevant front-end technologies such as JavaScript, HTML, CSS, and React, aligning well with the job requirements. However, the cover letter lacks mention of TypeScript and does not address familiarity with the NodeJS ecosystem or functional programming, which are specified in the job description.

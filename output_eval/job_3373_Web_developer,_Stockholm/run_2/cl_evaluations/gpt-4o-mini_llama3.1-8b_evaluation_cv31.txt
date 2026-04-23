@@ -1,0 +1,2 @@
+Score: 6  
+Reasoning: The candidate has relevant technical skills in JavaScript, TypeScript, HTML, and CSS, along with experience in modern front-end frameworks like React, which aligns with the job description. However, the mention of security knowledge (OWASP, CSP, CORS, OAuth) and specific testing frameworks or tools like Jest, TestCafe, or Cypress is lacking, and there is no indication of familiarity with AWS or Terraform, which slightly lowers the match.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate mentions React, VueJS, and Angular in the cover letter, but the resume doesn't showcase practical experience with modern FE frameworks, testing frameworks or NodeJS ecosystem. While they list Javascript, HTML5 and CSS, and mention web development experience, it lacks the depth required for a modern front-end role. The resume focuses more on general IT consulting and systems administration.

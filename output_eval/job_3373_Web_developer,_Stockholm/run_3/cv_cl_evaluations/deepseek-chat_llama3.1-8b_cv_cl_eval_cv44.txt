@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in presentation and multimedia design, not professional front-end software development. While they mention HTML, CSS, and some front-end frameworks in the cover letter, their resume shows no practical, hands-on experience with JavaScript, TypeScript, React, testing, Git, or any other core technical requirements from the job description. This is a significant industry and skillset mismatch for a senior front-end engineering role.

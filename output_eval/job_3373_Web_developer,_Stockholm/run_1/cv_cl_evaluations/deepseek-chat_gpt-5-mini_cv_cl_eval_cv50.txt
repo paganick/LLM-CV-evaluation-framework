@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in aerospace sales, program management, and quality engineering, with no demonstrated recent experience in modern frontend development. The job requires hands-on expertise with JavaScript, TypeScript, React, and testing frameworks, which are not evidenced in the resume or cover letter. While the candidate has a computer science degree from decades ago and mentions soft skills like collaboration, they lack the specific, current technical skills required for the role.

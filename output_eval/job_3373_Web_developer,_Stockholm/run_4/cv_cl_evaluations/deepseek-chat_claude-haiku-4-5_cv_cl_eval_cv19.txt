@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design and unrelated technical fields, not professional software development. They lack any proven, hands-on experience with the core technologies required: JavaScript, TypeScript, React, testing frameworks, or modern frontend tooling. While they express motivation and have basic HTML/CSS knowledge, they are missing the specific, professional experience demanded by the job description.

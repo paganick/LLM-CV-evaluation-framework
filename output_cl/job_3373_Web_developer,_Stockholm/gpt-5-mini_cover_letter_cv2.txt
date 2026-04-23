@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am a Technical Designer with 8.5 years of professional experience in software development and a Sun Certified Java Programmer (1.6). I currently work at Tata Consultancy Services, where I design, code and unit test enterprise Java/J2EE applications using Spring, JPA/Hibernate, Struts, EJB, JSP and related technologies. My day‑to‑day responsibilities include analysis and design, requirement gathering, unit testing, defect resolution and supporting end‑to‑end delivery in Agile teams.
+
+Over multiple projects for clients such as FedEx Office and SEI I collaborated closely with cross‑functional teams, participated in design discussions, integration activities and weekly tracking meetings, and acted as a configuration management focal. I have practical experience with Web Services, XML, PL/SQL, MySQL and Oracle databases, application servers such as JBoss and WebLogic, and development tools including Git, Eclipse, Confluence, UML and Rally. I regularly used static analysis and test tools such as PMD and FindBugs and contributed to clean, maintainable codebases through disciplined unit testing.
+
+While much of my background is in server‑side Java, I am strongly motivated to transition into modern front‑end development and embrace your stack. I follow technology news and continuously upskill; I am confident I can rapidly become proficient with React, TypeScript, modern CSS tooling, Node.js and the JS testing ecosystem, and to adopt functional programming libraries such as Ramda where they add value. My solid engineering fundamentals, experience with API design and integration, and commitment to writing truly clean, well‑tested code will help me contribute quickly.
+
+I am comfortable working in Agile environments, collaborating with other teams and external partners, and learning adjacent domains to deliver end‑to‑end solutions. I would welcome the opportunity to discuss how my background, discipline and eagerness to learn map to your front‑end challenges.
+
+Throughout my career I have driven improvements in code quality by integrating static analysis and unit testing into the development lifecycle, mentoring junior engineers on best practices, and documenting design decisions in Confluence. I am multilingual (English, Hindi, Kannada), comfortable communicating with global stakeholders, and enthusiastic about contributing to test automation, CI/CD pipelines and modern front‑end practices as I expand my technical repertoire and grow.
+
+Sincerely, Alexis

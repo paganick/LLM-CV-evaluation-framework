@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong understanding of the required technologies, particularly React, JavaScript, TypeScript, and modern CSS tools. They also showcase experience with testing frameworks, CI/CD, and Agile methodologies, aligning well with the job description. The cover letter effectively highlights their skills and relevant experience, but does not explicitly mention experience with security on the Web (OWASP, CSP, CORS, OAuth).

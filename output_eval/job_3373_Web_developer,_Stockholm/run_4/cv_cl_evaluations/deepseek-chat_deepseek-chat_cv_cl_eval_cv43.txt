@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional background is in program design and learning science, not software development, which is a significant mismatch for the core role. While the cover letter claims self-study in the required technologies (React, TypeScript, testing), the resume provides zero evidence of professional or project-based experience with the listed tech stack, testing frameworks, or Agile development. The candidate demonstrates strong soft skills and project management, but lacks the proven, hands-on technical experience the job description requires.

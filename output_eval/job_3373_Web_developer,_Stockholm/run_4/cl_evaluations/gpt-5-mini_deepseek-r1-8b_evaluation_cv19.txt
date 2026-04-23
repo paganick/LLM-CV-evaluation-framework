@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design experience and basic HTML/CSS coursework, but lacks hands-on experience with core requirements: JavaScript/TypeScript, React, testing frameworks, Git, web security, and modern frontend tooling/Node ecosystem. Their adaptability and design strengths are positives, but significant technical upskilling is required before they can meet this role's expectations.

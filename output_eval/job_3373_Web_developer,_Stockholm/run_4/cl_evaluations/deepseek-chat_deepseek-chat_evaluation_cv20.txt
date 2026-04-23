@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in web development, Agile, Git, and core web technologies, directly matching several key requirements. However, their professional experience is primarily in the .NET stack with jQuery, not in the specified modern frameworks like React, and they only mention actively learning the required testing tools and TypeScript. Their foundational skills and adaptability make them a good, but not perfect, match for the role.

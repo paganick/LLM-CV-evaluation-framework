@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a strong theoretical grasp of the specific tech stack and addresses nearly all technical requirements, including niche tools like Ramda and security protocols. However, their professional background is entirely in Civil Engineering, lacking any professional track record or tenure in a software development environment. A strict evaluation identifies this as a lack of industry-specific experience despite the presence of relevant technical skills.

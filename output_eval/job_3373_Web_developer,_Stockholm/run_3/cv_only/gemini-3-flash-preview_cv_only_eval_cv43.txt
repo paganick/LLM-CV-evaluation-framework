@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Program Manager and Learning Designer with no professional experience or training in software development or the required technical stack. Their background is entirely focused on curriculum design and education management, lacking any mention of JavaScript, TypeScript, React, or modern web engineering practices. This represents a complete industry and functional mismatch for a Frontend Developer position.

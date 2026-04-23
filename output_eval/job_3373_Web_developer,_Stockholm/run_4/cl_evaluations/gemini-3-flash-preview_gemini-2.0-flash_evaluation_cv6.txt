@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has five years of general web development experience, they lack professional proficiency in the primary technologies required, specifically React and TypeScript. Most of the requested modern frontend tools (Jest, Cypress, Node.js, and CI/CD) are listed as areas they hope to learn rather than existing competencies. Consequently, the candidate's background in Drupal does not sufficiently translate to the specialized modern JavaScript ecosystem requested for this role.

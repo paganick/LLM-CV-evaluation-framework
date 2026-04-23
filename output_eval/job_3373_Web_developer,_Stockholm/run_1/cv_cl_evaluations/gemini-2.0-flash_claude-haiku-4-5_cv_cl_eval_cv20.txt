@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in .NET development with some exposure to front-end technologies like JavaScript, HTML, and CSS. However, the resume lacks specific experience with modern FE frameworks like React, which is a core requirement. While the cover letter expresses interest and some relevant skills, the overall fit is limited due to the focus on .NET rather than the required JavaScript-centric environment.

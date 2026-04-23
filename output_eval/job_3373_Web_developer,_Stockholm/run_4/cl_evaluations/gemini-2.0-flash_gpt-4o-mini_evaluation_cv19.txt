@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in Graphic Design, not front-end development, although they express interest in web technologies. They admit limited experience with JavaScript and TypeScript, core requirements for the role. While they mention relevant skills like HTML, CSS, Git, and web security concepts, the depth seems basic, and the listed experience doesn't fully align with the job description's expectations for React and testing.

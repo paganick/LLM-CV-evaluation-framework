@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match to the core technical requirements, including React, modern CSS, Jest/Cypress, OWASP/CORS, and Agile experience. They also show excellent alignment with the team's specific stack (Ramda, Node.js) and cultural values (clean code, full-domain interest). The score is not a 9 because the cover letter does not explicitly mention TypeScript, which is a listed primary requirement, and their extensive backend experience, while valuable, slightly dilutes the focus on pure frontend engineering.

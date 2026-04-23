@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in project management and technology leadership, which is relevant to the tech industry but does not align with the hands-on technical requirements of the role. The cover letter demonstrates no specific experience with the required front-end technologies (React, TypeScript, CSS tools), testing frameworks, or development tools listed in the job description. While the candidate shows strong soft skills and process knowledge, they lack the core technical proficiencies and hands-on development experience the position demands.

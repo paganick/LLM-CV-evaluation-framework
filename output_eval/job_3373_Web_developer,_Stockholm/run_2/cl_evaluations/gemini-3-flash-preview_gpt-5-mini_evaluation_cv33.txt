@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks professional experience in software engineering and explicitly states they are currently seeking to learn the mandatory technologies required for the role, such as React, TypeScript, and testing frameworks. While they possess strong leadership and operational experience, they do not meet any of the core technical competencies or hands-on requirements listed in the job description. Their background is entirely in banking and training, making them unqualified for a position requiring established engineering expertise.

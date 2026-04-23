@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career QA professional who lacks the required professional experience in front-end development and modern frameworks like React or TypeScript. While they possess a solid foundation in software testing and basic JavaScript, they do not demonstrate hands-on experience with CSS tools, CI/CD pipelines, or the functional programming paradigms specified in the job description. Their profile indicates a career transition rather than the established expertise needed for this engineering role.

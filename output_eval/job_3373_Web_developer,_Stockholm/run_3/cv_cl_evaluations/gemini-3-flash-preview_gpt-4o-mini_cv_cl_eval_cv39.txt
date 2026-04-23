@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and fine artist whose experience lacks the mandatory technical proficiency in React, TypeScript, and modern JavaScript frameworks. Professional experience with essential requirements such as automated testing, Git, CI/CD, and cloud infrastructure is entirely absent from the resume. While the candidate has a long career in design, they are fundamentally unqualified for a high-level front-end engineering role.

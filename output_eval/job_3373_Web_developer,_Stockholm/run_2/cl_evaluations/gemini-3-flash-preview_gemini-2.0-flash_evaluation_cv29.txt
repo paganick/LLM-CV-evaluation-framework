@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks all mandatory technical requirements, including JavaScript, TypeScript, and React, and provides no evidence of experience with testing, Git, or web security. Their professional background is exclusively in business development rather than engineering, making them fundamentally unqualified for a technical developer role. Despite their experience in the cloud software industry, they fail to demonstrate any of the core competencies defined in the job description.

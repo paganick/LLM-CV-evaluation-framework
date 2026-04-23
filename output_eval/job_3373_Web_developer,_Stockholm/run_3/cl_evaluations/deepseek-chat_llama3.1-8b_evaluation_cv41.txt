@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in systems administration and infrastructure, which is a different specialization from the front-end development role described. The cover letter mentions none of the required core technologies (JavaScript, React, TypeScript, testing frameworks) and instead focuses on unrelated skills like UNIX, Oracle, and network management. While they express interest in the company's tech stack, they provide no evidence of hands-on experience with it, making them unqualified for this specific position.

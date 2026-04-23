@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary required technologies, specifically React and TypeScript, admitting a need to "master" these tools rather than demonstrating current proficiency. Their background focuses on legacy libraries like jQuery and backend technologies rather than modern frontend tools like SASS, Jest, or modern security standards like OWASP and CSP. While the applicant has relevant industry experience and understands Agile methodologies, they do not meet the core technical requirements of the position.

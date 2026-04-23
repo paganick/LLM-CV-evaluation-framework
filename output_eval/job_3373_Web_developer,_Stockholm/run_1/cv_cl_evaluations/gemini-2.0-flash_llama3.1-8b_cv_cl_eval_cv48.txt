@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight experience in IT support, field service, and retail sales, which are not directly relevant to the software development skills required in the job description. There's a complete absence of the required JavaScript, TypeScript, modern FE frameworks, or testing experience. The candidate's skills do not align with the modern web development environment described.

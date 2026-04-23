@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align well with the Frontend Developer role focused on JavaScript, TypeScript, and modern FE frameworks like React. While the candidate expresses interest in transitioning to the frontend and highlights some relevant skills like jQuery and Git, they lack direct experience with the core technologies and testing frameworks listed in the job description. The cover letter acknowledges a gap in experience with frontend testing and CSS tools.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in IT management, security, and infrastructure, not front-end development. While they express interest and mention self-study in relevant technologies like React and TypeScript, their resume lacks concrete project experience. Their experience in Agile environments and security awareness is relevant, but doesn't compensate for the lack of hands-on FE development.

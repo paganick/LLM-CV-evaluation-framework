@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the primary requirements, including React, TypeScript, and modern front-end build tools. Their technical profile is heavily centered on Java, back-end technologies, and performance testing, with front-end skills limited to legacy frameworks like AngularJS and jQuery. Additionally, there is no evidence of experience with the modern testing libraries or functional programming paradigms specified in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a design background and lacks professional experience with the core requirements of JavaScript, TypeScript, and React, noting they are only currently "upskilling" in these areas. Furthermore, the application fails to demonstrate any hands-on experience with mandatory requirements such as test automation, web security (OWASP/CORS), or functional programming. While the candidate understands Agile and HTML/CSS, they are currently underqualified for a role requiring proficiency in a modern development stack.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/J2EE, AngularJS, and performance testing, which is a relevant industry but lacks the specific modern front-end skills required. They have no demonstrated experience with React, TypeScript, modern CSS tools, Node.js ecosystem, or the listed testing frameworks (Jest, Cypress). While they show an eagerness to learn and have foundational web skills, their hands-on professional experience does not align with the key technologies and frameworks specified in the job description.

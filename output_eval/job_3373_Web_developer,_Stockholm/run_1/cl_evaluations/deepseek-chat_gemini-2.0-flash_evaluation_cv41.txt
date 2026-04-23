@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in system administration, which is a relevant industry but lacks the specific, hands-on front-end development experience required. The letter mentions only basic familiarity with core technologies (HTML, CSS, JS) and a desire to learn, but provides no concrete evidence of experience with React, testing, modern tooling, or other key requirements from the job description. While problem-solving and collaboration skills are noted, the core technical qualifications for the role are not demonstrated.

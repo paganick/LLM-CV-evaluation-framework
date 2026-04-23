@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and technology, which is relevant, but lacks the specific front-end development skills and experience in JavaScript, TypeScript, and modern frameworks like React. They also do not demonstrate hands-on experience with testing, Git, or knowledge of web security principles mentioned in the job description. Overall, while the candidate has some industry experience, they fall short of critical technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's primary experience lies in ASP.NET and C#, which isn't the focus of the job description. While they mention JavaScript, HTML, and CSS, their depth in modern frontend frameworks like React is unclear. The cover letter expresses interest in learning React, but the resume lacks concrete experience, making them a candidate requiring significant upskilling.

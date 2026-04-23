@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and some overlapping skills (React, HTML/CSS, Agile, Git), but the profile is heavily skewed towards Java backend and test automation, not modern frontend development. Key requirements like TypeScript, modern React, specific testing frameworks (Jest, Cypress), and functional programming (Ramda) are not demonstrated. The experience is dated (most recent role 2017) and lacks depth in the core frontend technologies listed in the job description.

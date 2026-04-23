@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume highlights extensive experience in Mainframe technologies like COBOL, CICS, and DB2, which are not relevant to the modern frontend technologies listed in the job description. While the candidate lists HTML and JavaScript, their experience is not emphasized, and there's no mention of modern FE frameworks like React, VueJS, or Angular. The candidate's experience is primarily in a different technology stack and industry, making them unqualified for this role.

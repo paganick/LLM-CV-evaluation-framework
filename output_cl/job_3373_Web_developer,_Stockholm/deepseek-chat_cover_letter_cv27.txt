@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with enthusiasm to apply for the Front-End Developer position. While my career path has been diverse, my foundational skills in HTML, web design, and troubleshooting, combined with a lifelong dedication to meticulous craft and rapid learning, have directly prepared me for this role.
+
+My professional history is defined by translating complex requirements into clean, functional outcomes. As an Assistant Director, I managed budgets, personnel, and safety programs, requiring precise logic, strict adherence to protocols, and clear documentation—a mindset I apply to writing clean, maintainable code. My extensive experience in production, from videography and editing with Final Cut Pro to stage management, has honed my eye for detail, user experience, and collaborative execution within tight deadlines. This background ensures I understand the importance of pixel-perfect implementation and seamless functionality.
+
+I am a strong collaborator, comfortable interacting with diverse teams and external partners, as evidenced by my roles coordinating with administrators, architects, and community boards. My philanthropic work and board memberships demonstrate a genuine interest in understanding full domains beyond my immediate expertise. I am inherently driven to research new products and methodologies to improve systems, mirroring the required interest in the latest technologies.
+
+Although my CV reflects leadership in operations and the arts, I have proactively built a technical foundation. I am now intensely focused on deepening my modern JavaScript, React, and TypeScript skills, and I am eager to contribute to your team’s work with testing frameworks, CI/CD pipelines, and functional programming principles. My unique perspective brings exceptional problem-solving, a passion for structured quality, and an unwavering commitment to mastering the technical stack you utilize.
+
+Thank you for considering my application. I am confident that my unique blend of analytical rigor, collaborative spirit, and creative precision will bring valuable insight to your development team.
+
+Sincerely,
+Alexis

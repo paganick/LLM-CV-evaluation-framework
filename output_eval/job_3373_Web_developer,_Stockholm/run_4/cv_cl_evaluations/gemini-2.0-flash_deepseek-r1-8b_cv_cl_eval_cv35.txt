@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in marketing automation, lacking the core front-end development skills (JavaScript, TypeScript, React, HTML, CSS) specified in the job description. While they mention system integration and testing experience, it's within the marketing technology domain, not web development. The cover letter attempts to bridge the gap, but the resume lacks demonstrable coding experience.

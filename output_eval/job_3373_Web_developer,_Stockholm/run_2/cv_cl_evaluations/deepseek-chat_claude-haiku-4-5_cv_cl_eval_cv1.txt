@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE backend development and test automation, not modern frontend development. While they mention React and JavaScript, the experience appears dated (AngularJS, not modern Angular) and is not the focus of their career. They lack explicit, hands-on experience with key requirements like TypeScript, modern React, testing frameworks (Jest, Cypress), and the specific tools (e.g., Ramda, CircleCI) mentioned in the job description.

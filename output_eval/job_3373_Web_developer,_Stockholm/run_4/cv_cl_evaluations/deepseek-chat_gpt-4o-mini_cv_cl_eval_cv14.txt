@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific, hands-on expertise with the required modern front-end stack (React, TypeScript, modern testing frameworks). Their background is heavily in ASP.NET/C# and SharePoint, with only peripheral mentions of the desired technologies. While they show adaptability and collaborative skills, the core technical fit for a React-focused role with functional programming (Ramda) and modern tooling is weak.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in frontend development and familiarity with key technologies such as JavaScript, HTML, CSS, and Drupal. However, they lack direct experience with TypeScript, specific frameworks like VueJS and Angular mentioned in the job description, and they have not provided evidence of knowledge related to web security protocols like OWASP. Overall, they show potential but do not fully meet all requirements.

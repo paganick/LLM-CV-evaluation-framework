@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive industry experience as a Technical Designer, their background is primarily in Java/J2EE, whereas the role explicitly requires proficiency in JavaScript, TypeScript, and React. They fail to demonstrate hands-on experience with core requirements like web security (OWASP, OAuth), specific testing libraries, or the Node.js ecosystem. Consequently, the candidate would require significant retraining to meet the technical demands of this specific tech stack.

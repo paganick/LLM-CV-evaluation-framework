@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in marketing technology, which is tangentially relevant. While they mention Git and some security concepts, they lack demonstrable experience with the core technologies listed in the job description, such as React, testing frameworks, and modern CSS tools. The cover letter highlights transferable skills but doesn't present enough direct experience to be considered a strong candidate.

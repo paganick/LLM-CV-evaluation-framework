@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong QA/testing experience, solid JavaScript/HTML/CSS fundamentals, security knowledge, and Agile collaboration which are relevant to the role. However, they lack demonstrated professional experience with React and TypeScript and do not show concrete usage of key front-end tooling (Styled Components/SASS, linters/formatters), Git/CI-CD practices, or the Node/React ecosystem required for the position. Overall, relevant but missing several core front-end development skills needed to be a strong match.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in key required areas like JavaScript, React, Agile, Git, and testing tools. However, the cover letter lacks explicit mention of several critical skills from the job description, including TypeScript, modern CSS tools, Node.js, functional programming, and web security fundamentals. While a capable senior developer, the match is not perfect due to these specific omissions.

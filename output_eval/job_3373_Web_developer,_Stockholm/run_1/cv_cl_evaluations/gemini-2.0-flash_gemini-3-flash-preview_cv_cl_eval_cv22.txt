@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and buying, a completely different field. While they express interest in frontend development and have basic HTML/CSS skills, they lack practical experience with modern FE frameworks like React (the company's primary framework) and testing methodologies. The resume focuses on database projects and ERP implementations, which are not relevant to the job description's requirements.

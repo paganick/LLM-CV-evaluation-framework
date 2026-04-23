@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has significant experience in IT and Cybersecurity, which is relevant but does not demonstrate the specific hands-on experience with the required front-end technologies, testing frameworks, and modern CSS tools mentioned in the job description. While they possess a good understanding of security concepts, the lack of direct experience with frameworks like React and related tools lowers their score as they may not fully meet the role's technical demands.

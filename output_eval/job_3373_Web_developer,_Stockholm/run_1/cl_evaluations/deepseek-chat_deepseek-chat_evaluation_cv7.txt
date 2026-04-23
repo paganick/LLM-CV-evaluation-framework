@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background in graphic design is relevant to UI/UX but lacks direct, proven experience in core front-end development. The letter mentions learning JavaScript, TypeScript, and React but provides no evidence of hands-on project work, testing, version control, or the specific modern tools listed in the job description. While soft skills and a willingness to learn are present, the application does not demonstrate the required technical proficiency for the role.

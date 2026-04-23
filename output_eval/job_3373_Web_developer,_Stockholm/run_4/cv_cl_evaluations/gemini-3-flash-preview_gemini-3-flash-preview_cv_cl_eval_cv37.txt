@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in front-end development, with a career history strictly focused on IT infrastructure and project management that appears to have ended in 2016. While the cover letter mentions the required technologies, the resume fails to substantiate hands-on experience with JavaScript, TypeScript, React, or modern testing frameworks. The profile is a mismatch for a developer role as it prioritizes administrative and management skills over the required technical stack.

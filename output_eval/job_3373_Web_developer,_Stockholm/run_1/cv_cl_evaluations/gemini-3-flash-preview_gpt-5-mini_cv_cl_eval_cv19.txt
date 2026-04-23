@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer who lacks nearly all the core technical requirements for this engineering role, including JavaScript, TypeScript, React, and automated testing. While they possess basic HTML/CSS knowledge, they have no professional experience with the modern front-end ecosystem, Git, or API design. This application represents a career transitioner who does not meet the specialized software development standards required for the position.

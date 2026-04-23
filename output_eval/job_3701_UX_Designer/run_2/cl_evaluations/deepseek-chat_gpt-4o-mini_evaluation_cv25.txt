@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and transferable skills, but critically lacks the specified 2-3 years of commercial UX design experience. Key technical requirements are not met, as there is no mention of Figma (highly desirable) and only minimal exposure to HTML/CSS, while the job description emphasizes managing a UI Design System. The extensive background in systems analysis and document management does not directly equate to the core UX design and research responsibilities outlined.

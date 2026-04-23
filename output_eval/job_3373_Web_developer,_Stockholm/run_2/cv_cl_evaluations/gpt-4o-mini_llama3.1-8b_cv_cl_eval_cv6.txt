@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and a strong background in Drupal, JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks like React, which is specifically mentioned in the job description. Their experience with testing and test automation is also minimal, particularly concerning the specified tools and methodologies.

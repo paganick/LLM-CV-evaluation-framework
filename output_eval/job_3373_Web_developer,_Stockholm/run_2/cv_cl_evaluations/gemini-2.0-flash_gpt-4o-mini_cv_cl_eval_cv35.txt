@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is from a relevant industry (marketing automation) but lacks the specific front-end development skills outlined in the job description. While they express interest and familiarity with JavaScript, HTML, CSS, React, and testing frameworks, the resume provides no concrete evidence of professional experience in these areas. The experience highlighted pertains primarily to marketing automation platforms like Eloqua and Salesforce, rather than front-end development.

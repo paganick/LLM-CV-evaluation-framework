@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in testing and automation but lacks direct experience with the specific frontend technologies outlined in the job description, such as JavaScript frameworks (React) and modern CSS tools. While they have some familiarity with scripting and collaboration in Agile environments, their resume indicates a primary focus on test engineering rather than frontend development roles. This indicates a relevant industry background, but specific skills necessary for the advertised position appear to be insufficient.

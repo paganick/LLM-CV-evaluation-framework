@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant UX/UI and HTML/CSS experience and a Computer Science degree, but lacks demonstrable hands-on experience with core requirements such as React, TypeScript, modern JavaScript frameworks, testing frameworks, Git/repo workflows, NodeJS, CI/CD, and web security practices. Their resume shows frontend-adjacent design and prototyping skills rather than engineering experience implementing production web applications. Given the gap in essential technical skills and tooling required for this role, they are not a strong match.

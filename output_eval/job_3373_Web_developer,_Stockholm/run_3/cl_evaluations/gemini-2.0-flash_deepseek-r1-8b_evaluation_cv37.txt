@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter highlights project management and IT leadership experience, but lacks the specific front-end development skills outlined in the job description, such as JavaScript, React, and testing frameworks. While the candidate mentions exposure to concepts like API design and CI/CD, it's through project management, not direct coding experience. The absence of hands-on coding skills makes the candidate a weak fit for the role.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in front-end development and Agile methodologies, but lacks direct experience with modern frameworks like React, which is a key requirement. While the candidate expresses eagerness to learn, the lack of hands-on experience with testing/test automation and other specified modern tools is a significant gap. The cover letter highlights .NET experience, which is less relevant to the listed requirements.

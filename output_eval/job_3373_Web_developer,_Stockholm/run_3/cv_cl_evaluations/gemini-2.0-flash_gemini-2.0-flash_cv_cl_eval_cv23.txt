@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in electronics and testing, with limited front-end development experience. While they mention familiarity with JavaScript, the resume lacks practical experience with modern FE frameworks like React, which is a core requirement. The cover letter expresses interest and willingness to learn, but the skills gap is significant.

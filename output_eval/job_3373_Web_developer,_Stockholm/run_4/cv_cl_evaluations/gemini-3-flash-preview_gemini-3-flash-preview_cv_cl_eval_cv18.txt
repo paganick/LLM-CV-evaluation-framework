@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive general IT and web design experience, the resume lacks evidence of professional work with the required modern stack, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. The profile is heavily focused on systems administration, project management, and legacy technologies rather than modern frontend software engineering. There is a significant gap between the candidate's generalist background and the specific, high-level technical requirements of this role.

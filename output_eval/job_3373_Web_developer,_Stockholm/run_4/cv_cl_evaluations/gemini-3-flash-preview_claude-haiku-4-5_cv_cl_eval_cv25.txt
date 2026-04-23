@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Graphic Designer with no professional experience in JavaScript, TypeScript, or modern frontend frameworks like React. They lack nearly all core technical requirements, including automated testing, Git, and web security knowledge. While they possess basic HTML/CSS knowledge, their background is in a different industry and does not meet the minimum qualifications for a software engineering role.

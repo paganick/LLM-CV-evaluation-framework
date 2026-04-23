@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates foundational front-end skills, but the cover letter lacks specific evidence for most key requirements from the job description. It does not mention TypeScript, modern CSS tools, testing frameworks like Jest/Cypress, Git, security knowledge, or the other listed technologies and practices. The experience is heavily weighted toward software testing rather than front-end development.

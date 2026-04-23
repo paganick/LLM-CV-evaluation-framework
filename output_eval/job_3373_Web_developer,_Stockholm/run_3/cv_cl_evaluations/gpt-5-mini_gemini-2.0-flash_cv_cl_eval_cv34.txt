@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web-adjacent experience (HTML, CSS, SQL), strong documentation and client-facing skills, and demonstrates a willingness to learn, but lacks the core technical requirements for this Front-End Developer role—notably JavaScript/TypeScript, React, automated testing, NodeJS/npm/Yarn, CI/CD, and familiarity with Git and modern frontend tooling. Significant upskilling and hands-on experience with the required frameworks, testing practices, and developer workflows would be necessary before they could be considered a strong match.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a seasoned IT professional but lacks nearly all the specific technical requirements for this modern frontend-focused role, such as React, TypeScript, and Node.js. Their expertise is rooted in legacy Java/J2EE technologies (Struts, EJB, JSP) and basic jQuery, which do not align with the modern stack of Ramda, AWS, and CI/CD tools requested. While the candidate has relevant industry experience and understands Agile methodologies, they are fundamentally missing the core programming languages and frameworks necessary for this position.

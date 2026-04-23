@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, self-taught technical foundation that aligns with the core job requirements in React, TypeScript, testing, and tooling. Their career transition is framed convincingly, with transferable skills in process, precision, and collaboration. However, the lack of verifiable professional experience in a software development role and no mention of several listed "nice-to-have" technologies (e.g., Node.js, AWS, CI/CD) prevents a higher score.

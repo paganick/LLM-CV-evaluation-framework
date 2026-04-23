@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer whose professional experience is centered on COBOL, CICS, and DB2, which is entirely unrelated to the modern React and TypeScript stack required. There is no evidence of professional hands-on experience with modern frontend frameworks, testing libraries, or CI/CD tools mentioned in the job description. Additionally, the resume shows no professional employment since 2014, representing a significant gap in technical relevance and industry experience.

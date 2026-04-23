@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in front-end technologies and Agile development; however, they lack direct experience with React, which is essential for this position. Their background is primarily in .NET development, which does not fully align with the requirements for modern front-end frameworks and tools specified in the job description. While they show a willingness to learn, this may not be sufficient for a role that requires immediate proficiency.

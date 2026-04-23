@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates familiarity with HTML, CSS, and JavaScript, which are fundamental requirements. However, they lack direct React experience, a primary skill listed in the job description. While the candidate expresses willingness to learn, the cover letter doesn't showcase hands-on experience with testing automation tools or a strong background in modern front-end frameworks, which are crucial for the role.

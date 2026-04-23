@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience or demonstrated skills in the required modern frontend stack, including React, TypeScript, and contemporary CSS tools. Their work history over the last two decades is focused on high-level business development, project management, and quality auditing rather than hands-on software development. While the candidate possesses a Computer Science degree, it is significantly outdated relative to the current web ecosystem and modern engineering practices.

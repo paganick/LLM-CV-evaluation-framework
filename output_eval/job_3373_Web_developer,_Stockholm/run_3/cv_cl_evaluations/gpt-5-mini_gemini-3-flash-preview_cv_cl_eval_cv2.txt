@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong Java/J2EE experience, Agile practice, Git familiarity and some frontend exposure (jQuery/Bootstrap) which shows general web development background. However they lack the core required modern frontend skills—no React or TypeScript, no modern CSS tooling, limited evidence of Node.js/npm, frontend testing frameworks, CI/CD, or AWS/Terraform experience. Given the role’s emphasis on React/TypeScript, frontend testing, and modern toolchain, they are relevant to the industry but do not meet key technical requirements for immediate fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web technologies and is pursuing a Master’s in Management Information Systems, which is relevant. However, they lack hands-on experience with modern front-end frameworks like React, which is critical for the role. The familiarity with testing frameworks and basic knowledge of web security is noted but insufficient for a strong fit.

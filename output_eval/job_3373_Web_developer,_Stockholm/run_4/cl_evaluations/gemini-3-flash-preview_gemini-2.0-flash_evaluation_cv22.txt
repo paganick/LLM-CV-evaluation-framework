@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate any experience with JavaScript or TypeScript, which are the fundamental requirements for this Frontend Developer position. While they possess foundational knowledge of HTML/CSS and database management, they lack the required proficiency in React, testing frameworks, and modern frontend tooling. Their background is primarily focused on backend systems and media planning, showing a significant gap in the specific technical skills demanded by the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates a clear understanding of the technical stack, including React, TypeScript, and testing frameworks. However, they lack explicit, hands-on experience with several key requirements from the job description, such as modern CSS tools, security fundamentals, and specific Node.js libraries. Their background is impressive but transitioning from mainframe development, so direct, recent experience with the modern frontend ecosystem is not yet proven.

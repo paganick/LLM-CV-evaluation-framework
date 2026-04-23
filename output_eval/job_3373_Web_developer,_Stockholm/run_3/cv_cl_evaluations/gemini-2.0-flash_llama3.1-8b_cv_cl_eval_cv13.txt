@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume showcases project management experience, but the technical skills are quite broad and lack depth in the specific technologies mentioned in the job description. While the cover letter mentions React and other desired technologies, the resume doesn't provide concrete evidence of hands-on experience beyond basic HTML/CSS and Javascript, which are not sufficient for a modern FE role. The resume focuses on project management rather than demonstrable FE development skills.

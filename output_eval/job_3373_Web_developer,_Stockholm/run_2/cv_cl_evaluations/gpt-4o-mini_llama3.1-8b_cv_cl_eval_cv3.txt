@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant educational background and some foundational knowledge in web development technologies like HTML, CSS, and JavaScript. However, they lack hands-on experience with modern frameworks like React, as required in the job description, and do not mention testing or test automation experience. Their primary experience in construction does not adequately demonstrate the necessary skills for the web development role they are applying for.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior product management leader with extensive experience in product strategy, Agile and cross-functional collaboration but provides no evidence of the technical skills required for this front-end engineering role (no JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Node/npm, or CI/CD experience listed). While strong on leadership and domain knowledge, they are effectively in the wrong discipline for this position and do not meet the core technical requirements.

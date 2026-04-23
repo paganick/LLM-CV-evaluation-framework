@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in project management and a technical background, but they lack hands-on experience with key technologies specified in the job description, such as JavaScript frameworks (React, VueJS, etc.) and modern testing frameworks. While they demonstrate familiarity with some relevant concepts, the absence of specific front-end development skills significantly limits their fit for the role.

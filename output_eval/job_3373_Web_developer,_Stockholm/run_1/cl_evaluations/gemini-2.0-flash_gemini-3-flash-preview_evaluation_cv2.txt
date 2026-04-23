@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in Java and related technologies, which isn't the primary focus of the job description. They mention frontend experience, but mainly jQuery and Bootstrap. While they express a commitment to learning React and TypeScript, they lack demonstrable experience with the specific modern technologies (React, testing frameworks, CI/CD tools, AWS) listed in the job description.

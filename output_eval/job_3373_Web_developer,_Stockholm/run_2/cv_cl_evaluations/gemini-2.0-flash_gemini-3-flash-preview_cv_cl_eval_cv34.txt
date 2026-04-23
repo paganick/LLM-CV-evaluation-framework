@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in a relevant industry (digital marketing) and mentions HTML/CSS, but lacks demonstrable experience with modern FE frameworks, testing methodologies, and other key requirements like Git, NodeJS, and security best practices. The experience is heavily focused on Salesforce Marketing Cloud, which isn't the core tech stack in the job description. The candidate expresses interest in learning, but the current skill set is not a strong match.

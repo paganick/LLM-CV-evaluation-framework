@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX experience (user research, wireframes, prototypes, workshops, some leadership) and front-end exposure (HTML/CSS, jQuery), but lacks evidence of recent commercial UX delivery in an Agile/sprint environment and does not list Figma or modern JS experience. Recent roles focus on presentation/multimedia work rather than owning a UX roadmap, running day-to-day UX team ceremonies, or maintaining a UI design system at the level requested. Overall shows partial fit but missing several key technical and process requirements.

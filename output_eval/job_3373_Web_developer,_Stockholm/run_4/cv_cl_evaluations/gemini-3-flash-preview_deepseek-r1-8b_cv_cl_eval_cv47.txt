@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Business Development professional with a background in Chemistry, lacking any professional experience in modern software engineering or the specified React ecosystem. They do not possess the required technical skills in JavaScript, TypeScript, or testing frameworks, and their coding exposure appears limited to basic HTML and outdated tools like Dreamweaver and Flash. Consequently, there is a total mismatch between the candidate's career history and the technical requirements of this front-end development role.

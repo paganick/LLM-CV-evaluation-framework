@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Marketing and Public Relations specialist with a background in Law, possessing none of the required technical skills such as JavaScript, TypeScript, or React. The resume contains zero evidence of software development experience, web security knowledge, or familiarity with the NodeJS ecosystem. This candidate is completely unqualified and belongs to a different industry than the one specified in the job description.

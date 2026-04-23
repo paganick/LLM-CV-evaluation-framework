@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is almost entirely in systems administration and hardware support, with no documented professional experience or projects involving React, TypeScript, or modern front-end development. While the cover letter mentions the required stack, the resume lacks any evidence of these skills being applied in a professional capacity and shows no relevant employment since 2015. This profile represents a complete mismatch for a developer role requiring hands-on experience with testing frameworks and modern JavaScript ecosystems.

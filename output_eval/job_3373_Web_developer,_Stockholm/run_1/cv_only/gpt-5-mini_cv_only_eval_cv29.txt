@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is focused on sales, marketing, and business development with no demonstrated hands-on frontend engineering skills (no JavaScript/TypeScript, React, HTML/CSS, or testing experience). There is no evidence of familiarity with NodeJS/npm, Git/GitHub workflows, modern CSS tools, CI/CD, AWS/Terraform, or web security practices required by the role. This candidate is in a different discipline and is completely unqualified for the technical frontend position.

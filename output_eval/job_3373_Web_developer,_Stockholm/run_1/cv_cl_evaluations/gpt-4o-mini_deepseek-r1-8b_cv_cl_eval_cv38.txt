@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a media production background with experience in project management and teamwork, but lacks the specific technical skills demanded by the job description, such as proficiency in JavaScript, modern front-end frameworks (especially React), and testing frameworks. While their project management skills are somewhat transferable, too many essential technical competencies are missing for a strong fit in a software development role.

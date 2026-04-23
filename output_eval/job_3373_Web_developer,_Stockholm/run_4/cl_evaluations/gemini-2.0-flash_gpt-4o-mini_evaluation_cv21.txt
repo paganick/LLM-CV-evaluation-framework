@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, and CSS, along with experience in Agile environments and modern CSS tools. While they mention AngularJS instead of React (the company's preference), they express eagerness to learn new frameworks. The candidate also shows a solid understanding of testing and related tools, aligning with the job description's requirements.

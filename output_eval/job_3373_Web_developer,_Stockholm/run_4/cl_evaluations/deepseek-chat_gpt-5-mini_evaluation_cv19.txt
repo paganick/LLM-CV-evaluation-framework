@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design experience and foundational HTML/CSS skills, but lacks the specific technical requirements for the front-end role. The cover letter demonstrates no hands-on experience with React, TypeScript, testing frameworks, Git, or modern tooling listed in the job description. While the candidate expresses eagerness to learn, the current skill set is more aligned with a design-to-code transition role rather than the specified engineering position.

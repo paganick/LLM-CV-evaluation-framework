@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the core technical requirements, explicitly stating they have no direct experience with JavaScript, TypeScript, or React. While the IT support background provides a general technical foundation, it does not fulfill the specific demands for software development, testing automation, or modern frontend workflows. The application relies on future potential and "willingness to learn" rather than demonstrated proficiency in the requested tech stack.

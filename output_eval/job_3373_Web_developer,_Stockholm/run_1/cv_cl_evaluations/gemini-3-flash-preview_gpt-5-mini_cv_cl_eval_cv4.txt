@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses solid general software engineering experience and foundational web skills, they lack the specific professional experience required in React and TypeScript. Their background is heavily focused on .NET, C#, and Python, with no evidence of using modern frontend testing frameworks like Jest or Cypress, or functional programming libraries like Ramda. As a strict requirement for a React-based role, the candidate falls short on the modern frontend ecosystem expertise necessary for immediate contribution.

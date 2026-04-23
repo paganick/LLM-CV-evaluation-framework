@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in test engineering, but lacks the depth of experience in modern front-end development. While they claim proficiency in JavaScript, TypeScript, HTML, CSS, and React, the resume focuses on hardware testing and scripting for automation. The cover letter attempts to bridge the gap, but the actual experience seems limited.

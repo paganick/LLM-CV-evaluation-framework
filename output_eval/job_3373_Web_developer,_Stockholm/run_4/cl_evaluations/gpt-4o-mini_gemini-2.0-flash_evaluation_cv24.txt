@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in digital communications but lacks specific front-end development skills such as React and TypeScript, which are explicitly mentioned in the job description. While there is a willingness to learn and adapt, the absence of hands-on experience with required technologies and testing frameworks limits their qualification for this role.

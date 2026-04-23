@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with JavaScript, HTML, and CSS, but lacks explicit project experience using modern FE frameworks like React as prioritized in the job description. Their experience is heavily rooted in Java and database administration, which is less relevant. The cover letter mentions testing and CI/CD pipelines, but the resume does not substantiate this with relevant experience.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a .NET background which is not the primary focus of the job. While they mention some relevant front-end technologies, the experience seems limited and not deeply focused on modern frameworks like React, despite claiming proficiency. The resume highlights older technologies and lacks concrete examples of working with the specific tools and frameworks mentioned in the job description beyond basic familiarity.

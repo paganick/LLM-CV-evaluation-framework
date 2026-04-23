@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in aerospace sales, business development, and quality engineering, with no relevant experience in modern front-end development, React, TypeScript, or the other core technical skills listed. The resume shows no evidence of proficiency in JavaScript, testing frameworks, Git, or any of the specific tools and methodologies required for the software engineering role. This is a complete industry and skillset mismatch.

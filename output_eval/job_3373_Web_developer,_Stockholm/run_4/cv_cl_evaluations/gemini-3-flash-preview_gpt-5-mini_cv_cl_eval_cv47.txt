@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with no professional experience in modern front-end development, lacking critical skills such as JavaScript, TypeScript, and React. While they possess strong leadership and business acumen, their technical background is limited to basic HTML and legacy languages (C/C++), which does not align with the requirements of a modern engineering team. They are missing nearly all core requirements, including testing, Git, and web security expertise.

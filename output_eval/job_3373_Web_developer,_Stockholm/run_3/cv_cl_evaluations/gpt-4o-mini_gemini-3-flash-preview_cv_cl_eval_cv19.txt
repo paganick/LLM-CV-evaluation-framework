@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some foundational knowledge in HTML and CSS from their graphic design background, but lacks specific expertise in essential areas such as JavaScript, TypeScript, and modern front-end frameworks like React. Additionally, there is minimal mention of experience with testing and test automation or familiarity with Git, security concepts, and CI/CD tools, making them less suitable for the front-end developer role.

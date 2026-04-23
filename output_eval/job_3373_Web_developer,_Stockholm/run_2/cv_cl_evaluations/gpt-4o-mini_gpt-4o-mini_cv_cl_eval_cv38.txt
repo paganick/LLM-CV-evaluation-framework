@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate demonstrates strong project management and media production skills, they lack the relevant technical experience in front-end development specifically in JavaScript, TypeScript, and modern frameworks like React as required. Their background in multimedia does not provide the solid foundation expected for the developer position, particularly in testing automation and CSS tools. Thus, while they show potential, they do not meet the essential technical criteria for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant background in design and possesses basic knowledge of HTML and CSS, but lack of experience in JavaScript and modern frameworks like React significantly hinders their fit for the front-end developer role. Their cover letter expresses eagerness to learn, but the technical skills required, such as proficiency in testing frameworks, version control, and web security, are insufficiently demonstrated.

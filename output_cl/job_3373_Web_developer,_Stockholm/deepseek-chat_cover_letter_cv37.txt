@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Front End Developer position. While my recent career history has been in project management and IT leadership, my foundational education is in Computers and Information Technology, and I have consistently operated at the intersection of business objectives and technical execution. The technologies and practices outlined in your job description—particularly React, modern CSS, testing automation, and a genuine passion for clean code—represent the precise technical environment in which I am now eager to contribute directly as a developer.
+
+My experience as a Corporate Project Manager and Director of IT has ingrained in me a comprehensive understanding of the Software Development Lifecycle (SDLC), from strategic planning and SLA authoring to hands-on problem management and change control. I have led ground-up application integrations, managed technology upgrades, and have always been responsible for ensuring final deliverables met both technical and business standards. This background ensures I am not just a coder, but a strong collaborator who understands Agile workflows, the importance of clear documentation, and how to interface effectively with other teams and stakeholders to prioritize requirements and drive projects to successful completion.
+
+More importantly, this managerial perspective has solidified my commitment to technical excellence. I have overseen the implementation of enterprise systems and infrastructure, which requires a deep appreciation for security considerations, CI/CD pipelines, and robust testing frameworks to mitigate risk. My hands-on technical support experience, combined with certifications like MCP and CompTia A+, provides a practical base. I am now passionately focused on transitioning this strategic, big-picture understanding into hands-on development work, building the clean, secure, and well-tested applications your team is known for.
+
+I am keenly interested in your tech stack, including React, Node.js, and modern testing tools, and am dedicated to rapidly expanding my hands-on proficiency in these areas. My career demonstrates a consistent ability to learn new domains and platforms, a skill I am eager to apply to mastering your specific development ecosystem. I am confident that my unique blend of strategic project oversight, technical literacy, and a renewed, dedicated focus on modern front-end development would bring valuable perspective and diligence to your team.
+
+Thank you for considering my application. I look forward to discussing how my skills and passion can contribute to your projects.
+
+Sincerely, Alexis

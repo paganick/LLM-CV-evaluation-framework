@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front-End Developer position that emphasizes a strong foundation in JavaScript, TypeScript, HTML, and CSS—specifically leveraging React as a primary framework. With my extensive background in project and construction management, coupled with a keen interest in software development, I am eager to bring my problem-solving attitude and analytical skills to your team.
+
+Throughout my career, I have honed my ability to collaborate effectively in Agile environments while managing substantial multi-national teams, fostering strong relationships across various stakeholders. My experience coordinating large-scale projects, such as the $1B Flare And Relief Modifications (FARM) offshore project, has equipped me with the ability to adapt to changing priorities and integrate feedback from diverse teams. This aligns perfectly with your expectation for a candidate who can communicate confidently with teams and external partners.
+
+While I may not have direct experience with modern CSS tools like Styled Components and SASS, I have developed a strong understanding of optimizing workflow processes and ensuring quality outputs under pressure—a principle that resonates deeply within Agile and CI/CD contexts. I thrive on keeping abreast of the latest technologies and apply this passion to enhance my work. My background in leading quality assurance teams has also given me hands-on experience with testing methodologies, including both integration and E2E tests.
+
+Additionally, my familiarity with Git and repository hosting services like GitHub will help me seamlessly integrate into your development pipeline. I possess foundational knowledge of web security principles (OWASP, CSP, CORS, OAuth) and am eager to expand my skill set in areas such as API design, NodeJS, and Terraform. My experience with engineering-related projects has instilled a commitment to writing clean, maintainable code and the importance of unit testing.
+
+Ultimately, my combined experience in managing large teams, overseeing complex projects, and my enthusiasm for programming make me uniquely positioned to contribute to your organization. I am excited about the possibility of developing engaging and user-friendly web applications, propelling your projects to success.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background and aspirations align with your team.
+
+Sincerely,  
+Alexis

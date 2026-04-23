@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a degree in Computer Science and some relevant experience in user experience and interface design, which aligns with the front-end development role. However, they lack specific hands-on experience with JavaScript, TypeScript, modern frameworks (beyond general handling), testing frameworks, and other essential technical skills required in the job description, making them only partially qualified for this position.

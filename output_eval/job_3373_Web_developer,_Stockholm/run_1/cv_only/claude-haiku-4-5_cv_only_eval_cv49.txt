@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Data Analyst with expertise in statistics, data science tools (R, Python, SAS), and databases, which is a completely different industry from frontend web development. The resume contains no mention of JavaScript, TypeScript, React, HTML, CSS, testing frameworks, Git, or any web development experience. While the candidate demonstrates strong analytical and programming skills, they lack every core technical requirement for a frontend engineer position.

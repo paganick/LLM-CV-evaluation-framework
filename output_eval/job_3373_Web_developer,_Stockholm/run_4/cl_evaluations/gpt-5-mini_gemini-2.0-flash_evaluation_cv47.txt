@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows relevant collaboration and project-management experience plus basic HTML knowledge and a willingness to learn, but provides no concrete evidence of the core technical skills required (JavaScript/TypeScript, hands-on React, testing frameworks, Git, Node/npm, modern CSS tooling, web security, CI/CD). Given the significant gaps in essential front-end technical experience and tooling, they are not currently qualified for this role without substantial upskilling.

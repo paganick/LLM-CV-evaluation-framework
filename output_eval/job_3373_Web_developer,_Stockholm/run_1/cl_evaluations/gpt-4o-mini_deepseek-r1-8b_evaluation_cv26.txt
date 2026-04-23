@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in project management and communication, but lacks direct experience with the specific technologies and frameworks listed in the job description, such as modern JavaScript frameworks (React), testing frameworks, and CI/CD tools. While there is enthusiasm for learning and collaboration, the absence of concrete technical skills limits the candidate's qualifications for this role.

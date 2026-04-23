@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am an experienced business development and product enablement leader with over eight years in the cloud software space, and I am excited to bring my technical collaboration, writing, and product-focused mindset to your front-end engineering team. While my primary background is in sales, marketing and go-to-market strategy, I have hands‑on experience working with software teams building web, desktop and mobile applications, API/web services and integrations—experience that positions me to quickly contribute as I transition into a more technical role.
+
+At Privacy Data Systems I worked closely with engineers on SenditCertified, a cloud-based secure communications platform. I contributed to product vision, documented functional requirements, developed technical sales collateral, and designed and administered custom CRM applications. I translated business needs into technical acceptance criteria, supported API integrations and helped ensure features met security and usability expectations. These responsibilities required rigorous attention to detail, strong technical writing skills, and the ability to bridge product, sales, and engineering teams.
+
+I am a fast learner who thrives under pressure, enjoys tackling unfamiliar technical domains, and is committed to producing clean, maintainable work. I have experience communicating complex technical concepts to non-technical audiences, creating training materials, and running product demonstrations—skills that translate directly to writing clear frontend code, authoring tests and collaborating on API design and documentation.
+
+In previous roles I managed strategic sales channels, oversaw outside sales resources, and developed marketing strategies that aligned product roadmaps with customer needs. I designed dashboards and custom reports in Salesforce to help prioritize engineering work and improve product-market fit. I am eager to apply this combination of product insight, customer empathy and execution while upskilling into front-end development.
+
+I am enthusiastic about becoming fluent in React, TypeScript and the modern front-end ecosystem, and I am already pursuing self‑directed study to build proficiency with testing frameworks, modern CSS patterns, NodeJS tooling and CI/CD pipelines. I welcome the opportunity to bring my cross-functional perspective, disciplined documentation habits and dedication to quality to your team.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your frontend effort and learning from your engineers.
+
+Sincerely, Alexis

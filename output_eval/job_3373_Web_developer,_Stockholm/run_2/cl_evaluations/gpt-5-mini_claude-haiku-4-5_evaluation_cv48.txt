@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong general IT background, clear motivation, and some web exposure, which makes them relevant to the role, but they lack demonstrated, hands-on experience with core requirements such as professional React/TypeScript development, front-end testing (Jest/Cypress), modern CSS toolchains, and Git/GitHub workflows. Key items from the job (web security knowledge, Ramda/functional programming, CI/CD, and AWS/Terraform) are not evidenced, so they would require significant ramp-up to meet the role independently.

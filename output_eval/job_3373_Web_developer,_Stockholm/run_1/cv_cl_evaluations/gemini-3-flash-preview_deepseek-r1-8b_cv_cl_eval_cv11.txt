@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a Quality Assurance specialist rather than a Front-End Developer and lacks professional experience with the required modern stack, specifically React and TypeScript. Their resume indicates a significant gap in employment since 2015 and focuses almost exclusively on testing methodologies rather than software engineering. Consequently, they do not meet the core technical requirements for building and maintaining modern web applications.

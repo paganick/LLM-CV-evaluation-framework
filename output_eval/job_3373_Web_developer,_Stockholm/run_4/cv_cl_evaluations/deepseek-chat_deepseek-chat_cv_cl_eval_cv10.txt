@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE back-end development with only dated AngularJS experience, lacking the required modern React, TypeScript, and specific testing framework (Jest, Cypress) expertise. While they have relevant foundational skills (Agile, Git, JavaScript) and a strong academic record, they do not demonstrate hands-on experience with the core technologies listed in the job description. The fit is based on potential and foundational knowledge, not on proven, current proficiency in the specified stack.

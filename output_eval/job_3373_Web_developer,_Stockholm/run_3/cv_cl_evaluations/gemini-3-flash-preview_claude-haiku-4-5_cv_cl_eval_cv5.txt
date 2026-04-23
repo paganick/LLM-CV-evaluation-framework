@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is almost entirely in legacy Mainframe technologies such as COBOL, DB2, and CICS, which are irrelevant to the required modern React/TypeScript frontend stack. There is no evidence of professional experience with modern JavaScript frameworks, testing libraries like Jest or Cypress, or the Node.js ecosystem. Furthermore, the resume shows a significant gap in employment since 2014, making this candidate completely unqualified for a senior-level frontend position.

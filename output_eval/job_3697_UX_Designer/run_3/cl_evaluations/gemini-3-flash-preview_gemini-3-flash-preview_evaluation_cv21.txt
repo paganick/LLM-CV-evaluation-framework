@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has over two decades of design experience, their background is heavily rooted in legacy web development and pre-press rather than modern UI/UX product design. They fail to mention the specific prototyping tools requested, such as InVision or Wireframe.cc, and their reliance on outdated tools like Dreamweaver suggests a lack of current technical proficiency required for a high-growth scale-up environment.

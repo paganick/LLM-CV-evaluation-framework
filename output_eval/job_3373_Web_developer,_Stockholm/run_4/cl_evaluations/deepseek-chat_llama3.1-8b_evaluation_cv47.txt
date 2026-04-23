@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in business development and sales, which is irrelevant to the technical front-end developer role described. While they mention some adjacent skills like HTML and CI/CD, they lack all primary requirements: modern frameworks (React), testing (Jest), core web technologies (TypeScript, CSS), and version control (Git). The application demonstrates a fundamental misunderstanding of the role's responsibilities.

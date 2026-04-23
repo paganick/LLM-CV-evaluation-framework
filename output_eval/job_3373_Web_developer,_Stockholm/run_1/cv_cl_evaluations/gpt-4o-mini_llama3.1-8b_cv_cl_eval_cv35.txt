@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in a related field but lacks specific technical skills listed in the job description, such as hands-on experience with modern front-end frameworks like React, as well as foundational knowledge of JavaScript, TypeScript, HTML, and CSS. While there are some transferable skills, there is insufficient evidence to assure capability in front-end development, which is critical for the role.

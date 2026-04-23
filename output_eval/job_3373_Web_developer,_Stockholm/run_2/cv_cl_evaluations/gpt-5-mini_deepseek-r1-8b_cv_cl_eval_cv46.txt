@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates general software and web development experience (Java, databases, some JavaScript/HTML) but the resume lacks concrete, recent evidence of the modern frontend stack required (React, TypeScript), modern CSS tooling, Node/npm ecosystem, testing frameworks/automation, and CI/CD/AWS experience. The cover letter claims familiarity with many required technologies, but those claims are unsupported by the provided resume, so the candidate is relevant to the industry but does not meet the specific skill requirements for this role.

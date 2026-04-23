@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a design professional rather than a software engineer, lacking the required hands-on experience with React, TypeScript, and modern JavaScript frameworks. Their technical stack is centered on design tools and basic HTML/CSS/jQuery, missing critical competencies in testing automation, CI/CD, and cloud infrastructure. While they possess a relevant degree, they do not meet the engineering seniority or specific toolchain requirements outlined in the job description.

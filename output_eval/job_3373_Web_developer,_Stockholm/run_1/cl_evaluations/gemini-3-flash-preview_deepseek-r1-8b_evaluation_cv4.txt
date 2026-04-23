@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate possesses the required five years of experience and demonstrates a strong command of the core tech stack, specifically React, TypeScript, and testing methodologies. However, as a strict recruiter, I note the complete absence of any mention regarding web security protocols (OWASP, CSP, CORS, OAuth), which are explicitly listed as required knowledge. While the candidate is a strong match for the frontend requirements, the failure to address security and specific CI/CD tools prevents a higher rating.

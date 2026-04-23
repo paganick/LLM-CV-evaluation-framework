@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks virtually all required technical skills and experience for a front-end engineering role (no JavaScript/TypeScript, React, testing frameworks, Node/npm, Git, or modern CSS tooling). While they present strong customer-facing, management, and project skills, those are not sufficient for this technical position. Their stated eagerness to learn does not compensate for the immediate skill gaps required to contribute in this role.

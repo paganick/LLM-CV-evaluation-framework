@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not software development. While they express interest in frontend technologies, their resume lacks substantial evidence of hands-on experience with JavaScript, TypeScript, React, or related testing frameworks. The cover letter mentions familiarity with some tools, but this is insufficient to demonstrate the required expertise.

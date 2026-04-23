@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills, including JavaScript, HTML, and CSS, but lacks specific experience with React, the framework mentioned in the job description. The resume highlights project management experience more than hands-on development. While the cover letter expresses interest in deepening React skills, the overall profile leans towards management rather than a strong front-end developer.

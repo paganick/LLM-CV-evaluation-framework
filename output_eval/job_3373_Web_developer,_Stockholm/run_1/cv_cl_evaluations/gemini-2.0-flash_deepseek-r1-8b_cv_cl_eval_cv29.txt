@@ -1,0 +1,2 @@
+Score: [2]
+Reasoning: This candidate's resume and cover letter highlight business development and sales/marketing experience, which are not relevant to the software engineering skills outlined in the job description. There's no mention of JavaScript, React, or other FE technologies, indicating a complete mismatch in skills and experience. The candidate's background is in sales strategy and business growth, not software development.

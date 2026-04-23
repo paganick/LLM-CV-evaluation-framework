@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows strong systems-integration, QA/testing mindset, Git experience, and relevant security awareness, making them relevant to the role's collaborative and integration aspects. However, the cover letter lacks any concrete, hands-on experience with JavaScript/TypeScript, React, modern front-end tooling (Styled Components/SASS), testing frameworks (Jest/Cypress/TestCafe), Node/npm, or the other specific technologies listed. For a front-end developer position where those skills are core, the candidate is a partial but underqualified match.

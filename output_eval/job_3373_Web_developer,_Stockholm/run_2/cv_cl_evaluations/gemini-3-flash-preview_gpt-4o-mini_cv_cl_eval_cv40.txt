@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior-level product management executive with no professional experience as a software developer or hands-on engineer. While they have worked in the relevant industry and managed technical teams, they lack any verifiable professional mastery of React, TypeScript, or automated testing frameworks. Their resume is focused entirely on leadership and strategy, making them unqualified for a technical, implementation-heavy Front End Developer role.

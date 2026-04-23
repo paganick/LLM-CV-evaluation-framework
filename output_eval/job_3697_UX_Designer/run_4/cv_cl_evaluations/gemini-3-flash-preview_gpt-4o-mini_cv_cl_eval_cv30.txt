@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's entire professional history is in Software Engineering, failing to meet the requirement for 3+ years of experience specifically as a UI/UX Designer. While the candidate mentions design tools in the cover letter, the resume provides no evidence of professional proficiency in Adobe Illustrator, Photoshop, or wireframing software, focusing instead on C++, C#, and backend development. The profile represents a career developer rather than a dedicated designer, resulting in a significant mismatch for this specialized role.

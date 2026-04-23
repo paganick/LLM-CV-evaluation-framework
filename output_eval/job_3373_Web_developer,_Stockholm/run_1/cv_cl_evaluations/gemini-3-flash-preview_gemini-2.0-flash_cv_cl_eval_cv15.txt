@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is significantly underqualified, lacking essential experience with modern front-end technologies such as React, TypeScript, and the NodeJS ecosystem. Their professional background is primarily focused on general IT support and hardware troubleshooting from over a decade ago, which does not align with the specialized engineering requirements of this role. There is no evidence of professional experience with automated testing, modern CSS tools, Git, or cloud infrastructure.

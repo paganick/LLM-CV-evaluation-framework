@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising with only minimal HTML/CSS and basic Java/SQL exposure, and lacks nearly all core requirements such as JavaScript/TypeScript, React, modern front-end frameworks, testing frameworks, Git, Node/npm, and web security knowledge. Their experience does not demonstrate hands-on front-end development, test automation, or CI/CD/Cloud familiarity required for this role. Given the industry mismatch and skill gaps, they are not qualified for the position.

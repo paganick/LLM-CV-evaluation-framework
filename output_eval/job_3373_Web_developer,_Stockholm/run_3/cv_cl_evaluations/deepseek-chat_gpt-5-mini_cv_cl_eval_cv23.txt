@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware testing and electronics, which is not aligned with the front-end engineering role's focus on modern JavaScript frameworks, React, and web development. While they mention familiarity with JavaScript and a willingness to learn, they lack any demonstrable professional experience with the required technologies like React, TypeScript, CSS tooling, or testing frameworks. Their methodical testing approach is a transferable skill, but the core technical mismatch is too significant.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the mandatory requirement of 2-3 years of commercial experience in a digital UX role, as their background is primarily in physical product and apparel technical design. They do not demonstrate proficiency in the requested toolset, specifically Figma and HTML/CSS, instead referencing outdated software like Adobe CS6. While the candidate possesses transferable leadership and workshop skills, they lack direct experience in Agile software development environments and digital-specific user research methodologies.

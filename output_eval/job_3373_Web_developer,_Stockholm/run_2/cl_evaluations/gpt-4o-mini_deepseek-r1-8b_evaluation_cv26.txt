@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses relevant skills in project management, communication, and a willingness to learn new technologies, they lack direct experience with key requirements such as specific JavaScript frameworks, modern CSS tools, testing frameworks, and CI/CD tools. Their background in marketing and legal administration suggests transferable skills, but does not adequately fulfill the technical demands of the position.

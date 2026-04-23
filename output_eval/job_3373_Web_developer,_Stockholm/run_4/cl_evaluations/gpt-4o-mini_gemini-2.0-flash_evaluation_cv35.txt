@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in a technical role but lacks specific front-end development experience with the required technologies like React, TypeScript, and modern CSS tools. While they showcase a willingness to transition and learn, the absence of hands-on experience with mentioned frameworks and testing tools limits their suitability for the position.

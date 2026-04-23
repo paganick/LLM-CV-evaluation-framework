@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant stakeholder engagement and workshop experience from healthcare IT and demonstrates strong technical/system knowledge, which is partially transferable to UX. However they lack commercial UX/design experience, no evidence of Figma or prototyping skills, limited or no front-end (HTML/CSS/JS) exposure, and no clear UX research/testing or Agile UX delivery history. These gaps mean they are not sufficiently qualified for the role as described.

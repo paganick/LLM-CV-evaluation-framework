@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is in film and media production with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React, testing frameworks, Git, Node.js, or related front-end tooling. There is no evidence of web security, CI/CD, AWS/Terraform, or API development knowledge. This is a clear industry and skillset mismatch for the front-end engineering role.

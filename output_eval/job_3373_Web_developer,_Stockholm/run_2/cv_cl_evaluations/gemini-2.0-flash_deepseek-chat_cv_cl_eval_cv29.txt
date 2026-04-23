@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and sales, with limited direct experience in front-end development. While the cover letter mentions proficiency in JavaScript, TypeScript, HTML, and CSS and some project experience with React, the resume lacks substantial evidence of these skills. The candidate's experience does not align well with the job description's emphasis on hands-on experience with modern FE frameworks and testing.

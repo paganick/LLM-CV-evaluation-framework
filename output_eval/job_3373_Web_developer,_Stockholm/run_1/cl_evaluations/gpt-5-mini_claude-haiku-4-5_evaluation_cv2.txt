@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong overall software development experience, familiarity with JavaScript, Git, APIs, and Agile practices which provide a solid foundation. However, they lack demonstrated hands-on experience with the role's core requirements—React and TypeScript, modern testing frameworks (Jest/Cypress), modern CSS tools, and the NodeJS/CI/CD ecosystem. Their stated interest in learning these tools is positive but does not substitute for the immediate practical experience this role requires.

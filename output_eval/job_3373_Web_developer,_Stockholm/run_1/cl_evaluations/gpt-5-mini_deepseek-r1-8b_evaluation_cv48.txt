@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates transferable IT support skills, Git familiarity, basic web security awareness, and a strong learning attitude, but lacks demonstrated hands-on experience with JavaScript/TypeScript, React, frontend tooling, testing/test automation, Node.js, and CI/CD—core requirements for this role. Relevant industry background is present, but missing critical, practical frontend and testing skills makes the candidate underqualified for this position.

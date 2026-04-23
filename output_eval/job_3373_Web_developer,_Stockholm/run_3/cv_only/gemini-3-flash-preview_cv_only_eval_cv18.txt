@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive experience in general IT consultancy and systems administration, they lack the specific expertise required in modern frontend frameworks like React and TypeScript. The resume shows no evidence of experience with automated testing frameworks, modern CSS tools, or the NodeJS ecosystem. Their technical background is heavily focused on legacy web design and infrastructure management rather than specialized software engineering.

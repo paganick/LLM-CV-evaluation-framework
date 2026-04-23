@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, including JavaScript, HTML, and CSS, but lacks hands-on experience with modern frameworks like React, which is a primary requirement for the job. While they have some familiarity with testing frameworks, it's not explicitly mentioned that they have used them in a professional setting. Additionally, their knowledge in security principles is basic, which may not meet the expectations for the role.

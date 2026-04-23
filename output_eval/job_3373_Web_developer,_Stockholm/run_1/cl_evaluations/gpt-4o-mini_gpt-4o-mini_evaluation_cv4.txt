@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development, particularly with JavaScript and HTML/CSS, aligning well with the job description requirements. However, they lack specific experience with modern front-end frameworks beyond mentioning familiarity with Node.js and do not explicitly reference testing frameworks like TestCafe or Cypress, which are also part of the requirements.

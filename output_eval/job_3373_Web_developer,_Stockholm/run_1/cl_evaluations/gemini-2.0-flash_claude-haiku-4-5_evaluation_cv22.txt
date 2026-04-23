@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses enthusiasm and a willingness to learn React, they lack direct experience with the core technologies listed in the job description, especially TypeScript and testing frameworks. Their background is heavily focused on databases and marketing, requiring a significant transition. Although transferable skills are mentioned, the cover letter doesn't adequately demonstrate the necessary frontend development skills for an immediate contribution.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software development and databases but lacks the specific, hands-on front-end skills required by the job description. There is no demonstrated experience with modern FE frameworks like React, testing automation, or the specific toolchain (e.g., Jest, Cypress, Styled Components). While the candidate shows a willingness to learn, their background is heavily skewed toward server-side and legacy systems, making them a weak direct fit for this front-end role.

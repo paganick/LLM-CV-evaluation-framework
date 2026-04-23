@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is an experienced developer in the .NET and Python ecosystems but lacks professional experience with the core requirements of this role, specifically React and TypeScript. While they possess fundamental web knowledge (HTML/CSS/JavaScript), there is no evidence of proficiency in modern frontend testing frameworks (Jest, Cypress) or the required CI/CD and AWS tooling. The resume suggests a backend/data-heavy background rather than the specialized frontend expertise demanded by the job description.

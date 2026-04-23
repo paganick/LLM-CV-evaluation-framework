@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily focused on Java/J2EE and back-end architectures rather than modern front-end specialization. They lack the mandatory TypeScript proficiency and experience with modern JavaScript testing frameworks like Jest or Cypress, relying instead on Java-based Selenium tools. Additionally, the profile shows no evidence of experience with functional programming or modern CSS-in-JS tools such as Styled Components.

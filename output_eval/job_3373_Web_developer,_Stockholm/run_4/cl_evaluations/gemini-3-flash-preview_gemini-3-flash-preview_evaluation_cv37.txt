@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a comprehensive alignment with the technical requirements, specifically mentioning TypeScript, React, and automated testing protocols. While their professional history as a Director of IT and Project Manager suggests a higher level of seniority than typically required for a developer role, they explicitly address the hands-on and clean code aspects of the job description. They successfully cover key peripheral requirements such as web security, API design, and functional programming, making them a very strong technical match.

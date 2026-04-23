@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and a solid understanding of core technologies such as JavaScript, HTML, and CSS. However, they lack hands-on experience with modern frameworks like React, and their knowledge of testing frameworks and CI/CD tools is not clearly demonstrated. While they have a background in Agile environments, their experience appears more aligned with the .NET ecosystem rather than the requirements specified in the job description.

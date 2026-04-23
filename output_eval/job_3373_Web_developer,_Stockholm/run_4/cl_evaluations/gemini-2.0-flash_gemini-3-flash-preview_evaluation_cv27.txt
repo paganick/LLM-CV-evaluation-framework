@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant skills like HTML, CSS tools (SASS, Styled Components), and an understanding of Agile. However, the letter focuses heavily on non-development roles and lacks concrete examples of React experience and testing. While they express interest in technologies like NodeJS and API design, it remains unclear how proficient they are.

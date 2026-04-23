@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong foundational soft skills relevant to the industry, such as collaboration and problem-solving. However, they explicitly lack all required hands-on technical experience (JavaScript, TypeScript, React, testing, Git) listed in the job description. Their potential is based on a desire to learn, not on proven capability, making them a high-risk hire for a technical frontend role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the mandatory technical skills required for the role, specifically JavaScript, TypeScript, React, and automated testing, admitting they have yet to acquire these abilities. Their professional background is in an entirely unrelated industry, providing no evidence of software development experience or familiarity with the modern frontend ecosystem. This profile is completely unqualified for a technical engineering position.

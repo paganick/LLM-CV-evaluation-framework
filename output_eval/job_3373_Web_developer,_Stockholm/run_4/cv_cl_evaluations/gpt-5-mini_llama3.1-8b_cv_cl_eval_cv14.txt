@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid web development experience (ASP.NET, HTML/CSS, JavaScript, Git) and demonstrated collaboration in agile teams, but the resume lacks proven experience with core requirements like modern frontend frameworks (React/TypeScript), frontend testing automation, modern CSS tooling, NodeJS ecosystem usage, and cloud/infra familiarity. The cover letter asserts these skills, but they are not substantiated in the resume or project details, making the candidate relevant to the industry but missing critical, verifiable skills for this role.

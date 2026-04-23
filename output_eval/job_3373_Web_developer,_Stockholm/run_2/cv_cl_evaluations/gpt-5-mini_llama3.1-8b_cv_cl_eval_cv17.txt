@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in civil/construction engineering and project management with no demonstrated, hands-on front-end development skills (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, NodeJS, Git workflows, or cloud/CI tools required for the role. The cover letter admits lack of direct software experience and only cites recent self-study, which does not meet the technical requirements for a production front-end engineer. This is a wrong-industry profile and not qualified for the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics technician whose experience is centered on hardware validation, circuit troubleshooting, and manual QA testing rather than software engineering. They lack the required professional experience with React, TypeScript, and modern CSS tools, and their mention of "Java script" as a basic skill does not meet the level of seniority or specialization requested. The candidate’s background in electronics and light plumbing is largely irrelevant to a high-level web development role.

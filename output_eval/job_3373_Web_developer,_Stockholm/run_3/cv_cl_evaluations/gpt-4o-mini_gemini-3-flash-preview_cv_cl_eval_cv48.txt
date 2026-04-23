@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid background in technical consulting and systems administration but lacks direct experience with frontend development technologies explicitly mentioned in the job description, such as JavaScript, TypeScript, and modern frameworks like React. While they show an interest in these areas, their experience appears more aligned with IT support rather than a dedicated focus on frontend technologies and development practices. Additionally, there is limited mention of actual coding experience which is essential for the role.

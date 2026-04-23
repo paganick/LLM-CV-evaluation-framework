@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates a strong design background with some modern frontend skills. However, the cover letter lacks explicit, direct mention of several key technical requirements from the job description, including testing frameworks, Git, CI/CD, and specific tools like ESLint, Prettier, and Ramda. The transition from design to development is noted, but the depth of hands-on engineering experience with the full required stack is not convincingly proven.

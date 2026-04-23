@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate exceeds the minimum experience and demonstrates strong user-centered design, Agile delivery, workshop facilitation, roadmap and mentoring experience relevant to the role. However, they lack demonstrable proficiency with Figma and no clear evidence of HTML/CSS/JS exposure or having owned/managing a UI Design System, which are important requirements for this position. Given the gap on key tool and technical requirements, they are a good but not ideal match.

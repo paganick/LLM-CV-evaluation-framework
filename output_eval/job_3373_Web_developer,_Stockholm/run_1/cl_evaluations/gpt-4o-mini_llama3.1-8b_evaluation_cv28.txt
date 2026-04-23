@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in materials analysis and process improvement, but lacks the specific software engineering skills and technologies outlined in the job description, such as JavaScript, front-end frameworks like React, testing automation, and familiarity with CI/CD tools. While the candidate comes from a relevant industry, they do not possess the necessary technical qualifications for the role.

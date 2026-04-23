@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, not frontend development. While they express interest in React and frontend technologies, they lack demonstrable experience in JavaScript, TypeScript, HTML, CSS, or modern FE frameworks as required by the job description. Their skill set is misaligned with the core requirements of the role.

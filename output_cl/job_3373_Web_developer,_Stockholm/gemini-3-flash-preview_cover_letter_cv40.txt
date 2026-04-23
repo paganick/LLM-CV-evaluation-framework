@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Engineer position. With a career defined by shipping high-quality software and a deep-rooted fascination with the intersection of media and technology, I am eager to bring my technical expertise and leadership background to your development team.
+
+Throughout my tenure at organizations like ReverbNation and Brightcove, I have remained hands-on with the evolution of web technologies. My foundation in Computer Science and Computer Graphics from Hampshire College has evolved into a dedicated practice of writing clean code using JavaScript and TypeScript. Having led teams through the transition to mobile responsive products, I possess a refined understanding of modern CSS tools like SASS and Styled Components.
+
+I am a strong advocate for the Agile methodology, having successfully implemented Scrum frameworks to replace legacy waterfall processes. This experience has taught me that high-quality software is built on a foundation of robust testing. I am proficient in establishing unit, integration, and E2E testing suites using frameworks like Jest and Cypress to ensure stability. Furthermore, my experience with API design and the Node.js ecosystem, including Express.js and Ramda, allows me to understand the full domain.
+
+Collaboration is at the heart of my professional philosophy. I am comfortable interacting with cross-functional teams and external partners to translate complex business needs into elegant technical solutions. My familiarity with Git, CI/CD tools like CircleCI and cloud environments such as AWS and Terraform ensures that I contribute effectively to the entire deployment pipeline. I am particularly drawn to your team's use of React and your commitment to clean code, as these align with my personal standards for engineering excellence.
+
+I am eager to apply my skills and technical knowledge to help your team build the next generation of web applications. I believe my background in digital media solutions and online advertising provides a unique perspective on user engagement and platform scalability. I am especially keen on understanding the full domain and other platforms beyond my immediate area of expertise. I am genuinely dedicated to keeping up to date with the latest technologies and look forward to the possibility of discussing how my unique blend of product insight and technical proficiency can contribute to your continued success.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong backend Java and test automation background but lacks the specific, hands-on modern frontend experience required. The job description emphasizes React, TypeScript, modern CSS tools, and functional programming (Ramda), which are not substantiated in the candidate's resume or cover letter. While they have some exposure to ReactJS and Agile, their primary expertise is in a different tech stack (Java/Spring/Selenium), making them a relevant industry candidate but lacking the specific skills for this frontend-focused role.

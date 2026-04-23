@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in data analysis and quality engineering but lacks direct experience in front-end development, specifically with modern frameworks like React, as mentioned in the job description. While they possess some relevant skills in JavaScript, TypeScript, HTML, and CSS, their practical application in a professional environment appears limited. The candidate's familiarity with testing frameworks and modern CSS tools is a plus, but overall, they do not fully meet the specific technical requirements for the position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in construction and project management with no demonstrated hands-on experience in JavaScript/TypeScript, React, frontend frameworks, testing tools, NodeJS, or other technical requirements listed. Although strong in Agile collaboration and project execution, those transferable skills do not compensate for the complete lack of required frontend engineering and tooling experience. The applicant is therefore not qualified for this technical role.

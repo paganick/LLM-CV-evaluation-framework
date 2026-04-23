@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in project management and relevant technical skills, particularly with React and testing frameworks mentioned in the job description. However, there is no mention of experience with TypeScript, which is a key requirement, and their familiarity with AWS and Terraform is not addressed, slightly reducing their overall score.

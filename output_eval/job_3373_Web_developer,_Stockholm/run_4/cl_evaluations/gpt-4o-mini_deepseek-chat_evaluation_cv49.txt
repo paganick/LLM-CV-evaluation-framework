@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in JavaScript, TypeScript, HTML, and CSS, and demonstrates an analytical approach which is beneficial for frontend development. However, they lack direct experience with modern frontend frameworks like React, as well as specific knowledge of testing frameworks and CI/CD tools mentioned in the job description. Their background in data analysis is a strong foundation but does not fully meet the expectations for a Frontend Developer role.

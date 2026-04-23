@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical requirements, including proficiency in JavaScript, TypeScript, React, and automated testing. Their 34-year career is rooted in graphic design and fine arts rather than software engineering, with "some HTML" being the only relevant technical skill mentioned. Consequently, the applicant is entirely unqualified for a role requiring hands-on experience with modern frontend frameworks, Git, and CI/CD pipelines.

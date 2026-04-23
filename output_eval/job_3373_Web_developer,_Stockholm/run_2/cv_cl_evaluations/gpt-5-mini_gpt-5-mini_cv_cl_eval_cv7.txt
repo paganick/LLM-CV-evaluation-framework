@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has a strong background in graphic and web design but lacks any demonstrated hands-on experience with core front-end engineering requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Git, Node/npm, CI/CD, web security). Their cover letter expresses willingness to learn, and they bring transferable skills in design, collaboration and quality control, but those do not compensate for the absence of required technical experience for this role. As submitted, the profile is not qualified for the position.

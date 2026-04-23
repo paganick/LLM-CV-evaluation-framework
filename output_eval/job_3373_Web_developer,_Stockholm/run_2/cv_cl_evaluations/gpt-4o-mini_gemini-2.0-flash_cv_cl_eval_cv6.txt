@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in frontend and backend development and possesses skills in JavaScript, HTML, and CSS, but lacks specific experience with React, which is crucial for the position. While the candidate demonstrates a willingness to learn and has some familiarity with testing methodologies and Git, the absence of hands-on experience with modern frameworks and certain required tools lowers their suitability for this role.

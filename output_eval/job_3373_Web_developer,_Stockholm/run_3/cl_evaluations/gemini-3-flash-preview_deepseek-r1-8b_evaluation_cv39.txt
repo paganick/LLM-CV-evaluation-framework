@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a senior graphic designer whose profile fails to address the specific technical requirements of this engineering-heavy role. There is no mention of JavaScript, TypeScript, React, or automated testing frameworks, which are core necessities for the position. While the applicant has extensive design experience, they lack the requisite software development skills and technical stack proficiency defined in the job description.

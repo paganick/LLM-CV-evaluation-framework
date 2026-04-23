@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing automation, and the listed tooling. The cover letter effectively maps experience to the job description's specifics. The score is not a 9 or 10 because the candidate does not explicitly mention several desired items like VueJS/Svelte, specific testing frameworks (Jest, Cypress), Styled Components, or API design, though their broad experience suggests capability.

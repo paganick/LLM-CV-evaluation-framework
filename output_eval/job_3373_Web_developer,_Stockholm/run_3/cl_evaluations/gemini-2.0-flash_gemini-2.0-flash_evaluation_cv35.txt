@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in marketing automation, not front-end development. While they express interest in React and have some foundational knowledge of HTML, CSS, and JavaScript, they lack the hands-on experience with modern FE frameworks, testing frameworks (Jest, Cypress etc), and other tools mentioned in the job description. The letter indicates a desire to transition rather than demonstrated proficiency.

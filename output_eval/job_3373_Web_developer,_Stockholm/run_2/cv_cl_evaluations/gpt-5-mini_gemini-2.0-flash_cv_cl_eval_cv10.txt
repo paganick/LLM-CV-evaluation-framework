@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has foundational front-end experience (HTML5, CSS, JavaScript, AngularJS), some test automation experience, and Agile exposure, which is relevant to the role. However, they lack critical required skills — no evidence of React or TypeScript, modern testing frameworks (Jest/Cypress), Node/npm ecosystem experience, modern CSS tooling, CI/CD, or web security knowledge — making them an insufficient match for this position.

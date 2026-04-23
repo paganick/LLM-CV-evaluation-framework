@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific modern FE frameworks besides AngularJS, which is outdated. There's no mention of React, a primary requirement, and limited experience with modern testing frameworks. While they mention Git, their experience seems more aligned with TFS and JIRA.

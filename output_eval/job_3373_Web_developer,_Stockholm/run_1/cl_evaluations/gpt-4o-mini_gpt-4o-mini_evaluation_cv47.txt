@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in programming and business development, but does not fully meet the technical skills required for the front-end developer position. There is no mention of JavaScript, TypeScript, or experience with modern CSS tools and testing frameworks as specified in the job description. They demonstrate a willingness to learn but lack hands-on experience with the key technologies and frameworks listed.

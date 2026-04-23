@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in the Front End Developer position. While my resume details a successful nine-year career in banking and team leadership, it represents a foundational history of complex problem-solving, meticulous project management, and user-centric program design—all skills I am now passionately applying to software engineering. My recent, intensive focus has been on mastering the modern JavaScript ecosystem, and I am confident my unique background brings a valuable perspective to your development team.
+
+I have built a robust technical foundation in **JavaScript, TypeScript, HTML, and CSS**, with dedicated expertise in **React**. I develop with a genuine passion for writing clean, maintainable code and employ tools like **ESLint and Prettier** to enforce quality. My practical experience includes building applications with **Styled Components** and **SASS**, and I am committed to comprehensive testing using frameworks like **Jest**. I am well-versed in **Git/GitHub** for version control and understand the critical importance of web security principles, including **OWASP** guidelines and **CORS**.
+
+My professional history has been defined by translating complex requirements into successful outcomes. For instance, deploying original sales training programs for hundreds of employees required the same analytical approach to identifying KPIs and trends that I now use to debug code and optimize user interfaces. Managing multi-million dollar budgets and high-value client accounts honed my precision and accountability, traits I carry into managing codebases and project deliverables. Furthermore, my extensive experience collaborating with cross-functional teams, external partners, and diverse stakeholders in fast-paced, **Agile**-adjacent environments ensures I can integrate seamlessly and communicate effectively with both technical and non-technical colleagues.
+
+I am particularly drawn to your stack, including **React, Node.js, and Ramda** for functional programming, and I am eager to contribute to a team that values clean code and continuous learning. My career pivot is driven by a deep interest in technology and creation, and I am keen to leverage my unique blend of strategic leadership and new technical skills to contribute to your projects.
+
+Thank you for considering my application. I look forward to discussing how my background and skills can benefit your team.
+
+Sincerely, Alexis

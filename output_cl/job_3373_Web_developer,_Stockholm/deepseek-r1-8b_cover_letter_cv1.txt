@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position detailed in your job description. With a solid foundation in modern web technologies and extensive experience in test automation, I am confident that I possess the skills and passion required to make a significant contribution to your team.
+
+My expertise aligns closely with your requirements. I have a strong proficiency in JavaScript, TypeScript, HTML, and CSS, and hands-on experience with React for frontend development. My background includes creating and maintaining robust test automation frameworks using Selenium and Cucumber, ensuring high-quality software through comprehensive testing strategies. I am adept at implementing Git workflows and integrating tests into CI/CD pipelines like Jenkins, facilitating efficient development processes.
+
+Furthermore, I am passionate about writing clean, maintainable code and collaborating effectively within Agile environments. My experience includes developing user interfaces with React and ensuring code adheres to best practices. I am committed to staying current with industry trends and possess a basic understanding of web security principles, including OWASP, CSP, and OAuth.
+
+My educational background and professional experience have equipped me with the technical skills and collaborative mindset necessary to excel in this role. I am eager to apply my skills in test automation, frontend development, and Agile collaboration to support your projects.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to your team and look forward to discussing how my skills align with your needs.
+
+Sincerely,
+Alexis

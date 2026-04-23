@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a background in web design and some HTML/CSS experience, but lacks the required JavaScript, TypeScript, and modern FE framework expertise. While they express interest in learning React and modern tools, their current skill set doesn't align with the core requirements. Their experience is heavily design-focused rather than development-focused.

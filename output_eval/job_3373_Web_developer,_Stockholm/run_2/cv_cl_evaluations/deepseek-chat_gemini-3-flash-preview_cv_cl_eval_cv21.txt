@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET, ASP, and AngularJS, with no demonstrated experience in the required modern React stack, TypeScript, or key tools like Jest, Cypress, or Styled Components. While they mention Agile collaboration and a willingness to learn, their resume lacks concrete, recent experience with the core technologies listed in the job description. Their background in web security and testing is inferred from domain experience rather than proven with the specified tools and frameworks.

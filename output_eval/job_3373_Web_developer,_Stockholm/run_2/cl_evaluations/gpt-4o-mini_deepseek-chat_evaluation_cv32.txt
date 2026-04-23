@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant technical skills in JavaScript, TypeScript, HTML, CSS, and React, but lacks hands-on experience with testing frameworks beyond Jest, and does not mention familiarity with key tools such as GitHub, CI/CD, or modern CSS techniques. While the candidate's customer service background provides valuable soft skills, the limited direct experience in a software development environment may hinder their ability to fully meet the demands of the position.

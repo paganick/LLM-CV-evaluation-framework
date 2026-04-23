@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundational understanding of HTML, CSS, and JavaScript but lacks experience with modern FE frameworks like React, the primary framework used by the company. Their experience leans towards older technologies such as ASP.NET and Flash, and they have no listed experience with TypeScript, testing frameworks, or CI/CD tools, which are all listed as requirements. While the candidate expresses a willingness to learn, their current skill set does not align with the job description's requirements for a modern front-end developer.

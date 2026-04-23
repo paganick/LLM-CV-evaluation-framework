@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates foundational web skills (HTML, CSS, JavaScript) and broad IT experience, but their resume and cover letter do not show concrete, recent experience with core requirements such as React, TypeScript, modern testing frameworks/automation, Node/npm ecosystem, modern CSS tooling, CI/CD, or cloud/infra knowledge. Familiarity claims are high-level and unproven by specific projects or tools (e.g., Git, Jest/Cypress, ESLint/Prettier), so they are not yet a strong match for this frontend role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in broad IT management and support, not specialized modern front-end development. While they list foundational web technologies (HTML, CSS, JavaScript), they lack demonstrable, professional experience with the required React framework, TypeScript, testing automation, and modern tooling (e.g., Jest, CI/CD). Their experience is outdated and not aligned with the specific, senior-level technical proficiencies required for the role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is completely unqualified for the Frontend Developer position. The cover letter describes business development and sales experience with no mention of JavaScript, TypeScript, React, or any of the required technical skills. The candidate has applied for the wrong position entirely, as their background in cloud software sales and marketing strategy bears no relevance to frontend development requirements. There is no evidence of programming experience, testing frameworks, or any of the technical competencies listed in the job description.

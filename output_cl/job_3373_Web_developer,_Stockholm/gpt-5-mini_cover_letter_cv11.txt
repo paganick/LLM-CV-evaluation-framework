@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software testing professional with over three years of hands‑on experience in manual and automated testing for web and mobile applications. My background includes preparing and executing test plans and cases, developing automated tests with Selenium WebDriver and Google UI Automator, and performing cross‑browser, cross‑platform and responsive testing for e‑commerce, banking, insurance and GIS projects. I hold an ISTQB certification and a Master of Engineering Studies in Software Engineering from the University of Auckland.
+
+In previous roles I collaborated closely with business analysts, developers and project coordinators within Agile teams to translate functional and technical requirements into clear, maintainable tests. I have experience coordinating integration testing with external systems and working directly with clients to reproduce and resolve issues. I also led and mentored a team of twenty testers on a Google Play and Google Maps related project, managing test documentation and reporting to support timely releases.
+
+My technical strengths include JavaScript, HTML and XML, scripting for automation, and working with databases such as MySQL and SQL Server. I am comfortable writing and maintaining comprehensive test documentation, performing system, integration, regression and performance testing, and applying risk management to meet tight deadlines. I consistently focus on delivering high quality, reliable software and on improving processes where possible.
+
+I regularly use bug tracking and project tools such as Jira and Buganizer to manage issues and progress, and I have conducted user acceptance, system integration and performance testing. My retail testing work includes sites such as maxshop.com, smithandcaugheys.co.nz, walkerandhall.co.nz, numberoneshoes.co.nz and overlandfootware.co.nz, giving me practical insight into customer‑facing flows. I apply risk management techniques to prioritize testing efforts effectively and efficiently.
+
+Although my primary background is in testing rather than front‑end development, I am eager to extend my skills to modern front‑end technologies and tools used by your team. I keep up to date with new frameworks and testing practices and I am motivated to learn React, TypeScript, modern CSS tooling and JavaScript testing frameworks to support effective unit, integration and end‑to‑end testing. My hands‑on automation experience, strong analytical skills and collaborative approach make me well suited to contribute to a cross‑functional Agile team and to help ensure robust, secure web experiences.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my testing expertise and commitment to quality can support your team.
+
+Sincerely, Alexis

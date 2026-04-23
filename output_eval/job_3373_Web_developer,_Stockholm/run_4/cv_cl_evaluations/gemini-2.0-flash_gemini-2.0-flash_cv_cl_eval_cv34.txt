@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some familiarity with web technologies like HTML and CSS, but lacks the required JavaScript and modern FE framework experience (React, VueJS, Angular, Svelte). While they express interest in learning, the resume heavily focuses on Salesforce Marketing Cloud and digital marketing, making it a weak fit for a Front-End Developer role. There is no evidence of testing, Git, or security knowledge.

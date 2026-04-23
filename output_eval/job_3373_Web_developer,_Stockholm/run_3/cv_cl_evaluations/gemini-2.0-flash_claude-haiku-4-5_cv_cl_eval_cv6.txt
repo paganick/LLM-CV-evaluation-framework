@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates frontend experience, particularly with JavaScript, HTML, and CSS, but the resume highlights Drupal development, which is not the primary focus of the job description. While they mention some modern CSS tools and testing experience, the depth of knowledge in React, Node.js ecosystem, and CI/CD is not clearly established. The cover letter attempts to bridge these gaps, but the resume doesn't strongly support it.

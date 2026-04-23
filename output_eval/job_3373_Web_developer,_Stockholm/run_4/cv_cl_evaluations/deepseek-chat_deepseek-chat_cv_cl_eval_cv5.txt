@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's core expertise is in IBM Mainframe technologies (COBOL, CICS, DB2), which is a completely different technical stack and industry domain from the modern frontend development role specified. While the cover letter attempts to bridge the gap by mentioning foundational web skills, the resume provides no concrete evidence of professional experience with React, TypeScript, modern testing frameworks, or any other key technologies from the job description. This represents a fundamental mismatch in required skills and professional background.

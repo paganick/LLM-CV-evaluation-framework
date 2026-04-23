@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong healthcare IT, systems engineering, documentation and stakeholder workshop experience but lacks any demonstrated commercial UX designer experience, prototyping with Figma, or front-end (HTML/CSS/JS) exposure required for this role. There is no clear evidence of running Agile ceremonies, formal user research, or producing low/high-fidelity prototypes and managing a UI design system. Transferable skills in stakeholder engagement and process improvement are present, but they do not sufficiently meet the core UX-specific requirements.

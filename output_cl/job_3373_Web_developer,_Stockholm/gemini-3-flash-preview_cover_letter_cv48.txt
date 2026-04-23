@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+With over twelve years of experience in technical consulting and systems administration, I am excited to apply for the position. My career has been defined by a commitment to technical excellence and a drive for continuous improvement, which has recently focused on mastering modern frontend technologies like JavaScript, TypeScript, and React.
+
+My background as an Information Technology Specialist has provided me with a robust foundation in managing complex systems. Having supported over 480 devices and 44 VMware servers, I possess a deep understanding of how software interacts with infrastructure. This experience directly translates to a sophisticated understanding of web security, including OWASP and CORS, especially given my hands-on work with FINRA and PCI compliance audits. I am particularly drawn to your team’s use of React and functional programming with Ramda, as I share your genuine passion for writing clean, modular, and efficient code.
+
+In my previous roles, I have demonstrated a high level of proficiency in troubleshooting and problem-solving. Whether maintaining network racks, managing BDR data recovery systems, or troubleshooting servers, I have always prioritized architectural integrity and performance. I am highly comfortable working in Agile environments and have a proven track record of successful collaboration with external partners and cross-functional teams. My experience with CMS platforms like Joomla and WordPress served as a gateway to my interest in full-stack development, leading me to gain familiarity with the NodeJS ecosystem, npm, and modern CSS tools like SASS and Styled Components.
+
+I am well-versed in Git for version control and understand the vital importance of automated testing including unit, integration, and E2E tests to ensure software reliability. Furthermore, my background in network infrastructure and certifications like CompTIA Net+ gives me a unique perspective when working with AWS and CI/CD tools like CircleCI. I take great pride in being a lifelong learner; my certifications from bodies like CompTIA, Microsoft, and Hewlett Packard allow me to think outside the box to create custom solutions that best fit client needs.
+
+What sets me apart is my ability to bridge the gap between complex technical requirements and user-centric solutions. I am eager to bring my troubleshooting proficiency and vast technical knowledge to your engineering team, where I can contribute to the full domain of your platform. Thank you for your time and consideration. I look forward to discussing how my background can contribute to your success.
+
+Sincerely,
+Alexis

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in microbiology and consulting, which does not directly relate to frontend development. While they demonstrate transferable skills such as collaboration and attention to detail, they lack specific experience with required technologies and frameworks like JavaScript, React, and the associated testing and deployment tools mentioned in the job description.

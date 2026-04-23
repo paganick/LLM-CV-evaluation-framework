@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant full-stack experience, solid foundations in JavaScript/HTML/CSS, SASS, Git, backend databases, Bash, API integration and Agile collaboration, but lacks explicit hands-on experience with React, TypeScript, the Node/npm ecosystem, common frontend testing frameworks and test automation, and basic web security/CI/CD tooling required by the role. These missing, central technical competencies reduce their immediate fit for a React/TypeScript-heavy position despite strong adjacent skills and the ability to learn.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate is a Director of Business Development with 8+ years in sales, marketing, and business strategy—completely outside the frontend software engineering domain required for this position. The resume contains no evidence of JavaScript, TypeScript, React, testing frameworks, Git, CSS, or any technical development skills. While the candidate demonstrates strong communication and organizational abilities, they lack the fundamental technical qualifications needed for a frontend engineering role, making them unsuitable for this position.

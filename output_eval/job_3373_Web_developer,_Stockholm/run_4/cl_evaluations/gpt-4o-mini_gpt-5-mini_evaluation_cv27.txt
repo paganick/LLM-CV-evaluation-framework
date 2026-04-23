@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in design and project management but lacks direct experience with the specific technical skills required for the position, such as JavaScript, TypeScript, and modern testing frameworks. Additionally, the candidate's experience with front-end development tools, while mentioned, is limited, and they do not demonstrate familiarity with essential tools like Git, modern CSS solutions, or CI/CD practices. Overall, the candidate shows potential but does not fully meet the technical requirements for this role.

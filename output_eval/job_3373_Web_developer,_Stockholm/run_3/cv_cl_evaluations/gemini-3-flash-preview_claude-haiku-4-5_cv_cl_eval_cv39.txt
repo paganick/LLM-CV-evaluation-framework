@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer who lacks nearly all the required technical skills, including proficiency in JavaScript, TypeScript, React, and automated testing. While they possess a strong visual design background and "some HTML" knowledge, they have no professional experience with modern frontend engineering workflows, version control, or cloud infrastructure. As a result, they do not meet the minimum technical qualifications for this developer role.

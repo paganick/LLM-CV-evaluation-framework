@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in software development and Agile environments, they lack the specific modern front-end stack required, notably React and TypeScript. Their technical background is heavily centered on the .NET ecosystem and legacy frameworks like AngularJS and jQuery, which does not align with the modern JavaScript/Node.js requirements. Furthermore, the resume shows no evidence of experience with essential tools mentioned in the job description, such as Git, Jest, Cypress, AWS, or CI/CD pipelines.

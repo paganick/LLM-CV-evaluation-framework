@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong, relevant web and backend experience, a testing mindset, and familiarity with Agile practices, but the cover letter does not demonstrate hands-on experience with key requirements: React and TypeScript, modern JS testing frameworks (Jest/Cypress/TestCafe), Git/GitHub, modern CSS tooling (Styled Components/SASS), Node/Express, or CI/cloud tooling. With training they could become a fit, but as presented they lack several specific, required technologies for this role.

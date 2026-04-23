@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in data analysis and quality assurance, not front-end development, which is a significant mismatch for the core role. While they demonstrate strong analytical skills and a willingness to learn, they lack any stated hands-on experience with the required technologies (JavaScript, TypeScript, React, testing frameworks, Git). Their experience with HTML and web scraping is insufficient to meet the job's technical requirements.

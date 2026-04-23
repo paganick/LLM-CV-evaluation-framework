@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, not software engineering. They lack any professional experience with the required technologies (React, TypeScript, modern testing, Git, etc.) and the job's core domain. While they express eagerness to learn, their technical skills are limited to foundational HTML and outdated C/C++, making them completely unqualified for this specific front-end developer role.

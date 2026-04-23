@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Graphic Designer with no professional experience in software engineering or modern front-end development. They lack all critical technical requirements, including JavaScript, TypeScript, React, and automated testing frameworks. The resume focuses on visual design and print media, which is entirely outside the scope of this Senior Front-End Developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant to the tech industry but lacks the specific, hands-on technical experience required. The cover letter mentions foundational web skills and a desire to learn, but demonstrates no proven experience with JavaScript, React, testing, version control, or other core technologies listed in the job description. While soft skills like collaboration and communication are a good fit, the absence of required technical competencies makes them unqualified for the role as advertised.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is relevant but lacks the specific, hands-on experience required for the role. While they demonstrate strong analytical skills and a willingness to learn, they do not possess proven expertise in the core technologies listed in the job description, such as JavaScript, React, TypeScript, or modern testing frameworks. Their professional experience is in consulting and media, not in frontend development, making them a high-potential but currently underqualified candidate.

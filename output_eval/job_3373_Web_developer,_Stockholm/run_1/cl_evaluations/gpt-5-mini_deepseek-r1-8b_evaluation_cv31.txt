@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in sales and management with no demonstrated hands-on experience in the required front-end technologies (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Node/npm, or web security practices. While they show transferable leadership, Agile collaboration, and a willingness to learn, these do not meet the technical skillset and tooling requirements for this role. As presented, the application is unqualified for the technical responsibilities outlined.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate meets the baseline requirements (5 years’ experience, Agile experience, workshop facilitation, and design system work) and can act as the "voice of the user." However they explicitly lack Figma experience (listed as highly desirable), provide no clear evidence of HTML/CSS/JS exposure, and give limited detail on formal user research methods and hands-on team leadership/mentoring. Overall relevant to the role but missing several key, job-specific skills.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics and hardware validation technician with no professional experience in software engineering or modern front-end development. They lack the required expertise in React, TypeScript, and automated testing frameworks like Jest or Cypress, which are core to this role. While they have a background in manual testing, their skill set is primarily hardware-oriented and does not meet the technical requirements of the job description.

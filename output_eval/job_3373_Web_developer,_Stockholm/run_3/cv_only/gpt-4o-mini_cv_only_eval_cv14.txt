@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in web development and familiar technologies like HTML, CSS, and JavaScript. However, they lack direct experience with modern front-end frameworks like React, TypeScript, and specific testing frameworks required for the position. Additionally, while they have experience with GitHub, they do not demonstrate knowledge in areas such as CI/CD tools or functional programming, which are important for the role.

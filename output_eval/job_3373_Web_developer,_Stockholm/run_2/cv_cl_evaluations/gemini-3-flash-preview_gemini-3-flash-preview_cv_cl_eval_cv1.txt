@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is primarily a Java-focused Full Stack Developer and Test Automation Engineer rather than a specialized Frontend Engineer. While they have experience with React and SASS, they lack professional experience with TypeScript, functional programming libraries like Ramda, and modern JS testing frameworks like Cypress or Jest. The profile demonstrates relevant industry knowledge but fails to meet the specific depth of modern frontend expertise required for this role.

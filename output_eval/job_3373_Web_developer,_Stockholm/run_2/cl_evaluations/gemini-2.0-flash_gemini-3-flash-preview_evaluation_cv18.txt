@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive IT experience and mentions proficiency in JavaScript, HTML5, and CSS, aligning with the job description's core requirements. They highlight experience with React and functional programming (Ramda), which is a plus. However, the letter leans heavily on general IT experience rather than showcasing specific frontend projects and quantifying achievements.

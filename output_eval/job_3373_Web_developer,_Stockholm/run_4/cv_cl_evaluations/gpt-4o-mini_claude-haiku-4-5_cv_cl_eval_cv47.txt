@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience lies primarily in business development, which does not directly relate to the frontend development role. While they possess some technical skills in HTML and programming fundamentals, they lack specific experience with modern frontend technologies like React, TypeScript, and the required testing frameworks. Their eagerness to transition into software development is noted, but the absence of relevant experience inhibits a stronger score.

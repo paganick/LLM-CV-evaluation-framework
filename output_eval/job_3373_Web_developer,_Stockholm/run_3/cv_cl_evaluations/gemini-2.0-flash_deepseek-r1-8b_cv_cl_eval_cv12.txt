@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript and CSS, but their experience is primarily in PHP and older technologies. They lack specific experience with modern FE frameworks like React, testing frameworks mentioned in the job description, and modern CI/CD tools. Their cover letter expresses eagerness to learn, but the resume doesn't demonstrate practical experience in the core technologies used by the company.

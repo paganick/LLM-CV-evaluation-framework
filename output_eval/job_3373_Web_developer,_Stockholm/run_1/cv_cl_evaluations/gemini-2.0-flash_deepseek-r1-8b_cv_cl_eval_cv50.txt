@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter do not demonstrate any skills or experience in the technologies listed in the job description. The candidate's experience is primarily in business development, project management, and quality engineering within the aerospace and insurance industries, which is not relevant to a front-end developer role. There is no mention of JavaScript, React, or any other relevant technologies.

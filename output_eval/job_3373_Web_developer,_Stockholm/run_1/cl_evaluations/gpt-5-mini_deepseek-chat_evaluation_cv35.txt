@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid hands-on experience with HTML, CSS, JavaScript, APIs, web security concepts, testing methodology, and cross-functional Agile work—making them relevant to the role. However, they do not explicitly show experience with key stack items required by this position: TypeScript, React (the team's framework), modern CSS tooling (Styled Components/SASS), Node/npm ecosystem, common JS testing frameworks (Jest/Cypress), linters/formatters, Ramda/functional patterns, CI/CD, or AWS/Terraform, which prevents a higher score.

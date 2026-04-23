@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in marketing automation, lacking direct experience with the required front-end technologies (JavaScript, TypeScript, React, HTML, CSS). While the candidate mentions systems integration and testing, this is in the context of marketing platforms, not web development. The resume and cover letter highlight marketing automation platforms such as Eloqua and Salesforce, which are not relevant to the job description's technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong analytical and programming experience in data science (R, Python, SQL) and expresses a clear desire to transition to frontend development. However, there is no demonstrable hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, frontend testing frameworks, Node.js/npm, or established Git workflows—core requirements for this role. Transferable skills and a learning mindset are positives, but the lack of practical frontend projects and tooling proficiency makes them unsuitable for this position at this time.

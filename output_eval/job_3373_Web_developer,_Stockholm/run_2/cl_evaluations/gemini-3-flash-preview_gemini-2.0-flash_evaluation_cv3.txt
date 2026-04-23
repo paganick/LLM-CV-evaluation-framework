@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required proficiency in the primary tech stack, specifically React, TypeScript, and automated testing frameworks. While they possess foundational web knowledge, their mention of outdated technologies like Java Applets and a desire to "learn" the core framework indicates they are not job-ready for this specific role. Furthermore, the application fails to demonstrate any experience with critical requirements such as Git, CI/CD, or modern security protocols.

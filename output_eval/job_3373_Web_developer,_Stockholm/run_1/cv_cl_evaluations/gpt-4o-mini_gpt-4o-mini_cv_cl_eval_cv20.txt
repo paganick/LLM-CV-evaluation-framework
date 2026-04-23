@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development and mentions proficiency in JavaScript, HTML, and CSS, as well as experience with Agile methodologies. However, while they claim familiarity with React, there is no substantial evidence in their experience to demonstrate hands-on work with modern frontend frameworks or testing automation, which are critical for the role. They also lack specific experience with other technologies mentioned in the job description, such as functional programming and advanced CSS tools.

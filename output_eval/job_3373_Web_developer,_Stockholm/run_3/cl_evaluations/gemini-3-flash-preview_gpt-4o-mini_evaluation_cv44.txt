@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate claims proficiency in the core stack and has a Computer Science degree, their five years of experience are primarily in UX/UI design rather than engineering. They lack the required hands-on experience with testing frameworks and omit mention of essential tools like Git, while citing outdated software like Adobe Dreamweaver. This profile suggests a designer transitioning to development rather than the experienced front-end engineer specified in the job description.

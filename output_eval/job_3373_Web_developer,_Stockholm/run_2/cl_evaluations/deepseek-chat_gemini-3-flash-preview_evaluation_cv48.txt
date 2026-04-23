@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, Git, and web security. Their extensive systems background provides a unique, valuable perspective on infrastructure and reliability. However, the cover letter lacks explicit mention of several listed tools (e.g., specific testing frameworks, linters, AWS/Terraform details), which prevents a perfect score despite a very strong overall match.

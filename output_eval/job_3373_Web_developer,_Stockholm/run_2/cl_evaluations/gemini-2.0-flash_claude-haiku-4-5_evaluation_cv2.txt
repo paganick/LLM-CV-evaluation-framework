@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience but primarily in backend and full-stack roles. While they express interest in frontend and mention familiarity with JavaScript, jQuery, and Bootstrap, they lack specific, demonstrable experience with React, a key requirement. Their knowledge of testing frameworks seems limited to a Java context, not frontend.

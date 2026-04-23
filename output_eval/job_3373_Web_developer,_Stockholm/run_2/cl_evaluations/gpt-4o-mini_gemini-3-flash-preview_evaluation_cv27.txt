@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a solid background in relevant front-end technologies such as HTML, CSS, and some experience with React, aligning well with the job requirements. However, there is no mention of expertise in TypeScript, specific testing frameworks, or CI/CD tools, which may limit their effectiveness in the role. Overall, while they are a strong candidate, they do not fully meet all qualifications.

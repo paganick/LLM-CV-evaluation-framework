@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified for this position, lacking almost all core technical requirements including JavaScript, TypeScript, React, and modern CSS tooling. Their professional background is centered on data analytics and environmental science, which does not align with the specialized frontend engineering needs of this role. While they possess general programming knowledge in C# and Python, they lack the specific industry experience and framework proficiency mandated by the job description.

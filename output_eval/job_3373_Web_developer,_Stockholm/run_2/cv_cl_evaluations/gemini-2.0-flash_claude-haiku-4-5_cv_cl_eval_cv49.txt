@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and systems engineering, lacking direct experience with the core frontend technologies listed in the job description. While they express interest and willingness to learn, the resume and cover letter don't demonstrate sufficient practical experience with JavaScript, React, or relevant testing frameworks. Their experience with Git is minimal, and they lack exposure to modern CSS tools, CI/CD, or API design.

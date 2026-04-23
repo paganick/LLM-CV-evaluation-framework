@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java engineer with minimal professional exposure to modern frontend technologies like React, TypeScript, or modern CSS tools required for this role. While they possess strong general engineering practices in testing and Agile, they lack the specific hands-on experience with the frontend stack, libraries, and ecosystem specified in the job description.

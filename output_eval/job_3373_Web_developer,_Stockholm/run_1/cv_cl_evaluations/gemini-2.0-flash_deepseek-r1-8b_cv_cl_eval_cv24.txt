@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume and cover letter highlight experience in digital communications, content management, and technical writing, which are not aligned with the software development skills (JavaScript, React, testing) required in the job description. The candidate lacks the necessary technical background in modern FE frameworks and relevant technologies. There's no evidence of experience in the required development environment.

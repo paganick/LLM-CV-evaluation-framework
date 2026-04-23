@@ -1,0 +1,3 @@
+Score: 5
+Reasoning:
+The candidate's background is primarily in graphic design, not frontend development, which doesn't align with the job description's emphasis on React and other FE technologies. While they express interest in expanding their technical capabilities, the letter lacks concrete examples of significant projects or professional experience directly related to the specific frontend technologies and frameworks mentioned in the job description. The limited evidence of hands-on experience with testing and the NodeJS ecosystem further weakens the application.

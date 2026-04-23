@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates extensive experience in information technology and relevant skills in JavaScript, HTML, and CSS, which are fundamental for the role. However, the cover letter lacks mention of TypeScript, modern front-end frameworks beyond basic React, and specific experience with testing automation tools and security knowledge. Additionally, the absence of familiarity with CI/CD tools and modern CSS tools lowers the candidate's fit for the specific requirements outlined in the job description.

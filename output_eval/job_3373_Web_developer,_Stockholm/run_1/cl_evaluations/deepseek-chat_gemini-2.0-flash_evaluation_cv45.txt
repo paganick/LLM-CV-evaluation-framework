@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in enterprise IT program management and government systems, not in modern frontend development. The cover letter fails to mention any of the required technical skills (e.g., React, TypeScript, testing frameworks, Git) or provide specific examples of frontend work. While they mention being a strong collaborator in Agile, the core technical requirements of the role are not addressed, indicating a significant skills gap.

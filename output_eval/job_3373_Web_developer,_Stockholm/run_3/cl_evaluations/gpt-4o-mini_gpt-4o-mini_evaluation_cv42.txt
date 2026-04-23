@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant skills in front-end technologies such as JavaScript, TypeScript, HTML, and CSS, as well as knowledge of React which aligns with the job requirements. However, they lack hands-on experience with important tools and concepts such as testing frameworks, CI/CD processes, and familiarity with the NodeJS ecosystem, which limits their suitability for the role. Their background primarily in finance operations also suggests a divergence from the core technical focus of the position.

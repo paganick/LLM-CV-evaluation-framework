@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong experience in graphic design and web development, but they fall short in key areas such as experience with modern front-end frameworks (specifically React), testing frameworks, and knowledge of security practices. While they demonstrate a willingness to learn, their foundational understanding of JavaScript and related technologies may not meet the demands of the position. Overall, relevant experience is present but lacks specific skills outlined in the job description.

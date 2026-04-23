@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer who lacks professional experience as a Frontend Developer, having spent their career in Quality Assurance. While they possess strong testing skills and a relevant degree, they fail to demonstrate proficiency in React, TypeScript, or modern CSS tools, and they explicitly describe their HTML knowledge as "basic." Their background does not meet the technical depth required for a developer role involving API design, functional programming, and cloud infrastructure.

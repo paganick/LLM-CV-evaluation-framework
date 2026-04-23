@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in marketing technology, not modern front-end development, and they provide no direct evidence of experience with the required technologies (React, TypeScript, modern CSS tools, testing frameworks). While they demonstrate transferable skills in integration, testing, and collaboration, they fail to substantiate proficiency in the core technical stack listed in the job description. The application shows a relevant technical mindset but lacks the specific, hands-on experience required for the role.

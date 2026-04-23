@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a relevant design background and basic HTML/CSS knowledge, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, testing frameworks, Git workflows, modern CSS tooling, Node ecosystem, and web security. Their eagerness to learn and collaborative experience are positives, but do not compensate for the absence of key technical skills and practical experience required for this role.

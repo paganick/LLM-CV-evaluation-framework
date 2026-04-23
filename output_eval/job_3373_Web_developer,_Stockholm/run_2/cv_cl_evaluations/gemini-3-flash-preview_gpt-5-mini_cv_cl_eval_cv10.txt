@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required primary tech stack, specifically React and TypeScript, relying instead on legacy technologies like AngularJS and jQuery. While they have a background in performance testing and computer science, they demonstrate no familiarity with modern CSS tools, Node.js, or CI/CD pipelines as specified in the job description. Additionally, the candidate’s professional experience appears dated and primarily focused on Java/J2EE rather than modern front-end engineering.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in software development, but their experience is heavily focused on Mainframe technologies (COBOL, CICS, DB2) which are not the focus of the job description. While they mention JavaScript and HTML, there's no evidence of modern FE framework experience or testing experience which are critical requirements. The candidate's experience does not align with the modern web development skills required for the position.

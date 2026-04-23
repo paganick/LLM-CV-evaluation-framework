@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in a related field and possesses some of the required technical skills, such as JavaScript, HTML, and CSS. However, they lack direct experience with modern frameworks like React, which is a key requirement, and do not demonstrate familiarity with testing frameworks or CI/CD tools, limiting their suitability for the Frontend Developer position.

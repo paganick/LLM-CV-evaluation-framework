@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience with front-end technologies and testing, but the cover letter focuses heavily on Drupal, which isn't the primary focus of the job description. While the candidate expresses interest in React and other modern technologies, their demonstrated experience seems limited. They meet some of the requirements but lack hands-on experience with key technologies like React, TypeScript, and modern CSS tools mentioned in the job description.

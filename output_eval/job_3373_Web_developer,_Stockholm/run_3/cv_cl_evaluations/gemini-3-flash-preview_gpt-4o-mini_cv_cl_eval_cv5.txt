@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a legacy Mainframe developer with professional experience exclusively in COBOL, JCL, and DB2, which is entirely irrelevant to the modern React and TypeScript requirements. Additionally, the resume shows no professional employment since 2014, and the modern frontend skills claimed in the cover letter are not supported by any work history or projects.

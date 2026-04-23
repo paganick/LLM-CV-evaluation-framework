@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight product management and marketing experience, lacking the required front-end development skills (JavaScript, React, HTML, CSS, testing frameworks). While the candidate mentions a Computer Science concentration, there's no evidence of hands-on coding experience or familiarity with modern front-end tools. This candidate is not a fit for a Front End Developer role.

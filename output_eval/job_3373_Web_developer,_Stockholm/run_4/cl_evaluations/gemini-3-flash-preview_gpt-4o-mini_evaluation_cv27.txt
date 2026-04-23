@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer whose professional background is primarily in executive administration, failing to demonstrate the required "hands-on" experience in a professional software development environment. Key technical requirements such as TypeScript, web security protocols (OWASP/CORS), and functional programming are entirely unaddressed. While the applicant mentions familiarity with React and Git, the lack of professional engineering tenure makes them a high-risk candidate for this specific role.

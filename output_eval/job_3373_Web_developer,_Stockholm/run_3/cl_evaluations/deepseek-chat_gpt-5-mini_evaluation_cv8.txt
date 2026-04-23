@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics and firmware test engineering, not front-end development, which is a significant mismatch for the core role. While they demonstrate strong testing principles and a willingness to learn, they lack direct, hands-on experience with the required technologies (React, TypeScript, modern CSS) and the web-specific ecosystem. Their experience is adjacent but not directly applicable, placing them in the category of relevant industry but lacking specific skills.

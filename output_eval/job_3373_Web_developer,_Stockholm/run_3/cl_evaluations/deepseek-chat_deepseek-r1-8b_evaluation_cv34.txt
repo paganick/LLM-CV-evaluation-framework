@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in digital marketing and Salesforce configuration, not professional software development. While they demonstrate transferable skills like project management and an understanding of logic, they lack hands-on experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing frameworks, Git). Their stated proficiency is primarily in HTML, CSS, and SQL, which are insufficient for this specific developer role.

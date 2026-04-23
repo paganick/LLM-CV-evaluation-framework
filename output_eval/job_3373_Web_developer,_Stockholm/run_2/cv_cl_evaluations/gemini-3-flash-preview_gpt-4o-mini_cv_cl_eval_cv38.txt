@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate’s professional background is entirely rooted in film and media production, with no documented experience or training in software engineering. While the cover letter mentions relevant technologies, the resume lacks any evidence of proficiency in JavaScript, React, or testing frameworks required by the job description. This candidate is from a completely different industry and lacks the fundamental technical qualifications for a developer role.

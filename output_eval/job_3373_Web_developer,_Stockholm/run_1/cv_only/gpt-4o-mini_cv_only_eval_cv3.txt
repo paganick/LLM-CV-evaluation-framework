@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant education and basic skills in HTML, CSS, and JavaScript but lacks hands-on experience with modern front-end frameworks like React and testing frameworks mentioned in the job description. Additionally, there is no evidence of familiarity with Git, CI/CD tools, or security knowledge. While the candidate is transitioning into web development, they fall short in key areas required for the role.

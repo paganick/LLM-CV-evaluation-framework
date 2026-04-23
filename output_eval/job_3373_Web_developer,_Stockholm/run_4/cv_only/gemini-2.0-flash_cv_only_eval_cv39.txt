@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume focuses on graphic design and traditional art skills, with very limited exposure to web development technologies like JavaScript or modern FE frameworks. While there's mention of HTML and Dreamweaver, the candidate lacks the required depth in modern web development and testing practices. The skill set is misaligned with the job description's core requirements.

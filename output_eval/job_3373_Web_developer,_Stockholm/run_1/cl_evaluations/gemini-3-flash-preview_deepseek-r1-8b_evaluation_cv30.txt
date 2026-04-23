@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the essential technical skills required for the role, providing no evidence of experience with JavaScript, TypeScript, React, or modern CSS. While they possess a relevant background in software development and data analysis, their expertise is currently centered on backend technologies rather than the front-end stack specified in the job description. As a result, the applicant fails to meet the primary qualifications for this specific position.

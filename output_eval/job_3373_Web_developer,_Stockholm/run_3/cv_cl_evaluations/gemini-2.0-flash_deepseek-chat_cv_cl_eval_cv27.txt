@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in administrative, arts, and operational roles, lacking substantial front-end development experience. While the cover letter mentions HTML and web design, the resume does not showcase the required JavaScript, React, TypeScript, or testing frameworks. The candidate's skill set does not align with the job description's technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in program management and learning design, not front-end development. They lack direct, hands-on experience with the core technologies listed in the job description (JavaScript, TypeScript, React, HTML, CSS, testing frameworks, Git). While they demonstrate strong transferable skills and a capacity to learn, their technical qualifications are not a direct match for the role's requirements.

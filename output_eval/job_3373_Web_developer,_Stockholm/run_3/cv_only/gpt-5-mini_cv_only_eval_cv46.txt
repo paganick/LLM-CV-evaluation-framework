@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has general software and database experience (Java, HTML, JavaScript, databases) but lacks almost all required modern frontend skills listed (no React, TypeScript, modern CSS tooling, Node/npm, testing frameworks, Git/GitHub, or CI/CD experience shown). Experience is dated toward backend/DB and legacy Java/EJB work rather than current React-based front-end development, so they are not a strong match for this role. With significant upskilling or evidence of recent frontend work, the score could improve.

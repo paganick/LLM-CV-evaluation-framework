@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in programming and testing, which aligns with the job requirements. However, they lack specific experience with React, modern CSS tools (like Styled Components), and some of the testing frameworks mentioned. While they show a strong understanding of back-end development, their front-end experience is limited and doesn't fully meet the expectations for this role.

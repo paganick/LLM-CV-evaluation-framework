@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a strong visual and graphic design background and mentions web development and Agile experience, which is relevant to the role. However, the cover letter lacks any explicit mention of the core technical requirements (JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, Git, CI/CD, or cloud/infra familiarity). Given the mismatch on key frontend engineering skills and tooling, the candidate is not a strong technical fit for this position.

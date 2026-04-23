@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter highlights technical skills (HTML, JavaScript, SQL) which are only tangentially relevant to the core UX role, and the experience is primarily in consulting rather than a UX design role. It mentions process automation, systems management and data migration, which does not directly relate to user research, prototyping, or running workshops, as detailed in the job description. The letter lacks specific examples of user-centered design methodologies and experience with Figma.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate has proactively learned the core front-end technologies, they possess no professional experience in software development, making it impossible to verify their performance in a production environment. The application lacks mention of mandatory technical competencies such as CI/CD, AWS, and API design. For a strict recruiter, a career-change portfolio does not substitute for the required professional industry experience and technical depth.

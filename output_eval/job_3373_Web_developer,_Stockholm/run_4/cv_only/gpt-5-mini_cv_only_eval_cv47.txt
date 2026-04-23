@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate has a career background in business development, sales, and chemistry with no demonstrated professional front-end development experience or modern web technologies (JavaScript/TypeScript, React, CSS frameworks, testing, Node.js, Git). Listed skills include only basic HTML and C/C++, which do not meet the job's required technical stack, tooling, or security and cloud knowledge. The profile is therefore completely unqualified for this front-end developer role.

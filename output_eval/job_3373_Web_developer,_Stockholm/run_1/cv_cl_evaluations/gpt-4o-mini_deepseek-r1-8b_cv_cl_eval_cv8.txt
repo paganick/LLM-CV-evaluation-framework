@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in test engineering but lacks relevant skills in JavaScript, TypeScript, and modern front-end frameworks such as React. While they exhibit a solid understanding of testing methodologies, their familiarity with web security principles and specific front-end technologies is minimal, making them less suited for the role.

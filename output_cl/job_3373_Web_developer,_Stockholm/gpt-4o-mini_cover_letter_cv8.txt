@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Frontend Developer position at your technology company, as advertised. With over 10 years of experience in test engineering combined with a solid foundation in scripting and automation, I am eager to leverage my skills in a dynamic and innovative environment like yours, particularly in enhancing frontend development with technologies such as JavaScript, HTML, and CSS.
+
+In my current role as a Test Engineer, I have honed my ability to write clean and efficient code while managing test automation processes using Python scripting. My experience with various testing frameworks and methodologies—including unit, integration, and E2E tests—aligns well with your need for hands-on experience in testing and test automation. My exposure to Agile methodologies enables me to collaborate effectively within cross-functional teams, ensuring that projects maintain momentum and alignment with technical objectives.
+
+I have familiarity with version control systems like Git, and I routinely utilize GitHub for managing project repositories. My background also includes a basic understanding of web security principles, including OWASP and CORS, which equips me to contribute to the secure development of web applications. Additionally, I continuously seek to enhance my knowledge of modern frontend frameworks, particularly React, which is used in your organization.
+
+Moreover, my technical skills extend to modern CSS tools like SASS and understanding of the NodeJS ecosystem, which provides a comprehensive approach to frontend development. I am comfortable engaging with external partners and aligning technical solutions with business needs while expressing a genuine passion for writing clean, maintainable code.
+
+I take great pride in my ability to cultivate collaborative relationships, continuously keep up-to-date with the latest technologies, and engage with various teams. My proactive approach allows me to gain insights into cross-domain functionalities, enhancing overall project outcomes. 
+
+I am eager to contribute my unique blend of test engineering expertise and frontend development skills to your team, helping to create innovative solutions and drive the future of your projects. I look forward to the opportunity to discuss how my experience can benefit your company.
+
+Sincerely,  
+Alexis

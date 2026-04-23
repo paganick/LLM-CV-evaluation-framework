@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in software and web technologies but lacks direct experience with the modern front-end frameworks and libraries (like React) specified in the job description. While they have solid experience in data analysis and testing, their primary skills appear to be more aligned with back-end technologies and data-driven roles rather than front-end engineering. The candidate would need to further demonstrate proficiency with JavaScript, TypeScript, and modern CSS tools to be a stronger fit.

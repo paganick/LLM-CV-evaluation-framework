@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and environmental science, with limited explicit front-end development experience. While the cover letter mentions familiarity with HTML and CSS, the resume emphasizes SQL, data warehousing, and statistical modeling. The candidate lacks the required experience with modern FE frameworks like React, and has limited exposure to the JavaScript/TypeScript ecosystem, making them a weak fit for the role.

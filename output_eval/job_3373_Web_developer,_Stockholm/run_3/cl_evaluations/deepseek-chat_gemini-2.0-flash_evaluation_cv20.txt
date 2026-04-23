@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and meets some basic requirements like Git and Agile. However, they lack specific, required skills in modern front-end frameworks (React, etc.), TypeScript, and the listed testing tools, and do not address key areas like web security or the Node.js ecosystem. Their background in .NET is not a direct match for this React-focused role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics and hardware test engineer with no professional experience in modern web development or frontend engineering. The resume lacks evidence of proficiency in JavaScript, TypeScript, React, or modern web testing frameworks like Jest or Cypress, focusing instead on circuit design and hardware debugging. While the candidate expresses a desire to pivot, their background represents a significant industry and skill-set mismatch for a senior-level software engineering role.

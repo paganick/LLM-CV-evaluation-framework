@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in digital marketing and Salesforce configuration, not software development. While they possess some transferable skills like HTML, CSS, SQL, and project management, they lack the core JavaScript, TypeScript, and React experience crucial for the role. The candidate expresses willingness to learn, but the resume does not demonstrate sufficient foundational knowledge.

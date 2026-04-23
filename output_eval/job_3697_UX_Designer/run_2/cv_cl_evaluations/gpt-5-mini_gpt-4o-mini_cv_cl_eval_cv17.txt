@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate demonstrates strong product development and Adobe skills with leadership experience, their background is focused on apparel/accessory technical design rather than digital UI/UX. The resume contains no portfolio of UI projects and lacks clear evidence of wireframing/prototyping tools (InVision, Wireframe.cc, Figma) or experience designing GUI elements and interaction flows. Therefore they do not meet the core, domain-specific requirements for this UI/UX role.

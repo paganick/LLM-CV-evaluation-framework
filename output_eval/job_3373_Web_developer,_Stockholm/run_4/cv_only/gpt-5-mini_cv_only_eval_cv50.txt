@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows no experience with JavaScript/TypeScript, HTML/CSS, React or other modern front-end frameworks, nor testing frameworks, Node.js/npm, CI/CD, AWS or Terraform required by the role. The candidate's background is senior business development and aerospace/quality engineering with dated IT/network administration experience, which does not meet the technical requirements for this front-end engineering position.

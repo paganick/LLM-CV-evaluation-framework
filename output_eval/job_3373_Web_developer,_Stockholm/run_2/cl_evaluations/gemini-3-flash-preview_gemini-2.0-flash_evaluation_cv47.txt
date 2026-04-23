@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical qualifications, specifically failing to demonstrate proficiency in JavaScript, TypeScript, and React. Their professional background is in business development rather than software engineering, and they mention only basic HTML knowledge while admitting a need to learn the core tech stack from scratch. Furthermore, there is no mention of essential requirements such as testing, Git, or web security, making them completely unqualified for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and some experience with HTML and CSS; however, they lack hands-on experience with JavaScript, TypeScript, modern front-end frameworks (especially React), testing and test automation, and knowledge of security on the web. While they express eagerness to learn, the significant gaps in essential technical skills make them a weak fit for the position.

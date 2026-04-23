@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development and quality assurance, with a strong foundation in several programming languages and technologies specified in the job description. However, they lack mention of TypeScript and familiarity with some of the specific technologies and frameworks used by the organization, such as NodeJS and functional programming tools like Ramda.

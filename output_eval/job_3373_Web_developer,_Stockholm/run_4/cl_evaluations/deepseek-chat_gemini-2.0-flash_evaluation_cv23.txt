@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in electronics testing and lab work, not professional frontend development. They mention only basic familiarity with JavaScript and C++ but lack demonstrable experience with the required technologies like React, TypeScript, modern testing frameworks, and version control. While they show strong soft skills and a relevant troubleshooting mindset, their direct technical experience does not align with the core requirements of the role.

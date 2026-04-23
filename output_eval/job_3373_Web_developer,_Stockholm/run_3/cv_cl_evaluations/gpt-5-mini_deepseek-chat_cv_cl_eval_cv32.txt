@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable soft skills and claims self-taught frontend knowledge, but the resume contains no verifiable professional development experience, projects, or code samples. They do not show demonstrable hands-on experience with core role requirements such as production React work, automated testing, Git/GitHub usage, Node.js tooling, CI/CD, or infrastructure familiarity. While motivation and communication are strengths, the lack of concrete technical evidence makes them underqualified for this position as described.

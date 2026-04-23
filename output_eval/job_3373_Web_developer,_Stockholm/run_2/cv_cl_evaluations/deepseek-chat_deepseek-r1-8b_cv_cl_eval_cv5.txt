@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost entirely in mainframe technologies (COBOL, CICS, DB2) and the banking domain, which is a completely different industry and technology stack from the modern web development role described. The job requires hands-on expertise in JavaScript, TypeScript, React, and modern testing frameworks, none of which are demonstrated in the candidate's resume. While the cover letter expresses a willingness to learn, there is no evidence of practical experience with any of the required technologies.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in engineering and testing, but they lack direct experience with key technologies specified in the job description, particularly JavaScript, TypeScript, modern front-end frameworks, and testing automation tools. While they have experience in software testing and development, the specific skills and technologies relevant to the role are missing.

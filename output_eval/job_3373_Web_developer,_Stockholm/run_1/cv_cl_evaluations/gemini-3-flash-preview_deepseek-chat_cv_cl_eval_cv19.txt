@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's professional experience is almost entirely rooted in graphic design, electrical work, and manufacturing, providing no evidence of professional-grade software engineering experience. While the cover letter claims familiarity with React and TypeScript, the resume lacks any specific projects, GitHub repositories, or technical work history to substantiate these skills. Consequently, the candidate does not meet the minimum requirements for a role involving modern frontend frameworks, testing automation, or CI/CD pipelines.

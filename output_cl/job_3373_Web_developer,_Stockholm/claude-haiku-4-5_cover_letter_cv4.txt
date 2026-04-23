@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. With five years of professional experience in JavaScript, HTML, and CSS, combined with my background in full-stack development and API integration, I am confident I can make immediate contributions to your React-focused team.
+
+Throughout my career as a Software Developer, I have built a solid foundation in modern web technologies and best practices. My experience extends beyond basic frontend skills—I have worked extensively with Node.js and the JavaScript ecosystem, giving me a comprehensive understanding of both client and server-side development. This broader perspective enables me to collaborate effectively with backend teams and understand API design principles, which I have applied in integrating marketplace APIs for high-availability systems.
+
+My commitment to clean, maintainable code aligns perfectly with your team's values. I have consistently revised and modernized codebases to current development standards, demonstrating my passion for code quality. Additionally, my background in system architecture and database development has cultivated a genuine interest in understanding complete domains and how different platforms interconnect—a trait your job description emphasizes.
+
+Testing and quality assurance are integral to my development philosophy. Through various projects, including my COVID-19 question-answering system and data visualization tool, I have gained hands-on experience with comprehensive testing methodologies. While my formal testing framework exposure includes Python-based tools, I am eager to quickly master Jest, Cypress, and TestCafe within your React environment.
+
+I have demonstrated strong collaborative abilities throughout my career, working effectively with cross-cultural, global teams and coordinating with multiple departments on complex projects. My experience coordinating with project management staff, interacting with clients, and maintaining positive team relationships has prepared me to thrive in your Agile environment.
+
+My educational background includes publications on Agile and Design Thinking methodologies, reflecting my genuine interest in staying current with industry best practices. While my primary expertise lies in C# and Python, my foundation in JavaScript and demonstrated ability to quickly master new technologies position me well to expand into your modern CSS tools, CI/CD pipelines, and the Ramda functional programming approach.
+
+I am particularly excited about the opportunity to grow within your organization while contributing meaningfully to your frontend development goals. I am confident that my technical skills, collaborative mindset, and dedication to continuous learning make me an excellent fit for your team.
+
+Sincerely, Alexis

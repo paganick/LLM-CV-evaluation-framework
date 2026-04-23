@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering, not front-end development. While they express interest in React and have some familiarity with web security concepts, they lack demonstrable experience with core front-end technologies like JavaScript, TypeScript, HTML, CSS, and relevant testing frameworks. Their experience is mostly tangential, not directly applicable.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a clear understanding of the role's requirements and is actively building relevant technical skills, which aligns with the industry. However, they lack direct, professional hands-on experience in frontend development, which is a core requirement. Their extensive background in finance is a significant career transition, and they do not mention several key technical requirements from the job description, such as web security basics, functional programming, or CI/CD tools.

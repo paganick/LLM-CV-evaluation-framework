@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses 8 years of industry experience and familiarity with secondary tools like CircleCI and testing frameworks, they fail to demonstrate proficiency in the core requirements of React and TypeScript. Their background is heavily focused on Java and AngularJS, which represents a significant technical mismatch for a role centered on a modern JavaScript ecosystem. Additionally, the application lacks mention of essential requirements such as Web security (OWASP), Git, and functional programming.

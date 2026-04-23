@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate professional proficiency in the core requirements of React and TypeScript, presenting instead a background heavily specialized in Drupal and PHP. While they possess strong foundational web knowledge, their lack of hands-on experience with the requested testing frameworks (Jest/Cypress) and the modern NodeJS ecosystem makes them a poor technical match for this specific stack.

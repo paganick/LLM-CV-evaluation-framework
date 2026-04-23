@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their background is in program management and learning design rather than software engineering. There is zero evidence of experience with the required tech stack, including JavaScript, React, or TypeScript, with their only technical skill being intermediate coding in R.

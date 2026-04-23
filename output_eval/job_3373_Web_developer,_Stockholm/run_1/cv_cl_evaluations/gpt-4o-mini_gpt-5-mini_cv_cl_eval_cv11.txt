@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in software testing and experience in Agile environments, which is relevant to the role. However, they lack specific experience with front-end development technologies like React, TypeScript, and modern CSS tools, which are key requirements for this position. Their experience is predominantly in software testing rather than direct development, making them less aligned with the primary expectations of the job description.

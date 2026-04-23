@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some experience with Javascript, HTML, CSS, and Git, but lacks experience with modern FE frameworks like React (as the job description prefers). The candidate also lacks explicit experience with testing frameworks, CI/CD tools, and cloud platforms (AWS), and overall FE experience is basic, thus resulting in a moderate score. The cover letter tries to compensate for this by stating interest in learning React.

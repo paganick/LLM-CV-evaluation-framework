@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant front-end experience (JavaScript, HTML, CSS) but lacks experience with modern FE frameworks like React (only expresses interest in learning). Their experience is heavily focused on .NET and database work, which is not a primary requirement of the job. The candidate also lacks experience with testing frameworks, CI/CD tools, and other technologies listed in the job description.

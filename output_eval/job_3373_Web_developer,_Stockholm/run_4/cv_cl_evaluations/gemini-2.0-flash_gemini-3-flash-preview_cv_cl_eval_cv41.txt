@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in systems administration and infrastructure, not front-end development. While they express interest and some familiarity with relevant technologies, they lack demonstrable experience with modern FE frameworks (React, VueJS, Angular, Svelte), testing frameworks, and modern CSS tools as the job description requires. Their experience in web application development is limited to bug fixes.

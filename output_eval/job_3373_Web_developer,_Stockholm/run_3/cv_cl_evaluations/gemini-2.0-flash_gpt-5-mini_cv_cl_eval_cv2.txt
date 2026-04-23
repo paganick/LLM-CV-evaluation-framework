@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in Java/J2EE, which doesn't align well with the JavaScript/React focus of the job description. While the candidate expresses a willingness to learn, they lack demonstrable experience with the core technologies required. Their experience in Agile and collaboration is a plus, but insufficient to overcome the lack of front-end skills.

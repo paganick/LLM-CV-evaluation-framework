@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is fundamentally unqualified, possessing a background in program management and learning design rather than professional software engineering. While the letter mentions keywords like "React" and "clean code," the applicant lacks the required expertise in JavaScript, TypeScript, CI/CD, and web security protocols. There is a critical mismatch between the candidate's career experience and the technical demands of the developer role.

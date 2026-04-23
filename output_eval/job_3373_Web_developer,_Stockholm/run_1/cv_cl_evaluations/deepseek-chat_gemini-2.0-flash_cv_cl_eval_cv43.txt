@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program design and learning, with no demonstrated professional experience in front-end development, React, or any of the core technical skills listed in the job description. The resume mentions only intermediate coding in R, which is irrelevant to a JavaScript/TypeScript/React role. The cover letter attempts to draw parallels with project management and Agile, but this does not compensate for the complete lack of required technical qualifications.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses relevant skills in JavaScript, HTML, and CSS, and has experience with AngularJS and RESTful services, which aligns with front-end development. However, they lack experience with React, modern testing frameworks, Git, security knowledge, and other tools mentioned in the job description, indicating they do not fully meet the specific requirements for this role.

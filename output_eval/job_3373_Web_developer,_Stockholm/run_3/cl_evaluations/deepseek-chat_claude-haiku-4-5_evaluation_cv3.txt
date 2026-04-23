@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational education and demonstrates enthusiasm, but lacks direct, hands-on experience with the specific technologies required for the role, such as React, TypeScript, and modern testing frameworks. Their experience is primarily academic, and while they mention an interest in React and Ramda, they admit to having no practical experience with them. The cover letter does not address several key requirements from the job description, including security knowledge, modern CSS tools, and CI/CD.

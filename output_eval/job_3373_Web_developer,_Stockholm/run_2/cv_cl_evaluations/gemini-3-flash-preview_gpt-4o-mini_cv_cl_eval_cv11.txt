@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a professional Quality Analyst and Test Engineer, lacking the required hands-on experience as a Frontend Developer. Their profile shows no professional use of React, TypeScript, or modern CSS-in-JS libraries, and their primary expertise lies in testing methodologies rather than building and architecting frontend applications.

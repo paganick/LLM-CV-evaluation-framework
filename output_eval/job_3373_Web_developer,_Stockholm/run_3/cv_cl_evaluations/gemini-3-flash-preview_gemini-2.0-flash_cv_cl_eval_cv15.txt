@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware troubleshooting and general IT management, with work experience that is over a decade old and largely irrelevant to modern software engineering. They lack hands-on experience with the required stack, specifically React and TypeScript, and offer no evidence of familiarity with Git, automated testing, or modern CI/CD pipelines. While they possess basic web knowledge (HTML/CSS), they do not meet the professional requirements for a modern Front-End Developer role.

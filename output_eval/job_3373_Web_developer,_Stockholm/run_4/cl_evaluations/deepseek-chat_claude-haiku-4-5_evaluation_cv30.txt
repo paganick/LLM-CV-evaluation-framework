@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical aptitude and strong collaborative skills, but lacks direct, hands-on experience with the core frontend technologies listed in the job description, specifically React, TypeScript, and modern testing frameworks. Their background is primarily in data analytics, making this a significant career transition with a substantial skill gap. While their analytical mindset and eagerness to learn are positive, they do not currently meet the specific experience requirements for the role.

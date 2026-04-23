@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development, particularly in object-oriented programming and frontend technologies. However, they lack experience with modern frameworks like React, which is a primary requirement, and their testing experience does not align with the specific frameworks mentioned in the job description. Additionally, their familiarity with modern CI/CD tools and the NodeJS ecosystem is not well-established.

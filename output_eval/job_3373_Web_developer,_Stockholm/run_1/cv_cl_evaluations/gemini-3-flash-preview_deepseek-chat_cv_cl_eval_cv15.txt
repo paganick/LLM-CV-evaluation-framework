@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in general IT management and hardware troubleshooting rather than modern front-end engineering. They lack professional experience with the required tech stack, specifically React, TypeScript, and automated testing frameworks. Furthermore, the provided work history is over a decade old and does not demonstrate proficiency in modern software development lifecycles or Agile environments.

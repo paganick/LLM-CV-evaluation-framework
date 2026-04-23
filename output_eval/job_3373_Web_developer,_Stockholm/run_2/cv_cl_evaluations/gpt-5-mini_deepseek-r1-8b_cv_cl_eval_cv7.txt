@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume and cover letter show a long career in graphic design with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern testing frameworks, Git, NodeJS, or AWS—core requirements for this role. While the candidate has strong design, collaboration, and attention-to-detail skills and expresses a willingness to learn, those do not meet the technical baseline needed to perform the position. This makes the candidate unsuitable for the role as described without significant retraining or proven technical project experience.

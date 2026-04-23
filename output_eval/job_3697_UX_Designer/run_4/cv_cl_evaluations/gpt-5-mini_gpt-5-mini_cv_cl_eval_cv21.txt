@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate has a strong, long-standing background in graphic and web production with relevant tools (Photoshop, Illustrator, InDesign) and demonstrated collaboration and handoff experience, but lacks explicit UX/UI experience such as wireframing/prototyping tools (Wireframe.cc, InVision), storyboards/process flows/sitemaps, and UI element design. Portfolio was not attached and there is no clear evidence of building interactive prototypes or working in a modern UX workflow, so they are relevant to the industry but do not meet several key role requirements.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive background is in product management and leadership, not hands-on front-end development. The resume and cover letter show no direct experience with the required technical stack (React, TypeScript, modern testing frameworks) or evidence of writing production code. While they demonstrate high-level awareness of some technologies, this does not fulfill the core job requirements for a developer role.

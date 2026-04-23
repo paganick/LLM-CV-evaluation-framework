@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive experience is in hardware, electronics, and system-level test engineering, which is a completely different industry and skillset from the modern front-end web development role described. The job requires deep, hands-on expertise in JavaScript/TypeScript, React, and modern web technologies, which the candidate's resume and cover letter do not demonstrate. While they mention an interest in web security and some tool names, there is no evidence of practical, professional experience in the required web development stack.

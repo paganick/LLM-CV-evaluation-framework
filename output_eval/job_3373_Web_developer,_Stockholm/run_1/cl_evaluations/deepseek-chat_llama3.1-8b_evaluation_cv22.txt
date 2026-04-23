@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical skills (JavaScript, TypeScript, React, testing tools, Node.js ecosystem) that align with the job description. However, the cover letter is unfocused, heavily emphasizes unrelated backend and SAP experience, and fails to directly and convincingly address several key front-end and security requirements from the description. The application feels generic, not tailored to this specific front-end/React role.

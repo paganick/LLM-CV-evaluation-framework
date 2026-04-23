@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, modern CSS tools, testing, Git, and security fundamentals. They show a collaborative, Agile mindset and genuine passion for clean code. The score is not a 9 or 10 because they mention some technologies not in the job description (e.g., Selenium, Behat, Java, PL/SQL) and lack explicit mention of key listed tools like TypeScript, ESLint/Prettier, and the Node.js ecosystem, indicating a good but not perfect match.

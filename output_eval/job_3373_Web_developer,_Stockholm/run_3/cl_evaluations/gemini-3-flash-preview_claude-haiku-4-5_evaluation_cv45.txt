@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional, hands-on experience with the core technical requirements of the role, specifically JavaScript, TypeScript, and React. While their security background aligns with a minor portion of the job description, they explicitly admit their frontend development skills are still in the "developing" stage. As a very strict recruiter, I find their lack of a proven portfolio or professional engineering history insufficient to meet the demands of a functional programming and testing-heavy environment.

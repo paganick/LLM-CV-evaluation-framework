@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. With seven years of professional IT experience and a demonstrated passion for clean code and modern development practices, I am confident in my ability to contribute meaningfully to your React-focused team.
+
+Throughout my career, I have developed a robust foundation in JavaScript and web technologies, complemented by hands-on experience with HTML and CSS. My background in test-driven development and behavior-driven development has given me deep expertise in testing frameworks and test automation, including unit tests, integration tests, and performance testing using tools such as JMeter and Gatling. I have consistently maintained unit test coverage above 90 percent, ensuring high-quality deliverables.
+
+My experience with Git and version control systems, combined with my familiarity with CI/CD tools and security protocols including OAuth 2.0 authentication and authorization frameworks, aligns well with your technical requirements. I have worked extensively with RESTful API design and have implemented security best practices in production environments.
+
+I am a strong believer in clean code principles and emergent design techniques. My experience working in Agile and Scrum environments has reinforced my collaborative approach and ability to work effectively with cross-functional teams. I have demonstrated success in understanding complex domains, training team members on new technologies, and showcasing solutions to stakeholders and product management.
+
+While my primary expertise has been in backend development with Java and enterprise systems, my genuine passion for learning new technologies positions me well to transition into modern frontend development. My existing knowledge of JavaScript, combined with my proven ability to quickly master new frameworks and tools, will enable me to excel with React and the frontend ecosystem including NodeJS, npm, and modern development workflows.
+
+I am particularly attracted to this role because of your emphasis on writing truly clean code and your commitment to staying current with technology trends. My experience with performance optimization, delivering a 200 percent improvement in API performance, and my enthusiasm for emerging technologies make me an excellent fit for your team.
+
+I am eager to bring my technical expertise, collaborative spirit, and commitment to excellence to your organization. Thank you for considering my application. I look forward to discussing how I can contribute to your team's success.
+
+Sincerely, Alexis

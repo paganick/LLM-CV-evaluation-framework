@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience as a software developer but lacks the specific modern front-end technologies required by the job description. Their resume shows primary expertise in legacy .NET stack, AngularJS, and jQuery, with no mention of React, TypeScript, modern CSS tools, or the specific testing frameworks listed. While they demonstrate Agile collaboration and a general software development background, their technical skills do not align with the core requirements for a modern front-end-focused role.

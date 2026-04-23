@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience in the primary technology stack, specifically React and TypeScript, and fails to mention any of the required testing frameworks or the NodeJS ecosystem. While they demonstrate technical aptitude in marketing automation, they provide no evidence of hands-on software development or web engineering in a production environment. This profile represents a career transitioner who does not meet the "hands-on experience" requirements for a senior-level development role.

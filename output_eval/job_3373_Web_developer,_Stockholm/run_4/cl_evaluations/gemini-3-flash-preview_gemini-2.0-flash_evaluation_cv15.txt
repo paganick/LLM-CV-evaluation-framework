@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses foundational knowledge of HTML, CSS, and JavaScript, they explicitly lack hands-on experience with the required framework, React, and do not mention TypeScript at all. The letter fails to address specific technical requirements such as web security (OWASP/CORS), functional programming, or specific testing frameworks like Jest or Cypress. Despite a relevant IT background, the candidate is underqualified for this specific stack and would require significant training.

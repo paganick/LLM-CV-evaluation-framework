@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates some required skills like Git, agile methodologies, and a basic understanding of web security. However, the cover letter reveals a significant lack of hands-on experience with the core front-end technologies listed in the job description, specifically React, TypeScript, and modern testing frameworks. The candidate's background is primarily in Java/J2EE and back-end systems, positioning them as a career-transition candidate who lacks the proven, current expertise required for the role.

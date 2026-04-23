@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a graphic designer and fine artist whose professional experience is centered on visual arts and print media rather than software engineering. They lack all the essential technical requirements, including proficiency in JavaScript, TypeScript, React, and modern development workflows like CI/CD and automated testing. The profile represents a complete industry mismatch for a technical front-end developer role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a background in technology and experience with systems integration and project delivery, they do not demonstrate direct experience with JavaScript/TypeScript, modern front-end frameworks like React, or testing frameworks such as Jest or Cypress. Their qualifications in marketing technology platforms are relevant but do not fully align with the technical skills and hands-on experience required for this developer role.

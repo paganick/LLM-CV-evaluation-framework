@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a multi-talented Graphic Designer with strong HTML/CSS coding experience and a proven record of producing polished visual assets for web and print. Over the past several years I have worked with clients and internal teams to develop marketing campaigns, corporate brands, technical illustrations and high-volume image production under tight deadlines. I am seeking to transition my design-focused background into a front-end role where my attention to detail, disciplined workflow and eagerness to learn modern JavaScript frameworks can add immediate value.
+
+In my current role I use Photoshop, Illustrator, InDesign, Animate and Dreamweaver to create cohesive, on-brand visual systems. I have hands-on experience with HTML and CSS, responsive layouts and preparing assets for digital delivery. My workflow emphasizes quality control: accurate image sizing, color correction, masking and layered composition, and the consistent application of typography. I regularly consult with clients to define requirements, iterate on mockups, and translate design feedback into final deliverables. These practices align directly with front-end responsibilities of producing maintainable, predictable interfaces.
+
+I bring additional strengths from prior technical and team roles. My experience operating and maintaining equipment, troubleshooting 3D printers, and collaborating in manufacturing and electrical environments developed discipline, a pragmatic problem solving approach, and a respect for documented processes. I am comfortable working in collaborative, cross-functional teams and managing multiple priorities to meet deadlines.
+
+Academically, I hold an Associate of Arts in Graphic Design from Penn Foster College (2021), earned Honor Roll and Dean's List recognition and maintained a 3.6 GPA. I also hold a Certificate of Achievement (2020). My studies included HTML/CSS, typography, multimedia and responsive design, which reinforced my technical foundation and prepared me to work closely with developers to translate design intent into implementation. I am ready to start.
+
+While I am early in my formal software development journey, I am committed to learning React, TypeScript, testing frameworks and the Node ecosystem to bridge my visual design expertise with modern front-end engineering. I approach new tools methodically, retain complex workflows quickly, and value writing clean, maintainable code.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my design background and commitment to growth can contribute to your front-end team.
+
+Sincerely, Alexis

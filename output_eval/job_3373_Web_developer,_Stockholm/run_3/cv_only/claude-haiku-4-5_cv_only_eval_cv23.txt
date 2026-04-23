@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate is completely unqualified for a Frontend Engineer role. While the resume mentions "Java script" in passing, there is no demonstrated professional experience with JavaScript, TypeScript, React, or any modern frontend frameworks. The candidate's entire career background is in hardware engineering, electronics, and lab testing—a fundamentally different field from web development. There is no evidence of experience with testing frameworks, CSS, Git, web security, or any of the other critical requirements for this position.

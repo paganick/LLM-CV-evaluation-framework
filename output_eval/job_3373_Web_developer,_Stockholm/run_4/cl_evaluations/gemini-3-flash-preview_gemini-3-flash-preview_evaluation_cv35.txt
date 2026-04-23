@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer transitioning from marketing automation and lacks professional, hands-on experience as a dedicated software engineer. While they possess transferable logic and API knowledge, they do not demonstrate proven industry experience with the required stack, specifically React, TypeScript, and Ramda, in a production environment. Essential requirements such as web security (OWASP/CORS) and professional-grade automated testing are not adequately addressed as established competencies.

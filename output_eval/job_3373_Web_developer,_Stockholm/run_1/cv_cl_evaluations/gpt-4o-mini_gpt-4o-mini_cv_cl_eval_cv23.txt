@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in electronics and some programming skills, including JavaScript, HTML, and CSS, which are relevant. However, they lack substantial experience with modern front-end frameworks such as React, as well as specific knowledge in testing frameworks, CI/CD tools, and web security principles. Their understanding of the job requirements is present but insufficiently backed by direct experience.

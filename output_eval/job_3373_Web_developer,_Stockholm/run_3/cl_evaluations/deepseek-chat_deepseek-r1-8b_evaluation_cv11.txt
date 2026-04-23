@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and meets some base requirements like Agile collaboration and Git. However, the cover letter reveals a primary background in software testing, with only foundational or aspirational claims for key developer requirements like TypeScript, React, and modern CSS tools. The letter lacks concrete evidence of hands-on development experience, which is the core of the role.

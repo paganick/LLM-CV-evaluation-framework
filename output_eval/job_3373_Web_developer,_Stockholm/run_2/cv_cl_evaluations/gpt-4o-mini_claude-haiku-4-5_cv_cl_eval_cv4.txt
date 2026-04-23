@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in JavaScript, HTML, and CSS, with five years of professional experience and a solid understanding of the full software development life cycle. However, they lack specific experience with React, modern CSS tools, and testing frameworks mentioned in the job description. Their background suggests potential but does not fully align with the requirements of the position.

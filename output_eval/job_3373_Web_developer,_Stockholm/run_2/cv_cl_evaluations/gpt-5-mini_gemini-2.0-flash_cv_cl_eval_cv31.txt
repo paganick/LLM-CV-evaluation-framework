@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume and cover letter show a career in sales leadership with no demonstrable professional experience in the required frontend technologies (JavaScript/TypeScript, React, testing frameworks, Git, Node, modern CSS tools). While the candidate mentions HTML and enthusiasm to learn, there is no evidence of hands-on coding, test automation, or repository workflow experience. Strong soft skills are present but do not compensate for the complete lack of core technical qualifications for this role.

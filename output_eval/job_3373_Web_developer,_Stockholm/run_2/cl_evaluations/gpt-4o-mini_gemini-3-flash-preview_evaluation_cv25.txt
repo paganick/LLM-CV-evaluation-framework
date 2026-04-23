@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong relevant experience in frontend development and a solid understanding of modern technologies such as JavaScript, TypeScript, React, and CSS frameworks. They also highlight their experience with testing and version control, aligning well with the job requirements. However, while they mention basic knowledge of web security and some AWS experience, they do not explicitly address familiarity with CI/CD tools, Node.js, or the full range of testing frameworks listed, preventing a perfect match.

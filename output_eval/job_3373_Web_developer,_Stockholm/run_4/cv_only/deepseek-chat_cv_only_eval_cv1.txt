@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant front-end skills (React, JavaScript, CSS/SASS) and Agile experience, aligning with some job requirements. However, the profile is heavily skewed towards Java backend and test automation, with minimal demonstrated professional experience in modern React development, TypeScript, or the specific security and modern tooling (e.g., Node.js ecosystem, functional programming, CI/CD) required. The experience with key technologies appears outdated or academic rather than recent, hands-on professional work.

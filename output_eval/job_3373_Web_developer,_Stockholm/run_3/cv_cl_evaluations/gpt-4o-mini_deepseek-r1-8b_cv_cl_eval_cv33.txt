@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and team collaboration but lacks the necessary technical skills in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. Their experience is primarily in sales and training, which does not align well with the specific requirements of the role. Additionally, there is no evidence of hands-on experience with testing frameworks or an understanding of security practices relevant to web development.

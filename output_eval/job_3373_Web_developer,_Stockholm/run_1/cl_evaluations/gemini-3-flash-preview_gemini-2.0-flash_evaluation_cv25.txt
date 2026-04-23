@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all the core technical requirements, including JavaScript, TypeScript, and modern testing frameworks, which are essential for this role. Their experience is limited to basic HTML/CSS for design and newsletters, demonstrating no professional history with the React ecosystem, version control, or CI/CD tools. While the applicant is in a relevant industry, there is a significant skills gap between their design background and the complex engineering requirements listed.

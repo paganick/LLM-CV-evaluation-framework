@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in information technology and a strong background in frontend development with relevant technologies such as JavaScript, HTML, and CSS. They demonstrate familiarity with React, Agile methodologies, and testing practices. However, they lack specific mentions of TypeScript, modern CSS tools like Styled Components, and the required testing frameworks specified in the job description, which lowers the score slightly.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware-focused electronics test engineer whose professional experience is entirely centered on RF circuits, PCB troubleshooting, and manufacturing processes rather than web development. They lack the required professional proficiency in JavaScript, TypeScript, React, and CSS, which are the fundamental technologies for this role. Despite expressing interest in the cover letter, the resume fails to demonstrate any practical industry experience with modern frontend frameworks or web-based testing suites.

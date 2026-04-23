@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on systems analysis, software development lifecycle (SDLC), and computer systems validation (CSV), with experience in areas like Documentum, MS Access, and C/C++. While the resume mentions "some HTML," it lacks demonstrable experience in UX design, Figma, Agile environments, and user research methodologies outlined in the job description. The candidate's experience is primarily in support and development roles, not user experience design.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in finance and operations management, with zero demonstrated experience in any required front-end technologies (JavaScript, React, testing, Git, etc.). The cover letter attempts to frame general project management as relevant, but it does not address the specific technical skills or domain knowledge listed in the job description. This is a completely unqualified application for a technical front-end developer role.

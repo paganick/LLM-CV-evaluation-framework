@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong technical foundation in relevant areas like JavaScript/TypeScript, APIs, Git, and Agile, and demonstrates an ability to translate their automation experience to software engineering. However, they lack explicit, hands-on experience with key requirements like React, modern testing frameworks (Jest, Cypress), and web security fundamentals (OWASP, CORS). Their background is adjacent but not a direct match, showing potential rather than proven proficiency in the stack.

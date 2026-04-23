@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: This candidate's background is primarily in administrative, artistic, and choreography fields with no demonstrable software development experience. The resume lists basic HTML and web design as computer skills but contains zero evidence of JavaScript, TypeScript, React, testing frameworks, Git, or any modern frontend development competencies required for this role. This is a completely wrong industry match for a senior frontend engineering position.

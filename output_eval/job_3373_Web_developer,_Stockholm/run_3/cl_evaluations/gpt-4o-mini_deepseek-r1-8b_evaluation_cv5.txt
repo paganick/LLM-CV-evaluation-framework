@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in complex system development and a background in mainframe technologies but lacks explicit hands-on experience with the required modern front-end frameworks (React, VueJS, etc.) and testing automation tools mentioned in the job description. While the willingness to learn new languages and frameworks is noted, the absence of specific experience in JavaScript and associated technologies diminishes their fit for the position.

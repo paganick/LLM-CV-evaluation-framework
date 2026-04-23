@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development and front-end technologies, but lacks strong proficiency in modern frameworks like React, which is essential for the position. While they have knowledge of JavaScript, HTML, and CSS, the requirements for hands-on experience with testing tools and modern CSS tools are not sufficiently met. The candidate has experience with .NET technologies rather than JavaScript frameworks needed for this role, making them a relevant but not fully qualified applicant.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant industry experience and foundational knowledge of web development technologies like JavaScript, HTML, and CSS. However, the resume lacks explicit evidence of modern FE frameworks such as React, which is a core requirement. While the cover letter mentions an interest in React, it doesn't compensate for the absence of hands-on experience and testing frameworks mentioned in the job description.

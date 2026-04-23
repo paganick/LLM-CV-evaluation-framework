@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, JavaScript/TypeScript, and testing frameworks. However, the cover letter lacks mention of several key specifics from the job description, such as Git, web security fundamentals, modern CSS tools, linters, functional programming, and CI/CD. While the candidate's backend and infrastructure experience (AWS, Terraform) is a bonus, the omission of explicit front-end tooling and practices prevents a higher score.

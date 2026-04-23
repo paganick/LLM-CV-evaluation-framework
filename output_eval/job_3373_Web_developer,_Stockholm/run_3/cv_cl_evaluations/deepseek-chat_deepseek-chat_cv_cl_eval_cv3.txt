@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is in the correct industry but lacks nearly all specific technical skills and experience required by the job description. Their knowledge of modern frameworks (React, Vue, Angular, Svelte), testing, security, and the listed toolchain (Node.js, Jest, CI/CD, etc.) is academic at best, not professional. While their soft skills and motivation are evident, they are an entry-level candidate applying for a role demanding hands-on experience with a modern, specialized tech stack.

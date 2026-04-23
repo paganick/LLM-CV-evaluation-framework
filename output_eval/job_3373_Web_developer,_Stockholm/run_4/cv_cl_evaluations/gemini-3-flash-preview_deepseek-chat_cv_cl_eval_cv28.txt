@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's entire professional history is in materials analysis and metallurgy, which is an unrelated industry to front-end development. While the cover letter mentions self-taught skills in React and TypeScript, the resume provides no evidence of professional software engineering experience or the hands-on technical proficiency required for the role. There is a complete lack of verifiable professional experience with the required tech stack, testing frameworks, or web security protocols.

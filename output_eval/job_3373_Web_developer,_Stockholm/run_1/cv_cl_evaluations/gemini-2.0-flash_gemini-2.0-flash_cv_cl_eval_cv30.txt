@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required JavaScript, TypeScript, and modern FE framework experience. They mention HTML but without demonstrating practical modern FE development experience. While they express eagerness to learn React, the resume and cover letter don't showcase sufficient foundational knowledge or relevant projects in the specified tech stack.

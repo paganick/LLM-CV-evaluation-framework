@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some relevant skills like JavaScript, HTML, and CSS, and mentions React in the cover letter, aligning with the job description's FE framework requirements. However, the resume focuses heavily on IT management and general troubleshooting rather than in-depth front-end development. The candidate also mentions security knowledge and experience with Git, but the overall experience seems broad rather than specialized in modern front-end technologies and testing frameworks.

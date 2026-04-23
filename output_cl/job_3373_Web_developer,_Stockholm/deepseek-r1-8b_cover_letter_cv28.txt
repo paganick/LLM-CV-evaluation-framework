@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the [Job Title] position. While my background is in materials analysis and quality assurance, I am confident my analytical skills, technical aptitude, and passion for problem-solving align strongly with the requirements of this role.
+
+My experience involves deep data analysis and presentation, similar to the frontend work described. At [Company Name], I utilized tools like Brio and Tableau to visualize complex data sets for diverse audiences, demonstrating proficiency in presenting information clearly. Although my direct experience with JavaScript, TypeScript, HTML, CSS, and specific modern frameworks like React is limited, I am highly adaptable and possess a strong desire to learn and apply new technologies effectively, as evidenced by my success with learning tools like Tableau.
+
+Furthermore, my background includes extensive work with testing methodologies and data integrity, ensuring accurate results and clear reporting. I am proficient with Git and have experience managing repositories, ensuring collaboration and version control. I understand the importance of clean, well-documented code and processes, mirroring the principles of writing clean code mentioned.
+
+While my experience with specific testing frameworks (Jest, Cypress) and advanced build tools (like Svelte/Vue/Angular) isn't directly applicable yet, I am eager to develop these skills. I am also keen to understand the broader business context and collaborate effectively within an Agile environment, much like my experience working cross-functionally at Nike.
+
+I am a quick learner with a proven ability to grasp complex technical concepts and apply them practically. I am eager to contribute to your team and learn the specific technologies referenced in the job description.
+
+Sincerely,
+Alexis

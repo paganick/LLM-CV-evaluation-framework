@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a different field (materials analysis/QA) and they explicitly lack direct experience with the core required technologies (JavaScript, TypeScript, React, modern testing frameworks). While they demonstrate some transferable analytical skills and a willingness to learn, they do not meet the specific technical requirements listed in the job description. The application is from a relevant industry but lacks the essential hands-on experience.

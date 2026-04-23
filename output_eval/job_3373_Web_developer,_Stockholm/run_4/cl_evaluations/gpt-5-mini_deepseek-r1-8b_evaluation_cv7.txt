@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a graphic designer and offers no demonstrable hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, Node ecosystem, CI/CD, security practices). They show relevant soft skills—collaboration, attention to detail, and eagerness to learn—which are positive but insufficient for this role. Given the gap in essential technical qualifications, they are not currently a strong match.

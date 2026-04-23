@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive high-level experience in product management and strategy but provides no direct evidence of hands-on front-end development skills. The cover letter fails to mention any of the required technical competencies like JavaScript, React, TypeScript, CSS tools, or testing frameworks. While the candidate's soft skills and industry knowledge are relevant, the lack of demonstrated technical proficiency for a developer role is a critical mismatch.

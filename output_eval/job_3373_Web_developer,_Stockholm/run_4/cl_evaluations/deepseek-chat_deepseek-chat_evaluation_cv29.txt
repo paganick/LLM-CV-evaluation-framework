@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong, proactive alignment with the core technical stack (JavaScript, TypeScript, React, Git, testing) and key soft skills from the job description. However, the direct professional experience is from a sales/analyst role, not hands-on development, which is a significant gap. The pivot is well-argued with relevant adjacent experience, but the lack of a proven track record in a dedicated development position prevents a higher score.

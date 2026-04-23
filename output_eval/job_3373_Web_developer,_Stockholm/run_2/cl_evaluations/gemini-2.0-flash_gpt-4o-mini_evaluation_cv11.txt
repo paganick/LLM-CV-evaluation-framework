@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has experience in software testing and some front-end technologies, the cover letter focuses heavily on testing, not development. The listed development skills are basic, and while they mention interest in React, there's no concrete experience showcased. The letter doesn't strongly demonstrate the "genuine passion for writing (truly) clean code" sought in the job description.

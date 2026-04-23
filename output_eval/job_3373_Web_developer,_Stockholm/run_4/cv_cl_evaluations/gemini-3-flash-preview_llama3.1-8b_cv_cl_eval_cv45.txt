@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT management and cybersecurity professional whose experience is entirely focused on network operations, policy, and infrastructure within the Department of Defense. There is no evidence in the professional history of any experience with JavaScript, React, TypeScript, or modern front-end development tools required for this role. While the cover letter mentions the required technologies, the resume fails to support these claims, making the candidate fundamentally unqualified for a software engineering position.

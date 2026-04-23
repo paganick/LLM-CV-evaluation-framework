@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, and CSS, but lacks key requirements like React experience which is heavily used by the company according to the job description. The candidate also lacks experience with testing frameworks like Jest or Cypress, CI/CD tools, and AWS. Their experience is more focused on older .NET technologies.

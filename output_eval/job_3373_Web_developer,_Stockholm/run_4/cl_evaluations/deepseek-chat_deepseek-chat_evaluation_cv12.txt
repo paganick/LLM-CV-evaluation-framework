@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant full-stack experience and demonstrates foundational knowledge in key areas like JavaScript, Git, and Agile. However, they lack explicit, direct experience with the core technologies listed in the job description, specifically React, TypeScript, modern testing frameworks, and the security concepts. Their experience with PHP/MVC and stated need to "rapidly master" React indicates a skills gap for a role requiring hands-on expertise.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design, with no professional experience in frontend development or the required technical stack (React, TypeScript, modern CSS). The resume lists only "intermediate coding in R studio," which is irrelevant, and the cover letter makes aspirational claims about skills (Jest, Cypress, AWS, Ramda) that are not substantiated by any work history or projects. This is a severe mismatch for a frontend engineering role.

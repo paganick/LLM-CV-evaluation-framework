@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the technical stack, security requirements, and Agile methodology specified in the job description. However, the cover letter emphasizes high-level IT management and security leadership, which, while impressive, is not the primary focus of a hands-on Frontend Engineer role. Specific mentions of modern CSS tools, testing frameworks like Jest, and CI/CD tools are present, but the depth of recent, practical frontend development experience is less clear.

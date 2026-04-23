@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant UX-adjacent experience (content strategy, workshops, Agile participation, mentoring, surveys and some UI/system work) but fails to state the required 2-3 years of commercial UX experience explicitly and does not mention Figma or any HTML/CSS/JS exposure. Claims around UI Design System management and prototyping rely on Adobe tools rather than the specifically desired Figma proficiency. Overall, a relevant but incomplete match against the stated technical/tooling and experience requirements.

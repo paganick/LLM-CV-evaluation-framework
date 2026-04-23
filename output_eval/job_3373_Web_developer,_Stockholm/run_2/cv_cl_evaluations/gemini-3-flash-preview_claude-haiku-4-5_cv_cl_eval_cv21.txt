@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Although the candidate has extensive experience in web development, their expertise is heavily concentrated in the .NET ecosystem and they lack professional experience with the required modern stack of React and TypeScript. The resume shows no evidence of proficiency with contemporary frontend tools such as Styled Components, Jest, Cypress, or functional programming. Consequently, the candidate does not meet the specific technical requirements for this role and would require significant upskilling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some listed skills that align with the job description, such as HTML, CSS, and JavaScript. However, there's a lack of depth and specific experience with modern FE frameworks like React, testing frameworks, and other tools mentioned in the job description. The resume focuses more on general IT support and troubleshooting than modern front-end development.

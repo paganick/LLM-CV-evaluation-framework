@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics and engineering, not frontend development. While they express interest and some foundational knowledge (HTML, ASP.NET), they lack the required experience with modern FE frameworks like React, TypeScript, and testing frameworks mentioned in the job description. Their experience does not align with the specific technologies and responsibilities outlined.

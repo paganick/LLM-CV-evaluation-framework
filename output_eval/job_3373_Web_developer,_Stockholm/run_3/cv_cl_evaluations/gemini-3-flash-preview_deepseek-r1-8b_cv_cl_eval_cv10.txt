@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume focuses primarily on Java, J2EE, and performance testing, lacking professional evidence of the required React and TypeScript expertise. While the cover letter claims proficiency in the requested stack, the work history only shows outdated AngularJS experience and an internship from 2015. There is no demonstrated experience with modern frontend tools such as SASS, Styled Components, or current E2E testing frameworks.

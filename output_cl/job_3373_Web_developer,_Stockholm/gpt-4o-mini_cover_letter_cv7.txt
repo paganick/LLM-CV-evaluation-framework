@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Frontend Developer position that requires expertise in JavaScript, TypeScript, HTML, and CSS, as well as modern frameworks like React. With over 15 years of experience in graphic design and web development, I possess a keen eye for detail and a genuine passion for writing clean code, which makes me a strong fit for your team.
+
+Throughout my career, I have honed my skills in creating visually compelling and user-friendly web interfaces. My experience includes freelance graphic design work where I designed websites, logos, and multimedia presentations, allowing me to develop proficiency in HTML and CSS. While my primary background is in graphic design, I am keenly interested in expanding my technical capabilities and have actively kept up with advancements in technologies, particularly within the JavaScript ecosystem.
+
+In my previous roles, I demonstrated an ability to collaborate effectively within team environments, particularly in Agile settings. I have successfully managed various projects coordinating with multiple departments, ensuring smooth communication and high-quality results. This experience has equipped me with the interpersonal skills required to interact comfortably with external partners and stakeholders.
+
+Moreover, I am familiar with testing frameworks such as Jest and have experience with Git and repository hosting services like GitHub. My understanding of basic web security principles, including OWASP and CORS, is complemented by a commitment to maintaining high standards in code quality through the use of linters like ESLint and formatters like Prettier.
+
+In addition to my background, I am eager to engage with tools such as CI/CD with CircleCI and delve deeper into the NodeJS ecosystem. The opportunity to contribute to your team while furthering my knowledge in API design and cloud platform functionalities, such as AWS and Terraform, excites me.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your innovative projects and collaborate with the talented team at your company.
+
+Sincerely,  
+Alexis

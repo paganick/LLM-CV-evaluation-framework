@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong HRIS, business analysis and stakeholder management experience, but lacks demonstrated commercial UX design experience, prototyping skills (Figma) and front-end exposure required for this role. There is no evidence of running formal user research, building or maintaining a UI design system, or managing UX roadmaps and sprint-based UX work. Transferable skills in requirements gathering, workshops and user training are present but insufficient to meet the UX-specific technical and methodological requirements.

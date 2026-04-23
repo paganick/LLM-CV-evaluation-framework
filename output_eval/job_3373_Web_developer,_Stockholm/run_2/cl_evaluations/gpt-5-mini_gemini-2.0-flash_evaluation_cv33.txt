@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate provides strong business and leadership experience but presents no concrete evidence of hands-on front-end skills (JavaScript/TypeScript/HTML/CSS), React development, testing, Git, or familiarity with the specified tooling (Node/NPM, modern CSS, CI/CD, AWS, etc.). Their cover letter emphasizes transferable soft skills and learning aptitude rather than the technical competencies required for the role. As such, they are not qualified for this position without demonstrated practical experience or relevant technical work samples.

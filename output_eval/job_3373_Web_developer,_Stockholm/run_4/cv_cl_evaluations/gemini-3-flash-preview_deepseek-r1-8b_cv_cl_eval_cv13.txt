@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager whose professional experience has focused on leadership and strategy since 2014, rather than hands-on software engineering. Their resume lacks evidence of proficiency in the required modern stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. While they possess industry knowledge, they do not meet the technical depth or recent production-level coding experience necessary for this specific developer role.

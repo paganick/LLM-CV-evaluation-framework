@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in data analysis and some experience with front-end technologies such as HTML, but lacks specific experience with JavaScript frameworks like React, which is crucial for the position. While there is an eagerness to learn, the absence of direct experience with essential skills like testing automation, Git, and a modern CSS tooling is a significant gap. Overall, the application indicates potential but does not meet the specific requirements of the job description.

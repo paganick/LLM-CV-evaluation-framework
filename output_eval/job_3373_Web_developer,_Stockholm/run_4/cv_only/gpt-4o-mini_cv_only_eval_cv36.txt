@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has a background primarily in microbiology and related fields, with no experience or qualifications in web development or the specified technologies such as JavaScript, TypeScript, React, or CSS. Additionally, the resume lacks any relevant experience with testing automation, Git, or CI/CD tools, making them completely unqualified for the role.

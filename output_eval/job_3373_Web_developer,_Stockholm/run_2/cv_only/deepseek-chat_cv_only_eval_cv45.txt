@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in government/military IT management, cybersecurity, and logistics, which is a completely different industry and skillset from modern front-end web development. The resume shows no experience with the required technologies like JavaScript, React, TypeScript, CSS tools, testing frameworks, or Agile software development. While the candidate has strong leadership and security knowledge, there is zero overlap with the specific technical proficiencies demanded by the job description.

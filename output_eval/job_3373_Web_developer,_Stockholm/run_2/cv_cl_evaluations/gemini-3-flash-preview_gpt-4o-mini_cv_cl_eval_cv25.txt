@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer attempting to transition into software engineering but lacks nearly all the core technical requirements, including professional experience with JavaScript, TypeScript, and React. While they possess basic HTML/CSS skills, they provide no evidence of proficiency in testing frameworks, CI/CD pipelines, or web security. This profile is entirely design-oriented and does not meet the criteria for a mid-to-senior level front-end development role.

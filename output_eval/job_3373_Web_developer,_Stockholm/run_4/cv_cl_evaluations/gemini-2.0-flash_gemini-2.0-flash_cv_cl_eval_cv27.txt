@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is largely irrelevant to the job description, lacking substantial experience with JavaScript, modern FE frameworks, and testing. While the candidate claims proficiency in HTML and web design, this is insufficient for a Front End Developer role. The cover letter highlights adaptability, but does not make up for the lack of directly relevant technical skills.

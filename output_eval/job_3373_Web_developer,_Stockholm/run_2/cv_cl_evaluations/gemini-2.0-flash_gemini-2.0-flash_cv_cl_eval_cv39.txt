@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in graphic design, with limited front-end development experience. They lack almost all of the required skills mentioned in the job description, such as React, TypeScript, and modern CSS tools. The candidate's skills are not aligned with the technologies and responsibilities of a front-end developer role.

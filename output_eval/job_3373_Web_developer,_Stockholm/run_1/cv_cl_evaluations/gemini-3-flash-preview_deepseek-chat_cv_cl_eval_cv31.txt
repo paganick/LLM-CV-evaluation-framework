@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a sales professional with no documented professional experience in software engineering or the specified technical stack. While the cover letter claims knowledge of React and TypeScript, the resume focuses entirely on sales management, negotiation, and leadership roles without any evidence of technical implementation or professional projects. As a result, the candidate does not meet the hands-on experience requirements for a front-end developer position.

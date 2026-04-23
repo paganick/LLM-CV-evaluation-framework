@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, not software engineering, making this a severe industry mismatch. The job requires hands-on experience with modern front-end frameworks (React), testing, Git, and specific tools, none of which are demonstrated. While the candidate mentions foundational HTML and a willingness to learn, they lack the required professional experience and technical skills for the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, with no professional software development experience. The resume and cover letter mention only academic or basic familiarity with required technologies like JavaScript, React, and testing frameworks, lacking the hands-on, production-level experience demanded by the job description. The core skills and career trajectory are misaligned with a front-end/software engineering role.

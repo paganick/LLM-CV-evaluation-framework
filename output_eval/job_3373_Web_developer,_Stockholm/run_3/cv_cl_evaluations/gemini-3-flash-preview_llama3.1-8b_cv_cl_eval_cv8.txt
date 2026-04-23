@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is exclusively in hardware and electronics test engineering, focusing on RF circuits, soldering, and PCB troubleshooting rather than web development. There is no evidence in the resume of professional experience with JavaScript, TypeScript, React, or front-end testing frameworks, making them unqualified for this software-centric role. While the cover letter mentions these technologies, the career history does not support any practical application of the required modern web stack.

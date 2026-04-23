@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and lacks the necessary front-end development experience. While they mention HTML, C, and C++, these are not the core technologies required for the job. The resume and cover letter do not demonstrate sufficient expertise in JavaScript, TypeScript, React, or modern CSS tools.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate shows solid front-end experience with React, JavaScript, HTML/CSS, testing (Jest, Cypress), linters (ESLint/Prettier), Git and Agile experience, and strong leadership—matching many core requirements. However, they do not mention TypeScript, the Node/npm/Yarn/Express ecosystem, modern CSS tools (Styled Components/SASS), functional tooling (Ramda), CI/CD, or web security/AWS knowledge listed as important for this role, so they lack several specific required skills.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not front-end development. While they mention HTML/CSS, the letter lacks evidence of the required JavaScript, TypeScript, or framework experience (React, VueJS, Angular, Svelte) detailed in the job description. The candidate expresses a commitment to learning these technologies, but this doesn't equate to hands-on experience, therefore falling short of the requirements.

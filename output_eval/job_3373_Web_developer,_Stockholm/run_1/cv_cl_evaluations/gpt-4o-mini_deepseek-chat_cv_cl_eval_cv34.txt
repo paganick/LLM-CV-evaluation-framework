@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in project management and technical solutions, but lacks direct experience with the required technical stack, including JavaScript, TypeScript, React, and testing frameworks. While they have worked with HTML and CSS, their background primarily focuses on Salesforce and digital marketing rather than modern front-end development. The candidate's eagerness to transition into development is noted, but they do not fulfill the essential technical requirements for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates foundational web skills (HTML, CSS, JavaScript) and a degree with personal projects, but lacks professional experience with core requirements such as React, TypeScript, modern JS tooling (Node/npm/Yarn), testing frameworks, Git/GitHub workflows, and modern CSS tools. There is no evidence of CI/CD, cloud/infra (AWS/Terraform), security practices, or functional libraries (Ramda) that the role specifies. Overall, they are relevant to the industry but do not meet the specific technical prerequisites for this position.

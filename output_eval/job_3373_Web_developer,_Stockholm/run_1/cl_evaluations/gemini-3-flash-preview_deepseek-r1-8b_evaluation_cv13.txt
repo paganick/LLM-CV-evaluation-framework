@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a Technical Project Manager rather than a dedicated developer, lacking the hands-on engineering experience required for this role. They fail to address critical technical requirements such as web security (OWASP/CORS), specific testing frameworks, functional programming, and Node.js. While they have relevant industry experience in project oversight, they do not demonstrate the specific proficiency in writing code or managing modern frontend toolsets necessary for a developer position.

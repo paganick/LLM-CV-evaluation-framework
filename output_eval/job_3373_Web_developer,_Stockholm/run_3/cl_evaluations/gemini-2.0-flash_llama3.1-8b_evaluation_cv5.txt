@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The cover letter emphasizes mainframe technologies (COBOL, CICS, JCL, DB2) which are not mentioned in the job description. The job description is focused on modern web technologies like JavaScript, React, and AWS. There is a significant mismatch between the candidate's skills and the required skills.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in a technical field and some relevant skills in software testing, but they lack essential front-end development skills and experiences such as proficiency in JavaScript frameworks like React, which is crucial for the position. Additionally, their experience does not showcase familiarity with testing automation tools or CI/CD processes. Overall, while they have a technical background, they fall short on the specific requirements outlined in the job description.

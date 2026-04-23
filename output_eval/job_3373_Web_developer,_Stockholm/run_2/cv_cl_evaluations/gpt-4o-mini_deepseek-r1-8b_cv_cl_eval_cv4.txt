@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software development, specifically mentioning JavaScript, HTML, and CSS. They also have hands-on experience with React, which aligns with the job requirements. However, they lack specific mentions of modern CSS tools, various testing frameworks mentioned in the job description, and experience with CI/CD tools, which would strengthen their fit for the role.

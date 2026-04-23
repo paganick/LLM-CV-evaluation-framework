@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in web technologies such as HTML and CSS but lacks hands-on experience with modern front-end frameworks like React, VueJS, Angular, or Svelte, which is critical for the position. While they show a willingness to learn and have relevant academic projects, the absence of experience in testing, CI/CD tools, or any specific JavaScript or TypeScript expertise limits their suitability for the role.

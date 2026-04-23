@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer with professional experience exclusively in system administration and infrastructure maintenance, lacking any professional background in software development. They fail to demonstrate proficiency in the core requirements of the role, such as React, TypeScript, modern CSS tools, or automated testing frameworks, making them unqualified for this specific engineering position.

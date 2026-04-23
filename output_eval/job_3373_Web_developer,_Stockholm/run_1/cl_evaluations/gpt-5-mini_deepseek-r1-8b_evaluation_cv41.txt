@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates solid systems/infrastructure experience, security awareness (CompTIA Security+, OWASP familiarity), and strong collaboration skills, indicating potential to transition. However, they lack demonstrated hands‑on experience with core requirements—JavaScript/TypeScript, HTML/CSS, React, front‑end testing frameworks, Node/npm tooling, modern CSS tools, and CI/CD/AWS—so they are relevant to the industry but missing critical specific skills for this role.

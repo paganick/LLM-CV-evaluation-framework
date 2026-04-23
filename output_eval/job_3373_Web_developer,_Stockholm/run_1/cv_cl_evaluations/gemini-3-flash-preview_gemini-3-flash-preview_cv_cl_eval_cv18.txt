@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over 18 years of IT experience, the resume lacks evidence of professional tenure with modern frontend essentials like React, TypeScript, and automated testing frameworks. The work history focuses heavily on systems administration, legacy web design (WordPress, Dreamweaver), and project management rather than modern software engineering. Despite the claims in the cover letter, the core competencies listed do not align with the specific technical depth required for a senior frontend role.

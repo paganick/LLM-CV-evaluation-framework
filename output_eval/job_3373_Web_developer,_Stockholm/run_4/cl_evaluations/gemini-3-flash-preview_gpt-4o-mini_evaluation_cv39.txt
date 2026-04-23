@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a designer who lacks professional proficiency in the core technical requirements of the role, specifically React and TypeScript. They explicitly admit to limited experience in automated testing and only a "working understanding" of JavaScript, which is insufficient for a senior-level technical position. Key mandatory areas like web security and functional programming are also entirely unaddressed.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and account management, a different industry. While the cover letter mentions transitioning to technology, the resume lacks demonstrable experience with the specific technologies listed in the job description, such as React, TypeScript, and modern FE frameworks. The candidate has basic knowledge of HTML, CSS and Java which is not sufficient for the role.

@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the role at your esteemed organization, where I can leverage my passion for technology and database management to make a meaningful impact. With over 4 years of experience in media planning and buying, I have developed a solid understanding of data analysis, marketing strategies, and team collaboration.
+
+As a consultant with expertise in SQL, Core Java, HTML, and SAP MM module, I am confident that my skills will translate seamlessly into the technological field. My previous projects, such as Hospital Database Management System and ERP Implementation for a Regional Electrical Utility company, demonstrate my ability to design and implement database systems using MySQL and SAP.
+
+In my current role, I have been utilizing modern web technologies, including JavaScript, TypeScript, HTML, and CSS, and am eager to apply this knowledge in a new context. My experience with testing frameworks (Jest, TestCafe), linters and formatters (ESLint, Prettier), and CI/CD tools like CircleCI will enable me to contribute effectively to your team.
+
+What sets me apart is my ability to balance technical expertise with strong interpersonal skills, leadership abilities, and a quick learning capacity. As a consultant, I have worked with top clients in FMCG, Automobile, Retail, and e-commerce sectors, ensuring seamless project execution and effective stakeholder management.
+
+I am particularly drawn to this role because of the opportunity to work on modern FE frameworks like React and contribute to the development of robust database systems using NodeJS ecosystem, npm, Yarn, Express.js, and Functional Programming (Ramda).
+
+Thank you for considering my application. I would welcome the chance to discuss how my skills and experience can benefit your organization.
+
+Sincerely,
+Alexis

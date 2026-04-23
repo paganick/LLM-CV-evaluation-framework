@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight product management and leadership experience, but lack demonstrable hands-on experience with the core technologies listed in the job description (JavaScript, React, Typescript, HTML, CSS, Testing). While the cover letter expresses willingness to learn, the absence of prior FE engineering skills makes the candidate a weak fit for a front-end engineering role. The resume focuses on product strategy and partnerships, not code.

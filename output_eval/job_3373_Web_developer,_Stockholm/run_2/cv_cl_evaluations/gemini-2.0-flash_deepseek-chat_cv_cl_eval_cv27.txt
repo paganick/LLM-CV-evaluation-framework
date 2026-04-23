@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's background is primarily in administration, arts, and education, lacking substantial experience in front-end development. While the cover letter mentions HTML and web design skills, it doesn't demonstrate proficiency in the required technologies like React, TypeScript, or modern testing frameworks. The resume highlights skills that are not directly relevant to the job description, indicating a poor fit for the position.

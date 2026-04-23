@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has solid experience in front-end and back-end development, particularly with Drupal, and some relevant skills in JavaScript, HTML, and CSS. However, they lack direct experience with modern front-end frameworks such as React and do not mention familiarity with specific tools and practices detailed in the job description, like CI/CD, functional programming with libraries like Ramda, and the Node.js ecosystem.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in marketing technology, not web development. While they mention relevant concepts like API design and testing, they lack direct experience with the core technologies listed in the job description (React, modern CSS tools, testing frameworks, etc.). The letter relies heavily on transferable skills rather than demonstrable expertise.

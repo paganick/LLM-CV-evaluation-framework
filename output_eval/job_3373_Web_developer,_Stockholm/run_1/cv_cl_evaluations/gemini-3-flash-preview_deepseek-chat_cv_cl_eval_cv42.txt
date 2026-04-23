@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in software engineering, with a 20-year career strictly focused on finance and operations. While the cover letter mentions self-taught skills in the required stack, the resume provides no evidence of professional application, industry experience, or a technical track record. Consequently, the candidate does not meet the "hands-on experience" requirements for modern front-end frameworks and automated testing.

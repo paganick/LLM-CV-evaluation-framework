@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has no professional experience as a software developer, with a career history entirely focused on program management and learning design. While the cover letter claims self-taught technical skills, the resume lacks any evidence of professional application or tenure in JavaScript, React, or the associated ecosystem. Consequently, the candidate fails to meet the fundamental requirement for hands-on experience in front-end development and testing.

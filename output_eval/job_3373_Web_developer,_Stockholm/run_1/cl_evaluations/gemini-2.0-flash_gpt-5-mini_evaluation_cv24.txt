@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in communications, not software engineering, lacking the core technical skills listed in the job description. While they express motivation to learn, they don't demonstrate any concrete prior experience with JavaScript, React, testing frameworks, or Git. Their experience is relevant to collaboration, but the technical gaps are too significant.

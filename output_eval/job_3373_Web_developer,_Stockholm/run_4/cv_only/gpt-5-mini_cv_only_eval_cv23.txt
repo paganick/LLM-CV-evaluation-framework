@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume shows an electronics/software testing background with some exposure to "Java script" and testing tools, but it lacks demonstrated front-end development experience in React, TypeScript, HTML/CSS and modern CSS tools. There is no evidence of familiarity with the NodeJS ecosystem, Git/GitHub workflows, front-end testing frameworks (Jest/Cypress), CI/CD, or web security practices required for the role. Overall the candidate is in a relevant technical field but does not possess the specific front-end skills and tooling experience needed.

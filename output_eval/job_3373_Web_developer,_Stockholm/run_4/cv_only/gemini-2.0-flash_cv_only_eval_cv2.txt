@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses heavily on Java/J2EE technologies, which are not the primary requirements of the job description. While the candidate has experience with web development, it is not aligned with the modern frontend frameworks (React, VueJS, Angular, Svelte) emphasized in the job description. The resume lacks any mention of JavaScript, TypeScript, or modern CSS tools.

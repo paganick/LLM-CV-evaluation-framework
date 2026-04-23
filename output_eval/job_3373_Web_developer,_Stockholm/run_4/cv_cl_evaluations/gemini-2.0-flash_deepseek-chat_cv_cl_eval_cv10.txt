@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills, such as HTML, CSS, Javascript, and Agile experience. However, they lack experience with React, TypeScript, modern FE frameworks (besides AngularJS), and testing frameworks mentioned in the job description. Their experience is primarily Java-centric, not modern front-end.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in sales leadership, not software development, which is a fundamental mismatch for a technical frontend role. They lack demonstrable, hands-on experience with the core technologies listed (React, TypeScript, testing, Git, etc.), offering only a stated interest in learning them. While their soft skills are transferable, the absence of proven technical competency makes them unqualified for this specific position.

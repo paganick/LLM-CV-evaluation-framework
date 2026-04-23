@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in digital communications, not front-end development. While they express interest and some related skills (HTML, CSS, JavaScript), they lack the hands-on experience with frameworks like React and testing methodologies outlined in the job description. Their familiarity with related tools is basic, indicating a need for significant training.

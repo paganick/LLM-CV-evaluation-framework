@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant front-end experience (HTML, CSS, JavaScript) but lacks experience with modern FE frameworks like React, which is a key requirement. Their experience leans heavily on older technologies like ASP.Net and AngularJS. The resume doesn't demonstrate the required understanding of testing, security, or modern tooling mentioned in the job description.

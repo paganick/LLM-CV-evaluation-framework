@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has hands-on experience with HTML, CSS, and JavaScript, aligning with some of the job requirements. However, they lack specific experience with TypeScript, modern testing frameworks, and CI/CD tools mentioned in the job description. Their familiarity with React is acknowledged, but there are gaps in related skills and tools necessary for the role.

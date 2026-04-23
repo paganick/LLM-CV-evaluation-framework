@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in front-end web development and project management, with a strong background in JavaScript, HTML, and CSS. However, they lack specific experience mentioned in the job description, such as working with TypeScript, React, and modern testing frameworks. While their collaboration and Agile experience is beneficial, the absence of knowledge regarding modern CSS tools and CI/CD processes limits their alignment with the role.

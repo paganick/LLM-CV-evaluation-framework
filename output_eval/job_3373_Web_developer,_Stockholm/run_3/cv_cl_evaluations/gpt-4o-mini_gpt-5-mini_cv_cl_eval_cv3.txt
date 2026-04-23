@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of core web technologies such as HTML, CSS, and JavaScript, along with some projects that utilized these skills. However, they lack hands-on experience with modern frameworks like React, testing automation, and version control systems such as Git, which are crucial for the position. Their background in construction may indicate strong collaboration skills, but it does not directly translate to the specific technical requirements of the role.

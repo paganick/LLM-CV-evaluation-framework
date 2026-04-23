@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in marketing automation, which is not directly relevant to the frontend developer role. While the cover letter attempts to bridge the gap by highlighting transferable skills, there is a distinct lack of specific experience with the core technologies mentioned in the job description, such as React, TypeScript, and testing frameworks. The resume focuses heavily on Eloqua and Salesforce, further indicating a mismatch in skills and experience.

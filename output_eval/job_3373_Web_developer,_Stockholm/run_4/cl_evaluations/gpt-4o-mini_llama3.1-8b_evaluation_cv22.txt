@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience with HTML, CSS, JavaScript, and testing frameworks, making them a strong match for the position. However, while they mention interest in React and other modern frameworks, they lack explicit experience mentioned with VueJS or Angular, which is part of the job description. Additionally, there is no mention of API design or a basic understanding of AWS or Terraform, which could enhance their fit further.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with Javascript, HTML, and CSS, but lacks experience with modern FE frameworks like React, which is a primary requirement. They mention AngularJS, which is outdated. There's no evidence of testing, security knowledge, or modern CSS tools.

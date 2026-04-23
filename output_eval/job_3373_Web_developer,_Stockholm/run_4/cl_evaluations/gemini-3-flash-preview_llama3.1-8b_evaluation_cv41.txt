@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a Systems Administrator applying for a Frontend Developer role and lacks the mandatory technical expertise in JavaScript, TypeScript, and modern web frameworks like React. Their attempt to align with the "clean code" requirement by citing system reboots and maintenance demonstrates a fundamental misunderstanding of the software engineering role. Additionally, there is no evidence of experience with testing suites, web security, or the CI/CD pipelines specified in the job description.

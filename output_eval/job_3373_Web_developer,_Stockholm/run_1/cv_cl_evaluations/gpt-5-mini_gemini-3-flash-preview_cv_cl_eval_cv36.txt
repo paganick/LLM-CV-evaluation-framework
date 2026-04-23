@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume documents a career in microbiology with no verifiable frontend development roles, projects, or technical evidence of working with React, TypeScript, testing frameworks, NodeJS, or CI/CD as required. The cover letter claims transferable skills and familiarity with the stack, but that assertion is not corroborated by the résumé (no portfolio, job history, or concrete accomplishments in web development). Given the lack of demonstrated hands-on frontend experience, the candidate does not meet the role's specific technical requirements.

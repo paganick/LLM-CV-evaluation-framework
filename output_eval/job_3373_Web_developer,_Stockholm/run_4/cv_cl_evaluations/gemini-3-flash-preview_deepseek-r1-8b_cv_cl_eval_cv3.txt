@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks any professional experience in web development and lists an outdated technical stack including Flash and ActionScript 3.0, which does not align with the modern React/TypeScript requirements. Furthermore, there is no evidence of expertise in testing frameworks, CI/CD tools, or the specific library requirements like Ramda or Styled Components.

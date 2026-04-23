@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive general software engineering experience, they lack the specific modern frontend expertise required, notably React and TypeScript. The resume shows no evidence of experience with the requested testing frameworks, Node.js ecosystem, or CI/CD tools. The candidate's background is heavily centered on PHP and legacy systems, which does not align with the modern functional programming and cloud-based requirements of this role.

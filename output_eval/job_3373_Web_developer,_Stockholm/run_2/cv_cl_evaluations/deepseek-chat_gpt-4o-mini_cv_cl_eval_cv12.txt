@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required technologies (JavaScript, React, Git, Jest, SASS). However, the resume lacks concrete, recent experience with the core modern stack (React, TypeScript, testing frameworks) and key job requirements like functional programming (Ramda), CI/CD, and API design. The cover letter makes stronger claims than the resume substantiates, indicating a significant gap between stated and demonstrated skills.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and possesses skills in core technologies like JavaScript, HTML, and CSS. However, they lack hands-on experience with modern front-end frameworks such as React, and specific testing frameworks mentioned in the job description. Their .NET background could be a limitation given the position's focus on a different tech stack.

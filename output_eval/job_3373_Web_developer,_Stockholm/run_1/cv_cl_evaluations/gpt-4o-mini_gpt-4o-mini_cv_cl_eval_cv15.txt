@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in web development with the necessary skills in JavaScript, HTML, and CSS, and claims proficiency in React. They also demonstrate practical knowledge of testing frameworks and CI/CD tools. However, their familiarity with some specific tools and concepts, such as functional programming and the Node.js ecosystem, appears to be lacking, which prevents a higher score.

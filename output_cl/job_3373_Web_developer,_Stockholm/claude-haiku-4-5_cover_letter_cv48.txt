@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my background primarily spans IT infrastructure and technical support, I am eager to transition into web development and am committed to building the technical expertise your team requires.
+
+Throughout my twelve years in technology, I have developed a foundational understanding of web technologies and a genuine passion for continuous learning. My experience troubleshooting complex systems has equipped me with strong problem-solving abilities and meticulous attention to detail—qualities essential for writing clean, maintainable code. I am particularly drawn to your emphasis on code quality and collaborative development practices.
+
+To prepare for this role, I am actively pursuing expertise in the core technologies your team uses. I recognize the importance of mastering JavaScript and TypeScript, and I am committed to developing proficiency with React, your primary framework. My background with WordPress and Joomla has given me exposure to web development concepts, though I understand the significant difference between CMS work and modern frontend development requires dedicated study.
+
+I am enthusiastic about learning your entire technology stack, including modern CSS tools like Styled Components and SASS, testing frameworks such as Jest and Cypress, and the Node.js ecosystem. Your mention of functional programming with Ramda aligns with my goal to understand different programming paradigms deeply. Additionally, I am interested in gaining familiarity with your CI/CD tools and AWS infrastructure.
+
+What particularly appeals to me about your opportunity is your team's commitment to staying current with technology trends and the collaborative Agile environment. My experience training others and working across multiple teams demonstrates my comfort with communication and knowledge sharing. I thrive when understanding the broader context of a domain and how different systems interconnect.
+
+I am prepared to invest significant effort in mastering the required technical skills and testing frameworks. My track record of consistent achievement, customer satisfaction, and professional certifications reflects my dedication to excellence. I am confident that my strong foundation in problem-solving, combined with my passion for learning and commitment to clean code practices, will enable me to become a valuable contributor to your frontend team.
+
+Thank you for considering my application. I welcome the opportunity to discuss how my technical background and enthusiasm for web development can contribute to your organization's success.
+
+Sincerely,
+Alexis

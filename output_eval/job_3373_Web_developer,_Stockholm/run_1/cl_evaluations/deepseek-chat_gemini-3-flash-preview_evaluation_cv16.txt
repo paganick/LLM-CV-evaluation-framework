@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core requirements, including JavaScript, React interest, Agile experience, and a passion for clean code. However, they lack explicit, hands-on experience with key technologies listed in the job description, such as TypeScript, modern testing frameworks (Jest, Cypress), and the specific Node.js tools mentioned. Their professional background is primarily in .NET, and while they express eagerness to learn, they do not provide proven experience with several required stack components.

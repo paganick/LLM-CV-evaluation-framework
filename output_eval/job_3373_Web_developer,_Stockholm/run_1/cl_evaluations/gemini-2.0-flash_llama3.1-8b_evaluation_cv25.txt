@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, a field quite different from front-end development. While the letter highlights transferable skills and a willingness to learn, it lacks direct experience with the core technologies (JavaScript, TypeScript, React) specified in the job description. The letter primarily focuses on adaptability rather than demonstrating existing proficiency in the required skills.

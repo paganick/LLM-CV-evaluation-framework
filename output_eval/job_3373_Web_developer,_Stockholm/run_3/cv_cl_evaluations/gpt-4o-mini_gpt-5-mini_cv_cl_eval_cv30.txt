@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid background in analytics and some web technologies such as HTML and ASP.NET, they lack direct experience with key requirements including JavaScript, TypeScript, and modern front-end frameworks like React, which are essential for the role. Their knowledge of testing and test automation is mentioned, but more specific experience with modern tools like Jest or Cypress is not evidenced. Additionally, the candidate’s background is primarily in data analysis and teaching rather than hands-on front-end development.

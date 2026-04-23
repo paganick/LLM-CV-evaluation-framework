@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant technical foundations (Masters in MIS, SQL/MySQL, Java, basic HTML/CSS and Git) but their professional experience is predominantly in media/marketing rather than software engineering. They lack the core frontend skills required for this role—JavaScript/TypeScript, React, modern CSS tooling, Node/npm ecosystem, testing frameworks, and CI/CD—so substantial upskilling would be required to meet the job's requirements.

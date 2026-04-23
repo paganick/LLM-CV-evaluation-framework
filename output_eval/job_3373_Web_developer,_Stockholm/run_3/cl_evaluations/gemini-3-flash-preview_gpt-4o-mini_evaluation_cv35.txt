@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates strong theoretical knowledge of the required tech stack, including React, security protocols, and testing frameworks, but lacks professional experience in a dedicated Front-End Developer role. Their career history is centered on marketing automation, indicating a career pivot rather than a proven track record in software engineering. While they possess adjacent technical skills, the absence of professional tenure in a production-level development environment makes them a less competitive candidate for this specific position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive design experience but lacks the specific technical skills required for the front-end engineering role. They explicitly state they need to develop skills in React, TypeScript, testing, and the modern toolchain listed in the job description. Their background is heavily design-focused, which is relevant to the industry but does not meet the core technical requirements for the position.

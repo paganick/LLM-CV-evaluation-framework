@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in Mainframe technologies (COBOL, JCL, DB2) which doesn't align well with the modern JavaScript/React focused job description. While they mention Javascript and HTML, the resume and cover letter emphasize legacy systems and database administration, making them a weak fit for a modern front-end role. The candidate lacks experience in modern FE frameworks and testing frameworks.

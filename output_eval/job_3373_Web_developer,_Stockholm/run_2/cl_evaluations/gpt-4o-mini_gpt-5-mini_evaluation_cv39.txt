@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in design and some relevant skills in HTML and CSS but lacks direct experience with React, modern testing practices, and specific knowledge of the Node ecosystem, CI/CD workflows, and security best practices. While they demonstrate potential and a willingness to grow into a front-end engineering role, the candidate does not fully meet the technical requirements outlined in the job description.

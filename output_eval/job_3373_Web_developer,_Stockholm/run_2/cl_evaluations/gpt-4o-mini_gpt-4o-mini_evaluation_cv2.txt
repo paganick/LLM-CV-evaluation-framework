@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development and is familiar with key technologies such as HTML, CSS, and JavaScript. However, they lack experience with many modern front-end frameworks listed in the job description (React, VueJS, Angular, Svelte), as well as specific testing frameworks and tools (Jest, Cypress). Their primary focus has been on back-end technologies, which may limit their effectiveness in a front-end role.

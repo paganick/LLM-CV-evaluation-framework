@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong foundational skills in core web technologies and some experience with relevant frameworks and tools. However, while they express a desire to deepen their experience with React, they have not indicated hands-on experience with TypeScript, modern CSS tools beyond Styled Components, or specific testing frameworks listed in the job description, which may limit their overall fit for the role.

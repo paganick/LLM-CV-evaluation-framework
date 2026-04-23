@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in front-end technologies and a strong foundation in automation and testing. However, there is a lack of specific mention of TypeScript, and familiarity with essential tools such as CI/CD and functional programming is not addressed, which may limit their fit for the position. Overall, they are a strong candidate with relevant skills and experience, but do not fully meet all requirements.

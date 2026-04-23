@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in software development, primarily in C# and ASP.NET, but lacks direct experience with JavaScript frameworks such as React, which is critical for this role. While they show an eagerness to learn and adapt, their familiarity with modern front-end technologies, testing frameworks, and tools relevant to the position is limited, making them a less suitable fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in software testing and quality assurance, which is relevant to the testing aspects of the job. However, the role is primarily for a front-end developer requiring hands-on experience with React, TypeScript, and modern CSS tooling, which the candidate explicitly lacks. Their experience is in test automation and analysis, not in building front-end applications with the specified technologies.

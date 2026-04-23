@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in marketing automation and systems integration but lacks direct experience with front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they demonstrate a strong willingness to learn and adapt, their background does not sufficiently align with key technical requirements specified in the job description.

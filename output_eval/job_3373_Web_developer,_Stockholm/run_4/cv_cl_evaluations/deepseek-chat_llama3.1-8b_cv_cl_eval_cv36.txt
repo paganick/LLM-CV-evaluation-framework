@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in microbiology and pharmaceutical quality control, which is a completely different industry from front-end software development. The resume and cover letter show zero experience with JavaScript, TypeScript, React, or any other technologies listed in the job description. While the candidate is clearly accomplished in their field, there is no relevant fit for this specific software engineering role.

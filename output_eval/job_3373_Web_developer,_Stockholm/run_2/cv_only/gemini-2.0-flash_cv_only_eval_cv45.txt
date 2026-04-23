@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The resume showcases a background in IT and cybersecurity within government and military contexts, which is a different industry than the job description. The candidate's skills are focused on INFOSEC/NETOPS, budget management, and strategic planning rather than front-end development. There is no mention of Javascript, React, or modern CSS tools in the resume.

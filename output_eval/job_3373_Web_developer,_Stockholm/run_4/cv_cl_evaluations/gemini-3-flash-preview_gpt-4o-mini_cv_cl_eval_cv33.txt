@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is entirely rooted in banking, sales, and residential management, lacking any professional software engineering experience. While the cover letter mentions a burgeoning interest in front-end technologies, the resume provides no evidence of hands-on experience with JavaScript, React, or TypeScript in a production environment. Consequently, the candidate does not meet the technical requirements or industry experience levels specified in the job description.

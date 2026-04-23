@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate mentions JavaScript, HTML, and CSS, the resume focuses on a broad range of IT skills, lacking specific depth in modern front-end development. The cover letter attempts to address this, but the resume doesn't demonstrate hands-on experience with modern FE frameworks, testing, or related tools. The candidate touches on some relevant technologies but fails to demonstrate adequate experience.

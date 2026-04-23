@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive experience in web development and mentions relevant skills in JavaScript, HTML, and CSS, as well as familiarity with testing and Agile methodologies. However, they lack direct mention of modern front-end frameworks like React, specific testing frameworks, and tools listed in the job description, which slightly lowers their suitability for this role.

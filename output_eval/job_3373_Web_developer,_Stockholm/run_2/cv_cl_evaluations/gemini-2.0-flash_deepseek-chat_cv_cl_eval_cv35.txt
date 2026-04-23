@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing automation, which is tangentially related to front-end development. While they mention HTML, CSS, and JavaScript experience, the resume lacks concrete projects or roles that demonstrate proficiency in modern front-end frameworks like React. The skills listed are more focused on marketing technologies than front-end development tools and practices.

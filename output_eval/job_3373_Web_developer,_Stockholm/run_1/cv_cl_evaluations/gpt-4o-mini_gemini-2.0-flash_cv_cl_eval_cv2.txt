@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in the IT field, specifically in backend technologies, but lacks core frontend skills and experience with modern frameworks like React. While they express a willingness to learn and transition to frontend development, their current skill set does not sufficiently match the requirements for the role, particularly in terms of frontend testing frameworks and CSS tools.

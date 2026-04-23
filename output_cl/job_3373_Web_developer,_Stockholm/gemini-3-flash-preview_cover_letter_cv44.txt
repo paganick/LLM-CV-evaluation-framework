@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. With a Bachelor of Science in Computer Science from Covenant University and extensive experience in User Experience and Interface Design, I offer a blend of technical rigor and design precision. My professional background in developing clean, slick interfaces that support business goals aligns perfectly with your team’s focus on React and web applications.
+
+Throughout my career, I have transitioned from Multimedia and Presentation Design into high-level UX/UI leadership roles. This evolution has been driven by a deep commitment to writing clean code and understanding the full product lifecycle. My proficiency in HTML and CSS, combined with an understanding of JavaScript and jQuery, provides a solid platform for my work with modern frontend frameworks like React. I am particularly drawn to your use of TypeScript and functional programming with Ramda, as my Computer Science background has instilled in me a lasting appreciation for type safety, clean code, and efficient logic.
+
+My experience as a UX/UI Team Lead has taught me that software is built on strong collaboration. I am a strong collaborator and comfortable working in an Agile environment, where I have translated complex business objectives into intuitive site blueprints, wireframes, and interactive prototypes. My tenure at MTN Nigeria involved performing UATs and supporting the end-to-end product lifecycle, which has given me a robust perspective on testing and quality assurance. I understand that testing, whether unit, integration, or E2E, is a core component of a stable deployment pipeline.
+
+My work across various platforms has made me adept at interacting with cross-functional teams and external partners. I am a lifelong learner, keeping up with the latest technologies, from Styled Components and SASS to the NodeJS ecosystem. I am also eager to apply my knowledge of web security and CI/CD tools like CircleCI to ensure that products I build are secure and scalable. I am particularly interested in the architectural aspects of development, including API design and cloud infrastructure like AWS, ensuring I can support the full domain of the platform.
+
+I am confident that my passion for truly clean code, combined with my technical expertise and design-thinking approach, makes me a strong fit for your engineering team. I would welcome the opportunity to discuss how my background in computer science and user experience can bring value to your projects.
+
+Sincerely,
+Alexis

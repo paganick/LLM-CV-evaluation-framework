@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: Candidate's experience is overwhelmingly in film/TV production with no demonstrated proficiency in JavaScript/TypeScript, React, modern front-end frameworks, testing, or Git — all core requirements for this role. Transferable skills in project management and Adobe tools do not substitute for the required front-end engineering experience, Node/npm ecosystem knowledge, or web security awareness. Given the absence of technical evidence, the candidate is not qualified for this position.

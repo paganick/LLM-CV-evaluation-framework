@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a solid foundation in web development with relevant skills in JavaScript, HTML, and CSS, but lacks direct experience with modern frontend frameworks such as React, which is crucial for this role. While they have worked in Agile environments and have GitHub experience, their primary expertise lies in ASP.NET rather than the technologies specified in the job description. More hands-on experience with the stack and specific testing frameworks would strengthen their fit for this position.

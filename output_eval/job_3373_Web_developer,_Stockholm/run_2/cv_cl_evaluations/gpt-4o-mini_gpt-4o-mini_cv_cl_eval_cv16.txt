@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and knowledge of JavaScript, HTML, and CSS, along with some familiarity with React. However, they lack specific experience with modern front-end frameworks beyond jQuery, as well as more recent technologies mentioned in the job description, such as testing frameworks, modern CSS tools, and CI/CD practices. They also need stronger foundational skills in web security principles mentioned in the job requirements.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong and relevant technical skill set that directly matches the job description, including JavaScript, TypeScript, React, testing, Git, and security principles. Their non-traditional background is presented as a unique strength that aligns with the role's need for collaboration, domain understanding, and clean code. The score is not a 9 or 10 due to the lack of explicit, professional hands-on experience with some listed tools like CI/CD, AWS, or Terraform, which are implied through self-study rather than proven work history.

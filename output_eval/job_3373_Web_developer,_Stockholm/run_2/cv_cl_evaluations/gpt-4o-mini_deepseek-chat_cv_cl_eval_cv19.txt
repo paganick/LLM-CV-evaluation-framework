@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of HTML, CSS, and some knowledge of JavaScript, which is relevant to the job description. However, they lack direct experience with modern frameworks like React, as well as hands-on experience with test automation and tools mentioned in the job description. While they demonstrate a willingness to learn and expand their skillset, the absence of specific experience in key areas limits their suitability for the role.

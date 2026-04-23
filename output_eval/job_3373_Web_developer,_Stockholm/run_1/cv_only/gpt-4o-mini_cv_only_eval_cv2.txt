@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in Java/J2EE technologies but lacks direct experience with JavaScript, TypeScript, and modern front-end frameworks like React, which are critical for the role. Additionally, their experience with testing and web security concepts is not well-documented in the resume, making them a poor fit for this specific position.

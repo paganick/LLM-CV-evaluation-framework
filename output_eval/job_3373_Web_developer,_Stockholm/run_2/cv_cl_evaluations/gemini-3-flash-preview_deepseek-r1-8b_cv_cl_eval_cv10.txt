@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java-focused developer whose professional experience centers on backend technologies and performance testing rather than modern frontend development. While the cover letter claims proficiency in React and TypeScript, the resume fails to document any practical experience with these technologies, listing only legacy AngularJS. Additionally, the candidate lacks the requested experience in modern testing frameworks (Jest, Cypress), CI/CD pipelines, and functional programming.

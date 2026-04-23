@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in HTML, CSS, and JavaScript, they lack specific experience with TypeScript, modern testing frameworks, and advanced topics like API design and CI/CD tools mentioned in the job description. Additionally, there's no evidence of familiarity with the React ecosystem or security knowledge on the web, which are critical for the role.

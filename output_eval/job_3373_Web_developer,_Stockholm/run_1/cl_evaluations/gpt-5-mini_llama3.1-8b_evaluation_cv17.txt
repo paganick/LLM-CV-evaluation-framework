@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong project management, communication, and Agile experience, but lacks the core technical skills required for this front-end engineering role (JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, modern CSS tools, CI/CD, and cloud/infra familiarity). Their recent self-study and transferable skills are positive indicators of learning potential, but do not compensate for the significant gap in hands-on technical experience needed to be productive in this position.

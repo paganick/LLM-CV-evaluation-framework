@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates familiarity with the required tech stack and mentions several key tools like React and TypeScript, their professional history is primarily in program management and design rather than software engineering. There is no evidence of professional-grade frontend experience or a track record of shipping production code in a commercial environment. The candidate appears to be a career-changer whose technical skills are largely self-taught or academic, which does not meet the "hands-on experience" requirement for a developer role.

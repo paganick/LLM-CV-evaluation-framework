@@ -1,0 +1,2 @@
+Score: 9
+Reasoning: The candidate demonstrates exceptional alignment with the job description by explicitly addressing specific niche requirements such as TypeScript, Ramda, CircleCI, and functional programming. Their blend of a Computer Science degree and UX/UI leadership experience provides the technical rigor and design-thinking approach required for a senior-level Frontend Developer role. Furthermore, they display a comprehensive understanding of the full product lifecycle, including testing methodologies, web security, and cloud infrastructure.

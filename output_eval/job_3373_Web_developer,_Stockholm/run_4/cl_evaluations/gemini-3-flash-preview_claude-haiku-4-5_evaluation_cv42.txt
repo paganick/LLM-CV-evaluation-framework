@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience in software engineering, failing to meet the primary requirement for hands-on expertise in React and automated testing. While they possess significant professional maturity and transferable leadership skills from finance, their technical capabilities are currently in the foundational learning phase rather than a professional level. Key technical requirements such as web security, API design, and CI/CD tools are not yet mastered or demonstrated in a work environment.

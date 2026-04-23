@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates solid experience with React and testing methodologies but fails to mention proficiency in TypeScript or web security (OWASP, CSP, CORS), which are listed as core requirements. Additionally, the profile emphasizes Java/Spring background rather than the requested NodeJS ecosystem or modern styling tools like SASS and Styled Components.

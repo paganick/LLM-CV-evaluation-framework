@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills in HTML, CSS, and foundational Java programming, but lacks hands-on experience with modern front-end frameworks, especially React, as required by the job description. They also have only a basic understanding of testing frameworks and web security principles, which indicates a gap in experience compared to what is sought for this role.

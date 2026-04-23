@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in systems administration and IT support, which is a completely different domain from modern front-end development. The resume and cover letter show no hands-on experience with React, TypeScript, modern CSS tools, testing frameworks, or any other key technologies listed in the job description. While the candidate expresses eagerness to learn, they lack the specific, required technical skills and professional experience for this front-end developer role.

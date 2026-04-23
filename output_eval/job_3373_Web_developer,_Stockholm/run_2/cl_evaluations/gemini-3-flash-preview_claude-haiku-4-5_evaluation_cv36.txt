@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional experience in frontend development, failing to meet the requirement for hands-on experience in testing, security, and React. While they demonstrate a strong theoretical understanding and transferable soft skills, their primary background is in microbiology rather than the software industry. Consequently, they do not possess the technical proficiency or professional track record required for this developer position.

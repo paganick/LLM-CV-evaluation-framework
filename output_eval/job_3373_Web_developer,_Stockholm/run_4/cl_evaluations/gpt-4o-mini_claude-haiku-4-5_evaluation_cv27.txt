@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses foundational skills in HTML and web design, along with a budding interest in JavaScript, TypeScript, and React. However, they lack extensive hands-on experience with modern frontend frameworks, testing automation, and advanced tools mentioned in the job description. While they demonstrate strong collaboration skills and a commitment to learning, their overall experience does not fully align with the specifics required for the role.

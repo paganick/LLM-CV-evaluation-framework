@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct experience with the core technologies mentioned in the job description (JavaScript, TypeScript, React). While the cover letter highlights transferable skills and a willingness to learn, the absence of hands-on experience with front-end development and testing tools makes them a weaker candidate. The experience is more aligned with product management and technical sales, not front-end engineering.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career-changer whose professional experience is entirely in communications and journalism rather than software engineering. The resume lacks any documented evidence of professional work with JavaScript, React, TypeScript, or automated testing, which are fundamental requirements for this position. While the cover letter mentions a transition into development, the candidate currently lacks the hands-on technical proficiency and industry experience required for a mid-to-senior frontend role.

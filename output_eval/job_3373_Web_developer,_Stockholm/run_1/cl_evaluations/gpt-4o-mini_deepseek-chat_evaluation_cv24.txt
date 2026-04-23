@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in digital communications and shows a strong proficiency in core front-end technologies, especially JavaScript, TypeScript, and React. However, there are gaps in experience with specific testing frameworks and CI/CD tools mentioned in the job description, as well as a lack of mention regarding basic security knowledge on the web, slightly limiting their overall alignment with the role.

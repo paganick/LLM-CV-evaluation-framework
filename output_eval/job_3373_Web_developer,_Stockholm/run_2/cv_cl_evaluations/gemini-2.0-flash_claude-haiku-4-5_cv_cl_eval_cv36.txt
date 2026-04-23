@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in microbiology and quality control, a completely different field than frontend development. While they express interest and transferable skills, the resume lacks any demonstrable experience with the core technologies mentioned in the job description, such as JavaScript, React, or Git. The candidate is making a significant career transition without sufficient technical foundation.

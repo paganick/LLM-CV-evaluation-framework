@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive software engineering and prototyping experience and has worked closely with product teams, which is relevant, but their resume shows no dedicated UI/UX role or demonstrated portfolio of UI/UX work. They do not document use of required wireframing tools (Wireframe.cc, InVision) or explicit GUI design deliverables, and no portfolio was attached. While technically strong and adaptable, they lack clear, verifiable UX-specific experience to meet the job's core requirements.

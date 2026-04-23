@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates knowledge of relevant technologies like JavaScript, TypeScript, and React, aligning with the job description. However, the cover letter highlights past experience in media planning and SAP, which are less relevant to a front-end development role. While the candidate mentions familiarity with the NodeJS ecosystem and testing frameworks, they lack specific projects or achievements directly related to advanced front-end development as implied by "writing truly clean code".

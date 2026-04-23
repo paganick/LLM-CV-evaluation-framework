@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is almost exclusively in the .NET ecosystem and legacy libraries like jQuery, failing to meet the core requirements for React, TypeScript, and modern CSS tools. They lack hands-on experience with modern testing frameworks (Jest, Cypress), functional programming, and cloud infrastructure (AWS/Terraform) specified in the job description. While they possess basic web development knowledge and Agile experience, they do not demonstrate the specific technical proficiency required for this modern front-end role.

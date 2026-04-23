@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily skewed towards Java/J2EE back-end development and lacks the required modern front-end focus, specifically React. While they have basic exposure to HTML, CSS, JavaScript, and AngularJS, the resume shows no experience with TypeScript, modern testing frameworks, security concepts, or the specific toolchain (e.g., Node.js ecosystem, CI/CD) listed in the job description. Their background is in a relevant industry but they lack the specific, hands-on skills required for this front-end role.

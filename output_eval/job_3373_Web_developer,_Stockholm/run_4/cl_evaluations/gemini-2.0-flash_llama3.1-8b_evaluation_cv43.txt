@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The cover letter showcases program management and learning design skills, but lacks the core technical skills (JavaScript, TypeScript, HTML, CSS, React, testing) emphasized in the job description. While mentioning Git, it doesn't demonstrate hands-on experience. The candidate's experience with R and Salesforce is not directly relevant to the listed technical requirements.

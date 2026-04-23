@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in test engineering within electronics manufacturing, not front-end development. While they claim proficiency in JavaScript, TypeScript, HTML, and CSS and mention React, the resume lacks concrete projects or professional experience using these technologies in a web development context. Their skills are more aligned with hardware testing and scripting for automation, rather than building modern web applications.

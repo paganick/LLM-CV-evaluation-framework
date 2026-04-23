@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in email marketing and Salesforce implementation, which is not the focus of the job description. While they claim some familiarity with HTML, CSS, and potentially React, this is not the core of their experience. They lack the depth in modern FE frameworks, testing, and other technologies listed in the job description.

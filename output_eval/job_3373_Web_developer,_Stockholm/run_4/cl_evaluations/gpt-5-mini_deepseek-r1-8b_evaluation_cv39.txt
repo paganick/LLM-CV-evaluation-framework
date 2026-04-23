@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates extensive visual design and general web experience, plus Agile collaboration and an interest in clean code, which is relevant to the role. However, the cover letter provides no concrete evidence of the core technical skills required (JavaScript/TypeScript, React, testing frameworks, Node/npm, modern CSS tooling, Git, or web security practices). Given the clear technical expectations in the job description, this profile lacks the specific hands-on engineering experience needed to be a strong match.

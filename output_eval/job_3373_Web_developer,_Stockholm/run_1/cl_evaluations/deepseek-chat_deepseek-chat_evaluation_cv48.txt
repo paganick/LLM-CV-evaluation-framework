@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical stack, including React, TypeScript, and modern tooling like ESLint, Jest, and CI/CD. Their extensive IT background provides a valuable holistic and security-conscious perspective. However, the cover letter lacks explicit, project-based evidence of hands-on front-end development experience, which is a key requirement for the role, making them a strong but not perfect match.

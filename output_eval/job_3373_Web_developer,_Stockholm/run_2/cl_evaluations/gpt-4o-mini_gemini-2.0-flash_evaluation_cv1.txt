@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development with JavaScript, HTML, CSS, and frameworks like ReactJS, which is aligned with the job description. However, they lack experience with modern CSS tools, testing frameworks mentioned, and basic web security knowledge, making them less than a strong candidate.

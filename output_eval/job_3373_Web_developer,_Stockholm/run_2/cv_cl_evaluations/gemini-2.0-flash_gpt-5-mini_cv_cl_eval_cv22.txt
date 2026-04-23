@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct experience with modern front-end frameworks like React, TypeScript, and related testing practices. While they express interest in learning and have some foundational knowledge in HTML, CSS, and Java, their background is primarily in media planning and database design, which does not align well with the job description's requirements. The resume highlights media planning roles and database projects, but lacks relevant front-end development experience.

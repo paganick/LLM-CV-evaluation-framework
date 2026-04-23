@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis, backend technologies (SQL, Python, ASP.NET) and QA for data systems, but they lack demonstrated experience with core front-end technologies required for this role (JavaScript/TypeScript, React, modern CSS, Node/npm). There is no evidence of experience with React, front-end testing frameworks (Jest/Cypress), Git workflows, or web security practices. While adaptable and motivated, they do not currently meet key technical requirements for this Front-End Developer position.

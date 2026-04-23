@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate expresses interest and has transferable soft skills but lacks concrete, hands-on experience in the core technical requirements. The letter mentions several relevant technologies but does not demonstrate proven experience with key job specifics like testing frameworks, modern CSS tools, CI/CD, or security practices. The transition from a non-technical background is a significant gap against the job's specific technical demands.

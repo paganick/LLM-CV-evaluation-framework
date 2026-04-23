@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a strong background in graphic design and is transitioning into frontend development, specifically with recent specialization in React, which aligns with the job's requirements. However, while they demonstrate familiarity with modern frontend tools and testing frameworks, their experience with JavaScript and TypeScript is not explicitly detailed, and there is no mention of experience with CI/CD tools or functional programming, which are relevant to the position.

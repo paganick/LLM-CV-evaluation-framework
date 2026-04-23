@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights experience in test engineering within the electronics manufacturing industry, but lacks explicit mentions of the specific technologies listed in the job description. While the candidate mentions Python scripting for test automation, there is no mention of Javascript, Typescript, modern FE frameworks (React, VueJS, Angular, Svelte), or modern CSS tools. The resume focuses on hardware and system-level testing, which is not the primary focus of the job description.

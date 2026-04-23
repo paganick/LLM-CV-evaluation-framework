@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate’s professional background is primarily in hardware electronics and physical testing, which is largely irrelevant to a modern frontend software testing role. While they mention the required tech stack, their primary experience relies on obsolete systems like Solaris 10 and Linux Mandrake, suggesting a significant gap in current software engineering standards. Furthermore, the letter fails to demonstrate experience with critical requirements such as Git, web security protocols, or cloud infrastructure.

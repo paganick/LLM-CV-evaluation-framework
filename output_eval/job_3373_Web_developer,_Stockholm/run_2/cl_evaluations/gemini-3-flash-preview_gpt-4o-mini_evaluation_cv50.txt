@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate holds a Computer Science degree and mentions the required tech stack, their professional history is primarily in management and business development rather than hands-on software engineering. The letter fails to demonstrate professional experience with core requirements such as Git, Node.js, CI/CD pipelines, or AWS, suggesting a lack of practical, production-level coding expertise. Consequently, the candidate lacks the specific "hands-on" developer experience necessary to fulfill this technical role.

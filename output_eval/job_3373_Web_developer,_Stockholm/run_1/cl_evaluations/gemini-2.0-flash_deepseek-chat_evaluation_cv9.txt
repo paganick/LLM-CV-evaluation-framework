@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate highlights relevant experience with JavaScript, HTML, Git, and Agile, aligning with the job description's core requirements. They also express a commitment to clean code and test automation, which is a plus. While primarily backend-focused, their stated passion for frontend and willingness to learn compensate, but more explicit frontend project examples would strengthen the application.

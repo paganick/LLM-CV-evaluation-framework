@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a good understanding of frontend technologies like React, HTML, CSS, and JavaScript. Their experience in test automation and Agile environments aligns well with the job description. However, the resume is primarily focused on Java, and the cover letter lacks specific examples of using modern CSS tools, CI/CD, or a deep dive into functional programming.

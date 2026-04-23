@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a test engineering background and is trying to pivot to frontend development, which is a considerable shift. While they mention familiarity with some relevant technologies (JavaScript, HTML, CSS, Git, SASS, NodeJS), the depth of experience seems limited, particularly concerning React, the framework the company uses. The letter focuses more on testing and less on demonstrating practical frontend development skills, making them lack specific experience/skills in the core requirements of the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in construction management, a field significantly different from front-end development. While the cover letter highlights transferable skills like problem-solving and communication, it openly admits a lack of direct experience with the required technologies (JavaScript, TypeScript, React, testing frameworks). The self-study of React is a positive, but insufficient to demonstrate practical experience needed for the role.

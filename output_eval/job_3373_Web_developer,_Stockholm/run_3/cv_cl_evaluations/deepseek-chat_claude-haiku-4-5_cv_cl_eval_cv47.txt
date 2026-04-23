@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemistry, not software development, making this a wrong industry fit. While they mention foundational HTML and C/C++, they lack any professional experience with the required technologies like React, TypeScript, modern testing frameworks, or Git. The cover letter expresses a desire to transition, but the resume provides no evidence of the specific technical skills or experience demanded by the job description.

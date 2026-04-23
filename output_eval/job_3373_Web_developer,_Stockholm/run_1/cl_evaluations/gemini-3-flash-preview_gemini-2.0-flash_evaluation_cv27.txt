@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all mandatory technical qualifications, explicitly stating they have yet to learn JavaScript, TypeScript, and React. There is no mention of experience with testing automation, Git, web security, or CI/CD tools required by the job description. While the candidate possesses transferable soft skills, their current technical profile is insufficient for a professional developer role and reflects an entry-level career transitioner rather than a qualified applicant.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Microbiologist with no documented professional experience, education, or technical background in software engineering. The resume shows a complete absence of the required technical stack, including JavaScript, TypeScript, and React, focusing instead on laboratory science and FDA regulations. Despite mentioning interest in the cover letter, the candidate lacks the fundamental programming skills and industry experience necessary for this role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their professional background is entirely in sales, management, and hospitality rather than software engineering. They lack all the mandatory technical skills required for the role, including JavaScript, TypeScript, React, and experience with modern development pipelines. Despite the candidate's leadership experience, they do not possess the foundational technical knowledge necessary to perform the duties of a developer.

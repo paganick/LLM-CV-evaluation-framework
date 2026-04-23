@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional experience with the required React and TypeScript stack, as well as essential tools like Git and Web security protocols. Their background is in marketing automation rather than software engineering, and they fail to demonstrate hands-on proficiency with modern frontend testing frameworks like Jest or Cypress. While they possess a technical foundation, they do not meet the core requirements for an established developer role.

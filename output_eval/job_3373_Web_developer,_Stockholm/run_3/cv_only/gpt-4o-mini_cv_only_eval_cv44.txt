@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in design and user experience, but lacks direct experience with key front-end technologies such as JavaScript, TypeScript, React, and testing frameworks mentioned in the job description. Their skills are more aligned with multimedia design and presentation, making them only partially relevant to the role. They have experience with HTML and CSS but do not demonstrate the required technical proficiency in modern front-end development or testing methodologies.

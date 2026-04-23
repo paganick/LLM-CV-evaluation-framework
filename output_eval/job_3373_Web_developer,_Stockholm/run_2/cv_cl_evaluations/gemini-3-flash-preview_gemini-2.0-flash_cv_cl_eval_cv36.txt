@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional Microbiologist with no documented experience or skills in software development, JavaScript, or React. They fail to meet every technical requirement listed in the job description, including frontend frameworks, testing automation, and cloud infrastructure. While they possess transferable soft skills, their background is entirely in a different industry and they lack the fundamental engineering expertise required for this position.

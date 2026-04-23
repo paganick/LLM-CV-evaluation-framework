@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume documents a long career in marketing, communications, and legal roles with no verifiable professional front-end development experience, projects, or technical certifications. The cover letter asserts proficiency with React, TypeScript, testing, and related tooling, but those claims are unsupported by the resume and there are no examples or evidence to validate them. Given the significant gap between the job requirements and the documented background, the candidate is not qualified for this front-end developer position.

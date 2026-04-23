@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is currently in a management role and lacks the specific technical proficiency required, particularly regarding TypeScript, automated testing frameworks, and web security. While they have industry experience and understand Agile, their admitted lack of React expertise—the primary library used—is a significant gap. The background presented is more aligned with project management and digital analysis than the specialized, hands-on engineering depth requested.

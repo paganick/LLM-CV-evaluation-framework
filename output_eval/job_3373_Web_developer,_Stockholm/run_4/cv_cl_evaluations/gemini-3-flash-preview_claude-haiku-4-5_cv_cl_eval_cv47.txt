@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for this technical role, lacking any professional experience with the required modern frontend stack, including JavaScript, TypeScript, and React. Their background is centered in business development and chemistry, with listed technical skills like Dreamweaver and Flash being obsolete for modern web development. There is no evidence of experience with testing, Git, CI/CD, or web security, making them an unsuitable match for this position.

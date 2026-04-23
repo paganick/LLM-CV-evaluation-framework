@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter mentions JavaScript, HTML, CSS, and front-end frameworks, but lacks explicit mention of React (other than generically saying it meets React developer requirements) and TypeScript, which are central to the job description. It also doesn't mention testing, Git, security, or other tools mentioned in the job description. The letter focuses more on general IT experience than specific front-end development skills.

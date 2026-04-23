@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a relevant degree and mentions the specific technology stack, their professional background is primarily centered on UX/UI leadership rather than core frontend engineering. They fail to demonstrate hands-on professional experience with automated testing frameworks—citing manual UAT instead—and their familiarity with React and TypeScript appears more theoretical than applied. Consequently, the candidate lacks the proven technical depth and specific engineering experience required for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE back-end development with only dated front-end exposure (AngularJS). The resume and cover letter lack direct, recent experience with the core requirements: React, modern CSS tools, functional programming (Ramda), and specific testing frameworks like Jest or Cypress. While they have relevant industry knowledge and Agile experience, they are missing the specific, hands-on technical skills required for the role.

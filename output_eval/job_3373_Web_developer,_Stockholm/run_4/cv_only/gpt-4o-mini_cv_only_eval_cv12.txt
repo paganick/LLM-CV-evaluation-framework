@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a diverse technical background but lacks specific experience with modern front-end frameworks (especially React), testing frameworks, and the broader tech stack mentioned in the job description. Although they possess experience in JavaScript, HTML, and CSS, their focus seems primarily on backend development and other languages, indicating a gap in relevant front-end skills essential for the role.

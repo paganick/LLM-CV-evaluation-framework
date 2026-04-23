@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a diverse background in media production and demonstrates some transferable skills relevant to the Front-End Developer position. However, they lack direct experience with key technologies such as React, modern CSS tools, testing frameworks, and the Node.js ecosystem, which are critical for this role. Additionally, their emphasis on media production may suggest a limited familiarity with specific software development practices and environments.

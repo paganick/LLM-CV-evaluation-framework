@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in arts administration, education, and plant operations, with no demonstrated professional experience in software development. The resume lists "html" and "web-design" as skills but shows no evidence of the required JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical competencies from the job description. This is a complete industry mismatch with no relevant professional qualifications for the front-end developer role.

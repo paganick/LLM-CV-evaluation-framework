@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate is transitioning from an implementation consultancy background and lacks proven professional experience with the core requirements of React, TypeScript, and automated testing frameworks like Jest or Cypress. While they possess relevant industry knowledge in HTML/CSS and Agile methodologies, their background is primarily in software configuration and client management rather than specialized front-end engineering. Consequently, they do not currently meet the seniority or specific hands-on technical requirements for this developer role.

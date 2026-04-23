@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant technical foundation and a strong motivation to transition into web development. However, the cover letter lacks specific, direct evidence of experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and the specific tools mentioned. While soft skills and a construction analogy are presented, the application does not convincingly prove hands-on proficiency with the required stack.

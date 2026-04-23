@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, React, HTML, CSS, and Git, aligning well with the core requirements. They also have experience in testing and test automation. The candidate's resume lacks explicit mention of TypeScript, styled components, and some of the preferred testing frameworks like Jest or Cypress, though they express interest.

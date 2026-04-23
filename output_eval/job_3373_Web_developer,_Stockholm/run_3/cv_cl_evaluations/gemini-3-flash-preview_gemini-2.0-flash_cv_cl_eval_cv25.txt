@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a professional Graphic Designer whose technical experience is limited to basic HTML and CSS for newsletters, failing to meet nearly all core requirements of the role. There is no evidence of professional experience with JavaScript, TypeScript, React, testing frameworks, or CI/CD pipelines as specified in the job description. The profile lacks the necessary engineering foundation and software development background required for this position.

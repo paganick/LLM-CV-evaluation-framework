@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates experience with JavaScript, HTML, and CSS, they lack specific experience with modern FE frameworks like React, which is the primary framework used by the company. Their background is heavily focused on ASP.NET, which is not the focus of this role, and their cover letter suggests they are still learning React and functional programming practices. Although they express a willingness to learn, the candidate's current skill set does not closely align with the job description's requirements.

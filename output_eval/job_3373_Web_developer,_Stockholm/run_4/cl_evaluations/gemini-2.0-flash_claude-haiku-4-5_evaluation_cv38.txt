@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a different field and lacks explicit experience with Javascript, Typescript and modern FE frameworks such as React, crucial for the role. While the candidate mentions familiarity with HTML, CSS, and web design principles, they do not provide quantifiable achievements. The letter focuses on transferable skills rather than directly addressing the technical requirements outlined in the job description, such as testing frameworks and Git workflows.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an implementation consultant and project manager who lacks the required professional experience in JavaScript, TypeScript, and modern front-end frameworks like React. They have no background in automated testing, CI/CD, or cloud infrastructure, which are central requirements for this software engineering role. Their technical experience is limited to basic web design and marketing platform configurations rather than professional application development.

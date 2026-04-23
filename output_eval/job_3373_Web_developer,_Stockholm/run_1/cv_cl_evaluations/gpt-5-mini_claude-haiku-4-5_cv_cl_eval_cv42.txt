@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a 20-year career in finance and operations with no verifiable hands-on frontend engineering experience, projects, or toolchain exposure (JavaScript/TypeScript, React, testing frameworks, Git/GitHub, Node, etc.). The cover letter expresses intent and ongoing learning but does not provide concrete evidence of the required technical proficiency or portfolio to meet the role's expectations. Given the role demands practical frontend expertise and proven experience, this candidate is not qualified for the position as presented.

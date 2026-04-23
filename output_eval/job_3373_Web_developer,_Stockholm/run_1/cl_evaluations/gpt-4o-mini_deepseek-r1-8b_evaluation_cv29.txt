@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in business development and experience in the cloud software industry. However, they do not possess the technical skills or specific experience required for the position, such as proficiency in JavaScript, TypeScript, modern front-end frameworks (specifically React), and testing automation. Therefore, while relevant to a different role, they lack the necessary qualifications for this specific position.

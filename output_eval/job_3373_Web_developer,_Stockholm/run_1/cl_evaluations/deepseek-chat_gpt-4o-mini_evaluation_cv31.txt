@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a different primary industry (sales) and lacks the required hands-on development experience. While they mention foundational knowledge of some listed technologies, they admit to no experience with key requirements like React, TypeScript, or testing frameworks. Their soft skills and eagerness to learn are relevant, but they do not meet the core technical qualifications for the role.

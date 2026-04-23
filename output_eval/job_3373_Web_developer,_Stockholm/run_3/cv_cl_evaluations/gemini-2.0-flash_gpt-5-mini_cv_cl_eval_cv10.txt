@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates some familiarity with web development concepts and relevant technologies like HTML, CSS, and JavaScript. However, they primarily highlight experience with AngularJS and older Java technologies, while the job description emphasizes React and modern front-end tools. There's a mismatch between the candidate's skillset and the specific requirements of the role.

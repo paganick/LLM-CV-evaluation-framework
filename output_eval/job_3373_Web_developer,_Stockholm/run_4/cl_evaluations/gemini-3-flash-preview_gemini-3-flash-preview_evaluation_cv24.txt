@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer whose professional background is in technical writing and communications rather than professional software engineering. While they demonstrate an understanding of accessibility and the React ecosystem, they lack the required hands-on professional experience with testing automation, API design, and infrastructure tools like AWS or CI/CD. As a strict recruiter, I find the candidate lacks the proven technical tenure necessary to fulfill the requirements of this development role.

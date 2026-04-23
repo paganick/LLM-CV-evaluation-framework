@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate shows strong frontend foundations (JavaScript, React, Node.js, SASS), functional programming with Ramda, CI/CD and testing awareness, and solid collaboration/Agile experience. However, they do not explicitly demonstrate TypeScript experience, specific testing frameworks (Jest/Cypress/TestCafe), linters/formatters, Styled Components/Express.js, or concrete web-security knowledge (OWASP/CSP/OAuth), which are explicit requirements. Given these gaps in key required technologies and tools, the application is relevant but incomplete.

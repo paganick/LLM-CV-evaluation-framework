@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in data analysis and project management, which is beneficial, but lacks direct hands-on experience in front-end development technologies such as JavaScript, TypeScript, and modern frameworks beyond a basic understanding of React. While they have expressed eagerness to learn and a commitment to clean coding practices, significant gaps in required technical skills and experience with testing automation limit their suitability for this specific role.

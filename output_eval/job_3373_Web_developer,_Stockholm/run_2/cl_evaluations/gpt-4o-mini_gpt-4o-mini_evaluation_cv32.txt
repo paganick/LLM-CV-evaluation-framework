@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has some foundational knowledge and expresses a strong interest in the tech industry, they lack direct experience with modern frameworks, testing frameworks, and continuous integration/deployment tools that are specifically mentioned in the job description. Their background in customer service and management could lend useful soft skills, but it does not compensate for the lack of technical qualifications and specific experience required for the role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate’s experience is entirely in microbiology, laboratory management, and regulatory training with no demonstrated skills in JavaScript, TypeScript, HTML/CSS, React or other modern front-end frameworks. There is no evidence of experience with developer tools and practices required by the role (Git, npm/Yarn, NodeJS, testing frameworks, CI/CD, web security, etc.). This resume is a mismatch for the front-end engineer position.

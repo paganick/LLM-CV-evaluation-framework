@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in project management and digital advertising with some experience in HTML and CSS, but lacks direct experience with JavaScript, TypeScript, modern frontend frameworks (specifically React), and testing automation tools. Additionally, their experience does not align closely with the specific requirements outlined in the job description, such as knowledge of security on the Web or CI/CD tools.

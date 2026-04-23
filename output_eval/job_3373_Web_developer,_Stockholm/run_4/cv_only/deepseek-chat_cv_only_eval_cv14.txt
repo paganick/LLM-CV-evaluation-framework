@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in ASP.NET, C#, and SharePoint, which is a different tech stack from the required JavaScript/TypeScript and modern React-based frontend. While they have listed basic HTML, CSS, and JavaScript, there is no demonstrated experience with React, Vue, Angular, Svelte, or any of the specified modern testing, tooling, or functional programming frameworks. The profile is not aligned with the core frontend developer requirements of the job description.

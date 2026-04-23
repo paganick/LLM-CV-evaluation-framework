@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: This candidate's background is exclusively in construction and project management, lacking any of the required front-end development skills (JavaScript, React, HTML, CSS, etc.). The resume demonstrates no experience or even familiarity with the technologies listed in the job description. The cover letter expresses interest but does not address the specific technical requirements, indicating a fundamental mismatch.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a basic understanding of HTML, CSS, JavaScript, and Git, but lacks experience with React and other modern front-end tools mentioned in the job description. Their experience is primarily in .NET, which is not the focus of this role. The cover letter doesn't highlight relevant experience beyond the bare minimum requirements, suggesting a weaker fit.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a solid background in digital communications and shows a willingness to transition into front-end development, they lack direct hands-on experience with JavaScript, TypeScript, and modern front-end frameworks such as React, which are crucial for the role. Although they mention familiarity with some relevant concepts, their overall technical skills do not align closely enough with the job requirements.

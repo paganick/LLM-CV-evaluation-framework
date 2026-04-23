@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks all the core technical competencies required for the role, explicitly stating they still need to "acquire" the necessary skills in JavaScript, TypeScript, and React. Their professional background in materials analysis and manufacturing is unrelated to software engineering, and the letter provides no evidence of experience with CSS, Git, or testing frameworks. Consequently, the applicant is completely unqualified for a frontend position requiring hands-on experience.

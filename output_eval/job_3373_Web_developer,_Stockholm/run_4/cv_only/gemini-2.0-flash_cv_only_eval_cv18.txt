@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience with JavaScript, HTML, and CSS, but lacks specific modern FE frameworks like React, VueJS, Angular, or Svelte. There is no mention of testing frameworks, CI/CD tools, or cloud platforms like AWS. The resume focuses on general IT consulting rather than FE development.

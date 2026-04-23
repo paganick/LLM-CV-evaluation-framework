@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design, which is tangentially related, but lacks direct experience in JavaScript, TypeScript, and modern FE frameworks beyond basic HTML/CSS. While they express interest in learning, the cover letter doesn't demonstrate sufficient experience with the technologies listed in the job description, particularly testing, Git, security, or modern CSS tools. The letter highlights soft skills but lacks concrete examples of relevant technical accomplishments.

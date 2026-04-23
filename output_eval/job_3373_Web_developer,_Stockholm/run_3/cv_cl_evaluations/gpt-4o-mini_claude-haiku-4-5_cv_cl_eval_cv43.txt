@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in program management and learning design, which is not directly aligned with the technical skills required for the frontend developer position. While they express a strong desire to transition into development, they lack the necessary hands-on experience with JavaScript, modern frameworks like React, testing frameworks, and other specific technical skills mentioned in the job description. Their technical coursework is also insufficient for the role, resulting in a lack of essential qualifications.

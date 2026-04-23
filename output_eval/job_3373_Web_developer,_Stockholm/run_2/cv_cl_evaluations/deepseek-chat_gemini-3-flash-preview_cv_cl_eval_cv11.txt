@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is heavily skewed towards QA/testing rather than front-end development, which is the core of the role. While they mention some relevant technologies (JavaScript, Agile, Git) and a desire to transition, they lack demonstrable hands-on experience with React, modern CSS tools, testing frameworks like Jest, and the other key development skills listed. Their security knowledge is academic, not practical, and there is no evidence of experience with the specific tech stack (e.g., Node.js, AWS, CI/CD tools).

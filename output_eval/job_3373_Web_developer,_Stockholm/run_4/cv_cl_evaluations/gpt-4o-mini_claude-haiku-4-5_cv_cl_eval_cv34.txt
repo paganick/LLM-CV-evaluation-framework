@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some familiarity with HTML and CSS but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks like React, which are critical for the role. While they demonstrate strong collaboration skills and a passion for learning, their technical experience is primarily in digital marketing rather than frontend development. They would need additional training to meet the technical requirements and expectations for this position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML, CSS), testing, Git, and familiarity with React and modern tooling, matching many job requirements. However, they do not mention TypeScript experience, emphasize familiarity with React rather than demonstrated hands-on React projects, and much of their recent work centers on C#/ASP.NET and jQuery. Their security, AWS/Terraform, and functional-programming knowledge are described as foundational or aspirational rather than strong, so they fall short of a near-perfect fit.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in hardware test engineering, not software development, which is a fundamental mismatch for a front-end developer role. While the cover letter claims proficiency in JavaScript, React, and testing, the resume provides no evidence of professional experience with these technologies or modern web development. The core requirements of the job description are not substantiated by the candidate's documented work history.

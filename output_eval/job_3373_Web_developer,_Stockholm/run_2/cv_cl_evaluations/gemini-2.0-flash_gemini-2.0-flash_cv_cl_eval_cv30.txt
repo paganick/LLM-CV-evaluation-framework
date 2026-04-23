@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analysis and quality, with limited front-end experience. While they express interest in learning React, the resume lacks concrete evidence of skills in JavaScript, TypeScript, modern FE frameworks, or testing frameworks mentioned in the job description. The cover letter highlights transferable skills, but the technical gaps are significant.

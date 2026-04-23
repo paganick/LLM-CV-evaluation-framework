@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required React and TypeScript stack, as their background is primarily focused on Java, performance testing, and legacy AngularJS. They do not demonstrate proficiency with modern frontend tools such as Styled Components, SASS, or automated testing frameworks like Jest and Cypress. Additionally, the candidate's work history is largely intern-level or centered on backend systems, failing to meet the core requirements for a modern frontend specialist.

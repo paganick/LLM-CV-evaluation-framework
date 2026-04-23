@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience (JavaScript, HTML, CSS, Git) and Agile familiarity, but the resume emphasizes ASP.NET and jQuery rather than modern frontend stack. There is no concrete evidence of React, TypeScript, testing frameworks, Node/npm, modern CSS tools, or CI/CD in the CV despite claims in the cover letter. Overall, they are in the right industry but lack the specific, demonstrable skills required for this role.

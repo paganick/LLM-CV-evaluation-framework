@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate mentions the required technologies (JavaScript, TypeScript, HTML, CSS, React), the cover letter heavily focuses on project management and civil engineering experience, making it difficult to assess the depth of their frontend development skills. The candidate demonstrates familiarity with some relevant tools and concepts, but the emphasis on past roles overshadows their applicable experience. There is an indirect relation of skills, but this does not show enough understanding of Frontend.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a technical background in electronics and hardware testing, they lack professional experience with the primary requirements of the role, including React, TypeScript, and modern CSS. Their testing experience is hardware-focused rather than aligned with web automation frameworks like Jest or Cypress, and there is no mention of Git or web security protocols. The applicant appears to be a career-changer who does not yet meet the specific skill set or seniority level required for this position.

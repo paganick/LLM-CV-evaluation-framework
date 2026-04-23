@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer transitioning from business development and lacks professional, hands-on experience in JavaScript, TypeScript, or React. While they possess relevant industry knowledge and high-level familiarity with APIs and AWS, they fail to meet the essential requirements for frontend engineering proficiency and production-level coding experience. Their background as a Director of Business Development does not translate to the technical skills required for a development role.

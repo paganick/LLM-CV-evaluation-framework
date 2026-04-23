@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong data analysis, backend and QA experience (SQL, Python, C#, ASP.NET) and expresses interest in front-end work, but lacks demonstrated hands-on experience with core requirements such as JavaScript/TypeScript, React, modern CSS, Node/npm, front-end testing frameworks, and CI/CD. Their cover letter shows willingness to learn, but the resume does not provide evidence of the specific front-end skills, tools, or frameworks required for this role. This is relevant industry experience but insufficient for the position as advertised.

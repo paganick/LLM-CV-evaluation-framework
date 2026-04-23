@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong alignment with the technical stack, including React, TypeScript, and modern CSS/testing tools, and directly addresses the job's emphasis on clean code and Agile collaboration. Their unique background in banking provides a compelling narrative for problem-solving and stakeholder management, which are valuable soft skills. The score is not a 9 because, while their skills are well-matched, the cover letter does not explicitly mention experience with several listed "nice-to-have" requirements like CI/CD, AWS, or API design.

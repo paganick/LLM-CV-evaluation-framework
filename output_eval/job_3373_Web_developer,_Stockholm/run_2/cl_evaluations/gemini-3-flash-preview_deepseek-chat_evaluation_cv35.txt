@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to demonstrate professional experience with the core requirements of the role, most notably React, TypeScript, and Git. While they have worked with HTML, CSS, and JavaScript within a marketing automation context, they lack exposure to modern front-end development workflows, build tools, and specific testing libraries like Jest or Cypress. Consequently, the applicant lacks the specific technical depth and tool-stack proficiency required to function as an effective developer in this environment.

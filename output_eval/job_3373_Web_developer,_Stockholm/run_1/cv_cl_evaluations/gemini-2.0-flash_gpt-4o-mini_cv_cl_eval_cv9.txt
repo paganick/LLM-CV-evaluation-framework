@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in Java/JEE, which isn't the focus of the job. While they mention JavaScript, HTML, and CSS, the resume doesn't showcase strong skills in modern FE frameworks like React (the one the company uses). They lack concrete experience with several technologies listed as desirable, such as NodeJS, modern CSS tools, and specific testing frameworks.

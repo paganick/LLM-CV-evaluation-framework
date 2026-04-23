@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong IT/INFOSEC and systems background and asserts familiarity with HTML, CSS, JavaScript, testing, and Git, which shows relevant industry experience. However, the resume lacks demonstrable, hands-on experience with core frontend requirements—React, TypeScript, modern frontend toolchain (Node/npm/Yarn, testing frameworks like Jest/Cypress/TestCafe, modern CSS tooling), and CI/CD/AWS experience. Given the role’s emphasis on practical frontend framework and tooling expertise, the candidate does not meet the specific skill set required.

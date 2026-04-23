@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses five years of web development experience, they lack professional proficiency in the core technologies required, specifically React and TypeScript. Their background is heavily rooted in the Drupal ecosystem, and they are only currently "deepening knowledge" of the modern frameworks essential for this position. Additionally, the application fails to demonstrate hands-on experience with the specific testing suites, security protocols, and functional programming requirements outlined in the job description.

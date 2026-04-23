@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an IT management and cybersecurity professional with no demonstrated experience in front-end software development or the required technology stack (JavaScript, React, TypeScript). Their background focuses on INFOSEC, policy, and government systems administration rather than hands-on coding or API design. There is a complete lack of the specific technical skills and framework experience necessary for this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates strong engineering fundamentals and transferable experience (7+ years in mainframe development, Agile, debugging, and a clear willingness to learn React). However, they lack demonstrable hands-on experience with the role's core technologies: React/TypeScript, modern CSS tooling, frontend testing frameworks, Git/GitHub workflows, Node/npm ecosystem, and basic web security (OWASP/CSP/CORS/OAuth). Without concrete evidence of frontend work or testing/CI experience, they are not yet a strong match for this position.

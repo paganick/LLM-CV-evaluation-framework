@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in test engineering, which aligns with the position; however, they lack significant expertise in front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. Their skill set appears to focus more on hardware and system testing rather than the software development requirements outlined in the job description, which includes a robust understanding of web security and testing frameworks applicable to front-end development.

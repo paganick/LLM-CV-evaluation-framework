@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings relevant cloud-software product, API-integration, and cross-functional collaboration experience and is actively upskilling in front-end technologies. However, they lack demonstrated hands-on experience with the role's core technical requirements—React, JavaScript/TypeScript coding, frontend testing frameworks, modern CSS tooling, Git/CI workflows, and Node/npm—which are essential for immediate contribution. Their profile indicates potential but does not currently meet the technical expectations for this front-end engineering position.

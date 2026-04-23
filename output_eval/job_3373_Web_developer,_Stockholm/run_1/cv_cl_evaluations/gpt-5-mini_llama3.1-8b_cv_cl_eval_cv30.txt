@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in data analytics, backend/legacy web tech (ASP.NET, C#, HTML) and QA/data testing, with no demonstrable professional experience in the modern frontend stack required (React, TypeScript, modern CSS tools, Node/npm, or frontend testing frameworks). Claims in the cover letter about frontend tooling, CI/CD, and security are not substantiated by concrete examples or resume evidence. While they show technical aptitude and testing experience, they lack the core frontend framework and toolchain skills to be a strong match.

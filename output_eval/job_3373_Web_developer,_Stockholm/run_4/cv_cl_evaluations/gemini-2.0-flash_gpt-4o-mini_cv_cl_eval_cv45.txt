@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on IT project management, security, and infrastructure rather than front-end development. While the cover letter attempts to bridge the gap, the resume lacks concrete examples of hands-on experience with JavaScript, React, or modern CSS tools. The candidate has some relevant skills but lacks demonstrable experience in the required technologies.

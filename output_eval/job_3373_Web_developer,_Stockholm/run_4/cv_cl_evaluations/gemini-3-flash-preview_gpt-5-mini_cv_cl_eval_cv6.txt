@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Drupal specialist whose technical background centers on PHP, jQuery, and legacy frameworks rather than the modern React and TypeScript stack required. They lack professional experience with essential job requirements such as contemporary CSS-in-JS, Node.js ecosystem tools, CI/CD pipelines, and modern testing frameworks like Jest or Cypress. While the candidate has relevant web development experience, they do not possess the specific core competencies needed for this frontend engineering role.

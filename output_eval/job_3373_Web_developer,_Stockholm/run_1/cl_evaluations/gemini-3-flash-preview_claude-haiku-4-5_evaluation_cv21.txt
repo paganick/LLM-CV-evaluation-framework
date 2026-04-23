@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks direct professional experience with the primary required technologies, specifically React, TypeScript, and modern testing frameworks like Jest or Cypress. While they possess extensive general development experience, they are a transitioning backend developer who requires significant upskilling in the core frontend stack and modern CI/CD tools. Key requirements such as web security knowledge and functional programming expertise are also missing from their profile.

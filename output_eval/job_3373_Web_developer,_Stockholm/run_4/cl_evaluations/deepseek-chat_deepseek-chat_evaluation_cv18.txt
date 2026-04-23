@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong relevant experience in core front-end technologies, project management, and collaboration, aligning well with many job requirements. However, the cover letter is vague on specific modern tools listed in the job description (e.g., TypeScript, testing frameworks, CI/CD, specific CSS tools) and does not explicitly confirm hands-on experience with them. The extensive general IT background is an asset but lacks the precise, demonstrated proficiency in the modern tech stack that would make a perfect match.

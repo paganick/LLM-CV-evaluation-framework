@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive web development experience but is heavily skewed towards legacy .NET, C#, and ASP.NET stacks with only brief mentions of AngularJS and jQuery. The job requires modern React expertise, deep TypeScript/JavaScript focus, and specific modern tooling (e.g., Jest, Cypress, Styled Components, Ramda) which are not demonstrated. While the cover letter attempts to bridge the gap, the resume lacks concrete, recent experience with the core technologies listed in the job description.

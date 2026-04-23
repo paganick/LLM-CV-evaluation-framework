@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant design degree, 3+ years in graphic/web design, and strong Adobe and basic HTML/CSS skills, which align with the role at a surface level. However, they lack documented hands-on UI/UX experience with wireframing/prototyping tools (InVision, Wireframe.cc), explicit interface design of menus/tabs/widgets, and no portfolio or concrete examples of UX work are provided. Given the job’s emphasis on prototyping, UX collaboration, and specific tooling, the application is relevant but insufficiently demonstrated for a strong hire.

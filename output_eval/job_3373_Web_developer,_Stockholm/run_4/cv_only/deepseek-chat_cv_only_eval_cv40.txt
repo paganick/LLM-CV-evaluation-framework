@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume is for a Senior Director/VP-level Product Management role with zero mention of the required technical skills (JavaScript, React, testing, Git, etc.). Their experience is in product strategy, marketing, and business development, not hands-on front-end software development. This is a completely unqualified application for a software engineering position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required JavaScript, TypeScript, and React experience. While they mention HTML, CSS, and SQL, their experience is limited to website maintenance and data querying rather than modern front-end development. Their background is primarily in project management and Salesforce Marketing Cloud implementations, which doesn't align with the core skills needed for this front-end developer role.

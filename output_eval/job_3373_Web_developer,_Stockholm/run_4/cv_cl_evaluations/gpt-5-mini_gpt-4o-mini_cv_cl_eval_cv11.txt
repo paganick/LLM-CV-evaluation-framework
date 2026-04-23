@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant QA and automation experience with JavaScript, HTML/CSS and Agile practices, but their resume shows primarily testing roles rather than hands‑on frontend development. There is no demonstrable experience with React, TypeScript, modern NodeJS tooling, Styled Components/SASS, or CI/CD/AWS/Terraform which are core to the role. Given the gap in required frontend framework and ecosystem expertise, they are not qualified for this frontend developer position.

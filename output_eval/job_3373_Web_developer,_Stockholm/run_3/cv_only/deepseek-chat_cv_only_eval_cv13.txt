@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry background and mentions JavaScript, HTML/CSS, and Angular, but the resume is primarily focused on project management, not hands-on development. It lacks specific, recent experience with core requirements like React, TypeScript, modern testing frameworks, and functional programming. While they have some overlapping skills, their professional focus and depth in the required technical stack do not align with the job description.

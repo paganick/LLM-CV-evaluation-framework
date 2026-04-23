@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am writing to express interest in the Front-End Engineer position. With two years as a software engineer specializing in front-end development, I bring solid JavaScript, HTML and CSS experience, a strong grounding in SDLC and Scrum Agile practices, and hands-on experience delivering maintainable web applications in collaborative teams. At the University of Missouri Application Development Network I contributed to multiple projects where I designed, refactored, and implemented web interfaces, server-side components, and scheduled tasks that supported production users.
+
+My technical strengths include client-side JavaScript, jQuery, AJAX, Bootstrap CSS and responsive HTML. I have implemented client-side validation, dynamic list filtering and interactive availability grids, integrated rich-text editing with CKEditor, and replaced tightly coupled data layers with class libraries to improve reuse and testability. On the server side I have developed C# class libraries, ASP.NET MVC pages, web services, console applications for scheduled jobs, and database access using ADO.NET and Entity Framework. I routinely created stored procedures, views and triggers, and used Red Gate SQL Compare for deployments between environments.
+
+I am experienced working in Agile teams: participating in daily scrums, planning and estimating, producing demos at the end of sprints, and collaborating closely with QA to ensure defects are resolved and quality standards met. I have supported production environments, handled bug fixes, and implemented role-based authentication and form-based security controls.
+
+In the Atlas project I built an Availability Calendar Grid that toggles availability per hour and consumed course schedules provided by the data-warehouse team. I also developed a C# console application to run scheduled email tasks and refactored tightly coupled table adapters into reusable class libraries. On AppInventory and GoAdmin I used Entity Framework and LINQ, implemented CSV import utilities, and updated templates to Bootstrap to improve usability across devices and platforms.
+
+While my recent work has been primarily within the .NET ecosystem, I am eager to apply my front-end skills to modern frameworks such as React and adopt contemporary tooling and test automation practices. I am comfortable using Git and GitHub for version control and have a track record of refactoring legacy code to improve structure and maintainability, a practice I take seriously to deliver truly clean, well-organized code.
+
+I welcome the opportunity to bring my practical front-end experience, collaborative mindset, and commitment to quality to your team. Thank you for considering my application.
+
+Sincerely, Alexis

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in media production and some exposure to web technologies, which shows potential for transition into frontend development. However, they lack hands-on experience with JavaScript frameworks such as React or testing frameworks, and do not demonstrate familiarity with key concepts like unit testing, security, or the broader tech stack mentioned in the job description. This leaves a significant gap in the required qualifications for the role.

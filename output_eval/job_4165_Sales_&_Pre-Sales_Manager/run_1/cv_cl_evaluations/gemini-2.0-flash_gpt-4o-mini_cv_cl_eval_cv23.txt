@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has extensive business development experience, particularly in digital strategies and client-facing roles. They demonstrate experience with Fortune 500 companies and new client acquisition. However, the resume lacks explicit detail regarding experience with application services (API, Cloud, DevOps, Microservices), Business Analytics (BigData, Data Science) or Design Consulting (UX/UI, Design Thinking, UX Research) as the job description requires.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant background in software testing and Agile, they fail to demonstrate proficiency in essential requirements such as TypeScript, Git, and modern testing frameworks like Jest or Cypress. The cover letter emphasizes legacy or irrelevant tools like Selenium and Java, while ignoring the specific needs for web security knowledge and CI/CD experience mentioned in the job description.

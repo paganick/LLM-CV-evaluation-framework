@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in data analysis and statistical modeling with tools like R, SAS, Python and SQL, and shows no evidence of JavaScript, TypeScript, HTML/CSS, React or other modern front-end framework experience required for this role. There is also no demonstrated experience with front-end testing, Git-based workflow, Node/npm, CI/CD, or web security fundamentals listed in the resume. While technically skilled in analytics, the profile is a clear mismatch for a front-end engineering position.

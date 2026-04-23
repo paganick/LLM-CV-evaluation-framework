@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in product management and leadership, but there is a significant lack of direct experience in front-end development and specific technologies mentioned in the job description, such as modern front-end frameworks like React (which is specifically noted as being used by the company). While they have a foundational understanding of relevant programming languages and methodologies, their experience does not fully align with the hands-on technical requirements needed for this role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows extensive DoD IT/INFOSEC management and operations experience but no evidence of JavaScript, TypeScript, HTML/CSS, React (or other modern frontend frameworks), frontend testing, or Node.js ecosystem experience required by the role. While the candidate has strong security and program management background and a TS/SCI clearance, they lack the specific hands-on frontend development and tooling skills necessary for this position.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong user advocacy, customer research, cross-functional collaboration and some mentorship/leadership experience, which are relevant to UX. However they lack documented commercial UX experience, no evidence of prototyping with Figma, design system management, HTML/CSS/JS exposure, or working in an Agile software development environment. Given the job's technical and UX-specific requirements, this profile is insufficient for a mid-level UX Designer role.

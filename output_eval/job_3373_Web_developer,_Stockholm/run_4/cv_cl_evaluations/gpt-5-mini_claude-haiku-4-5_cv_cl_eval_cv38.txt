@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is primarily in media production with only minimal exposure to HTML/CSS and web design; there is no demonstrated proficiency in JavaScript/TypeScript, React, testing frameworks, Git, Node/npm, or other required frontend tools. Although motivated to transition and familiar with visual design, they do not currently meet the technical skillset and hands-on experience required for this frontend developer role. This is a career-change applicant who would require substantial training before being productive in this position.

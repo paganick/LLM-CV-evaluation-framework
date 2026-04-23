@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all required technical skills and professional experience in software development, possessing a background exclusively in banking and sales. There is no evidence of proficiency in JavaScript, React, or any part of the requested tech stack within the resume. Consequently, the applicant is completely unqualified for a frontend developer role that necessitates hands-on engineering experience.

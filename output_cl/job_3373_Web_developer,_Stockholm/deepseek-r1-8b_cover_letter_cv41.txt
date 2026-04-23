@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the software engineering position advertised. My background, while rooted in systems administration and infrastructure support, has provided me with a solid foundation in software development principles, problem-solving, and technical collaboration, aligning closely with the requirements of this role.
+
+My systems engineering experience involved the analysis, design, and implementation of complex software systems, including custom applications and COTS software. I gained proficiency in translating requirements into functional specifications and ensuring the stability and performance of these systems through rigorous monitoring, maintenance, and troubleshooting. This included deep dives into operating system interactions, database management, and application server environments like J2EE and Oracle.
+
+A key aspect of my role was ensuring system reliability and security. I performed root cause analysis for system failures, contributing to a 15% improvement in accuracy. I monitored networks and systems for performance and security posture, familiar with concepts like network tuning, data integrity, and the foundational principles of security frameworks relevant to the OWASP Top 10 vulnerabilities. My CompTIA Security+ certification further demonstrates my commitment to understanding and mitigating web security risks.
+
+I am a team player who thrives in structured environments, comfortable interacting with diverse teams and partners to achieve common goals. I am adept at understanding complex systems and translating technical details for various audiences, a skill honed through documentation and training support in my previous roles. I am proficient in adhering to coding standards and best practices, ensuring the quality and maintainability of the systems I worked on, mirroring the passion for clean code mentioned.
+
+While my primary focus has been on infrastructure and systems, my work involved supporting web applications, understanding their dependencies, and contributing to their stability. I am highly adaptable, eager to learn new technologies, frameworks like React, and modern development practices. I am confident in my ability to quickly ramp up on the required frontend technologies and contribute effectively to the team's success.
+
+Thank you for considering my application. I am excited by the opportunity to apply my technical skills, problem-solving abilities, and collaborative spirit to your challenging projects. I look forward to discussing how my background can benefit your team.
+
+Sincerely,
+Alexis

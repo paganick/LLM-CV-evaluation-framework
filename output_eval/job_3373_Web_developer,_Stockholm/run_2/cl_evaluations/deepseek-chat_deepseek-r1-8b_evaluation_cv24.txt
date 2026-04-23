@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in digital communications and technical writing, which is a completely different domain from the required front-end engineering role. The cover letter demonstrates no experience with the core technical stack, including JavaScript, React, testing frameworks, or any other listed technologies. While the candidate mentions a passion for "clean code," this is not substantiated with relevant technical skills, making them unqualified for this specific position.

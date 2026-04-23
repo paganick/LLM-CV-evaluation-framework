@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The applicant is a career-changer with 10 years of experience in communications and marketing rather than professional software engineering. They fail to demonstrate hands-on proficiency in JavaScript or React, explicitly stating a need to "expand" their knowledge in these core areas during the role. Without a professional track record in testing automation, web security, or modern development workflows, the candidate does not meet the mandatory technical requirements.

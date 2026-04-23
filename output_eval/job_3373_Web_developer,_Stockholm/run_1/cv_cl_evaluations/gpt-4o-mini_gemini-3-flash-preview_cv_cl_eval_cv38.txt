@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in media production and some relevant technical experience, but lacks direct experience with the modern front-end frameworks and libraries specified in the job description, specifically React. While they demonstrate a willingness to learn and adapt, the lack of concrete front-end development experience and knowledge of testing frameworks limits their fit for this role.

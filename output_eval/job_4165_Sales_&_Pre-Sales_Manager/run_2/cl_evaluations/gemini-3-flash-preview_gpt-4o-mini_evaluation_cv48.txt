@@ -1,0 +1,2 @@
+Score: 4/10
+Reasoning: While the candidate meets the minimum three-year client-facing requirement, their background in Industrial and Manufacturing Engineering is a poor fit for a role targeting Banking, Insurance, and Telco sectors. The experience highlighted centers on manufacturing cycle times and ERP systems rather than the required expertise in Application Services (API, Cloud, DevOps) or Customer Loyalty digitalization. Consequently, the candidate lacks the specific industry-relevant technical depth and vertical experience mandated by the job description.

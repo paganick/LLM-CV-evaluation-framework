@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in design and user experience but lacks direct experience with key technical requirements such as JavaScript frameworks (specifically React), testing frameworks, and knowledge of CI/CD tools. While they express enthusiasm for the role and possess a relevant degree, their skill set does not fully align with the specific needs of the frontend developer position.

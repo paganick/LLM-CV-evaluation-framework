@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales leadership with no demonstrated professional experience in software development. The resume and cover letter lack any evidence of the required technical skills in JavaScript, TypeScript, React, testing, or modern web development tools. This is a completely unqualified application for a frontend developer role.

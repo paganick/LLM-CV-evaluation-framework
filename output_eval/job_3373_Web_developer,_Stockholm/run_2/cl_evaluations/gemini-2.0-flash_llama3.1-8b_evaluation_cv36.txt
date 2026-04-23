@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in microbiology and quality control, which doesn't align with the front-end development requirements. While they express adaptability and familiarity with some software, they lack the core programming skills (JavaScript, TypeScript, HTML, CSS, React) outlined in the job description. Their cover letter focuses on transferable skills rather than demonstrating relevant technical expertise.

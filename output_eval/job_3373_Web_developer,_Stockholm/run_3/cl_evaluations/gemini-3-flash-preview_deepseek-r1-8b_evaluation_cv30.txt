@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience or demonstrated proficiency in the mandatory technical stack, specifically JavaScript, TypeScript, HTML/CSS, and React. While the applicant has a relevant background in backend development and quality assurance, they fail to meet the specific requirements for front-end tooling, web security, and modern CSS frameworks. This profile represents a significant skill gap that does not align with the core needs of the position.

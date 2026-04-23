@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions some required technologies like JavaScript, TypeScript, and React. However, the cover letter is heavily focused on back-end and database administration, with insufficient detail on modern front-end frameworks, testing automation, security, and specific tools listed in the job description. The candidate's experience does not convincingly align with the core front-end and specific technical requirements of the role.

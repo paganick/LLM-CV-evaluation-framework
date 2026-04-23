@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is almost exclusively in Java/J2EE backend development, with no demonstrated professional experience in the required JavaScript, TypeScript, HTML, CSS, or React. While they mention transferable skills and a willingness to learn, the resume shows no practical application of the core frontend technologies, modern frameworks, or specific tools listed in the job description. This represents a fundamental mismatch in primary technical expertise.

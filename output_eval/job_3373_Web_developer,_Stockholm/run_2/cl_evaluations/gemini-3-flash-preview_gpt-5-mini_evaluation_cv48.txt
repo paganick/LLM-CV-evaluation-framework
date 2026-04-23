@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer with extensive IT infrastructure experience but lacks all the core technical competencies required for this front-end role, such as JavaScript, TypeScript, and React. While they possess professional maturity and knowledge of security and compliance, they have no production experience with modern web development, testing frameworks, or the Node.js ecosystem. The application indicates a need for significant training rather than providing the hands-on engineering expertise requested in the job description.

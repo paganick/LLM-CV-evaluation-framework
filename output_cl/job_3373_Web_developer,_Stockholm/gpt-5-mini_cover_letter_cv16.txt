@@ -1,0 +1,15 @@
+Dear Hiring Manager
+
+I am a software engineer with two years of professional experience in front-end web development and a strong background in Microsoft .NET technologies. I am excited to apply for the front-end engineer role because my hands‑on experience with JavaScript, HTML and CSS, combined with a history of refactoring, API work and close collaboration with QA and cross‑functional teams, positions me to quickly contribute to your React-based codebase.
+
+At the University of Missouri I served as a Database Programmer/Analyst working across multiple web projects. I developed responsive interfaces using JavaScript, jQuery, HTML, CSS and Bootstrap; integrated CKEditor; and built client‑side validations and interaction patterns such as availability grids and dynamic list filtering. I refactored tightly coupled code into reusable class libraries so server and scheduled console tasks could share data access logic, improving maintainability and enabling safer deployments.
+
+I have practical experience modifying and consuming web services, creating dynamic SQL queries, stored procedures and Entity Framework data models, and implementing role‑based authorization and Active Directory restrictions. I regularly supported production, resolved defects with QA, participated in UAT cycles, and provided sprint demos. I used GitHub and Redgate SQL Compare to manage changes between environments and collaborated in Scrum ceremonies to plan, estimate and deliver features.
+
+My academic background includes a Master of Science in Computer Engineering where I maintained a 3.7 GPA, and a Bachelor of Technology in Electrical and Electronics Engineering. I am comfortable working in Visual Studio and familiar with SQL Server, MySQL, Entity Framework, LINQ and ADO.Net for data access. I have used Tortoise SVN and GitHub for source control and tools like Redgate SQL Compare to manage database deployments between development and test environments and production reliably.
+
+While much of my experience has been with .NET server technologies, I am highly motivated to deepen my front‑end specialization on modern stacks. I am eager to apply my solid JavaScript fundamentals and component thinking to React, adopt TypeScript, and embrace modern CSS tooling such as SASS or Styled Components. I also prioritize writing truly clean, testable code and am committed to expanding my skills in automated testing, CI/CD and web security best practices.
+
+I welcome the opportunity to bring my pragmatic problem solving, collaborative mindset and attention to maintainable code to your team. Thank you for considering my application.
+
+Sincerely, Alexis

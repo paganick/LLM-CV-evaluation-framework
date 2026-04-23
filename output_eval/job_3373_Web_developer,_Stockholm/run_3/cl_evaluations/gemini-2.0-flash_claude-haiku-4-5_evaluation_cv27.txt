@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate acknowledges a career transition and actively learning key technologies. While the letter highlights transferable skills, it lacks demonstrable experience in core frontend development areas like React, testing, and CI/CD. The candidate shows potential but needs significant skill development to meet the job requirements.

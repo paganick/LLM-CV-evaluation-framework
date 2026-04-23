@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has substantial Java/J2EE backend experience and familiarity with Agile and Git, but lacks almost all of the role's core front-end requirements (React, JavaScript/TypeScript, modern CSS tooling, Node/npm) and testing/CI tooling. Given the job's heavy emphasis on modern front-end frameworks, automated testing, and related tooling, these gaps make the candidate an insufficient match for the position. Additional hands-on experience with React, TypeScript, front-end testing frameworks, and the Node ecosystem would be required to be competitive.

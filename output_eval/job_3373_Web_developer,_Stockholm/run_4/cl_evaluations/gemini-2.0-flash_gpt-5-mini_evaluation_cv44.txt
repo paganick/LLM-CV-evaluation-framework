@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant, but not directly matching background. While they have HTML/CSS experience and some testing experience, they lack direct experience with React, TypeScript, and modern testing frameworks. Their experience leans heavily towards design rather than front-end engineering as described in the job description.

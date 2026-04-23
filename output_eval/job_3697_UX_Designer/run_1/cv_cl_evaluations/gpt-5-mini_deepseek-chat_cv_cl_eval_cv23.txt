@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate meets baseline requirements (BA in Graphic Design, 3+ years in visual/graphic design, strong Adobe skills, HTML/CSS familiarity and client-facing experience) but lacks demonstrated, specific UI/UX experience such as wireframing, prototyping, sitemaps, storyboards, or use of wireframe tools (e.g., InVision, Wireframe.cc). There is no clear evidence of collaboration with UX researchers, product teams, or engineering to deliver interactive interfaces, so they are relevant to the industry but do not fully meet the role's core UX deliverables.

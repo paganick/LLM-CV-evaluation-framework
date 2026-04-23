@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily a graphic designer and manual laborer whose professional experience lacks any verifiable history in software engineering or modern front-end development. While the cover letter mentions self-taught skills in React and TypeScript, the resume shows no professional application of these technologies or the required testing, security, and CI/CD tools. Consequently, the candidate does not meet the technical or experiential requirements for this engineering role.

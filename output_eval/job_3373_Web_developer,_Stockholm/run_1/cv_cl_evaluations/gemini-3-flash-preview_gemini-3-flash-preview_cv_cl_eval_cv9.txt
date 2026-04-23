@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Despite a strong 7-year background in Java backend development and web security, the candidate lacks any professional experience with the required modern frontend stack, specifically React and TypeScript. Their resume mentions outdated technologies like JSP and Struts rather than the requested modern CSS tools, functional programming, or frontend testing frameworks like Jest and Cypress. While they are a skilled software engineer in the relevant industry, they do not possess the specific technical skills necessary for a frontend-focused role.

@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front-End Developer position. With a Bachelor of Science in IT with a focus on Web Multimedia and Animation, combined with my passion for clean code and collaborative development, I am confident I can make a meaningful contribution to your team.
+
+Throughout my academic coursework, I developed a solid foundation in JavaScript, HTML, and CSS, which I have continued to strengthen since graduation. My capstone projects demonstrate my ability to build fully functional applications, including a database-driven e-commerce website and interactive web applications utilizing JavaScript for dynamic functionality. These experiences have given me hands-on practice with the core technologies your team relies on daily.
+
+I understand the importance of quality assurance in modern web development. During my studies, I gained exposure to testing methodologies and have a genuine interest in implementing unit tests, integration tests, and end-to-end testing frameworks to ensure robust applications. My background also includes experience with version control systems and collaborative development practices, which aligns perfectly with your Agile environment requirements.
+
+What particularly excites me about this opportunity is your use of React and functional programming with Ramda. While I have primarily worked with foundational technologies during my formal education, I am a fast learner with a genuine passion for staying current with modern frameworks and tools. My construction industry background, spanning fifteen years before my career transition, has instilled in me exceptional problem-solving abilities, attention to detail, and the capacity to see how individual components integrate into larger systems—skills directly applicable to understanding full-domain architecture and cross-platform collaboration.
+
+I am deeply committed to writing clean, maintainable code and thrive in team environments where collaboration drives excellence. My ability to translate requirements into actionable goals, combined with my dependability and systematic approach to problem-solving, will enable me to quickly become a valuable team member while continuously expanding my technical expertise.
+
+I am eager to bring my foundational knowledge, strong work ethic, and enthusiasm for web development to your organization. I would welcome the opportunity to discuss how my skills and dedication align with your team's needs.
+
+Sincerely, Alexis

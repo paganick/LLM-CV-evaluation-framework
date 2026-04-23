@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in graphic design, with some exposure to HTML and CSS, but lacks the depth of experience in modern JavaScript frameworks like React and related testing methodologies specified in the job description. While the cover letter expresses interest and some self-taught knowledge, the resume does not reflect sufficient practical experience in the core technologies required for a Frontend Developer role. There's a significant gap between the required skills and the candidate's documented professional experience.

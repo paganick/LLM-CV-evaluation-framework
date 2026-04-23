@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate explicitly admits to having limited experience with the core technologies required for this role, specifically JavaScript, TypeScript, HTML, and CSS. Their professional background is primarily in data analysis and Python, which does not align with the specialized requirements for a React-focused frontend position. While they possess strong analytical foundations and knowledge of Git, they lack the necessary hands-on experience with web security, modern testing frameworks, and the NodeJS ecosystem.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a strong academic background and transferable skills in quality assurance and data analytics, they lack professional, hands-on experience with the core tech stack of JavaScript, TypeScript, and React. Most required technical competencies are framed as areas of interest or conceptual knowledge rather than proven professional experience. The application suggests a career transitioner rather than a qualified software engineer ready to contribute immediately to an Agile development team.

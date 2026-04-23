@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a legacy Java/J2EE developer whose experience is entirely focused on backend technologies like Struts, EJB, and Spring, failing to meet the core requirements for modern JavaScript, TypeScript, and React. There is no evidence of experience with modern frontend testing frameworks, NodeJS, or cloud infrastructure like AWS and Terraform. While the candidate has relevant industry experience, their technical stack is fundamentally misaligned with the specific frontend-heavy requirements of this role.

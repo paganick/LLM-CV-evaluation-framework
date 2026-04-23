@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a long career in graphic design, print production, and Adobe tools but contains no evidence of required software engineering skills such as JavaScript/TypeScript, React, modern front-end frameworks, testing/automation, Git, NodeJS, CI/CD, or cloud/infra knowledge. This candidate is in the wrong industry for the role and lacks the essential technical experience and tooling required to perform the job. Given the missing core qualifications, they are not a fit for this position.

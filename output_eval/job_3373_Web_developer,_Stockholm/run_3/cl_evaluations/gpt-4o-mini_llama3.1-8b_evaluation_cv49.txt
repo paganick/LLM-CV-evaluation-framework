@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a background in data analysis and relevant programming skills, they lack direct experience with the specific technologies and frameworks listed in the job description, such as JavaScript, TypeScript, HTML, CSS, and modern front-end libraries like React. Furthermore, their experience does not demonstrate knowledge of testing frameworks or web security protocols, which are critical for this role.

@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+With over ten years of experience in the technology and test engineering sector, I am writing to express my strong interest in joining your team. My background in electronics manufacturing, coupled with my Bachelor of Science in Electrical Engineering, has provided me with a rigorous foundation in technical troubleshooting and a genuine passion for understanding complex, multifaceted domains.
+
+Throughout my career, I have specialized in component debugging and system-level validation for complex mobile and network hardware. My experience with Python scripting for test automation and SQL Server configuration has allowed me to bridge the gap between physical hardware and software integration seamlessly. I am eager to apply this analytical mindset to your stack, focusing on JavaScript, TypeScript, and modern frameworks like React. My history of performing root cause failure analysis on systems from Riverbed and Intel has instilled in me a commitment to writing truly clean code and maintaining high standards for functional testing.
+
+I am particularly drawn to your team’s focus on testing and automation. Having utilized a wide array of tools from Agilent analyzers to custom Python scripts, I understand the deep importance of comprehensive test suites, including unit, integration, and E2E testing. I am eager to contribute to your CI/CD pipelines using Git and explore the NodeJS ecosystem, applying the same precision I used in electronics to API design and modern CSS tools like SASS and Styled Components.
+
+Working in Lean manufacturing environments utilizing Six Sigma, Kaizen, and QRQC has made me a strong collaborator who is comfortable in Agile workflows. I pride myself on being able to interact with external partners and cross-functional teams to resolve technical issues efficiently. I am committed to keeping up with the latest technologies, from security protocols like CSP and CORS to functional programming with libraries like Ramda.
+
+I am confident that my unique perspective as a seasoned Test Engineer, combined with my dedication to mastering the full domain, will make me a truly valuable asset to your engineering team. I look forward to the possibility of discussing how my technical background aligns with your current projects and long-term vision for quality and performance within the development lifecycle.
+
+Sincerely, Alexis

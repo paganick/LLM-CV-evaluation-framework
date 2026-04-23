@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a strong background in software testing and automation, they lack professional experience as a frontend developer. There is no evidence of hands-on work with React, TypeScript, or modern CSS frameworks, which are core requirements for this role. Consequently, the profile reflects a quality assurance specialist rather than the experienced frontend engineer required by the job description.

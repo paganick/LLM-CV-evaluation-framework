@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media production, not software development, and they lack any demonstrable professional experience with the core technologies listed in the job description (JavaScript, TypeScript, React, testing, Git). While they express enthusiasm and transferable soft skills, they are a career transitioner with no proven technical ability for this specific frontend engineering role. The resume does not support the claims made in the cover letter regarding practical exposure to web development fundamentals.

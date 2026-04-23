@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate fails to demonstrate the mandatory sales experience in Application Services, Business Analytics, or Design Consulting as explicitly required by the job description. While they possess a strong general sales background and a high level of seniority, their technical experience is concentrated in aerospace, legacy IT systems, and quality engineering rather than modern AI/ML-driven digital platforms. Their profile lacks evidence of familiarity with the specific digital stacks, such as APIs, Cloud, or Microservices, that are central to this role.

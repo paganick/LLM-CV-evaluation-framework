@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core frontend stack, including React, TypeScript, and modern CSS, which are mandatory requirements. Their background is primarily in electronics hardware and manual QA testing rather than the software development and automated testing frameworks requested. While they possess a technical foundation, they do not demonstrate the necessary proficiency in web technologies to fulfill the role without extensive training.

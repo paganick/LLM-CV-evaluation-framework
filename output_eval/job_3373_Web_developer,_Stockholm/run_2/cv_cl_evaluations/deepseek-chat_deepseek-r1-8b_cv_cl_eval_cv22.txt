@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and advertising, not software engineering, representing a completely wrong industry. The resume and cover letter show only basic, academic-level exposure to HTML, CSS, and Java, with no professional experience in JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. The stated desire to switch to a database-focused role further misaligns with this front-end and full-stack oriented position.

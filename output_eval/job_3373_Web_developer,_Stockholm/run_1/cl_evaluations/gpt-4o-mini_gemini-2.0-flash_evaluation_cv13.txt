@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and technical project management, but lacks specific skills in TypeScript, modern testing frameworks, and knowledge of security practices mentioned in the job description. While they have experience with JavaScript, HTML, CSS, and some familiarity with modern frameworks like Angular, the emphasis on React and additional tools such as Jest, SASS, and CI/CD practices are not addressed adequately in their application.

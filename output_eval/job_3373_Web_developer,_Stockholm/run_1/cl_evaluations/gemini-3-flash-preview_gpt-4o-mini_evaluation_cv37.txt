@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate primarily presents as a Corporate Project Manager rather than a hands-on developer, lacking evidence of professional experience building applications with the required tech stack. There is no mention of critical requirements like functional programming, CI/CD, or specific testing frameworks, and they admit to lacking proficiency in API design. While they understand the industry, their profile is too management-heavy for a role requiring deep technical implementation.

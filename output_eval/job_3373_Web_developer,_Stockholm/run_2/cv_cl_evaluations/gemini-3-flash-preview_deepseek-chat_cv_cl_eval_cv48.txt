@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate’s professional experience is entirely focused on IT support, hardware maintenance, and systems administration, with no documented professional history in software engineering. While the cover letter claims self-taught proficiency in React and TypeScript, the resume lacks any evidence of these skills being applied in a professional or project-based capacity. Consequently, the candidate is unqualified for a specialized front-end development role despite their extensive background in general IT infrastructure.

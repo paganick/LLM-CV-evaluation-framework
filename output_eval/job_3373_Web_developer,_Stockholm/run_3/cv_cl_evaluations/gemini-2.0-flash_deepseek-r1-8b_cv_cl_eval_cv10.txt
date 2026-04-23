@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, CSS, and AngularJS, but the job description emphasizes React, which isn't prominent in their resume. They mention experience with testing, but the specific testing frameworks desired (Jest, TestCafe, Cypress) are absent. The resume focuses heavily on Java and backend technologies, making it a weaker fit for a frontend role.

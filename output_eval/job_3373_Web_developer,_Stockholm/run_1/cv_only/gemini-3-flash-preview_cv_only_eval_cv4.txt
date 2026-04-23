@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses the required five years of general JavaScript, HTML, and CSS experience but lacks any mention of React, which is the primary framework used by the team. Furthermore, there is no evidence of experience with TypeScript, modern frontend testing frameworks (Jest, Cypress), or CI/CD tools specified in the job description. The profile is heavily weighted toward C#, .NET, and machine learning, making them a poor fit for a specialized modern frontend role.

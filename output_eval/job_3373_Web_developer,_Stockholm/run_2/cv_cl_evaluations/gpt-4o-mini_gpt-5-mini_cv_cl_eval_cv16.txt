@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in front-end development and experience with JavaScript, HTML, and CSS, which are relevant to the position. However, they lack specific experience with modern front-end frameworks such as React, VueJS, or Angular, and do not demonstrate hands-on experience with testing frameworks and automation tools mentioned in the job description. Their experience in a .NET environment may not translate seamlessly to a pure JavaScript/React role focused on modern tools and practices.

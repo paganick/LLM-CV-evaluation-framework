@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in web development, but primarily with ASP.NET and C#. While they mention JavaScript, HTML, and CSS, the resume lacks demonstrable experience with modern front-end frameworks like React (the framework used by the company). The cover letter expresses interest in learning React and other relevant technologies, but the lack of direct experience is a significant drawback.

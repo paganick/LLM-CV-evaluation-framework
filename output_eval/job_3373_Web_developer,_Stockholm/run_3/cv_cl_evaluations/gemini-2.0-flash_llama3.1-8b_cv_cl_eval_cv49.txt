@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight skills and experience in data analysis, statistical modeling, and data science tools, which do not align with the front-end development skills required for the job, such as JavaScript, TypeScript, HTML, CSS, and modern FE frameworks. The candidate mentions React in the cover letter, but only speculates that their Python knowledge will enable them to work with it. The resume lacks any mention of front-end development experience or skills.

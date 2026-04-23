@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+With over fifteen years of experience as an accomplished Graphic Designer and a deep-seated passion for digital creation, I am excited to apply for the Frontend Developer position. Throughout my career, I have transitioned from mastering visual layouts and the Adobe Creative Suite to building robust, accessible web applications using JavaScript, TypeScript, HTML, and CSS. My background in design provides a unique perspective on user interface implementation, ensuring that the clean code I write translates into exceptional user experiences.
+
+In my recent projects, I have specialized in React, aligning perfectly with your current tech stack. I am proficient in modern CSS tools like SASS and Styled Components, and I prioritize software quality through rigorous testing. My workflow includes unit and E2E testing using frameworks like Jest and Cypress to ensure reliability. Furthermore, I am comfortable with Git-based version control and GitHub for collaborative development. My experience with Dreamweaver and Flash early in my career sparked a lifelong interest in the technical side of the web, which I have now evolved into a comprehensive understanding of the NodeJS ecosystem, npm, and API design.
+
+I thrive in Agile environments where strong collaboration is essential. My tenure as a Visual Merchandising Manager and Freelance Designer taught me how to manage complex projects, meet strict deadlines, and interact effectively with diverse teams and external partners. Additionally, my fluency in Spanish enhances my communication capabilities in global team settings. I am particularly interested in your move toward functional programming with Ramda, as I value the predictability and structural elegance of functional paradigms.
+
+I am committed to staying current with web security best practices, including OWASP and CORS, and I have a basic understanding of AWS and CI/CD tools like CircleCI. My goal is to bridge the gap between aesthetic design and functional engineering to deliver high-quality products. I am eager to bring my technical skills and visual expertise to your team to help build the next generation of your platform. I look forward to discussing how my unique background can benefit your ongoing engineering efforts. Thank you for your time and your consideration.
+
+Sincerely,
+Alexis

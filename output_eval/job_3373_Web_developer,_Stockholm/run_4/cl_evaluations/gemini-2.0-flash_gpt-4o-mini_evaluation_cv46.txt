@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate expresses interest and some familiarity with required technologies like JavaScript, HTML, CSS, Git, and testing. However, the cover letter focuses more on Java experience and expresses only a basic understanding of key areas like web security and modern front-end frameworks, particularly React, which is specifically mentioned as used by the company. The candidate also mentions being in the process of learning some of the desired skills, rather than having demonstrable experience.

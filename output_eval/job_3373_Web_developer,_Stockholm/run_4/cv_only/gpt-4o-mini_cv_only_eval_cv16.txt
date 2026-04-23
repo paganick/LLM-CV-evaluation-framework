@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in JavaScript and front-end development, but lacks proficiency in modern frameworks like React, which is a requirement for the position. While they have some experience with Agile methodologies and collaboration, they do not demonstrate knowledge of testing frameworks, advanced CSS tools, or the basic security concepts outlined in the job description.

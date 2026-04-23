@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate possesses a background in graphic design and only peripheral web skills like HTML/CSS, failing to demonstrate the required proficiency in JavaScript, TypeScript, or the React framework. Significant gaps exist regarding the core engineering requirements, including Node.js, CI/CD pipelines, and functional programming, making them underqualified for this specific technical role.

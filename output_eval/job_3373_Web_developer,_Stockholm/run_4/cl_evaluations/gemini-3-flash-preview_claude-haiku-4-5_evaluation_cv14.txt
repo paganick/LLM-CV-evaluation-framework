@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a professional background in web development, they lack direct experience with the core technical requirements of the role, specifically TypeScript and a modern frontend framework like React. Their experience is primarily rooted in the ASP.NET ecosystem, and they explicitly mention needing to learn the specific tools (Ramda, Styled Components) listed as requirements. Consequently, the candidate would require significant upskilling to meet the team's technical standards.

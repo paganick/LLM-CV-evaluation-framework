@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in implementation and digital marketing, not frontend development. While they mention HTML and CSS, the depth of experience is insufficient for a modern frontend role requiring frameworks like React. The resume and cover letter lack concrete examples of building and testing complex user interfaces.

@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am an experienced software developer with over five years of professional experience building web applications and integrating APIs. I am writing to express my interest in the frontend developer role at your company. My background in JavaScript, HTML, CSS and Node.js, together with a proven record of modernizing legacy code and delivering production systems, makes me well positioned to contribute to your React-based team while adopting the tools and libraries you use.
+
+In my current role since 2015 I designed and implemented an Internal Marketing System using C#, SQL, HTML and .NET, integrating Amazon, Walmart, eBay and Shopify APIs. I led API integrations, revised and modularized legacy code to modern standards, and authored fixes and enhancements that supported a successful product launch that contributed to 30% company growth. These responsibilities demanded clear cross-team communication, attention to reliability and maintainability, and a pragmatic approach to testing and deployment.
+
+My hands-on testing experience includes UI and performance testing from earlier internships, and end-to-end project testing and documentation across multiple projects. I have built tools and prototypes in Python and Flask, worked with data processing frameworks and machine learning libraries, and created production-ready software by driving both development and testing activities. I am comfortable working in Agile environments—having completed Agile-related training—and enjoy collaborating with product managers, designers and external partners to understand full domains beyond an initial scope.
+
+While I have strong fundamentals in front-end technologies and back-end integration, I am enthusiastic about learning and applying your stack—React, TypeScript, modern CSS tooling, testing frameworks and CI/CD practices. I take pride in writing clean, modular code and in continuously improving code quality through refactoring, code review practices and automated tests. I am fluent in English and Turkish, have intermediate Spanish, and bring strong cross-cultural collaboration skills from working with global teams. I am ready to adopt functional libraries like Ramda, CI/CD tools such as CircleCI, and gain familiarity with AWS and Terraform to support scalable deployments effectively.
+
+Thank you for considering my application. I am excited by the opportunity to contribute to your team, learn your stack, and deliver reliable, secure user experiences.
+
+Sincerely, Alexis

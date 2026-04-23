@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a general understanding of web development and lists relevant technologies such as JavaScript, HTML, and CSS. However, the resume lacks concrete examples of using React, which is a key requirement. While the cover letter mentions test automation and CI/CD, the resume doesn't provide sufficient evidence of practical experience in these areas, especially within a modern FE framework context.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant software development experience but lacks the specific, hands-on skills required for the role. Their background is heavily in Java/J2EE backend development with only basic, outdated frontend exposure (jQuery, Bootstrap), and they show no proven experience with React, TypeScript, modern CSS tools, or the testing frameworks listed. While they demonstrate good general engineering practices and an eagerness to learn, their current technical profile does not match the core requirements of the position.

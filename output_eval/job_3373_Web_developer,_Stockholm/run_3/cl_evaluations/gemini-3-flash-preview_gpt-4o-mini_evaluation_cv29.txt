@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a senior business development background and lacks professional, hands-on experience with the core technical requirements, including JavaScript, TypeScript, and React. While they possess industry knowledge and soft skills, their technical proficiency is described in aspirational terms ("keen interest," "eager to develop") rather than through practical engineering application. The application fails to demonstrate the required level of expertise in front-end development, testing automation, and modern styling tools.

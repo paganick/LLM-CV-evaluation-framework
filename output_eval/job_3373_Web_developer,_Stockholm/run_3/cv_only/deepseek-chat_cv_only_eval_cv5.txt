@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's experience is almost exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL), which is a completely different technology stack and industry domain than the modern front-end web development role described. The resume mentions only passing familiarity with HTML and JavaScript, with no experience in React, TypeScript, modern testing, or any other key technologies from the job description. This is a severe mismatch in core technical skills and platform expertise.

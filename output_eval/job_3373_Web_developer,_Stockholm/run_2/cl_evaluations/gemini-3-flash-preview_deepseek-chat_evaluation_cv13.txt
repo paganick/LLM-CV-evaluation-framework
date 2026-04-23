@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has a background in web development and Agile processes, they currently occupy a Project Management role and lack professional experience in the required React framework and TypeScript language. They fail to mention specific experience with testing libraries (Jest, Cypress) or modern CSS tools (SASS, Styled Components) requested in the job description. The candidate is essentially a career-changer returning to development, requiring significant training to reach the proficiency level expected for the specific tech stack.

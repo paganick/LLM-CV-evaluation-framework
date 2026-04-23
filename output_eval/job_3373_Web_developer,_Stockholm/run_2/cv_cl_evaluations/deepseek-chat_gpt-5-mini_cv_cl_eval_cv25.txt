@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is exclusively in graphic design and art direction, with no professional experience in front-end engineering. The resume and cover letter mention only basic HTML/CSS and Dreamweaver, completely lacking the required JavaScript, TypeScript, React, testing frameworks, version control, and modern toolchain. While they express eagerness to learn, they do not meet any of the core technical requirements for the role.

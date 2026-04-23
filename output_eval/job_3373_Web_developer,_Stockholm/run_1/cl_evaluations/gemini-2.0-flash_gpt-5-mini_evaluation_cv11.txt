@@ -1,0 +1,3 @@
+Score: 6
+Reasoning:
+The candidate has a strong testing background, including automation experience which is relevant. However, they openly admit a lack of experience with modern front-end technologies (React, TypeScript, etc.) that are central to the role. While they express eagerness to learn, their current skillset doesn't fully align with the job description's emphasis on hands-on experience with these technologies and testing frameworks.

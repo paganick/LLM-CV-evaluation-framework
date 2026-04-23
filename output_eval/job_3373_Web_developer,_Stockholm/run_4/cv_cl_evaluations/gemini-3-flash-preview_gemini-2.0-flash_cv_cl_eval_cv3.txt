@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all the core technical requirements, including experience with React, TypeScript, and modern testing frameworks. Their technical background is significantly outdated, focusing on obsolete technologies like Flash, ActionScript 3.0, and Java Applets, with no professional experience in a modern development environment. Furthermore, they demonstrate no familiarity with the required CI/CD, cloud infrastructure, or security protocols specified in the job description.

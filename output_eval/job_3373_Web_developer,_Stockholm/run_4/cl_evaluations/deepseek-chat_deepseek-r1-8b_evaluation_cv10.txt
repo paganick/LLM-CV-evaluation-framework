@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience and matches several core technical requirements from the job description. However, the cover letter fails to address or provide evidence for multiple key requirements, including web security basics, modern CSS tools, specific testing frameworks, and functional programming. This omission of critical, specified skills prevents a higher score.

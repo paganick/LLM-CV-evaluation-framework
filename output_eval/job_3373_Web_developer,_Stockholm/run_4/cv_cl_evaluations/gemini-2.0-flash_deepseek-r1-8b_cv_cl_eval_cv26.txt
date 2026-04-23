@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing, communications, public relations and legal administration, completely misaligned with the software development skills required for the role. While the cover letter expresses interest in learning new technologies, the resume provides no evidence of relevant technical skills or experience. The candidate lacks the necessary qualifications in JavaScript, TypeScript, modern FE frameworks, testing, Git, and web security.

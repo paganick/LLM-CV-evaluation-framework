@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in a relevant industry but lacks the specific, required skills. The cover letter emphasizes electronics and manual testing, while the job description demands modern front-end frameworks (React), specific testing tools (Jest, Cypress), and proficiency in JavaScript/TypeScript, which are not demonstrated. The mention of "Java script" and C++ is insufficient and misaligned with the core front-end and modern testing stack requirements.

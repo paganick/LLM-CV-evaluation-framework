@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for this front-end development role, as their professional background is exclusively in systems administration and IT infrastructure. The resume shows no evidence of experience with JavaScript, TypeScript, React, or modern CSS tools, and the candidate fundamentally misidentifies "clean code" as a practice related to system reboots and hardware maintenance. Despite working in the broader IT industry, they lack every core technical competency required for this specific software engineering position.

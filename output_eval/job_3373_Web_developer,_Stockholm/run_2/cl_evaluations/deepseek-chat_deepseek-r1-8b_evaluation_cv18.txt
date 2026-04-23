@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks specific, demonstrable skills required by the job description. The cover letter mentions general web technologies but fails to address key requirements like React, TypeScript, modern testing frameworks, and specific tools listed. The broad IT background does not sufficiently prove deep, hands-on expertise in the modern front-end development stack specified.

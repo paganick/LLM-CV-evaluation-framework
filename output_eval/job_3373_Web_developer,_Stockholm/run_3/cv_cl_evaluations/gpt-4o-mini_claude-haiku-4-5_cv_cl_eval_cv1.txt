@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong background in relevant technologies such as JavaScript, HTML, CSS, and React, along with testing expertise which aligns well with the job description. They have hands-on experience with version control and CI/CD tools, meeting most of the key requirements. However, they lack specific experience mentioned, such as working with TypeScript and some modern CSS tools, which prevents a perfect score.

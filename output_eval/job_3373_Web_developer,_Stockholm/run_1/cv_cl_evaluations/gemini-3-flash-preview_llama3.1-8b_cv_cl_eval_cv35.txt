@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate’s professional experience is entirely focused on marketing automation and CRM consulting rather than software engineering or frontend development. There is no evidence in the resume of professional proficiency with the required core technologies, such as React, TypeScript, or modern CSS-in-JS libraries. Despite the claims in the cover letter, the lack of a technical portfolio or relevant work history makes them unqualified for this specific engineering role.

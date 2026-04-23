@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a foundation in relevant technologies like JavaScript, HTML, and CSS, along with experience in API integration. However, the resume lacks explicit mentions of modern FE frameworks like React (mentioned as a key technology in the job description), specific testing frameworks, and CI/CD tools beyond a general understanding. While the cover letter claims familiarity, the resume doesn't showcase hands-on project experience with the specific technologies mentioned in the job description.

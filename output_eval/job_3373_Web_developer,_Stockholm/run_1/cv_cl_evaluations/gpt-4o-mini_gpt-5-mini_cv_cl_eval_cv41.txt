@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in information technology and systems engineering, but lacks direct experience with the required front-end technologies such as JavaScript, TypeScript, and modern frameworks like React. While they have some relevant skills in web applications and testing, these are not specific enough to meet the job description's demands. Additionally, their experience does not demonstrate a strong proficiency in testing automation frameworks mentioned in the job description.

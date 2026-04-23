@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has relevant experience in product management and a good foundational understanding of front-end technologies, they lack direct hands-on experience as a Front End Developer. The skills listed, such as familiarity with React, testing frameworks, and web security principles, are applicable but not adequately demonstrated in a development context, which limits their strong alignment with the role's requirements.

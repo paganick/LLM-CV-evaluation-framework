@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in film/TV production, lacking the required technical skills in JavaScript, TypeScript, React, and other front-end technologies. While the cover letter expresses interest in learning, the resume does not demonstrate any existing experience with the technologies listed in the job description. The candidate's skills are misaligned with the core requirements of a front-end developer role.

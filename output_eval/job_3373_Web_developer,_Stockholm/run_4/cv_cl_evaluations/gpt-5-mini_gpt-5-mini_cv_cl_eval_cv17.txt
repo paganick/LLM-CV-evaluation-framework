@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an experienced civil/construction engineer with no demonstrable, hands-on experience in JavaScript, TypeScript, React, front-end frameworks, testing automation, or related tooling (Git, Node, CSS tools) required by the role. Their cover letter indicates intent to transition and learning interest, but provides no concrete examples or evidence of the technical skills and tooling proficiency needed for immediate contribution. Based on the job requirements, they are not qualified for this front-end engineering position.

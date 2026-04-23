@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital communications and expresses a passion for web technologies, but lacks substantial hands-on experience in core front-end technologies such as JavaScript and frameworks like React. Additionally, the resume does not demonstrate experience with testing frameworks, CI/CD tools, or web security concepts, which are critical for the role. Overall, while they possess relevant skills, they fall short of the specific technical requirements necessary for the position.

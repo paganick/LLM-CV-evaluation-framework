@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and demonstrates strong testing knowledge, which aligns with key job requirements. However, they lack direct, hands-on experience with core frontend technologies like React, TypeScript, and modern CSS tools, and do not address several specific requirements from the job description. Their background is primarily in hardware-focused testing, making this a significant career transition with unproven skills in the required domain.

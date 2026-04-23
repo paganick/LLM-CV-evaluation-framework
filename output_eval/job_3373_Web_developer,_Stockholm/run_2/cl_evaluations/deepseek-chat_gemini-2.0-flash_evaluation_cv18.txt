@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but fails to demonstrate the specific technical skills required. The cover letter is generic, mentioning only "modern front-end frameworks" without naming React, TypeScript, or any of the listed tools, libraries, or methodologies (e.g., testing, Git, Agile, security). It emphasizes broad IT and systems administration experience over the precise front-end development and collaborative engineering focus of the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional, hands-on experience in front-end engineering, specifically regarding the core requirements of JavaScript, TypeScript, and React. While they demonstrate familiarity with some infrastructure tools and possess strong communication skills, they fail to provide evidence of the required proficiency in testing frameworks, Git, or actual software development. Their background is almost entirely rooted in content management and social media strategy rather than technical implementation.

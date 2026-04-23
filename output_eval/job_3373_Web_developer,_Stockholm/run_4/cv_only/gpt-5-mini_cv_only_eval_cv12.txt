@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development fundamentals (HTML, CSS, JavaScript, SASS) and broader backend experience plus Git, but their resume lacks specific, demonstrable experience with React/TypeScript, modern JS toolchain (npm/Yarn/Node/Express), testing frameworks (Jest/Cypress/TestCafe) and CI/CD or cloud/infra (AWS/Terraform). There is also no evidence of web security knowledge (OWASP/CSP/CORS/OAuth) or explicit test automation and modern frontend practices required for this role, making them a relevant but underqualified fit.

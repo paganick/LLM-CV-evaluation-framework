@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills like HTML, CSS, and testing experience, but lacks the depth in JavaScript, modern FE frameworks (specifically React), and NodeJS ecosystem that the job description requires. The resume focuses heavily on Salesforce Marketing Cloud implementation, which isn't the primary focus of a front-end engineering role. While the candidate expresses eagerness to learn, their current skillset doesn't align strongly with the job requirements.

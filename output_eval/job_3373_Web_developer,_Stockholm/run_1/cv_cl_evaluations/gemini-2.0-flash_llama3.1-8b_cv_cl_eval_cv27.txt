@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in administrative and artistic roles, lacking the core technical skills in JavaScript, TypeScript, HTML, CSS, and modern FE frameworks required for the job. While the cover letter expresses interest in web development, there's a significant gap between the candidate's experience and the job requirements, particularly in testing, security, and backend technologies. The resume highlights skills that are not directly applicable to the technical demands of the role.

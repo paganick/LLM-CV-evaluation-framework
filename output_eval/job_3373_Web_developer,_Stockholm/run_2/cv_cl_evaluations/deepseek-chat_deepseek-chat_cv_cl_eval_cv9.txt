@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/JEE backend development, not modern frontend engineering. While they mention JavaScript/HTML and a desire to learn, they lack demonstrable, professional experience with React, TypeScript, modern CSS tools, or the specific testing frameworks required. Their experience with Agile, clean code, and OAuth is relevant but insufficient to overcome the primary skill mismatch for a frontend-focused role.

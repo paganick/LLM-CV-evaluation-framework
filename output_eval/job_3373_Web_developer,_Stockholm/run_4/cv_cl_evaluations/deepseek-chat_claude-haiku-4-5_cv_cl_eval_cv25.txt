@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design, not frontend development, and they lack the required technical skills. They mention only basic HTML/CSS and no experience with JavaScript, TypeScript, React, testing frameworks, or any other core technologies listed in the job description. While they express enthusiasm for learning, their current qualifications are not relevant to the role's specific technical requirements.

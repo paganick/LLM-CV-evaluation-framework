@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong leadership, process-improvement, and automation experience, but provides no evidence of the core front-end technical skills required (JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Git, Node ecosystem, security basics). While transferable skills and a quick-learning attitude are positives, they currently lack the specific hands-on experience the role demands. This makes them relevant to the industry but not yet qualified for the position without substantial technical upskilling.

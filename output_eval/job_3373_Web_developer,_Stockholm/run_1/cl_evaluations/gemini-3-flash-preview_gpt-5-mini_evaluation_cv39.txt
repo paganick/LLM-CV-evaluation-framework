@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the mandatory professional experience with JavaScript, TypeScript, React, and automated testing frameworks, explicitly stating a desire to "grow into" these areas rather than possessing current proficiency. Their technical background is centered on visual design and legacy tools like Dreamweaver, which does not align with the requirements for a modern front-end engineering role. While they have strong CSS and design fundamentals, they fail to meet the core functional and technical competencies outlined in the job description.

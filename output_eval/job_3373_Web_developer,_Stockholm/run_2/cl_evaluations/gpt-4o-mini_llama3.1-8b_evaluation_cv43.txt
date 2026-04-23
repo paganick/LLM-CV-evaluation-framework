@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant background in program management and design but lacks specific experience with key technologies required for the position, such as JavaScript, TypeScript, and modern front-end frameworks like React. Although they mentioned coding experience in R studio and proficiency in Salesforce, they do not fulfill the technical coding requirements outlined in the job description. Their skills in curriculum development and facilitation are valuable but do not align closely enough with the technical focus of the role.

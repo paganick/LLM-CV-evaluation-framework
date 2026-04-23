@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant digital/tech-adjacent industry but lacks the specific, hands-on technical experience required. The cover letter demonstrates foundational awareness and strong transferable soft skills, but provides no concrete evidence of proficiency in the core technologies listed in the job description (e.g., React, TypeScript, testing frameworks, Git). The acknowledgment of being a career transitioner without proven project work in the domain results in a low score against the strict technical requirements.

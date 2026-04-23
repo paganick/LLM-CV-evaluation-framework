@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in graphic design, not frontend development. While the cover letter claims experience with JavaScript, TypeScript, and React, this is not substantiated by the resume. The resume mentions HTML and CSS skills but lacks evidence of modern FE frameworks and testing experience, which are core requirements of the job description.

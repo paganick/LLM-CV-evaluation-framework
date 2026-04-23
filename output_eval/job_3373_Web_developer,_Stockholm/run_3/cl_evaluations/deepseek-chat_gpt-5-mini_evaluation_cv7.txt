@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's extensive design background is relevant to the industry but lacks the specific technical skills required for the role. There is no demonstrated hands-on experience with JavaScript, TypeScript, React, testing frameworks, Git, or the other core technologies listed in the job description. While the candidate's soft skills and eagerness to learn are assets, the application does not meet the fundamental technical requirements for a front-end engineering position.

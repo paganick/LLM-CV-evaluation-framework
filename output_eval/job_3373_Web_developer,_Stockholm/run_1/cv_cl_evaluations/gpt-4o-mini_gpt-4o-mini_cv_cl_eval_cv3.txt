@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a relevant educational background and foundational knowledge in HTML, CSS, and JavaScript. However, they lack hands-on experience with modern frameworks like React, testing automation, and CI/CD tools, which are essential for the role. Their previous work experience is not related to web development, reducing their qualifications for this position.

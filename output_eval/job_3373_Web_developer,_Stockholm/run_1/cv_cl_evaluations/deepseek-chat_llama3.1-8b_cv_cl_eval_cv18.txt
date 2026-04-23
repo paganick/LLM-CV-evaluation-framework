@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in broad IT infrastructure and consulting, not modern front-end software development. The resume and cover letter lack specific, hands-on experience with the required technologies (React, TypeScript, modern testing frameworks, functional programming) and the job's core focus on building and testing web applications. While the candidate mentions some relevant keywords in the cover letter, the resume provides no evidence to support those claims.

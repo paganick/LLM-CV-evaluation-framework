@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development and Agile methodologies but lacks direct experience with several specific technologies and skills listed in the job description, such as TypeScript, modern CSS tools, testing frameworks, and CI/CD tools. Additionally, there is no mention of familiarity with Git or security knowledge, which are critical to the role.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates strong, relevant UX/UI experience with Agile delivery, prototyping (Axure/Sketch/XD), style guides/design system work, user research and cross-functional collaboration—meeting the core requirements. However, they do not list Figma (requested as highly desirable), have limited evidence of modern front-end (JS) involvement, and the CV appears dated/unpolished (last listed role ends 2016), raising questions about current tooling and recent hands-on team leadership/mentoring.

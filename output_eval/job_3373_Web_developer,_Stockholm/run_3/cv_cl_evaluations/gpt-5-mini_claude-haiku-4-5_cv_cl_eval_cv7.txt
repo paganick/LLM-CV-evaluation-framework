@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a seasoned graphic designer with experience in Dreamweaver and visual web assets but has no demonstrated production experience with JavaScript/TypeScript, React, modern frontend frameworks, testing, Git workflows, Node/npm, CI/CD, or web security — all are required for this role. While they show transferable strengths (design, collaboration, attention to detail, and willingness to learn), they do not meet the core technical requirements necessary to contribute immediately as a frontend developer.

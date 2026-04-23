@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic and web design, which is a relevant industry, but the cover letter fails to demonstrate any of the specific technical skills required for the front-end development role. There is no mention of JavaScript, React, testing frameworks, version control, or any other technologies listed in the job description. The letter emphasizes artistic vision and design tools, indicating a significant skills gap for this engineering-focused position.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development and sales, lacking the core technical skills required for a Frontend Engineer role. While they express interest in learning, the resume and cover letter do not demonstrate sufficient practical experience with JavaScript, React, or relevant testing frameworks. Their experience with Adobe Creative Suite and CRM systems is not directly applicable to the technical requirements of the job.

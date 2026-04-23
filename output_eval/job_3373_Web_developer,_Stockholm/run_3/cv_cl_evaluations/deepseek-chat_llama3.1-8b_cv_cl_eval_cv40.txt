@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive background is in senior product management and business strategy, not in hands-on frontend development or software engineering. The resume and cover letter show no evidence of practical experience with the required technologies (React, TypeScript, testing frameworks, etc.), despite the candidate's claims. This is a fundamental mismatch for a technical development role.

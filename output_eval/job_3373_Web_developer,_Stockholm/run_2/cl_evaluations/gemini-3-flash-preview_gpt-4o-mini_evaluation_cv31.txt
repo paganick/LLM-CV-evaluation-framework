@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is transitioning from a non-technical sales background and lacks the required professional hands-on experience with JavaScript, TypeScript, and React. They explicitly admit to having no experience with testing frameworks, which is a core requirement of the position. Their technical profile is foundational at best and does not meet the professional seniority or skill set demanded by the job description.

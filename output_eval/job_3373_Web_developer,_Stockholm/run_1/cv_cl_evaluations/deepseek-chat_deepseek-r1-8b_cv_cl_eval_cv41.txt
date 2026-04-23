@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in systems administration and infrastructure support, not frontend software engineering. The resume and cover letter show no practical experience with the required technologies (React, TypeScript, modern CSS, testing frameworks) or modern web development practices. While they have transferable soft skills and security awareness, they lack the specific, hands-on technical qualifications for this role.

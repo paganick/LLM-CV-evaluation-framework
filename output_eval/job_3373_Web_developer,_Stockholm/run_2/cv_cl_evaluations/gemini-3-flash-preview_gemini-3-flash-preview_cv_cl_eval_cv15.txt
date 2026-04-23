@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically missing any documented work with React, TypeScript, or automated testing frameworks. Their career history is predominantly focused on general IT management and hardware troubleshooting from over a decade ago, which does not align with the senior-level engineering standards for modern web development. While they have foundational knowledge of HTML/CSS, they do not meet the core technical requirements for this specific software engineering role.

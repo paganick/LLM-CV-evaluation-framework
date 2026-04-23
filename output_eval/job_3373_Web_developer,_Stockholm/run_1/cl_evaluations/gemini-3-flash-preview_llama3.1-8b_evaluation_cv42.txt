@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's 20-year professional history as a Director of Finance Operations in the non-profit sector represents a significant industry and role mismatch for a hands-on engineering position. While the letter lists several required frontend libraries, it fails to demonstrate professional experience in core requirements such as TypeScript, automated testing (Jest/Cypress), or CI/CD. The applicant's background suggests high-level administrative expertise rather than the practical, clean-code engineering experience required for this role.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional microbiologist whose entire career and education are rooted in life sciences and laboratory management, representing a complete mismatch for a software engineering role. There is no evidence of professional experience or technical proficiency in the required stack, including JavaScript, TypeScript, React, or web security protocols. The application lacks the fundamental engineering background necessary to perform any of the tasks outlined in the job description.

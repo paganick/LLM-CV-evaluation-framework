@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume shows experience in a different era and tech stack (Java, EJB, JSP, hardware) with no mention of the required modern front-end technologies like React, TypeScript, or testing frameworks. The listed skills are outdated and generic, lacking any evidence of the specific tools, methodologies, or collaborative Agile environment described in the job description. This profile represents a fundamental mismatch for the role's core requirements.

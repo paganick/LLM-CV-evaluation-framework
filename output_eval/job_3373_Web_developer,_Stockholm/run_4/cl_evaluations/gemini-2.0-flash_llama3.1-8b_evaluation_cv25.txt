@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, a field significantly different from front-end development. While they mention transferable skills and a willingness to learn, they lack direct experience with core requirements like JavaScript, TypeScript, and modern FE frameworks (React), making them underqualified for the role as described. The cover letter focuses heavily on design tools and a foundational understanding of HTML/CSS, which are insufficient for a position requiring hands-on experience with modern front-end technologies.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant industry experience with JavaScript, HTML, and CSS but lacks explicit mentions of TypeScript and React experience as highlighted in the job description. While they mention familiarity with Node.js and RESTful APIs, there is no information on testing frameworks mentioned in the resume. The cover letter indicates testing experience and a desire to learn, but the resume doesn't showcase the required modern FE framework experience.

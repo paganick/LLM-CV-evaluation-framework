@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified as they possess no professional experience in software development and are only beginning to learn the required technologies. Their background in marketing and legal administration is irrelevant to the technical demands of a Frontend Developer role, particularly regarding testing, Git, and web security. While they demonstrate a willingness to learn, they do not currently meet any of the specific technical skill requirements listed in the job description.

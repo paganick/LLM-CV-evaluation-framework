@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the mandatory hands-on professional experience with the required tech stack, including React, TypeScript, and automated testing frameworks. While they possess transferable analytical skills from Nike and aerospace quality engineering, they explicitly state they are still in the early stages of learning the core technologies listed in the job description. Consequently, they do not meet the technical requirements for a developer role at this time.

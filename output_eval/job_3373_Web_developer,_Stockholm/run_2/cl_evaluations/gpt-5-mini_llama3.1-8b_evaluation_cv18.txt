@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end framework and testing experience (React, Vue, Angular; Jest/TestCafe/Cypress) and Agile/team skills, which are a positive fit. However the cover letter does not explicitly mention JavaScript/TypeScript, HTML/CSS, Node/npm/Express, modern CSS tooling (Styled Components/SASS), linters/formatters, Git/GitHub, CI/CD, web security practices, or AWS/Terraform — all key requirements. Given the gaps in several specific, required technologies, the applicant is industry-relevant but underqualified for this role.

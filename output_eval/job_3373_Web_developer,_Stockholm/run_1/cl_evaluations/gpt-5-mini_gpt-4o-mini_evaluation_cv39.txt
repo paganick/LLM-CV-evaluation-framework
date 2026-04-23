@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong visual design, HTML/CSS, SASS/Styled Components familiarity, and experience with linters and Agile collaboration, which are relevant. However they lack demonstrated hands‑on experience with React (the team's primary framework), TypeScript, core JavaScript depth, testing frameworks (Jest/Cypress) and Git/GitHub—skills listed as essential. Their Node.js, AWS and testing experience is described as foundational or limited, not at the level required for the role.

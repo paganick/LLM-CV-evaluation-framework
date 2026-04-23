@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend and UX/UI design experience, strong collaboration and Agile background, and some manual testing/UAT exposure, which align with the role's cultural and design expectations. However, they do not demonstrate concrete experience with core technical requirements—JavaScript/TypeScript, React, automated unit/integration/E2E testing, modern CSS tooling, Node/npm ecosystem, and CI/CD—so they lack the specific hands-on skills the role requires.

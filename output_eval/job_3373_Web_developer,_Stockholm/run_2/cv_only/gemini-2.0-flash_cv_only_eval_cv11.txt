@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights experience in software testing, including automation, but lacks specific details about modern front-end frameworks like React, VueJS, or Angular. While JavaScript and HTML are listed as skills, there's no mention of TypeScript or modern CSS tools like Styled Components or SASS. The experience seems more focused on general testing principles rather than the specific technologies mentioned in the job description.

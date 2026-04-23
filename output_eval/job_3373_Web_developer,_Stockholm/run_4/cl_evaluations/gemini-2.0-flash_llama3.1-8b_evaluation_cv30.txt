@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in web development, testing, and Agile methodologies, aligning well with the job description. They mention specific technologies like React, VueJS, Angular, Svelte, and testing frameworks, indicating a good understanding of the required tech stack. However, the letter focuses heavily on data analysis and engineering which are not main focuses of the provided job description.

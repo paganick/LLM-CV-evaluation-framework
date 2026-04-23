@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in hardware and testing, with limited direct experience in modern front-end development. While they express interest in learning React and other relevant technologies, the resume lacks demonstrable experience with the specific technologies mentioned in the job description (React, TypeScript, modern CSS tools, testing frameworks, Node.js ecosystem). The cover letter attempts to bridge the gap, but the overall profile is a mismatch for a front-end engineering role requiring immediate proficiency.

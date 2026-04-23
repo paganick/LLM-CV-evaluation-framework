@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in web development with some relevant skills like JavaScript, HTML, and CSS. However, their experience is heavily focused on Drupal, which isn't the primary technology mentioned in the job description (React). The cover letter demonstrates an understanding of modern FE frameworks and testing, but the resume lacks concrete evidence of hands-on experience beyond Drupal theming.

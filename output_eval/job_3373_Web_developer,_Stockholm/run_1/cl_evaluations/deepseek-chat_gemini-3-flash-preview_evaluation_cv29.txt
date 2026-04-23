@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates high-level strategic and business understanding, but lacks direct, hands-on frontend development experience as required by the job description. While they mention key technologies (JavaScript, React, etc.), the cover letter frames this as a new application of their skills rather than proven professional expertise. Their background is primarily in business development and CRM administration, not in building, testing, and maintaining frontend applications as a core function.

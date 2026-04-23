@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks critical proficiency in the core technical requirements, specifically failing to demonstrate any experience with TypeScript, React, or hands-on testing frameworks. While they have extensive experience in graphic design and basic HTML/CSS, a "working understanding" of JavaScript is insufficient for a professional developer role in this modern stack. Furthermore, the application fails to address mandatory requirements such as Git, web security, and functional programming.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant background in graphic design and familiarizes themselves with HTML and CSS, which is pertinent to the role. However, they lack direct experience with JavaScript, TypeScript, and several modern front-end frameworks and tools specified in the job description. Their enthusiasm for learning is promising, but there are significant gaps in required technical skills and experience with testing and advanced web technologies.

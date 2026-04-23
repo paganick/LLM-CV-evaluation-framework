@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an Electronics Engineering Technician rather than a Frontend Developer and lacks any professional experience with the core requirements of HTML, CSS, React, or TypeScript. Their background is centered on hardware testing, circuit troubleshooting, and embedded systems QA, which does not align with the needs of a modern web development team. Furthermore, the candidate's resume shows no evidence of modern frontend tooling, Git version control, or web security expertise.

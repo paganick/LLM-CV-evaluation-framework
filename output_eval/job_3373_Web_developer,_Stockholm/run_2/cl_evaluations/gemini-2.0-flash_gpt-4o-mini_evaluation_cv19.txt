@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background in graphic design is tangentially relevant, but lacks the core front-end development experience in JavaScript and TypeScript. While they express eagerness to learn, the letter highlights limited direct experience with crucial technologies mentioned in the job description. Their familiarity with version control and web security is basic, not demonstrating the hands-on experience sought.

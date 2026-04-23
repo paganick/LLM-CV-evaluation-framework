@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant industry experience and demonstrates strong foundational skills in web development, Agile, and Git. They directly address key requirements like React, TypeScript, testing frameworks, and clean code, showing initiative to learn. However, their professional hands-on experience is primarily with the .NET stack and jQuery, not with modern React or the specific testing/CI/CD tools listed, which prevents a higher score.

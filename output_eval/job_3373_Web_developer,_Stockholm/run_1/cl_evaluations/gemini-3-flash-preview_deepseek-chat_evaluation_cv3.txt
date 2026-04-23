@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a recent graduate who lacks professional, hands-on experience with the specific modern tech stack required, such as TypeScript, React, and automated testing frameworks. While they possess a relevant degree and foundational knowledge of HTML/CSS/JS, their familiarity with essential tools like Node.js, CI/CD, and Jest is purely academic. Furthermore, the application fails to address critical requirements such as Web security protocols, AWS, functional programming, or modern CSS tools.

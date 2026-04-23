@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in electronics test engineering, which is different from the software-focused role described. While the cover letter mentions JavaScript, TypeScript, HTML, and CSS, the resume lacks concrete examples of using these skills in a modern web development context, and their experience with React is not demonstrated. The resume showcases skills that are not relevant to the job description, which are mostly hardware related.

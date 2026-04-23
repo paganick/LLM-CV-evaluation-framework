@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in Java, while the job emphasizes JavaScript and related front-end technologies. While the candidate expresses adaptability and familiarity with some relevant concepts, the resume lacks concrete experience with the core technologies listed in the job description. There's a mismatch between the candidate's Java background and the front-end focus of the role.

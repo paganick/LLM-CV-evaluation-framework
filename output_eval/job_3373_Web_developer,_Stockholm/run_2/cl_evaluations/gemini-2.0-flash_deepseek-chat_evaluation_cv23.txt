@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is tangentially related, focusing on hardware and testing rather than front-end development. They express interest and adaptability but lack demonstrable experience in the core technologies listed in the job description, specifically React, modern CSS tools, and testing frameworks like Jest or Cypress. While they mention familiarity with JavaScript and SQL, this is not sufficient for a front-end developer role without relevant project experience.

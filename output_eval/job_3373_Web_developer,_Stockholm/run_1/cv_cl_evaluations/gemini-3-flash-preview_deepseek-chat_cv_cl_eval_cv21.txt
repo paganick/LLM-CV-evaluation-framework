@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in software development, their professional history is heavily rooted in legacy .NET stacks, jQuery, and AngularJS rather than the required modern React and TypeScript ecosystem. The resume lacks evidence of professional experience with Git, modern CSS-in-JS tools, or frontend testing frameworks like Jest and Cypress. Despite claims of recent self-study in the cover letter, the candidate does not currently possess the verified hands-on expertise in the specific primary technologies requested.

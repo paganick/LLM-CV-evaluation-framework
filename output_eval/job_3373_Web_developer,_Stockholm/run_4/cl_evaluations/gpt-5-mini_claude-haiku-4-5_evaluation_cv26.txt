@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows strong transferable skills, motivation, and foundational study of JS/TS/HTML/CSS, but lacks hands-on experience with core requirements: React (the team's framework), testing and test automation, Git/repo workflows, modern CSS tooling, Node ecosystem, and basic web security/CI practices. Given the role expects practical experience to contribute immediately, the candidate would require substantial upskilling before being a strong fit.

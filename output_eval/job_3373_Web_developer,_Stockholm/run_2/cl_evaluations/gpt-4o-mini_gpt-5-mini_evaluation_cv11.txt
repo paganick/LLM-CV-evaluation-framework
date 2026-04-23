@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and automation, particularly with tools like Selenium WebDriver, but lacks specific experience with modern front-end technologies and frameworks mentioned in the job description, such as React, TypeScript, and Jest. While they demonstrate a willingness to learn and adapt, they do not fully meet the technical skills required for this position. Additionally, there is no evidence of experience with Git or CI/CD tools, which diminishes their suitability.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates experience with several technologies mentioned in the job description, including React, testing frameworks, linters/formatters, and Git/GitHub. They also highlight their collaborative abilities and interest in staying up-to-date with the latest technologies. While their primary experience is in ASP.NET, their knowledge of modern front-end frameworks and NodeJS makes them a strong candidate worth considering.

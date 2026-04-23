@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software development, particularly in Java and testing methodologies, which aligns with the embedded expectations for quality in the role. However, they lack strong front-end experience with JavaScript frameworks like React, TypeScript proficiency, and other modern front-end tools mentioned in the job description. Their interest in front-end technologies is noted, but practical experience in the required frameworks and CSS tools is limited.

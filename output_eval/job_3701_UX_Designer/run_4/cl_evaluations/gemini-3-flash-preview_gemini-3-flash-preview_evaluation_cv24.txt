@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match who directly addresses the requirements for Agile experience, mentoring junior designers, and managing UI design systems. However, despite being a "highly desirable" requirement, the candidate fails to mention Figma, instead focusing on legacy tools like Axure and Adobe Suite. While the candidate's leadership experience and technical background in HTML/CSS are excellent, the lack of specific proficiency in the primary tool requested prevents a perfect score.

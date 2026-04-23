@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses extensive experience in software development, their professional background is rooted in Java/J2EE rather than the required frontend stack. They lack proven professional experience with React, modern CSS tools, and JavaScript testing frameworks, admitting to only "developing proficiency" in these areas. Consequently, they do not meet the core technical requirements for a Frontend Developer role despite their strong general engineering foundation.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET and SharePoint developer whose professional experience lacks the required expertise in React, TypeScript, and modern front-end ecosystems. While the cover letter claims familiarity with tools like Jest and SASS, the resume provides no evidence of professional application or project work involving these technologies or modern testing methodologies. The candidate’s background is too heavily centered on legacy migrations and backend-heavy frameworks to meet the specific requirements of this modern JavaScript-focused role.

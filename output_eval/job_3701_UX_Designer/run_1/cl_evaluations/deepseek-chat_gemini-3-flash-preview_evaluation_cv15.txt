@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive senior-level experience in design and product management, which is relevant to the industry. However, the cover letter critically fails to address the core technical requirements of the role, making no mention of Figma, HTML, CSS, or JS, and lacks specific, demonstrable examples of recent hands-on UX design work in an Agile environment. The experience described is more aligned with managerial and physical product development than with the specified digital UX design and prototyping duties.

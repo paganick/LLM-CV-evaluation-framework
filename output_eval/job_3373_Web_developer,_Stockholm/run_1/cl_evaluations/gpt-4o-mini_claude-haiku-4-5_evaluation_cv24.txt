@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications, which indicates an understanding of web technologies, but lacks direct experience with essential frontend technologies like JavaScript, TypeScript, React, and modern testing frameworks. While the letter highlights willingness to learn and strong collaboration skills, the absence of hands-on experience with the required tools and frameworks limits their suitability for the role.

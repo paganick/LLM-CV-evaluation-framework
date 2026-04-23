@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET and SharePoint developer whose experience lacks the required professional expertise in modern frontend frameworks like React and TypeScript. While they have a solid foundation in legacy web technologies and Agile environments, they show no evidence of working with modern testing suites, functional programming, or the specified CI/CD and AWS tools. Their background is too heavily focused on backend-centric enterprise applications to meet the strict requirements of this modern frontend-specialist role.

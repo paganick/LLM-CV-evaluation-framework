@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, TypeScript, HTML, CSS, and React, aligning well with the job description's core technical requirements. They also mention experience with testing, Git, Agile, and CI/CD, fulfilling several key requirements. While they mention familiarity with NodeJS and functional programming, the job description implies more than just familiarity is desired, thus preventing a higher score.

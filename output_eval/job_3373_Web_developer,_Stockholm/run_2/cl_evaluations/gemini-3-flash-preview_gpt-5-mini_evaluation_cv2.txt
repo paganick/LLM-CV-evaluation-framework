@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate is a seasoned software engineer with 8.5 years of experience, they lack professional hands-on experience with the mandatory tech stack, including JavaScript, TypeScript, and React. Their background is almost exclusively in legacy Java/J2EE backend development, and they explicitly state they are currently "transitioning" and hope to become proficient in the required tools. As a strict recruiter, I cannot prioritize a candidate who requires fundamental retraining in modern front-end frameworks and the Node.js ecosystem.

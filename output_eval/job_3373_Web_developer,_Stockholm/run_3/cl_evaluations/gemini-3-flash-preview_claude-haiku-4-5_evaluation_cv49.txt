@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks the required hands-on professional experience with the core technical stack, specifically JavaScript, TypeScript, and React. While they possess transferable analytical skills from systems engineering, they explicitly state they are still in the process of learning the fundamental technologies and testing frameworks required for the role. Crucial requirements such as web security knowledge, CI/CD experience, and proficiency with the Node.js ecosystem are entirely unaddressed.

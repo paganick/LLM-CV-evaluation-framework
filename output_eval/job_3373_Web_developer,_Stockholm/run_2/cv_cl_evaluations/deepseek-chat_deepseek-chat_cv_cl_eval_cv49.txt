@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in data analysis and industrial engineering, with no demonstrated professional experience in frontend development, React, or the specific technologies listed. The cover letter attempts to pivot but provides no evidence of hands-on work with JavaScript, TypeScript, modern frameworks, testing, or the required toolchain. This is a fundamental mismatch for a frontend developer role, placing the candidate in the wrong industry for this position.

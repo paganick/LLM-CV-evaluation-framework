@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks almost all the essential technical requirements, including professional experience with JavaScript, TypeScript, React, and automated testing frameworks. While the applicant has a relevant background in design and web aesthetics, they are fundamentally a career-changer who would require significant training to meet the minimum proficiency levels for this role. Their current skillset does not align with the demand for "hands-on experience" in modern frontend development and security protocols.

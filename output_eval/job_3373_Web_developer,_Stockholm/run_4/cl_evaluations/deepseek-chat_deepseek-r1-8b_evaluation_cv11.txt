@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's core experience is in software testing, not front-end development, which is the primary requirement. They mention foundational knowledge of key technologies like React, TypeScript, and security principles but lack demonstrated hands-on development experience with them. While their Agile collaboration skills and some technical overlap (JavaScript, Git, testing) are relevant, the significant gap in direct development experience makes them a partial match at best.

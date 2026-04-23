@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with a professional background almost exclusively in Marketing and Media Planning, lacking the required professional experience in frontend development. They do not possess the core technical requirements of the role, including React, TypeScript, modern testing frameworks (Jest/Cypress), or Git. While they have foundational knowledge of HTML/CSS and SQL, their profile does not meet the standards for a modern software engineering position.

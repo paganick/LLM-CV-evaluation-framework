@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive industry experience, they lack professional, hands-on experience as a software developer, explicitly stating their background is in product management. The job description requires a practitioner capable of writing clean code and implementing CI/CD and API designs, skills that the candidate only mentions conceptually rather than through professional application. Consequently, they do not meet the core technical requirements for a developer role.

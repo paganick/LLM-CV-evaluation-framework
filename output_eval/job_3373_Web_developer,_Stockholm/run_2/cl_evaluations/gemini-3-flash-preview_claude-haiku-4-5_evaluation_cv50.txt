@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a relevant Computer Science degree, they lack the required hands-on professional experience with the primary tech stack, including JavaScript, TypeScript, and React. The letter explicitly states they are currently "acquiring proficiency," which does not meet the job description's requirement for demonstrated experience in frontend development and testing frameworks. Consequently, the candidate is underqualified for a technical role that demands immediate proficiency in modern frontend architecture.

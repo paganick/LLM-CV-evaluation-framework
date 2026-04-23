@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's 7+ years of experience are exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL), which is a completely different industry and technology stack from modern front-end web development. The cover letter attempts to claim relevant skills (React, testing, Git) but these are not substantiated by the resume, which shows no professional experience with JavaScript, React, modern tooling, or Agile web development. This is a severe mismatch for the role.

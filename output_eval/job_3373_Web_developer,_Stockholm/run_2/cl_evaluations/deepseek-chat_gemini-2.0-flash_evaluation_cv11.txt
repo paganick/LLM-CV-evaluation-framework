@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and foundational front-end skills, but lacks specific, hands-on experience with the core technologies required, such as React, TypeScript, and modern testing frameworks. The cover letter emphasizes a background in software testing rather than front-end development, failing to demonstrate practical experience with the listed tools and libraries. While the candidate shows potential and a willingness to learn, the direct match to the job's technical requirements is insufficient.

@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate lacks all the essential technical requirements for the role, including proficiency in JavaScript, TypeScript, React, and modern frontend testing frameworks. Their professional experience is entirely rooted in materials science and manufacturing analysis, representing a complete industry mismatch. There is no evidence of software development experience or relevant technical training in the provided documentation.

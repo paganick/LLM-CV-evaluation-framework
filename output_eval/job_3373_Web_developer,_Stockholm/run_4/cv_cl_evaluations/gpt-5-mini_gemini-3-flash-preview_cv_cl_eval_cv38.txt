@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume is dominated by film and multimedia production experience with no verifiable front-end engineering roles, code samples, or technical project history demonstrating React, TypeScript, modern testing, NodeJS, CI/CD, or cloud experience. The cover letter asserts familiarity with required technologies, but those claims are not substantiated by the resume or concrete evidence of software development work. Given the lack of demonstrated, relevant engineering experience, the candidate is not qualified for this Front-End Engineer role.

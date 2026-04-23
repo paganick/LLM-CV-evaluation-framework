@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in IT and systems engineering, as well as proficiency in JavaScript, TypeScript, HTML, and CSS, specifically mentioning React. However, while they exhibit familiarity with testing frameworks and CI/CD practices, they do not explicitly fulfill all requirements and tools listed in the job description, indicating a potential skill gap. Overall, they are a strong candidate but may need further development in specific modern front-end tools and libraries.

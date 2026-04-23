@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in marketing automation, not software development, and they lack any demonstrable professional experience with the core technologies listed in the job description (React, TypeScript, modern testing frameworks). While they express interest and mention some tool names, there is no evidence of hands-on coding, building applications, or the specific technical skills required for a frontend developer role. This is a significant industry and skillset mismatch.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the core frontend stack, specifically missing evidence of proficiency in HTML, CSS, TypeScript, and modern frameworks like React. While they have a technical background in electronics and manual testing, they do not demonstrate the required experience with Git, web security protocols, or developer-centric testing automation. The profile reflects a career transitioner who does not currently possess the specific technical skills mandated by the job description.

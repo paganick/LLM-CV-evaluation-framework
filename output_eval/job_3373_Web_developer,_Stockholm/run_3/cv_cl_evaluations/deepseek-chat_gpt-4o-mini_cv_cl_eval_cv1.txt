@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary experience is in Java/J2EE backend and test automation, not modern front-end development with React. While they mention some front-end keywords and a test automation internship, their resume lacks substantial, recent hands-on experience with the core technologies (TypeScript, React, modern FE frameworks) and specific tools (Jest, Cypress, Ramda) listed in the job description. The cover letter overstates their alignment with the role's requirements, which are not substantiated by their professional work history.

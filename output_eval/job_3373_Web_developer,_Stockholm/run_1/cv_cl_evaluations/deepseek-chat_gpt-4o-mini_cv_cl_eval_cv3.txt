@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is from a completely different industry with no professional web development experience. While they have relevant academic coursework and personal projects, they lack hands-on experience with the required modern frameworks (React), testing automation, version control, and Agile methodologies as specified in the job description. Their skills are foundational and outdated, making them unqualified for the role.

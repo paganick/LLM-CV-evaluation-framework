@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in HTML, CSS, and JavaScript, and has demonstrated the ability to manage and rebuild websites. However, they lack specific experience with modern front-end frameworks like React, as well as hands-on experience with testing and test automation tools, which are critical to the role. Their general IT management background is commendable, but it does not fully align with the specific requirements of the front-end developer position.

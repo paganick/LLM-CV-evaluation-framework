@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Engineer position. With a Master of Science in Computer Science and over three years of experience across the software development life cycle, I have developed a deep expertise in building robust web interfaces and high-quality software solutions. My background as a Full Stack Developer, combined with a specialized focus on test automation, aligns perfectly with your team’s requirement for a developer who values clean code, performance, and comprehensive testing.
+
+Throughout my career, I have honed my skills in JavaScript, React, and SASS. In my role as a Java Full Stack Developer, I utilized React and SASS to build interactive user interfaces and HMI for real-time data monitoring. I am particularly excited that your team uses React, as it is a library I have leveraged to create dynamic, responsive web components. My familiarity with the Node ecosystem and npm allows me to understand the full stack and contribute effectively across the entire domain. I also bring a solid understanding of AWS and Git-based workflows, ensuring seamless integration into your Agile environment.
+
+My experience as a Test Automation Engineer further distinguishes my approach to development. I have extensive experience in unit, integration, and E2E testing using Selenium, Cucumber, and Jenkins. I understand the importance of building maintainable, reusable frameworks and am eager to apply this knowledge using modern tools like Jest, Cypress, and TestCafe. My commitment to writing clean code is a core practice I have maintained throughout my professional journey, including my work with complex design patterns and functional programming concepts. I am eager to apply libraries like Ramda to ensure code quality and predictability within your codebase.
+
+Beyond technical skills, I am a proactive collaborator who enjoys interacting with cross-functional teams and external partners. My background as an award-winning competitor and a lead development coordinator has prepared me to thrive in your fast-paced, Agile environment. I am highly motivated to stay current with the latest web technologies and essential security practices, including OWASP, CSP, and CORS. I am confident that my technical proficiency, coupled with a passion for engineering excellence and problem-solving, will make me a valuable asset to your team. I am eager to contribute to your continued success. Thank you for your time and your professional consideration.
+
+Sincerely,
+Alexis

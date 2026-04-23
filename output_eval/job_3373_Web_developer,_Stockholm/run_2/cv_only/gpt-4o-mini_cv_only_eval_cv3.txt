@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a foundational knowledge of HTML, CSS, and JavaScript, but lacks hands-on experience with modern front-end frameworks like React, which is critical for the position. Additionally, they do not demonstrate familiarity with test automation, Git, or any relevant security knowledge, which further limits their fit for this role. While they have a degree in IT related to web development, their lack of practical experience and specific required skills places them at a disadvantage.

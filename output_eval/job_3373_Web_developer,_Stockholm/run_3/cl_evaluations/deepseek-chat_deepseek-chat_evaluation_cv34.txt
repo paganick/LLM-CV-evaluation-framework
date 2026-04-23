@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant industry experience and a strong foundational understanding of core web technologies and Agile collaboration. However, they lack proven, hands-on professional experience with the specific required tech stack, particularly React and modern testing frameworks, which are listed as essential. Their background is primarily in implementation and project management, not direct front-end development, making them a transitional candidate who requires significant upskilling for the role.

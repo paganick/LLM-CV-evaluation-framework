@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant project management experience and possesses a solid understanding of technological tools. However, there is a lack of specific mention regarding experience with modern front-end frameworks like VueJS or Angular, hands-on experience with CI/CD tools, basic web security knowledge, and familiarity with the NodeJS ecosystem, limiting their alignment with the job requirements.

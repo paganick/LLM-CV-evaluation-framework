@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates foundational frontend skills (HTML, CSS, JS, React) and an understanding of Agile and Git. However, the profile is heavily skewed toward Java backend and test automation (Selenium, Cucumber), with no demonstrated professional experience in the core modern stack (TypeScript, React in a professional FE role, Jest/Cypress, Node.js ecosystem, or specific security knowledge) required by the job description. The transition to a specialized frontend role is aspirational but not proven.

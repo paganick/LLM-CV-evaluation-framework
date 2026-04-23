@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in marketing and media planning but lacks direct experience with key technologies mentioned in the job description, such as modern JavaScript frameworks (specifically React), testing automation, and hands-on work with CI/CD tools. While they possess some relevant skills in SQL, HTML, and Java, their overall experience does not align closely enough with the requirements of the role, indicating a potential gap in technical expertise.

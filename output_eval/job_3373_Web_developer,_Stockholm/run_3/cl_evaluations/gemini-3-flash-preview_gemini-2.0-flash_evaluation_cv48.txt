@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the IT industry, they lack the specific technical skills required for this role, including professional experience with JavaScript, TypeScript, React, and automated testing. The cover letter indicates a desire to learn these core technologies rather than demonstrating existing proficiency or hands-on application. Consequently, the candidate does not meet the minimum technical requirements for a developer position.

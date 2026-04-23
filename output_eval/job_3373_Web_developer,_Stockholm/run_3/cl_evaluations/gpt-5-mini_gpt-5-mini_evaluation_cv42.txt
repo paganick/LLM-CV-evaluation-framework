@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior operations and finance leader with strong program and vendor management skills but does not demonstrate any hands-on front-end engineering experience (JavaScript/TypeScript, React, modern CSS, testing frameworks, NodeJS, CI/CD, AWS). The job requires concrete, technical expertise in modern FE frameworks, testing and tooling which the cover letter does not provide. While their project delivery and cross-functional collaboration are transferable, they are insufficient for a front-end engineering role.

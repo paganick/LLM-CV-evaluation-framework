@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like JavaScript and CSS, but lacks depth in modern FE frameworks, especially React, which is the company's primary framework. While they express willingness to learn, their experience is heavily skewed towards PHP and older technologies. The resume and cover letter do not showcase sufficient experience in testing frameworks or CI/CD tools mentioned in the job description.

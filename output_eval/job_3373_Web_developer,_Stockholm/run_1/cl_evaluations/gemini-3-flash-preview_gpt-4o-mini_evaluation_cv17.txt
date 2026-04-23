@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer from construction management who lacks professional experience in software development and explicitly admits to missing key technical requirements like modern CSS tools. While they possess strong transferable soft skills and foundational knowledge of web security, their background does not align with the technical seniority required for this role. Their profile suggests an entry-level understanding that is insufficient for a position requiring hands-on experience with specific testing frameworks and the NodeJS ecosystem.

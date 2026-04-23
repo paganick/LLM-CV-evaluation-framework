@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is focused on marketing automation (Eloqua, Salesforce, campaign management) and shows no evidence of core frontend engineering skills such as JavaScript/TypeScript, React, modern CSS tools, NodeJS, or related testing frameworks and CI/CD. There is also no mention of Git, web security knowledge, AWS/Terraform, or other platform/tooling in the job description, so the candidate does not meet the essential technical requirements for this frontend role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in test engineering and automation, the cover letter indicates a lack of specific front-end development skills with JavaScript frameworks such as React, TypeScript, and modern CSS. The candidate shows willingness to learn these technologies but lacks hands-on experience, making them not fully qualified for the role despite their relevant industry background.

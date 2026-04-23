@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate expresses interest and some adjacent skills, the resume heavily emphasizes graphic design and lacks substantial, demonstrable experience in core front-end development technologies like React, TypeScript, and modern testing methodologies. The cover letter attempts to bridge the gap, but the resume doesn't provide enough concrete evidence to support the claims. There's a mismatch between the required expertise and the candidate's proven experience.

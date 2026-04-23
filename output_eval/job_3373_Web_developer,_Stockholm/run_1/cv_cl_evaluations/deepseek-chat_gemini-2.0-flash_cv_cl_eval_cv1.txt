@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong Java/Spring backend and test automation background but lacks the specific, recent, and deep front-end development experience required. The job description emphasizes modern React, TypeScript, and specific tooling (e.g., Jest, Cypress, Styled Components, Ramda), which the candidate's resume and cover letter do not substantiate with professional projects. While they have some relevant foundational skills, their primary expertise is misaligned with the core front-end focus of the role.

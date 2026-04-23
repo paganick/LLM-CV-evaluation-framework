@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a good background in software development with relevant experience in JavaScript, HTML, CSS, and Node.js that aligns with the job requirements. However, the lack of explicit experience with React, TypeScript, and testing frameworks like Jest, as well as a basic understanding of advanced topics such as AWS and Terraform, prevents them from being a perfect match for the role.

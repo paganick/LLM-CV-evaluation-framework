@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a QA professional with no documented experience as a Front-End Developer or with the required React framework. While they have a relevant background in software testing and basic JavaScript knowledge, they lack the specific technical skills in TypeScript, modern CSS, and developer-side testing tools requested. Furthermore, their professional experience appears outdated, with the last listed role ending in 2015, making them a poor fit for a modern development position.

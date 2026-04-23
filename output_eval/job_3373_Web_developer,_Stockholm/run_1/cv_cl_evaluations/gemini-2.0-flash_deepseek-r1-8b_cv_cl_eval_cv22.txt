@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and database management, lacking substantial experience with modern front-end technologies like React, TypeScript, or modern CSS tools. While they express interest in learning, the resume and cover letter highlight skills that are not directly aligned with the job description's core requirements for a front-end role. The candidate's experience with HTML/CSS is basic, and there's no mention of testing frameworks or CI/CD tools.

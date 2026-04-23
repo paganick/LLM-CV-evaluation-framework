@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is in digital marketing and Salesforce configuration, which is tangentially relevant. They mention HTML, CSS, and SQL, but lack direct experience with JavaScript, TypeScript, and React as highlighted in the job description. While they express a passion for clean code and familiarity with testing concepts, their skills appear entry-level for this role.

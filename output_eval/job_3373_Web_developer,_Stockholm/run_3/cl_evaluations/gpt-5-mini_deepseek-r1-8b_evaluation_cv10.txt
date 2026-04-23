@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: Candidate demonstrates core frontend skills (JavaScript/TypeScript/HTML/CSS), React experience, testing and Git, and Agile collaboration. However the letter omits required specifics such as web security (OWASP/CSP/CORS/OAuth), modern CSS tooling (Styled Components/SASS), specific testing frameworks (Jest/Cypress), Node/npm ecosystem, functional tools (Ramda), CI/CD, and AWS/Terraform—indicating gaps against the job's toolchain and infrastructure expectations.

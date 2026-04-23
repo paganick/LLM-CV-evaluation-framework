@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a general software background with some JavaScript/HTML/CSS and extensive backend/DBA experience, but the resume shows primarily Java/EJB and database roles with no concrete, recent frontend work. There is no verifiable experience with React, TypeScript, modern CSS tooling, Node/npm, Ramda, AWS/Terraform, or demonstrated test automation in the employment history. The cover letter asserts familiarity with modern tools, but those claims are unsupported by the resume, making them insufficient for this frontend-focused role.

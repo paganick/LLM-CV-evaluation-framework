@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in graphic design, not professional frontend development, and the cover letter acknowledges significant gaps in the required technical stack. While they demonstrate relevant soft skills and a willingness to learn, they lack hands-on experience with React, testing frameworks, modern CSS tools, and the other specific technologies listed. This is a career transition, and they do not currently meet the core technical requirements of the role.

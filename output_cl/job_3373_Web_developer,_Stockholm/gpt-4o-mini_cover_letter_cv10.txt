@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to apply for the JavaScript Developer position at your company, as advertised. With a strong foundation in front-end technologies, extensive experience in Agile environments, and a genuine passion for clean code, I am well-prepared to contribute to your team.
+
+In my role as a Java Intern, I designed and implemented a Leave Management System, employing a technology stack that included AngularJS for the front end. This hands-on experience has given me solid skills in modern JavaScript frameworks, along with familiarity in working with HTML5 and CSS. I am particularly interested in deepening my knowledge of React, as I understand that it is your choice of framework.
+
+I have actively engaged in writing and executing test plans, and I am proficient in testing and automation practices using tools like Jest. My role in the Performance and Benchmarking team allowed me to execute test cases, analyze performance metrics, and conduct root-cause analysis—skills that I believe are vital for ensuring high-quality deliverables in your projects.
+
+Collaboration is essential in any successful tech team, and I thrive in Agile environments. I have participated in Scrum meetings and collaborated closely with cross-functional teams, ensuring clear communication and alignment on project goals. My academic background, including a Master’s in Computer Science with a high GPA, demonstrates my commitment to continuous learning and staying updated with the latest technologies.
+
+Additionally, my familiarity with the Node.js ecosystem and tools like Git and GitHub aligns well with your requirements. I have experience with API design, and while I am currently gaining comfort with AWS and Terraform, my background in implementing web services in various formats has prepared me to adapt quickly. 
+
+I am enthusiastic about contributing to your team and leveraging my skills to create exceptional user experiences while adhering to the best coding practices. Thank you for considering my application. I look forward to the opportunity to further discuss how I can contribute to your success.
+
+Sincerely,  
+Alexis

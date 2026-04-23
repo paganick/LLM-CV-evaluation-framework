@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and has worked with JavaScript, HTML, and CSS, which aligns with the job requirements. However, their primary experience is focused on ASP.NET and .NET technologies, lacking direct experience with modern front-end frameworks like React. Additionally, while they mention testing experience, they do not explicitly demonstrate familiarity with specific testing frameworks or tools mentioned in the job description.

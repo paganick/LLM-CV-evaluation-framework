@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has substantial experience in the technology and test engineering sector and possesses relevant technical skills, including scripting, debugging, and automation. While they demonstrate a strong understanding of Agile workflows and collaborative work, they lack specific experience with some testing frameworks, linters, and CI/CD tools mentioned in the job description. Overall, they align well with the core requirements.

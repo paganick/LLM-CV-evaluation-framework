@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate holds a relevant IT degree, they lack professional experience and fail to demonstrate proficiency in core requirements such as TypeScript and hands-on automated testing (unit, E2E). Their knowledge of React appears theoretical or introductory, and they do not mention essential tools from the description like CI/CD, AWS, or modern CSS methodologies. As a recent graduate with primarily academic project experience, they do not meet the "hands-on" technical seniority suggested by the specialized skill set required.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, with no demonstrated experience in the required technical skills like JavaScript, TypeScript, React, testing, or modern front-end development. The cover letter acknowledges this lack of specific experience and attempts to argue for transferable skills, but the core technical requirements of the job description are completely unmet. This is a severe mismatch for a front-end developer role.

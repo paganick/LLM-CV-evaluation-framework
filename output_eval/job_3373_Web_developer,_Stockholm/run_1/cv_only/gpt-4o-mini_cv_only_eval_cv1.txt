@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in web development with hands-on experience in React and Angular, as well as proficiency in JavaScript, HTML, CSS, and SASS. However, there is limited mention of their experience with modern testing frameworks like Jest or Cypress, which could strengthen their profile further. Additionally, while they have familiarity with Agile methodologies, the resume lacks explicit details on their experience with the Node.js ecosystem and CI/CD tools.

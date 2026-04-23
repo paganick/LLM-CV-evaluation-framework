@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer transitioning from data analysis and industrial engineering, lacking any professional experience as a Frontend Developer. While they demonstrate theoretical knowledge of the tech stack, their practical background is centered on Python, R, and AutoCAD rather than production-level JavaScript or TypeScript. This lack of direct, professional experience in web development makes them an underqualified applicant for a role requiring specific frontend expertise.

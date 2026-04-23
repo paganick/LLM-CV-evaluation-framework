@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for the position, possessing a background in program design and learning rather than software engineering. They lack all mandatory technical skills, including proficiency in JavaScript, React, TypeScript, and modern front-end testing frameworks. Their experience is in a different industry, and "intermediate coding in R studio" does not meet the requirements for a professional web development role.

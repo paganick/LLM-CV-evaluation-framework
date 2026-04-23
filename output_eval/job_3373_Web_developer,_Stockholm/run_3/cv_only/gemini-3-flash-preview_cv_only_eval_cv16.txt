@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a .NET developer with professional experience that concluded in 2016, making their technical profile significantly outdated for a modern React/TypeScript role. They lack any experience with modern front-end frameworks, testing suites (Jest, Cypress), or cloud infrastructure (AWS/Terraform) specified in the requirements. While they have a foundational background in software development and Agile, they do not meet the core technical competencies required for this position.

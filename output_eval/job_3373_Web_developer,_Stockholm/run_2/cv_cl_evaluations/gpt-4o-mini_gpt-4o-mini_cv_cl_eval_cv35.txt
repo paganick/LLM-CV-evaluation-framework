@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in a relevant industry and possesses some technical knowledge, particularly with JavaScript, HTML, CSS, and concepts of testing. However, they lack direct experience with modern front-end frameworks like React, and their cover letter does not demonstrate sufficient hands-on exposure to the required tools and practices outlined in the job description. Additionally, the candidate’s experience appears predominantly focused on marketing automation rather than software development.

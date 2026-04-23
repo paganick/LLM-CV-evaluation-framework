@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: While the candidate holds a degree in Computer Science, their professional history over the last 30 years is almost exclusively in business development, aerospace quality engineering, and IT management rather than hands-on software development. There is no evidence in the work history to support the claims of professional experience with JavaScript, React, TypeScript, or modern testing frameworks. The candidate is fundamentally misaligned with the technical requirements and seniority level of this frontend engineering role.

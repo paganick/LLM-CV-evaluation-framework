@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has over 18 years of experience in the IT industry, the resume fails to demonstrate professional experience with the core requirements of React, TypeScript, or modern testing frameworks like Jest and Cypress. The technical profile is heavily focused on legacy web technologies (Flash, Dreamweaver, PHP) and general systems administration rather than contemporary frontend engineering. Consequently, the candidate lacks the specific, hands-on expertise in the modern JavaScript ecosystem necessary for this role.

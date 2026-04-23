@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight graphic design experience, which is not directly relevant to the front-end developer role. While the candidate expresses interest in learning modern front-end frameworks, they lack the required experience with JavaScript, TypeScript, React, testing, and other essential technologies listed in the job description. The skills listed are not aligned with the technical requirements.

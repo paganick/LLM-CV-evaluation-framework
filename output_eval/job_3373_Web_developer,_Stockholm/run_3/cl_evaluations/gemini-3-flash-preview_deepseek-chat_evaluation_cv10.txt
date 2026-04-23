@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks direct professional experience with the primary requirements of React and TypeScript, having instead worked with legacy frameworks like AngularJS and Java-centric stacks. While they possess a strong academic background and general front-end foundations, they fail to demonstrate specific knowledge of web security protocols (OWASP, CSP) or the required modern front-end testing suites. The profile reflects a full-stack generalist rather than the specialized front-end expert requested in the job description.

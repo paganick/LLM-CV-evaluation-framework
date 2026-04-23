@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is overwhelmingly in communications and technical writing with no evidence of the core technical skills required (JavaScript/TypeScript, HTML/CSS, React, testing, Git, Node ecosystem, CI/CD, etc.). While their accessibility experience and communication strengths are relevant, they do not compensate for the lack of hands-on front-end development experience and tooling knowledge required for this role. The application aligns poorly with the job's technical requirements.

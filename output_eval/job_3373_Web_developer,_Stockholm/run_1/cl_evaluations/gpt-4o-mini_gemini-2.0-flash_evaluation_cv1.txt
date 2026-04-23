@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and testing, particularly with JavaScript, HTML, CSS, and React, which aligns with the job requirements. However, the lack of mentions regarding TypeScript, modern CSS tools, and specific testing frameworks like Jest or Cypress, along with a basic knowledge of web security standards, limits their suitability for the position.

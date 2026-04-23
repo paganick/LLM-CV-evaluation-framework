@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a data analyst with no demonstrated experience in JavaScript/TypeScript, HTML/CSS, React, modern front-end tooling, or required testing frameworks. They have transferable analytical skills and programming experience in Python/R, but lack hands-on Git, NodeJS, CI/CD, and web security knowledge essential for the role. Given the need for immediate front-end expertise, they are not qualified for this position.

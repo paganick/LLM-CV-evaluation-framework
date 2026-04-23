@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a foundational understanding of HTML, CSS, and JavaScript, but lacks experience with modern FE frameworks like React as specified in the job description. While they express interest in learning, the resume showcases outdated technologies and a career history unrelated to web development. Their skills are mostly academic and lack practical application in a professional software development environment.

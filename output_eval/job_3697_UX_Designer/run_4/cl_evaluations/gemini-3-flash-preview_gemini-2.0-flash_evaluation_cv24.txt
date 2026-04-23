@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate meets the basic years of experience and educational requirements, their background is primarily in graphic design and development rather than specialized UI/UX design. They fail to mention essential prototyping tools like InVision or Wireframe.cc requested in the job description, and their emphasis on print production and PHP is irrelevant to this product-focused role. The application lacks specific evidence of UI-centric deliverables like storyboards, process flows, and sitemaps, indicating a lack of deep technical fit.

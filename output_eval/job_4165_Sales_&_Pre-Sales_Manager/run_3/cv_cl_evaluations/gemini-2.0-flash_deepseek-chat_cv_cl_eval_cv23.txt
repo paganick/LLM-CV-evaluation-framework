@@ -1,0 +1,2 @@
+Score: [7]
+Reasoning: The candidate demonstrates relevant experience in client-facing sales and business development within the digital space. The cover letter and resume highlight experience with Fortune 500 companies and digital strategy, aligning with the job description's focus. However, the resume lacks specific details on experience with application services (API, Cloud, DevOps, Microservices) or business analytics (BigData, Data Science), which are listed as requirements.

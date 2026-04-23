@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is primarily a visual and multimedia designer whose technical skills are limited to basic HTML/CSS and jQuery, failing to meet the requirement for a modern React developer. There is no evidence of experience with TypeScript, automated testing, CI/CD, or modern JavaScript frameworks required for this engineering role. While the candidate has a computer science degree, their professional history lacks the depth of software development and clean code practices specified in the job description.

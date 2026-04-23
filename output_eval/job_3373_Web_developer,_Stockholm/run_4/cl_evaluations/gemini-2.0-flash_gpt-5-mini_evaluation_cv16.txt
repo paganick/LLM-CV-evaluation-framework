@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development and some familiarity with JavaScript, HTML, and CSS. However, the cover letter indicates a stronger background in .NET technologies and a desire to deepen front-end specialization, rather than demonstrating existing expertise. There is a lack of explicit experience with React, testing, and modern CSS tools, which are key requirements.

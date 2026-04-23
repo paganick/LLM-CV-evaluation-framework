@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate shows enthusiasm and relevant basic familiarity with JavaScript, TypeScript, HTML and CSS plus strong soft skills, but provides no concrete, hands‑on experience with core requirements (React, testing/test automation, Git/GitHub, Node/npm, modern CSS tooling, CI/CD, or web security). Their background is primarily administrative with intent to learn rather than demonstrated proficiency in the specific technologies listed. Relevant but currently lacks the technical depth and tooling experience required for this role.

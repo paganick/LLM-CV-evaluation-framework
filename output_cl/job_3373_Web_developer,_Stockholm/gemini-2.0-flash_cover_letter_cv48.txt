@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Front End Developer position. With over twelve years of experience in providing technical assistance and a passion for clean code, I am confident I possess the skills and dedication to excel in this role.
+
+While my background primarily encompasses IT support and system administration, my experience has equipped me with a strong foundation in troubleshooting, hardware maintenance, and customer service – skills that translate well to collaborative software development.
+
+I am eager to apply my existing knowledge and learn new technologies, particularly within the modern JavaScript ecosystem. I am committed to staying up-to-date with the latest industry trends, and I am excited about the opportunity to contribute to a team that utilizes React and embraces agile methodologies.
+
+My experience managing Windows devices and servers, coupled with my familiarity with networking concepts like DHCP/DNS and firewalls, provides a solid base for understanding web application architecture and security. I am particularly interested in expanding my knowledge of security on the Web, including OWASP, CSP, CORS, and OAuth.
+
+I am a strong collaborator, comfortable in agile environments, and passionate about understanding the full domain, including areas outside my immediate expertise. I am confident in my ability to quickly learn and contribute to your team’s success.
+
+I am excited about the opportunity to learn more about the Front End Developer position.
+
+Sincerely,
+Alexis

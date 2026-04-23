@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in program management and learning design with only "intermediate coding in R studio" and no demonstrated experience in JavaScript/TypeScript, React, modern CSS, NodeJS ecosystem, testing frameworks, or CI/CD, all of which are core requirements for this front-end engineering role. While they have strong program management and facilitation skills, they lack the specific technical skills, tooling experience, and web security knowledge needed to perform this position. This is therefore a mismatch to the job's technical profile.

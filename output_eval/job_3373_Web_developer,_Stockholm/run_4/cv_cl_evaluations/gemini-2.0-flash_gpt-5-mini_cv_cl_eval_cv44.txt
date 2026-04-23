@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like HTML, CSS, and UI/UX design, but lacks experience with modern front-end frameworks like React, TypeScript, and testing frameworks mentioned in the job description. While the cover letter expresses interest in learning these technologies, the resume doesn't demonstrate practical experience in the core skills required. There's a significant gap between the job requirements and the candidate's current skillset.

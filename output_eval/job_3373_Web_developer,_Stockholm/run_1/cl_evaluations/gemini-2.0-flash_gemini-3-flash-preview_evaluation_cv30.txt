@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates a broad technical background and some relevant experience, the cover letter lacks specific, demonstrable experience with JavaScript, TypeScript, and React. The candidate mentions related technologies like C# and ASP.NET, but doesn't provide enough evidence of directly applicable skills needed for the role, despite mentioning "modern development requires comprehensive test automation". The candidate also mentions Git and GitHub but does not highlight previous project experience, only familiarity.

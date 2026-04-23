@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: Candidate is a senior business development and aerospace/quality engineering professional with no demonstrated experience in JavaScript, TypeScript, React, HTML/CSS, modern front-end frameworks, testing frameworks, or Node.js tooling required for this role. The technical background listed is legacy Windows server/network administration and project management from many years ago, not modern front-end engineering. Therefore the resume shows a complete mismatch with the job requirements.

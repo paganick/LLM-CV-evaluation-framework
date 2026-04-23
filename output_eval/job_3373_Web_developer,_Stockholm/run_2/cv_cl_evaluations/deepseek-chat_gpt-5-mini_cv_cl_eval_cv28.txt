@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in materials engineering and quality analysis for manufacturing, with zero professional experience in software development, front-end technologies, or any skills listed in the job description. While they demonstrate strong analytical and collaborative soft skills, they lack the fundamental technical requirements (JavaScript, React, testing frameworks, Git, etc.) and are attempting a complete career pivot into an unrelated field.

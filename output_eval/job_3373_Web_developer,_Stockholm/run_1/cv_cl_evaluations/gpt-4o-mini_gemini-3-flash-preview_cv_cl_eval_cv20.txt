@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a relevant background in web development and demonstrates proficiency in essential technologies such as JavaScript, HTML, and CSS. However, they lack direct experience with modern frameworks like React and testing automation tools mentioned in the job description. Additionally, the candidate's experience is heavily tied to the .NET ecosystem, which may not fully meet the expectations of the role focusing on React and other specific technologies.

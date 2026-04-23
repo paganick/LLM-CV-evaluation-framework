@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant QA and automation experience and basic JavaScript/HTML/CSS knowledge, but lacks demonstrated hands‑on front‑end development experience with React/TypeScript, modern tooling (Node/npm/Yarn, Styled Components/SASS, ESLint/Prettier), and Git/GitHub. They also do not show experience with common front‑end testing frameworks (Jest/Cypress) or core web security concepts required by the role. Overall, this is a testing-focused candidate who would require significant upskilling to meet the stated Front‑End Developer requirements.

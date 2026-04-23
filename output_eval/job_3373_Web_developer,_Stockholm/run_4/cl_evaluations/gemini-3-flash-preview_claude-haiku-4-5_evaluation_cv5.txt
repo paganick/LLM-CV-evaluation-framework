@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses seven years of software development experience and strong leadership skills, they are currently undergoing a career pivot from mainframe technologies to frontend development. They lack professional-grade experience with the core requirements of React, TypeScript, and modern CSS tools, categorizing them as a junior-level applicant for a role requiring specific technical proficiency. Their transition phase presents a significant skill gap compared to the hands-on expertise demanded in the job description.

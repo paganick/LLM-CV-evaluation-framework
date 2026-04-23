@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive experience in web development and CMS architecture, they lack professional experience with the core requirements of the role, specifically React and TypeScript. Their background is heavily centered on Drupal, PHP, and jQuery, which does not align with the modern frontend stack including the NodeJS ecosystem, Jest, and functional programming. Despite strong general engineering principles, the candidate lacks the specific hands-on experience required for a mid-to-senior React developer position.

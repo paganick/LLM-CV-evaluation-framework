@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate lacks professional experience with the primary required technology stack, specifically React and TypeScript, and explicitly states a need for training in these areas. Key requirements such as automated testing, web security knowledge, and modern CSS tools are entirely unaddressed in the application. While the candidate has a relevant background in general software development and Agile methodologies, they do not possess the specific technical expertise mandated by the job description.

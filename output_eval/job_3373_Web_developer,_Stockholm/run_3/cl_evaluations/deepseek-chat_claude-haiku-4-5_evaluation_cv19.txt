@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational knowledge (HTML, CSS, Git, basic security) and demonstrates strong soft skills and learning aptitude that align with the job description. However, they lack hands-on, professional experience with the core required technologies: JavaScript, TypeScript, React, and modern testing frameworks. Their background is primarily in graphic design, not professional frontend development, creating a significant experience gap for the role.

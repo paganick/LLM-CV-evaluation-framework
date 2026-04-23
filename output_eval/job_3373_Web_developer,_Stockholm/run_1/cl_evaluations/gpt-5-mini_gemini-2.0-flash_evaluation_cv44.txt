@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant UX/UI and solid HTML/CSS foundations plus a Computer Science background, but provides no evidence of required JavaScript/TypeScript, React or other modern framework experience, testing and test automation, Git, NodeJS ecosystem knowledge, or web security practices. Given the substantial gaps in essential front-end engineering skills and tooling listed in the job description, they would require significant upskilling before independently contributing to this role.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in .NET development, with limited demonstrated expertise in modern frontend frameworks like React (the company's framework of choice). While they mention JavaScript, HTML, and CSS, the resume highlights server-side technologies more prominently. The cover letter attempts to bridge this gap, but the lack of specific project experience with required FE technologies is a concern.

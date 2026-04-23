@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a foundational understanding of relevant technologies such as HTML, CSS, and JavaScript, along with some experience in consulting roles. However, they lack hands-on experience with the specific frameworks and tools mentioned in the job description, such as TypeScript, modern testing frameworks, and CI/CD. Additionally, their background in marketing and database roles may not align closely enough with the primary requirements for this Frontend Developer position.

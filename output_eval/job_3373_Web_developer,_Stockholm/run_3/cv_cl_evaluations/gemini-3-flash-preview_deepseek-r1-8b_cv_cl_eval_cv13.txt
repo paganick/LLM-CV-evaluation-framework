@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Technical Project Manager rather than a dedicated Software Engineer, lacking the deep, hands-on development experience required for this role. Their profile misses critical technical requirements, specifically professional experience with React, TypeScript, and automated testing frameworks like Jest or Cypress. While the candidate has a background in the tech industry, their skills are focused on management and coordination rather than the modern frontend engineering stack specified in the job description.

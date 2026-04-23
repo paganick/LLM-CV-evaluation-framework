@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates experience in design and some front-end technologies (HTML, CSS), but lacks the required depth in JavaScript, TypeScript, and modern FE frameworks like React, which are core to the job description. While the candidate mentions familiarity with React, VueJS, and Angular in the cover letter, this is not substantiated by the resume. The resume focuses heavily on design and presentation skills, not software development.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's primary expertise is in Java/Spring, which is not aligned with the core requirement for modern frontend frameworks like React. While they demonstrate strong general software fundamentals, collaboration skills, and mention some relevant concepts (Node.js, OWASP, Ramda), they lack direct, hands-on experience with the key technologies listed (JavaScript/TypeScript, React, CSS tools, frontend testing frameworks). Their background is in a different tech stack, making them a relevant industry candidate who lacks the specific experience required.

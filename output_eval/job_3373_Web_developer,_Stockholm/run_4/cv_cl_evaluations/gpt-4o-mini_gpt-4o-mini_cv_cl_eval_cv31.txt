@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong sales background but lacks direct experience with the core technical requirements of the role, such as extensive knowledge of JavaScript, TypeScript, and modern front-end frameworks including React. While they have foundational knowledge in HTML and some related technologies, their skills in testing frameworks and CI/CD tools are not sufficiently demonstrated, making them less competitive for this primarily technical position.

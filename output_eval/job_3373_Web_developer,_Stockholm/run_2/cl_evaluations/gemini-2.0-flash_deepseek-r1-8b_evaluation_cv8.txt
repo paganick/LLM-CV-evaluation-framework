@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in hardware and system-level testing, whereas the job description emphasizes front-end technologies and web security. While the candidate mentions some relevant tools and concepts like Git, Jest, Cypress, OWASP, and CI/CD, their experience appears less hands-on and more conceptual in these specific areas. The cover letter leans heavily on hardware expertise which is not a main requirement.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The resume is primarily focused on business development and sales, lacking the necessary skills in JavaScript, modern FE frameworks, and testing frameworks mentioned in the job description. While the candidate lists HTML, C, and C++ under skills, this is insufficient for a modern front-end role. The experience described does not align with the technical requirements of the position.

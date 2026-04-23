@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid understanding of software principles and testing but lacks direct professional experience with the core requirements of React and TypeScript. Their background is heavily weighted toward Java, test automation, and legacy frameworks like AngularJS, making them a transitional candidate rather than a specialist in the modern frontend stack requested.

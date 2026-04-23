@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer without professional experience in a software engineering role, failing to demonstrate the depth of technical expertise required. Significant gaps exist regarding mandatory requirements such as web security (OWASP), CI/CD pipelines, and cloud infrastructure. While the applicant has foundational knowledge of the React stack, their lack of a proven track record in a professional development environment makes them an unsuitable match for this position.

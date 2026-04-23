@@ -1,0 +1,13 @@
+Dear Hiring Manager
+
+I am an experienced, registered Professional Engineer and project leader with two decades of delivering complex, safety-critical capital programs worldwide. I am seeking to transition my proven technical leadership, systems thinking, and quality-first mindset into a front-end engineering role on your React team. Though my background is in civil and offshore construction engineering, my career demonstrates rapid mastery of technical domains, disciplined processes, and collaborative delivery—qualities that align with your need for strong collaborators comfortable in Agile environments.
+
+Across project leadership roles I have led multidisciplinary teams of up to 3,000 personnel, managed international contractors, and delivered billion-dollar modules and brownfield modifications on time and under budget. I have directed quality assurance and systems completion teams, led Risk Management Plans, Process Safety Management, PHA and HAZID sessions, and drove continuous improvement that produced multimillion-dollar savings. These experiences have honed an engineer’s attention to detail, test-first thinking, thorough documentation, and a commitment to safe, maintainable systems—principles I will bring to software development and automated testing.
+
+I am comfortable engaging external partners and cross-functional stakeholders to define scope, negotiate requirements, and achieve aligned outcomes. I thrive in fast-paced, matrixed organizations and enjoy learning adjacent domains to ensure end-to-end delivery. I am excited by modern front-end frameworks and tooling and am actively building practical competence in JavaScript, TypeScript, React, and test automation patterns. My approach emphasizes readable, well-tested work, and adherence to standards and processes that reduce risk—paralleling my track record in PSM and QA/QC.
+
+My formal credentials include a Master of Science and Bachelor of Science in Civil Engineering, multiple Professional Engineering licenses, Operational Excellence and CSOC Supreme certifications. Combined with hands-on experience preparing bid packages, negotiating complex contracts, and directing QA/QC and systems completion, these qualifications reinforce my ability to adopt engineering best practices and contribute while I continue to build technical front-end expertise.
+
+I would welcome the opportunity to bring my leadership, rigorous engineering discipline, and drive for continuous learning to your team. I am confident that my experience managing complex, safety-focused projects and my commitment to mastering modern front-end practices would make me a dependable contributor to your React-based product delivery.
+
+Sincerely, Alexis

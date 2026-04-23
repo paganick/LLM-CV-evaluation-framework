@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including extensive React interest, modern CSS tools, testing discipline, and Agile collaboration. The experience is highly relevant but the cover letter does not explicitly mention several key items from the job description, such as TypeScript, specific security knowledge (OWASP, CORS), or the listed tools like Ramda and Cypress. The candidate's deep systems and project experience makes them a strong match, though not a perfect one due to these specific omissions.

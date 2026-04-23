@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong backend and test automation background but lacks the specific, recent frontend framework experience required (React, Vue, Angular, Svelte). Their listed experience with React and AngularJS is outdated, and there is no mention of TypeScript, modern testing tools (Jest, Cypress), or key listed technologies like Node.js, functional programming (Ramda), or CI/CD tools (CircleCI). While they have relevant industry experience and some overlapping skills, the core frontend stack and modern tooling requirements are not met.

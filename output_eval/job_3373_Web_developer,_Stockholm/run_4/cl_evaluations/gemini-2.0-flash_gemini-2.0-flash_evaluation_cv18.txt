@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate mentions JavaScript, HTML, CSS, and experience with front-end frameworks, but doesn't specify React experience prominently, despite it being the primary framework used by the company. There's a lack of specific mention of testing/test automation, Git, or web security knowledge as outlined in the job description. The cover letter focuses more on general IT experience rather than the specific front-end skills requested.

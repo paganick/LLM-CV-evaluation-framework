@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant front-end fundamentals (JavaScript, HTML, CSS), testing experience, modern CSS tools, Git, and strong Agile/project management skills, which are positive. However, they do not show explicit hands-on experience with TypeScript or the team's primary framework (React), and they lack evidence of familiarity with the Node ecosystem, CI/CD, API design, Ramda, and cloud/infra tools the role expects. Given these gaps against the listed technical requirements, they are a relevant but incomplete fit for this position.

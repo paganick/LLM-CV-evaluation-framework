@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate states familiarity with JavaScript/TypeScript/HTML/CSS and strong soft skills but provides no demonstrated professional web development experience or concrete projects. They lack hands-on experience with React, testing/test automation, Git/GitHub, Node/npm, CI/CD, modern CSS tooling, and web security—core requirements for the role. Motivation to learn is positive but does not offset the absence of the required technical track record.

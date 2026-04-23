@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in web development but lacks specific skills in the required modern front-end technologies like React, TypeScript, and associated testing frameworks. While they mention AngularJS, the job description emphasizes React, making their experience only partially relevant. The resume focuses heavily on Java and back-end technologies, which are not the primary focus of the Front-End Developer role.

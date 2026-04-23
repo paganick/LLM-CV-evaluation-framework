@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant software development experience and basic JavaScript/HTML/CSS and Node.js familiarity plus Agile exposure, which makes them a potentially trainable front-end developer. However, their resume and cover letter lack concrete, demonstrated experience with React, TypeScript, modern CSS tools (Styled Components/SASS), front-end testing frameworks (Jest/Cypress/TestCafe), repo workflows (Git/GitHub), CI/CD and web security specifics, so they do not meet the majority of the role's core front-end and testing requirements.

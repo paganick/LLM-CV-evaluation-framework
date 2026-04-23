@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position, which I discovered through your job posting. With a strong foundation in full-stack web development, honed over five years of specialized work on high-visibility public sector projects, I am confident that my technical expertise and collaborative approach align perfectly with your team’s needs.
+
+Your requirement for proficiency in JavaScript, HTML, and CSS matches my extensive hands-on experience, as evidenced by my work developing and theming responsive websites for NYSED using HTML5 and CSS3. While my recent focus has been within the Drupal ecosystem, I have a proven, foundational command of JavaScript and have consistently worked with modern development tools, including Git for version control and Selenium for test automation. I am deeply motivated to transition and apply this robust problem-solving skillset to your React-based stack, and I am actively engaged in deepening my knowledge of modern frameworks and libraries.
+
+I am particularly drawn to your emphasis on clean code, Agile collaboration, and a genuine passion for technology. Leading the NYSED.GOV redesign required meticulous architecture, cross-team coordination with ITS and program offices, and a steadfast commitment to delivering secure, functional, and accessible web products. This experience has made me a strong collaborator comfortable with complex stakeholder environments. My background in writing unit tests, analyzing requirements, and deploying functional software directly supports your needs for testing and quality assurance.
+
+Furthermore, my familiarity with the Node.js ecosystem, API design, and overarching project management from conception through deployment provides a solid platform for quickly contributing to your broader technical environment. I am keen to understand your full domain and am excited by the prospect of leveraging my foundational skills while growing expertise in your specific toolchain, including React, modern CSS methodologies, and CI/CD practices.
+
+Thank you for considering my application. I am eager to discuss how my background in delivering large-scale, user-focused web solutions can benefit your team.
+
+Sincerely, Alexis

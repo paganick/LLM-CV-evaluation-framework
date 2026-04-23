@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate comes from a non-technical background, which is a significant hurdle. While the letter highlights transferable skills and eagerness to learn, it lacks demonstrable experience in the required technologies like React, testing frameworks, and other essential FE tools. The candidate showcases an awareness of web security and some tooling, but lacks sufficient practical experience in frontend development.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant industry experience and demonstrates proficiency in core web technologies and Agile collaboration. However, the cover letter fails to explicitly mention the key technologies from the job description, such as React, TypeScript, modern testing frameworks (Jest, Cypress), and modern CSS tools (Styled Components, SASS). The experience described is more aligned with traditional web development rather than the specific modern frontend stack required.

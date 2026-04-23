@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks the required technical proficiency in React and TypeScript, which are central to the role's requirements. Furthermore, the application fails to mention any experience with essential technical competencies such as automated testing, version control, or web security. While the candidate possesses transferable communication skills and a basic understanding of web technologies, they do not currently meet the professional engineering standards necessitated by the job description.

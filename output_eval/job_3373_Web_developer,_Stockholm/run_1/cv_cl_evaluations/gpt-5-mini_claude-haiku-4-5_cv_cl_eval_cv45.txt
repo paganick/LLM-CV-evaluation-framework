@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong IT and cybersecurity background with leadership and security expertise, but there is no demonstrated hands-on experience with JavaScript/TypeScript, React, HTML/CSS, frontend testing frameworks, Node.js, or the other modern frontend tools listed in the job description. Their cover letter expresses interest and willingness to learn, but the resume does not show the specific frontend skills or project experience required to be productive in this role without significant upskilling.

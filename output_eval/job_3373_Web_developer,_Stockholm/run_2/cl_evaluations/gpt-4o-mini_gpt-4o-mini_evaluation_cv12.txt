@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong experience with essential technologies such as JavaScript, HTML, CSS, and modern frameworks, particularly React, which aligns with the job description. However, there is no mention of TypeScript, which is a requirement. The candidate has relevant experience in testing and Agile collaboration, but lacks references to some tools and concepts mentioned, like Functional programming and CI/CD tools.

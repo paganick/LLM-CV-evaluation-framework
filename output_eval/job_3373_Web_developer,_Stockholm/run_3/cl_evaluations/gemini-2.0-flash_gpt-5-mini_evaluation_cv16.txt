@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant front-end experience, but the cover letter emphasizes .NET more heavily than modern front-end technologies. While they express interest in deepening their React skills and adopting modern tools, the letter lacks concrete examples of hands-on experience with testing frameworks and CI/CD tools as mentioned in the job description. The candidate also needs to show more experience with Node.js.

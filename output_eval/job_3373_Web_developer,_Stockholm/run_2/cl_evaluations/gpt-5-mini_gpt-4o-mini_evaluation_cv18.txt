@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate meets many core front-end requirements (React, JavaScript, HTML/CSS, testing with Jest/Cypress, Styled Components/SASS, Git/GitHub, ESLint/Prettier, basic web security and CircleCI). However, they do not mention TypeScript, functional-programming experience (Ramda), API design, or familiarity with AWS/Terraform—omissions that are important to this role, so I cannot rate them higher.

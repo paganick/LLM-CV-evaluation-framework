@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate openly admits their professional experience doesn't directly align with the technical requirements. They lack the core technical skills (JavaScript, TypeScript, React) mentioned in the job description. While transferable skills are valuable, the absence of fundamental qualifications makes them unsuitable for this role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a QA professional who lacks professional experience in React and TypeScript, which are core requirements for this developer position. They fail to demonstrate hands-on experience with modern CSS tools, NodeJS, or the specific web testing frameworks like Jest or Cypress mentioned in the job description. While the candidate has a relevant educational background, their profile represents a career pivot rather than the specific front-end expertise requested.

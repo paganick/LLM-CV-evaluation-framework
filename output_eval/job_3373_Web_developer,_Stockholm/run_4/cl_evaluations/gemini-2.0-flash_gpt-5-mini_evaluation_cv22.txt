@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in media planning and account management, a significant departure from front-end engineering. While they express interest and some basic knowledge of HTML, CSS, Java, and SQL, they lack the essential experience with modern JavaScript frameworks (especially React as highlighted in the job description), testing, and other tools crucial for the role. The cover letter indicates more of a career change aspiration than demonstrable capability in the required technologies.

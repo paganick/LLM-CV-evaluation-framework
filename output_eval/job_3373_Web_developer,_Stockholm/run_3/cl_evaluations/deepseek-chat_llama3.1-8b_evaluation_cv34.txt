@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required skills like React, Git, testing, and security topics. However, the cover letter is heavily focused on email marketing platforms and project management, while critically lacking specific mention of core technologies from the job description such as TypeScript, modern CSS tools, testing frameworks, Node.js, and CI/CD. The alignment with the role's technical stack is superficial and incomplete.

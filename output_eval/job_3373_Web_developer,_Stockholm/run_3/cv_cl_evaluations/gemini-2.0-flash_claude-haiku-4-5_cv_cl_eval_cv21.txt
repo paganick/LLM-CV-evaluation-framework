@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant skills like JavaScript, HTML, and CSS, but lacks experience with React and modern FE frameworks besides AngularJS. They mention a willingness to learn but don't showcase sufficient practical experience with modern testing frameworks or CI/CD tools. Their background is more heavily weighted towards backend technologies, making them a less ideal fit for a frontend developer role.

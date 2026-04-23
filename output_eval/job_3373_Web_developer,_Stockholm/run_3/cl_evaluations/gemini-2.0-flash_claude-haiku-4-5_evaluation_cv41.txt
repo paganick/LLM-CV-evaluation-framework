@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a Computer Engineering Technology degree and experience in systems engineering and technical support, which is somewhat relevant. However, the letter emphasizes a transition into frontend development, suggesting a lack of direct experience with React and other modern FE frameworks mentioned in the job description. While the candidate mentions familiarity with JavaScript, TypeScript, HTML, and CSS, there is no specific evidence of hands-on experience in frontend development.

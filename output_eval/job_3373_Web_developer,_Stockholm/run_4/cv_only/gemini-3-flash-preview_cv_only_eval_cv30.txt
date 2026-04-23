@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a data analyst and academic researcher whose profile lacks nearly all the core requirements for a modern Frontend Developer role, including React, TypeScript, and modern JavaScript. Their experience is centered on data science, SQL, and predictive modeling rather than software engineering or web application development. There is no evidence of experience with the required testing frameworks, CI/CD tools, or the React ecosystem mentioned in the job description.

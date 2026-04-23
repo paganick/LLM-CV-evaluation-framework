@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in C#/.NET and Python full-stack development, not modern frontend frameworks like React, which is explicitly required. While they list JavaScript/HTML/CSS, there is no demonstrated professional experience with React, TypeScript, modern CSS tools, or the specific testing frameworks mentioned. Their API and system architecture experience is relevant, but the lack of direct, hands-on experience with the primary technologies listed in the job description makes them a weak fit.

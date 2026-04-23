@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in project management and IT leadership, but lacks hands-on experience with the specific technologies outlined in the job description, such as JavaScript frameworks (React), testing automation, and modern CSS tools. While they demonstrate an understanding of the Software Development Lifecycle and tech stack, their experience does not directly align with the requirements for a Front End Developer role.

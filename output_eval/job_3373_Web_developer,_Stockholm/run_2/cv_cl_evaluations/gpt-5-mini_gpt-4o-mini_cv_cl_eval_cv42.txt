@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume demonstrates a 20-year career in finance and operations with no demonstrable front-end engineering experience, relevant technical skills, or portfolio/projects using JavaScript, TypeScript, React, CSS frameworks, testing tools, or Node.js. The cover letter asserts familiarity with technologies but provides no concrete evidence (projects, code samples, or measurable outcomes) to support a transition to this role. Given the clear mismatch to the job's required technical competencies, the candidate is not qualified.

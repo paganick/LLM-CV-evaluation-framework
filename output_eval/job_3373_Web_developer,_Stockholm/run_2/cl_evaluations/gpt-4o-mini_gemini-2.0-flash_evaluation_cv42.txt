@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in project management and problem-solving but lacks specific qualifications in front-end development technologies such as JavaScript, TypeScript, HTML, and CSS. There is no mention of familiarity with modern frameworks like React or testing automation, which are crucial for this position. While the candidate's skills are transferable, they don't fulfill the core technical requirements for the role.

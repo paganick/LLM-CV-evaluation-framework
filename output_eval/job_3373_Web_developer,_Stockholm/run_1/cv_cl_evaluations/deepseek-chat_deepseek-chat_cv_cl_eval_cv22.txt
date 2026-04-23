@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in media planning and account management, which is a completely different industry from front-end development. While they are pursuing a relevant Master's degree and mention basic knowledge of HTML, CSS, and Java, their resume and cover letter show no practical, professional experience with the core technologies required for the role, such as React, TypeScript, modern testing frameworks, or the specific tools listed in the job description. The transition is aspirational but lacks the demonstrated hands-on skill set.

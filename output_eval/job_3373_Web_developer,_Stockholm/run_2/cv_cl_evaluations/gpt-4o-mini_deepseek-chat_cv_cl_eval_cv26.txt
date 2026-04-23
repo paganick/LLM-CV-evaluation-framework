@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in marketing and communications, which provides some relevant skills in project management and collaboration. However, while they claim proficiency in JavaScript, TypeScript, HTML, CSS, and React, there is little evidence of hands-on web development experience or specific knowledge of the required testing frameworks and CI/CD tools. Their lack of extensive technical experience in front-end development and modern frameworks limits their fit for the position.

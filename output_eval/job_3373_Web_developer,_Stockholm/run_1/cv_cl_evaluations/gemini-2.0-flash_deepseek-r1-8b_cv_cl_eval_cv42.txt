@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is entirely in finance and operations, lacking any demonstrable experience with the required technologies (JavaScript, React, etc.). While the cover letter expresses interest in learning, the resume does not provide any evidence of technical skills or projects relevant to the job description. This candidate is not a fit for a front-end developer role.

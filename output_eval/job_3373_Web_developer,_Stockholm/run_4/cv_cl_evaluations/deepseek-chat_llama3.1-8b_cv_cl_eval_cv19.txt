@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and unrelated trades, not professional front-end development. While they mention HTML/CSS and list several required technologies in the cover letter, their resume provides no evidence of hands-on experience with JavaScript, TypeScript, React, testing frameworks, Git, or any other core technical requirements from the job description. This is a fundamental mismatch for the role.

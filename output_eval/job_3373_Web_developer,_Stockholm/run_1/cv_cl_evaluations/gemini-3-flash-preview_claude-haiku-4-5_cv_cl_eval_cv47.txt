@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this technical role, with a professional background exclusively in business development, sales, and organic chemistry. They lack practical experience with the core requirements of the role, including JavaScript, TypeScript, React, modern CSS, and automated testing frameworks. While they demonstrate strong leadership in a different industry, they possess no professional software development experience and fail to meet the technical benchmarks necessary for a Frontend Developer position.

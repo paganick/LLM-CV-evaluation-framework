@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT and cybersecurity, but lacks specific experience with modern front-end technologies like JavaScript, TypeScript, and frameworks such as React, which are crucial for the role. Additionally, there is no mention of hands-on experience with testing frameworks or CI/CD tools that the job requires. Overall, while the candidate has a relevant background, they do not meet the specific technical skills required for the position.

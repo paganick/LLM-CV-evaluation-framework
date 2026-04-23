@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in media production, a different field. They mention basic HTML/CSS and web design experience, but lack professional frontend development experience with React, TypeScript, or testing frameworks. The letter focuses on transferable skills rather than direct technical expertise required for the role.

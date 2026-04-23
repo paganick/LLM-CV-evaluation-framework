@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a sales and management background, which does not align with the technical requirements outlined in the job description. While they demonstrate strong leadership and strategic planning skills, they lack specific hands-on experience with the required technologies such as JavaScript, React, testing frameworks, and other technical skills listed. This limits their overall fit for a technical role.

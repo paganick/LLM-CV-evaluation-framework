@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a solid foundation in the required technologies such as HTML, CSS, and JavaScript. However, they lack hands-on experience with modern testing frameworks and specific tools mentioned in the job description, such as Styled Components, SASS, and CI/CD tools beyond CircleCI. Additionally, while the candidate expresses interest in expanding their technical skills, they do not demonstrate familiarity with some of the advanced technologies and practices outlined in the job description.

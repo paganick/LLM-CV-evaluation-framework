@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Project Manager and lacks recent, hands-on professional experience with React and TypeScript, which are core requirements for this role. While they possess a foundational understanding of web technologies, they admit to limited experience with modern testing frameworks and do not demonstrate proficiency in functional programming or the broader DevOps toolset requested. Their background is more suited for management than a technical frontend engineering position.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience with the required core technologies, specifically JavaScript, TypeScript, and modern React frameworks. Their background is primarily in data analytics, predictive modeling, and quality technician work, which does not align with the technical demands of a frontend software engineering role. While the candidate has a strong academic record in analytics, they do not possess the necessary hands-on experience with web security, modern CSS, or frontend testing suites.

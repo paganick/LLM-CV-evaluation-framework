@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is largely in advertising and database-focused academic projects with basic HTML/CSS and Java/MySQL, but they lack demonstrated professional experience in core requirements such as JavaScript/TypeScript, React, modern frontend tooling, testing frameworks, NodeJS and CI/CD/cloud tooling. They show transferable skills, willingness to learn, and some relevant academic exposure, but do not meet the role's essential frontend and tooling qualifications.

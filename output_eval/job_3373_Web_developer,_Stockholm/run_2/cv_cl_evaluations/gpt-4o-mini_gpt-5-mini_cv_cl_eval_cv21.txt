@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in web development and has worked with relevant technologies such as JavaScript, HTML, CSS, and AngularJS. However, they lack hands-on experience with React and test automation frameworks mentioned in the job description, which are crucial for the position. Additionally, while they mention familiarity with web security and version control, they do not demonstrate specific knowledge of the tools and frameworks highlighted in the requirements.

@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate is a strong match who demonstrates direct experience with the specific tech stack, including React, SASS, and the niche requirement of functional programming with Ramda. They explicitly address security protocols (OWASP, CSP, CORS) and showcase a robust background in test automation, which aligns well with the job's emphasis on quality. However, the lack of any mention of TypeScript—a primary requirement—and the reliance on older testing tools like Selenium instead of the preferred modern frameworks prevents a perfect score.

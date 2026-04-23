@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end development technologies and testing, primarily in JavaScript, HTML, and CSS, along with some familiarity with React. However, the cover letter lacks mention of TypeScript, and specific testing frameworks such as Jest or Cypress that are outlined in the job description. Additionally, there’s no mention of Git or repo hosting services like GitHub, which are crucial for the role.

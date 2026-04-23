@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to formally express my strong interest in the Web Developer position. As a recent IT graduate and a fifteen-year veteran of the construction industry, I offer a unique combination of technical aptitude and a disciplined, professional work ethic. My background in managing complex projects has instilled in me the problem-solving skills and attention to detail necessary to excel in a fast-paced, Agile software development environment.
+
+Throughout my rigorous Bachelor of Science degree program, I developed a solid foundation in HTML, CSS, and JavaScript. I successfully engineered a fully functional, database-driven e-commerce website using PHP and MySQL, and built various interactive applications using Java, C#, and ActionScript. These projects allowed me to master the core logic of programming and the importance of creating clean, efficient code. I understand that your team utilizes React, and I am eager to translate my experience with modern web standards and scripting into building high-quality, responsive user interfaces within your specific ecosystem.
+
+My previous career in construction taught me the value of seeing how smaller parts fit into the larger domain. Whether I was reviewing architectural plans or calculating material requirements to reduce waste, my focus was always on structural integrity and precision. I bring this same systematic approach to web development, where I prioritize linting, formatting, and rigorous testing to ensure stability. I am particularly interested in your use of modern CSS tools like SASS and testing frameworks such as Jest and Cypress to maintain high standards of quality.
+
+I am a strong collaborator who is comfortable interacting with cross-functional teams and external partners. My experience as a property maintenance technician required me to resolve complex issues and communicate effectively with diverse stakeholders, a skill that translates directly to the collaborative nature of modern engineering. I am a fast learner with a genuine passion for staying current with emerging technologies like TypeScript and AWS. I am ready to leverage my background in building physical structures to help you build robust digital ones.
+
+Thank you very much for your time and consideration. I genuinely look forward to discussing how my unique perspective and technical skills can benefit your development team.
+
+Sincerely,
+Alexis

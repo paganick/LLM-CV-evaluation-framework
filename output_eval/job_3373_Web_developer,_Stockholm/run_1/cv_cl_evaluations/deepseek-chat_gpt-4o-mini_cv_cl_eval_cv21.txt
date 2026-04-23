@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, modern frontend skills required. The resume shows extensive legacy .NET and AngularJS experience, with no mention of React, TypeScript, or modern testing frameworks like Jest/Cypress as specified. The cover letter attempts to align with the job description but lists technologies (e.g., Styled Components, Jest) not found in the resume, indicating a mismatch between claimed and demonstrated skills.

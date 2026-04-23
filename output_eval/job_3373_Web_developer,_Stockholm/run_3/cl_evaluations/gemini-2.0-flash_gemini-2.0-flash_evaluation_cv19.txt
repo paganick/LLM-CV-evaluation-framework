@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not front-end development. While they express interest in learning React and have some HTML/CSS knowledge, they lack the JavaScript, TypeScript, testing, and framework experience outlined in the job description. Their experience as a Machine Operator and Panel Builder isn't relevant.

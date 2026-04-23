@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses significant experience with React, testing, and Git, they failed to mention crucial requirements such as TypeScript and Web security (OWASP/CORS). The project examples provided focus on older technologies like PHP and C++, ignoring the modern tooling, functional programming, and CI/CD requirements specified in the job description. As a strict recruiter, the lack of explicit mention of the primary language (TypeScript/JavaScript) and security standards makes this a partial match at best.

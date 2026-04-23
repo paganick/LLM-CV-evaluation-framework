@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has long-standing IT and web experience with HTML5, CSS, and JavaScript, but the resume shows no concrete experience with TypeScript, React (or other modern frameworks), modern testing/automation (Jest/Cypress/TestCafe), or Git/GitHub which are essential for this role. There is also no demonstrated familiarity with Node/npm/Yarn, CI/CD, modern CSS tooling, or web security practices (OWASP/CSP/CORS/OAuth), so they lack multiple critical requirements.

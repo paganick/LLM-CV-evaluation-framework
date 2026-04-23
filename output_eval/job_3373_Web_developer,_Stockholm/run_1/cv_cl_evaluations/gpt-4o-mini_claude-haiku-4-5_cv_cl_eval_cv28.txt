@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in materials analysis and quality engineering, which is not directly relevant to frontend development. While they express a genuine interest in transitioning to this field and highlight some transferable skills, they lack tangible experience with essential technologies such as JavaScript, TypeScript, and modern frontend frameworks like React. Their skill set does not align closely with the specific requirements outlined in the job description.

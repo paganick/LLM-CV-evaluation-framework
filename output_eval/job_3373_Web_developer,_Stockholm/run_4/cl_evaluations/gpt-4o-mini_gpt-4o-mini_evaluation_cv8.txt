@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in test engineering and automation, which aligns with the job requirements. However, they lack experience with some modern frontend frameworks mentioned, like TypeScript and VueJS, and do not discuss relevant testing frameworks such as Jest or Cypress specifically. Their knowledge of web security principles and collaboration in Agile environments is noted, but there's limited evidence of a strong connection to the specific technologies and tools the job necessitates.

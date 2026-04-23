@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in digital communications and possesses foundational skills in HTML and CSS. However, they lack hands-on experience with the required JavaScript frameworks and testing tools specified in the job description. While they demonstrate a willingness to learn and adapt, their limited familiarity with critical technologies like React and testing frameworks lowers their overall match for the role.

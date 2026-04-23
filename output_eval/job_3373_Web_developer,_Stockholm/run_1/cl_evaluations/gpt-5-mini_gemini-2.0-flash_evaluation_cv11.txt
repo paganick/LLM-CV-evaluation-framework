@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant QA and basic front-end skills (JavaScript, HTML, CSS) and strong testing experience but lacks demonstrated hands-on experience with modern front-end frameworks (React), TypeScript, Node ecosystem tools, front-end testing frameworks (Jest/Cypress/TestCafe), CSS tooling, and web security knowledge required by the role. Their background is more QA-focused than a front-end developer and would require significant upskilling to meet the majority of the listed technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media planning and buying, which is not directly aligned with the Frontend Developer position. While they possess foundational knowledge of web technologies and some project experience using HTML and CSS, they lack substantial experience with JavaScript, modern frontend frameworks like React, and testing automation, which are critical for the role.

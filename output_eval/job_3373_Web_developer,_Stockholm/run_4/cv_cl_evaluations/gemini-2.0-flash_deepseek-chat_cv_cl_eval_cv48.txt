@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in IT support and infrastructure, not front-end development. While they claim to have mastered some front-end technologies, the resume lacks concrete projects or experience in a development role. Their experience with the specific technologies mentioned (React, Jest, Node.js, etc.) seems to be self-taught, not professionally applied.

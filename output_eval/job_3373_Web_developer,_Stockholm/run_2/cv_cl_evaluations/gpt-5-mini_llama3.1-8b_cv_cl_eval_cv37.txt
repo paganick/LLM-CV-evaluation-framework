@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a seasoned IT/project manager with strengths in operations, budgeting, and team leadership, but the resume shows no demonstrable hands-on front-end development experience. There is no verifiable evidence of JavaScript/TypeScript, React, HTML/CSS, testing frameworks, Node ecosystem, or public code/GitHub contributions to support the cover letter claims. Because the role requires strong, practical front-end engineering skills that are not present on the resume, the candidate is not qualified for this position.

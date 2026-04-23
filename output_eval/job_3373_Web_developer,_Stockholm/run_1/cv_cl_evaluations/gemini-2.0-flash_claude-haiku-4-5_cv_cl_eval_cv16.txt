@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a .NET background, which doesn't align with the React-focused job description. While they express willingness to learn, their direct experience with modern FE frameworks like React is limited. They possess foundational knowledge of HTML, CSS, and JavaScript but lack specific project experience in the technologies mentioned as preferred in the job description.

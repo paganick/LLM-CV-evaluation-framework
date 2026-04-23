@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant degree and some experience with front-end technologies like JavaScript, HTML, and CSS, and mentions AngularJS. However, they lack direct React experience and a number of other technologies listed as desirable, which are essential for the role. While they express willingness to learn, the gap in specific required skills holds them back.

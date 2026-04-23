@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses some relevant skills like JavaScript, HTML, CSS, and AngularJS, but lacks experience with React, TypeScript, and modern FE testing frameworks. While they mention Agile experience, the resume focuses heavily on Java and back-end technologies. Their experience doesn't align strongly with the modern front-end focus outlined in the job description.

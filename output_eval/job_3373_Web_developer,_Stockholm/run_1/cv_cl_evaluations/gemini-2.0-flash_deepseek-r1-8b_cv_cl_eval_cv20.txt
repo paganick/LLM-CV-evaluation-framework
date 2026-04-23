@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in .NET development, with limited direct experience in the specific technologies (React, TypeScript, modern CSS tools) emphasized in the job description. While they possess a foundation in HTML, CSS, and JavaScript, their experience appears more aligned with traditional web development practices than the modern FE frameworks the job requires. The candidate expresses a willingness to learn React, but lacks concrete experience in the listed testing frameworks, CI/CD tools, and other desired skills.

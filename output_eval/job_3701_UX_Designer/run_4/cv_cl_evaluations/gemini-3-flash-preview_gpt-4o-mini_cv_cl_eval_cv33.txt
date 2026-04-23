@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a backend Master Data Management (MDM) Architect with no verifiable commercial experience in User Experience (UX) design. While the cover letter claims proficiency in UX methodologies and Figma, the detailed professional history and technical skills list are entirely focused on data modeling, TIBCO architecture, and middleware integration. This represents a fundamental mismatch in core competencies, as the candidate lacks the required creative portfolio and user research background.

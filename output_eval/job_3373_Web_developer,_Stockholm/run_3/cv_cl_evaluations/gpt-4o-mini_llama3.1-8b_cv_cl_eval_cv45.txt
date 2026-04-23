@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience in IT and cybersecurity but lacks specific skills and direct experience with JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks such as React, which are essential for the position. Additionally, while they mention familiarity with security practices, actual hands-on experience with testing frameworks and CI/CD tools is not clearly articulated. Overall, they demonstrate relevance to the field, but required technical skills are insufficiently addressed.

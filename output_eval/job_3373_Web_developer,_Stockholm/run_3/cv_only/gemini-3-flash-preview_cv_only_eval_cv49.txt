@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a Data Analyst with a background in Industrial and Mechanical Engineering, lacking any professional experience or skills in frontend development, JavaScript, or modern web frameworks like React. There is no evidence of proficiency in the required tech stack, including TypeScript, HTML/CSS, or testing automation. Consequently, the profile represents a complete mismatch for this engineering role.

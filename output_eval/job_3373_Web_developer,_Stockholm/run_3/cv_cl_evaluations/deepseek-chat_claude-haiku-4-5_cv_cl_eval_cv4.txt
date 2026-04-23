@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and foundational web skills (HTML, CSS, JavaScript, Node.js) but critically lacks hands-on experience with the core requirement of React or any other modern FE framework listed. While they mention a commitment to clean code and collaboration, there is no direct evidence of experience with the specific testing tools, modern CSS tools, or functional programming (Ramda) required. The resume is heavily weighted towards C#, .NET, and Python backend/data projects, not modern frontend development.

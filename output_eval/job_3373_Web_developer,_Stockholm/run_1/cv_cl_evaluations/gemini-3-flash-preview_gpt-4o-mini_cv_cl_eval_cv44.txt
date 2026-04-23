@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a designer and lacks the mandatory professional experience with modern JavaScript frameworks like React, TypeScript, and automated testing tools. While they possess a Computer Science degree and basic HTML/CSS knowledge, their resume fails to demonstrate proficiency in core engineering requirements such as Git, CI/CD, or web security. Their background in presentation and multimedia design is insufficient for a technical role requiring deep functional programming and API design expertise.

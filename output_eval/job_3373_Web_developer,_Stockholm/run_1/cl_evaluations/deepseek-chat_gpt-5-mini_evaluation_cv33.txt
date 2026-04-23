@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional background is in business operations, sales, and training, not front-end engineering. While they express eagerness to learn the required technical skills (React, TypeScript, testing, etc.), they admit they lack hands-on experience and are seeking to transition. Their soft skills and domain experience are strong, but they do not meet the core technical requirements specified in the job description.

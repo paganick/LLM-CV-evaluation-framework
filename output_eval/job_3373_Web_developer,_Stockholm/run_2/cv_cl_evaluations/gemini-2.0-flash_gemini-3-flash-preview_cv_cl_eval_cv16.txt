@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience with JavaScript, HTML, and CSS, but lacks direct experience with modern FE frameworks like React, VueJS, Angular, or Svelte as mentioned in the job description. The candidate also lacks experience with testing frameworks and CI/CD tools. While they express interest in learning these technologies, their current skillset doesn't align well with the job requirements.

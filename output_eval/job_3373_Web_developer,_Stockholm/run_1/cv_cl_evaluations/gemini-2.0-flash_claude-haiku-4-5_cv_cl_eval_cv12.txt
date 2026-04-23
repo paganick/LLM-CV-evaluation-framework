@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses a broad technical background and mentions JavaScript, HTML, and CSS. However, the resume lacks explicit evidence of modern FE frameworks like React, and the cover letter's claims of "hands-on experience" are not sufficiently backed by concrete examples. While collaboration and agile experience are noted, specific experience with testing frameworks and tools is missing.

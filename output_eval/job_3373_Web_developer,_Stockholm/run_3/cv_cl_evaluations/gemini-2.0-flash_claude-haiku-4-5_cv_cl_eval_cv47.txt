@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in business development, lacking the necessary frontend development experience. While they possess some basic HTML and C++ knowledge, they lack expertise in JavaScript, TypeScript, React, and modern frontend testing frameworks. The cover letter expresses a desire to transition, but the resume doesn't demonstrate sufficient relevant experience.

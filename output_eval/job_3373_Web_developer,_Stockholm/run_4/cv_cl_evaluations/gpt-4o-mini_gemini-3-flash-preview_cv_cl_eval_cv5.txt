@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid experience in a relevant industry but lacks direct hands-on experience with the front-end technologies and frameworks specified in the job description, such as React, TypeScript, and modern CSS tools. While they mention JavaScript and HTML skills, these are not enough to qualify as a strong match for this specific Frontend Developer position. Their significant background in Mainframe systems and applications does not align closely with the modern frontend focus of the role.

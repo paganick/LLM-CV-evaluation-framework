@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate has no demonstrable experience with JavaScript/TypeScript, React, front-end frameworks, testing frameworks, Git, NodeJS, API design, or cloud/infra tools required by the role. Their resume and cover letter describe a career in customer service and management with only generic CRM and Office skills and expresses willingness to learn rather than concrete technical experience. This is a different industry and lacks the essential technical competencies for the position.

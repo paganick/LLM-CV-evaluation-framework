@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a general understanding of required technologies, including JavaScript, TypeScript, HTML, CSS, and React, as stated in the cover letter. However, the resume lacks concrete examples of using modern FE frameworks and testing methodologies in a professional setting. While the cover letter mentions CI/CD and web security, the resume provides limited support for these claims, indicating a potential gap in practical experience.

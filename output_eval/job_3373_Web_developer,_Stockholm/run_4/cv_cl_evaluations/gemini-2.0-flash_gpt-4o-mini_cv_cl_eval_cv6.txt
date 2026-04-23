@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates some familiarity with relevant technologies like JavaScript, HTML, and CSS, but their primary experience is rooted in Drupal development, which isn't the focus of the job. While they express interest in React and modern FE frameworks, there's a lack of concrete experience. The candidate also mentions CI/CD tools, API design, and NodeJS, but doesn't elaborate on the depth of their knowledge.

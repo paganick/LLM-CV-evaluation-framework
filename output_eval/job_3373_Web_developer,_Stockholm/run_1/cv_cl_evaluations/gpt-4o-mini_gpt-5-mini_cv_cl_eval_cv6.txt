@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in front-end and back-end development and demonstrates proficiency in HTML, CSS, and JavaScript. However, there is a lack of specific experience with React, TypeScript, modern testing frameworks, and an understanding of CI/CD tools, which are key requirements in the job description. While the candidate shows a willingness to learn and expand their skill set, they do not fully meet the technical requirements outlined.

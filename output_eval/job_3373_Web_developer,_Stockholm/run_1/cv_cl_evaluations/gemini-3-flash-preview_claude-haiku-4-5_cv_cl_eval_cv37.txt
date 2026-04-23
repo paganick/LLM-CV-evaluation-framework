@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level IT Project Manager and Director whose professional experience is centered on infrastructure, budgeting, and management rather than hands-on software development. There is no evidence in the resume of professional experience with JavaScript, React, TypeScript, or any of the specific technical tools required for this frontend role. While the candidate possesses a relevant degree, they lack the practical coding expertise and modern development lifecycle experience necessary to perform as a developer.

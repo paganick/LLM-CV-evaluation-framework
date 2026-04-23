@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the technical front-end position at your company. With a comprehensive background as a PMP-certified Technical Project Manager and a proven track record in front-end development, I bring a unique combination of hands-on coding expertise and strategic project leadership. My experience aligns remarkably well with your requirement for a developer who is proficient in modern web technologies and comfortable working within an Agile environment.
+
+Throughout my career, I have developed a deep proficiency in JavaScript, HTML, and CSS. While my previous roles involved working with libraries like jQuery and Angular, I have consistently stayed up to date. My hands-on experience extends to technical software creation and web development, where I have always prioritized writing truly clean, maintainable code. I am particularly excited about your focus on modern front-end frameworks and the emphasis on testing and automation. I understand the importance of unit, integration, and E2E testing in maintaining product quality and have extensive experience implementing user testing plans and research scripts.
+
+My technical toolkit includes familiarity with Git for version control and a solid understanding of web security principles. Having led technical projects at PMA Media Group, I have a comprehensive understanding of the full software development lifecycle. I am comfortable collaborating across teams to understand the full domain well beyond just the frontend. My background in technical writing further ensures that my documentation and communication are precise and professional.
+
+My work managing high-profile campaigns for FamilySearch, such as the Freedmen's Bureau project, demonstrated my ability to deliver asset-heavy technical solutions on schedule. Beyond my technical skills, my background as a project manager makes me an exceptional collaborator. I have successfully implemented Scrum processes and agile approaches to user discovery, ensuring that development cycles are efficient and aligned with business goals. I am adept at interacting with external partners and internal teams to translate complex requirements into functional technical solutions. My experience in UX design and analytics further enables me to approach development with the end-user in mind, ensuring that every feature adds genuine value.
+
+I am also currently working toward my Agile Project Management certificate and an IIBA Business Analyst certification. I am eager to bring my passion for high-quality code and my disciplined approach to project execution to your team. Thank you for your time and consideration. I look forward to discussing my background.
+
+Sincerely,
+Alexis

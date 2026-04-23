@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in visual design and product lifecycle management, with only tangential experience in front-end development. While they express enthusiasm and a willingness to learn, they lack the required hands-on experience with modern JavaScript frameworks, testing frameworks, and Git, as specified in the job description. Their HTML experience appears dated, and the cover letter focuses more on their design background than their coding abilities.

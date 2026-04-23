@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate fails to demonstrate any proficiency in the required technical stack, specifically JavaScript, TypeScript, React, or modern CSS tools. While the applicant has a background in IT management and cybersecurity, there is no evidence of hands-on frontend development experience or familiarity with testing frameworks and Git. This profile is better suited for IT operations or systems analysis rather than a specialized software engineering role.

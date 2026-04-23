@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume shows a background primarily in Java-based backend systems, database administration, and outdated technologies, with no specific evidence of professional React, TypeScript, or modern frontend development experience. The cover letter claims skills that are not substantiated by the resume, such as React, TypeScript, Jest, Cypress, and CI/CD, creating a significant credibility gap. The profile is from a different technical era and does not demonstrate the hands-on, current experience required for the role.

@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to express my interest in your Front End Developer position. While my career has been deeply rooted in the visual and creative arts for over three decades, this path has been defined by a continuous evolution and a drive to master the tools that bring design to life. My extensive experience in product design, web development, and translating complex concepts into pixel-perfect, user-focused visuals provides a unique and valuable foundation for transitioning into a modern development role.
+
+My background includes direct responsibility for large e-commerce website development and maintenance, where I gained hands-on experience with HTML and assisted in creating user-friendly sites. For nearly 20 years, I managed the full product lifecycle—from initial concept and graphic design through collaboration with overseas factories to final online sales delivery. This required meticulous attention to detail, adherence to strict brand guidelines, and the ability to thrive in a collaborative, project-driven environment, skills that are directly transferable to Agile development workflows.
+
+I am keenly interested in the technologies listed in your description. My proficiency in Adobe Dreamweaver provided an early introduction to web structure, and I have a foundational knowledge of HTML. I am deeply motivated to formally build upon this by immersing myself in modern JavaScript, TypeScript, and CSS frameworks, particularly React. My career is a testament to being a self-motivated professional and a quick learner; I am fully committed to dedicating that same energy to mastering your specific tech stack, including testing frameworks, Git, and the principles of clean, functional code.
+
+My true passion lies in the intersection of creative vision and technical execution. I am not just a designer who hands off mockups; I am a builder who understands the journey from prototype to polished product. I am confident that my unique perspective, proven collaborative skills, and dedication to craft would make me a strong asset to your team.
+
+Thank you for your time and consideration. I look forward to discussing how my background in creative problem-solving can contribute to your development goals.
+
+Sincerely,
+Alexis

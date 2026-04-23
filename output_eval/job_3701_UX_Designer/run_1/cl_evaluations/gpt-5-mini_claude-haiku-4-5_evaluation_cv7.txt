@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong, relevant UX experience—Agile delivery, managing UX roadmaps, user research, mentoring, running workshops, prototyping, and design system ownership—meeting and in some areas exceeding the role's responsibilities. However, they do not mention Figma (listed as highly desirable) and only cite HTML/CSS with no JavaScript exposure, which are useful for the UI Design System management requirement. Given those gaps, they are a solid match but not a perfect fit.

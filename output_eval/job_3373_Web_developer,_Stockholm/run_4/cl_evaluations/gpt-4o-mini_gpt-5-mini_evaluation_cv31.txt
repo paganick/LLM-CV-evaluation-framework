@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has strong leadership experience and technical knowledge but lacks specific front-end development skills, particularly in modern frameworks like React, as mentioned in the job description. While they have some experience with HTML and customer-facing materials, they do not demonstrate hands-on experience with essential technologies such as JavaScript, TypeScript, or testing frameworks. Overall, they are in the relevant industry but would need further technical skills and experience to be a strong fit.

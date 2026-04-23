@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates foundational front-end skills (HTML5, CSS, JavaScript) and SPA experience with AngularJS, plus testing and Agile exposure. However, they lack key requirements for this role—no React or TypeScript experience, no evidence of modern JS tooling (Node/npm/Yarn), modern testing frameworks (Jest/Cypress/TestCafe), CSS-in-JS/SASS, or CI/CD/cloud familiarity. Given these gaps, they are relevant to the industry but do not meet the specific modern frontend and tooling expectations for this position without upskilling.

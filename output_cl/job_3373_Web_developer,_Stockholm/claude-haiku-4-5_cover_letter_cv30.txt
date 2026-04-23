@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position. While my career has primarily focused on data analytics and engineering, I am eager to transition into frontend development and am confident that my technical foundation and collaborative approach make me a compelling candidate for your team.
+
+My educational background includes a Master of Science in Analytics from the University of New Hampshire, where I developed strong problem-solving skills and hands-on experience with multiple programming languages. I have practical experience with HTML and ASP.NET 4.5, and I am actively building my frontend expertise. My analytical mindset translates well to understanding component architecture, state management, and performance optimization in React environments.
+
+What makes me particularly suited for your team is my proven ability to work effectively in collaborative settings. Throughout my career, I have successfully coordinated with scientists, engineers, managers, and analysts to achieve shared objectives. I managed teams of up to four people and taught over two hundred students, demonstrating my capacity to communicate complex concepts clearly and work cross-functionally. This experience has instilled in me a genuine appreciation for clean, maintainable code and the importance of thorough documentation.
+
+I am genuinely passionate about continuous learning and staying current with emerging technologies. My recent project work on machine learning and data clustering showcases my ability to quickly acquire new skills and apply them effectively. I am committed to mastering React, TypeScript, and the modern testing frameworks your team uses, including Jest and Cypress. My experience with databases and SQL has given me a solid understanding of data flow and API design principles.
+
+Additionally, I bring relevant technical knowledge in version control systems and have a foundational understanding of security principles from my data management work, including experience securing and stabilizing data layers. My background in process optimization and quality assurance has instilled in me a meticulous approach to testing and defect identification.
+
+I am excited about the opportunity to contribute to your frontend team while leveraging my technical skills, collaborative nature, and unwavering commitment to writing clean, professional code. I am ready to embrace the Agile environment and work alongside your team and external partners to build exceptional user experiences.
+
+Sincerely, Alexis

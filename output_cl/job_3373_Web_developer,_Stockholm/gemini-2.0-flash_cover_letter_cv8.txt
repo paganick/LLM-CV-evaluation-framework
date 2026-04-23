@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Front-End Developer position. With over 10 years of experience in electronics manufacturing and test engineering, I bring a unique perspective and a strong foundation to contribute to your team.
+
+My background includes hands-on experience with troubleshooting and root cause failure analysis, skills I honed while working with complex android mobile technology products and Riverbed Steelhead appliances. This experience has instilled in me a meticulous approach to problem-solving, essential for writing clean and robust code.
+
+I am proficient in Python scripting for test automation. My understanding of networking essentials, including TCP/IP and OSI layers, complements my ability to grasp web security concepts like OWASP, CSP, CORS, and OAuth.
+
+While my CV highlights my expertise in test engineering, I am eager to transition my skills to front-end development, particularly with React, as mentioned in the job description. My experience with creating test process procedures and disseminating test-engineering standards demonstrates my ability to quickly learn and adapt to new technologies.
+
+I am Bronze Six Sigma certified and have actively participated in Lean manufacturing initiatives, including Kaizen events and workflow analysis. This background equips me with a process-oriented mindset and a commitment to continuous improvement, aligning with the Agile environment.
+
+My experience working directly with customers' engineers to resolve test-related issues has honed my collaboration and communication skills, making me comfortable interacting with other teams and external partners. I am confident that my skills and experience make me a strong candidate for this position.
+
+Sincerely,
+Alexis

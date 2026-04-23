@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume primarily showcases 3D design and graphic design experience, with limited evidence of UX-specific skills. While the cover letter claims UX experience and familiarity with tools like Figma, this is not substantiated by the resume's work history, which focuses on design and managerial roles in different contexts. The claimed HTML, CSS, and XML knowledge is generic and doesn't demonstrate the required depth for UI Design System management.

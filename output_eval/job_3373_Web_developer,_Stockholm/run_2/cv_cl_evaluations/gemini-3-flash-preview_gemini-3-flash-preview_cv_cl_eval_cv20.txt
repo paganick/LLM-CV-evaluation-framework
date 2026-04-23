@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with nearly all the core requirements, including React, TypeScript, and modern testing frameworks such as Jest or Cypress. Their background is heavily centered on the .NET ecosystem and legacy libraries like jQuery, which does not align with the modern JavaScript stack or functional programming (Ramda) specified. Furthermore, the resume reflects outdated experience ending in 2016 and shows no hands-on evidence of working with AWS, Terraform, or modern CI/CD pipelines.

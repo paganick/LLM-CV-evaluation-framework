@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates foundational knowledge of the core tech stack, including React and TypeScript, but fails to address specific technical requirements such as functional programming (Ramda) and web security (OWASP/CORS). The cover letter is overly generic and focuses on irrelevant technologies like C# and ASP.NET rather than the specific testing frameworks and DevOps tools highlighted in the job description.

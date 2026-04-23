@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has some relevant sales and technical experience, as highlighted in their cover letter and resume. However, the experience lacks a clear focus on the specific digital solutions mentioned in the job description (API, Cloud, DevOps, Microservices, BigData, Data Science, UX/UI). The candidate's experience as a Sales Engineer and Business Data Analyst, while valuable, does not directly translate to owning and driving digital solutions from lead generation to implementation.

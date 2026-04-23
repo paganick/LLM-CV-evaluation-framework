@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is primarily a Java-focused developer and Test Automation Engineer whose experience centers on Selenium, Spring, and backend systems rather than the modern React/TypeScript ecosystem required. They lack documented experience with TypeScript, functional programming (Ramda), and modern JS testing tools like Jest or Cypress. While they possess basic frontend knowledge, their professional history does not demonstrate the depth of expertise in modern frontend architecture and web security needed for this specific role.

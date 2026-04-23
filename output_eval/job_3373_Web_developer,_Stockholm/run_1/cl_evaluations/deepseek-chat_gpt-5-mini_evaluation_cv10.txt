@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant experience in web development, testing, and Agile collaboration, directly matching several key requirements. However, the cover letter lacks explicit mention of specific technologies from the job description like TypeScript, modern React, security basics (OWASP/CORS), and the listed testing frameworks (Jest, Cypress) or Node tools. While a capable generalist, the candidate does not fully demonstrate hands-on experience with the precise modern stack outlined.

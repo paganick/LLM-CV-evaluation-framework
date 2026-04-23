@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows a commitment to transitioning into web development and possesses some relevant skills, such as HTML and familiarity with Git. However, they lack hands-on experience with key technologies like JavaScript, React, and testing frameworks that are specifically requested in the job description. While their background in creative fields could contribute to design aspects, the overall technical qualifications are insufficient for the role.

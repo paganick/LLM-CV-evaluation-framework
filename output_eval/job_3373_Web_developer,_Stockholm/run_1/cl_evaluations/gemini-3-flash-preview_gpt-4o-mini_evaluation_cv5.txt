@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has significant software experience in the financial sector, their primary expertise is in mainframe technologies rather than the modern front-end stack required. They lack essential experience in TypeScript and functional programming, and their "recently acquired" React skills suggest a lack of professional depth in the core framework. Furthermore, the candidate failed to demonstrate any proficiency in critical requirements such as AWS, Terraform, and E2E testing frameworks.

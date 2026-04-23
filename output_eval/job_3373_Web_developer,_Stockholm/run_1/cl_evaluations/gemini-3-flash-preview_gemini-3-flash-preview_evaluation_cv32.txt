@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate explicitly addresses nearly every technical requirement and "nice-to-have" skill, including specific libraries like Ramda and tools like CircleCI and AWS. They demonstrate excellent research and cultural alignment by acknowledging the team's specific transition away from Ruby toward modern frameworks. However, as a career-switcher "transitioning into software engineering," they likely lack the deep professional engineering tenure typically expected for a non-junior role, despite their extensive background in other industries.

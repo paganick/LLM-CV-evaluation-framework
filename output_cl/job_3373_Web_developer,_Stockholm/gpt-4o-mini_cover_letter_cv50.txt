@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Front-End Developer position, as advertised. With a Bachelor of Science in Computer Science and extensive experience in project management and client relations, I am eager to leverage my skills in an Agile environment, particularly with modern technologies like JavaScript, TypeScript, HTML, and CSS, including libraries such as React, which your team utilizes.
+
+Throughout my career, I have successfully managed software development projects, leading cross-functional teams to deliver high-quality results. My role as Sr. Business Development Director required a deep understanding of technology requirements, allowing me to consult clients effectively and customize software solutions that meet their needs. Additionally, my experience as an IT Program Manager included implementing robust project management processes that enhanced customer satisfaction, a skill I aim to bring to your development team.
+
+I have a genuine passion for writing clean, efficient code and a strong commitment to upholding the highest standards of quality. I am familiar with modern CSS tools like SASS and have utilized testing frameworks such as Jest and TestCafe, ensuring robust test automation throughout the development lifecycle. My basic understanding of web security principles aligns with your requirements, and I am keen to expand my knowledge in this area further.
+
+Collaboration has always been at the forefront of my work ethic; I am comfortable interacting with diverse teams and external partners to achieve common goals. My eagerness to stay updated with the latest technologies and my desire to understand other domains make me a well-rounded candidate for this role.
+
+I am enthusiastic about the opportunity to contribute to your team's success and am confident that my unique blend of business development expertise and technical experience will make a lasting impact.
+
+Sincerely,  
+Alexis

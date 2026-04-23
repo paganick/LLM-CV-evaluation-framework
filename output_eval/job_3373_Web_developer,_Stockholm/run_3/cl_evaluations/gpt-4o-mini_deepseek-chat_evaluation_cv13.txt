@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant front-end development experience with JavaScript, HTML, CSS, and Angular, but lacks hands-on experience with React, which is the primary framework used by the company. They also mention a keen interest in deepening their skills in React and have experience with Agile methodologies, project management, and coding best practices. However, they do not explicitly mention proficiency in testing frameworks, modern CSS tools, or familiarity with the NodeJS ecosystem, which are important aspects of the job description.

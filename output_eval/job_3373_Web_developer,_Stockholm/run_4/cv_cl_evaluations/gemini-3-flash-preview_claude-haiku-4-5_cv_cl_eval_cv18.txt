@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in the IT industry, their profile is that of a generalist IT consultant and systems administrator rather than a modern frontend engineer. They lack documented experience with the mandatory tech stack, specifically React, TypeScript, and professional testing frameworks like Jest or Cypress. Furthermore, there is no evidence of experience with modern development workflows, including Git, CI/CD, or cloud infrastructure, which are critical requirements for this role.

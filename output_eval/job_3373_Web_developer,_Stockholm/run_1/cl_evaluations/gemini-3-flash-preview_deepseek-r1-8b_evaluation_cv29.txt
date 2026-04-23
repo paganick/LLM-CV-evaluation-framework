@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is applying for a Business Development role, whereas the job description is for a Frontend Software Engineer requiring proficiency in JavaScript, React, and TypeScript. There is a total mismatch between the applicant's sales and marketing background and the technical engineering requirements specified. The letter demonstrates zero experience with coding, testing frameworks, or the modern web development stack required for the position.

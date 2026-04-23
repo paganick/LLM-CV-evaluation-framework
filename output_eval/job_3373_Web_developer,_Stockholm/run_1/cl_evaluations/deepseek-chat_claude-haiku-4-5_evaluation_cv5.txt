@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates strong soft skills, collaboration, and a willingness to learn. However, the cover letter explicitly states their primary experience is in mainframe technologies, revealing a critical lack of hands-on, professional experience with the core frontend technologies (React, modern JavaScript/TypeScript, CSS tools) and specific testing frameworks listed in the job description. This represents a significant skill gap for the role's technical requirements.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development, not software engineering. While the cover letter claims a transition into web development and mentions some relevant technologies, the resume lacks substantial evidence of practical experience in the required technologies like React, TypeScript, and modern testing frameworks. The listed programming skills (HTML, C, C++) are outdated for a modern front-end role.

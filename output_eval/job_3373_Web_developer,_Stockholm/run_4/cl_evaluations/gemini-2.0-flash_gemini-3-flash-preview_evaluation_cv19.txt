@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is diverse but lacks direct experience in frontend development, particularly with TypeScript and testing frameworks. While they mention HTML and CSS, the depth of experience with modern frameworks like React and associated tools is unclear. The letter focuses more on design and unrelated technical skills than the specific requirements of the job description.

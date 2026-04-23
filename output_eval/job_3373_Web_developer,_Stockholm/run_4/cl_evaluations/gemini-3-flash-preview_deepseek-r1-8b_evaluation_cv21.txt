@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software development and Agile environments, they fail to demonstrate proficiency in the core technologies requested, specifically React and TypeScript. Their background is heavily focused on the .NET stack and SQL, which does not align with the specific requirements for modern frontend frameworks, the NodeJS ecosystem, or functional programming mentioned in the job description.

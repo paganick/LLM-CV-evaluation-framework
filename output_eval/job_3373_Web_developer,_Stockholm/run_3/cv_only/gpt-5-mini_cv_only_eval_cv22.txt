@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning/advertising with only incidental HTML/CSS and basic Java/SQL knowledge and lacks the core front-end skills required (JavaScript/TypeScript, React, modern testing frameworks, Git) as well as NodeJS, CI/CD, and web security fundamentals. There is insufficient evidence of hands-on development experience or relevant tooling to meet the role's requirements, representing a clear domain and skills mismatch.

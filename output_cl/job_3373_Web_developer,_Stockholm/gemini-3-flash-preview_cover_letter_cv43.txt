@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Frontend Developer position. With a robust background in Brain and Cognitive Sciences and a career dedicated to designing complex learning systems, I bring a unique analytical perspective to software development. My professional experience as a Program Manager and Designer, coupled with my technical foundation in R studio and platform integration, has prepared me to contribute effectively to your engineering team.
+
+Your emphasis on React, TypeScript, and modern CSS tools like SASS aligns perfectly with my commitment to building scalable, user-centric applications. My degree from Minerva Schools provided a rigorous foundation in computational logic and system design, which I have applied when developing integrated learning support systems. While my professional history includes significant project management, I have consistently leveraged technology to solve problems, such as optimizing onboarding flows and increasing engagement by 50% through platform interventions. This experience has instilled in me a genuine passion for writing clean, maintainable code that prioritizes the end-user experience.
+
+I am a strong collaborator who thrives in Agile environments. Having managed projects across seven countries, I possess the cultural competence and communication skills necessary to interact with cross-functional teams and external partners. I understand that modern frontend development requires more than just UI implementation; it requires a deep understanding of the full domain. My background in research and program evaluation translates directly into a disciplined approach to testing, whether through unit, integration, or E2E tests using frameworks like Jest or or Cypress.
+
+Furthermore, I am eager to apply my knowledge of web security, CI/CD pipelines, and AWS to ensure the delivery of high-quality software. I am particularly interested in your team’s transition away from Ruby and your use of functional programming with Ramda, as my cognitive science background naturally draws me toward functional paradigms. My experience with Git and GitHub has been central to my collaborative work, ensuring version control and streamlined deployment processes.
+
+I am truly excited by the prospect of bringing my unique, diverse skillset to your organization. My ability to learn quickly, combined with my dedication to technical excellence and clean code, makes me a strong candidate for this role. I look forward to the exciting possibility of discussing how my background in learning design and systems thinking can benefit your development goals.
+
+Sincerely,
+Alexis

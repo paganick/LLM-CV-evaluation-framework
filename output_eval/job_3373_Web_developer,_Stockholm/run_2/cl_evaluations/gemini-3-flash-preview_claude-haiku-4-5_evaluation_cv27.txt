@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional experience in JavaScript, TypeScript, and the React framework, which are core requirements for this position. While they possess transferable creative skills, they are currently only in the learning phase for nearly all technical requirements, including testing automation, web security, and CI/CD tools. As a result, the candidate does not meet the "hands-on experience" criteria necessary for this role.

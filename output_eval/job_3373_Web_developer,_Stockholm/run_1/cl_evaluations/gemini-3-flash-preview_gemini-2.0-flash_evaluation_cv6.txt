@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses five years of web development experience, they lack professional proficiency in the core requirements of React and TypeScript, admitting to only "exploring" these technologies. Furthermore, they explicitly list the majority of the required modern ecosystem—including Jest, Cypress, and Node.js—as areas they still need to learn rather than existing skills. Their background is heavily focused on Drupal and PHP-based tools, which does not align with the specific technical demands of this frontend-heavy role.

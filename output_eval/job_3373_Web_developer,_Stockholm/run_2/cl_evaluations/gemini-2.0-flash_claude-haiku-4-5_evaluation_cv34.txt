@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is tangentially related, but lacks the specific JavaScript/React skills highlighted in the job description. While they mention an interest in learning React and testing frameworks, their existing experience primarily focuses on HTML, CSS, and older technologies like WordPress and Dot Net Nuke. The cover letter doesn't demonstrate sufficient hands-on experience with the required tools and technologies.

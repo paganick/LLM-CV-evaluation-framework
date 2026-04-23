@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's professional background is exclusively in graphic design and art direction, with no documented professional experience as a software engineer. While the cover letter claims familiarity with the modern tech stack, the resume lacks any evidence of professional work with JavaScript, TypeScript, React, or automated testing. This profile represents a career pivot that does not meet the requirements for a developer role.

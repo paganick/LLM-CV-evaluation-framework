@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in ASP.NET, which doesn't align well with the Javascript/React focus of the job. While the cover letter mentions React and related tools, the resume lacks concrete project experience with these technologies. The candidate's skillset leans heavily towards backend technologies, whereas the job description emphasizes frontend expertise.

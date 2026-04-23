@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in IT support, field service, and sales, lacking the specific front-end development skills (JavaScript, React, TypeScript, HTML, CSS) required for the job. While they possess general technical skills, they don't align with the modern web development technologies and practices mentioned in the job description. The resume does not mention any experience with modern FE frameworks, testing frameworks, or CI/CD tools.

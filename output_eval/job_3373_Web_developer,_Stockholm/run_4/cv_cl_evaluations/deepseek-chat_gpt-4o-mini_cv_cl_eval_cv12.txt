@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions several required technologies (JavaScript, React, Git, Jest). However, the resume shows limited modern front-end framework depth, lacks specific evidence of TypeScript, functional programming (Ramda), or key tools like Cypress and Styled Components. The experience is broad but dated, with a significant PHP/backend focus, making the fit for a specialized modern React role insufficient.

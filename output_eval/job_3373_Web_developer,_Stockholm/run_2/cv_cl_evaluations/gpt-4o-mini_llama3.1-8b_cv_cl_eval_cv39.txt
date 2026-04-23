@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in graphic design and product design, but lacks specific technical skills in modern front-end technologies such as JavaScript, TypeScript, and React, which are essential for the role. While they demonstrate familiarity with basic web technologies and Git, they do not have hands-on experience with the required frameworks or testing automation tools. Overall, they are relevant to the design field but fall short on the technical requirements for this position.

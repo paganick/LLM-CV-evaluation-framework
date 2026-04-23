@@ -1,0 +1,17 @@
+Dear Hiring Manager
+
+I am an experienced graphic designer with over fifteen years of professional experience in visual design, web design, and production whose strengths in attention to detail, cross-team collaboration and project management make me an excellent candidate to transition into a front-end engineering role on your React team.
+
+Throughout my career I have created websites, web ads, interactive multimedia, and camera-ready assets using tools including Adobe Dreamweaver, Photoshop, Illustrator, Flash and Acrobat. I have managed full design lifecycles from concept through production and print, coordinated with vendors and partners, and maintained strict quality control during pre-press and digital publishing. Those responsibilities required disciplined version control, organized asset management, and a rigorous approach to testing and verification to ensure pixel-perfect deliverables.
+
+I thrive when working with other teams and external partners. In roles supporting multiple facilities and retail operations I collected requirements, edited and designed editorial layouts, and launched marketing campaigns and in-store events. I regularly liaised with print shops, vendors and community stakeholders, which cultivated clear communication, schedule management, and the ability to translate domain needs into high quality visual products.
+
+I am passionate about writing clean, maintainable work — in my case, clean design and structured assets — and I bring a methodical, detail-focused mindset that aligns with disciplined engineering practices such as automated testing, linting and continuous integration. I have a demonstrated history of improving processes and reducing costs while meeting tight deadlines.
+
+My Adobe CS5 certification, fluent Spanish, photography and animation experience, and a history of volunteer design work equip me to produce accessible, visually compelling interfaces and to communicate effectively with diverse stakeholders, vendors and community partners while supporting cross-functional delivery timelines and continuous product refinement efforts.
+
+While my background is rooted in design and production, I am eager to deepen technical skills in JavaScript, TypeScript, React and modern front-end tooling. I am a fast learner with a record of acquiring new software and certifications, and I welcome the opportunity to pair my visual expertise with hands-on front-end development to deliver polished, user-focused interfaces.
+
+Thank you for considering my application. I look forward to the possibility of contributing thoughtful design sensibilities, strong collaboration skills and a commitment to quality to your team.
+
+Sincerely, Alexis

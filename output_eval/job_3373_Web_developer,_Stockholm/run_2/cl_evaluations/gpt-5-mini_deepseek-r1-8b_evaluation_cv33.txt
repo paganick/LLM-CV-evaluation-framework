@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate demonstrates strong project management, training, and collaboration skills but provides no hands-on experience with JavaScript/TypeScript, React, modern CSS tooling, testing frameworks, Node/npm, Git workflows, or web security—core requirements for the role. Transferable skills and learning aptitude are positives, but they do not offset the absence of demonstrated technical competencies necessary to perform the job. With concrete technical projects or certifications in the required stack, the candidate could become a viable applicant.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the required technical skills and experience in JavaScript, TypeScript, and modern front-end frameworks like React. Their background is primarily in customer service and sales, which is not relevant to the position. Additionally, there is no indication of experience with testing frameworks, Git, or web security knowledge, making them unqualified for the role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-transitioner who explicitly admits that their hands-on experience with JavaScript, TypeScript, and React is still in the developing stages. While they possess a strong professional background in cybersecurity and IT infrastructure, they lack the required practical experience with frontend development, testing frameworks, and modern CSS tools specified in the job description. This profile does not meet the technical proficiency requirements for a developer role and would require extensive training.

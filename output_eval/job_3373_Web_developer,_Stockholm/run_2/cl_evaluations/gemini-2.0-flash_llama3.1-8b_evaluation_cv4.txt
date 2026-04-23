@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong alignment with the job requirements, particularly in React, testing frameworks (Jest), and modern CSS tools. They also highlight relevant experience in Agile environments and CI/CD, showcasing a solid foundation. While the cover letter mentions general AWS and Terraform knowledge, further specifics related to front-end architecture and web security could strengthen their profile.

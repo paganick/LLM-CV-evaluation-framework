@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with many core requirements (React, modern testing frameworks, CI/CD, Node ecosystem, modern CSS tools, Agile experience and PMP certification) and has relevant hands-on front-end/project work. However, they do not explicitly list TypeScript or Git/GitHub experience, and there is no clear evidence of AWS/Terraform familiarity or the depth of coding proficiency expected for a technical-heavy role. These gaps prevent a higher score despite an overall strong fit.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in .NET and ASP.NET MVC with minimal exposure to the required modern frontend stack (React, TypeScript, modern CSS tools). While they have relevant industry experience and mention JavaScript/HTML/CSS, the resume shows no specific experience with React, testing frameworks like Jest/Cypress, or the other key technologies listed (e.g., Node.js, functional programming with Ramda). The cover letter generically claims alignment but lacks concrete evidence to support fit for this specific role.

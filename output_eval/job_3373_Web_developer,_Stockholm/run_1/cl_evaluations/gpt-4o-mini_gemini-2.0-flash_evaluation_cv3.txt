@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has relevant educational qualifications and a foundational understanding of web development technologies, they lack experience in key areas outlined in the job description, such as modern front-end frameworks (like React), testing frameworks, and security practices. The construction background, while presenting some transferable skills, does not sufficiently bridge the gap to meet the specific technical needs of the role.

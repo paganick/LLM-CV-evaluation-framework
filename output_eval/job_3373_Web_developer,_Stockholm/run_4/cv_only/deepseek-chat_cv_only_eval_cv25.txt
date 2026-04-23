@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in graphic design and print production, which is a completely different industry and skillset from modern front-end software engineering. While they list HTML and CSS, the job requires deep expertise in JavaScript, TypeScript, React, testing frameworks, and modern tooling, none of which are present. The resume shows no evidence of the programming, testing, or development workflow skills critical to the role.

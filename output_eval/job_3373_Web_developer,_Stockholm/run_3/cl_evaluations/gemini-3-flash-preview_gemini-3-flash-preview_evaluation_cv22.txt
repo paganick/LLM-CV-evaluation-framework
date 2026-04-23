@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional or project-based experience with the primary requirements of JavaScript, TypeScript, and React, explicitly stating they are only currently learning the ecosystem. While they possess a technical background in Java and SQL, they provide no evidence of proficiency in web security, specific frontend testing frameworks, or version control as mandated. The profile is currently that of a career-changer who does not meet the core technical prerequisites for a frontend-specific role.

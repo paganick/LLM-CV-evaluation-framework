@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate does not possess any of the required technical skills, such as JavaScript, TypeScript, React, or modern CSS tools, and has no professional software engineering experience. Their background is entirely in materials analysis and metallurgy, representing a complete industry mismatch for a front-end developer role. While the candidate has experience in data analysis and quality control, they lack the foundational coding and web security knowledge explicitly required by the job description.

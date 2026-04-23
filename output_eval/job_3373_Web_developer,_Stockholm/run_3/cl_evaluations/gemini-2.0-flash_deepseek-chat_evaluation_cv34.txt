@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some exposure to web technologies like HTML and CSS but lacks direct experience with modern front-end frameworks like React, which is a core requirement. While they mention upskilling in React and TypeScript, the cover letter focuses more on their project management and implementation background. Their experience is relevant to Agile collaboration but doesn't fully address the specific technical skills outlined in the job description.

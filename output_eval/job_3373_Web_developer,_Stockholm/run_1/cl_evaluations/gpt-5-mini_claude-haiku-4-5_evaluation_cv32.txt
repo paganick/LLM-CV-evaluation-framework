@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks demonstrated hands-on experience with the core technical requirements (JavaScript/TypeScript, React, testing frameworks, modern CSS tools, and Node ecosystem) listed in the job description. Although they present strong transferable skills (communication, organization, rapid learning), those do not compensate for the absence of required technical proficiency. As a strict fit-for-role assessment, they are not qualified for this frontend developer position without substantial training or proven project experience.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background and skillset are centered on data analytics and industrial engineering rather than software development. They lack the mandatory proficiency in JavaScript, TypeScript, React, and CSS required by the job description. While the candidate possesses strong analytical skills, they do not demonstrate any practical experience with the core frontend technologies or the modern web development ecosystem.

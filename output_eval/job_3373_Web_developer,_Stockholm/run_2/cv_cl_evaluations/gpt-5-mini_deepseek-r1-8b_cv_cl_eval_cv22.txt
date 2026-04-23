@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in advertising/media with limited professional software engineering experience; they have academic projects in databases, SQL and Java and basic HTML/CSS but lack demonstrated, hands-on experience with JavaScript/TypeScript, React, frontend tooling, testing/automation, Node.js, CI/CD, and cloud/Terraform required for this role. They express willingness to learn and have relevant academic exposure, but do not meet the practical frontend/full-stack skillset and toolchain expectations for the position.

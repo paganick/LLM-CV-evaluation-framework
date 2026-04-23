@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in Mainframe systems, which isn't directly applicable to modern frontend development. While they express interest in React, TypeScript, and NodeJS, the depth of experience isn't clearly demonstrated. The cover letter emphasizes transferable skills and a willingness to learn, but lacks concrete examples of frontend projects.

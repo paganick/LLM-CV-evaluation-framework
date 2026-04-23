@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in web development and software principles but lacks direct expertise with modern front-end technologies, specifically React, TypeScript, and the other specified frameworks and tools. While they have some knowledge of testing frameworks and collaborative work, their overall experience does not strongly align with the specific requirements of the role.

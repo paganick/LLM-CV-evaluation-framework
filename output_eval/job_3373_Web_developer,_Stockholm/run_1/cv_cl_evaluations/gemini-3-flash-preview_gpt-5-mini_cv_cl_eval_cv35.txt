@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this position, as their entire professional background is in marketing automation and CRM consulting rather than software engineering. They lack any professional experience with the required tech stack, including JavaScript, TypeScript, React, and modern CSS tooling. While they have experience with systems integration in a marketing context, they do not possess the fundamental programming skills or technical certifications necessary for a front-end developer role.

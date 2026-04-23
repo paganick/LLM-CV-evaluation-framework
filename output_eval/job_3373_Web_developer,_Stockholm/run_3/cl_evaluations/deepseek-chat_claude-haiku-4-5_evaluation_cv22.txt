@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant foundational skills (HTML, CSS, JavaScript) and demonstrates a strong collaborative mindset aligned with the job's soft requirements. However, they lack direct, hands-on experience with the core technologies specified, most critically React, TypeScript, modern testing frameworks, and version control tools like Git, which are explicit requirements. Their background is transitional, and while their eagerness to learn is clear, they do not currently meet the specific technical qualifications for the role.

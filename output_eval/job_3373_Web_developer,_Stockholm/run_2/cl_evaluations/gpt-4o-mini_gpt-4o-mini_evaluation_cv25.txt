@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in design and project management but lacks formal experience with JavaScript and modern front-end frameworks, notably React, which is a key requirement. While they demonstrate a willingness to learn, their limited practical knowledge of testing frameworks, CI/CD tools, and modern CSS tools also indicates they may not meet the technical demands of the position at this time.

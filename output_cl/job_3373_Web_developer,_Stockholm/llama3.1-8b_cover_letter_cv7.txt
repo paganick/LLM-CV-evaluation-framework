@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am thrilled to apply for this exciting opportunity as a skilled technologist who can leverage my unique blend of creative and technical expertise to drive innovation in your team. As a highly motivated and detail-oriented individual with over 15 years of experience in graphic design, I am confident that my skills can be adapted to meet the requirements of this role.
+
+While my background may not seem directly related to software development, I have always been fascinated by technology and have been actively learning about modern front-end frameworks and libraries such as React. My experience working with Adobe Creative Suite has provided me with a solid foundation in design principles, color theory, and layout, which I believe can be applied to UI/UX design. Additionally, my proficiency in programming languages like HTML, CSS, and JavaScript will enable me to hit the ground running.
+
+As a graphic designer, I have honed my skills in creativity, attention to detail, and effective communication, all of which are essential for collaboration with cross-functional teams. My experience working with Agile methodologies has taught me the importance of adaptability, quick thinking, and continuous improvement.
+
+I am particularly drawn to this role because of the emphasis on writing clean code and staying up-to-date with the latest technologies. I have been learning about modern CSS tools like Styled Components and SASS, as well as testing frameworks such as Jest and Cypress. My familiarity with Git and repo hosting services like GitHub will enable me to contribute effectively to your team's projects.
+
+In addition to my technical skills, I bring a passion for collaboration, teamwork, and continuous learning. I am excited about the prospect of working in an Agile environment and contributing to the development of innovative software solutions.
+
+Thank you for considering my application. I am confident that my unique blend of creative and technical expertise makes me an ideal candidate for this role.
+
+Sincerely,
+Alexis

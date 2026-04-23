@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant industry (design), but the cover letter focuses on design experience rather than front-end engineering. While the candidate expresses interest in learning the required technologies, they lack demonstrable experience with JavaScript, TypeScript, React, testing, Git, or other front-end tools mentioned in the job description. The letter highlights transferable skills but doesn't provide evidence of practical front-end development abilities.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant experience in web technologies, particularly in HTML and CSS, but lacks the required hands-on experience with modern front-end frameworks and libraries, specifically React. There is no mention of JavaScript, TypeScript, or testing automation experiences, which are crucial for this role. Additionally, while they have experience in project management and training, their background is primarily in digital marketing rather than software development.

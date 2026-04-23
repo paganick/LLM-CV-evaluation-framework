@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate meets the core front-end requirements (JavaScript/TypeScript, HTML/CSS, React, Git, Node ecosystem, Jest, API design and OAuth) and demonstrates relevant hands-on project work and collaboration skills. However, they lack explicit experience with several listed stack items critical to the role—E2E testing tools (Cypress/TestCafe), CI/CD (CircleCI), Styled Components, Ramda/functional libraries, AWS/Terraform, and linters/formatters—so they are a solid but not complete match.

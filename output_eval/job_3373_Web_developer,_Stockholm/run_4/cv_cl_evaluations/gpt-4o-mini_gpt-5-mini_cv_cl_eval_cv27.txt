@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in arts education and media production, which does not align well with the technical requirements of the Front-End Developer position. While there are some relevant skills such as HTML and experience in design, the candidate lacks specific expertise in JavaScript, React, CSS, modern testing frameworks, and overall front-end development experience that are crucial for this role.

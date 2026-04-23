@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational background and some foundational skills in HTML, CSS, and Java, along with ongoing studies in Management Information Systems. However, they lack direct experience with the key technologies mentioned in the job description, such as React, TypeScript, modern CSS tools, and testing frameworks. Despite their enthusiasm and willingness to transition into tech, they do not sufficiently meet the required technical competencies for the Front-End Developer position.

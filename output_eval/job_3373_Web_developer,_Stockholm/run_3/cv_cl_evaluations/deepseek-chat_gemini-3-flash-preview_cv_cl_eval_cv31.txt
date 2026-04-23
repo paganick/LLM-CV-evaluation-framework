@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in sales and management, not software development. The resume and cover letter show no professional experience with JavaScript, TypeScript, React, testing frameworks, or any other core technical requirements listed in the job description. The mention of HTML is superficial and presented as a desktop publishing skill, not as modern frontend development.

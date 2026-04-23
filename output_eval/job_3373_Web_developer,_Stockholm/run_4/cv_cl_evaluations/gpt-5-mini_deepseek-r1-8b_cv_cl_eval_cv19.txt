@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a graphic designer with coursework in HTML/CSS and strong visual design skills but lacks demonstrated experience in JavaScript/TypeScript, React, testing frameworks, Git-based workflows, Node/npm, and other required frontend engineering tools. There are no professional frontend development roles, projects, or technical accomplishments on the resume to evidence competency in the technologies listed in the job description. While motivated to learn, the candidate does not meet the core technical requirements for this role.

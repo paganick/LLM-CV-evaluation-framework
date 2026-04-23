@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in product leadership, not front-end development. While they express willingness to learn React and related technologies, they lack demonstrable hands-on experience with the specific technologies listed in the job description like TypeScript, modern CSS tools, testing frameworks, and CI/CD tools. The cover letter highlights transferable skills, but not the required technical proficiency.

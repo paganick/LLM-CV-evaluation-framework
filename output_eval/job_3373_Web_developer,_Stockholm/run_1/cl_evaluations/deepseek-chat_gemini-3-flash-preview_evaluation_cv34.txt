@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core job requirements, including React, TypeScript, HTML/CSS, Agile collaboration, and a passion for clean code. They directly address testing (Jest, Cypress) and show relevant domain understanding. However, the cover letter lacks explicit mention of several key technologies from the job description, such as Git, specific modern CSS tools, Node.js ecosystem, functional programming (Ramda), and CI/CD tools, which prevents a higher score.

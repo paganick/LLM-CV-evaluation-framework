@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior-level Product Management executive with no professional experience as a software developer or individual technical contributor. While they possess industry knowledge in digital media, the resume fails to demonstrate hands-on professional expertise in JavaScript, TypeScript, React, or the required testing frameworks. The candidate's background is focused on leadership and strategy rather than the engineering requirements specified in the job description.

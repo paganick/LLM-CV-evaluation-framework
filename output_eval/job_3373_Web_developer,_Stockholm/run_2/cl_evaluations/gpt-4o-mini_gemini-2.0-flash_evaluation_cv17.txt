@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate brings strong project management and problem-solving skills from civil engineering and construction management, they lack direct experience with frontend development technologies such as JavaScript, TypeScript, modern frameworks, testing frameworks, and the necessary tools highlighted in the job description. Their background does not demonstrate the specific skills or experiences required for the Frontend Developer position.

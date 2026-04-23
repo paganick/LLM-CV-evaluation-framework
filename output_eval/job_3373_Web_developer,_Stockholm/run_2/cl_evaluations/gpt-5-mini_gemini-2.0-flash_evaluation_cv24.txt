@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate shows solid HTML/CSS/JavaScript fundamentals, content-management experience, Agile collaboration, and strong communication skills which are relevant to front-end work. However, they lack demonstrated hands-on experience with React, TypeScript, testing/automation, Node/npm tooling, CI/CD, and web security practices required by the role. Their transferable skills and eagerness to learn are positive but insufficient for immediate contribution to the technical expectations of this position.

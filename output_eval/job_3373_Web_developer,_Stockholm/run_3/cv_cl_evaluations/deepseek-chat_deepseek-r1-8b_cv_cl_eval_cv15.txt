@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in broad IT management and support, not modern frontend development. They lack any demonstrable experience with React, TypeScript, modern testing frameworks, or the specific tools listed in the job description. While they mention basic web technologies, their skills are outdated and not aligned with the specialized, framework-focused role.

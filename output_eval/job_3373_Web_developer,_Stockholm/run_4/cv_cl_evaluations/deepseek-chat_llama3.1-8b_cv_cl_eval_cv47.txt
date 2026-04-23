@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and chemical sales, which is completely unrelated to the front-end engineering role. The technical skills listed (HTML, C++) are outdated and not aligned with the required modern frameworks like React, TypeScript, and testing tools. The cover letter acknowledges a lack of the specific, required technical experience, confirming a severe mismatch for the position.

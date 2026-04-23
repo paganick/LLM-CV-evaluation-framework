@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume and cover letter show a long career in construction and project management with no demonstrated experience in JavaScript, TypeScript, HTML/CSS, React, NodeJS, testing frameworks, Git, or web security. While they have strong project leadership and cross-team collaboration skills, they lack the fundamental hands-on frontend development and technical toolset required for this role. This is a wrong-industry fit and does not meet the core technical requirements.

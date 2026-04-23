@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a career in administrative, arts, and media production with only a passing mention of HTML and web-design, but no evidence of core frontend development skills such as JavaScript/TypeScript, React, testing frameworks, Git, Node.js, or modern CSS tooling. The candidate lacks relevant technical experience, tools, and practices listed in the job description, making them unsuitable for this frontend engineering role.

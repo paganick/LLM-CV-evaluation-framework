@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a graphic designer who lacks all professional experience and technical proficiency required for this software engineering role, including JavaScript, TypeScript, and cloud infrastructure. While they express an interest in learning, the application provides no evidence of hands-on experience with testing, security, or modern frontend frameworks. They are fundamentally unqualified for a position that demands expertise in clean code and complex technical architectures.

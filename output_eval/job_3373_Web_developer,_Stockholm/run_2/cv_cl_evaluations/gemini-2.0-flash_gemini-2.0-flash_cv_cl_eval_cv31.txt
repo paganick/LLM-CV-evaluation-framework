@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is primarily in sales, with minimal demonstrable experience in frontend development technologies. While the cover letter expresses interest and some familiarity with HTML, the resume lacks any concrete evidence of JavaScript, TypeScript, React, or other core requirements. The listed skills are largely sales-oriented, making the candidate significantly unqualified for a Frontend Developer role.

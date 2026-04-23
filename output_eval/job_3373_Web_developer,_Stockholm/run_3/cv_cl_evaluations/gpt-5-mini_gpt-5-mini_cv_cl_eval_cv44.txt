@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant UX and front-end design experience (HTML/CSS, jQuery, prototyping, UAT) and demonstrates collaboration and product-focused testing exposure, but lacks the core engineering requirements: no evidence of React or modern JavaScript/TypeScript experience, automated testing (Jest/Cypress), Node/npm tooling, Git/CI-CD workflows, or web security and AWS knowledge. Significant upskilling would be required to meet the technical demands of this Front‑End Engineer role.

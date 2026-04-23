@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in media production, which is relevant but does not align with the specific technical skills required in the job description, such as experience with JavaScript, TypeScript, React, and testing frameworks. While they demonstrate strong project management and collaboration skills, the lack of direct experience with front-end development frameworks and technologies significantly limits their suitability for this role.

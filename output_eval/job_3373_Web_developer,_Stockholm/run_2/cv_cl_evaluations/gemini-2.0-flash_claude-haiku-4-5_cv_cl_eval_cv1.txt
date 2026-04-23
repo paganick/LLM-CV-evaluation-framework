@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and React. They have experience with testing frameworks and Git, aligning with the job requirements. However, the resume showcases a broader full-stack experience, and lacks specific TypeScript experience which is a primary requirement.

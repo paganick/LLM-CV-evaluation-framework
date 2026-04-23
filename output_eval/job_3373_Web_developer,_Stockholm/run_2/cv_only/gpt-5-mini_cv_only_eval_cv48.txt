@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows extensive experience in IT support, hardware repair, servers and networking but contains no evidence of JavaScript/TypeScript, React (or other modern frontend frameworks), HTML/CSS, frontend testing, Node.js/npm, CI/CD, or cloud/infra tooling required by the role. While technically adept in systems and field services, the candidate lacks the specific frontend development skills and tooling experience needed, making them unsuitable for this position.

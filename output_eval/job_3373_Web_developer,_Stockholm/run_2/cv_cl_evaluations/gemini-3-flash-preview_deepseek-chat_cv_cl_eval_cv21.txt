@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a seasoned developer with strong foundational knowledge in Agile and software lifecycle; however, their professional experience is heavily concentrated in legacy .NET, ASP.Net, and AngularJS. They lack professional-grade experience with the required modern stack, specifically React, TypeScript, and contemporary testing frameworks like Jest or Cypress, making them a significant skill-gap risk for this specific frontend role.

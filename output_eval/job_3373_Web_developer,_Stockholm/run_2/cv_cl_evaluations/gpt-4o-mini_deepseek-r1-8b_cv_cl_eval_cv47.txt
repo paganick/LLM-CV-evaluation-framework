@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate has a strong background in business development and sales leadership but lacks any relevant experience or skills in software development, particularly in JavaScript, TypeScript, or modern front-end frameworks like React. Their technical skills are limited to basic programming and do not align with the requirements for testing, security, or CI/CD tools as specified in the job description.

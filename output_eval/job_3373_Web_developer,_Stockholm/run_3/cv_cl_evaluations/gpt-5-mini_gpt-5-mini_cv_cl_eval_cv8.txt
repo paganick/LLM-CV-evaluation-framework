@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate is experienced in hardware/test engineering and automation but shows no demonstrable experience with required front-end technologies (JavaScript/TypeScript, React, modern CSS), front-end testing frameworks, Git workflows, Node/npm, or web security/CI/CD tools. While they have strong testing discipline, Python scripting, and cross-functional collaboration, these transferable skills do not compensate for the lack of specific front-end ecosystem experience required for this role.

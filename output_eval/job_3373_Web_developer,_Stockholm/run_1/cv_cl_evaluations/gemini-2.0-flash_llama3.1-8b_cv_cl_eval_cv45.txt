@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in IT and cybersecurity within a government/military context, which is different from the software development environment described in the job description. There is no mention of JavaScript, TypeScript, or modern FE frameworks experience. While the candidate claims familiarity, the resume lacks concrete examples.

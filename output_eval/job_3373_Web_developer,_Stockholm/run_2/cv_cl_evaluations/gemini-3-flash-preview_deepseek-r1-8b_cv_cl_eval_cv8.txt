@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a hardware and electronics test engineer whose professional experience is entirely centered on RF circuits, PCB troubleshooting, and manufacturing environments rather than software engineering. There is no evidence in the resume of professional proficiency in JavaScript, TypeScript, or React, which are the core requirements for this frontend position. While the cover letter mentions familiarity with modern testing tools, the candidate's career history reflects a complete lack of industry-relevant web development experience.

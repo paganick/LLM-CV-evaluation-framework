@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, not front-end development. While they possess some relevant skills like HTML and CSS, they lack the necessary experience with JavaScript, modern frameworks (like React), testing frameworks, and other essential tools mentioned in the job description. Their cover letter admits limited experience in key areas, making them underqualified for the role.

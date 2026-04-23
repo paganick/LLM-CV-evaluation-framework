@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate fails to mention any of the required technical skills, such as JavaScript, TypeScript, React, or CSS, focusing instead on media production and social media marketing. There is no evidence of experience with software development workflows, version control, or testing frameworks mentioned in the job description. The background is almost entirely in a different industry, making the applicant unqualified for this specific engineering role.

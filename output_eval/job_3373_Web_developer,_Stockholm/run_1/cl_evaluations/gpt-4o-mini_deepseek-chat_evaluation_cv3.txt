@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant educational qualifications and a solid understanding of foundational web technologies, but lacks hands-on professional experience with the specific tools and frameworks mentioned in the job description. Their experience in an unrelated field, while demonstrating transferable skills, does not compensate for the lack of required technical skills such as familiarity with testing frameworks, Node.js, and modern CSS tools. Overall, the candidate shows potential but is still underqualified for the position.

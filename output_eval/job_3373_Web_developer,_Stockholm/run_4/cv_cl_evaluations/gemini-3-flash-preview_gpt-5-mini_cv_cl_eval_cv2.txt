@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a backend-focused Java developer whose professional experience is centered on legacy J2EE technologies, entirely lacking the required expertise in React, TypeScript, and modern JavaScript testing frameworks. While they possess solid general software engineering fundamentals and experience with Git and Agile, they do not meet any of the core front-end technical requirements specified in the job description. Consequently, the candidate would require extensive retraining to be functional in this specific modern front-end role.

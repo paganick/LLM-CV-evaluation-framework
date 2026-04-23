@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT and systems engineering but lacks direct experience with modern front-end frameworks and libraries like React, VueJS, or Angular, which are crucial for the role. They do not demonstrate proficiency with JavaScript, TypeScript, or relevant testing frameworks, and their knowledge of modern CSS tools and web security practices appears limited. Overall, while they have relevant industry experience, they do not meet the specific requirements of the job description.

@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and modern testing frameworks, and has not held a relevant technical role since 2017. Their background is primarily centered on Java and Database Administration, which does not align with the specialized seniority required for this React-focused position. The cover letter admits to only having foundational knowledge and being in the process of learning the core technologies mandated by the job description.

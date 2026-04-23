@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses general software development experience, they lack the mandatory proficiency in TypeScript and admit to having only "recently acquired" skills in React. Their primary expertise in mainframe technologies is not a direct match for a specialized front-end role, and the application fails to demonstrate hands-on experience with E2E testing or functional programming. Consequently, the candidate lacks the technical depth and specific project experience required for this modern development environment.

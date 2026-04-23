@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in digital marketing technology but lacks direct experience with modern front-end frameworks such as React, TypeScript, and related testing tools noted in the job description. While they have familiarity with HTML, CSS, and some relevant skills, they do not demonstrate adequate experience in JavaScript frameworks or the specific development practices sought by the company.

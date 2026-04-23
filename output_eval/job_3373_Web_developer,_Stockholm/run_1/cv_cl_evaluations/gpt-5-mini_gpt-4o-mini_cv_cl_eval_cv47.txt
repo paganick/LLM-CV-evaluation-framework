@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the core technical skills required for this front-end role—no demonstrated experience with JavaScript/TypeScript, React, modern CSS tooling, front-end testing frameworks, or the Node ecosystem. Their background is primarily in business development with only basic HTML and C/C++ listed, and there is no evidence of relevant projects, frameworks, or CI/CD and cloud familiarity. While they show strong cross-functional and leadership experience, this does not compensate for the substantial gaps in required front-end technologies.

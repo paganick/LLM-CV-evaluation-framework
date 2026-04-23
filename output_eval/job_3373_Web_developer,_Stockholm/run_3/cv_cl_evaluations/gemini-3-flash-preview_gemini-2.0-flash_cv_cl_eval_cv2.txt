@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a backend Java/J2EE developer who lacks any professional experience with the required modern frontend stack, including React, TypeScript, and modern CSS tools. While they have 8.5 years of general IT experience and familiarity with Agile, they do not demonstrate proficiency with the specific frontend testing frameworks or functional programming libraries requested. This profile represents a career pivot rather than a qualified match for the specific technical requirements of this position.

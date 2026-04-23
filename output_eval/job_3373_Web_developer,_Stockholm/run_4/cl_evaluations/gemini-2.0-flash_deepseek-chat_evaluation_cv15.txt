@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates knowledge of relevant technologies like JavaScript, HTML, and CSS, but their React experience is notably weak, a key requirement. While they highlight transferable skills from IT management, the cover letter lacks concrete examples of front-end development projects beyond website rebuilds. The candidate also does not provide any evidence of experience with testing or the NodeJS ecosystem.

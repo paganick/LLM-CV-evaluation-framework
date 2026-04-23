@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a technical background in electronics and some familiarity with software testing, but lacks direct experience with key front-end technologies such as JavaScript frameworks (React, VueJS, etc.) and modern CSS tools. While they have a basic understanding of programming languages and testing methodologies, they do not demonstrate experience with the specific tools and frameworks mentioned in the job description, limiting their fit for the role.

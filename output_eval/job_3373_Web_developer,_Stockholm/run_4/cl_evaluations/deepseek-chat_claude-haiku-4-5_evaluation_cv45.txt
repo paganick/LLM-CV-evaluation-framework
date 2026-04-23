@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant technical aptitude and a strong security background that aligns with some job requirements. However, they explicitly lack hands-on experience with the core frontend technologies (React, JavaScript/TypeScript) listed in the job description, which is a critical deficit. Their potential is noted, but the direct experience gap is too significant for a higher score.

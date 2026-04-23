@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career changer who lacks professional hands-on experience with the core technical requirements, specifically omitting any mention of TypeScript, Git, or Web Security. While they possess a relevant degree, their knowledge of React, testing frameworks, and CI/CD is purely academic and does not satisfy the "hands-on" criteria defined in the job description. The applicant effectively lacks the practical proficiency in modern frontend tools and functional programming needed for immediate contribution in an Agile environment.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in sales and management but lacks direct experience in web development, particularly with JavaScript, TypeScript, and modern front-end frameworks like React. While they demonstrate some familiarity with HTML and basic security concepts, their qualifications do not meet the critical technical requirements of the role, which centers around hands-on coding experience and familiarity with testing frameworks.

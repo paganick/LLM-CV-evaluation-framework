@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in business development and sales, with no professional experience in software development, front-end technologies, or the specific technical stack required (React, TypeScript, testing, etc.). The resume lists outdated, non-professional programming skills (HTML, C, C++) from over a decade ago, which do not meet the job's requirements for modern front-end engineering. The cover letter acknowledges the mismatch and attempts to argue for transferable soft skills, but the core technical qualifications are entirely absent.

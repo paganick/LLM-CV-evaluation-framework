@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in business banking and management, not software development. While the cover letter mentions "tech consulting," it lacks specific examples of frontend development experience. The resume doesn't list any of the required technical skills (React, TypeScript, HTML, CSS, etc.) from the job description.

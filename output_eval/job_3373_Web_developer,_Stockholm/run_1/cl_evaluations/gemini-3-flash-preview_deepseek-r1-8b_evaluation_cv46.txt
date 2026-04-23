@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate provides a strong match for the core technical requirements, explicitly mentioning JavaScript, TypeScript, React, and essential security protocols like OWASP and OAuth. They also confirm experience with the specific testing and CI/CD tools (Jest, Cypress, CircleCI) requested in the job description. However, the application fails to address several preferred qualifications, such as functional programming (Ramda), API design, and cloud infrastructure (AWS/Terraform), preventing a perfect score.

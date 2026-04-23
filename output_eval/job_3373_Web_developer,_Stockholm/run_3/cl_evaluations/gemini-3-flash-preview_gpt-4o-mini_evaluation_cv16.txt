@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates solid experience with React, testing frameworks, and CI/CD tools, but fails to explicitly mention TypeScript, which is a core technical requirement. While they have a strong grasp of the surrounding ecosystem, their primary professional background is as a Database Programmer/Analyst rather than a specialized Front End Developer. Additionally, they lack practical experience with functional programming and cloud infrastructure, expressing only a willingness to learn these areas.

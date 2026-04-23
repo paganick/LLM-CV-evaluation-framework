@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has front-end experience but lacks specific React expertise, which is the company's primary framework. While they mention Agile and clean code, their experience is primarily in project management, not hands-on development using modern testing frameworks or CSS tools mentioned in the job description. There is also no mention of Typescript or functional programming.

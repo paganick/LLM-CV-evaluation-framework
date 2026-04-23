@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in business development rather than front-end development, which does not align with the core requirements of the job. While they mention having HTML skills, there is no evidence of experience with JavaScript, TypeScript, modern frameworks like React, testing methodologies, or version control with Git, all of which are essential for the role.

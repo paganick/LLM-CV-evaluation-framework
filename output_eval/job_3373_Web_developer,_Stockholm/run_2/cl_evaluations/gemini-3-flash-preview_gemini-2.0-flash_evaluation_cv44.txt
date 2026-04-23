@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all mandatory technical skills listed in the job description, most notably JavaScript, TypeScript, and React. While they possess a design background and a Computer Science degree, their reliance on outdated tools like Adobe Dreamweaver and an admitted need to learn modern frameworks makes them unqualified for this mid-to-senior level role. There is no evidence of experience with testing, Git, web security, or the modern CI/CD ecosystem required for the position.

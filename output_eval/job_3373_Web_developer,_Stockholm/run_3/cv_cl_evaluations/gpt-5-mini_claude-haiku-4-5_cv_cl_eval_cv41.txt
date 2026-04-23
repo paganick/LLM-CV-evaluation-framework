@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong systems engineering and operations background with security certification and some exposure to web applications, but there is no demonstrated hands-on experience with JavaScript/TypeScript, React, modern CSS, frontend testing frameworks, or the Node/npm ecosystem required for this role. There is also no evidence of use of Git, CI/CD, frontend libraries, or a developer portfolio/code samples. As a result, they are relevant to tech generally but do not meet the specific frontend skillset needed.

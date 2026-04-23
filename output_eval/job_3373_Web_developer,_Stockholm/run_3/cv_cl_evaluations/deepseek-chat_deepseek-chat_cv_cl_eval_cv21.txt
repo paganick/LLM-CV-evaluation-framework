@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in legacy .NET stack (C#, ASP.Net, VB) with only brief mentions of AngularJS and jQuery, not the modern React/Vue/Angular/Svelte frameworks required. While they demonstrate Agile collaboration and testing principles, the resume lacks concrete, recent experience with the specific technologies listed (TypeScript, React, modern CSS tools, Jest/Cypress, Node.js). The cover letter attempts to bridge the gap but does not provide evidence of professional, production-level work with the core tech stack.

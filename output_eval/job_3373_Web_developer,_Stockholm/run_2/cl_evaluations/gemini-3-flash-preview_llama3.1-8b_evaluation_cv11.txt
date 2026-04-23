@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has relevant experience in software testing and Agile environments, they fail to demonstrate proficiency in several core requirements, most notably TypeScript, Git, and Web Security (OWASP/CORS). Their automation experience is limited to Selenium and PowerShell, missing the specific modern stack requested such as Cypress, Jest, or NodeJS. Furthermore, their mention of React is aspirational rather than experiential, falling short of the "hands-on experience" required for this position.

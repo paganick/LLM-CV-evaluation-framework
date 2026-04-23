@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and project management, with limited explicit front-end development experience. While the cover letter expresses interest and adaptability, there's a lack of concrete evidence of proficiency in JavaScript, React, or related technologies mentioned in the job description. The resume highlights project management and quality engineering skills, which are tangentially relevant but insufficient for a front-end developer role.

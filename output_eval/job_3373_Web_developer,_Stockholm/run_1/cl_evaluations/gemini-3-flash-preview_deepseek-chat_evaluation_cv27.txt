@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is a career changer with no professional experience in software engineering and lacks the required hands-on proficiency in JavaScript, React, and testing automation. Their background in arts and operations does not align with the technical demands of the role, and their technical skills are currently in the foundational or learning phase. They do not demonstrate the necessary expertise in web security, CI/CD, or functional programming requested in the job description.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience but lacks the specific, hands-on frontend skills required. There is no demonstrable experience with React, TypeScript, modern CSS tools, or the testing frameworks (Jest, Cypress) listed in the job description. While they show a strong general development background and soft skills, the core technical requirements for this React-focused frontend role are not met.

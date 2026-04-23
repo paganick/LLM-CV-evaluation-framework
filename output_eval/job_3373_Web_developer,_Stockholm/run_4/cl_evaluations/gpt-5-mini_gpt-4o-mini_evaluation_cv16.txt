@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Candidate demonstrates core front-end skills (JavaScript, HTML, CSS), React familiarity, testing experience (Jest/Cypress), Git, modern CSS tools, Node ecosystem knowledge and CI/CD exposure, aligning well with most requirements. However, they do not mention TypeScript, do not show working experience with AWS/Terraform or linters/formatters, and their experience level is relatively limited (2 years), so they are a strong match but not a perfect fit.

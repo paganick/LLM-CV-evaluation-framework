@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in project management and a background in computer science, but lacks specific hands-on experience in the required front-end technologies such as React, testing frameworks, and modern CSS tools. Their skills in quality engineering and business development are relevant but do not directly align with the core technical requirements of the position.

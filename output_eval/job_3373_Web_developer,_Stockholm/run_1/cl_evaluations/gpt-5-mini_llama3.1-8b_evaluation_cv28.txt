@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is exclusively in materials analysis, metallurgy, and process improvement with no mention of JavaScript, TypeScript, React, front-end frameworks, testing tools, Git, Node/npm, CSS tooling, CI/CD, or cloud/infra — all core requirements for this role. There is no demonstrated software development experience or transferable technical skills relevant to front-end engineering. Given the complete mismatch in domain and required technical competencies, the candidate is unqualified for this position.

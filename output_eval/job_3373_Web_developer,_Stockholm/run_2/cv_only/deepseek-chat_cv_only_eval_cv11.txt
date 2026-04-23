@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software testing and Agile environments, which aligns with some job requirements. However, the role is primarily for a front-end developer, and the resume shows a strong testing background with only basic, non-professional exposure to the required core technologies like React, TypeScript, and modern CSS tools. Key development skills such as functional programming (Ramda), CI/CD, and API design are not demonstrated.

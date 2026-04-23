@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career switcher who lacks professional experience in the primary tech stack, specifically JavaScript, TypeScript, and React. Their background is heavily rooted in data analysis and industrial engineering rather than frontend development, which leaves a significant gap in practical expertise regarding UI/UX implementation and frontend testing. While technically capable in other domains, they do not meet the core requirement for hands-on experience in the specified software ecosystem.

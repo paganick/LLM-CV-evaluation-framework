@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate brings strong test-engineering experience, Python-based test automation, web security awareness and proven collaboration/Agile experience which are relevant and transferable. However, they do not demonstrate hands-on experience with core front-end technologies required for the role (JavaScript/TypeScript, HTML/CSS, React), nor with modern JS tooling, testing frameworks, Node/npm or CI/CD—critical for this position. With concrete React/JS projects and evidence of the required tooling experience they could be a viable hire.

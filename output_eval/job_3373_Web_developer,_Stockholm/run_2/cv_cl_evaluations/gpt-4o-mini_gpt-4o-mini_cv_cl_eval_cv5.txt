@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has experience in software development and mentions familiarity with JavaScript, HTML, and modern frameworks like React, which is relevant to the role. However, the resume primarily focuses on mainframe technology and lacks extensive front-end development experience and knowledge of required tools and technologies like TypeScript, advanced CSS, and testing frameworks. The transition from a mainframe background to front-end technologies may be challenging without deeper expertise in the specified areas.

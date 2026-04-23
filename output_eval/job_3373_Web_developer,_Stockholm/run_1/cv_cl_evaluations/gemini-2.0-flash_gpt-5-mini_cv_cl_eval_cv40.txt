@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume and cover letter highlight product management experience, but lack demonstrable hands-on skills in the specified technologies like JavaScript, React, TypeScript, and testing frameworks. While the candidate expresses willingness to learn, the job description emphasizes existing experience. The candidate's background is more aligned with product strategy and leadership, not front-end engineering.

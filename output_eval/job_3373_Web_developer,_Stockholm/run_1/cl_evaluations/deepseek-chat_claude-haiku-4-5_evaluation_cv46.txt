@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and demonstrates a foundational understanding of core web technologies and Agile practices. However, they lack direct, hands-on experience with the specific technologies listed in the job description, such as React, TypeScript, modern testing frameworks, and the other required tools. Their letter focuses more on eagerness to learn and broad consulting experience rather than proven, practical skills in the exact stack.

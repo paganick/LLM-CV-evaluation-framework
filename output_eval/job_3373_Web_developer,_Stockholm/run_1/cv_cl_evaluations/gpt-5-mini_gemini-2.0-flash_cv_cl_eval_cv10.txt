@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web fundamentals (HTML, CSS, JavaScript, AngularJS) and some Agile/testing exposure, but lacks key required experience with React and TypeScript, modern front-end testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, and modern CSS tooling (Styled Components/SASS). Their background is primarily Java/server-side and older front-end tech (AngularJS), with performance testing rather than unit/integration/E2E automation expected for this role. Trainable but not an immediate strong fit for the listed stack and expectations.

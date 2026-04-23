@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a relevant background in IT and core web technologies, they explicitly admit to lacking professional experience with the required modern stack, including React, TypeScript, and testing frameworks. Their background is heavily focused on systems administration and legacy web development rather than the specific front-end libraries and CI/CD tools mandated by the job description. Consequently, they do not meet the minimum technical requirements for immediate contribution in this modern development environment.

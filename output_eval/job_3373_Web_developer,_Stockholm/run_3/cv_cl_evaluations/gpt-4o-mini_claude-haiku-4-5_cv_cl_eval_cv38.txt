@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in media production but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks like React. While they demonstrate related skills in web technologies and design principles, they do not explicitly meet several key technical requirements outlined in the job description. Their experience is not in the tech industry, which further limits their fit for this specific role.

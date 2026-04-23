@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's experience is primarily in databases and backend development (Java, SQL, MySQL), which doesn't align well with the job description's focus on front-end technologies like JavaScript, TypeScript, and React. While the candidate mentions familiarity with HTML/CSS and Git, the lack of direct experience with modern FE frameworks and testing methodologies is a significant drawback. The cover letter highlights adaptability and a willingness to learn, but lacks concrete examples of front-end development skills.

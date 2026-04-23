@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in business development and marketing, lacking concrete front-end development experience. While the cover letter expresses interest in transitioning to a technical role and mentions some relevant adjacent skills, there's little to no demonstrable experience with the core technologies listed in the job description such as React, TypeScript, HTML, CSS, and testing frameworks. The resume highlights sales and marketing achievements, not software development skills.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with core front-end technologies, React, testing frameworks, and the Node.js ecosystem as specified. However, the cover letter lacks explicit mention of several key requirements from the job description, including modern CSS tools, linters/formatters, functional programming, CI/CD, web security basics, and Git. The background in EJB and database design is less relevant, indicating a broader software background rather than a pure front-end specialization.

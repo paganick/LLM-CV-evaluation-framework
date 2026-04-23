@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and React, aligning well with the core technical requirements. Their experience with test automation, Git, and Agile methodologies also matches the job description. However, the resume lacks explicit mention of TypeScript and some of the desired modern CSS tools and testing frameworks, preventing a higher score.

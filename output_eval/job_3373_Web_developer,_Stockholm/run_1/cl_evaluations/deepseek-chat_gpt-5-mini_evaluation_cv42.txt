@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in finance operations and program leadership, not front-end engineering. While they demonstrate strong project management and stakeholder skills, they lack the required hands-on technical experience with JavaScript, React, modern tooling, and testing frameworks specified in the job description. Their interest in learning is noted, but their current skills are not a direct match for the technical requirements of the role.

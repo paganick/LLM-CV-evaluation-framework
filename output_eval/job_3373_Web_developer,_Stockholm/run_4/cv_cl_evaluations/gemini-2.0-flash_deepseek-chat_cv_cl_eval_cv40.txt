@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in product management but lacks verifiable hands-on experience with the specific front-end technologies listed in the job description, such as React, testing frameworks, and modern CSS tools. While the cover letter mentions a "rapidly advancing technical skill set," the resume doesn't provide concrete evidence of coding experience or projects using these technologies. The resume emphasizes product strategy and management skills, which are not the primary focus of a Front-End Developer role.

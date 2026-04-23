@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is exclusively in IBM Mainframe technologies (COBOL, CICS, DB2, JCL) and a completely different domain. The resume shows no experience with the required modern front-end technologies (React, TypeScript, CSS tools), testing frameworks, Node.js, or any other skills listed in the job description. This is a case of wrong industry and technology stack, not a lack of specific skills within the field.

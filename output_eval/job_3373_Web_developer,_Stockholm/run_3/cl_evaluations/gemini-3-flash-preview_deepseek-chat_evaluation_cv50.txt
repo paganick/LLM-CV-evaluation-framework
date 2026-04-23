@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a relevant Computer Science degree and mentions the core tech stack, their professional history is primarily in management and quality engineering rather than dedicated front-end development. They lack demonstrated professional experience with the required modern frameworks, testing libraries, and CI/CD tools mentioned in the job description. As a career pivoter, the candidate lacks the specific, hands-on industry tenure in React and TypeScript required for this role.

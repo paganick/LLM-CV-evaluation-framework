@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong analytics, data, and some web/HTML experience and mentions Git, but lacks demonstrable, hands‑on experience with core front-end requirements such as JavaScript/TypeScript, React (or other modern JS frameworks), modern CSS tooling, JS testing frameworks, Node/npm ecosystem, and web security/CI-CD/AWS knowledge. Based on the resume and cover letter, substantial upskilling would be required before they could fulfill this front-end developer role.

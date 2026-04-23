@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant technical skills mentioned in their cover letter such as JavaScript, TypeScript, HTML, CSS, and familiarity with modern frameworks like React. However, their primary experience lies in sales rather than a dedicated software development background, which is crucial for the role. There are also gaps in specific areas like testing frameworks and web security knowledge that are important for the position, hence not fully meeting the requirements.

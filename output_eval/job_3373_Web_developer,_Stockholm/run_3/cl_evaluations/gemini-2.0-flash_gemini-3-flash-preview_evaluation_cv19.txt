@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a graphic design background with some HTML/CSS experience, which is tangentially relevant. They lack demonstrable experience with JavaScript, TypeScript, React, testing, and other key technologies listed in the job description. While they express interest in learning, their current skillset doesn't align with the core requirements for a Frontend Developer.

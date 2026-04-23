@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience in software engineering, specifically failing to meet the requirements for JavaScript, TypeScript, and React expertise. Their background is entirely within administrative, artistic, and instructional fields, which places them in a different industry from the one required. While the candidate expresses an interest in learning, they do not currently possess the technical skills or hands-on experience with modern frontend frameworks, testing, or CI/CD tools mentioned in the job description.

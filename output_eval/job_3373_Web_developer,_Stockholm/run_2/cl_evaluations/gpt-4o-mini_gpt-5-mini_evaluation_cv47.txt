@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a technical foundation in HTML and some programming experience, which is relevant to the Front-End Developer position. However, they lack hands-on experience with JavaScript, TypeScript, modern front-end frameworks (specifically React), testing, and other specific tools and technologies mentioned in the job description. While their leadership skills and teaching experience are valuable, they do not fulfill the technical requirements adequately.

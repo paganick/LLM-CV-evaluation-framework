@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: Candidate demonstrates strong, relevant UX/UI experience with proven Agile delivery, design system and research/workshop capabilities, and has led and mentored designers, matching most core requirements. However, there is no explicit Figma experience (only Sketch/Axure/XD) and limited evidence of JavaScript exposure, which the role lists as highly desirable/useful. These tooling/technical gaps prevent a top score despite an otherwise strong fit.

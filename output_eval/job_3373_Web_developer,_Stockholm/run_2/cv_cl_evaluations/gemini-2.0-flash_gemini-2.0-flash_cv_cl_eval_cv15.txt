@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a basic understanding of HTML, CSS, and JavaScript, but lacks specific experience with modern FE frameworks like React, which is a core requirement. While they express eagerness to learn, the resume focuses heavily on general IT support and troubleshooting rather than front-end development. There's no mention of testing frameworks, CI/CD, or other essential tools listed in the job description.

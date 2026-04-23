@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and a solid educational background, but lacks direct proficiency in key technologies such as JavaScript, TypeScript, HTML, and CSS, as well as modern frontend frameworks like React. While they express enthusiasm for learning and adapting, their limited hands-on experience with core skills listed in the job description is a significant concern. Additionally, their knowledge of testing and automation is mentioned but lacks specificity in the context of required frameworks and practices.

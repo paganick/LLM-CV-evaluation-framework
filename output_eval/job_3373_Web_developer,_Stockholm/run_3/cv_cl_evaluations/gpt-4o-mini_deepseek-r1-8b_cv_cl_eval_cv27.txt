@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is predominantly in arts and administration, lacking relevant technical skills in JavaScript, TypeScript, HTML, CSS, and modern front-end frameworks like React. The experience does not demonstrate hands-on capabilities in testing, web security, or collaboration in an Agile environment, resulting in a significant disconnect from the job requirements.

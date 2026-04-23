@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in Java, JavaScript, and front-end frameworks, which aligns well with the job requirements. However, they lack specific experience with some tools mentioned in the job description, such as modern CSS tools like Styled Components and SASS, and do not mention familiarity with the NodeJS ecosystem. Overall, they are a strong candidate but not a perfect match.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the job's technical requirements, including React, security fundamentals, Agile, and CI/CD. However, the cover letter heavily emphasizes high-level strategic and security management experience over recent, hands-on front-end development work, which creates some uncertainty about immediate, day-to-day coding proficiency. The background is highly relevant and the skill transition is well-argued, making them a strong but not perfect match.

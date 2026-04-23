@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is fundamentally unqualified for this technical role as they lack hands-on experience with the mandatory stack of JavaScript, TypeScript, and React. While they possess a background in C/C++ and soft skills from business development, they do not meet the core requirements for modern frontend development, testing, or web security. Their mention of outdated tools like Dreamweaver and a stated need to "develop expertise" in the required technologies indicates they are not prepared for a professional developer position.

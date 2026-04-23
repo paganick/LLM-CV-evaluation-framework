@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an electronics and hardware technician whose experience is entirely focused on circuit testing, electromechanical assembly, and hardware validation. They lack the required expertise in web development technologies such as React, TypeScript, HTML/CSS, and modern frontend testing frameworks like Jest or Cypress. Their professional background does not align with the software engineering industry or the specific technical stack requested.

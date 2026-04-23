@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate presents strong transferable skills (documentation, validation, collaboration) but provides no evidence of any required front-end technologies (JavaScript/TypeScript, React, HTML/CSS), testing frameworks, Git, or Node ecosystem experience. Their background is in a different industry and does not demonstrate the technical competencies needed for this role. Given the lack of demonstrated hands-on frontend experience, they are not qualified for this position as described.

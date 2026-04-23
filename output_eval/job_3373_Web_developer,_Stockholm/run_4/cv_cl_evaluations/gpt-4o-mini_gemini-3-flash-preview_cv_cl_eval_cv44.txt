@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a background in multimedia design and user experience but lacks direct experience with JavaScript, TypeScript, and modern frontend frameworks like React. While they show some relevant skills in HTML, CSS, and UX/UI design, they do not demonstrate the hands-on experience with test automation or CI/CD tools as outlined in the job description. Their experience is somewhat related to the industry, but they are not fully qualified for this frontend developer role at the level required.

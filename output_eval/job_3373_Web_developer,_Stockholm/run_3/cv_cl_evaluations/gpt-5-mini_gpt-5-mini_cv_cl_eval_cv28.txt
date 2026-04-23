@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is from a materials analysis/manufacturing background with no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS, Node.js, front-end testing frameworks, Git, or CI/CD — all core requirements for this role. While they articulate strong analytical, testing discipline, and cross-functional collaboration skills, these are transferable at a high level but do not compensate for the lack of direct front-end engineering experience. The profile is therefore not a fit for the position as described.

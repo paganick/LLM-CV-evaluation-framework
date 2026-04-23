@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has solid front-end fundamentals (HTML/CSS/JS), Angular and backend experience, plus familiarity with Git and testing practices, making them relevant to the role. However they lack demonstrated experience with the core stack items required here—React and TypeScript—as well as common JS testing frameworks (Jest/Cypress/TestCafe), modern CSS tools (Styled Components/SASS), and Node/AWS/CI tooling. Given these gaps against the advertised requirements, this is a moderate but not strong match.

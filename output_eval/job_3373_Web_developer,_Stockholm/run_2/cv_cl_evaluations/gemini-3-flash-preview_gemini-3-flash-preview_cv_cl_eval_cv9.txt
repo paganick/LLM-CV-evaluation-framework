@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Backend/Java Engineer with no documented professional experience in modern frontend frameworks like React or languages like TypeScript. Their technical background focuses on legacy enterprise systems and server-side logic, which does not align with the requirement for hands-on expertise in modern CSS tools, frontend testing suites, or React-based architecture. While they possess relevant knowledge of web security and Agile methodologies, they lack the core frontend domain expertise requested in the job description.

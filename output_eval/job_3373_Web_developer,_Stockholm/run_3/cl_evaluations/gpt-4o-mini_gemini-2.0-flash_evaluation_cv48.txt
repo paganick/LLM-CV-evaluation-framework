@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience with IT support and system administration, which could be beneficial, but lacks direct experience in front-end development. While they express a willingness to learn and have some basic knowledge of required technologies, they do not demonstrate hands-on experience with key frameworks or testing methodologies specified in the job description. This leaves gaps in essential areas like modern JavaScript frameworks and testing tools.

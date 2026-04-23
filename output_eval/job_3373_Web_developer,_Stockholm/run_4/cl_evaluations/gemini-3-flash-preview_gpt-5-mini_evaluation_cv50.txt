@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses extensive general IT and leadership experience, they lack the specific hands-on expertise in React, TypeScript, and modern frontend toolchains required for this role. The letter explicitly states a need for mentorship and training to become productive with the required stack, categorizing them as a career-shifter rather than a qualified developer. A strict evaluation identifies a significant gap between the candidate's recent management focus and the job's technical requirements.

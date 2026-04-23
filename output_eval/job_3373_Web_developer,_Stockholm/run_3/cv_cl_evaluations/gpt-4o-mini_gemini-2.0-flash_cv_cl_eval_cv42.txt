@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in finance operations and project management but lacks the specific technical skills related to front-end development such as JavaScript, TypeScript, HTML, CSS, and modern frameworks like React. Additionally, there is no evidence of hands-on experience with testing and test automation, which are crucial for the role. While they demonstrate strong collaboration and problem-solving skills, their background does not align closely with the technical requirements of the position.

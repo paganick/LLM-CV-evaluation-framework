@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in project management, not software development. While they claim experience with JavaScript, HTML, and CSS, the depth is questionable, and TypeScript is only mentioned as an interest. There's a lack of concrete examples of hands-on coding and specific technologies mentioned in the job description, like React.

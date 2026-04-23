@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate’s professional background is rooted in systems administration and IT infrastructure, lacking any verifiable professional experience with the modern front-end stack, including React, TypeScript, or automated testing frameworks. While the cover letter mentions these skills, the resume itself shows a career focused on hardware maintenance and network monitoring with no recent or relevant software development history.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant visual design experience and basic HTML/CSS coursework, but lacks nearly all core technical requirements (JavaScript/TypeScript, React, testing/automation, Git, Node/npm, modern CSS tooling, web security, CI/CD). There is insufficient hands-on frontend development, tooling, and testing experience to perform the role without substantial training. With focused upskilling they might become a fit for a junior role, but presently they do not meet the job's needs.

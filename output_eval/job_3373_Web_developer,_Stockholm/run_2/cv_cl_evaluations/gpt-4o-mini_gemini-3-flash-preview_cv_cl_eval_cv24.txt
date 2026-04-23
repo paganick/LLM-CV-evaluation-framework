@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has significant experience in digital communications and some relevant skills in web technologies, they lack direct experience with core requirements such as JavaScript, TypeScript, modern frontend frameworks like React, and testing frameworks. Their background is more focused on communication rather than hands-on development, which does not align well with the specific needs of the frontend developer role.

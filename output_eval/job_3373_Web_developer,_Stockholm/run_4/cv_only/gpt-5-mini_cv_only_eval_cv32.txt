@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume reflects extensive customer service and retail/sales management experience but contains no demonstrated software engineering skills or technical experience (JavaScript/TypeScript, HTML/CSS, React, testing frameworks, Git, Node, CI/CD, AWS, etc.). There are no programming projects, technical certifications, or relevant education to satisfy the job requirements. This candidate is not qualified for the role.

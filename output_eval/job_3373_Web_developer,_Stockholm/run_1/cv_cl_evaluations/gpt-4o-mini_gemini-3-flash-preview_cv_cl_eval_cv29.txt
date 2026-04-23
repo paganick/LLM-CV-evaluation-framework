@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has significant experience in the cloud software industry but lacks relevant frontend development experience with the required technologies such as JavaScript, TypeScript, HTML, and CSS. While they show some understanding of API integration and security principles, they do not meet the specific technical requirements outlined in the job description, such as hands-on experience with modern frontend frameworks and testing methodologies.

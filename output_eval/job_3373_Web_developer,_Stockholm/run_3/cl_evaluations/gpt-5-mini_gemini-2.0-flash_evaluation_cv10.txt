@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has basic front-end skills (HTML/CSS/JavaScript) and Agile/testing exposure, but their experience is limited to AngularJS, jQuery and Java-based test automation. They provide no evidence of React or TypeScript, modern JS testing frameworks (Jest/Cypress/TestCafe), Node/npm ecosystem, Git/GitHub, modern CSS tools, or familiarity with security, CI/CD, or AWS/Terraform. While the academic background and willingness to learn are positives, the application lacks the specific, hands-on experience required for this role.

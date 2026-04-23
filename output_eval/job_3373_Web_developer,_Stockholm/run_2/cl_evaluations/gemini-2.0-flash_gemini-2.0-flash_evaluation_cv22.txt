@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is not directly related to frontend development, relying heavily on transferable skills. While they express interest in React, there's no stated hands-on experience with it or other modern FE frameworks listed in the job description. The cover letter focuses more on backend and database skills, which are not the primary focus of the Frontend Developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in graphic and web design, not front-end development. While they mention some HTML knowledge, they lack the required proficiency in JavaScript, TypeScript, modern FE frameworks like React, and testing methodologies. The letter relies heavily on their willingness to learn, which doesn't compensate for the significant skill gap.

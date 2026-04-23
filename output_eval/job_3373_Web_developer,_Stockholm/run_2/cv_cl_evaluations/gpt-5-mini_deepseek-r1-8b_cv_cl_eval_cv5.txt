@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong mainframe, backend and team leadership experience but lacks demonstrated hands‑on experience with the core front-end technologies required (React, TypeScript, modern JavaScript/HTML/CSS) and associated tooling (Node/npm, testing frameworks, Git workflows, CI/CD, web security). The resume only lists JavaScript peripherally and the cover letter states intent to learn rather than proven competency or projects. Overall relevant to software broadly but underqualified for this specific front-end role.

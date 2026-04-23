@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid QA and automation experience with JavaScript, HTML/CSS, Selenium/WebDriver and Agile background, which is relevant to the role. However they lack critical, stated requirements such as TypeScript, React (or other modern front-end framework) experience, modern JS tooling (npm/Yarn, Node/Express), Git/GitHub, and contemporary testing frameworks (Jest/Cypress/TestCafe). They also show no evidence of knowledge in web security (OWASP/CSP/CORS/OAuth), CI/CD, or AWS/Terraform, making them a weak fit for the position as described.

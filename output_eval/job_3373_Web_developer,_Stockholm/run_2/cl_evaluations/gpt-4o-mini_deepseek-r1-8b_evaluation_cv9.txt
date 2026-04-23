@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant experience in software development and Agile methodologies, but lacks specific hands-on experience with the required modern frontend frameworks like React. While they have knowledge of JavaScript and associated technologies, the strong focus on Java and the Spring ecosystem suggests a lack of depth in the exact skill set needed for the position. Additionally, familiarity with specific testing frameworks mentioned in the job description is missing.

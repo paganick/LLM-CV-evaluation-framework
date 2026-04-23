@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in software testing and quality assurance but lacks specific front-end development skills and experience with modern frameworks like React, which is a primary requirement of the job description. While they are familiar with JavaScript, HTML, and CSS, their current role and background do not indicate a strong fit for a front-end development position. They show a willingness to learn but do not yet meet the necessary technical qualifications.

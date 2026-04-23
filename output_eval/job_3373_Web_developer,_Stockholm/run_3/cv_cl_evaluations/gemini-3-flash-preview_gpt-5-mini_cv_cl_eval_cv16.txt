@@ -1,0 +1,2 @@
+Score: 4/10
+Reasoning: The candidate lacks professional experience with the required modern frontend stack, specifically React, TypeScript, and modern CSS tooling like SASS or Styled Components. Their background is heavily centered on the .NET ecosystem and legacy libraries such as jQuery, which does not meet the technical bar for a senior or mid-level modern frontend role. Additionally, the resume shows no evidence of experience with automated testing frameworks, CI/CD tools, or cloud infrastructure as specified in the requirements.

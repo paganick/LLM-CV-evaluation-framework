@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a solid foundation in core web technologies and relevant experience in software development, but lacks specific experience with the modern frameworks and libraries listed in the job description, particularly in TypeScript and other technologies like Styled Components and testing frameworks such as Jest. Although they have strong collaborative skills and a commitment to learning, the significant pivot from mainframe to frontend development raises concerns about their readiness for the role.

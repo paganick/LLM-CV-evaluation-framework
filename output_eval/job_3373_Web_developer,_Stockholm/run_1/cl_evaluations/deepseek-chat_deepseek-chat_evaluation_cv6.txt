@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has strong relevant industry experience and demonstrates proficiency in core required technologies like JavaScript, HTML, CSS, Git, and Agile collaboration. However, the cover letter lacks explicit mention of key job requirements such as React, TypeScript, modern testing frameworks (Jest, Cypress), and specific security knowledge. While they express motivation to learn the React stack, direct, hands-on experience with the primary framework is not confirmed.

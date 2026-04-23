@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a strong Java/JEE backend engineer with solid experience in REST APIs, OAuth2, TDD/BDD, CI and Git, but shows only minimal legacy JavaScript/HTML experience and no evidence of modern frontend skills (React, TypeScript, modern CSS tooling), frontend testing frameworks (Jest/Cypress/TestCafe), or Node/npm ecosystem experience. They meet some cross-cutting requirements like Agile and testing culture but lack the core, hands-on frontend stack required for this role.

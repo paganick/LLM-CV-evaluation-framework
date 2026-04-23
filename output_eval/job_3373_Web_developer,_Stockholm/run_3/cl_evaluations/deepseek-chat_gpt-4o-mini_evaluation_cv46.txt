@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry background and demonstrates some required soft skills, but lacks direct, hands-on experience with the core technologies specified, especially React, TypeScript, and modern front-end tooling. Their primary experience is in Java, not the JavaScript/TypeScript ecosystem, and they mention learning modern frameworks rather than having proven experience. While they address many job description themes, it is from a theoretical or aspirational perspective, not from demonstrated proficiency.

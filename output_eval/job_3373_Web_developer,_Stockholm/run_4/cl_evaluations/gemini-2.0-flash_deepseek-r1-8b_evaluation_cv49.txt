@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in data analysis, not frontend development. While they mention familiarity with Git and an interest in React, they lack demonstrable experience with core requirements like TypeScript, HTML, CSS, and testing frameworks. The letter focuses on transferable skills rather than direct experience in web development.

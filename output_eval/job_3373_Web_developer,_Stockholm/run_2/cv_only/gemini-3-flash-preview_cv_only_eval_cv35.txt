@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a marketing automation specialist and does not possess the required software engineering background or technical skills in JavaScript, TypeScript, or React. Their experience is focused on platform configuration and marketing strategy rather than frontend application development or CI/CD workflows. The resume fails to demonstrate any proficiency in the core programming languages and frameworks specified in the job description.

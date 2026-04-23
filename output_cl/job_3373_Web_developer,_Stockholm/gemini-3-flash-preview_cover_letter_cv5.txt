@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+With over seven years of extensive experience in analysis, design, and coding for enterprise-level application software, I am writing to express my strong interest in the Frontend Developer position. My background as an Associate Consultant, particularly within the banking and financial domains at HSBC and IBM, has equipped me with a deep understanding of complex system architectures and a genuine passion for writing (truly) clean, efficient code.
+
+Throughout my career, I have developed a robust foundation in programming logic and software development lifecycles. While my primary expertise has been in Mainframe systems, I have consistently maintained and utilized skills in HTML and JavaScript to bridge legacy data with modern interfaces. I am now transitioning my focus toward modern frontend ecosystems, specifically React, TypeScript, and the NodeJS environment. My experience managing large-scale databases like DB2 and handling end-to-end reengineering activities provides me with a unique perspective on how frontend applications interact with complex backends and APIs.
+
+I am highly comfortable working in Agile environments and have a proven track record of collaborating across teams to deliver high-quality solutions. Having led a team of seven, I value the importance of peer reviews, documentation, and mentorship. I am particularly interested in your use of React and functional programming with Ramda, as I enjoy the challenge of learning new technologies and applying them to solve real-world problems. My background in testing including unit, integration, and E2E testing aligns with your focus on automated quality assurance through tools like Jest, Cypress, and TestCafe.
+
+Furthermore, as an MBA graduate with a BE in Computer Science, I possess a unique blend of business acumen and technical expertise. This allows me to understand the broader domain impact while navigating various platforms from UNIX to Windows. I am eager to bring my analytical mindset to your team, supporting your transition away from Ruby and toward a more modern, scalable architecture utilizing AWS and CircleCI. Having successfully managed complex migrations for HSBC, I am confident my technical rigor and collaborative nature make me an excellent fit for your innovative organization. I look forward to discussing my skills and projects.
+
+Sincerely,
+Alexis

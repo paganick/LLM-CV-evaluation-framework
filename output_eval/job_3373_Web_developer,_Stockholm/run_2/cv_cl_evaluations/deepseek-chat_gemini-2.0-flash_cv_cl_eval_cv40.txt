@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in product management and marketing, not front-end development. The resume and cover letter show no hands-on experience with the required technologies like JavaScript, React, testing frameworks, or modern CSS tools. While they have worked in tech-adjacent roles, they are applying for a fundamentally different, highly technical position for which they are unqualified.

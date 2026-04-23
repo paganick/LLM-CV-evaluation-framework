@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate meets some of the industry qualifications and has experience in relevant areas such as data analysis and software development. However, they lack direct experience with TypeScript, the specific use of React, as well as familiarity with tools like ESLint and Prettier, which are essential as per the job description. Overall, while they demonstrate relevant skills, there are significant gaps that could hinder their success in this role.

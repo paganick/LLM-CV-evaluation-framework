@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a sales professional with no professional experience in software engineering, making them completely unqualified for a role requiring proficiency in React, TypeScript, and automated testing. While the cover letter mentions an interest in transitioning careers, the resume lacks any evidence of technical contributions, relevant project work, or professional development in the required tech stack. The candidate fails to meet every core technical requirement listed in the job description.

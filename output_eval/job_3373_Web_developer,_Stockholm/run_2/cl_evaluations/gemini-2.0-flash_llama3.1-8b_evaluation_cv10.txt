@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in software development and some alignment with the job description's technical requirements, particularly in JavaScript, HTML, CSS, and testing frameworks. They also highlight experience with Agile methodologies and a passion for clean code, aligning well with the job requirements. While they mention Angular, the job emphasizes React, and they lack explicit mentions of TypeScript or deeper understanding of web security principles beyond basic knowledge.

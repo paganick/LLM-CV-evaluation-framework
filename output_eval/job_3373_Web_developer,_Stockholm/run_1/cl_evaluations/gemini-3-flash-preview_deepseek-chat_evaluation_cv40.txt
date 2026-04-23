@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive industry experience at a leadership level, they lack recent professional hands-on experience as a dedicated Front-End Developer. The cover letter indicates a career pivot, meaning they lack the proven, production-level expertise in functional programming, CI/CD, and comprehensive test automation required for this role. As a result, the candidate does not meet the technical seniority or specific skill benchmarks expected for an individual contributor position.

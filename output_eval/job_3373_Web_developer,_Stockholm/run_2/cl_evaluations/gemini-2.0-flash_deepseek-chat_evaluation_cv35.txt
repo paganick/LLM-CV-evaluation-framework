@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate highlights relevant experience with HTML, CSS, JavaScript and Agile environments. However, they do not explicitly mention React or other modern FE frameworks stated as a requirement. Their experience is adjacent to the target role, but lacking in core framework expertise.

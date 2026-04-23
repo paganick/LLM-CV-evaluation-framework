@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily business development with only minimal technical exposure (HTML, C, C++) and no demonstrated hands-on experience in JavaScript/TypeScript, React, modern CSS tools, testing frameworks, or the NodeJS ecosystem required for this front-end role. While they express willingness to learn and have some transferable collaboration skills, they do not meet the core technical requirements and therefore are not qualified for this position.

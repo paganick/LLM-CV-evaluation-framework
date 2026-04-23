@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume identifies them primarily as a Project Manager rather than a dedicated Frontend Engineer, with recent experience focused on management and SEO rather than technical implementation. There is a significant lack of professional evidence for core requirements such as TypeScript, React, and automated testing frameworks in their work history. Although the cover letter claims these skills, the resume does not substantiate hands-on professional expertise in the specific modern stack requested.

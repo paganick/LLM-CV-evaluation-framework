@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience in software development and web design, but their skills are heavily focused on legacy .NET stack (C#, ASP.NET, VB) with only brief mentions of AngularJS and jQuery. They lack direct experience with the core requirements: React, TypeScript, modern testing frameworks (Jest, Cypress), modern CSS tools (Styled Components, SASS), and functional programming (Ramda). Their experience with Agile and Git is a positive, but the overall technical fit for this specific front-end role is weak.

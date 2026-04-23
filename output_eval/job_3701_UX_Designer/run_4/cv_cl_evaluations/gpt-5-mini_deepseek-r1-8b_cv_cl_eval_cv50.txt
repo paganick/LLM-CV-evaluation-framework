@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a senior system architect with extensive technical and product leadership experience but provides no demonstrated commercial UX design experience, no mention of Figma or prototyping, and no evidence of user research or UI design system work. There is also no clear experience working in an Agile UX team or with front-end technologies (HTML/CSS/JS) or running UX-specific workshops. While leadership and product delivery skills are strong, they do not meet the core, required UX design competencies for this role.

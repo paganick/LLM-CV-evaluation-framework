@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate has extensive mainframe and backend experience but lacks required hands-on frontend skills (React, TypeScript, modern CSS, frontend testing frameworks, Node/npm/Yarn, Git workflows, CI/CD, and web security knowledge). Their resume only shows minimal HTML/JavaScript familiarity and the cover letter expresses willingness to learn, which is insufficient for this production frontend role. Significant retraining and practical experience in the stated technologies would be necessary before they could be considered a fit.

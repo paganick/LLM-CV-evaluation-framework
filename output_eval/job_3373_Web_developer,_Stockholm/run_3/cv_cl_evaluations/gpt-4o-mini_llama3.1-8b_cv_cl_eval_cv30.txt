@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in data analysis and programming with languages like C#, ASP.NET, and JavaScript; however, they lack direct experience with modern frontend frameworks like React and testing frameworks relevant to the job description. While their background in quality assurance and Agile collaboration is valuable, the absence of specific skills in React and test automation tools limits their fit for this role.

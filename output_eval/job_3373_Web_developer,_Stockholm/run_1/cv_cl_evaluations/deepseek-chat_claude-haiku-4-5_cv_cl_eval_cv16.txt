@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is in a different tech stack (.NET, ASP.NET) and lacks direct, professional experience with the required modern front-end frameworks like React, TypeScript, and the specific testing, CSS, and tooling listed. While they demonstrate relevant foundational web skills (JavaScript, HTML, CSS) and Agile experience, they are missing the core, hands-on expertise the role demands. The cover letter attempts to bridge the gap but does not provide evidence of proficiency in the key technologies.

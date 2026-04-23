@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a QA professional, whereas the job description specifically requires a Frontend Developer proficient in React, TypeScript, and modern web frameworks. The applicant lacks experience with the primary tech stack, including Node.js, AWS, and modern testing tools like Cypress or Jest. Furthermore, the candidate's professional experience appears significantly outdated, with no listed roles past 2015.

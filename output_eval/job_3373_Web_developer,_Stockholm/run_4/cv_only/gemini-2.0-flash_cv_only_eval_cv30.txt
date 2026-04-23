@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume focuses on data analysis, SQL, and statistical modeling, which are not aligned with the front-end development skills (JavaScript, React, HTML, CSS) emphasized in the job description. While the candidate mentions HTML and ASP.NET, the depth and relevance to modern front-end frameworks are insufficient. The resume lacks evidence of experience with testing frameworks, CI/CD tools, or other technologies listed in the job description.

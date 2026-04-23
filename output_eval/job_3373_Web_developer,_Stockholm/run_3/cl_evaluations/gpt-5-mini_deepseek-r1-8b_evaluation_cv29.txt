@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development, sales, and marketing rather than front-end engineering, and the cover letter contains no evidence of the required technical skills (JavaScript/TypeScript, React, testing frameworks, Node.js, AWS, Terraform, etc.). There is no portfolio, coding experience, or technical accomplishments that align with the job description, indicating a clear mismatch with the role's core requirements. Given the role is technical and hands-on, this candidate is completely unqualified for the position.

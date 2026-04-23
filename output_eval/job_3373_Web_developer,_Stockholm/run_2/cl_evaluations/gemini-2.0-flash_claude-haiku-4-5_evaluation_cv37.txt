@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The cover letter highlights leadership and strategic planning experience, which aren't the primary focus of a frontend developer role. While it mentions exposure to development methodologies and the importance of clean code, it lacks concrete examples of hands-on coding experience with the specific technologies listed in the job description (React, TypeScript, etc.). The letter focuses more on team management and understanding ecosystems, rather than demonstrating proficiency in the required technical skills.

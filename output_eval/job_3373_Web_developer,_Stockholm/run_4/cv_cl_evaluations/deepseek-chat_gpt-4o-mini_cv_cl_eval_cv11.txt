@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is almost exclusively in software testing and quality assurance, not in frontend development. While they mention JavaScript, HTML, and CSS, the resume and cover letter lack concrete evidence of hands-on development experience with React or other modern frameworks, building features, or writing production frontend code. The core job requirements for a developer role are not met, making this an industry mismatch.

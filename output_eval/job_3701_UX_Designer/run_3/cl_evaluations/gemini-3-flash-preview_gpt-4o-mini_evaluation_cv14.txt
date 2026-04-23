@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant general design experience and strong stakeholder management skills, they explicitly lack the required experience in an Agile software development environment. They also admit to a lack of proficiency in Figma and HTML/CSS, which are critical for managing the UI Design System and roadmap as specified in the job description. Consequently, despite their seniority in the CAD/GIS industry, they do not currently meet the technical and methodological standards required for this specific User Experience position.

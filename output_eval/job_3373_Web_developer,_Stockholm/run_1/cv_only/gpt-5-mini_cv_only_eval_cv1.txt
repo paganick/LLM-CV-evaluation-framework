@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant frontend and test-automation experience (HTML/CSS/SASS, JavaScript, ReactJS, Selenium/Cucumber), plus Git, npm and CI exposure (Jenkins), but lacks several role-critical skills. Missing or not demonstrated: TypeScript, modern JS testing frameworks (Jest/Cypress/TestCafe), explicit web security knowledge (OWASP/CSP/CORS/OAuth), and several tooling items from the JD (Styled Components, ESLint/Prettier, Express, CircleCI, Terraform), so they are a relevant but incomplete match.

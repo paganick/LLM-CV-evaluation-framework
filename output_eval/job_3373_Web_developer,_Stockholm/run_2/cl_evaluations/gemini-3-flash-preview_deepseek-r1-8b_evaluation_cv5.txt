@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks any professional experience with the required modern web stack, including JavaScript, TypeScript, and React, as their entire background is in legacy mainframe systems. While they demonstrate transferable experience in Agile leadership and the banking industry, they fail to meet the essential "hands-on experience" requirements for frontend development and modern security protocols. This application reflects a career-pivot attempt rather than a qualified match for the technical specifications of the role.

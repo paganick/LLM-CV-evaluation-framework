@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume focuses on systems administration, infrastructure maintenance, and help desk support, which are not aligned with the front-end development focus of the job description. There is no mention of JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), HTML, CSS, or testing frameworks. The skills listed are primarily related to system administration, not software development.

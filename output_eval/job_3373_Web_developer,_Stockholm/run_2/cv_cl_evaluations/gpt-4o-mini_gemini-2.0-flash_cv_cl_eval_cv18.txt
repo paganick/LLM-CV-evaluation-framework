@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a strong background in IT and web development but lacks specific experience with modern front-end frameworks, particularly React, which is essential for the position. While they mention JavaScript, HTML, and CSS proficiency, their experience does not extensively cover testing frameworks, CI/CD tools, or key modern CSS tools outlined in the job description, making them a relevant but not a fully qualified candidate.

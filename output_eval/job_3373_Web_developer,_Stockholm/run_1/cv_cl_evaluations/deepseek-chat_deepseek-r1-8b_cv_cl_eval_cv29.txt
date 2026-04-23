@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in business development, sales, and marketing, with no demonstrated experience in software development or the technical skills required by the job description. The role demands expertise in JavaScript, React, testing, Git, and modern web development tooling, which are entirely absent from the candidate's resume and cover letter. This is a complete mismatch for a technical front-end engineering position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant academic background and industry experience but lacks the specific TypeScript expertise explicitly required for the role. Their professional history is primarily centered on Quality Assurance, which does not fully satisfy the requirement for professional software development experience. Additionally, the application fails to address several key technical areas, including the NodeJS ecosystem, functional programming, and modern CSS tools.

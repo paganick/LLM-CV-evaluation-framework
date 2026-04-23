@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the essential tech stack, including React, TypeScript, and modern CSS, which are mandatory for this position. While the applicant possesses strong analytical skills from mainframe development, they do not demonstrate hands-on proficiency with testing frameworks, web security, or the Node.js ecosystem. This profile represents a career transitioner who does not meet the technical requirements for an immediate frontend contributor role.

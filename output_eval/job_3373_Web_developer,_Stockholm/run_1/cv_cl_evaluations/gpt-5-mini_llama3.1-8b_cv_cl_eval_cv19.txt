@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's resume demonstrates strong graphic design and basic HTML/CSS skills but shows no verifiable experience with JavaScript/TypeScript, React, front-end testing, Node/npm, Git, security practices, or CI/CD which are core to this role. The cover letter asserts familiarity with many developer tools and frameworks, but those claims are not supported by the resume or work history. Based on the job requirements, the candidate is not qualified for this front-end developer position.

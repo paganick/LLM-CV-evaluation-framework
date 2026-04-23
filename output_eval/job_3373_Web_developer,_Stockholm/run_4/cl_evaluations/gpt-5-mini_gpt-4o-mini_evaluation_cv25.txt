@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant experience in HTML/CSS, design, collaboration, Git, and basic web security awareness, which align with parts of the role. However they explicitly report limited JavaScript/React experience and do not demonstrate proficiency with TypeScript, modern CSS tooling, testing frameworks (Jest/Cypress), Node/npm, CI/CD, Ramda, or AWS/infra—core requirements for this position. While motivated to learn, they currently lack several essential technical skills to be considered a strong match.

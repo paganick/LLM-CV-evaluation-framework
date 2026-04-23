@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience with the modern JavaScript ecosystem, specifically React and TypeScript, which are central requirements for this role. Their work history is heavily focused on legacy technologies like PHP, Perl, and C++, with no documented evidence of using modern frontend testing frameworks, CI/CD tools, or cloud infrastructure like AWS and Terraform. While they have a foundational engineering background, they do not possess the specific technical skills required for a modern React-based environment.

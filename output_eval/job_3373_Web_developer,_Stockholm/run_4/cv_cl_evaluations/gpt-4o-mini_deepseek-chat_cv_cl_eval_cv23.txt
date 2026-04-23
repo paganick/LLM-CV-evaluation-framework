@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in engineering and testing but lacks direct experience in front-end development and modern frameworks such as React, VueJS, and others specified in the job description. While they demonstrate some familiarity with JavaScript and testing processes, their skill set does not fully align with the requirements for a front-end developer position. Additionally, knowledge of modern CSS tools, CI/CD, and API design is absent.

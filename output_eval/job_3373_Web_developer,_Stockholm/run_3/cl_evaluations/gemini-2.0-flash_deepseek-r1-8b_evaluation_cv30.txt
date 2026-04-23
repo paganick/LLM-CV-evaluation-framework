@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate focuses heavily on data analysis and backend experience, which is not the focus of the role. While adaptability and a willingness to learn are mentioned, the cover letter lacks concrete examples of front-end skills or projects aligning with the job description's required technologies like React, TypeScript, or specific testing frameworks. The candidate's background doesn't reflect the required hands-on experience.

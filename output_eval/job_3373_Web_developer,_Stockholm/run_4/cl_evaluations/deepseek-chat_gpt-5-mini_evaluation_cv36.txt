@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in an unrelated field (microbiology/validation consulting) with zero demonstrated front-end engineering experience. While they highlight transferable soft skills like testing discipline and collaboration, they lack any proven technical skills in JavaScript, React, HTML/CSS, or the other core technologies listed. Their value proposition is based entirely on a willingness to learn, not on current capability, making them unqualified for the role as advertised.

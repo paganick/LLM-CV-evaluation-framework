@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, relevant match to the core technical requirements, including React, TypeScript, testing, security, and Agile collaboration. The systems engineering background provides a unique, valuable perspective on stability and performance that exceeds the base expectations. The letter lacks explicit mention of some listed tools like Styled Components, SASS, and specific CI/CD tools, preventing a perfect score.

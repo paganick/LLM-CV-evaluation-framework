@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's professional experience is heavily focused on legacy .NET technologies and jQuery, lacking any documented professional experience with React, TypeScript, or modern frontend frameworks required. The resume is significantly outdated, with the last recorded experience ending in 2016, and fails to demonstrate proficiency in the modern CSS tools, testing suites, or functional programming paradigms specified in the job description.

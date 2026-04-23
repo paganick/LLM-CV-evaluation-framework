@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in IT project management and infrastructure, not front-end software development. The cover letter claims proficiency in JavaScript, React, and testing frameworks, but these skills are completely absent from the resume, which details experience with ERP, facilities management, and access control systems. This is a severe mismatch for a role requiring hands-on coding in modern front-end frameworks and test automation.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience with JavaScript and HTML, but lacks the required modern FE frameworks (React, VueJS, Angular, Svelte). Their experience is primarily in Java/JEE development. The resume does not demonstrate sufficient experience with modern CSS tools, testing frameworks, or CI/CD tools mentioned in the job description.

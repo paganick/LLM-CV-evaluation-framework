@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant creative industry experience and demonstrates transferable soft skills, but critically lacks the required hands-on technical proficiency. The letter explicitly states only a "foundational knowledge of HTML" and no practical experience with JavaScript, TypeScript, React, testing frameworks, Git, or other core technologies from the job description. While motivated to learn, the application is based on potential, not proven capability, for a role demanding specific, current technical skills.

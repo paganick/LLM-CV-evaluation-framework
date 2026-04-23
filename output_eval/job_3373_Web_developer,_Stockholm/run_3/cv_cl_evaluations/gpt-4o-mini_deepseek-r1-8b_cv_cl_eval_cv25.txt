@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in graphic design and some familiarity with HTML, CSS, and SASS, but they lack experience with essential JavaScript frameworks such as React and do not demonstrate any hands-on experience with testing automation or CI/CD tools. Additionally, their experience seems primarily focused on visual design rather than front-end development, which limits their fit for the position.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive experience, but the cover letter highlights experience as a Performing Arts Director, which is not directly relevant to digital sales or the specified technology areas. While transferable skills are mentioned, the lack of explicit digital solution sales experience and the unusual work history raise concerns about direct applicability to the role's technical requirements. There is limited concrete evidence of experience with API, Cloud, DevOps, Microservices, BigData, Data Science, or UX/UI, as requested in the job description.

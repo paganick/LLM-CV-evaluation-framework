@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career Project Manager and IT Director whose professional history is focused on infrastructure, budgeting, and management rather than hands-on software engineering. While the cover letter mentions relevant technologies like React and TypeScript, the resume provides zero evidence of professional experience or technical proficiency in these areas. There is a fundamental misalignment between the candidate's executive-level background and the specific front-end development requirements outlined in the job description.

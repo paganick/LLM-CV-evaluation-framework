@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in program management and educational roles but lacks the requisite technical skills and experience specifically related to JavaScript, modern front-end frameworks like React, and testing frameworks mentioned in the job description. Their background in cognitive science and learning design does not align with the technical demands of the role. Additionally, there is no mention of experience with Git or security practices relevant to web development.

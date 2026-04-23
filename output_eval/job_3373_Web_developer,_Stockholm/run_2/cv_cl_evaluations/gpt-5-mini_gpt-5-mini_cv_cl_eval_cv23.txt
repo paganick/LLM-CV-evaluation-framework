@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong hardware/QA and some JavaScript familiarity plus demonstrated testing discipline and cross-functional collaboration, but does not show hands-on experience with core front-end requirements (React, TypeScript, HTML/CSS, modern CSS tools), common web tooling (Git, Node/npm, CI/CD), or frontend testing frameworks (Jest/Cypress). Significant upskilling would be required before they could contribute to a React-based frontend team.

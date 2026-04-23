@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in design and user experience, which is relevant to the front-end development position. However, they lack specific experience with modern front-end frameworks like React, testing frameworks, and a deeper understanding of JavaScript and TypeScript, which are essential for the role. Overall, while they have some relevant skills, they do not meet the more technical requirements necessary for this position.

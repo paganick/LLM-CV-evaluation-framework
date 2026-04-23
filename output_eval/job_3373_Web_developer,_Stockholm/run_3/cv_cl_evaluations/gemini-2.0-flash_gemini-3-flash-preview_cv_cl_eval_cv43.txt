@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in program management and learning design, lacking concrete experience in frontend development technologies like React, TypeScript, HTML, and CSS. While the cover letter expresses interest in these technologies, the resume doesn't reflect practical application. The candidate mentions R studio, which is not relevant to the job description's focus on web development.

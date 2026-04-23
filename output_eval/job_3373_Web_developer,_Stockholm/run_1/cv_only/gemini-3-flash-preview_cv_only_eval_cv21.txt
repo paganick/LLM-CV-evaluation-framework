@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in web development and Agile environments, their technical profile is heavily centered on legacy .NET, jQuery, and AngularJS rather than the required modern React/TypeScript ecosystem. They lack the specific experience requested for modern testing frameworks (Jest, Cypress), CI/CD tools, AWS, and functional programming libraries like Ramda. The candidate is primarily a full-stack Microsoft-oriented developer and does not meet the specialized frontend requirements for this role.

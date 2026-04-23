@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant technical experience and mentions several technologies listed in the job description. However, their experience is heavily weighted towards hardware and testing rather than the core front-end skills (React, JavaScript, HTML, CSS) emphasized in the job description. While they express eagerness to learn, the cover letter doesn't showcase sufficient practical experience with the primary required skills.

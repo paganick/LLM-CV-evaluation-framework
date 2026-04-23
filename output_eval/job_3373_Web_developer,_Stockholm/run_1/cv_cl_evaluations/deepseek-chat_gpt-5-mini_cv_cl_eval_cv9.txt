@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in Java/JEE backend development, which is not aligned with the front-end and React-focused role. While they demonstrate strong testing discipline and mention some relevant tools (JavaScript, Git, OAuth), they lack hands-on experience with the required modern FE frameworks (React, Vue, Angular, Svelte), TypeScript, and key technologies like Styled Components, SASS, and Node.js. Their enthusiasm and transferable skills are noted, but the specific technical fit for this front-end position is weak.

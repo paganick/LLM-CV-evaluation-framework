@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates proficiency in JavaScript, HTML, CSS, and ReactJS, aligning with the job description's core requirements. However, the resume focuses more on Java/J2EE and lacks explicit mention of TypeScript and deeper expertise in modern front-end testing frameworks or CI/CD tools mentioned in the job description. The candidate also has very little experience as an intern, which may make them less qualified.

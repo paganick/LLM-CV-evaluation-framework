@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in IT and holds relevant leadership experience, but lacks the specific frontend development skills and technologies mentioned in the job description, such as JavaScript, React, modern CSS tools, testing frameworks, and familiarity with the NodeJS ecosystem. Their experience is more focused on IT program management rather than hands-on frontend development, which is essential for this role.

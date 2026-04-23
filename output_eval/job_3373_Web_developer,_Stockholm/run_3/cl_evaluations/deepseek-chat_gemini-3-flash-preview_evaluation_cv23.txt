@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry exposure and demonstrates strong transferable skills, but lacks direct, hands-on experience in core frontend development with React and TypeScript. The letter heavily emphasizes testing and hardware-adjacent experience, while only mentioning key required technologies like React, TypeScript, and modern CSS tools in passing as interests or familiarity. Critical requirements like security knowledge, functional programming, and specific tool experience (ESLint, Prettier, AWS, Terraform) are not addressed.

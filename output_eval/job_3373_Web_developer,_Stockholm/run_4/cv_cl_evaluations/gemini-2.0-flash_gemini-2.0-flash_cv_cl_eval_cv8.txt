@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in test engineering and electronics manufacturing, not front-end development. While they express interest in React and web security concepts, they lack demonstrable experience with JavaScript, TypeScript, HTML, CSS, modern FE frameworks, and testing frameworks mentioned in the job description. Their cover letter acknowledges a desire to transition, highlighting a gap in relevant skills.

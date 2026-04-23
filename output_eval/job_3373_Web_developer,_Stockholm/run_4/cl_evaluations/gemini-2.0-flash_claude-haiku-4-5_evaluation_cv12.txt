@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience with JavaScript, HTML, CSS, React, Git, and testing, aligning well with the job description. They also mention SASS and Agile methodologies, which are beneficial. While they don't explicitly list all testing frameworks mentioned in the job description, their experience seems sufficient.

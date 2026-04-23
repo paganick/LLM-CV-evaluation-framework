@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant industry experience and mentions core web technologies, but the resume lacks direct, verifiable experience with React, TypeScript, or modern front-end frameworks as required. While the cover letter claims alignment, the resume details a background primarily in C#, .NET, and Python for internal systems, with no mention of testing frameworks, CI/CD, or modern CSS tools specified in the job description. The candidate shows potential but lacks the specific, hands-on experience with the core tech stack.

@@ -1,0 +1,2 @@
+Score: [3]
+Reasoning: The candidate's resume and cover letter highlight experience in fields unrelated to front-end development. While she mentions HTML and web design skills, there's no evidence of proficiency in JavaScript, TypeScript, React, or other technologies listed in the job description. The candidate's background is primarily in administrative, artistic, and managerial roles, lacking the necessary technical foundation for this position.

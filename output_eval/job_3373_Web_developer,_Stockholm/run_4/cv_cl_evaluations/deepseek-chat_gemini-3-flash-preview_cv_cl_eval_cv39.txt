@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's extensive background is in graphic and product design, not professional software development. The resume and cover letter lack any demonstrable, hands-on experience with the core technologies required (JavaScript, TypeScript, React, testing frameworks, Git, etc.), presenting only tangential HTML/CSS knowledge. While the candidate expresses interest, they do not meet the fundamental technical qualifications for a frontend developer role.

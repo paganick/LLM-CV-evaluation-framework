@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The résumé reflects a 7+ year mainframe/COBOL/DB2 background with only incidental HTML and JavaScript listed and no demonstrable experience in React, TypeScript, modern CSS tooling, Node/npm, testing frameworks, Git, CI/CD or cloud technologies required for this frontend role. This is effectively a different industry/skillset and does not meet core technical requirements. The candidate would require significant retraining and hands-on experience to be considered for the position.

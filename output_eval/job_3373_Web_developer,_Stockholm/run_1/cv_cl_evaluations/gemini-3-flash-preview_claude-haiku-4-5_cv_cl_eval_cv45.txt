@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks any professional experience or documented proficiency in the core technologies required, specifically JavaScript, TypeScript, and React. While they have an extensive background in IT security and infrastructure management, they provide no evidence of having built or maintained web applications. Consequently, they do not meet the minimum technical requirements for a frontend developer position.

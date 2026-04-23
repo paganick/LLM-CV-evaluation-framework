@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified for this front-end engineering role—their resume documents 20 years in finance and operations with no verifiable experience in JavaScript/TypeScript, React, testing frameworks, Node, CI/CD, or Git-based software development. The cover letter asserts front-end skills, but these claims are unsupported and inconsistent with the career history presented. Given the fundamental skills mismatch, the candidate does not meet the job requirements.

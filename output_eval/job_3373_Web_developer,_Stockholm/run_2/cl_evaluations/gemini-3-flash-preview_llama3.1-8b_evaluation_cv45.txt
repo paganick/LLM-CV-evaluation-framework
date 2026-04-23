@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's 15-year background is focused on high-level IT management, cybersecurity, and DoD infrastructure, which is a poor match for a hands-on front-end developer role. While the letter lists the required technical keywords, there is no evidence of practical, professional experience building applications with React, TypeScript, or modern CSS tools. The profile reflects a senior administrator or security specialist rather than a software engineer dedicated to writing clean, functional code in an Agile environment.

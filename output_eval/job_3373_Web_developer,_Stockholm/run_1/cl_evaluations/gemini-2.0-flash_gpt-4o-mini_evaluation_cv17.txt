@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a background in project management, which is a significant shift from front-end development. While they express interest and foundational knowledge in relevant technologies, the lack of direct experience with modern CSS tools and testing frameworks, coupled with a primary background outside software engineering, raises concerns about their immediate readiness for the role. Their understanding of Agile and CI/CD is theoretical rather than practically demonstrated in a development context.

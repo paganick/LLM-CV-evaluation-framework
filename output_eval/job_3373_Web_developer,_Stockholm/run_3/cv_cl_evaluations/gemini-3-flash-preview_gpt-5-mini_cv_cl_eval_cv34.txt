@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is entirely unqualified for a front-end engineering role, lacking professional experience in JavaScript, TypeScript, and modern frameworks like React. Their background is in digital marketing implementation and project management, and they explicitly state in the cover letter that they are looking to begin learning the core technologies required for this position. There is no evidence of the required expertise in automated testing frameworks, web security, or CI/CD tools mentioned in the job description.

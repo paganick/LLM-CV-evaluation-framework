@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong product management, Agile leadership, and cross-team collaboration, which are relevant to the organization, but provides no evidence of hands-on front-end development skills (JavaScript/TypeScript, React), testing frameworks, NodeJS/npm/Yarn, modern CSS tools, or web security knowledge required by the role. Because the job is a technical front-end engineering position, the lack of explicit technical experience and tooling familiarity makes them an insufficient match for this role.

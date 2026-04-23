@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career graphic designer with an extensive background in print and visual arts, which is the wrong industry for this software engineering role. The resume lacks any professional evidence of experience with JavaScript, TypeScript, React, or modern frontend testing and CI/CD workflows. Despite mentioning these technologies in the cover letter, the candidate’s professional history and skill set do not meet the technical requirements of the position.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web technologies and database management, which aligns with some aspects of the job description. However, they lack specific experience with modern frontend frameworks like React and knowledge of security practices on the Web. Additional skills in Ruby and AWS, as mentioned in the job description, are also missing.

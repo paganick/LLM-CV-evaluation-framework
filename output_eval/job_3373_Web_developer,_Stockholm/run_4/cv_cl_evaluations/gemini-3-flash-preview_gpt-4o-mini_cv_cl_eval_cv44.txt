@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a designer whose professional experience focuses on presentations, multimedia, and UI/UX rather than modern software engineering. While they possess a Computer Science degree, the resume lacks any evidence of professional experience with the required stack, specifically React, TypeScript, and automated testing frameworks like Jest or Cypress. The candidate's background is too design-centric to meet the technical demands of this specialized front-end development role.

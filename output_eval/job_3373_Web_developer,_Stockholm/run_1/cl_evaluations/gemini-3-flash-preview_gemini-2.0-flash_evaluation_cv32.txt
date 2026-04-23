@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate is transitioning from an unrelated industry and lacks any professional experience in software development. While they mention learning the core technology stack, they fail to demonstrate the required hands-on experience with testing, security protocols, CI/CD tools, or complex architecture mentioned in the job description. This application does not meet the minimum technical requirements for a professional front-end role.

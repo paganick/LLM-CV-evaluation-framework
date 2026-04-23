@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Frontend Developer position at your organization. While my background is rooted in data analytics and systems engineering, I am making a deliberate career transition into frontend development, driven by a passion for building intuitive user interfaces and a commitment to continuous learning in this dynamic field.
+
+My technical foundation provides a unique advantage for this role. My experience with Python, SQL, and database management demonstrates strong logical thinking and problem-solving abilities that transfer seamlessly to JavaScript and TypeScript development. I have hands-on experience with data visualization tools and understand the importance of clean, efficient code—a principle I am eager to apply to React development and modern frontend frameworks.
+
+I am actively developing expertise in the core technologies your team values. My analytical background has equipped me with a methodical approach to learning, currently focusing on JavaScript, HTML, CSS, and React. I am committed to mastering testing frameworks such as Jest and Cypress, understanding that robust testing is fundamental to quality software development. My experience with version control through data science projects has introduced me to Git workflows, and I am eager to deepen this knowledge within a professional environment.
+
+What distinguishes me as a candidate is my genuine passion for clean code and my proven ability to work collaboratively in structured environments. My role as Student Manager demonstrates my comfort with team interaction and my capacity to mentor others. Additionally, my background in Lean Six Sigma and DMAIC methodology reflects my systematic approach to problem-solving and continuous improvement—qualities that align perfectly with Agile team environments.
+
+I am genuinely committed to understanding not just frontend technologies, but also how they integrate with backend systems, APIs, and broader platform architecture. This perspective, combined with my eagerness to stay current with emerging technologies and my collaborative mindset, will enable me to contribute meaningfully to your team from day one.
+
+I am excited about the opportunity to bring my analytical rigor, problem-solving skills, and genuine enthusiasm for clean code to your organization. I would welcome the chance to discuss how my unique background and dedication to frontend development can add value to your team.
+
+Sincerely, Alexis

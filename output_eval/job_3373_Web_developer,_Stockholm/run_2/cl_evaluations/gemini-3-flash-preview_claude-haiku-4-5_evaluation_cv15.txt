@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate demonstrates a professional background in IT and core web fundamentals, they explicitly admit to a lack of experience with the mandatory tech stack, including React, TypeScript, and testing frameworks. As a strict recruiter, the candidate's need for training on primary requirements outweighs their previous experience in legacy technologies and general IT management. Their inability to demonstrate current proficiency in the specific modern tools requested makes them an underqualified applicant for this specific role.

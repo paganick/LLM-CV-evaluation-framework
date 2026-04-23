@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates extensive industry experience and a strong grasp of software engineering fundamentals like CI/CD, testing, and clean code. However, they fail to mention TypeScript—a primary requirement—and explicitly frame React and modern CSS workflows as growth areas rather than established professional skills. While the candidate is a seasoned professional, the lack of hands-on expertise in the core tech stack makes them a risky fit for a specialized role.

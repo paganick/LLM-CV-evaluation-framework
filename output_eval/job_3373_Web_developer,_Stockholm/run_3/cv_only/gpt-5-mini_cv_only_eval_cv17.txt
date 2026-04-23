@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume is exclusively construction and civil engineering/project management with no evidence of JavaScript, TypeScript, React, web testing, Git, Node.js, or cloud/DevOps experience required by the role. There is a complete industry and skillset mismatch with no transferable frontend or web-security experience shown. This candidate is not qualified for the advertised frontend engineering position.

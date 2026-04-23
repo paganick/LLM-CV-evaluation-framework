@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements, including React, TypeScript, testing, and the modern toolchain. However, the cover letter fails to address several key requirements from the job description, such as basic web security knowledge (OWASP, CORS), AWS/Terraform, and Ruby. The extensive sales background, while impressive, is not directly relevant to the technical role and does not compensate for these specific gaps.

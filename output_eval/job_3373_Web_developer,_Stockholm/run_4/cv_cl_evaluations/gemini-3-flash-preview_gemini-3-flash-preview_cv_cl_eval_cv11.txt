@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate possesses a strong background in software testing and quality assurance, they lack professional experience in front-end development using React, TypeScript, and modern CSS tools. Their technical history is focused on automation scripting and manual testing rather than building and maintaining complex web applications as required by the software engineer role. Furthermore, there is no evidence of hands-on experience with the requested backend ecosystem (Node.js, Express) or cloud infrastructure (AWS, Terraform).

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a legacy systems specialist whose experience in IBM Mainframe, COBOL, and JCL is fundamentally mismatched with the modern frontend stack required. Although they mention JavaScript and HTML, they lack any documented experience with the primary requirements of React, TypeScript, CSS, or modern testing frameworks like Jest and Cypress. This profile represents a significant technical gap between backend mainframe administration and the modern web development expertise demanded by the role.

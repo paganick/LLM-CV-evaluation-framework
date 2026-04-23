@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate highlights UX/UI design experience more than front-end development. While they mention relevant technologies like HTML, CSS, and JavaScript, the letter focuses on design tools and methodologies rather than hands-on coding and testing experience, which are key requirements. The letter also acknowledges a lack of strong experience with testing frameworks and E2E tests which is important.

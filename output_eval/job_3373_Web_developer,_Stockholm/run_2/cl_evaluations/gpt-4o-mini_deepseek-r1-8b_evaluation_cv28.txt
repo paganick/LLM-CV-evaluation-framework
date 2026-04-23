@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in data analysis and quality assurance, but lacks direct experience with key technologies like JavaScript, TypeScript, and modern frontend frameworks such as React, which are critical for the role. Additionally, their knowledge of testing frameworks and advanced build tools is limited, which further diminishes their suitability for this position. While they express a willingness to learn, the gap in essential skills is significant.

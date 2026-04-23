@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates an excellent theoretical alignment with the required tech stack, specifically mentioning React, TypeScript, and niche requirements like Ramda and OWASP. However, they are a career switcher with no professional history in software engineering, meaning their technical skills have not been proven in a commercial production environment. While their leadership and project management background is strong, the lack of professional developer tenure makes them a higher-risk candidate.

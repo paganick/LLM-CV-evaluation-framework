@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has extensive professional experience in software development, their background is heavily rooted in backend Java/J2EE rather than the modern frontend stack required. They lack professional experience with React and TypeScript, identifying these as areas for growth rather than established competencies. Furthermore, their experience with legacy tools like jQuery and Struts does not align with the modern engineering standards and specific testing frameworks requested in the job description.

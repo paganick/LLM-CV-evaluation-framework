@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: Alexis demonstrates proficiency in the core technical stack, specifically React, TypeScript, and various testing frameworks required for the role. They also show valuable experience with infrastructure tools like AWS and Terraform which were listed as desirable. However, the candidate fails to address specific requirements regarding web security knowledge and functional programming, while the mention of legacy EJB platforms suggests a background that may not be exclusively focused on modern front-end development.

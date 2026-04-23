@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has substantial experience in product management and some exposure to frontend technologies, they lack direct hands-on experience with the required programming languages and frameworks such as JavaScript, TypeScript, and React. Their background in product strategy and management may not sufficiently translate to the technical requirements outlined in the job description for a frontend engineer role.

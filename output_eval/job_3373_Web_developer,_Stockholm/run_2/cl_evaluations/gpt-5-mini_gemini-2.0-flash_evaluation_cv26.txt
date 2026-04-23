@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates strong transferable soft skills (communication, collaboration, project coordination) but provides no concrete evidence of the required technical skills (JavaScript/TypeScript, React, testing, Git, modern CSS tooling, Node ecosystem, or web security). Their stated eagerness to learn is positive but insufficient for a role that requires hands-on experience with the listed technologies. Significant upskilling or demonstrated project experience would be needed before they meet this position's minimum technical requirements.

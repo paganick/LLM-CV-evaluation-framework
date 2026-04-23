@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks every mandatory technical skill required for the role, including JavaScript, TypeScript, React, and modern CSS tools. Their decade of professional experience is entirely within hardware electronics and electrical test engineering, which is the wrong industry for a frontend development position. Despite having general automation experience in Python, they possess no professional background in web technologies or the modern frontend ecosystem.

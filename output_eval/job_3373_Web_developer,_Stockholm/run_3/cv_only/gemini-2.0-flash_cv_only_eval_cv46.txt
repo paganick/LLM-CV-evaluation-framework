@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some relevant skills like JavaScript and HTML, but lacks experience with modern FE frameworks (React, VueJS, Angular, Svelte). Their experience is dated, and the resume doesn't showcase the required depth in testing, CI/CD, or cloud technologies. The listed skills are too broad and don't demonstrate expertise in the specific technologies mentioned in the job description.

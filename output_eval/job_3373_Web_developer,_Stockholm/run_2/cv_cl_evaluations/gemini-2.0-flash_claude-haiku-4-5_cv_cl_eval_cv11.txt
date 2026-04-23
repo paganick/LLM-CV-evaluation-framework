@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not frontend development. While they mention JavaScript, HTML, and CSS, the resume lacks concrete examples of building and maintaining frontend applications using modern frameworks like React, which is a key requirement. The cover letter expresses interest in transitioning to a development role, indicating a lack of direct experience.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has very limited frontend skills. While they express interest in learning React and other modern tools, their experience is primarily in marketing, analytics, and database management, not frontend development. Their listed skills in HTML and CSS are too basic relative to the job description.

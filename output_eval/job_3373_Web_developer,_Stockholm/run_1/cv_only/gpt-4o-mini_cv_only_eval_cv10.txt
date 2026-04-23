@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some experience with Java and client-side technologies such as AngularJS and jQuery, but lacks proficiency in the required modern frameworks like React, VueJS, or Svelte. There is no evident experience with testing frameworks mentioned in the job description (e.g., Jest or Cypress) and outdated technologies show a lack of keeping up with modern practices. Additionally, the candidate does not demonstrate specific knowledge of security principles like OWASP or experience with CI/CD tools and API design, which are crucial for the role.

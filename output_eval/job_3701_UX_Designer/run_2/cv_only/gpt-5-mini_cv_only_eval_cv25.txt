@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume demonstrates a long background as a systems analyst/systems programmer with SDLC and Documentum expertise but shows no commercial UX design experience, no evidence of prototyping with Figma, no user research or usability testing, and no Agile UX delivery experience. Minor related skills (some HTML, user training, SDLC knowledge) do not meet the core requirements for a UX Designer who must run workshops, create low/high-fidelity prototypes, manage a UI design system, and mentor junior designers.

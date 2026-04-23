@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in legacy .NET and jQuery, failing to meet the core requirements for React, TypeScript, and modern functional programming. There is no documented experience with the requested testing frameworks (Jest, Cypress), CI/CD tools, or modern CSS tooling like SASS or Styled Components. Additionally, the professional experience provided is significantly outdated, ending in 2016, and does not align with the modern frontend ecosystem required for this role.

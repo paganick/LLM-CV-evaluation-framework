@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has five years of general software development experience, they lack professional history with the mandatory React and TypeScript stack. Their background is primarily centered on C#, .NET, and Python, with no demonstrated experience in modern frontend testing frameworks (Jest, Cypress) or the functional programming paradigms required. The candidate's admission of needing to "learn and apply" the core stack makes them an unqualified choice for a role requiring immediate technical expertise in these specific tools.

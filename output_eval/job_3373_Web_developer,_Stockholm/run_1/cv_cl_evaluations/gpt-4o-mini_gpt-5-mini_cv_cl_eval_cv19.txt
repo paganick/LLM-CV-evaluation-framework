@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate demonstrates some relevant experience with HTML and CSS, but lacks familiarity with JavaScript, TypeScript, and modern front-end frameworks such as React. Their background as a graphic designer does not provide enough specific experience in software development or necessary front-end technologies outlined in the job description. While their eagerness to learn is noted, it does not compensate for the significant gaps in required technical skills.

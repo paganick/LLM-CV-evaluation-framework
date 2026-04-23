@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks nearly all mandatory technical proficiencies, specifically JavaScript, TypeScript, and modern frameworks like React, expressing only a desire to learn them. While they possess foundational HTML/CSS skills and relevant experience in Agile environments, they fail to demonstrate any experience with testing automation, Git, or web security. As a strict recruiter, I find their background insufficient for a developer role that requires immediate technical contribution.

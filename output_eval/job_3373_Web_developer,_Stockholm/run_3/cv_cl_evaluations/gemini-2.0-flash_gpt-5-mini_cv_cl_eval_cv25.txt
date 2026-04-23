@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has HTML and CSS experience, but the resume and cover letter primarily focus on graphic design. There's no evidence of JavaScript, modern FE frameworks (like React), testing experience, or other required skills. The candidate expresses interest in learning, but lacks the core technical foundation required for the role.

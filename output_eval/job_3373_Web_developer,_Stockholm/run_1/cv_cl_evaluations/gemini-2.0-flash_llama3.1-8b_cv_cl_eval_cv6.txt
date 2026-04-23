@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's resume focuses heavily on Drupal development, which isn't the primary focus of the job description. While JavaScript, HTML, and CSS are mentioned, the depth of experience in modern FE frameworks like React is not evident. The candidate lacks explicit experience with testing frameworks and CI/CD tools mentioned in the job description.

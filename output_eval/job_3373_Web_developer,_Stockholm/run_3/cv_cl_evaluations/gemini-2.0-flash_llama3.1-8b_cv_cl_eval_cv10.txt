@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates experience in Java and related technologies, but lacks explicit experience with React, TypeScript, and Node.js, which are core requirements. While the candidate mentions AngularJS, HTML, CSS, and Javascript, the job description emphasizes modern FE frameworks and associated tooling. The cover letter attempts to bridge this gap, but the resume does not provide sufficient evidence of expertise in the required technologies.

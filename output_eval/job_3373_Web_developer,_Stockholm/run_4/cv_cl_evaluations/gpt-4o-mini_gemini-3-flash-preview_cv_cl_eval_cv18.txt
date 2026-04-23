@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has over 18 years of experience and strong foundational knowledge in key technologies such as JavaScript, HTML, and CSS. However, the resume lacks specific experience with modern frontend frameworks like React, as well as a detailed focus on testing frameworks and methodologies as outlined in the job description. While the candidate demonstrates relevant industry experience, there are notable gaps in required technologies and familiarity with the specific requirements of the role.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily administrative, arts, and video production with only fleeting mentions of HTML and web-design; there is no demonstrated experience with JavaScript/TypeScript, React, modern frontend frameworks, testing, Git, NodeJS, or CI/CD as required. While the cover letter expresses interest and willingness to learn, the resume does not provide the specific technical skills or hands-on development experience needed for this frontend engineering role. This is therefore a poor fit for the position as described.

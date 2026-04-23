@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant technical foundation and strong transferable soft skills, but lacks direct, professional frontend development experience. While they mention foundational JavaScript/HTML/CSS and an eagerness to learn React/TypeScript, they do not provide concrete evidence of hands-on project work with these core technologies or the specific testing frameworks and tools listed in the job description. Their background is adjacent, not direct, making them a candidate with potential but significant skill gaps for the role.

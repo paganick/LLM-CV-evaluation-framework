@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is a career changer with a professional background entirely in media planning and advertising, lacking any professional experience in software engineering or modern front-end development. They do not possess the required expertise in React, TypeScript, or automated testing frameworks, as their technical exposure is limited to basic academic projects in SQL and Java. Consequently, the candidate does not meet the specialized technical criteria or the seniority level necessary for this specific engineering role.

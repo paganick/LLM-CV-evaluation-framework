@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses significant general experience in software development, they fail to demonstrate proficiency in the core technologies required, specifically React and TypeScript. The applicant emphasizes a back-end Java background and legacy AngularJS, which does not align with the organization's current modern front-end stack. Furthermore, the letter relies on mirroring the job description's peripheral tools without providing concrete evidence of hands-on experience in those areas.

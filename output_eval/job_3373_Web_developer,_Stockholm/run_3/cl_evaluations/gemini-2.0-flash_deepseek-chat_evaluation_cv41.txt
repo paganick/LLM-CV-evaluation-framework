@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a relevant background but emphasizes systems engineering over front-end development. While the cover letter mentions proficiency in core front-end technologies like JavaScript, TypeScript, and React, the experience seems secondary to their systems background, not fully aligning with the job description's emphasis on modern front-end frameworks and a passion for clean code. The letter leans heavily on a systems background and the job description asks more about general FE principles.

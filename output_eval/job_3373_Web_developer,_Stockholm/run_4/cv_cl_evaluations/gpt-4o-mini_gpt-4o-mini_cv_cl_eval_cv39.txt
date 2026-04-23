@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background primarily in graphic design and product design, with limited technical experience in front-end development technologies such as JavaScript, TypeScript, and modern frameworks like React. While they possess some relevant skills in HTML and CSS, the overall lack of specific experience with testing frameworks, Git, and security practices on the web significantly diminishes their fit for the role.

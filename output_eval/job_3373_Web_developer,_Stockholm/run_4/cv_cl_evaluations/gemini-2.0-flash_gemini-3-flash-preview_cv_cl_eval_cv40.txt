@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate claims experience with JavaScript, TypeScript, and modern CSS tools in the cover letter, but the resume lacks explicit evidence of hands-on development experience with these technologies. While the resume showcases product management and leadership experience in relevant industries, it doesn't demonstrate the required front-end engineering skills. The candidate mentions testing frameworks, API design, and CI/CD, but the depth of their practical application remains unclear.

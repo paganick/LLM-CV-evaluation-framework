@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some relevant experience in web technologies and project work involving HTML and CSS but lacks strong proficiency in JavaScript, TypeScript, and modern frontend frameworks like React, which are essential for the role. Additionally, there is no mention of testing frameworks, Git, or other specific tools and practices listed in the job description. While the candidate has transferable skills from their background, their current qualifications do not adequately align with the requirements of the position.

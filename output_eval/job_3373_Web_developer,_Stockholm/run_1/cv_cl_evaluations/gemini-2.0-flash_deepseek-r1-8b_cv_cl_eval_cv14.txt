@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume highlights ASP.NET and C# experience, which doesn't align with the JavaScript/React focus of the job description. While the cover letter mentions an interest in modern JavaScript frameworks, the resume lacks demonstrable experience in this area. The candidate also lacks experience with testing frameworks (Jest, TestCafe, Cypress etc.) and modern CSS tools like Styled Components and SASS.

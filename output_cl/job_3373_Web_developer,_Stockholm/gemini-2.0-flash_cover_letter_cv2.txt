@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the Frontend Developer position. With 8.5 years of IT experience as a Software Developer and currently as a Technical Designer at Tata Consultancy Services, I am confident I possess a strong foundation to excel in this role.
+
+My background in Java/J2EE technologies, including Spring, jQuery, and Bootstrap, has provided me with a solid understanding of web application development. While my primary focus has been on the backend, I am eager to transition my skills and experience to the frontend, particularly leveraging React.
+
+I have experience with Designing, Coding and Unit Testing, and familiarity with Git and Agile development methodologies. In my previous roles, including projects at FedEx Office and SEI, I was involved in the full software development lifecycle, from requirements gathering to bug fixing and unit testing. I also have a good understanding of Object Oriented Methodology and Design Patterns
+
+I am particularly drawn to your company's focus on modern FE frameworks, especially React, and the emphasis on writing clean code. I am committed to staying up-to-date with the latest technologies and believe my passion for learning, combined with my existing skills, will enable me to quickly contribute to your team.
+
+While my experience with specific frontend testing frameworks and CSS tools mentioned in the job description is still developing, I am confident in my ability to learn and adapt quickly. My experience working in collaborative environments and interacting with other teams, as demonstrated in my roles at FedEx and SEI, will allow me to become an efficient team member.
+
+I am excited about the opportunity to leverage my existing skills and learn new technologies at your company. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Alexis

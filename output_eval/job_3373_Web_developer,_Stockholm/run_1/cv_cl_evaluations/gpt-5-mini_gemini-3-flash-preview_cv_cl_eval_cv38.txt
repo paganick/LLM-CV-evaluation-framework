@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a career in film/media production with no verifiable front-end engineering experience, toolchain knowledge, or code/project evidence (React, TypeScript, testing frameworks, NodeJS, Git workflows) required by the role. The cover letter's technical claims are unsupported by the resume and therefore cannot be relied upon. This candidate is therefore not a suitable match for the Front-End Engineer position.

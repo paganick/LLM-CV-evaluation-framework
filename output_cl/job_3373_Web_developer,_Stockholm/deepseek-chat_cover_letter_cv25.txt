@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing with great enthusiasm to apply for the Front-End Developer position. While my professional background is rooted in graphic design and art direction, my career has been a continuous journey toward mastering the technical craft of building user interfaces. My extensive experience with HTML and CSS, combined with a deep-seated passion for clean, functional code and visual excellence, provides a unique and valuable foundation for transitioning into a modern front-end development role.
+
+My design career has been built on a meticulous attention to detail, a commitment to brand consistency, and a proven ability to thrive in fast-paced, deadline-driven Agile environments—skills directly transferable to your team’s needs. I am adept at collaborating across teams, conceptualizing solutions from scratch, and juggling multiple projects with precision, as evidenced by my years of successful art direction and design work.
+
+Technically, I bring hands-on proficiency in the core building blocks: HTML and CSS. I am keenly interested in and actively upskilling in JavaScript, TypeScript, and React to complement my existing front-end knowledge. My design background has ingrained in me a fundamental understanding of user-centric principles that directly inform functional, accessible, and aesthetically pleasing UI construction. Furthermore, my experience with tools like Adobe Creative Suite and Dreamweaver has fostered a disciplined, process-oriented approach that aligns perfectly with modern development practices involving Git, linters, and CI/CD pipelines.
+
+I am not just a designer who codes; I am a creative problem-solver with a genuine passion for the architecture of the front-end. I am deeply motivated to contribute to a team that values clean code, robust testing, and continuous learning. I am confident that my unique blend of artistic vision, technical foundational skills, and collaborative professionalism would allow me to contribute meaningfully to your projects.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background and skills can benefit your team.
+
+Sincerely,
+Alexis

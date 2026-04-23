@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses experience in web development with JavaScript, HTML, and CSS, but lacks direct experience with modern FE frameworks like React (though expresses interest). They demonstrate familiarity with Git and some web security concepts, but lack experience with testing frameworks, CI/CD tools, and cloud platforms mentioned in the job description. The candidate's experience is primarily in .NET, which isn't the focus of the role.

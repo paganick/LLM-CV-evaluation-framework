@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is entirely in microbiology, laboratory operations, validation and training with no demonstrated experience in JavaScript/TypeScript, React or other modern front-end frameworks, front-end testing, Git, NodeJS, or related tooling. This is a different industry and they lack the core technical skills and tooling required for the role. Therefore they are completely unqualified for the front-end developer position.

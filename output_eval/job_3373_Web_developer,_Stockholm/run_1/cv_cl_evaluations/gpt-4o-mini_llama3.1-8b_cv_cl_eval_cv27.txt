@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has some foundational knowledge in web development, particularly with HTML and CSS, but lacks the required hands-on experience with JavaScript, modern frameworks like React, and testing and automation tools. Their background is primarily in administrative roles and the arts, which does not align well with the technical requirements of the position. Additionally, there is no mention of experience with Git, CI/CD tools, or security practices relevant to web development.

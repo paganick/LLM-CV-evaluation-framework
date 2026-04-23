@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has extensive experience in information technology and general web development, they lack specific proficiency in the modern front-end stack required, notably React and TypeScript. The resume focuses heavily on systems administration and legacy web tools rather than modern component-based architecture, automated testing frameworks, or CI/CD pipelines. Consequently, the candidate does not meet the technical requirements for a modern front-end engineering role.

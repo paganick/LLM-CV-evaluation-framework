@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the core technical requirements (React, TypeScript, testing, clean code, Agile) and provides concrete examples of relevant experience. They effectively address many secondary skills like Node.js, API design, and modern CSS tools. The score is not higher because the cover letter does not explicitly mention several specific items from the job description, such as security knowledge (OWASP, CORS), specific testing tools (Cypress, TestCafe), or functional programming with Ramda.

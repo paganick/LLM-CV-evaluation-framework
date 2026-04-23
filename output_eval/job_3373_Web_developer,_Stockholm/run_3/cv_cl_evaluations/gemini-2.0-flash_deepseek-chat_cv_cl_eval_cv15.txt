@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a background in IT and web development, but lacks specific experience with the required modern front-end frameworks like React, VueJS, Angular, or Svelte. While they express willingness to learn React, the resume focuses more on general IT skills and older technologies. The candidate also lacks explicit experience with testing frameworks, CI/CD tools, and cloud platforms mentioned in the job description.

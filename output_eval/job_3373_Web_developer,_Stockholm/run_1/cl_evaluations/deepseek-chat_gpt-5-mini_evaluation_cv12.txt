@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant web development experience and foundational skills but lacks the specific, required experience with React, TypeScript, and modern frontend testing frameworks. While they demonstrate strong general engineering practices and a willingness to learn, the job demands hands-on expertise in these core technologies. Their background is more aligned with full-stack/backend work, making them a partial but insufficient match for this specialized frontend role.

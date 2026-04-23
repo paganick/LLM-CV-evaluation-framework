@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in marketing, communications, and legal support with no demonstrated experience in JavaScript/TypeScript, React (or other modern front-end frameworks), frontend testing, Git, Node/NPM, CSS tooling, or AWS/Terraform as required by the role. While they show strong communication, project management, and quality-control skills, they do not provide any technical projects, roles, or training that would qualify them for a Front-End Engineer position. This is a mismatch of core technical competencies necessary for the job.

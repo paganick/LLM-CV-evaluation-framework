@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant experience in data analysis and backend development but lacks the specific front-end skills and technology experience outlined in the job description, such as modern JavaScript frameworks (React), testing frameworks, and familiarity with the NodeJS ecosystem. Their experience in front-end technologies is minimal, and they do not demonstrate hands-on experience that aligns with the requirements of the front-end developer position.

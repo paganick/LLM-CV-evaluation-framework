@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has JavaScript, HTML, and CSS skills, but the resume focuses heavily on Drupal, which is not mentioned in the job description. There's a lack of explicit mention of modern FE frameworks like React. The resume lacks information regarding testing frameworks, CI/CD tools, and cloud platforms like AWS.

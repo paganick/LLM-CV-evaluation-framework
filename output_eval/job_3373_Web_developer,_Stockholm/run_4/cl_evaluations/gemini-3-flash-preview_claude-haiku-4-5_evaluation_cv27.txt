@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks professional software engineering experience and is currently only in the learning phase for the core technologies required, such as JavaScript, TypeScript, and React. While they demonstrate strong transferable skills from administrative and creative fields, they do not possess the necessary hands-on experience with testing automation, web security protocols, or CI/CD pipelines. This profile is insufficient for a position requiring immediate technical proficiency across the specified developer tech stack.

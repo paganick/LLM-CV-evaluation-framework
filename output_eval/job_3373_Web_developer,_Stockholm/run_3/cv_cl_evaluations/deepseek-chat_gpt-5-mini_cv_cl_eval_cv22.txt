@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is in media planning and account management, which is a completely different industry from front-end engineering. While they list basic HTML and CSS, they lack any professional experience or demonstrable projects with JavaScript, TypeScript, React, or any of the modern tools, frameworks, and testing practices required by the job description. Their stated goal is to transition into a technological field, but they currently possess none of the specific, hands-on technical qualifications for this role.

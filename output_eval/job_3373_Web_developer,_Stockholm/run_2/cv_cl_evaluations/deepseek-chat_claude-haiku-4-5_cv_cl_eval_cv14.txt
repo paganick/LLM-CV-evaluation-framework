@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has relevant web development experience but lacks the specific modern frontend framework expertise required (React, Vue, Angular, Svelte). Their professional background is heavily centered on ASP.NET, C#, and SharePoint, with only basic mentions of JavaScript, HTML, and CSS, and no demonstrated experience with the listed testing frameworks, Node.js, or functional programming. While they show strong collaborative skills and a willingness to learn, their direct technical fit for this React-focused role is low.

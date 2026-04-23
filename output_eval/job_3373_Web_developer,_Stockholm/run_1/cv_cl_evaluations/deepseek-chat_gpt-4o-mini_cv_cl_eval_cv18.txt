@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's resume shows extensive general IT experience but lacks specific, recent front-end development experience with React and modern tooling as required. The cover letter claims proficiency in key areas like React, Jest, and Cypress, but these are not substantiated by the resume, which lists older technologies. While the candidate is in the relevant industry, they appear to lack the hands-on, specialized experience with the specific stack and practices outlined in the job description.

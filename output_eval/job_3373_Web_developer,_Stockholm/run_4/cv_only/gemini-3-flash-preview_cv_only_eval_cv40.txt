@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is an executive-level Product Management professional whose experience is focused on business strategy and leadership rather than hands-on software engineering. They lack all the required technical skills, including proficiency in JavaScript, TypeScript, React, and automated testing frameworks. While they have experience in the relevant technology industry, they do not possess the coding background necessary for this developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has strong analytics, data-engineering and testing discipline and some web fundamentals (HTML, C#), but lacks demonstrable experience with JavaScript/TypeScript, React, modern front-end frameworks, front-end testing tools, Node/npm, and Git which are core requirements. Given this significant gap in essential front-end skills and tooling, they are not qualified for the role without substantial upskilling.

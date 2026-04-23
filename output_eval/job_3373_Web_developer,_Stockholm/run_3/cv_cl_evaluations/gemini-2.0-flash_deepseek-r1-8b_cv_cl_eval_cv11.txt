@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is primarily in testing, not development. While they mention familiarity with JavaScript, HTML, and Git, the resume highlights testing tools and methodologies rather than hands-on development experience with React or other modern FE frameworks. The cover letter expresses interest in learning, but lacks concrete examples of relevant project work.

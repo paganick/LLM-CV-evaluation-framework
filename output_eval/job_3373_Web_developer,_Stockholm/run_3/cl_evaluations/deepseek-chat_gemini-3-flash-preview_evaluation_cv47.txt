@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a strong, direct match with the core technical stack (React, TypeScript, testing, security) and explicitly addresses many desired tools and methodologies. Their leadership and business background provide valuable complementary skills. The score is not a 9 because the transition from business development to engineering, while compelling, lacks explicit detail on hands-on front-end project experience and duration.

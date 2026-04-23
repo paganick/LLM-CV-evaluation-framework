@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has testing experience, including automation, but lacks explicit development experience in modern front-end frameworks like React, which is the company's focus. While they express interest in learning, the resume showcases testing roles, not development. The cover letter attempts to bridge this gap but doesn't demonstrate the necessary hands-on experience with the mentioned technologies.

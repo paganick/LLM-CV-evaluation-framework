@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks nearly all mandatory technical skills, including JavaScript, TypeScript, React, and automated testing frameworks. Their professional experience is primarily in graphic design and electrical work, with no evidence of software engineering experience in a production environment. While the candidate has basic HTML/CSS knowledge, they do not meet the minimum requirements for a modern frontend developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The resume shows extensive graphic design and some HTML/CSS/web design experience but no demonstrable professional experience with JavaScript/TypeScript, React, modern frontend frameworks, automated testing, or the NodeJS/CI/CD/tooling required by the role. The cover letter asserts familiarity with tools like Jest, Git, and linters but provides no concrete examples or evidence of production-level frontend engineering. Overall, relevant industry background exists but the specific technical skills and hands-on engineering experience required are lacking.

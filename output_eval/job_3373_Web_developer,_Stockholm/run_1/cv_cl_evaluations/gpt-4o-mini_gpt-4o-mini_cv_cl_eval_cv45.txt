@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: While the candidate has a strong background in information technology and project management, they lack specific experience in modern frontend development technologies such as JavaScript, TypeScript, and frameworks like React. Their experience in testing and automation is mentioned but not in the context of modern JavaScript development. Overall, they are from a relevant industry but do not meet the specific skill requirements for the frontend developer role.

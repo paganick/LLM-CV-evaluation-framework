@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in IT support and consulting, they lack demonstrated professional experience as a dedicated software engineer. Their familiarity with the required tech stack appears to be based on self-study or peripheral exposure rather than career-long application in a development environment. Consequently, the candidate does not meet the "hands-on experience" threshold for a role requiring proficiency in complex front-end frameworks and CI/CD pipelines.

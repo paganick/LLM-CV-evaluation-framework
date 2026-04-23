@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's resume and cover letter highlight project management experience, but lack demonstrable skills in the required front-end technologies (JavaScript, React, HTML, CSS, etc.). The resume focuses on IT infrastructure and systems management, not front-end development. The candidate expresses familiarity with concepts like API design and CI/CD, but lacks the hands-on experience specified in the job description.

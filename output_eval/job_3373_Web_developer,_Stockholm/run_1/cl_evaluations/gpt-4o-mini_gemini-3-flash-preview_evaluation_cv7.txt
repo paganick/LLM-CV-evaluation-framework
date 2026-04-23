@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has extensive experience in graphic design and a strong background in frontend development, particularly with React, which aligns well with the job description. They demonstrate proficiency in required technologies like JavaScript, TypeScript, CSS, and testing frameworks. However, while they mention basic knowledge of AWS and CI/CD, there is no mention of specific experience with Ruby or Terraform, which slightly lowers the score.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive experience in IT support and infrastructure, which suggests a solid technical foundation; however, they lack direct experience with JavaScript, React, and modern front-end development frameworks as outlined in the job description. Additionally, there is no evidence of hands-on testing or API design experience, which are critical for the role. Their motivation to learn React and related technologies is a positive but does not compensate for the lack of required skills and experience.

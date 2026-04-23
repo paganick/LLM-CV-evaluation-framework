@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate possesses a broad IT background with some exposure to web development technologies like JavaScript, HTML, and CSS. However, the resume lacks specific experience with modern FE frameworks (React, VueJS, Angular, Svelte), testing frameworks, and other tools mentioned in the job description. The candidate's experience seems dated and not focused on modern front-end development.

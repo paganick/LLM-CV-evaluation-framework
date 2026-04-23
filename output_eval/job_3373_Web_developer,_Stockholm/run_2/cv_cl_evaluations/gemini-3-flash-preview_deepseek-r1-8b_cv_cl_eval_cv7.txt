@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is a professional graphic designer whose experience is entirely focused on visual arts, print media, and design software rather than software engineering. They lack all mandatory technical skills, including JavaScript, TypeScript, React, and modern testing frameworks, making them completely unqualified for this developer role. Their background in a different industry fails to meet even the most basic technical requirements of the job description.

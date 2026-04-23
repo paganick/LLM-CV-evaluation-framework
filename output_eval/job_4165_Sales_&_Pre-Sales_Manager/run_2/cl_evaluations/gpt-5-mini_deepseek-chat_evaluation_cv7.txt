@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate shows strong, relevant client-facing sales and presales experience, proven quota attainment, workshop facilitation, and claims experience in Business Analytics/Design Consulting and working in matrixed/global teams — matching many core requirements. However, the letter lacks clear, demonstrable technical depth across Application Services (APIs, Cloud, DevOps, microservices) and concrete examples of leading architectural/design reviews or coordinating large onshore/offshore delivery teams, so it is not a perfect match.

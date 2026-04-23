@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is heavily focused on Drupal, PHP, and traditional web development, which is not aligned with the job's core requirements for modern frontend frameworks (React), TypeScript, and extensive testing. While they demonstrate relevant soft skills and experience with Git, they lack any mention of the specific technologies, tools, and methodologies (e.g., React, testing frameworks, CI/CD, Agile) explicitly listed in the job description. The cover letter does not address the majority of the technical qualifications required for the role.

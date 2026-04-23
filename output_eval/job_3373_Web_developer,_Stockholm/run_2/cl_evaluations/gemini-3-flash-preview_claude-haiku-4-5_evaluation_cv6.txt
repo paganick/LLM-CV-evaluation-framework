@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has five years of experience and matches the styling requirements (SASS, Styled Components), they fail to demonstrate professional proficiency in TypeScript or the specific testing frameworks (Jest, Cypress) required by the role. Additionally, their React experience appears aspirational rather than proven, and their background as an IT Specialist suggests a lack of the deep, specialized frontend expertise necessary for this senior-level environment.

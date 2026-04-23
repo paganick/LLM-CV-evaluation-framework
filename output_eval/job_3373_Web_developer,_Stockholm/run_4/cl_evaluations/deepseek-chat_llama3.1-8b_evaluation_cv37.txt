@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's core experience is in corporate IT project management, not front-end development. While they list relevant technical keywords (React, Jest, Cypress), these are appended to a generic project management letter and lack context of hands-on application or depth. The cover letter does not demonstrate the required specific, practical experience in modern front-end development, testing automation, or the other technical competencies outlined in the job description.

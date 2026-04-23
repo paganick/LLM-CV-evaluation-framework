@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates strong alignment with the specific technical stack, explicitly mentioning React, TypeScript, and functional programming with Ramda. Their Computer Science degree and experience with CI/CD tools and cloud infrastructure fulfill the more advanced requirements of the role. However, the candidate’s professional history is heavily centered on UX/UI leadership, and their description of JavaScript and testing expertise suggests an "understanding" rather than extensive hands-on engineering experience.

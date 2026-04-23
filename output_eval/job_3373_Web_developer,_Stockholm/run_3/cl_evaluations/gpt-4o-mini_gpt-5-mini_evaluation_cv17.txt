@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has extensive experience in project management and engineering, which is valuable, but lacks direct and specific experience in modern front-end frameworks and libraries, particularly React. While they demonstrate a commitment to learning JavaScript and TypeScript, their background predominantly focuses on civil and offshore engineering, making them less aligned with the immediate technical needs of the role.

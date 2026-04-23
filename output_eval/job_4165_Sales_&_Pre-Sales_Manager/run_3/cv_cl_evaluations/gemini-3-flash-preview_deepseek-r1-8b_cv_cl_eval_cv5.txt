@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate strongly aligns with the requirement for Business Analytics/Data expertise and has extensive experience selling into target verticals like Telecom and Retail. They demonstrate a high-level track record of enterprise sales, including multi-million dollar contract negotiations and managing global stakeholder relationships. However, their background is heavily focused on Business Intelligence and CMS rather than the broader Application Services stack (API, Cloud, Microservices) also mentioned in the requirements.

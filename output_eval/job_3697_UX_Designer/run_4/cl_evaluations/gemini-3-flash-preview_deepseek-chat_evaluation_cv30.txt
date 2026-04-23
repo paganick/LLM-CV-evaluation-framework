@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the primary requirement of 3+ years of professional experience as a UI/UX Designer, presenting instead as a Software Engineer attempting a career pivot. There is no mention of proficiency in the required toolset, specifically Adobe Illustrator, Photoshop, or wireframing software like InVision. While the applicant has technical experience with HUDs and interface implementation, they demonstrate a lack of experience with essential UX artifacts such as storyboards, sitemaps, and process flows.

@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant skills in front-end development and is familiar with the required technologies such as JavaScript, React, and testing frameworks. However, there is no mention of TypeScript, security knowledge related to web technologies, or CI/CD tools, which are also important for the role. Overall, while the candidate is strong, they do not fully meet all the job requirements.

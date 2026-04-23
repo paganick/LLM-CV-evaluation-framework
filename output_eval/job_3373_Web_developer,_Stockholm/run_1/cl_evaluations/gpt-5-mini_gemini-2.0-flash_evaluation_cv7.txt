@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has strong visual design and UX experience but lacks demonstrated hands-on experience with required front-end technologies such as JavaScript/TypeScript, modern React-based frameworks, HTML/CSS tooling, testing/automation, Git, and related ecosystem tools. They express willingness to learn, but do not meet the essential technical and testing/DevOps requirements for this role.

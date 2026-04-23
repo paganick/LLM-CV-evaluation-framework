@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's cover letter demonstrates extensive experience in graphic design and traditional web design, but fails to address any of the core technical requirements for this position. There is no mention of JavaScript, TypeScript, React, testing frameworks, Git, or any of the modern front-end development skills explicitly required. The role requires a front-end developer with advanced programming capabilities, not a graphic designer, making this candidate fundamentally misaligned with the position's technical specifications.

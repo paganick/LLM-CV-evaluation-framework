@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has solid web development experience (ASP.NET, HTML, CSS, JavaScript, jQuery) and demonstrates Git and Agile collaboration, but their resume shows no demonstrable experience with React or TypeScript, modern front-end frameworks, JavaScript testing frameworks/automation, or the NodeJS/CI-CD/AWS tooling required. The cover letter claims familiarity with some modern tools, but those skills are not substantiated in the resume or projects, so they lack the specific, hands-on front-end expertise this role requires.

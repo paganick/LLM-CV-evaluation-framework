@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's experience is entirely in microbiology, laboratory training, and regulatory compliance with no demonstrated proficiency in JavaScript, TypeScript, HTML/CSS, React (or other modern front-end frameworks), testing automation, Node.js/npm/Yarn, or Git workflows. The cover letter's claims of adaptability and interest in tooling are unsupported by concrete technical experience, projects, or tools required for the role. This represents a fundamental industry and skillset mismatch with the job's core requirements.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate possesses relevant experience in marketing automation and has foundational knowledge in JavaScript, HTML/CSS, and testing methodologies. However, the letter lacks specific experience with React, TypeScript, and modern frontend frameworks that are critical for this role. Additionally, there is no mention of familiarity with the NodeJS ecosystem, AWS, or CI/CD tools, which are also highlighted in the job description.

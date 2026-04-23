@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate demonstrates strong technical literacy in React, TypeScript, and testing frameworks, they lack professional experience in a software development environment. The application fails to address specific technical requirements regarding web security (OWASP, CORS) and cloud infrastructure (AWS/Terraform). As a career-switcher, the candidate possesses the foundational tools but lacks the proven industry track record required for this comprehensive role.

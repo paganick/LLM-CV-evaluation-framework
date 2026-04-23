@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in testing web applications and some JavaScript experience, but lacks specific experience with modern front-end frameworks like React, TypeScript, or Node.js. While they have automation experience, it's not explicitly aligned with the listed testing frameworks. The resume focuses heavily on testing rather than development, making it a weak fit for a front-end developer role.

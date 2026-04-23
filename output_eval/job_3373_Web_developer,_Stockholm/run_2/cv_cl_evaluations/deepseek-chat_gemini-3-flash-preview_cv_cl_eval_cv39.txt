@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's extensive background is in graphic and product design, not software engineering. While they mention HTML/CSS and an interest in learning React, the resume shows no professional experience with JavaScript, TypeScript, modern frameworks, testing, Git, or any other core technical requirements listed in the job description. Their skills are misaligned with the technical demands of a frontend developer role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate lacks professional experience as a software engineer, with a career history strictly limited to Business Development and management roles. While they mention the required tech stack, they fail to demonstrate any hands-on, professional application of these tools in a production environment. Consequently, the candidate does not meet the fundamental requirement for a proven technical track record in frontend development.

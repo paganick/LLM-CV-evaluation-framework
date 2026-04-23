@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has relevant experience in software testing and quality assurance, with proficiency in JavaScript, HTML, and CSS. However, they lack direct experience with modern front-end frameworks like React and additional specific tools such as Git, CI/CD practices, and modern CSS tools mentioned in the job description. Their transition from testing to development is a positive but may require additional training to fully meet the role's expectations.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has extensive web development experience, solid HTML/CSS/JavaScript background, and history of working in Agile teams with testing discipline. However, the resume lacks demonstrated experience with React and TypeScript (the team uses React), modern Node.js toolchain, and current front-end tooling (Git/GitHub, SASS/Styled Components, CI/CD) — many of these are asserted only in the cover letter without resume evidence. Overall relevant to the industry but missing several key, verifiable skills required for this role.

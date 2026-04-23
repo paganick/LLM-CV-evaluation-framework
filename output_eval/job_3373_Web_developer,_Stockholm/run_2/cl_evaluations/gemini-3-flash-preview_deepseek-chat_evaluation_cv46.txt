@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate has a decade of experience in core web technologies, they lack professional proficiency in the primary requirements of React and TypeScript. The letter explicitly states a need to "deepen hands-on experience" with the core tech stack and "adopt" testing frameworks, indicating a lack of the required immediate expertise. Furthermore, key technical requirements like security protocols (OWASP/OAuth) and functional programming are mentioned only as interests rather than established skills.

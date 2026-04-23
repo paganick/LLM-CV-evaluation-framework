@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates relevant experience in full-stack development with a strong focus on front-end technologies like HTML, CSS, and some foundational JavaScript. However, they lack direct experience with TypeScript, modern frameworks beyond React, testing frameworks, and other specified tools, which slightly limits their alignment with the job requirements.

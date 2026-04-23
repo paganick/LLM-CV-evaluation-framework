@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in the .NET ecosystem (C#, ASP.NET) with only basic, dated front-end skills (jQuery, vanilla JS). They lack direct, professional experience with the required modern FE frameworks (React, Vue, Angular, Svelte), TypeScript, and the specific testing/CI/CD tools listed. While they demonstrate relevant Agile experience and a willingness to learn, their technical background does not align with the core, non-negotiable requirements of the role.

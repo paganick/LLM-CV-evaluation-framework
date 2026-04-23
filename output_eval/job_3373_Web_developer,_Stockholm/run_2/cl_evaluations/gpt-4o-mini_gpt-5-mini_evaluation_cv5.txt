@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate has solid experience in software development and a strong background in back-end technologies, they lack hands-on experience with modern front-end frameworks like React, which is specifically requested in the job description. Additionally, there is no mention of specific familiarity with testing frameworks or modern CSS tools, limiting their alignment with the position's requirements.

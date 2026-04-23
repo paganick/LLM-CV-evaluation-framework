@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's profile is heavily focused on Java, J2EE, and legacy AngularJS, failing to demonstrate professional proficiency in the required React and TypeScript ecosystem. The resume is significantly outdated, with work experience ending in 2015, and lacks evidence of the modern testing, CI/CD, and functional programming skills requested. While the cover letter claims familiarity with modern tools, these are not reflected in the candidate's actual work history or technical project details.

@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates a foundation in relevant technologies like JavaScript, HTML, and CSS, but lacks explicit experience with React, the framework the company uses. While they mention familiarity with other FE frameworks, the resume highlights PHP and other backend technologies more prominently. There's also a lack of depth in modern FE testing frameworks and tooling mentioned in the job description.

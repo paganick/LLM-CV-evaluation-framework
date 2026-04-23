@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate has a solid background in Information Technology and relevant skills in JavaScript, HTML, CSS, and front-end frameworks like React, which is aligned with the job requirements. However, there is no mention of TypeScript, which is specified in the job description, or experience with CI/CD tools like CircleCI. Overall, while the candidate is strong, they do not completely fulfill all the requirements, particularly regarding specific technologies and tools.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is in sales, not software development, which is a significant mismatch for a technical front-end role. While they mention awareness of some required tools and concepts, they lack demonstrable, hands-on experience with the core technologies like React, TypeScript, and testing frameworks. Their foundational knowledge is insufficient to meet the job's technical requirements, despite showing strong soft skills and a willingness to learn.

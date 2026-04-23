@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: While the candidate possesses a strong foundation in testing and automation that aligns with the job's emphasis on quality, they lack professional experience in a dedicated Front End Developer role. Their decade of experience is primarily in hardware-centric test engineering, making them a career-changer rather than an established developer. Furthermore, they do not demonstrate professional-grade experience with specific requirements such as Ramda, functional programming, or AWS/Terraform.

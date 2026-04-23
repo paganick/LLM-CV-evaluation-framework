@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant design industry experience and demonstrates strong soft skills, but lacks the core technical competencies required for the front-end engineering role. The letter mentions only basic HTML/CSS and no experience with React, TypeScript, testing frameworks, or the modern toolchain specified in the job description. While the desire to learn is noted, the application does not provide evidence of hands-on experience with the listed technologies.

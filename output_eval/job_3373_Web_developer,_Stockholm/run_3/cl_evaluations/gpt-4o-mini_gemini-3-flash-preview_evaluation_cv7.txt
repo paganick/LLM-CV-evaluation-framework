@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate demonstrates a solid background in both graphic design and frontend development, aligning well with the job requirements, particularly in JavaScript, React, and CSS tools such as SASS and Styled Components. Their experience with testing and CI/CD tools, as well as collaboration in Agile environments, further supports their candidacy. However, there is no mention of familiarity with Ruby or Terraform, which the company is transitioning away from, indicating a slight gap in experience.

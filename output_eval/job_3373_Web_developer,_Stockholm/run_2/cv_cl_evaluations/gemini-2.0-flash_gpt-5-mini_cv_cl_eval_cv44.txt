@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has some overlapping skills, mainly in HTML, CSS, and UI design, but lacks sufficient experience with modern FE frameworks like React or Typescript, which are core to the job description. Their experience with testing is also limited. While the cover letter expresses interest in learning, the current skillset doesn't align strongly with the requirements.

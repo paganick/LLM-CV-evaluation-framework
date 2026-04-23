@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant industry experience and mentions key technologies like HTML, CSS, JavaScript, React, Git, and OWASP. However, the cover letter is too generic and heavily emphasizes backend/systems architecture, failing to provide specific, hands-on examples of modern frontend development, testing automation, or the other key tools and practices listed in the job description. The application demonstrates a foundational fit but lacks the concrete, detailed evidence required for a strong match.

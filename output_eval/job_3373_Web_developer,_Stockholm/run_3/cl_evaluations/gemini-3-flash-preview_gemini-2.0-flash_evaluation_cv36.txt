@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate demonstrates zero evidence of the required technical skills, failing to mention JavaScript, React, TypeScript, or any testing frameworks specified in the job description. The background in microbiology and general consulting is entirely unrelated to software engineering, and the letter provides no proof of coding competency or relevant industry experience. This applicant is completely unqualified for a professional frontend development position.

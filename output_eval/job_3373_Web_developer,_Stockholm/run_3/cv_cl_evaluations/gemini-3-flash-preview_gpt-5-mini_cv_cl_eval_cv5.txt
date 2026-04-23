@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: the candidate is a Mainframe specialist whose professional experience is almost entirely rooted in legacy technologies like COBOL, CICS, and DB2, which does not align with the modern front-end requirements. There is no evidence of professional experience with React, TypeScript, or modern testing frameworks like Jest and Cypress. While the candidate expresses a desire to transition, they currently lack the specific technical skills and recent hands-on web development experience required for this role.

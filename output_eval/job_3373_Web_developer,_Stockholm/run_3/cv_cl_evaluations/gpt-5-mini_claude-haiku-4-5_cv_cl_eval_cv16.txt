@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: Candidate has general front-end fundamentals (JavaScript, HTML, CSS), Agile experience and basic security/authentication exposure, but lacks any hands-on experience with React or the modern JavaScript toolchain (TypeScript, Node/npm). There is no evidence of automated testing frameworks (Jest/Cypress/TestCafe), modern CSS solutions (Styled Components/SASS), CI/CD, or cloud/infra knowledge required by the role. Overall relevant background but missing multiple critical, role-essential skills for an immediate hire.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive visual design and legacy web/design tool experience but lacks virtually all core technical requirements for this Front-End Developer role (no evidence of JavaScript/TypeScript, React, modern frameworks, testing, Git, Node.js, CI/CD, or cloud/infra knowledge). Their cover letter expresses willingness to learn, but immediate competency in the required technologies is not demonstrated. This is a relevant-industry applicant who currently lacks the specific skills needed for the position.

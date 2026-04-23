@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates relevant web development experience with JavaScript, HTML/CSS, Git, testing exposure, Agile experience, and backend integration which aligns partly with the role. However they lack explicit experience with React and TypeScript and do not demonstrate familiarity with key parts of the stated stack (modern CSS tools like Styled Components/SASS, specific testing frameworks like Jest/Cypress, NodeJS ecosystem, CI/CD, and cloud/infra tooling), making them not an immediate strong match despite willingness to learn.

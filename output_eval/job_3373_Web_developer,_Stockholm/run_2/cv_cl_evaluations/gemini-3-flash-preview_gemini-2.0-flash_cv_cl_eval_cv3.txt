@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate lacks nearly all the mandatory technical requirements, including proficiency in TypeScript, React, and modern testing frameworks. Their educational background and projects focus on obsolete technologies such as Flash, ActionScript 3.0, and Java Applets, which are irrelevant to the current job description. Furthermore, the candidate has no professional experience in software development or Git-based workflows, making them unqualified for this specific engineering role.

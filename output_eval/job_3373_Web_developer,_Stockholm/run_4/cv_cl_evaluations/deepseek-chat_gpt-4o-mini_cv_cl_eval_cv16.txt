@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET and C# back-end development, not in the modern front-end stack specified (React, TypeScript, modern tooling). While they mention JavaScript, HTML, and CSS, their resume shows dated technologies like jQuery and ASP.NET Web Forms. The cover letter claims familiarity with many required tools (React, Jest, Cypress, Node.js, etc.), but these are not substantiated by the resume, which lacks any evidence of professional experience with them.

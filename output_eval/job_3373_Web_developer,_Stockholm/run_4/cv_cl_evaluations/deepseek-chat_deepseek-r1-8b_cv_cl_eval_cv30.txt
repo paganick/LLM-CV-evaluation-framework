@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is primarily in data analysis, quality assurance, and backend technologies (SAS, SQL, Python, ASP.NET), which is a completely different domain from the required front-end development role. The job description mandates hands-on experience with JavaScript, TypeScript, React, and modern CSS tools, none of which are demonstrated in the resume or cover letter. While the candidate expresses interest and soft skill alignment, they lack the specific, required technical qualifications for the position.

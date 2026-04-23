@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate lacks the necessary technical proficiency in the required stack, explicitly stating they still need to "acquire" the technical foundations of JavaScript, TypeScript, and React. While they possess transferable soft skills from media production, they demonstrate no professional experience with the specific engineering requirements such as testing frameworks, Git workflows, or CI/CD tools. This profile represents a career-changer who does not meet the minimum technical criteria for a developer role.

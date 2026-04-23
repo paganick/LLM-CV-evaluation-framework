@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's experience is primarily in .NET/C# with ASP.NET MVC, which is a different tech stack from the React/TypeScript/Node.js focus of the job. While they have foundational web skills (JavaScript, HTML, CSS) and Agile experience, they lack direct, hands-on experience with the core required technologies: React, TypeScript, modern CSS tools (Styled Components/SASS), Node.js, and the specific testing frameworks mentioned. Their background shows relevant industry fundamentals but is a significant mismatch for the specific frontend role.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is an experienced Java developer but lacks the core professional expertise required for this frontend-focused role, specifically in React, TypeScript, and modern CSS. Their background is centered on legacy Java/J2EE technologies like Struts and EJB, which do not translate to the modern JavaScript ecosystem requested. Furthermore, there is no evidence of experience with modern testing frameworks, Node.js, or cloud infrastructure like AWS and Terraform.

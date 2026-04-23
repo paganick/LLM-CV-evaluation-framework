@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily focused on legacy backend technologies (Java, EJB, JSP) and database administration rather than modern frontend development. They lack professional experience with React, TypeScript, and contemporary testing frameworks required for this role. Furthermore, their skill set is geared toward general IT support and hardware, showing a complete mismatch with the specific modern web ecosystem requirements.

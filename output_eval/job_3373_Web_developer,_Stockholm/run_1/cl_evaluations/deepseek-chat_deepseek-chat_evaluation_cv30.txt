@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate demonstrates relevant analytical skills and a proactive effort to learn front-end technologies, but lacks proven, hands-on professional experience with the core stack (React, TypeScript, modern testing frameworks). Their background is in data/quality engineering, not front-end development, and the letter does not provide concrete evidence of projects or proficiency in the specific tools listed in the job description. They are a motivated career-changer but remain an unproven candidate for the specific technical requirements.

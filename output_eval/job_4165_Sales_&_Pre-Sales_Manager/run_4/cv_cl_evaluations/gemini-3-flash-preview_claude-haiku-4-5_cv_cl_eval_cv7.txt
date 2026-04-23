@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate fails to meet the mandatory requirement for sales experience in Application Services, Business Analytics, or Design Consulting, as their background is primarily in healthcare staffing and recruitment portals. While they possess strong general sales skills, they lack the technical depth required to manage complex digital solutions involving AI/ML, Cloud, and Microservices. Furthermore, the candidate does not demonstrate experience selling into the specific target verticals of Banking, Insurance, or Telecommunications.

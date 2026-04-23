@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's background is in customer service, sales, and management, with no demonstrated experience in any of the required technical skills (JavaScript, TypeScript, React, testing, Git, etc.). The cover letter acknowledges this lack of technical experience and expresses a desire to learn, but the resume shows no relevant projects, education, or self-study to support a career transition. This profile is completely unqualified for a professional frontend developer role.

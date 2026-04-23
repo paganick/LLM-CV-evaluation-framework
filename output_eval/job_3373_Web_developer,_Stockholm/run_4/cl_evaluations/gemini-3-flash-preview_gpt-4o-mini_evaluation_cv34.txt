@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate demonstrates a relevant background in technical consulting but lacks proven professional experience as a dedicated software engineer in a modern React ecosystem. While they mention key terms like TypeScript and OWASP, the letter fails to provide concrete evidence of hands-on experience with Git, unit testing frameworks, or CI/CD pipelines. The profile suggests a technical generalist rather than the specialized developer required for this specific tech stack.

@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has a strong background in IT and server management, but lacks direct experience in modern front-end development technologies mentioned in the job description, such as testing frameworks, modern CSS tools, and functional programming. While they demonstrate familiarity with JavaScript and React, their resume does not show significant involvement in front-end projects or Agile environments. Additionally, knowledge of security practices and CI/CD tools appears to be limited, resulting in only a moderate fit for the role.

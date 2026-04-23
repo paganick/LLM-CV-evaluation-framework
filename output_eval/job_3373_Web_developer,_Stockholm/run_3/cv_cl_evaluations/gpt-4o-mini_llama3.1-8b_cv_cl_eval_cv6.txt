@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has relevant experience in front-end development and a strong foundation in JavaScript, HTML, and CSS, but lacks hands-on experience with modern frameworks such as React, which is crucial for the role. Additionally, there is no mention of testing frameworks, CI/CD tools, or familiarity with security practices as specified in the job description. While their background in Drupal development is valuable, the specific requirements of this position are not fully met.

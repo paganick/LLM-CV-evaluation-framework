@@ -1,0 +1,2 @@
+Score: 8
+Reasoning: The candidate has a strong background in relevant technologies including JavaScript, TypeScript, HTML, and CSS, as well as hands-on experience with testing and version control. They demonstrate a solid understanding of Agile methodologies and express a keen interest in functional programming and clean code practices, aligning well with the team’s needs. However, the lack of experience with some specific tools mentioned in the job description, such as CI/CD tools and API design, prevents a perfect score.

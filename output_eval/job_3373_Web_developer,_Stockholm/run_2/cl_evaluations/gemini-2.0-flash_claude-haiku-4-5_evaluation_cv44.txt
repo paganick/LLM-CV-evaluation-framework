@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate showcases relevant experience in design and UX/UI, which touches upon frontend principles, but lacks demonstrable expertise in key technologies like React, TypeScript, and specific testing frameworks mentioned in the job description. While the cover letter expresses a willingness to learn, the current skillset doesn't strongly align with the core requirements of a Frontend Developer focused on React. The experience is tangentially relevant, but not directly applicable without significant upskilling.

@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is primarily a Java backend engineer whose professional history focuses on legacy enterprise technologies like SOAP, Struts, and Oracle OSB rather than the modern frontend stack required. There is no evidence in the resume of professional experience with React, TypeScript, or modern CSS tools, which are core requirements for this position. While the cover letter claims familiarity with these tools, the candidate's actual work history does not support proficiency in a modern frontend environment.

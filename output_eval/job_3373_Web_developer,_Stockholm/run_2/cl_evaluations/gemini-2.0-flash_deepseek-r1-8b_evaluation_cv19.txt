@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate's background is primarily in graphic design, lacking the necessary experience in JavaScript, TypeScript, and React as required by the job description. While they express eagerness to learn, the lack of existing hands-on experience with modern FE frameworks and testing frameworks is a significant gap. The cover letter highlights HTML/CSS coursework, but the job requires a deeper understanding of specific technologies not adequately demonstrated.

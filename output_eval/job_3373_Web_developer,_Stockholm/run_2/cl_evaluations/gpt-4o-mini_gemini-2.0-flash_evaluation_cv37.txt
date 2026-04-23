@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a background in IT management but lacks the specific hands-on experience with front-end frameworks like React, TypeScript, and modern testing frameworks mentioned in the job description. While they have relevant experience in Agile environments and project management, the absence of essential front-end development skills and tools required for the position is significant. Overall, they are in a relevant industry but do not meet the specific experience requirements for this role.

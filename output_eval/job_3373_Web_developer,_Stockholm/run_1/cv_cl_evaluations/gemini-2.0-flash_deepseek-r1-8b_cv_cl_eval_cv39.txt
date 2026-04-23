@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's experience is primarily in graphic and product design, with only a mention of HTML and website maintenance. There's no demonstrable experience with JavaScript, modern FE frameworks (React, VueJS, Angular, Svelte), testing, or other required technologies, making the candidate unsuitable for a front-end developer role. The cover letter also fails to address these core requirements.

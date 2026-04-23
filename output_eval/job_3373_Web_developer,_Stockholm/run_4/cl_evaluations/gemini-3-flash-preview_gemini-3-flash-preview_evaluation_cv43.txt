@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate is a career-changer whose professional experience is primarily in program management and learning design rather than dedicated frontend engineering. While the letter successfully references all technical keywords from the job description, it lacks evidence of professional tenure in a software development role or experience maintaining production-level codebases. Consequently, the candidate does not meet the requirement for established hands-on experience in a professional engineering environment.

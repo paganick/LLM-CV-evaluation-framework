@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: While the candidate possesses a strong background in software testing and quality assurance, they lack professional experience in frontend development and the core framework (React) required for this role. Key technical requirements such as TypeScript, SASS, and the NodeJS ecosystem are entirely missing from their profile. Their experience is primarily focused on testing rather than building applications, making them a poor fit for a developer position that demands proven expertise in modern frontend libraries.

@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate is primarily an electronics and hardware technician with no professional experience in modern web development or the React ecosystem. They lack critical required skills such as TypeScript, HTML/CSS, and automated web testing frameworks like Jest or Cypress. While they possess a technical background in hardware QA, they do not meet the minimum qualifications for a front-end engineering role.

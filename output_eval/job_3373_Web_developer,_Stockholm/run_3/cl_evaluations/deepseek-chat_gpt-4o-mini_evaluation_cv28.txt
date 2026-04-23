@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is from a relevant analytical field but lacks the required hands-on experience in front-end development. They admit to only a "working knowledge" of core technologies (HTML, CSS) and no proven experience with React, TypeScript, or testing frameworks as specified. While they demonstrate strong transferable skills and correctly identify key job requirements, their practical technical qualifications are insufficient for the role.

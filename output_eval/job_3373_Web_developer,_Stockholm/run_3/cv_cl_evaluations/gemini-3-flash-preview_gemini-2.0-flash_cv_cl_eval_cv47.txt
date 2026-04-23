@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate is completely unqualified, possessing a background exclusively in business development and organic chemistry rather than software engineering. They lack any professional experience or demonstrated proficiency in the required tech stack, including JavaScript, TypeScript, React, and modern testing frameworks. Listing outdated tools like Dreamweaver and Flash confirms a significant gap between the candidate’s skills and the requirements of a modern Front-End Developer role.

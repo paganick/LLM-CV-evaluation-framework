@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The candidate's resume reflects experience primarily in administrative, artistic, and educational roles with no demonstrated expertise in JavaScript, TypeScript, or any front-end frameworks like React. Additionally, there is no evidence of knowledge in test automation, web security basics, or modern CSS tools, making them completely unqualified for the technical requirements outlined in the job description.

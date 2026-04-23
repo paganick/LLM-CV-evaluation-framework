@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has relevant experience in web development and a solid understanding of JavaScript, HTML, and CSS, but they lack direct experience with React, modern CSS tools like Styled Components and SASS, and testing frameworks specified in the job description. While they demonstrate potential and a willingness to learn, some critical technical requirements are not met.

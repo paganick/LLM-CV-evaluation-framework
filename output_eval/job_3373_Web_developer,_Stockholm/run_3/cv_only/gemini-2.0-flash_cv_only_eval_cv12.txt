@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate has listed Javascript, HTML, CSS, and Git as skills, but lacks demonstrable experience with modern FE frameworks like React, VueJS, Angular, or Svelte. There's also no mention of testing frameworks or CI/CD tools. The experience leans heavily towards backend technologies.

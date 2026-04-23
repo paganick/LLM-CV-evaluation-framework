@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is transitioning from a hardware-focused Engineering Lab Technician role and lacks professional experience with the core frontend stack, specifically HTML, CSS, and modern frameworks like React. While they possess transferable skills in software testing and basic JavaScript, they fail to demonstrate proficiency in essential requirements such as TypeScript, Git, web security, and modern styling tools. As a career changer without direct web development experience, they do not meet the technical criteria for this specific role.

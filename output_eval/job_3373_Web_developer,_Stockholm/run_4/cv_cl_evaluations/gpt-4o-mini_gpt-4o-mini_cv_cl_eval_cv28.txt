@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has a strong background in data analysis and project management but lacks the specific technical skills required for the Front-End Developer position, particularly in JavaScript, TypeScript, and modern frameworks like React. While the candidate shows an interest in transitioning to this field, their experience primarily lies in materials analysis, which does not align closely with the demands of software development and front-end technologies.

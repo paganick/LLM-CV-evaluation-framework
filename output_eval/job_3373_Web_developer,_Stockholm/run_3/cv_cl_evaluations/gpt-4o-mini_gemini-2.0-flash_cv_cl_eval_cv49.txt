@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate comes from a data analysis background, which is not directly relevant to front-end development. While they have expressed a strong interest in front-end technologies and a willingness to learn, they lack the required experience with JavaScript, TypeScript, HTML, CSS, and frameworks like React. Their skills in data manipulation and analysis do not sufficiently translate to the specific needs of this front-end developer role.

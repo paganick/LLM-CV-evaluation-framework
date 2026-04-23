@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has extensive graphic and web design experience and experience translating prototypes, but the cover letter shows no demonstrable experience with core requirements: JavaScript/TypeScript, React, modern CSS tooling (Styled Components/SASS), testing frameworks, Node/npm, Git, CI/CD, and web security. While they express willingness to learn, the role requires hands-on experience with these technologies; therefore they are a relevant but underqualified candidate for this position.

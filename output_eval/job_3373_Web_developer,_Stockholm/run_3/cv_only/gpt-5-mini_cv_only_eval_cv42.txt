@@ -1,0 +1,2 @@
+Score: 1
+Reasoning: The resume shows a 20-year career in finance and operations with no demonstrated experience in software development or front-end technologies such as JavaScript, TypeScript, React, HTML/CSS, testing frameworks, NodeJS, or cloud infrastructure. Core technical requirements of the role (modern FE frameworks, testing, CI/CD, Git, API design, AWS/Terraform) are entirely absent. While the candidate has strong leadership and project management skills, they are irrelevant to the technical demands of this position.

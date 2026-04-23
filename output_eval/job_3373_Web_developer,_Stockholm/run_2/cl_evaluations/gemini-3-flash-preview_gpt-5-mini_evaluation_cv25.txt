@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate is a career-changer who lacks the mandatory technical proficiency in JavaScript, TypeScript, and React required for this engineering role. While they possess a strong background in visual design and basic HTML/CSS, they provide no evidence of professional experience with automated testing, Git, or modern front-end build tools. Their profile does not meet the minimum requirements for a developer, as they are currently only aspiring to learn the core technologies listed in the job description.

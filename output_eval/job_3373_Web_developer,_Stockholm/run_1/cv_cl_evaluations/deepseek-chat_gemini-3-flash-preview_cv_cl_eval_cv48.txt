@@ -1,0 +1,2 @@
+Score: 3
+Reasoning: The candidate's background is in IT support and hardware, not professional frontend software development. The resume and cover letter lack any demonstrable, hands-on experience with the core technologies listed in the job description, such as React, TypeScript, modern testing frameworks, or functional programming. While the cover letter attempts to align with the role, it describes foundational IT knowledge rather than the specific engineering skills required.

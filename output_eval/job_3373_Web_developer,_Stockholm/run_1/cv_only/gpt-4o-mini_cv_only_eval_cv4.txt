@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has experience in JavaScript, CSS, and HTML but lacks experience with modern front-end frameworks like React, which is a crucial requirement. Additionally, there is no mention of experience with unit tests, integration tests, or testing frameworks, as well as limited exposure to Agile environments. While they have relevant programming experience, they do not meet the essential criteria outlined in the job description.

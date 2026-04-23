@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a relevant educational background and foundational skills in HTML, CSS, and JavaScript. However, they lack direct experience with modern frameworks like React and essential tools such as testing frameworks, which are crucial for the role. While they show a willingness to learn and grow, they do not meet all the key requirements outlined in the job description.

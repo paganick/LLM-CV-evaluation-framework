@@ -1,0 +1,2 @@
+Score: 7
+Reasoning: The candidate demonstrates a strong grasp of front-end technologies and relevant tools mentioned in the job description, including React, testing frameworks, and CSS tools. They also highlight their experience in Agile environments and collaboration. However, the cover letter could be more tailored to emphasize their passion for clean code specifically in relation to the company's desire, and there is no mention of security on the Web.

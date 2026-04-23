@@ -1,0 +1,2 @@
+Score: 6
+Reasoning: The candidate has a solid background in information technology and some relevant experience in web design and development, including JavaScript, HTML, and CSS. However, while they mention experience with React and testing frameworks, there is insufficient evidence of specific hands-on experience with modern front-end frameworks and tools outlined in the job description. Additionally, their familiarity with security practices and CI/CD tools does not strongly align with the requirements, resulting in a moderate fit.

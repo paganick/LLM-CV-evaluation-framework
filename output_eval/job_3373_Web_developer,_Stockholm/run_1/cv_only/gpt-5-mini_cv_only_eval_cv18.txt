@@ -1,0 +1,2 @@
+Score: 4
+Reasoning: The candidate has long IT and web development experience with HTML, CSS and JavaScript, but their resume shows primarily legacy/tooling and systems administration work rather than modern front-end engineering. There is no evidence of React, TypeScript, modern CSS-in-JS/SASS, Node/npm/Yarn, testing frameworks (Jest/Cypress), CI/CD, Git/GitHub workflows, or AWS/Terraform experience required by the role. While broadly experienced in IT, the specific front-end, testing, and DevOps skills asked for are lacking.

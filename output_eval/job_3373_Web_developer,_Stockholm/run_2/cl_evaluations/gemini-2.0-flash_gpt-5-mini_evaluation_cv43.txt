@@ -1,0 +1,2 @@
+Score: 5
+Reasoning: The candidate's background is tangentially relevant, but lacks direct front-end experience. While the cover letter highlights transferable skills, it doesn't demonstrate sufficient knowledge of the required technologies like JavaScript, TypeScript, or React. The letter focuses more on project management and learning design than on core front-end development skills.

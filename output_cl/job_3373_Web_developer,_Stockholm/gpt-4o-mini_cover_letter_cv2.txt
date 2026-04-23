@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the front-end development position at your company, leveraging my 8.5 years of experience in software development, particularly with Java/J2EE technologies and agile methodologies. Currently, as a Technical Designer at Tata Consultancy Services, I have honed my skills in coding, designing, and unit testing web-based applications, staying current with industry best practices and trends.
+
+My experience includes a solid foundation in HTML, CSS, and JavaScript, along with familiarity in frameworks and libraries such as jQuery, Bootstrap, and Struts. While my primary focus has been in back-end technologies, I have developed a keen interest in front-end systems and am eager to expand my expertise in modern libraries like React, as mentioned in your job description.
+
+I possess hands-on experience with Git and repository services like GitHub, ensuring collaborative efficiency within agile teams. I understand the importance of writing clean, maintainable code and am familiar with various testing frameworks, including JUnit and other automation tools, to validate application integrity seamlessly.
+
+My technical background is complemented by an understanding of web security principles (e.g., OWASP, CORS) and a continuous desire to learn about API design, AWS, and Terraform, aligning with your requirement for a developer keen on understanding the full domain. My proficiency in tools such as Eclipse, along with my interest in modern CSS tools and development processes (CI/CD), positions me well to contribute to your team.
+
+I thrive in collaborative environments, and my dedication to clear communication will help facilitate effective interactions with both internal teams and external partners. I am excited about the opportunity to bring my skills to your organization and work on innovative projects in front-end development.
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team.
+
+Sincerely,  
+Alexis

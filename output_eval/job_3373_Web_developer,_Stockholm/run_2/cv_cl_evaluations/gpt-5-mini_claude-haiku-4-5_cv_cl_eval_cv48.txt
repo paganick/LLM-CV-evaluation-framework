@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The resume shows a long history in IT support, field service, and CMS/retail roles but contains no demonstrated experience with JavaScript, TypeScript, React, modern frontend frameworks, testing frameworks, Node.js, or the specified toolchain. The cover letter signals motivation to transition and learn but provides no evidence of completed frontend projects, technical proficiency, or relevant certifications. Candidate is not qualified for this frontend developer role without substantial upskilling and demonstrable work in the required technologies.

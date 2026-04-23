@@ -1,0 +1,2 @@
+Score: 2
+Reasoning: The candidate's background is overwhelmingly hardware/IT support and field service with no demonstrated professional experience in JavaScript, TypeScript, React or other modern front-end frameworks, nor in testing frameworks, Git-based workflows, or Node.js. The cover letter expresses interest in front-end technologies but offers no concrete examples or projects to show competency. While strong for infrastructure and desktop/server support, the profile does not meet the core technical requirements for this front-end developer role.
