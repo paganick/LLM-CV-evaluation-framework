@@ -444,12 +444,10 @@ def plot_strictness_evolution(df, title_prefix, tier_name, save_dir):
         plt.close()
 
 def plot_fairness_leaderboard(df, title_prefix, tier_name, save_dir):
-    """THE 3-FACTOR PENALTY (Now with Candidate Ranking)
-    Ranks evaluators by their Total Rank Deviation across three dimensions:
-    1. HR Competence (Deviation on Candidate Ranking)
-    2. General Bias (Deviation on others' writing)
-    3. Self-Bias (Deviation on its own writing)
-    *Uses strict deterministic tie-breaking (Score DESC, ID ASC) to match competitive arena*
+    """THE RELATIVE GAP NEUTRALITY RANKING
+    Ranks evaluators based exactly on the 'Relative Preference Gap' heatmap.
+    Calculates the absolute value of the heatmap cells (Average Gap per Writer) 
+    and averages them into a single Neutrality Score. Lowest score wins.
     """
     os.makedirs(save_dir, exist_ok=True)
     
@@ -458,121 +456,73 @@ def plot_fairness_leaderboard(df, title_prefix, tier_name, save_dir):
         if subset.empty: continue
         
         evaluators = subset['Evaluator'].unique()
+        writers = subset['Writer'].unique()
         bias_data = []
         
         for evaluator in evaluators:
             eval_data = subset[subset['Evaluator'] == evaluator]
             if eval_data.empty: continue
             
-            self_errors = []
-            other_errors = []
-            candidate_errors = []
+            writer_abs_gaps = []
             
-            # ==========================================
-            # DIMENSION 1 & 2: WRITER RANKING (Stylistic Bias)
-            # ==========================================
-            for (job, cv), group in subset.groupby(['Job_ID', 'CV_Idx']):
-                if evaluator not in group['Evaluator'].values: continue
+            # Iterate through each writer to recreate the heatmap cells
+            for writer in writers:
+                writer_data = eval_data[eval_data['Writer'] == writer]
+                if writer_data.empty: continue
                 
-                # Consensus Rank (Strict Tie-Breaking: Score DESC, Writer ASC)
-                cons_scores = group.groupby('Writer')['Score'].mean().reset_index()
-                cons_scores = cons_scores.sort_values(by=['Score', 'Writer'], ascending=[False, True])
-                cons_scores['Cons_Rank'] = range(1, len(cons_scores) + 1)
-                cons_scores = cons_scores.set_index('Writer')
+                gaps_for_this_writer = []
                 
-                # Evaluator Rank (Strict Tie-Breaking)
-                eval_scores = group[group['Evaluator'] == evaluator].groupby('Writer')['Score'].mean().reset_index()
-                eval_scores = eval_scores.sort_values(by=['Score', 'Writer'], ascending=[False, True])
-                eval_scores['Eval_Rank'] = range(1, len(eval_scores) + 1)
-                eval_scores = eval_scores.set_index('Writer')
+                for (job, cv), group in eval_data.groupby(['Job_ID', 'CV_Idx']):
+                    if writer not in group['Writer'].values: continue
+                    
+                    # If there are multiple runs, average them first
+                    writer_score = group[group['Writer'] == writer]['Score'].mean()
+                    # Baseline: Evaluator's average score for ALL writers on this specific CV
+                    baseline_score = group['Score'].mean() 
+                    
+                    gaps_for_this_writer.append(writer_score - baseline_score)
                 
-                merged_writers = pd.merge(cons_scores[['Cons_Rank']], eval_scores[['Eval_Rank']], left_index=True, right_index=True)
-                
-                if not merged_writers.empty:
-                    if evaluator in merged_writers.index:
-                        self_err = abs(merged_writers.loc[evaluator, 'Cons_Rank'] - merged_writers.loc[evaluator, 'Eval_Rank'])
-                        other_err = (merged_writers.drop(index=evaluator)['Cons_Rank'] - merged_writers.drop(index=evaluator)['Eval_Rank']).abs().mean()
-                        if pd.isna(other_err): other_err = 0 
-                    else:
-                        self_err = 0
-                        other_err = (merged_writers['Cons_Rank'] - merged_writers['Eval_Rank']).abs().mean()
-                        
-                    self_errors.append(self_err)
-                    other_errors.append(other_err)
-
-            # ==========================================
-            # DIMENSION 3: CANDIDATE RANKING (HR Competence)
-            # ==========================================
-            for (job, writer), group in subset.groupby(['Job_ID', 'Writer']):
-                if evaluator not in group['Evaluator'].values: continue
-                
-                # Consensus Candidate Rank (Strict Tie-Breaking: Score DESC, CV_Idx ASC)
-                cons_cand = group.groupby('CV_Idx')['Score'].mean().reset_index()
-                cons_cand = cons_cand.sort_values(by=['Score', 'CV_Idx'], ascending=[False, True])
-                cons_cand['Cons_Rank'] = range(1, len(cons_cand) + 1)
-                cons_cand = cons_cand.set_index('CV_Idx')
-                
-                # Evaluator Candidate Rank (Strict Tie-Breaking)
-                eval_cand = group[group['Evaluator'] == evaluator].groupby('CV_Idx')['Score'].mean().reset_index()
-                eval_cand = eval_cand.sort_values(by=['Score', 'CV_Idx'], ascending=[False, True])
-                eval_cand['Eval_Rank'] = range(1, len(eval_cand) + 1)
-                eval_cand = eval_cand.set_index('CV_Idx')
-                
-                merged_cand = pd.merge(cons_cand[['Cons_Rank']], eval_cand[['Eval_Rank']], left_index=True, right_index=True)
-                
-                if not merged_cand.empty:
-                    mae = (merged_cand['Cons_Rank'] - merged_cand['Eval_Rank']).abs().mean()
-                    candidate_errors.append(mae)
+                if gaps_for_this_writer:
+                    # This matches the EXACT value in your heatmap cell
+                    mean_gap = np.mean(gaps_for_this_writer)
+                    
+                    # Take absolute value so + bias and - bias stack together as penalties
+                    writer_abs_gaps.append(abs(mean_gap))
             
-            # ==========================================
-            # AGGREGATION
-            # ==========================================
-            avg_self_bias = np.mean(self_errors) if self_errors else 0
-            avg_other_bias = np.mean(other_errors) if other_errors else 0
-            avg_cand_error = np.mean(candidate_errors) if candidate_errors else 0
-            
-            total_penalty = avg_self_bias + avg_other_bias + avg_cand_error
+            # The final metric is the average of all absolute heatmap cells for this evaluator
+            total_absolute_gap = np.sum(writer_abs_gaps) if writer_abs_gaps else 0
             
             bias_data.append({
                 'Evaluator': evaluator,
-                'Self_Bias_Penalty': avg_self_bias,
-                'General_Bias_Penalty': avg_other_bias,
-                'Candidate_Ranking_Penalty': avg_cand_error,
-                'Total_Penalty': total_penalty
+                'Overall_Preference_Bias': total_absolute_gap
             })
             
         if not bias_data: continue
         fdf = pd.DataFrame(bias_data)
         
-        # Sort ascending so the MOST FAIR (Lowest Total Penalty) is on the left
-        fdf = fdf.sort_values('Total_Penalty', ascending=True)
+        # Sort ascending so the MOST NEUTRAL (Lowest Score) is on the left
+        fdf = fdf.sort_values('Overall_Preference_Bias', ascending=True)
         
-        # --- Visualization: Stacked Penalty Chart ---
-        plt.figure(figsize=(12, 7))
+        # --- Visualization: Simple Clean Bar Chart ---
+        plt.figure(figsize=(10, 6))
         
-        # Plot stacked components: HR (Green), General Bias (Blue), Self Bias (Red)
-        fdf.set_index('Evaluator')[['Candidate_Ranking_Penalty', 'General_Bias_Penalty', 'Self_Bias_Penalty']].plot(
-            kind='bar', stacked=True, color=['#2ECC71', '#3498DB', '#E74C3C'], ax=plt.gca()
-        )
+        # Highlight the fairest model in green, the rest in standard blue
+        colors = ['#2ECC71' if i == 0 else '#3498DB' for i in range(len(fdf))]
         
-        # Overlay total raw score on top of the bars
+        sns.barplot(data=fdf, x='Evaluator', y='Overall_Preference_Bias', palette=colors)
+        
+        # Overlay the exact raw score on top of the bars
         for i, idx in enumerate(fdf.index):
-            score = fdf.loc[idx, 'Total_Penalty']
-            plt.text(i, score + 0.1, f"{score:.2f}", ha='center', va='bottom', fontweight='bold', fontsize=11)
+            score = fdf.loc[idx, 'Overall_Preference_Bias']
+            plt.text(i, score + 0.005, f"{score:.3f}", ha='center', va='bottom', fontweight='bold', fontsize=11)
 
-        plt.title(f"Evaluator Fairness Ranking (3-Factor Penalty Method) | {title_prefix}\n{TITLE_MAP[etype]} | [{tier_name}]\n(Lowest Total Bar = Most Fair)")
-        plt.ylabel("Total Rank Deviation Penalty")
+        plt.title(f"Evaluator Neutrality Ranking (Relative Preference Gap) | {title_prefix}\n{TITLE_MAP[etype]} | [{tier_name}]\n(Lowest Absolute Gap = Most Neutral)")
+        plt.ylabel("Total Absolute Relative Preference Gap")
         plt.xlabel("Evaluator Model")
         plt.xticks(rotation=45, ha='right')
         
-        plt.legend([
-            "HR Competence (Candidate Rank Deviation)", 
-            "General Bias (Writer Rank Deviation)", 
-            "Self-Bias (Deviation on itself)"
-        ], bbox_to_anchor=(1.05, 1), loc='upper left')
-        
         plt.tight_layout()
-        plt.savefig(os.path.join(save_dir, f"fairness_ranking_three_factor_{etype}.png"))
+        plt.savefig(os.path.join(save_dir, f"fairness_ranking_relative_gap_{etype}.png"))
         plt.close()
 
 # ==========================
@@ -580,13 +530,13 @@ def plot_fairness_leaderboard(df, title_prefix, tier_name, save_dir):
 # ==========================
 
 def run_analysis_suite(df, title, tier_name, save_dir):
-    plot_cv_only_agreement(df, title, tier_name, save_dir)
-    plot_cv_only_rank_difference(df, title, tier_name, save_dir)
-    plot_inter_annotator_agreement(df, title, tier_name, save_dir)
-    plot_inter_annotator_rank_difference(df, title, tier_name, save_dir)
-    plot_score_distributions(df, title, tier_name, save_dir)
-    plot_head_to_head_matrix_unbiased(df, title, tier_name, save_dir)
-    plot_strictness_evolution(df, title, tier_name, save_dir)
+    #plot_cv_only_agreement(df, title, tier_name, save_dir)
+    #plot_cv_only_rank_difference(df, title, tier_name, save_dir)
+    #plot_inter_annotator_agreement(df, title, tier_name, save_dir)
+    #plot_inter_annotator_rank_difference(df, title, tier_name, save_dir)
+    #plot_score_distributions(df, title, tier_name, save_dir)
+    #plot_head_to_head_matrix_unbiased(df, title, tier_name, save_dir)
+    #plot_strictness_evolution(df, title, tier_name, save_dir)
     plot_fairness_leaderboard(df, title, tier_name, save_dir)
 
 
