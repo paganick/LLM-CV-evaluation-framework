@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Raw evaluation output (204k files — use master_df.parquet instead)
+output_eval/*
+!output_eval/master_df.parquet
+
+# Generated cover letters
+output_cl/
+
+# Generated plots and CSVs (reproducible from scripts)
+output_plots/
+
+# Raw datasets
+raw_datasets/
