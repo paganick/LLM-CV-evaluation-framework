@@ -297,71 +297,70 @@ def calculate_leapfrog(df, evaluator, baseline_writer, target_writer):
     return results
 
 
-def plot_heatmap_gap(global_data, save_dir):
+def _gap_matrices_from_df(tier_df, etype):
+    """Compute heatmap-gap matrices from master_df (same logic as the raw-file approach)."""
+    sub = tier_df[tier_df["Eval_Type"] == etype]
+    if sub.empty:
+        return None, None, None, None
+
+    # Mean score per (Evaluator, CV_Idx, Writer) across all jobs/runs
+    pair_mean = (sub.groupby(["Evaluator", "CV_Idx", "Writer"])["Score"]
+                   .mean().reset_index().rename(columns={"Score": "PairMean"}))
+    # Mean score per (Evaluator, CV_Idx) across all writers/jobs/runs
+    all_mean = (sub.groupby(["Evaluator", "CV_Idx"])["Score"]
+                  .mean().reset_index().rename(columns={"Score": "AllMean"}))
+    merged = pair_mean.merge(all_mean, on=["Evaluator", "CV_Idx"])
+    merged["Gap"] = merged["PairMean"] - merged["AllMean"]
+
+    data_rows, annot_rows = [], []
+    for eval_name in UNIQUE_EVALUATORS:
+        row_vals, row_annots = [], []
+        for write_name in SORTED_WRITERS:
+            gaps = merged.loc[
+                (merged["Evaluator"] == eval_name) & (merged["Writer"] == write_name), "Gap"
+            ].tolist()
+            if gaps:
+                mean_gap = np.mean(gaps)
+                is_sig = False
+                if len(gaps) > 1 and np.var(gaps) != 0:
+                    try:
+                        _, p = stats.ttest_1samp(gaps, 0)
+                        is_sig = p < 0.05
+                    except Exception:
+                        pass
+                row_vals.append(mean_gap)
+                row_annots.append(f"{mean_gap:.2f}{'(*)' if is_sig else ''}")
+            else:
+                row_vals.append(0.0)
+                row_annots.append("0.00")
+        data_rows.append(row_vals)
+        annot_rows.append(row_annots)
+
+    df = pd.DataFrame(data_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
+    df_annot = pd.DataFrame(annot_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
+    col_means = df.mean(axis=0)
+    ew  = [w for w in df.columns if w in UNIQUE_EVALUATORS]
+    new = [w for w in df.columns if w not in UNIQUE_EVALUATORS]
+    sc  = (sorted(ew,  key=lambda w: col_means[w], reverse=True)
+           + sorted(new, key=lambda w: col_means[w], reverse=True))
+    sr  = [w for w in sc if w in UNIQUE_EVALUATORS]
+    df       = df.loc[sr, sc]
+    df_annot = df_annot.loc[sr, sc]
+    df.loc["Average"]       = df.mean(axis=0)
+    df_annot.loc["Average"] = [f"{df.loc['Average', c]:.2f}" for c in df.columns]
+    return df, df_annot, sr, sc
+
+
+def plot_heatmap_gap(tier_df, save_dir):
     os.makedirs(save_dir, exist_ok=True)
-    start_cv, end_cv = TIER_RANGE
     etypes = ["cl_evaluations", "cv_cl_evaluations"]
 
-    # --- First pass: build DataFrames for both etypes to determine shared scale ---
     built = {}
     for etype in etypes:
-        data_rows, annot_rows = [], []
-        for eval_name in UNIQUE_EVALUATORS:
-            row_vals, row_annots = [], []
-            for write_name in SORTED_WRITERS:
-                pair = f"{eval_name}_{write_name}"
-                gaps = []
-                for cv_idx in range(start_cv, end_cv + 1):
-                    pair_scores = global_data[etype].get(pair, {}).get(cv_idx, [])
-                    if not pair_scores:
-                        continue
-                    avg_pair = np.mean(pair_scores)
-                    all_scores = []
-                    for w in RAW_WRITERS:
-                        s = global_data[etype].get(f"{eval_name}_{w}", {}).get(cv_idx, [])
-                        if s:
-                            all_scores.extend(s)
-                    if all_scores:
-                        gaps.append(avg_pair - np.mean(all_scores))
-                if gaps:
-                    mean_gap = np.mean(gaps)
-                    is_sig = False
-                    if len(gaps) > 1:
-                        if np.var(gaps) == 0:
-                            is_sig = mean_gap != 0
-                        else:
-                            try:
-                                _, p = stats.ttest_1samp(gaps, 0)
-                                is_sig = p < 0.05
-                            except Exception:
-                                pass
-                    row_vals.append(mean_gap)
-                    row_annots.append(f"{mean_gap:.2f}{'(*)' if is_sig else ''}")
-                else:
-                    row_vals.append(0.0)
-                    row_annots.append("0.00")
-            data_rows.append(row_vals)
-            annot_rows.append(row_annots)
-
-        df = pd.DataFrame(data_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
-        df_annot = pd.DataFrame(annot_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
-
-        col_means = df.mean(axis=0)
-        eval_writers = [w for w in df.columns if w in UNIQUE_EVALUATORS]
-        non_eval_writers = [w for w in df.columns if w not in UNIQUE_EVALUATORS]
-        sorted_cols = (
-            sorted(eval_writers, key=lambda w: col_means[w], reverse=True)
-            + sorted(non_eval_writers, key=lambda w: col_means[w], reverse=True)
-        )
-        sorted_rows = [w for w in sorted_cols if w in UNIQUE_EVALUATORS]
-        df = df.loc[sorted_rows, sorted_cols]
-        df_annot = df_annot.loc[sorted_rows, sorted_cols]
-
-        avg_row = df.mean(axis=0)
-        df.loc["Average"] = avg_row
-        df_annot.loc["Average"] = [f"{df.loc['Average', c]:.2f}" for c in df.columns]
-
-        built[etype] = (df, df_annot, sorted_rows, sorted_cols)
+        result = _gap_matrices_from_df(tier_df, etype)
+        if result[0] is None:
+            continue
+        built[etype] = result
 
     # Symmetric scale: use max absolute value across both etypes (non-Average rows only)
     max_abs = max(
@@ -419,63 +418,14 @@ def plot_heatmap_gap(global_data, save_dir):
         print(f"  Saved heatmap_gap_{etype}.png")
 
 
-def plot_heatmap_gap_combined(global_data, save_dir):
+def plot_heatmap_gap_combined(tier_df, save_dir):
     """Both heatmaps side by side, each with its own ordering, shared colorbar."""
     os.makedirs(save_dir, exist_ok=True)
-    start_cv, end_cv = TIER_RANGE
     etypes = ["cl_evaluations", "cv_cl_evaluations"]
 
-    def _build(etype):
-        data_rows, annot_rows = [], []
-        for eval_name in UNIQUE_EVALUATORS:
-            row_vals, row_annots = [], []
-            for write_name in SORTED_WRITERS:
-                pair = f"{eval_name}_{write_name}"
-                gaps = []
-                for cv_idx in range(start_cv, end_cv + 1):
-                    pair_scores = global_data[etype].get(pair, {}).get(cv_idx, [])
-                    if not pair_scores:
-                        continue
-                    avg_pair = np.mean(pair_scores)
-                    all_sc = []
-                    for w in RAW_WRITERS:
-                        s = global_data[etype].get(f"{eval_name}_{w}", {}).get(cv_idx, [])
-                        if s:
-                            all_sc.extend(s)
-                    if all_sc:
-                        gaps.append(avg_pair - np.mean(all_sc))
-                if gaps:
-                    mean_gap = np.mean(gaps)
-                    is_sig = False
-                    if len(gaps) > 1 and np.var(gaps) != 0:
-                        try:
-                            _, p = stats.ttest_1samp(gaps, 0)
-                            is_sig = p < 0.05
-                        except Exception:
-                            pass
-                    row_vals.append(mean_gap)
-                    row_annots.append(f"{mean_gap:.2f}{'(*)' if is_sig else ''}")
-                else:
-                    row_vals.append(0.0)
-                    row_annots.append("0.00")
-            data_rows.append(row_vals)
-            annot_rows.append(row_annots)
-        df       = pd.DataFrame(data_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
-        df_annot = pd.DataFrame(annot_rows, index=UNIQUE_EVALUATORS, columns=SORTED_WRITERS)
-        # Sort columns by this etype's own average preference
-        col_means = df.mean(axis=0)
-        ew  = [w for w in df.columns if w in UNIQUE_EVALUATORS]
-        new = [w for w in df.columns if w not in UNIQUE_EVALUATORS]
-        sc  = (sorted(ew,  key=lambda w: col_means[w], reverse=True)
-               + sorted(new, key=lambda w: col_means[w], reverse=True))
-        sr  = [w for w in sc if w in UNIQUE_EVALUATORS]
-        df       = df.loc[sr, sc]
-        df_annot = df_annot.loc[sr, sc]
-        df.loc["Average"]       = df.mean(axis=0)
-        df_annot.loc["Average"] = [f"{df.loc['Average', c]:.2f}" for c in df.columns]
-        return df, df_annot, sr, sc
-
-    built = {et: _build(et) for et in etypes}
+    built = {et: _gap_matrices_from_df(tier_df, et) for et in etypes}
+    if any(v[0] is None for v in built.values()):
+        return
 
     # Shared symmetric scale
     max_abs = max(
@@ -485,7 +435,7 @@ def plot_heatmap_gap_combined(global_data, save_dir):
     max_abs = np.ceil(max_abs * 20) / 20
     shared_vmin, shared_vmax = -max_abs, max_abs
 
-    fs = plt.rcParams["font.size"] + 3
+    fs = plt.rcParams["font.size"] + 5
     fig, axes = plt.subplots(1, 2, figsize=(24, 9), constrained_layout=True)
 
     for ax_idx, (ax, etype) in enumerate(zip(axes, etypes)):
@@ -496,7 +446,7 @@ def plot_heatmap_gap_combined(global_data, save_dir):
             df_plot, annot=df_annot_plot, fmt="", ax=ax,
             cmap="RdBu_r", center=0, vmin=shared_vmin, vmax=shared_vmax,
             linewidths=0.5, linecolor="gray",
-            annot_kws={"size": fs - 1},
+            annot_kws={"size": fs + 1},
             cbar=False,
         )
         # Separator before Average row
@@ -512,10 +462,10 @@ def plot_heatmap_gap_combined(global_data, save_dir):
         ax.set_title(TITLE_MAP[etype], fontsize=fs + 5, pad=10)
         ax.set_xlabel("Writer Model", fontsize=fs + 4)
         ax.set_ylabel("Evaluator Model" if ax_idx == 0 else "", fontsize=fs + 4)
-        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right", fontsize=fs, fontweight="bold")
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right", fontsize=fs + 2, fontweight="bold")
         for tick in ax.get_xticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-        ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=fs, fontweight="bold")
+        ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=fs + 2, fontweight="bold")
         for tick in ax.get_yticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
 
@@ -526,7 +476,7 @@ def plot_heatmap_gap_combined(global_data, save_dir):
     sm.set_array([])
     cbar = fig.colorbar(sm, ax=axes, shrink=0.75, pad=0.02)
     cbar.set_label("Preference Gap (score units, 0–10 scale)", fontsize=fs + 4)
-    cbar.ax.tick_params(labelsize=fs)
+    cbar.ax.tick_params(labelsize=fs + 2)
 
     fig.suptitle(
         "Relative Preference Gap\n"
@@ -1087,8 +1037,7 @@ def plot_stacked_rank(df, save_dir):
         ax.set_xlabel("Evaluator Model", fontsize=fs + 4)
         ax.set_ylabel("Cumulative |Rank Deviation| from Midpoint", fontsize=fs + 4)
         ax.set_title(
-            f"Cumulative Evaluator Bias (Rank-Based) | {TITLE_MAP[etype]}\n"
-            "Sorted left → right: least to most biased  |  Solid = over-ranked, Hatched = under-ranked",
+            f"Cumulative Evaluator Bias (Rank-Based) | {TITLE_MAP[etype]}",
             fontsize=fs + 5, pad=12,
         )
         ax.tick_params(axis="y", labelsize=fs)
@@ -1201,8 +1150,7 @@ def plot_stacked_rank_combined(df, save_dir):
                bbox_to_anchor=(1.0, 0.5), loc="center left", fontsize=fs - 1)
 
     fig.suptitle(
-        "Cumulative Evaluator Bias (Rank-Based)\n"
-        "Sorted left → right: least to most biased  |  Solid = over-ranked, Hatched = under-ranked",
+        "Cumulative Evaluator Bias (Rank-Based)",
         fontsize=fs + 5,
     )
     plt.tight_layout(pad=1.5)
@@ -1225,40 +1173,45 @@ def plot_agreement_corr(tier_df, save_dir):
 
     def _draw(corr, title, fname):
         fig, ax = plt.subplots(figsize=(10, 8), constrained_layout=True)
-        sns.heatmap(corr, annot=corr.round(2).astype(str), fmt="", ax=ax,
+        annot = corr.round(2).astype(str)
+        diag_mask = np.eye(len(corr), dtype=bool)
+        for i in range(len(annot)):
+            annot.iloc[i, i] = ""
+        sns.heatmap(corr, annot=annot, fmt="", ax=ax,
+                    mask=diag_mask,
                     cmap="RdBu_r", center=0, vmin=-1, vmax=1,
                     linewidths=0.5, linecolor="gray",
-                    annot_kws={"size": fs - 1})
-        ax.set_title(title, fontsize=fs + 5, pad=10)
+                    annot_kws={"size": fs + 1})
+        ax.set_title(title, fontsize=fs + 7, pad=10)
         ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right",
-                           fontsize=fs, fontweight="bold")
+                           fontsize=fs + 2, fontweight="bold")
         ax.set_yticklabels(ax.get_yticklabels(), rotation=0,
-                           fontsize=fs, fontweight="bold")
+                           fontsize=fs + 2, fontweight="bold")
         for tick in ax.get_xticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
         for tick in ax.get_yticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-        ax.set_xlabel("Evaluator Model", fontsize=fs + 4)
-        ax.set_ylabel("Evaluator Model", fontsize=fs + 4)
+        ax.set_xlabel("")
+        ax.set_ylabel("")
         cbar = ax.collections[0].colorbar
-        cbar.set_label("Pearson r", fontsize=fs + 4)
-        cbar.ax.tick_params(labelsize=fs)
+        cbar.set_label("Pearson r", fontsize=fs + 6)
+        cbar.ax.tick_params(labelsize=fs + 2)
         plt.savefig(os.path.join(save_dir, fname), dpi=150, bbox_inches="tight")
         plt.close()
         print(f"  Saved {fname}")
 
-    # CV Only: raw score agreement
-    cv_sub = tier_df[tier_df["Eval_Type"] == "cv_only"]
-    if not cv_sub.empty:
-        vecs = {
+    # CV-only: raw score agreement
+    sub_cv = tier_df[tier_df["Eval_Type"] == "cv_only"]
+    if not sub_cv.empty:
+        vecs_cv = {
             MODEL_DISPLAY.get(ev, ev): (
-                cv_sub[cv_sub["Evaluator"] == ev]
+                sub_cv[sub_cv["Evaluator"] == ev]
                 .groupby(["Job_ID", "CV_Idx"])["Score"].mean()
             )
             for ev in UNIQUE_EVALUATORS
         }
-        _draw(_build_corr(vecs),
-              "Evaluator Agreement — CV Only\n(Pearson r of raw scores across candidates)",
+        _draw(_build_corr(vecs_cv),
+              "Evaluator Agreement — CV Only\n(Pearson r of raw scores)",
               "agreement_corr_cv_only.png")
 
     # CL and CV+CL: style residual agreement
@@ -1282,6 +1235,395 @@ def plot_agreement_corr(tier_df, save_dir):
 
 
 # ==========================
+# STRICTNESS + AGREEMENT COMBINED
+# ==========================
+
+def _draw_strictness_left(ax_line, cv_sub, fs, variant):
+    ax_line.cla()
+    all_series = []
+    all_stds = []
+    for ev in UNIQUE_EVALUATORS:
+        ev_data = cv_sub[cv_sub["Evaluator"] == ev].groupby("CV_Idx")["Score"].mean()
+        if ev_data.empty:
+            continue
+        ev_std = cv_sub[cv_sub["Evaluator"] == ev].groupby("CV_Idx")["Score"].std().fillna(0)
+        rolling = ev_data.rolling(window=3, min_periods=1).mean()
+        rolling_std = ev_std.rolling(window=3, min_periods=1).mean()
+        all_series.append(ev_data)
+        all_stds.append(rolling_std)
+        color = WRITER_COLORS[ev]
+        ax_line.plot(
+            rolling.index, rolling.values,
+            label=MODEL_DISPLAY[ev],
+            color=color,
+            linewidth=2, alpha=0.85,
+        )
+    if all_series:
+        all_rolling = pd.concat(all_series, axis=1).rolling(window=3, min_periods=1).mean()
+        overall = all_rolling.mean(axis=1)
+        ax_line.plot(overall.index, overall.values,
+                     color="black", linewidth=3, label="Average", zorder=10)
+        if variant == "avg_shade":
+            overall_std = pd.concat(all_stds, axis=1).mean(axis=1)
+            ax_line.fill_between(
+                overall.index,
+                overall.values - overall_std.values,
+                overall.values + overall_std.values,
+                color="black", alpha=0.12, label="Avg ± std",
+            )
+        elif variant == "envelope":
+            ax_line.fill_between(
+                overall.index,
+                all_rolling.min(axis=1).values,
+                all_rolling.max(axis=1).values,
+                color="black", alpha=0.10, label="Model range",
+            )
+    ax_line.set_title("Evaluator Strictness by CV Rank", fontsize=fs + 5, pad=10)
+    ax_line.set_xlabel("CV Rank", fontsize=fs + 4)
+    ax_line.set_ylabel("Score", fontsize=fs + 4)
+    ax_line.set_ylim(0, 10)
+    ax_line.tick_params(axis="both", labelsize=fs)
+    ax_line.grid(True, alpha=0.3)
+    leg = ax_line.legend(fontsize=fs - 1, loc="upper right", framealpha=0.9)
+    for text in leg.get_texts():
+        text.set_color(DISPLAY_COLORS.get(text.get_text(), "black"))
+        text.set_fontweight("bold")
+
+
+def plot_strictness_agreement_combined(tier_df, save_dir):
+    os.makedirs(save_dir, exist_ok=True)
+    fs = plt.rcParams["font.size"] + 5
+
+    cv_sub = tier_df[tier_df["Eval_Type"] == "cv_only"]
+    if cv_sub.empty:
+        return
+
+    # --- Right: evaluator agreement heatmap (shared across variants) ---
+    vecs = {
+        MODEL_DISPLAY.get(ev, ev): (
+            cv_sub[cv_sub["Evaluator"] == ev]
+            .groupby(["Job_ID", "CV_Idx"])["Score"].mean()
+        )
+        for ev in UNIQUE_EVALUATORS
+    }
+    corr = pd.DataFrame(vecs).dropna().corr(method="pearson")
+
+    def _draw_heatmap(ax_heat):
+        sns.heatmap(corr, annot=corr.round(2).astype(str), fmt="", ax=ax_heat,
+                    cmap="RdBu_r", center=0, vmin=-1, vmax=1,
+                    linewidths=0.5, linecolor="gray",
+                    annot_kws={"size": fs - 1})
+        ax_heat.set_title("Evaluator Agreement", fontsize=fs + 5, pad=10)
+        ax_heat.set_xticklabels(ax_heat.get_xticklabels(), rotation=45, ha="right",
+                                fontsize=fs, fontweight="bold")
+        ax_heat.set_yticklabels(ax_heat.get_yticklabels(), rotation=0,
+                                fontsize=fs, fontweight="bold")
+        for tick in ax_heat.get_xticklabels():
+            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+        for tick in ax_heat.get_yticklabels():
+            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+        ax_heat.set_xlabel("", fontsize=fs + 4)
+        ax_heat.set_ylabel("", fontsize=fs + 4)
+        cbar = ax_heat.collections[0].colorbar
+        cbar.set_label("Pearson r", fontsize=fs + 4)
+        cbar.ax.tick_params(labelsize=fs)
+
+    # --- Line plot variant (combined with heatmap) ---
+    fig, (ax_line, ax_heat) = plt.subplots(
+        1, 2, figsize=(20, 7),
+        gridspec_kw={"width_ratios": [1.5, 1]},
+        constrained_layout=True,
+    )
+    _draw_strictness_left(ax_line, cv_sub, fs, "avg_shade")
+    _draw_heatmap(ax_heat)
+    fig.savefig(os.path.join(save_dir, "strictness_agreement_cv_only.png"), dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved strictness_agreement_cv_only.png")
+
+    # --- Line plot standalone ---
+    fig, ax_line = plt.subplots(figsize=(12, 7), constrained_layout=True)
+    _draw_strictness_left(ax_line, cv_sub, fs, "avg_shade")
+    fig.savefig(os.path.join(save_dir, "strictness_lineplot.png"), dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved strictness_lineplot.png")
+
+    # --- Box plot variant: top-25 vs bottom-25 CV ranks ---
+    all_ranks = sorted(cv_sub["CV_Idx"].unique())
+    top25 = set(all_ranks[:25])
+    bot25 = set(all_ranks[-25:])
+    rows = []
+    for ev in UNIQUE_EVALUATORS:
+        ev_data = cv_sub[cv_sub["Evaluator"] == ev][["CV_Idx", "Score"]]
+        for _, r in ev_data.iterrows():
+            if r["CV_Idx"] in top25:
+                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Top 25", "Score": r["Score"]})
+            elif r["CV_Idx"] in bot25:
+                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Bottom 25", "Score": r["Score"]})
+    box_df = pd.DataFrame(rows)
+
+    fig, (ax_box, ax_heat) = plt.subplots(
+        1, 2, figsize=(20, 7),
+        gridspec_kw={"width_ratios": [1.5, 1]},
+        constrained_layout=True,
+    )
+    model_order = [MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS if MODEL_DISPLAY[ev] in box_df["Model"].unique()]
+    model_palette = {MODEL_DISPLAY[ev]: WRITER_COLORS[ev] for ev in UNIQUE_EVALUATORS}
+    n_models = len(model_order)
+    bar_width = 0.35 / n_models
+    group_gap = 0.2
+    tier_centers = []
+    tier_means = {}
+    for tier_idx, tier in enumerate(["Top 25", "Bottom 25"]):
+        x_center = tier_idx * (1 + group_gap)
+        tier_centers.append(x_center)
+        half_span = (n_models - 1) / 2 * (bar_width + 0.02) + bar_width / 2
+        tier_means[tier] = (x_center - half_span, x_center + half_span,
+                            box_df[box_df["Tier"] == tier]["Score"].mean())
+        for model_idx, model in enumerate(model_order):
+            subset = box_df[(box_df["Tier"] == tier) & (box_df["Model"] == model)]["Score"]
+            if subset.empty:
+                continue
+            x_pos = x_center + (model_idx - (n_models - 1) / 2) * (bar_width + 0.02)
+            ax_box.bar(x_pos, subset.mean(), width=bar_width,
+                       color=model_palette[model], alpha=0.85,
+                       yerr=subset.std(), error_kw={"capsize": 4, "linewidth": 1.5, "ecolor": "black"},
+                       label=model if tier_idx == 0 else "_nolegend_")
+    avg_line = None
+    for tier, (x0, x1, mean_val) in tier_means.items():
+        avg_line, = ax_box.plot([x0, x1], [mean_val, mean_val], color="black",
+                                linestyle="dashed", linewidth=1.8, zorder=5)
+        ax_box.text(x1 + 0.02, mean_val, f"{mean_val:.2f}", va="center",
+                    ha="left", fontsize=fs - 1, fontweight="bold")
+    ax_box.set_xticks(tier_centers)
+    ax_box.set_xticklabels(["Top 25", "Bottom 25"])
+    ax_box.set_title("Evaluator Strictness: Top vs Bottom CVs", fontsize=fs + 5, pad=10)
+    ax_box.set_xlabel("", fontsize=fs + 4)
+    ax_box.set_ylabel("Score", fontsize=fs + 4)
+    ax_box.set_ylim(0, 10)
+    ax_box.tick_params(axis="both", labelsize=fs)
+    ax_box.grid(True, alpha=0.3, axis="y")
+    for tick in ax_box.get_xticklabels():
+        tick.set_fontweight("bold")
+        tick.set_fontsize(fs + 2)
+    handles, labels = ax_box.get_legend_handles_labels()
+    if avg_line is not None:
+        handles.append(avg_line)
+        labels.append("Average")
+    leg = ax_box.legend(handles, labels, fontsize=fs - 1, framealpha=0.9, loc="upper right")
+    for text in leg.get_texts():
+        text.set_color(DISPLAY_COLORS.get(text.get_text(), "black"))
+        text.set_fontweight("bold")
+    _draw_heatmap(ax_heat)
+    fig.savefig(os.path.join(save_dir, "strictness_agreement_boxplot.png"), dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved strictness_agreement_boxplot.png")
+
+
+def plot_strictness_by_condition(tier_df, save_dir):
+    os.makedirs(save_dir, exist_ok=True)
+    fs = plt.rcParams["font.size"] + 5
+
+    conditions = [
+        ("cv_only",           "CV Only"),
+        ("cl_evaluations",    "Cover Letter Only"),
+        ("cv_cl_evaluations", "CV + Cover Letter"),
+    ]
+
+    fig, axes = plt.subplots(1, 3, figsize=(24, 7), constrained_layout=True)
+    model_palette = {MODEL_DISPLAY[ev]: WRITER_COLORS[ev] for ev in UNIQUE_EVALUATORS}
+
+    legend_handles, legend_labels = [], []
+
+    for col, (etype, title) in enumerate(conditions):
+        ax       = axes[col]
+        sub      = tier_df[tier_df["Eval_Type"] == etype]
+        is_first = col == 0
+
+        if sub.empty:
+            ax.set_visible(False)
+            continue
+
+        # --- Bar chart ---
+        all_ranks = sorted(sub["CV_Idx"].unique())
+        top25 = set(all_ranks[:25])
+        bot25 = set(all_ranks[-25:])
+
+        rows = []
+        for ev in UNIQUE_EVALUATORS:
+            ev_data = sub[sub["Evaluator"] == ev][["CV_Idx", "Score"]]
+            for _, r in ev_data.iterrows():
+                if r["CV_Idx"] in top25:
+                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Top 25", "Score": r["Score"]})
+                elif r["CV_Idx"] in bot25:
+                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Bottom 25", "Score": r["Score"]})
+        box_df = pd.DataFrame(rows)
+
+        model_order = [MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS if MODEL_DISPLAY[ev] in box_df["Model"].unique()]
+        n_models    = len(model_order)
+        bar_width   = 0.35 / n_models
+        group_gap   = 0.2
+        tier_centers = []
+        tier_means   = {}
+
+        for tier_idx, tier in enumerate(["Top 25", "Bottom 25"]):
+            x_center = tier_idx * (1 + group_gap)
+            tier_centers.append(x_center)
+            half_span = (n_models - 1) / 2 * (bar_width + 0.02) + bar_width / 2
+            tier_means[tier] = (x_center - half_span, x_center + half_span,
+                                box_df[box_df["Tier"] == tier]["Score"].mean())
+            for model_idx, model in enumerate(model_order):
+                subset = box_df[(box_df["Tier"] == tier) & (box_df["Model"] == model)]["Score"]
+                if subset.empty:
+                    continue
+                x_pos = x_center + (model_idx - (n_models - 1) / 2) * (bar_width + 0.02)
+                bar = ax.bar(x_pos, subset.mean(), width=bar_width,
+                             color=model_palette[model], alpha=0.85,
+                             yerr=subset.std(), error_kw={"capsize": 4, "linewidth": 1.5, "ecolor": "black"})
+                if is_first and tier_idx == 0:
+                    legend_handles.append(bar)
+                    legend_labels.append(model)
+
+        avg_line = None
+        for tier, (x0, x1, mean_val) in tier_means.items():
+            avg_line, = ax.plot([x0, x1], [mean_val, mean_val], color="black",
+                                linestyle="dashed", linewidth=1.8, zorder=5)
+            ax.text(x1 + 0.02, mean_val, f"{mean_val:.2f}", va="center",
+                    ha="left", fontsize=fs - 1, fontweight="bold")
+
+        if is_first and avg_line is not None:
+            legend_handles.append(avg_line)
+            legend_labels.append("Average")
+
+        ax.set_xticks(tier_centers)
+        ax.set_xticklabels(["Top 25", "Bottom 25"])
+        ax.set_title(title, fontsize=fs + 5, pad=10)
+        ax.set_ylabel("Score" if is_first else "", fontsize=fs + 4)
+        ax.set_ylim(0, 10)
+        ax.tick_params(axis="both", labelsize=fs)
+        ax.grid(True, alpha=0.3, axis="y")
+        for tick in ax.get_xticklabels():
+            tick.set_fontweight("bold")
+            tick.set_fontsize(fs + 2)
+
+    leg = axes[0].legend(legend_handles, legend_labels, fontsize=fs - 1,
+                         framealpha=0.9, loc="upper right")
+    for text in leg.get_texts():
+        text.set_color(DISPLAY_COLORS.get(text.get_text(), "black"))
+        text.set_fontweight("bold")
+
+    fname = "strictness_by_condition.png"
+    fig.savefig(os.path.join(save_dir, fname), dpi=150, bbox_inches="tight")
+    plt.close()
+    print(f"  Saved {fname}")
+
+
+def plot_inter_candidate_variance(tier_df, save_dir):
+    os.makedirs(save_dir, exist_ok=True)
+    fs = plt.rcParams["font.size"] + 5
+
+    conditions = [
+        ("cv_only",           "CV Only"),
+        ("cl_evaluations",    "Cover Letter Only"),
+        ("cv_cl_evaluations", "CV + Cover Letter"),
+    ]
+    cond_colors = ["#5C85C5", "#E07B4A", "#4CAF50"]
+
+    # --- Figure 1: grouped bar chart per evaluator × condition ---
+    n_ev   = len(UNIQUE_EVALUATORS)
+    n_cond = len(conditions)
+    bar_w  = 0.22
+    x      = np.arange(n_ev)
+
+    fig, ax = plt.subplots(figsize=(14, 6), constrained_layout=True)
+    for ci, ((etype, label), color) in enumerate(zip(conditions, cond_colors)):
+        sub = tier_df[tier_df["Eval_Type"] == etype]
+        stds = []
+        for ev in UNIQUE_EVALUATORS:
+            per_cv = sub[sub["Evaluator"] == ev].groupby("CV_Idx")["Score"].mean()
+            stds.append(per_cv.std())
+        offset = (ci - (n_cond - 1) / 2) * (bar_w + 0.03)
+        bars = ax.bar(x + offset, stds, width=bar_w, label=label,
+                      color=color, alpha=0.85, edgecolor="white")
+        ax.bar_label(bars, fmt="%.2f", padding=3, fontsize=fs - 3)
+
+    ax.set_xticks(x)
+    ax.set_xticklabels([MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS],
+                       rotation=30, ha="right", fontsize=fs, fontweight="bold")
+    for tick, ev in zip(ax.get_xticklabels(), UNIQUE_EVALUATORS):
+        tick.set_color(DISPLAY_COLORS.get(MODEL_DISPLAY[ev], "black"))
+    ax.set_ylabel("Std of mean score across candidates", fontsize=fs + 2)
+    ax.set_title("Inter-Candidate Score Variance by Evaluator and Condition",
+                 fontsize=fs + 5, pad=10)
+    ax.set_ylim(0, ax.get_ylim()[1] * 1.15)
+    ax.tick_params(axis="y", labelsize=fs)
+    ax.grid(True, alpha=0.3, axis="y")
+    leg = ax.legend(fontsize=fs, framealpha=0.9)
+    for text in leg.get_texts():
+        text.set_fontweight("bold")
+
+    fig.savefig(os.path.join(save_dir, "inter_candidate_variance.png"),
+                dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved inter_candidate_variance.png")
+
+    # --- Figure 2: heatmaps (evaluator × writer) for CL-only and CV+CL ---
+    cl_conditions = [("cl_evaluations", "Cover Letter Only"),
+                     ("cv_cl_evaluations", "CV + Cover Letter")]
+
+    fig, axes = plt.subplots(1, 2, figsize=(22, 7), constrained_layout=True)
+    all_vals = []
+    matrices = {}
+    for etype, _ in cl_conditions:
+        sub = tier_df[tier_df["Eval_Type"] == etype]
+        mat = pd.DataFrame(index=[MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS],
+                           columns=[MODEL_DISPLAY.get(w, w) for w in RAW_WRITERS],
+                           dtype=float)
+        for ev in UNIQUE_EVALUATORS:
+            for w in RAW_WRITERS:
+                ev_w = sub[(sub["Evaluator"] == ev) & (sub["Writer"] == w)]
+                if ev_w.empty:
+                    mat.loc[MODEL_DISPLAY[ev], MODEL_DISPLAY.get(w, w)] = np.nan
+                else:
+                    per_cv = ev_w.groupby("CV_Idx")["Score"].mean()
+                    mat.loc[MODEL_DISPLAY[ev], MODEL_DISPLAY.get(w, w)] = per_cv.std()
+        matrices[etype] = mat
+        all_vals.extend(mat.values.flatten())
+
+    vmin = np.nanmin(all_vals)
+    vmax = np.nanmax(all_vals)
+
+    for ax, (etype, title) in zip(axes, cl_conditions):
+        mat = matrices[etype]
+        annot = mat.round(2).astype(str).replace("nan", "")
+        sns.heatmap(mat, annot=annot, fmt="", ax=ax,
+                    cmap="YlOrRd", vmin=vmin, vmax=vmax,
+                    linewidths=0.5, linecolor="gray",
+                    annot_kws={"size": fs - 1}, cbar=(ax is axes[-1]))
+        ax.set_title(title, fontsize=fs + 5, pad=10)
+        ax.set_xlabel("Writer Model", fontsize=fs + 2)
+        ax.set_ylabel("Evaluator Model" if ax is axes[0] else "", fontsize=fs + 2)
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right",
+                           fontsize=fs, fontweight="bold")
+        ax.set_yticklabels(ax.get_yticklabels(), rotation=0,
+                           fontsize=fs, fontweight="bold")
+        for tick in ax.get_xticklabels():
+            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+        for tick in ax.get_yticklabels():
+            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+
+    cbar = axes[-1].collections[0].colorbar
+    cbar.set_label("Std of mean score across candidates", fontsize=fs + 2)
+    cbar.ax.tick_params(labelsize=fs)
+
+    fig.suptitle("Inter-Candidate Score Variance by Evaluator and Writer Model",
+                 fontsize=fs + 5)
+    fig.savefig(os.path.join(save_dir, "inter_candidate_variance_heatmap.png"),
+                dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved inter_candidate_variance_heatmap.png")
+
+
+# ==========================
 # MAIN
 # ==========================
 
@@ -1291,32 +1633,6 @@ def main():
     if not os.path.exists(BASE_DIR) and not os.path.exists(CACHE_PATH):
         print(f"ERROR: {BASE_DIR} does not exist.")
         return
-
-    # Heatmap gap (needs raw per-pair data)
-    print("=== Loading data for heatmap_gap plots ===")
-    version_folders = []
-    for folder_name in os.listdir(BASE_DIR):
-        full_path = os.path.join(BASE_DIR, folder_name)
-        if not os.path.isdir(full_path):
-            continue
-        m = re.match(r"(job_\d+)", folder_name)
-        if m:
-            version_folders.append((m.group(1), folder_name, full_path))
-
-    all_jobs_data = {}
-    for job_id in sorted(set(v[0] for v in version_folders)):
-        my_versions = [v for v in version_folders if v[0] == job_id]
-        v_path = my_versions[0][2]
-        runs = [d for d in os.listdir(v_path) if d.startswith("run_")]
-        if not runs:
-            continue
-        cv_count = detect_cv_count(os.path.join(v_path, runs[0], "cl_evaluations"))
-        if cv_count == 0:
-            continue
-        all_jobs_data[job_id] = collect_job_data(my_versions, cv_count)
-        print(f"  Loaded {job_id} ({cv_count} CVs)")
-
-    global_data = merge_jobs_data(all_jobs_data)
 
     # Master dataframe (from parquet cache)
     print("\n=== Loading master dataframe ===")
@@ -1372,16 +1688,17 @@ def main():
     # Generate all plots
     print(f"\n=== Generating plots → {OUT_DIR} ===")
 
-    plot_heatmap_gap(global_data, OUT_DIR)
-    plot_heatmap_gap_combined(global_data, OUT_DIR)
-
     if not tier_df.empty:
+        plot_heatmap_gap(tier_df, OUT_DIR)
+        plot_heatmap_gap_combined(tier_df, OUT_DIR)
         plot_win_matrix(tier_df, OUT_DIR)
         plot_evaluator_divergence(tier_df, OUT_DIR)
         plot_stacked_score(tier_df, OUT_DIR)
         plot_stacked_rank(tier_df, OUT_DIR)
         plot_stacked_rank_combined(tier_df, OUT_DIR)
         plot_agreement_corr(tier_df, OUT_DIR)
+        plot_strictness_agreement_combined(tier_df, OUT_DIR)
+        plot_strictness_by_condition(tier_df, OUT_DIR)
     else:
         print("  Skipping master-df plots (no data).")
 
