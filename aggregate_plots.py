@@ -215,6 +215,8 @@ def build_master_df(base_dir, force=False):
         for run_folder in os.listdir(job_path):
             if not run_folder.startswith("run_"):
                 continue
+            m_run = re.search(r"run_(\d+)", run_folder)
+            run_id = int(m_run.group(1)) if m_run else 0
             run_path = os.path.join(job_path, run_folder)
             for etype in ["cv_only", "cl_evaluations", "cv_cl_evaluations"]:
                 eval_path = os.path.join(run_path, etype)
@@ -229,6 +231,7 @@ def build_master_df(base_dir, force=False):
                         if score is not None:
                             rows.append({
                                 "Job_ID": job_id, "Job_Title": job_title,
+                                "Run": run_id,
                                 "Eval_Type": etype, "Evaluator": evaluator,
                                 "Writer": writer, "CV_Idx": cv_idx, "Score": score,
                             })
@@ -241,33 +244,15 @@ def build_master_df(base_dir, force=False):
 
 
 def load_competitive_data(base_dir):
-    rows = []
-    for job_folder in os.listdir(base_dir):
-        job_path = os.path.join(base_dir, job_folder)
-        if not os.path.isdir(job_path):
-            continue
-        for run_folder in os.listdir(job_path):
-            m = re.search(r"run_(\d+)", run_folder)
-            if not m:
-                continue
-            run_id = int(m.group(1))
-            for etype in ["cv_only", "cv_cl_evaluations"]:
-                eval_path = os.path.join(job_path, run_folder, etype)
-                if not os.path.exists(eval_path):
-                    continue
-                for fname in os.listdir(eval_path):
-                    if not fname.endswith(".txt"):
-                        continue
-                    evaluator, writer, cv_idx = parse_filename(fname, etype)
-                    if evaluator and cv_idx:
-                        score = extract_first_number(os.path.join(eval_path, fname))
-                        if score is not None:
-                            rows.append({
-                                "Job": job_folder, "Run": run_id,
-                                "Evaluator": evaluator, "Writer": writer,
-                                "CV_Idx": cv_idx, "Score": score, "Type": etype,
-                            })
-    return pd.DataFrame(rows)
+    if not os.path.exists(CACHE_PATH):
+        return pd.DataFrame()
+    df = pd.read_parquet(CACHE_PATH)
+    if "Run" not in df.columns:
+        print("  WARNING: parquet missing Run column — regenerate cache with raw data present.")
+        return pd.DataFrame()
+    comp = df[df["Eval_Type"].isin(["cv_only", "cv_cl_evaluations"])].copy()
+    comp = comp.rename(columns={"Job_ID": "Job", "Eval_Type": "Type"})
+    return comp[["Job", "Run", "Evaluator", "Writer", "CV_Idx", "Score", "Type"]]
 
 
 def calculate_leapfrog(df, evaluator, baseline_writer, target_writer):
@@ -346,8 +331,8 @@ def _gap_matrices_from_df(tier_df, etype):
     sr  = [w for w in sc if w in UNIQUE_EVALUATORS]
     df       = df.loc[sr, sc]
     df_annot = df_annot.loc[sr, sc]
-    df.loc["Average"]       = df.mean(axis=0)
-    df_annot.loc["Average"] = [f"{df.loc['Average', c]:.2f}" for c in df.columns]
+    df.loc["Avg."]       = df.mean(axis=0)
+    df_annot.loc["Avg."] = [f"{df.loc['Avg.', c]:.2f}" for c in df.columns]
     return df, df_annot, sr, sc
 
 
@@ -435,8 +420,9 @@ def plot_heatmap_gap_combined(tier_df, save_dir):
     max_abs = np.ceil(max_abs * 20) / 20
     shared_vmin, shared_vmax = -max_abs, max_abs
 
-    fs = plt.rcParams["font.size"] + 5
+    fs = plt.rcParams["font.size"] + 7
     fig, axes = plt.subplots(1, 2, figsize=(24, 9), constrained_layout=True)
+    fig.get_layout_engine().set(wspace=0.08)
 
     for ax_idx, (ax, etype) in enumerate(zip(axes, etypes)):
         df, df_annot, sorted_rows, sorted_cols = built[etype]
@@ -449,6 +435,11 @@ def plot_heatmap_gap_combined(tier_df, save_dir):
             annot_kws={"size": fs + 1},
             cbar=False,
         )
+        for text in ax.texts:
+            t = text.get_text()
+            if "(*)" in t:
+                text.set_text(t.replace("(*)", ""))
+                text.set_fontweight("bold")
         # Separator before Average row
         ax.axhline(len(sorted_rows), color="black", linewidth=2)
         # Thick border on diagonal cells (self-evaluation) — positions are index-based
@@ -460,14 +451,20 @@ def plot_heatmap_gap_combined(tier_df, save_dir):
                     (c, r), 1, 1, fill=False, edgecolor="black", linewidth=3
                 ))
         ax.set_title(TITLE_MAP[etype], fontsize=fs + 5, pad=10)
-        ax.set_xlabel("Writer Model", fontsize=fs + 4)
+        ax.set_xlabel("Writer Model", fontsize=fs + 4, labelpad=12)
         ax.set_ylabel("Evaluator Model" if ax_idx == 0 else "", fontsize=fs + 4)
         ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right", fontsize=fs + 2, fontweight="bold")
         for tick in ax.get_xticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-        ax.set_yticklabels(ax.get_yticklabels(), rotation=0, fontsize=fs + 2, fontweight="bold")
-        for tick in ax.get_yticklabels():
-            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+        ytick_info = [(t.get_text(), DISPLAY_COLORS.get(t.get_text(), "black"))
+                      for t in ax.get_yticklabels()]
+        ax.set_yticklabels(
+            ["Avg." if name == "Avg." else "■" for name, _ in ytick_info],
+            rotation=0, fontweight="bold",
+        )
+        for tick, (name, color) in zip(ax.get_yticklabels(), ytick_info):
+            tick.set_color("black" if tick.get_text() == "Avg." else color)
+            tick.set_fontsize(fs + 2 if tick.get_text() == "Avg." else fs + 4)
 
     # Single shared colorbar to the right
     sm = plt.cm.ScalarMappable(
@@ -475,13 +472,11 @@ def plot_heatmap_gap_combined(tier_df, save_dir):
     )
     sm.set_array([])
     cbar = fig.colorbar(sm, ax=axes, shrink=0.75, pad=0.02)
-    cbar.set_label("Preference Gap (score units, 0–10 scale)", fontsize=fs + 4)
+    cbar.set_label("Relative Preference Gap, 0–10 scale", fontsize=fs + 4)
     cbar.ax.tick_params(labelsize=fs + 2)
 
     fig.suptitle(
-        "Relative Preference Gap\n"
-        "(*) = p < 0.05  |  Bold border = self-evaluation  |  "
-        "Columns and rows sorted independently per condition by decreasing preference gap",
+        "Relative Preference Gap  |  Bold = p < 0.05",
         fontsize=fs + 5,
     )
     plt.savefig(os.path.join(save_dir, "heatmap_gap_combined.png"), dpi=150, bbox_inches="tight")
@@ -521,13 +516,13 @@ def plot_win_matrix(df, save_dir):
     np.fill_diagonal(win_rate, np.nan)
 
     df_win = pd.DataFrame(win_rate, index=writers, columns=writers)
-    df_win["Avg"] = df_win.mean(axis=1, skipna=True)
-    # Sort model rows only, then append Avg at the bottom
-    df_win = df_win.sort_values("Avg", ascending=False)
+    df_win["Avg."] = df_win.mean(axis=1, skipna=True)
+    # Sort model rows only, then append Avg. at the bottom
+    df_win = df_win.sort_values("Avg.", ascending=False)
     sorted_models = list(df_win.index)
-    df_win = df_win[sorted_models + ["Avg"]]
+    df_win = df_win[sorted_models + ["Avg."]]
     avg_row = df_win.mean(axis=0, skipna=True)
-    avg_row.name = "Avg"
+    avg_row.name = "Avg."
     df_win = pd.concat([df_win, avg_row.to_frame().T])
 
     df_win.to_csv(os.path.join(save_dir, f"win_matrix_UNBIASED_{etype}.csv"))
@@ -547,7 +542,7 @@ def plot_win_matrix(df, save_dir):
     # Precompute diagonal positions (raw names) before renaming
     diag_pos = [(list(df_win.index).index(w), list(df_win.columns).index(w))
                 for w in writers if w in df_win.index and w in df_win.columns]
-    n_models = sum(1 for r in df_win.index if r != "Avg")
+    n_models = sum(1 for r in df_win.index if r != "Avg.")
 
     df_win   = df_win.rename(index=MODEL_DISPLAY, columns=MODEL_DISPLAY)
     annot_df = annot_df.rename(index=MODEL_DISPLAY, columns=MODEL_DISPLAY)
@@ -590,7 +585,7 @@ def plot_win_matrix(df, save_dir):
 def plot_net_advantage(delta_matrix, p_matrix, raw_matrix, writers, save_dir):
     os.makedirs(save_dir, exist_ok=True)
     N = len(writers)
-    ext_writers = list(writers) + ["AVERAGE"]
+    ext_writers = list(writers) + ["Avg."]
 
     masked_delta = delta_matrix.copy()
     np.fill_diagonal(masked_delta, np.nan)
@@ -623,7 +618,7 @@ def plot_net_advantage(delta_matrix, p_matrix, raw_matrix, writers, save_dir):
     df_m = pd.DataFrame(ext_delta, index=ext_writers, columns=ext_writers)
     sort_vals     = pd.Series(col_means, index=writers).sort_values(ascending=False)
     sorted_models = sort_vals.index.tolist()
-    df_m = df_m.loc[sorted_models + ["AVERAGE"], sorted_models + ["AVERAGE"]]
+    df_m = df_m.loc[sorted_models + ["Avg."], sorted_models + ["Avg."]]
     old_idx = {w: i for i, w in enumerate(writers)}
     new_ri  = [old_idx[w] for w in sorted_models] + [N]
     new_ci  = [old_idx[w] for w in sorted_models] + [N]
@@ -647,8 +642,8 @@ def plot_net_advantage(delta_matrix, p_matrix, raw_matrix, writers, save_dir):
         "Control = same model for both groups  |  (*) = p < 0.05",
         fontsize=fs + 5,
     )
-    plt.ylabel("Top-25 Candidates | Cover Letter Writer", fontsize=fs + 4)
-    plt.xlabel("Lower-25 Candidates | Cover Letter Writer", fontsize=fs + 4)
+    plt.ylabel("High-Fit Candidates | Cover Letter Writer", fontsize=fs + 4)
+    plt.xlabel("Moderate-Fit Candidates | Cover Letter Writer", fontsize=fs + 4)
     ax.tick_params(axis="y", labelsize=fs)
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right", fontsize=fs, fontweight="bold")
     for tick in ax.get_xticklabels():
@@ -667,7 +662,7 @@ def plot_net_advantage(delta_matrix, p_matrix, raw_matrix, writers, save_dir):
 def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_net, save_dir):
     """Win-rate matrix (left) and net advantage matrix (right) side by side."""
     os.makedirs(save_dir, exist_ok=True)
-    fs = plt.rcParams["font.size"] + 6  # larger canvas (28×11) needs bigger base fs
+    fs = plt.rcParams["font.size"] + 8  # larger canvas (28×11) needs bigger base fs
 
     # ── Win matrix data ────────────────────────────────────────────────────────
     etype   = "cv_cl_evaluations"
@@ -696,12 +691,12 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
     np.fill_diagonal(win_rate, np.nan)
 
     df_win = pd.DataFrame(win_rate, index=writers_win, columns=writers_win)
-    df_win["Avg"] = df_win.mean(axis=1, skipna=True)
-    df_win = df_win.sort_values("Avg", ascending=False)
+    df_win["Avg."] = df_win.mean(axis=1, skipna=True)
+    df_win = df_win.sort_values("Avg.", ascending=False)
     sorted_win_models = list(df_win.index)
-    df_win = df_win[sorted_win_models + ["Avg"]]
+    df_win = df_win[sorted_win_models + ["Avg."]]
     avg_row_win = df_win.mean(axis=0, skipna=True)
-    avg_row_win.name = "Avg"
+    avg_row_win.name = "Avg."
     df_win = pd.concat([df_win, avg_row_win.to_frame().T])
 
     annot_win = df_win.copy().astype(object)
@@ -745,11 +740,11 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
         annot_net.append(row)
     annot_net = np.array(annot_net)
 
-    ext_writers = list(writers_net) + ["AVERAGE"]
+    ext_writers = list(writers_net) + ["Avg."]
     sort_vals     = pd.Series(col_means, index=writers_net).sort_values(ascending=False)
     sorted_net    = sort_vals.index.tolist()
     df_net        = pd.DataFrame(ext_delta, index=ext_writers, columns=ext_writers)
-    df_net        = df_net.loc[sorted_net + ["AVERAGE"], sorted_net + ["AVERAGE"]]
+    df_net        = df_net.loc[sorted_net + ["Avg."], sorted_net + ["Avg."]]
     old_idx = {w: i for i, w in enumerate(writers_net)}
     new_ri  = [old_idx[w] for w in sorted_net] + [N]
     new_ci  = [old_idx[w] for w in sorted_net] + [N]
@@ -767,6 +762,7 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
 
     # ── Plot ───────────────────────────────────────────────────────────────────
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(28, 11), constrained_layout=True)
+    fig.get_layout_engine().set(wspace=0.08)
 
     # Left: win matrix
     sns.heatmap(
@@ -774,7 +770,7 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
         cmap="RdBu_r", vmin=0, vmax=100, center=50,
         linewidths=0.5, linecolor="gray",
         mask=mask_win, cbar=False,
-        annot_kws={"size": fs - 1},
+        annot_kws={"size": fs + 1},
     )
     for ri, ci in diag_win:
         ax1.add_patch(plt.Rectangle((ci, ri), 1, 1, fill=True, color="lightgrey", lw=0))
@@ -782,18 +778,24 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
     ax1.axhline(n_win_models, color="black", linewidth=2)
     ax1.axvline(len(df_win.columns) - 1, color="black", linewidth=2)
     ax1.set_title("Head-to-Head Win Rate", fontsize=fs + 5, pad=10)
-    ax1.set_xlabel("Opponent Writer Model", fontsize=fs + 4)
+    ax1.set_xlabel("Opponent Writer Model", fontsize=fs + 4, labelpad=12)
     ax1.set_ylabel("Writer Model", fontsize=fs + 4)
     ax1.set_xticklabels(ax1.get_xticklabels(), rotation=45, ha="right", fontsize=fs, fontweight="bold")
-    ax1.set_yticklabels(ax1.get_yticklabels(), rotation=0, fontsize=fs, fontweight="bold")
     for tick in ax1.get_xticklabels():
         tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-    for tick in ax1.get_yticklabels():
-        tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+    ytick_info1 = [(t.get_text(), DISPLAY_COLORS.get(t.get_text(), "black"))
+                   for t in ax1.get_yticklabels()]
+    ax1.set_yticklabels(
+        ["Avg." if name == "Avg." else "■" for name, _ in ytick_info1],
+        rotation=0, fontweight="bold",
+    )
+    for tick, (name, color) in zip(ax1.get_yticklabels(), ytick_info1):
+        tick.set_color("black" if tick.get_text() == "Avg." else color)
+        tick.set_fontsize(fs if tick.get_text() == "Avg." else fs + 4)
     sm1 = plt.cm.ScalarMappable(cmap="RdBu_r", norm=plt.Normalize(0, 100))
     sm1.set_array([])
     cb1 = fig.colorbar(sm1, ax=ax1, shrink=0.8)
-    cb1.set_label("Win Rate (%)", fontsize=fs + 4)
+    cb1.set_label("Win Rate, %", fontsize=fs + 4)
     cb1.ax.tick_params(labelsize=fs)
 
     # Right: net advantage
@@ -803,32 +805,41 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
         cmap="RdBu_r", center=0,
         linewidths=0.5, linecolor="gray",
         cbar=False,
-        annot_kws={"size": fs - 1},
+        annot_kws={"size": fs + 1},
     )
+    for text in ax2.texts:
+        t = text.get_text()
+        if "(*)" in t:
+            text.set_text(t.replace("(*)", ""))
+            text.set_fontweight("bold")
     ax2.axhline(N, color="black", linewidth=2)
     ax2.axvline(N, color="black", linewidth=2)
     ax2.set_title("Net Competitive Advantage over Control", fontsize=fs + 5, pad=10)
-    ax2.set_xlabel("Lower-25 Group — Writer Model", fontsize=fs + 4)
-    ax2.set_ylabel("Top-25 Group — Writer Model", fontsize=fs + 4)
+    ax2.set_xlabel("Moderate-Fit Group — Writer Model", fontsize=fs + 4, labelpad=12)
+    ax2.set_ylabel("High-Fit Group — Writer Model", fontsize=fs + 4)
     ax2.set_xticklabels(ax2.get_xticklabels(), rotation=45, ha="right", fontsize=fs, fontweight="bold")
-    ax2.set_yticklabels(ax2.get_yticklabels(), rotation=0, fontsize=fs, fontweight="bold")
     for tick in ax2.get_xticklabels():
         tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-    for tick in ax2.get_yticklabels():
-        tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+    ytick_info2 = [(t.get_text(), DISPLAY_COLORS.get(t.get_text(), "black"))
+                   for t in ax2.get_yticklabels()]
+    ax2.set_yticklabels(
+        ["Avg." if name == "Avg." else "■" for name, _ in ytick_info2],
+        rotation=0, fontweight="bold",
+    )
+    for tick, (name, color) in zip(ax2.get_yticklabels(), ytick_info2):
+        tick.set_color("black" if tick.get_text() == "Avg." else color)
+        tick.set_fontsize(fs if tick.get_text() == "Avg." else fs + 4)
     sm2 = plt.cm.ScalarMappable(
         cmap="RdBu_r",
         norm=plt.Normalize(vmin=-net_vmax, vmax=net_vmax),
     )
     sm2.set_array([])
     cb2 = fig.colorbar(sm2, ax=ax2, shrink=0.8)
-    cb2.set_label("Net Advantage over Control (%)", fontsize=fs + 4)
+    cb2.set_label("Net Advantage over Control, %", fontsize=fs + 4)
     cb2.ax.tick_params(labelsize=fs)
 
     fig.suptitle(
-        "CV + Cover Letter  |  Aggregated across all evaluator models\n"
-        "(*) = p < 0.05  |  AVERAGE row/col: mean across all models  |  "
-        "Control diagonal = same model for both groups",
+        "Writer Model Competitiveness — CV + Cover Letter  |  Bold = p < 0.05",
         fontsize=fs + 5,
     )
     plt.savefig(os.path.join(save_dir, "win_net_combined.png"), dpi=150, bbox_inches="tight")
@@ -1167,18 +1178,14 @@ def plot_agreement_corr(tier_df, save_dir):
     os.makedirs(save_dir, exist_ok=True)
     fs = plt.rcParams["font.size"] + 3
 
-    def _build_corr(vecs):
+    def _build_corr(vecs, method):
         df = pd.DataFrame(vecs).dropna()
-        return df.corr(method="pearson")
+        return df.corr(method=method)
 
-    def _draw(corr, title, fname):
+    def _draw(corr, title, fname, cbar_label):
         fig, ax = plt.subplots(figsize=(10, 8), constrained_layout=True)
         annot = corr.round(2).astype(str)
-        diag_mask = np.eye(len(corr), dtype=bool)
-        for i in range(len(annot)):
-            annot.iloc[i, i] = ""
         sns.heatmap(corr, annot=annot, fmt="", ax=ax,
-                    mask=diag_mask,
                     cmap="RdBu_r", center=0, vmin=-1, vmax=1,
                     linewidths=0.5, linecolor="gray",
                     annot_kws={"size": fs + 1})
@@ -1194,14 +1201,14 @@ def plot_agreement_corr(tier_df, save_dir):
         ax.set_xlabel("")
         ax.set_ylabel("")
         cbar = ax.collections[0].colorbar
-        cbar.set_label("Pearson r", fontsize=fs + 6)
+        cbar.set_label(cbar_label, fontsize=fs + 6)
         cbar.ax.tick_params(labelsize=fs + 2)
         plt.savefig(os.path.join(save_dir, fname), dpi=150, bbox_inches="tight")
         plt.close()
         print(f"  Saved {fname}")
 
-    # CV-only: raw score agreement
-    sub_cv = tier_df[tier_df["Eval_Type"] == "cv_only"]
+    # CV-only: raw score agreement (Pearson) + within-group rank Spearman
+    sub_cv = tier_df[tier_df["Eval_Type"] == "cv_only"].copy()
     if not sub_cv.empty:
         vecs_cv = {
             MODEL_DISPLAY.get(ev, ev): (
@@ -1210,28 +1217,147 @@ def plot_agreement_corr(tier_df, save_dir):
             )
             for ev in UNIQUE_EVALUATORS
         }
-        _draw(_build_corr(vecs_cv),
+        _draw(_build_corr(vecs_cv, "pearson"),
               "Evaluator Agreement — CV Only\n(Pearson r of raw scores)",
-              "agreement_corr_cv_only.png")
+              "agreement_corr_cv_only.png", "Pearson r")
+        _draw(_build_corr(vecs_cv, "spearman"),
+              "Evaluator Agreement — CV Only\n(Spearman ρ of raw scores)",
+              "agreement_corr_spearman_cv_only.png", "Spearman ρ")
 
-    # CL and CV+CL: style residual agreement
+    # CL and CV+CL: style residual agreement + within-group rank-based Spearman
     for etype in ["cl_evaluations", "cv_cl_evaluations"]:
         sub = tier_df[tier_df["Eval_Type"] == etype].copy()
         if sub.empty:
             continue
+
+        # Residual vectors (for Pearson and residual-Spearman)
         sub["Residual"] = sub["Score"] - sub.groupby(
             ["Evaluator", "Job_ID", "CV_Idx"])["Score"].transform("mean")
-        vecs = {
+        vecs_res = {
             MODEL_DISPLAY.get(ev, ev): (
                 sub[sub["Evaluator"] == ev]
                 .groupby(["Job_ID", "CV_Idx", "Writer"])["Residual"].mean()
             )
             for ev in UNIQUE_EVALUATORS
         }
-        _draw(_build_corr(vecs),
+
+        _draw(_build_corr(vecs_res, "pearson"),
               f"Evaluator Style Agreement — {TITLE_MAP[etype]}\n"
               "(Pearson r of within-candidate score residuals)",
-              f"agreement_corr_STYLE_{etype}.png")
+              f"agreement_corr_STYLE_{etype}.png", "Pearson r")
+        _draw(_build_corr(vecs_res, "spearman"),
+              f"Evaluator Style Agreement — {TITLE_MAP[etype]}\n"
+              "(Spearman ρ of within-candidate score residuals)",
+              f"agreement_corr_spearman_STYLE_{etype}.png", "Spearman ρ")
+
+        # Stylistic Agreement: rank writers within each (Job, CV, Evaluator) group
+        sub["Style_Rank"] = sub.groupby(
+            ["Job_ID", "CV_Idx", "Evaluator"])["Score"].rank(method="average")
+        pivot_style = sub.pivot_table(
+            index=["Job_ID", "CV_Idx", "Writer"], columns="Evaluator", values="Style_Rank")
+        pivot_style.columns = [MODEL_DISPLAY.get(c, c) for c in pivot_style.columns]
+        corr_style = pivot_style.corr(method="spearman")
+        _draw(corr_style,
+              f"Stylistic Agreement — {TITLE_MAP[etype]}\n"
+              "(Spearman ρ of within-candidate writer ranks)",
+              f"agreement_corr_spearman_STYLISTIC_{etype}.png", "Spearman ρ")
+
+        # Merit Agreement: Spearman on raw scores per (Job, Writer, CV) — analogous to CV-only
+        vecs_merit = {
+            MODEL_DISPLAY.get(ev, ev): (
+                sub[sub["Evaluator"] == ev]
+                .groupby(["Job_ID", "Writer", "CV_Idx"])["Score"].mean()
+            )
+            for ev in UNIQUE_EVALUATORS
+        }
+        _draw(_build_corr(vecs_merit, "spearman"),
+              f"Merit Agreement — {TITLE_MAP[etype]}\n"
+              "(Spearman ρ of raw scores, fixed writer)",
+              f"agreement_corr_spearman_MERIT_{etype}.png", "Spearman ρ")
+
+
+def plot_merit_agreement_combined(tier_df, save_dir):
+    """Three-panel heatmap: candidate quality agreement across all conditions."""
+    os.makedirs(save_dir, exist_ok=True)
+    fs = plt.rcParams["font.size"] + 5
+
+    def _corr(vecs):
+        return pd.DataFrame(vecs).dropna().corr(method="spearman")
+
+    # CV-only
+    sub_cv = tier_df[tier_df["Eval_Type"] == "cv_only"]
+    vecs_cv = {
+        MODEL_DISPLAY.get(ev, ev): (
+            sub_cv[sub_cv["Evaluator"] == ev]
+            .groupby(["Job_ID", "CV_Idx"])["Score"].mean()
+        )
+        for ev in UNIQUE_EVALUATORS
+    }
+
+    # CL and CV+CL Merit: raw scores per (Job, Writer, CV)
+    merit_corrs = {}
+    for etype in ["cl_evaluations", "cv_cl_evaluations"]:
+        sub = tier_df[tier_df["Eval_Type"] == etype]
+        if sub.empty:
+            continue
+        vecs = {
+            MODEL_DISPLAY.get(ev, ev): (
+                sub[sub["Evaluator"] == ev]
+                .groupby(["Job_ID", "Writer", "CV_Idx"])["Score"].mean()
+            )
+            for ev in UNIQUE_EVALUATORS
+        }
+        merit_corrs[etype] = _corr(vecs)
+
+    panels = [
+        (_corr(vecs_cv), "CV Only"),
+        (merit_corrs.get("cl_evaluations"),   "Cover Letter Only\n(writer fixed)"),
+        (merit_corrs.get("cv_cl_evaluations"), "CV + Cover Letter\n(writer fixed)"),
+    ]
+    panels = [(c, t) for c, t in panels if c is not None]
+    n = len(panels)
+
+    fig, axes = plt.subplots(1, n, figsize=(7 * n, 8), constrained_layout=True)
+    fig.get_layout_engine().set(wspace=0.05)
+    if n == 1:
+        axes = [axes]
+
+    for ax_idx, (ax, (corr, title)) in enumerate(zip(axes, panels)):
+        is_last = ax_idx == n - 1
+        sns.heatmap(corr, annot=corr.round(2).astype(str), fmt="", ax=ax,
+                    cmap="RdBu_r", center=0, vmin=-1, vmax=1,
+                    linewidths=0.5, linecolor="gray",
+                    annot_kws={"size": fs + 1}, cbar=False)
+        ax.set_title(title, fontsize=fs + 5, pad=10)
+        ax.set_xlabel("", fontsize=0)
+
+        # X-axis: colored model names on all panels
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right",
+                           fontsize=fs, fontweight="bold")
+        for tick in ax.get_xticklabels():
+            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+
+        # Y-axis: colored model names only on leftmost panel
+        if ax_idx == 0:
+            ax.set_yticklabels(ax.get_yticklabels(), rotation=0,
+                               fontsize=fs, fontweight="bold")
+            for tick in ax.get_yticklabels():
+                tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+        else:
+            ax.set_yticks([])
+            ax.set_ylabel("")
+
+    sm = plt.cm.ScalarMappable(cmap="RdBu_r", norm=plt.Normalize(vmin=-1, vmax=1))
+    sm.set_array([])
+    cbar = fig.colorbar(sm, ax=axes, shrink=0.75, pad=0.02)
+    cbar.set_label("Spearman ρ", fontsize=fs + 4)
+    cbar.ax.tick_params(labelsize=fs + 2)
+
+    fig.suptitle("Candidate Quality Agreement across Conditions", fontsize=fs + 5)
+    plt.savefig(os.path.join(save_dir, "merit_agreement_combined.png"),
+                dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved merit_agreement_combined.png")
 
 
 # ==========================
@@ -1306,9 +1432,10 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
         )
         for ev in UNIQUE_EVALUATORS
     }
-    corr = pd.DataFrame(vecs).dropna().corr(method="pearson")
+    corr_pearson  = pd.DataFrame(vecs).dropna().corr(method="pearson")
+    corr_spearman = pd.DataFrame(vecs).dropna().corr(method="spearman")
 
-    def _draw_heatmap(ax_heat):
+    def _draw_heatmap(ax_heat, corr, cbar_label):
         sns.heatmap(corr, annot=corr.round(2).astype(str), fmt="", ax=ax_heat,
                     cmap="RdBu_r", center=0, vmin=-1, vmax=1,
                     linewidths=0.5, linecolor="gray",
@@ -1325,20 +1452,32 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
         ax_heat.set_xlabel("", fontsize=fs + 4)
         ax_heat.set_ylabel("", fontsize=fs + 4)
         cbar = ax_heat.collections[0].colorbar
-        cbar.set_label("Pearson r", fontsize=fs + 4)
+        cbar.set_label(cbar_label, fontsize=fs + 4)
         cbar.ax.tick_params(labelsize=fs)
 
-    # --- Line plot variant (combined with heatmap) ---
+    # --- Pearson: line plot combined with heatmap ---
     fig, (ax_line, ax_heat) = plt.subplots(
         1, 2, figsize=(20, 7),
         gridspec_kw={"width_ratios": [1.5, 1]},
         constrained_layout=True,
     )
     _draw_strictness_left(ax_line, cv_sub, fs, "avg_shade")
-    _draw_heatmap(ax_heat)
+    _draw_heatmap(ax_heat, corr_pearson, "Pearson r")
     fig.savefig(os.path.join(save_dir, "strictness_agreement_cv_only.png"), dpi=150, bbox_inches="tight")
     plt.close()
     print("  Saved strictness_agreement_cv_only.png")
+
+    # --- Spearman: line plot combined with heatmap ---
+    fig, (ax_line, ax_heat) = plt.subplots(
+        1, 2, figsize=(20, 7),
+        gridspec_kw={"width_ratios": [1.5, 1]},
+        constrained_layout=True,
+    )
+    _draw_strictness_left(ax_line, cv_sub, fs, "avg_shade")
+    _draw_heatmap(ax_heat, corr_spearman, "Spearman ρ")
+    fig.savefig(os.path.join(save_dir, "strictness_agreement_spearman_cv_only.png"), dpi=150, bbox_inches="tight")
+    plt.close()
+    print("  Saved strictness_agreement_spearman_cv_only.png")
 
     # --- Line plot standalone ---
     fig, ax_line = plt.subplots(figsize=(12, 7), constrained_layout=True)
@@ -1347,7 +1486,7 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
     plt.close()
     print("  Saved strictness_lineplot.png")
 
-    # --- Box plot variant: top-25 vs bottom-25 CV ranks ---
+    # --- Box plot variant: High-Fit vs Moderate-Fit CV ranks ---
     all_ranks = sorted(cv_sub["CV_Idx"].unique())
     top25 = set(all_ranks[:25])
     bot25 = set(all_ranks[-25:])
@@ -1356,9 +1495,9 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
         ev_data = cv_sub[cv_sub["Evaluator"] == ev][["CV_Idx", "Score"]]
         for _, r in ev_data.iterrows():
             if r["CV_Idx"] in top25:
-                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Top 25", "Score": r["Score"]})
+                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "High-Fit", "Score": r["Score"]})
             elif r["CV_Idx"] in bot25:
-                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Bottom 25", "Score": r["Score"]})
+                rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Moderate-Fit", "Score": r["Score"]})
     box_df = pd.DataFrame(rows)
 
     fig, (ax_box, ax_heat) = plt.subplots(
@@ -1413,7 +1552,7 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
     for text in leg.get_texts():
         text.set_color(DISPLAY_COLORS.get(text.get_text(), "black"))
         text.set_fontweight("bold")
-    _draw_heatmap(ax_heat)
+    _draw_heatmap(ax_heat, corr_pearson, "Pearson r")
     fig.savefig(os.path.join(save_dir, "strictness_agreement_boxplot.png"), dpi=150, bbox_inches="tight")
     plt.close()
     print("  Saved strictness_agreement_boxplot.png")
@@ -1453,9 +1592,9 @@ def plot_strictness_by_condition(tier_df, save_dir):
             ev_data = sub[sub["Evaluator"] == ev][["CV_Idx", "Score"]]
             for _, r in ev_data.iterrows():
                 if r["CV_Idx"] in top25:
-                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Top 25", "Score": r["Score"]})
+                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "High-Fit", "Score": r["Score"]})
                 elif r["CV_Idx"] in bot25:
-                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Bottom 25", "Score": r["Score"]})
+                    rows.append({"Model": MODEL_DISPLAY[ev], "Tier": "Moderate-Fit", "Score": r["Score"]})
         box_df = pd.DataFrame(rows)
 
         model_order = [MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS if MODEL_DISPLAY[ev] in box_df["Model"].unique()]
@@ -1517,7 +1656,8 @@ def plot_strictness_by_condition(tier_df, save_dir):
     print(f"  Saved {fname}")
 
 
-def plot_inter_candidate_variance(tier_df, save_dir):
+def plot_intra_run_variance(tier_df, save_dir):
+    """Score std across the 4 independent runs — measures evaluator reproducibility."""
     os.makedirs(save_dir, exist_ok=True)
     fs = plt.rcParams["font.size"] + 5
 
@@ -1528,6 +1668,11 @@ def plot_inter_candidate_variance(tier_df, save_dir):
     ]
     cond_colors = ["#5C85C5", "#E07B4A", "#4CAF50"]
 
+    def _run_std(sub, etype):
+        grp = ["Job_ID", "CV_Idx", "Evaluator"] if etype == "cv_only" \
+              else ["Job_ID", "CV_Idx", "Evaluator", "Writer"]
+        return sub.groupby(grp)["Score"].std()
+
     # --- Figure 1: grouped bar chart per evaluator × condition ---
     n_ev   = len(UNIQUE_EVALUATORS)
     n_cond = len(conditions)
@@ -1536,91 +1681,131 @@ def plot_inter_candidate_variance(tier_df, save_dir):
 
     fig, ax = plt.subplots(figsize=(14, 6), constrained_layout=True)
     for ci, ((etype, label), color) in enumerate(zip(conditions, cond_colors)):
-        sub = tier_df[tier_df["Eval_Type"] == etype]
-        stds = []
-        for ev in UNIQUE_EVALUATORS:
-            per_cv = sub[sub["Evaluator"] == ev].groupby("CV_Idx")["Score"].mean()
-            stds.append(per_cv.std())
+        sub  = tier_df[tier_df["Eval_Type"] == etype]
+        stds = _run_std(sub, etype)
+        means = [stds.xs(ev, level="Evaluator").mean() for ev in UNIQUE_EVALUATORS]
         offset = (ci - (n_cond - 1) / 2) * (bar_w + 0.03)
-        bars = ax.bar(x + offset, stds, width=bar_w, label=label,
+        bars = ax.bar(x + offset, means, width=bar_w, label=label,
                       color=color, alpha=0.85, edgecolor="white")
-        ax.bar_label(bars, fmt="%.2f", padding=3, fontsize=fs - 3)
+        ax.bar_label(bars, fmt="%.3f", padding=3, fontsize=fs - 3)
 
     ax.set_xticks(x)
     ax.set_xticklabels([MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS],
                        rotation=30, ha="right", fontsize=fs, fontweight="bold")
     for tick, ev in zip(ax.get_xticklabels(), UNIQUE_EVALUATORS):
         tick.set_color(DISPLAY_COLORS.get(MODEL_DISPLAY[ev], "black"))
-    ax.set_ylabel("Std of mean score across candidates", fontsize=fs + 2)
-    ax.set_title("Inter-Candidate Score Variance by Evaluator and Condition",
+    ax.set_ylabel("Mean score std across 4 runs", fontsize=fs + 2)
+    ax.set_title("Scoring Reproducibility by Evaluator and Condition",
                  fontsize=fs + 5, pad=10)
-    ax.set_ylim(0, ax.get_ylim()[1] * 1.15)
+    ax.set_ylim(0, ax.get_ylim()[1] * 1.18)
     ax.tick_params(axis="y", labelsize=fs)
     ax.grid(True, alpha=0.3, axis="y")
     leg = ax.legend(fontsize=fs, framealpha=0.9)
     for text in leg.get_texts():
         text.set_fontweight("bold")
 
-    fig.savefig(os.path.join(save_dir, "inter_candidate_variance.png"),
+    fig.savefig(os.path.join(save_dir, "intra_run_variance.png"),
                 dpi=150, bbox_inches="tight")
     plt.close()
-    print("  Saved inter_candidate_variance.png")
+    print("  Saved intra_run_variance.png")
 
     # --- Figure 2: heatmaps (evaluator × writer) for CL-only and CV+CL ---
     cl_conditions = [("cl_evaluations", "Cover Letter Only"),
                      ("cv_cl_evaluations", "CV + Cover Letter")]
 
-    fig, axes = plt.subplots(1, 2, figsize=(22, 7), constrained_layout=True)
+    fig, axes = plt.subplots(1, 2, figsize=(24, 7), constrained_layout=True)
     all_vals = []
     matrices = {}
     for etype, _ in cl_conditions:
-        sub = tier_df[tier_df["Eval_Type"] == etype]
-        mat = pd.DataFrame(index=[MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS],
-                           columns=[MODEL_DISPLAY.get(w, w) for w in RAW_WRITERS],
-                           dtype=float)
+        sub  = tier_df[tier_df["Eval_Type"] == etype]
+        stds = _run_std(sub, etype)
+        mat  = pd.DataFrame(index=[MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS],
+                            columns=[MODEL_DISPLAY.get(w, w) for w in RAW_WRITERS],
+                            dtype=float)
         for ev in UNIQUE_EVALUATORS:
             for w in RAW_WRITERS:
-                ev_w = sub[(sub["Evaluator"] == ev) & (sub["Writer"] == w)]
-                if ev_w.empty:
+                try:
+                    mat.loc[MODEL_DISPLAY[ev], MODEL_DISPLAY.get(w, w)] = \
+                        stds.xs((ev, w), level=("Evaluator", "Writer")).mean()
+                except KeyError:
                     mat.loc[MODEL_DISPLAY[ev], MODEL_DISPLAY.get(w, w)] = np.nan
-                else:
-                    per_cv = ev_w.groupby("CV_Idx")["Score"].mean()
-                    mat.loc[MODEL_DISPLAY[ev], MODEL_DISPLAY.get(w, w)] = per_cv.std()
         matrices[etype] = mat
         all_vals.extend(mat.values.flatten())
 
     vmin = np.nanmin(all_vals)
     vmax = np.nanmax(all_vals)
+    n_writers = len(RAW_WRITERS)
+    n_evals   = len(UNIQUE_EVALUATORS)
+    ylord_cmap = plt.cm.YlOrRd
 
     for ax, (etype, title) in zip(axes, cl_conditions):
         mat = matrices[etype]
-        annot = mat.round(2).astype(str).replace("nan", "")
-        sns.heatmap(mat, annot=annot, fmt="", ax=ax,
+
+        # append avg column to the matrix (masked from main colormap)
+        mat_full = mat.copy()
+        mat_full["Avg."] = mat.mean(axis=1)
+
+        # mask the avg column so the main heatmap leaves it white
+        avg_mask = np.zeros(mat_full.shape, dtype=bool)
+        avg_mask[:, -1] = True
+
+        annot_full = mat_full.round(3).astype(str).replace("nan", "")
+
+        sns.heatmap(mat_full, annot=annot_full, fmt="", ax=ax,
                     cmap="YlOrRd", vmin=vmin, vmax=vmax,
                     linewidths=0.5, linecolor="gray",
-                    annot_kws={"size": fs - 1}, cbar=(ax is axes[-1]))
+                    annot_kws={"size": fs - 1}, cbar=(ax is axes[-1]),
+                    mask=avg_mask)
+
+        # draw avg column cells with same YlOrRd colormap
+        avg_vals_col = mat_full["Avg."].values
+        norm = plt.Normalize(vmin=vmin, vmax=vmax)
+        for i, val in enumerate(avg_vals_col):
+            color = ylord_cmap(norm(val))
+            ax.add_patch(mpatches.Rectangle(
+                (n_writers, i), 1, 1,
+                facecolor=color, edgecolor="gray", linewidth=0.5, zorder=2))
+            # pick text color by luminance, matching seaborn's logic
+            rgb = np.array(color[:3])
+            rgb_lin = np.where(rgb <= 0.03928, rgb / 12.92, ((rgb + 0.055) / 1.055) ** 2.4)
+            lum = rgb_lin @ [0.2126, 0.7152, 0.0722]
+            txt_color = ".15" if lum > 0.408 else "w"
+            ax.text(n_writers + 0.5, i + 0.5, f"{val:.3f}",
+                    ha="center", va="center", fontsize=fs - 1,
+                    color=txt_color, zorder=3)
+
+        # thick separator line between writer columns and avg column
+        ax.axvline(n_writers, color="black", lw=2.5, zorder=4)
+
         ax.set_title(title, fontsize=fs + 5, pad=10)
         ax.set_xlabel("Writer Model", fontsize=fs + 2)
         ax.set_ylabel("Evaluator Model" if ax is axes[0] else "", fontsize=fs + 2)
-        ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right",
+
+        # rebuild xtick labels including "Avg"
+        xtick_labels = [MODEL_DISPLAY.get(w, w) for w in RAW_WRITERS] + ["Avg."]
+        ax.set_xticks(np.arange(len(xtick_labels)) + 0.5)
+        ax.set_xticklabels(xtick_labels, rotation=45, ha="right",
                            fontsize=fs, fontweight="bold")
         ax.set_yticklabels(ax.get_yticklabels(), rotation=0,
                            fontsize=fs, fontweight="bold")
         for tick in ax.get_xticklabels():
-            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
+            if tick.get_text() == "Avg.":
+                tick.set_color("black")
+            else:
+                tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
         for tick in ax.get_yticklabels():
             tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
 
     cbar = axes[-1].collections[0].colorbar
-    cbar.set_label("Std of mean score across candidates", fontsize=fs + 2)
+    cbar.set_label("Mean std across 4 runs", fontsize=fs + 2)
     cbar.ax.tick_params(labelsize=fs)
 
-    fig.suptitle("Inter-Candidate Score Variance by Evaluator and Writer Model",
+    fig.suptitle("Scoring Reproducibility by Evaluator and Writer Model",
                  fontsize=fs + 5)
-    fig.savefig(os.path.join(save_dir, "inter_candidate_variance_heatmap.png"),
+    fig.savefig(os.path.join(save_dir, "intra_run_variance_heatmap.png"),
                 dpi=150, bbox_inches="tight")
     plt.close()
-    print("  Saved inter_candidate_variance_heatmap.png")
+    print("  Saved intra_run_variance_heatmap.png")
 
 
 # ==========================
@@ -1697,8 +1882,10 @@ def main():
         plot_stacked_rank(tier_df, OUT_DIR)
         plot_stacked_rank_combined(tier_df, OUT_DIR)
         plot_agreement_corr(tier_df, OUT_DIR)
+        plot_merit_agreement_combined(tier_df, OUT_DIR)
         plot_strictness_agreement_combined(tier_df, OUT_DIR)
         plot_strictness_by_condition(tier_df, OUT_DIR)
+        plot_intra_run_variance(tier_df, OUT_DIR)
     else:
         print("  Skipping master-df plots (no data).")
 
