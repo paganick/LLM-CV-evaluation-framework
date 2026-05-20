@@ -1512,7 +1512,7 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
     group_gap = 0.2
     tier_centers = []
     tier_means = {}
-    for tier_idx, tier in enumerate(["Top 25", "Bottom 25"]):
+    for tier_idx, tier in enumerate(["High-Fit", "Moderate-Fit"]):
         x_center = tier_idx * (1 + group_gap)
         tier_centers.append(x_center)
         half_span = (n_models - 1) / 2 * (bar_width + 0.02) + bar_width / 2
@@ -1534,8 +1534,8 @@ def plot_strictness_agreement_combined(tier_df, save_dir):
         ax_box.text(x1 + 0.02, mean_val, f"{mean_val:.2f}", va="center",
                     ha="left", fontsize=fs - 1, fontweight="bold")
     ax_box.set_xticks(tier_centers)
-    ax_box.set_xticklabels(["Top 25", "Bottom 25"])
-    ax_box.set_title("Evaluator Strictness: Top vs Bottom CVs", fontsize=fs + 5, pad=10)
+    ax_box.set_xticklabels(["High-Fit", "Moderate-Fit"])
+    ax_box.set_title("Evaluator Strictness: High-Fit vs Moderate-Fit CVs", fontsize=fs + 5, pad=10)
     ax_box.set_xlabel("", fontsize=fs + 4)
     ax_box.set_ylabel("Score", fontsize=fs + 4)
     ax_box.set_ylim(0, 10)
@@ -1604,7 +1604,7 @@ def plot_strictness_by_condition(tier_df, save_dir):
         tier_centers = []
         tier_means   = {}
 
-        for tier_idx, tier in enumerate(["Top 25", "Bottom 25"]):
+        for tier_idx, tier in enumerate(["High-Fit", "Moderate-Fit"]):
             x_center = tier_idx * (1 + group_gap)
             tier_centers.append(x_center)
             half_span = (n_models - 1) / 2 * (bar_width + 0.02) + bar_width / 2
@@ -1634,7 +1634,7 @@ def plot_strictness_by_condition(tier_df, save_dir):
             legend_labels.append("Average")
 
         ax.set_xticks(tier_centers)
-        ax.set_xticklabels(["Top 25", "Bottom 25"])
+        ax.set_xticklabels(["High-Fit", "Moderate-Fit"])
         ax.set_title(title, fontsize=fs + 5, pad=10)
         ax.set_ylabel("Score" if is_first else "", fontsize=fs + 4)
         ax.set_ylim(0, 10)
