@@ -28,7 +28,8 @@ OUT_DIR  = "./output_plots/paper_plots"
 TIER_NAME  = "All_CVs"
 TIER_RANGE = (1, 50)
 
-CACHE_PATH = "./output_eval/master_df.parquet"
+CACHE_PATH      = "./output_eval/master_df.parquet"
+COMP_CACHE_PATH = "./output_eval/competitive_df.parquet"
 
 UNIQUE_EVALUATORS = [
     "gpt-4o-mini", "gpt-5-mini", "gemini-2.0-flash",
@@ -244,15 +245,10 @@ def build_master_df(base_dir, force=False):
 
 
 def load_competitive_data(base_dir):
-    if not os.path.exists(CACHE_PATH):
+    if not os.path.exists(COMP_CACHE_PATH):
+        print(f"  WARNING: {COMP_CACHE_PATH} not found — skipping competitive plots.")
         return pd.DataFrame()
-    df = pd.read_parquet(CACHE_PATH)
-    if "Run" not in df.columns:
-        print("  WARNING: parquet missing Run column — regenerate cache with raw data present.")
-        return pd.DataFrame()
-    comp = df[df["Eval_Type"].isin(["cv_only", "cv_cl_evaluations"])].copy()
-    comp = comp.rename(columns={"Job_ID": "Job", "Eval_Type": "Type"})
-    return comp[["Job", "Run", "Evaluator", "Writer", "CV_Idx", "Score", "Type"]]
+    return pd.read_parquet(COMP_CACHE_PATH)
 
 
 def calculate_leapfrog(df, evaluator, baseline_writer, target_writer):

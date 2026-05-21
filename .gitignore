@@ -6,6 +6,7 @@ __pycache__/
 # Raw evaluation output (204k files — use master_df.parquet instead)
 output_eval/*
 !output_eval/master_df.parquet
+!output_eval/competitive_df.parquet
 
 # Generated cover letters
 output_cl/
