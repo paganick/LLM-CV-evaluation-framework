@@ -16,3 +16,10 @@ output_plots/
 
 # Raw datasets
 raw_datasets/
+
+# OS and editor artifacts
+.DS_Store
+
+# Generated description/notes files
+*.tex
+*.txt

@@ -251,6 +251,30 @@ def load_competitive_data(base_dir):
     return pd.read_parquet(COMP_CACHE_PATH)
 
 
+def calculate_leapfrog_cosine(df, evaluator, baseline_writer, target_writer):
+    """Like calculate_leapfrog but incumbents/challengers are fixed by cosine-similarity
+    rank (CV_Idx 1-25 = high-similarity incumbents, 26-50 = low-similarity challengers)."""
+    eval_df = df[df["Evaluator"] == evaluator]
+    results = []
+    for job_id in eval_df["Job"].unique():
+        for run_id in eval_df["Run"].unique():
+            env = eval_df[(eval_df["Job"] == job_id) & (eval_df["Run"] == run_id)]
+            cv_cl = env[env["Type"] == "cv_cl_evaluations"]
+            incumbent_cvs  = list(range(1, 26))
+            challenger_cvs = list(range(26, 51))
+            incumbents  = cv_cl[(cv_cl["Writer"] == baseline_writer) & cv_cl["CV_Idx"].isin(incumbent_cvs)].copy()
+            challengers = cv_cl[(cv_cl["Writer"] == target_writer)  & cv_cl["CV_Idx"].isin(challenger_cvs)].copy()
+            challengers["Type_Tag"] = "Challenger"
+            if len(incumbents) == 0 or len(challengers) == 0:
+                continue
+            pool = pd.concat([incumbents, challengers])
+            pool = pool.sort_values(by=["Score", "CV_Idx"], ascending=[False, True])
+            pool["New_Rank"] = range(1, len(pool) + 1)
+            success = pool[(pool["Type_Tag"] == "Challenger") & (pool["New_Rank"] <= 25)]
+            results.append(len(success) / len(challengers) * 100)
+    return results
+
+
 def calculate_leapfrog(df, evaluator, baseline_writer, target_writer):
     eval_df = df[df["Evaluator"] == evaluator]
     results = []
@@ -655,7 +679,9 @@ def plot_net_advantage(delta_matrix, p_matrix, raw_matrix, writers, save_dir):
     print("  Saved net_advantage_matrix_ALL_COMBINED.png")
 
 
-def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_net, save_dir):
+def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_net, save_dir,
+                          group_labels=("High-Fit (CV-only)", "Moderate-Fit (CV-only)"),
+                          fname="win_net_combined.png"):
     """Win-rate matrix (left) and net advantage matrix (right) side by side."""
     os.makedirs(save_dir, exist_ok=True)
     fs = plt.rcParams["font.size"] + 8  # larger canvas (28×11) needs bigger base fs
@@ -811,8 +837,8 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
     ax2.axhline(N, color="black", linewidth=2)
     ax2.axvline(N, color="black", linewidth=2)
     ax2.set_title("Net Competitive Advantage over Control", fontsize=fs + 5, pad=10)
-    ax2.set_xlabel("Moderate-Fit Group — Writer Model", fontsize=fs + 4, labelpad=12)
-    ax2.set_ylabel("High-Fit Group — Writer Model", fontsize=fs + 4)
+    ax2.set_xlabel(f"{group_labels[1]} Group — Writer Model", fontsize=fs + 4, labelpad=12)
+    ax2.set_ylabel(f"{group_labels[0]} Group — Writer Model", fontsize=fs + 4)
     ax2.set_xticklabels(ax2.get_xticklabels(), rotation=45, ha="right", fontsize=fs, fontweight="bold")
     for tick in ax2.get_xticklabels():
         tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
@@ -838,9 +864,9 @@ def plot_win_net_combined(tier_df, delta_matrix, p_matrix, raw_matrix, writers_n
         "Writer Model Competitiveness — CV + Cover Letter  |  Bold = p < 0.05",
         fontsize=fs + 5,
     )
-    plt.savefig(os.path.join(save_dir, "win_net_combined.png"), dpi=150, bbox_inches="tight")
+    plt.savefig(os.path.join(save_dir, fname), dpi=150, bbox_inches="tight")
     plt.close()
-    print("  Saved win_net_combined.png")
+    print(f"  Saved {fname}")
 
 
 def plot_evaluator_divergence(df, save_dir):
@@ -1178,13 +1204,28 @@ def plot_agreement_corr(tier_df, save_dir):
         df = pd.DataFrame(vecs).dropna()
         return df.corr(method=method)
 
-    def _draw(corr, title, fname, cbar_label):
+    def _draw(corr, title, fname, cbar_label, mask_diag=False):
         fig, ax = plt.subplots(figsize=(10, 8), constrained_layout=True)
         annot = corr.round(2).astype(str)
+        diag_mask = pd.DataFrame(False, index=corr.index, columns=corr.columns)
+        if mask_diag:
+            for label in corr.index:
+                if label in corr.columns:
+                    diag_mask.loc[label, label] = True
         sns.heatmap(corr, annot=annot, fmt="", ax=ax,
                     cmap="RdBu_r", center=0, vmin=-1, vmax=1,
                     linewidths=0.5, linecolor="gray",
+                    mask=diag_mask if mask_diag else None,
                     annot_kws={"size": fs + 1})
+        if mask_diag:
+            labels = list(corr.index)
+            for i, label in enumerate(labels):
+                if label in corr.columns:
+                    ci = list(corr.columns).index(label)
+                    ax.add_patch(plt.Rectangle((ci, i), 1, 1, fill=True,
+                                               color="lightgrey", lw=0))
+                    ax.text(ci + 0.5, i + 0.5, "—", ha="center", va="center",
+                            fontsize=fs + 1, color="grey")
         ax.set_title(title, fontsize=fs + 7, pad=10)
         ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha="right",
                            fontsize=fs + 2, fontweight="bold")
@@ -1256,7 +1297,8 @@ def plot_agreement_corr(tier_df, save_dir):
         _draw(corr_style,
               f"Stylistic Agreement — {TITLE_MAP[etype]}\n"
               "(Spearman ρ of within-candidate writer ranks)",
-              f"agreement_corr_spearman_STYLISTIC_{etype}.png", "Spearman ρ")
+              f"agreement_corr_spearman_STYLISTIC_{etype}.png", "Spearman ρ",
+              mask_diag=True)
 
         # Merit Agreement: Spearman on raw scores per (Job, Writer, CV) — analogous to CV-only
         vecs_merit = {
@@ -1280,7 +1322,7 @@ def plot_merit_agreement_combined(tier_df, save_dir):
     def _corr(vecs):
         return pd.DataFrame(vecs).dropna().corr(method="spearman")
 
-    # CV-only
+    # CV-only: single ρ over (Job, CV) pairs
     sub_cv = tier_df[tier_df["Eval_Type"] == "cv_only"]
     vecs_cv = {
         MODEL_DISPLAY.get(ev, ev): (
@@ -1289,28 +1331,41 @@ def plot_merit_agreement_combined(tier_df, save_dir):
         )
         for ev in UNIQUE_EVALUATORS
     }
+    corr_cv = _corr(vecs_cv)
 
-    # CL and CV+CL Merit: raw scores per (Job, Writer, CV)
+    # CL and CV+CL Merit: per-writer ρ over (Job, CV) pairs, then mean ± std
     merit_corrs = {}
     for etype in ["cl_evaluations", "cv_cl_evaluations"]:
         sub = tier_df[tier_df["Eval_Type"] == etype]
         if sub.empty:
             continue
-        vecs = {
-            MODEL_DISPLAY.get(ev, ev): (
-                sub[sub["Evaluator"] == ev]
-                .groupby(["Job_ID", "Writer", "CV_Idx"])["Score"].mean()
-            )
-            for ev in UNIQUE_EVALUATORS
-        }
-        merit_corrs[etype] = _corr(vecs)
+        writers = sorted(sub["Writer"].unique())
+        writer_corr_list = []
+        for writer in writers:
+            sub_w = sub[sub["Writer"] == writer]
+            vecs_w = {
+                MODEL_DISPLAY.get(ev, ev): (
+                    sub_w[sub_w["Evaluator"] == ev]
+                    .groupby(["Job_ID", "CV_Idx"])["Score"].mean()
+                )
+                for ev in UNIQUE_EVALUATORS
+            }
+            writer_corr_list.append(_corr(vecs_w))
+        stacked = np.stack([c.values for c in writer_corr_list])
+        mean_corr = pd.DataFrame(np.mean(stacked, axis=0),
+                                 index=writer_corr_list[0].index,
+                                 columns=writer_corr_list[0].columns)
+        std_corr = pd.DataFrame(np.std(stacked, axis=0),
+                                index=writer_corr_list[0].index,
+                                columns=writer_corr_list[0].columns)
+        merit_corrs[etype] = (mean_corr, std_corr)
 
     panels = [
-        (_corr(vecs_cv), "CV Only"),
-        (merit_corrs.get("cl_evaluations"),   "Cover Letter Only\n(writer fixed)"),
-        (merit_corrs.get("cv_cl_evaluations"), "CV + Cover Letter\n(writer fixed)"),
+        (corr_cv, None, "CV Only"),
+        (*merit_corrs["cl_evaluations"],   "Cover Letter Only\n(writer fixed)") if "cl_evaluations" in merit_corrs else None,
+        (*merit_corrs["cv_cl_evaluations"], "CV + Cover Letter\n(writer fixed)") if "cv_cl_evaluations" in merit_corrs else None,
     ]
-    panels = [(c, t) for c, t in panels if c is not None]
+    panels = [p for p in panels if p is not None]
     n = len(panels)
 
     fig, axes = plt.subplots(1, n, figsize=(7 * n, 8), constrained_layout=True)
@@ -1318,12 +1373,22 @@ def plot_merit_agreement_combined(tier_df, save_dir):
     if n == 1:
         axes = [axes]
 
-    for ax_idx, (ax, (corr, title)) in enumerate(zip(axes, panels)):
+    for ax_idx, (ax, panel) in enumerate(zip(axes, panels)):
+        corr, std, title = panel
         is_last = ax_idx == n - 1
-        sns.heatmap(corr, annot=corr.round(2).astype(str), fmt="", ax=ax,
+        if std is None:
+            annot = corr.round(2).astype(str)
+        else:
+            annot = pd.DataFrame(
+                [[f"{corr.iloc[i, j]:.2f}\n±{std.iloc[i, j]:.2f}"
+                  for j in range(len(corr.columns))]
+                 for i in range(len(corr.index))],
+                index=corr.index, columns=corr.columns,
+            )
+        sns.heatmap(corr, annot=annot, fmt="", ax=ax,
                     cmap="RdBu_r", center=0, vmin=-1, vmax=1,
                     linewidths=0.5, linecolor="gray",
-                    annot_kws={"size": fs + 1}, cbar=False)
+                    annot_kws={"size": fs - 1}, cbar=False)
         ax.set_title(title, fontsize=fs + 5, pad=10)
         ax.set_xlabel("", fontsize=0)
 
@@ -1565,6 +1630,8 @@ def plot_strictness_by_condition(tier_df, save_dir):
     ]
 
     fig, axes = plt.subplots(1, 3, figsize=(24, 7), constrained_layout=True)
+    fig.suptitle("Scoring behavior across conditions",
+                 fontsize=fs + 8)
     model_palette = {MODEL_DISPLAY[ev]: WRITER_COLORS[ev] for ev in UNIQUE_EVALUATORS}
 
     legend_handles, legend_labels = [], []
@@ -1595,31 +1662,35 @@ def plot_strictness_by_condition(tier_df, save_dir):
 
         model_order = [MODEL_DISPLAY[ev] for ev in UNIQUE_EVALUATORS if MODEL_DISPLAY[ev] in box_df["Model"].unique()]
         n_models    = len(model_order)
-        bar_width   = 0.35 / n_models
-        group_gap   = 0.2
+        bar_width   = 0.6 / n_models
+        group_gap   = 0.5
         tier_centers = []
         tier_means   = {}
 
         for tier_idx, tier in enumerate(["High-Fit", "Moderate-Fit"]):
             x_center = tier_idx * (1 + group_gap)
             tier_centers.append(x_center)
-            half_span = (n_models - 1) / 2 * (bar_width + 0.02) + bar_width / 2
+            half_span = (n_models - 1) / 2 * (bar_width + 0.08) + bar_width / 2
+            tier_data = box_df[box_df["Tier"] == tier]["Score"]
             tier_means[tier] = (x_center - half_span, x_center + half_span,
-                                box_df[box_df["Tier"] == tier]["Score"].mean())
+                                tier_data.mean(), tier_data.std())
             for model_idx, model in enumerate(model_order):
                 subset = box_df[(box_df["Tier"] == tier) & (box_df["Model"] == model)]["Score"]
                 if subset.empty:
                     continue
-                x_pos = x_center + (model_idx - (n_models - 1) / 2) * (bar_width + 0.02)
-                bar = ax.bar(x_pos, subset.mean(), width=bar_width,
+                x_pos = x_center + (model_idx - (n_models - 1) / 2) * (bar_width + 0.08)
+                m, s = subset.mean(), subset.std()
+                bar = ax.bar(x_pos, m, width=bar_width,
                              color=model_palette[model], alpha=0.85,
-                             yerr=subset.std(), error_kw={"capsize": 4, "linewidth": 1.5, "ecolor": "black"})
+                             yerr=s, error_kw={"capsize": 4, "linewidth": 1.5, "ecolor": "black"})
+                ax.text(x_pos, m + s + 0.15, f"{m:.2f}\n±{s:.2f}",
+                        ha="center", va="bottom", fontsize=fs - 4, color="black")
                 if is_first and tier_idx == 0:
                     legend_handles.append(bar)
                     legend_labels.append(model)
 
         avg_line = None
-        for tier, (x0, x1, mean_val) in tier_means.items():
+        for tier, (x0, x1, mean_val, std_val) in tier_means.items():
             avg_line, = ax.plot([x0, x1], [mean_val, mean_val], color="black",
                                 linestyle="dashed", linewidth=1.8, zorder=5)
             ax.text(x1 + 0.02, mean_val, f"{mean_val:.2f}", va="center",
@@ -1633,7 +1704,7 @@ def plot_strictness_by_condition(tier_df, save_dir):
         ax.set_xticklabels(["High-Fit", "Moderate-Fit"])
         ax.set_title(title, fontsize=fs + 5, pad=10)
         ax.set_ylabel("Score" if is_first else "", fontsize=fs + 4)
-        ax.set_ylim(0, 10)
+        ax.set_ylim(0, 11.5)
         ax.tick_params(axis="both", labelsize=fs)
         ax.grid(True, alpha=0.3, axis="y")
         for tick in ax.get_xticklabels():
@@ -1889,6 +1960,47 @@ def main():
         plot_net_advantage(delta, p_mat, rounded_raw, writers, OUT_DIR)
         if not tier_df.empty:
             plot_win_net_combined(tier_df, delta, p_mat, rounded_raw, writers, OUT_DIR)
+
+        # Cosine-similarity split variant
+        print("\n=== Simulating arena (cosine-similarity split) ===")
+        global_dist_cos = {(b, t): [] for b in writers for t in writers}
+        for evaluator in UNIQUE_EVALUATORS:
+            print(f"  Simulating arena (cosine) for {evaluator}...")
+            for b in writers:
+                for t in writers:
+                    global_dist_cos[(b, t)].extend(
+                        calculate_leapfrog_cosine(comp_df, evaluator, b, t)
+                    )
+        global_raw_cos = np.zeros((len(writers), len(writers)))
+        for i, b in enumerate(writers):
+            for j, t in enumerate(writers):
+                pcts = global_dist_cos[(b, t)]
+                global_raw_cos[i, j] = np.mean(pcts) if pcts else np.nan
+        rounded_raw_cos = np.round(global_raw_cos, 1)
+        delta_cos = np.zeros((len(writers), len(writers)))
+        p_mat_cos = np.full((len(writers), len(writers)), np.nan)
+        for i, b in enumerate(writers):
+            ctrl_val = rounded_raw_cos[i, i]
+            for j, t in enumerate(writers):
+                tgt_pcts  = global_dist_cos[(b, t)]
+                ctrl_pcts = global_dist_cos[(b, b)]
+                if not tgt_pcts or not ctrl_pcts:
+                    delta_cos[i, j] = np.nan
+                    continue
+                delta_cos[i, j] = rounded_raw_cos[i, j] - ctrl_val
+                if i == j:
+                    p_mat_cos[i, j] = 1.0
+                elif np.array_equal(tgt_pcts, ctrl_pcts):
+                    p_mat_cos[i, j] = 1.0
+                elif len(tgt_pcts) == len(ctrl_pcts):
+                    _, p = stats.ttest_rel(tgt_pcts, ctrl_pcts)
+                    p_mat_cos[i, j] = p
+        if not tier_df.empty:
+            plot_win_net_combined(
+                tier_df, delta_cos, p_mat_cos, rounded_raw_cos, writers, OUT_DIR,
+                group_labels=("High-Similarity", "Moderate-Similarity"),
+                fname="win_net_combined_cosine.png",
+            )
     else:
         print("  Skipping net_advantage / win_net_combined (no competitive data).")
 
