@@ -32,13 +32,16 @@ CACHE_PATH      = "./output_eval/master_df.parquet"
 COMP_CACHE_PATH = "./output_eval/competitive_df.parquet"
 
 UNIQUE_EVALUATORS = [
-    "gpt-4o-mini", "gpt-5-mini", "gemini-2.0-flash",
-    "gemini-3-flash-preview", "claude-haiku-4-5", "deepseek-chat",
+    "gpt-4o-mini", "gpt-5-mini", "gpt-5",
+    "gemini-2.0-flash", "gemini-3-flash-preview", "gemini-3.5-flash",
+    "claude-haiku-4-5", "claude-4.6-sonnet",
+    "deepseek-chat",
 ]
 
 RAW_WRITERS = [
-    "gpt-4o-mini", "gpt-5-mini", "gemini-2.0-flash",
-    "gemini-3-flash-preview", "claude-haiku-4-5",
+    "gpt-4o-mini", "gpt-5-mini", "gpt-5",
+    "gemini-2.0-flash", "gemini-3-flash-preview", "gemini-3.5-flash",
+    "claude-haiku-4-5", "claude-4.6-sonnet",
     "deepseek-chat", "deepseek-r1-8b", "llama3.1-8b",
 ]
 
@@ -56,9 +59,12 @@ TITLE_MAP = {
 WRITER_COLORS = {
     "gpt-4o-mini":            "#1565C0",  # OpenAI – dark blue
     "gpt-5-mini":             "#42A5F5",  # OpenAI – light blue
+    "gpt-5":                  "#0D47A1",  # OpenAI – navy
     "gemini-2.0-flash":       "#1B5E20",  # Google – dark green
     "gemini-3-flash-preview": "#66BB6A",  # Google – medium green
+    "gemini-3.5-flash":       "#558B2F",  # Google – olive green
     "claude-haiku-4-5":       "#E65100",  # Anthropic – burnt orange
+    "claude-4.6-sonnet":      "#BF360C",  # Anthropic – deep red-orange
     "deepseek-chat":          "#4A148C",  # DeepSeek – dark purple
     "deepseek-r1-8b":         "#AB47BC",  # DeepSeek – medium purple
     "llama3.1-8b":            "#5D4037",  # Meta – brown
@@ -67,9 +73,12 @@ WRITER_COLORS = {
 MODEL_DISPLAY = {
     "gpt-4o-mini":            "GPT-4o mini",
     "gpt-5-mini":             "GPT-5 mini",
+    "gpt-5":                  "GPT-5",
     "gemini-2.0-flash":       "Gemini 2.0 Flash",
     "gemini-3-flash-preview": "Gemini 3 Flash",
+    "gemini-3.5-flash":       "Gemini 3.5 Flash",
     "claude-haiku-4-5":       "Claude Haiku 4.5",
+    "claude-4.6-sonnet":      "Claude Sonnet 4.6",
     "deepseek-chat":          "DeepSeek Chat",
     "deepseek-r1-8b":         "DeepSeek R1 8B",
     "llama3.1-8b":            "Llama 3.1 8B",

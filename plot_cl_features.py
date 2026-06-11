@@ -24,19 +24,30 @@ OUT_DIR = "output_plots/cl_features"
 fs      = plt.rcParams["font.size"]
 
 FEATURES = [
-    # (column,               display label,              group)
-    ("char_count",           "Character Count",          "Length & Structure"),
-    ("word_count",           "Word Count",               "Length & Structure"),
-    ("sentence_count",       "Sentence Count",           "Length & Structure"),
-    ("paragraph_count",      "Paragraph Count",          "Length & Structure"),
-    ("avg_word_length",      "Avg Word Length",          "Style"),
-    ("comma_count",          "Comma Count",              "Style"),
-    ("ttr",                  "Type-Token Ratio",         "Complexity"),
-    ("flesch_reading_ease",  "Flesch Reading Ease",      "Complexity"),
-    ("flesch_kincaid_grade", "Flesch-Kincaid Grade",     "Complexity"),
-    ("vader_compound",       "Sentiment (VADER)",        "Semantic"),
-    ("job_cosine_sim",       "Cosine Sim. to Job Ad",    "Semantic"),
+    # (column,               display label,                group)
+    # 1 — length & surface structure
+    ("word_count",           "Word Count",                 "Length & Structure"),
+    ("sentence_count",       "Sentence Count",             "Length & Structure"),
+    ("paragraph_count",      "Paragraph Count",            "Length & Structure"),
+    ("comma_count",          "Comma Count",                "Length & Structure"),
+    # 2 — vocabulary richness & readability (language complexity)
+    ("avg_word_length",      "Avg Word Length",            "Language Complexity"),
+    ("ttr",                  "Type-Token Ratio",           "Language Complexity"),
+    ("flesch_reading_ease",  "Flesch Reading Ease",        "Language Complexity"),
+    ("flesch_kincaid_grade", "Flesch-Kincaid Grade",       "Language Complexity"),
+    # 3 — sentiment & affect
+    ("vader_compound",       "VADER Sentiment",            "Sentiment & Affect"),
+    ("vad_valence",          "VAD Valence",                "Sentiment & Affect"),
+    ("vad_arousal",          "VAD Arousal",                "Sentiment & Affect"),
+    ("vad_dominance",        "VAD Dominance",              "Sentiment & Affect"),
+    # 4 — semantic fit
+    ("job_cosine_sim",       "Cosine Sim. to Job Ad",      "Semantic Fit"),
 ]
+
+# Emotion columns handled separately via plot_emotion_heatmap
+EMO_COLS   = ["emo_joy", "emo_neutral", "emo_surprise",
+              "emo_fear", "emo_anger", "emo_disgust", "emo_sadness"]
+EMO_LABELS = ["Joy", "Neutral", "Surprise", "Fear", "Anger", "Disgust", "Sadness"]
 
 TIERS      = ["High-Fit", "Moderate-Fit"]
 TIER_ALPHA = {"High-Fit": 0.9, "Moderate-Fit": 0.45}
@@ -56,7 +67,7 @@ def _add_tier_column(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def _draw_feature(ax, stats: pd.DataFrame, label: str):
+def _draw_feature(ax, stats: pd.DataFrame, label: str, ylim=None):
     """One group per writer model; two adjacent bars per group (High-Fit | Moderate-Fit)."""
     step = 2 * BAR_W + TIER_GAP + MODEL_GAP
     for model_idx, writer in enumerate(WRITERS):
@@ -82,6 +93,8 @@ def _draw_feature(ax, stats: pd.DataFrame, label: str):
     ax.set_title(label, fontsize=fs + 3, pad=6)
     ax.tick_params(axis="y", labelsize=fs)
     ax.grid(True, alpha=0.3, axis="y")
+    if ylim is not None:
+        ax.set_ylim(ylim)
 
 
 def _legend_handles():
@@ -149,6 +162,44 @@ def plot_overview(stats: pd.DataFrame, save_dir: str):
     print("  Saved cl_features_overview.png")
 
 
+
+def plot_emotion_heatmap(df: pd.DataFrame, save_dir: str):
+    """Model × emotion heatmap, two panels (High-Fit | Moderate-Fit)."""
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+
+    for ax, tier in zip(axes, TIERS):
+        sub = df[df["Tier"] == tier]
+        mat = (
+            sub.groupby("Writer")[EMO_COLS]
+            .mean()
+            .reindex(WRITERS)
+            .rename(index=MODEL_DISPLAY, columns=dict(zip(EMO_COLS, EMO_LABELS)))
+        )
+        annot = mat.round(2).astype(str)
+        sns.heatmap(mat, annot=annot, fmt="", ax=ax,
+                    cmap="YlOrRd", vmin=0, vmax=mat.values.max() * 1.05,
+                    linewidths=0.5, linecolor="white",
+                    annot_kws={"size": fs + 1},
+                    cbar_kws={"label": "Mean probability", "shrink": 0.7})
+        ax.set_title(f"Emotions — {tier}", fontsize=fs + 5, pad=10)
+        ax.set_xlabel("")
+        ax.set_ylabel("")
+        ax.set_yticklabels(ax.get_yticklabels(), fontsize=fs + 1, fontweight="bold")
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=35, ha="right", fontsize=fs + 1)
+        for tick in ax.get_yticklabels():
+            writer_key = next((w for w in WRITERS if MODEL_DISPLAY[w] == tick.get_text()), None)
+            if writer_key:
+                tick.set_color(WRITER_COLORS[writer_key])
+
+    fig.suptitle("Emotion Profile by Writer Model and Candidate Tier",
+                 fontsize=fs + 7, y=1.01)
+    fig.tight_layout()
+    path = os.path.join(save_dir, "cl_features_emotions_heatmap.png")
+    fig.savefig(path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print("  Saved cl_features_emotions_heatmap.png")
+
+
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -171,12 +222,15 @@ def main():
     # Overview plot
     plot_overview(stats, OUT_DIR)
 
-    # Per-group plots
+    # Per-group bar plots (all groups except Emotions)
     groups = {}
     for col, label, group in FEATURES:
         groups.setdefault(group, []).append((col, label, group))
     for group, group_features in groups.items():
         plot_group(stats, group, group_features, OUT_DIR)
+
+    # Emotion heatmap (separate)
+    plot_emotion_heatmap(df, OUT_DIR)
 
     print(f"\nAll plots saved to {OUT_DIR}/")
 

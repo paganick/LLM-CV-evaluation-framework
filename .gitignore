@@ -3,10 +3,14 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Raw evaluation output (204k files — use master_df.parquet instead)
+# Raw evaluation output — track only parquet caches
 output_eval/*
 !output_eval/master_df.parquet
 !output_eval/competitive_df.parquet
+!output_eval/cl_features.parquet
+
+# Raw compressed data dumps (large CSVs — not committed)
+LLM_CV_output_compressed_06_11/
 
 # Generated cover letters
 output_cl/
