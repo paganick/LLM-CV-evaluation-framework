@@ -23,7 +23,7 @@ from scipy import stats
 # CONFIGURATION
 # ==========================
 BASE_DIR = "./output_eval"
-OUT_DIR  = "./output_plots/paper_plots"
+OUT_DIR  = "./output_plots/paper_plots_v3"
 
 TIER_NAME  = "All_CVs"
 TIER_RANGE = (1, 50)

@@ -40,19 +40,21 @@ fs      = plt.rcParams["font.size"]
 WRITERS = list(WRITER_COLORS)
 
 FEATURE_GROUPS = [
-    ("char_count",           "Char Count",           "Length"),
-    ("word_count",           "Word Count",           "Length"),
-    ("sentence_count",       "Sentence Count",       "Length"),
-    ("paragraph_count",      "Paragraph Count",      "Length"),
-    ("avg_word_length",      "Avg Word Length",      "Style"),
-    ("comma_count",          "Comma Count",          "Style"),
-    ("ttr",                  "TTR",                  "Complexity"),
-    ("flesch_reading_ease",  "Flesch Ease",          "Complexity"),
-    ("flesch_kincaid_grade", "FK Grade",             "Complexity"),
-    ("vader_compound",       "VADER",                "Sentiment"),
-    ("vad_valence",          "VAD Valence",          "Sentiment"),
-    ("vad_arousal",          "VAD Arousal",          "Sentiment"),
-    ("vad_dominance",        "VAD Dominance",        "Sentiment"),
+    # 1 — Length & Structure
+    ("word_count",           "Word Count",           "Length & Structure"),
+    ("sentence_count",       "Sentence Count",       "Length & Structure"),
+    ("paragraph_count",      "Paragraph Count",      "Length & Structure"),
+    ("comma_count",          "Comma Count",          "Length & Structure"),
+    # 2 — Language Complexity
+    ("avg_word_length",      "Avg Word Len",         "Language Complexity"),
+    ("ttr",                  "TTR",                  "Language Complexity"),
+    ("flesch_reading_ease",  "Flesch Ease",          "Language Complexity"),
+    # 3 — Sentiment & Affect
+    ("vader_compound",       "VADER",                "Sentiment & Affect"),
+    ("vad_valence",          "VAD Valence",          "Sentiment & Affect"),
+    ("vad_arousal",          "VAD Arousal",          "Sentiment & Affect"),
+    ("vad_dominance",        "VAD Dominance",        "Sentiment & Affect"),
+    # 4 — Emotions
     ("emo_joy",              "Joy",                  "Emotions"),
     ("emo_neutral",          "Neutral",              "Emotions"),
     ("emo_surprise",         "Surprise",             "Emotions"),
@@ -60,7 +62,9 @@ FEATURE_GROUPS = [
     ("emo_anger",            "Anger",                "Emotions"),
     ("emo_disgust",          "Disgust",              "Emotions"),
     ("emo_sadness",          "Sadness",              "Emotions"),
-    ("job_cosine_sim",       "Job Cosine Sim",       "Semantic"),
+    # 5 — Semantic Fit
+    ("job_cosine_sim",       "Job Sim.",             "Semantic Fit"),
+    ("cv_cosine_sim",        "CV Sim.",              "Semantic Fit"),
 ]
 
 FEATURE_COLS   = [c for c, _, _ in FEATURE_GROUPS]
@@ -295,7 +299,7 @@ def _draw_heatmap(ax, mat: pd.DataFrame, title: str, cmap: str,
                 yticklabels=show_yticklabels)
     ax.set_title(title, fontsize=fs + 5, pad=10)
     ax.set_xlabel("")
-    ax.set_xticklabels(ax.get_xticklabels(), rotation=40, ha="right", fontsize=fs + 1)
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=50, ha="right", fontsize=fs + 1)
     for tick in ax.get_xticklabels():
         label = tick.get_text()
         tick.set_color(DISPLAY_COLORS.get(label, "black"))
@@ -336,7 +340,7 @@ def _draw_heatmap(ax, mat: pd.DataFrame, title: str, cmap: str,
 
 
 def plot_between_deviation_standalone(between: pd.DataFrame):
-    fig, ax = plt.subplots(figsize=(14, 12))
+    fig, ax = plt.subplots(figsize=(16, 14))
     _draw_heatmap(ax, between.T,
                   "Between-Model Deviation\n(z-score of model mean vs. global mean)",
                   cmap="RdBu_r", vmin=-1.5, vmax=1.5, center=0,
@@ -350,24 +354,24 @@ def plot_between_deviation_standalone(between: pd.DataFrame):
 
 
 def plot_heatmaps(eta2: pd.DataFrame, within_gstd: pd.DataFrame, tier: pd.DataFrame):
-    fig, axes = plt.subplots(1, 3, figsize=(38, 12))
+    fig, axes = plt.subplots(1, 3, figsize=(42, 14))
 
-    _draw_heatmap(axes[0], eta2.T,
-                  "Tier-Explained Variance\n(η² per feature within job, avg across jobs)",
-                  cmap="YlOrRd", vmin=0, vmax=0.5, center=0.25,
-                  cbar_label="η²", show_yticklabels=True,
-                  add_avg_col=True, add_avg_row=True)
-
-    _draw_heatmap(axes[1], within_gstd.T,
+    _draw_heatmap(axes[0], within_gstd.T,
                   "Intra-Model Variability\n(within-job std / global std)",
                   cmap="YlOrRd", vmin=0, vmax=1, center=0.5,
-                  cbar_label="Within-job std / global std", show_yticklabels=False,
+                  cbar_label="Within-job std / global std", show_yticklabels=True,
                   add_avg_col=True, add_avg_row=True)
 
-    _draw_heatmap(axes[2], tier.T,
+    _draw_heatmap(axes[1], tier.T,
                   "Tier Sensitivity\n(Cohen's d: High-Fit − Moderate-Fit)",
                   cmap="RdBu_r", vmin=-0.5, vmax=0.5, center=0,
                   cbar_label="Cohen's d", show_yticklabels=False,
+                  add_avg_col=True, add_avg_row=True)
+
+    _draw_heatmap(axes[2], eta2.T,
+                  "Tier-Explained Variance\n(η²: fraction of within-job var. explained by tier)",
+                  cmap="YlOrRd", vmin=0, vmax=0.5, center=0.25,
+                  cbar_label="η²", show_yticklabels=False,
                   add_avg_col=True, add_avg_row=False, add_spacer_row=True)
 
     fig.suptitle("Cover-Letter Feature Variance by Writer Model",
@@ -442,7 +446,7 @@ def compute_cross_model_similarity(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.D
     labels = [MODEL_DISPLAY[w] for w in WRITERS]
     sims   = {(a, b): [] for a in WRITERS for b in WRITERS}
 
-    for (job_id, cv_idx), group in df.groupby(["Job_ID", "CV_Idx"]):
+    for (_, __), group in df.groupby(["Job_ID", "CV_Idx"]):
         emb = {row["Writer"]: np.array(row["embedding"], dtype=np.float32)
                for _, row in group.iterrows()
                if row["Writer"] in WRITERS}
@@ -498,100 +502,6 @@ def plot_cross_model_similarity(mean_mat: pd.DataFrame, std_mat: pd.DataFrame):
     print("  Saved cl_cross_model_similarity.png")
 
 
-# ── distribution plots ────────────────────────────────────────────────────────
-
-DIST_FEATURES = [
-    ("char_count",    "Character Count"),
-    ("job_cosine_sim","Cosine Sim. to Job Ad"),
-    ("ttr",           "Type-Token Ratio"),
-]
-TIER_PALETTE = {"High-Fit": "#2166ac", "Moderate-Fit": "#d6604d"}
-
-
-def _prep_long(df: pd.DataFrame) -> pd.DataFrame:
-    sub = df[["Writer", "Tier"] + [c for c, _ in DIST_FEATURES]].copy()
-    sub["Writer"] = sub["Writer"].map(MODEL_DISPLAY)
-    return sub
-
-
-def plot_feature_violins(df: pd.DataFrame):
-    """One subplot per feature, all 8 models on x-axis, split by tier."""
-    long = _prep_long(df)
-    n    = len(DIST_FEATURES)
-    fig, axes = plt.subplots(1, n, figsize=(7 * n, 6))
-
-    for ax, (col, label) in zip(axes, DIST_FEATURES):
-        sns.violinplot(data=long, x="Writer", y=col, hue="Tier",
-                       split=True, inner="quart",
-                       palette=TIER_PALETTE,
-                       order=[MODEL_DISPLAY[w] for w in WRITERS],
-                       ax=ax, linewidth=0.8)
-        ax.set_title(label, fontsize=fs + 4, pad=8)
-        ax.set_xlabel("")
-        ax.set_ylabel("")
-        ax.set_xticks(range(len(WRITERS)))
-        ax.set_xticklabels([MODEL_DISPLAY[w] for w in WRITERS],
-                           rotation=40, ha="right", fontsize=fs + 1, fontweight="bold")
-        for tick in ax.get_xticklabels():
-            tick.set_color(DISPLAY_COLORS.get(tick.get_text(), "black"))
-        ax.get_legend().remove()
-        ax.grid(True, alpha=0.3, axis="y")
-
-    # shared legend
-    handles = [mpatches.Patch(color=TIER_PALETTE[t], label=t) for t in ["High-Fit", "Moderate-Fit"]]
-    fig.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, 0.0),
-               ncol=2, fontsize=fs + 1, frameon=True)
-    fig.suptitle("Feature Distributions by Model and Candidate Tier\n"
-                 "(all jobs pooled; split violin = High-Fit | Moderate-Fit)",
-                 fontsize=fs + 6, y=1.02)
-    fig.tight_layout(rect=[0, 0.06, 1, 0.97])
-    path = os.path.join(OUT_DIR, "cl_feature_distributions.png")
-    fig.savefig(path, dpi=150, bbox_inches="tight")
-    plt.close(fig)
-    print("  Saved cl_feature_distributions.png")
-
-
-def plot_feature_grid(df: pd.DataFrame):
-    """2-row × 8-column grid: rows = features, columns = models."""
-    long  = _prep_long(df)
-    nrows = len(DIST_FEATURES)
-    ncols = len(WRITERS)
-    fig, axes = plt.subplots(nrows, ncols,
-                             figsize=(3.2 * ncols, 4.5 * nrows),
-                             sharey="row")
-
-    for row, (col, label) in enumerate(DIST_FEATURES):
-        for ci, writer in enumerate(WRITERS):
-            ax    = axes[row, ci]
-            color = WRITER_COLORS[writer]
-            sub   = long[long["Writer"] == MODEL_DISPLAY[writer]]
-
-            sns.boxplot(data=sub, x="Tier", y=col, hue="Tier",
-                        order=["High-Fit", "Moderate-Fit"],
-                        palette=TIER_PALETTE, legend=False,
-                        width=0.5, linewidth=1.2,
-                        flierprops=dict(marker=".", markersize=3, alpha=0.5),
-                        ax=ax)
-            for patch in ax.patches:
-                patch.set_edgecolor(color)
-
-            ax.set_xlabel("")
-            ax.set_ylabel(label if ci == 0 else "", fontsize=fs + 1)
-            ax.set_xticks([0, 1])
-            ax.set_xticklabels(["High", "Mod."], fontsize=fs)
-            ax.tick_params(axis="y", labelsize=fs)
-            ax.grid(True, alpha=0.3, axis="y")
-            if row == 0:
-                ax.set_title(MODEL_DISPLAY[writer], fontsize=fs + 2,
-                             fontweight="bold", color=color, pad=6)
-
-    fig.suptitle("Feature Distributions per Model — High-Fit vs Moderate-Fit",
-                 fontsize=fs + 7, y=1.01)
-    fig.tight_layout(rect=[0, 0, 1, 0.98])
-    path = os.path.join(OUT_DIR, "cl_feature_distributions_grid.png")
-    fig.savefig(path, dpi=150, bbox_inches="tight")
-    plt.close(fig)
-    print("  Saved cl_feature_distributions_grid.png")
 
 
 # ── main ──────────────────────────────────────────────────────────────────────
@@ -626,9 +536,6 @@ def main():
     plot_between_deviation_standalone(between)
     plot_embedding_homogeneity(homogeneity)
     plot_cross_model_similarity(mean_mat, std_mat)
-    plot_feature_violins(df)
-    plot_feature_grid(df)
-
     print(f"\nAll plots saved to {OUT_DIR}/")
     print("\nEmbedding homogeneity:")
     print(homogeneity.sort_values("within_job", ascending=False).to_string())

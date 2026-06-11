@@ -34,7 +34,6 @@ FEATURES = [
     ("avg_word_length",      "Avg Word Length",            "Language Complexity"),
     ("ttr",                  "Type-Token Ratio",           "Language Complexity"),
     ("flesch_reading_ease",  "Flesch Reading Ease",        "Language Complexity"),
-    ("flesch_kincaid_grade", "Flesch-Kincaid Grade",       "Language Complexity"),
     # 3 — sentiment & affect
     ("vader_compound",       "VADER Sentiment",            "Sentiment & Affect"),
     ("vad_valence",          "VAD Valence",                "Sentiment & Affect"),
@@ -42,6 +41,8 @@ FEATURES = [
     ("vad_dominance",        "VAD Dominance",              "Sentiment & Affect"),
     # 4 — semantic fit
     ("job_cosine_sim",       "Cosine Sim. to Job Ad",      "Semantic Fit"),
+    ("cv_cosine_sim",        "Cosine Sim. to CV",          "Semantic Fit"),
+    ("job_minus_cv_sim",     "Job − CV Similarity",        "Semantic Fit"),
 ]
 
 # Emotion columns handled separately via plot_emotion_heatmap
@@ -163,6 +164,55 @@ def plot_overview(stats: pd.DataFrame, save_dir: str):
 
 
 
+def plot_radar_group(df: pd.DataFrame, group: str, group_features: list, save_dir: str):
+    """Radar plot for one feature group: one polygon per model, min-max scaled to [0,1]."""
+    cols   = [col for col, _, _ in group_features]
+    labels = [lbl for _, lbl, _ in group_features]
+    N      = len(cols)
+    if N < 3:
+        return  # radar needs at least 3 axes
+
+    # min-max scale per feature across all observations
+    scaled = df[["Writer"] + cols].copy()
+    for col in cols:
+        mn, mx = df[col].min(), df[col].max()
+        scaled[col] = (df[col] - mn) / (mx - mn) if mx > mn else 0.0
+
+    means = scaled.groupby("Writer")[cols].mean().reindex(WRITERS)
+
+    angles = np.linspace(0, 2 * np.pi, N, endpoint=False).tolist()
+    angles_closed = angles + angles[:1]
+
+    fig, ax = plt.subplots(figsize=(7, 7), subplot_kw=dict(polar=True))
+
+    for writer in WRITERS:
+        vals = means.loc[writer, cols].tolist()
+        vals_closed = vals + vals[:1]
+        color = WRITER_COLORS[writer]
+        ax.plot(angles_closed, vals_closed, color=color, linewidth=2,
+                label=MODEL_DISPLAY[writer])
+        ax.fill(angles_closed, vals_closed, color=color, alpha=0.07)
+
+    ax.set_xticks(angles)
+    ax.set_xticklabels(labels, fontsize=fs + 1)
+    ax.set_ylim(0, 1)
+    ax.set_yticks([0.25, 0.5, 0.75, 1.0])
+    ax.set_yticklabels(["0.25", "0.5", "0.75", "1.0"], fontsize=fs - 1, color="grey")
+    ax.grid(True, alpha=0.4)
+    ax.set_title(f"Feature Profile — {group}\n(min-max scaled to [0,1])",
+                 fontsize=fs + 4, pad=18)
+
+    handles = [mpatches.Patch(color=WRITER_COLORS[w], label=MODEL_DISPLAY[w])
+               for w in WRITERS]
+    ax.legend(handles=handles, loc="upper center",
+              bbox_to_anchor=(0.5, -0.12), ncol=3, fontsize=fs, frameon=True)
+
+    fname = f"cl_radar_{group.lower().replace(' & ', '_').replace(' ', '_')}.png"
+    fig.savefig(os.path.join(save_dir, fname), dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"  Saved {fname}")
+
+
 def plot_emotion_heatmap(df: pd.DataFrame, save_dir: str):
     """Model × emotion heatmap, two panels (High-Fit | Moderate-Fit)."""
     fig, axes = plt.subplots(1, 2, figsize=(14, 6))
@@ -204,6 +254,7 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
     df = pd.read_parquet(IN_PATH)
+    df["job_minus_cv_sim"] = df["job_cosine_sim"] - df["cv_cosine_sim"]
     df = _add_tier_column(df)
 
     # Aggregate mean ± std per (Writer, Tier) for every feature
@@ -219,9 +270,6 @@ def main():
         rows.append(sub)
     stats = pd.concat(rows, ignore_index=True)
 
-    # Overview plot
-    plot_overview(stats, OUT_DIR)
-
     # Per-group bar plots (all groups except Emotions)
     groups = {}
     for col, label, group in FEATURES:
@@ -231,6 +279,12 @@ def main():
 
     # Emotion heatmap (separate)
     plot_emotion_heatmap(df, OUT_DIR)
+
+    # Radar plots (one per feature group + emotions)
+    for group, group_features in groups.items():
+        plot_radar_group(df, group, group_features, OUT_DIR)
+    emo_features = [(c, l, "Emotions") for c, l in zip(EMO_COLS, ["Joy","Neutral","Surprise","Fear","Anger","Disgust","Sadness"])]
+    plot_radar_group(df, "Emotions", emo_features, OUT_DIR)
 
     print(f"\nAll plots saved to {OUT_DIR}/")
 

@@ -42,6 +42,7 @@ nltk.download("punkt_tab",     quiet=True)
 
 CL_DIR   = "output_cl"
 JOB_DIR  = "dataset/jobs"
+CV_DIR   = "dataset/resumes"
 OUT_PATH = "output_eval/cl_features.parquet"
 
 EMBED_MODEL   = "all-MiniLM-L6-v2"
@@ -58,6 +59,24 @@ VAD_CACHE = "raw_datasets/NRC-VAD-Lexicon-v2.1.txt"
 def _job_id_from_folder(folder_name: str) -> str:
     m = re.match(r"(job_\d+)", folder_name)
     return m.group(1) if m else folder_name
+
+
+def _read_cv_texts() -> dict:
+    """Return {(job_id, cv_idx): text} for all 500 CVs (50 per job)."""
+    texts = {}
+    for job_folder in sorted(os.listdir(CV_DIR)):
+        job_dir = os.path.join(CV_DIR, job_folder)
+        if not os.path.isdir(job_dir):
+            continue
+        job_id = _job_id_from_folder(job_folder)
+        for fname in sorted(os.listdir(job_dir)):
+            if not fname.endswith(".txt"):
+                continue
+            # filename: 01_resume_XXXXXXX.txt → cv_idx = int("01") = 1
+            cv_idx = int(fname.split("_")[0])
+            with open(os.path.join(job_dir, fname)) as f:
+                texts[(job_id, cv_idx)] = f.read().strip()
+    return texts
 
 
 def _read_cl_texts() -> dict:
@@ -289,6 +308,30 @@ def main():
     emo_cols = sorted({k for r in emo_rows for k in r})
     for col in emo_cols:
         df[col] = [r.get(col, np.nan) for r in emo_rows]
+
+    # ── CV cosine similarity ──
+    print("\n=== CV cosine similarity ===")
+    cv_texts = _read_cv_texts()
+    print(f"  {len(cv_texts)} CVs found — embedding...")
+    cv_keys   = sorted(cv_texts.keys())
+    cv_embs   = SentenceTransformer(EMBED_MODEL).encode(
+        [cv_texts[k] for k in cv_keys], convert_to_numpy=True,
+        show_progress_bar=True, batch_size=EMBED_BATCH,
+    )
+    cv_emb_map = dict(zip(cv_keys, cv_embs))
+
+    cv_cos = []
+    for _, row in df.iterrows():
+        cl_emb = np.array(row["embedding"], dtype=np.float32)
+        cv_emb = cv_emb_map.get((row["Job_ID"], int(row["CV_Idx"])))
+        if cv_emb is not None:
+            cv_cos.append(float(cosine_similarity(
+                cl_emb.reshape(1, -1), cv_emb.reshape(1, -1))[0, 0]))
+        else:
+            cv_cos.append(float("nan"))
+    df["cv_cosine_sim"] = cv_cos
+    print(f"  cv_cosine_sim: mean={df['cv_cosine_sim'].mean():.3f}, "
+          f"min={df['cv_cosine_sim'].min():.3f}, max={df['cv_cosine_sim'].max():.3f}")
 
     # ── save ──
     df.to_parquet(OUT_PATH, index=False)

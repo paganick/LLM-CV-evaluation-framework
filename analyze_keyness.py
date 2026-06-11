@@ -115,7 +115,7 @@ def compute_keyness(freq_by_writer: dict[str, Counter]) -> dict[str, list[tuple]
 
 def plot_keyness(keyness: dict, title: str, out_path: str):
     ncols = 4
-    nrows = 2
+    nrows = 3
     fig, axes = plt.subplots(nrows, ncols, figsize=(ncols * 5, nrows * 6))
     axes = axes.flatten()
 

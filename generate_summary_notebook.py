@@ -197,12 +197,10 @@ cells.append(md("""\
 ---
 ## 4. Do Models Adapt to Candidate Quality?
 
-Distributions of three key features for each model, comparing High-Fit and Moderate-Fit candidates.
-"""))
-cells.append(code('display(Image("output_plots/cl_features/cl_feature_distributions_grid.png"))'))
-cells.append(md("""\
-Boxplots confirm the Cohen's d result: for most models, High-Fit and Moderate-Fit distributions
-overlap heavily. The letters a model writes for a strong candidate look much like those for a weaker one.
+The variance heatmaps above (η², Cohen's d) already quantify this.
+The tier sensitivity panel shows that for most models and features, the tier split
+explains little within-job variance and Cohen's d is near zero — models do not write
+systematically different letters for stronger vs. weaker candidates.
 """))
 
 # ── 5. Cross-model similarity ─────────────────────────────────────────────────

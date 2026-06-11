@@ -131,7 +131,7 @@ def _fmt_cat(name: str) -> str:
 
 
 def plot_empath(effects: dict, title: str, out_path: str):
-    ncols, nrows = 4, 2
+    ncols, nrows = 4, 3
     fig, axes = plt.subplots(nrows, ncols, figsize=(ncols * 5, nrows * 6))
     axes = axes.flatten()
 

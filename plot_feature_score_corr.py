@@ -34,19 +34,17 @@ EVAL_TYPES = {
 
 FEATURE_GROUPS = [
     # (column,               display label,              group)
-    ("char_count",           "Character Count",          "Length"),
-    ("word_count",           "Word Count",               "Length"),
-    ("sentence_count",       "Sentence Count",           "Length"),
-    ("paragraph_count",      "Paragraph Count",          "Length"),
-    ("avg_word_length",      "Avg Word Length",          "Style"),
-    ("comma_count",          "Comma Count",              "Style"),
-    ("ttr",                  "Type-Token Ratio",         "Complexity"),
-    ("flesch_reading_ease",  "Flesch Reading Ease",      "Complexity"),
-    ("flesch_kincaid_grade", "Flesch-Kincaid Grade",     "Complexity"),
-    ("vader_compound",       "VADER Sentiment",          "Sentiment"),
-    ("vad_valence",          "VAD Valence",              "Sentiment"),
-    ("vad_arousal",          "VAD Arousal",              "Sentiment"),
-    ("vad_dominance",        "VAD Dominance",            "Sentiment"),
+    ("word_count",           "Word Count",               "Length & Structure"),
+    ("sentence_count",       "Sentence Count",           "Length & Structure"),
+    ("paragraph_count",      "Paragraph Count",          "Length & Structure"),
+    ("comma_count",          "Comma Count",              "Length & Structure"),
+    ("avg_word_length",      "Avg Word Length",          "Language Complexity"),
+    ("ttr",                  "Type-Token Ratio",         "Language Complexity"),
+    ("flesch_reading_ease",  "Flesch Reading Ease",      "Language Complexity"),
+    ("vader_compound",       "VADER Sentiment",          "Sentiment & Affect"),
+    ("vad_valence",          "VAD Valence",              "Sentiment & Affect"),
+    ("vad_arousal",          "VAD Arousal",              "Sentiment & Affect"),
+    ("vad_dominance",        "VAD Dominance",            "Sentiment & Affect"),
     ("emo_joy",              "Joy",                      "Emotions"),
     ("emo_neutral",          "Neutral",                  "Emotions"),
     ("emo_surprise",         "Surprise",                 "Emotions"),
@@ -54,7 +52,8 @@ FEATURE_GROUPS = [
     ("emo_anger",            "Anger",                    "Emotions"),
     ("emo_disgust",          "Disgust",                  "Emotions"),
     ("emo_sadness",          "Sadness",                  "Emotions"),
-    ("job_cosine_sim",       "Cosine Sim. to Job Ad",    "Semantic"),
+    ("job_cosine_sim",       "Cosine Sim. to Job Ad",    "Semantic Fit"),
+    ("cv_cosine_sim",        "Cosine Sim. to CV",        "Semantic Fit"),
 ]
 
 FEATURE_COLS   = [col   for col, _, _     in FEATURE_GROUPS]
@@ -169,7 +168,7 @@ def main():
     evaluators = [e for e in UNIQUE_EVALUATORS]
 
     # ── plot ──
-    fig, axes = plt.subplots(1, 2, figsize=(26, 16))
+    fig, axes = plt.subplots(1, 2, figsize=(30, 18))
 
     for ax, (eval_type, title) in zip(axes, EVAL_TYPES.items()):
         show_y = (ax is axes[0])
@@ -185,8 +184,10 @@ def main():
     cbar.set_label("Spearman ρ", fontsize=fs + 2)
     cbar.ax.tick_params(labelsize=fs)
 
-    fig.suptitle("Feature–Score Correlations by Evaluator Model  (* p < 0.05, uncorrected)",
-                 fontsize=fs + 8)
+    fig.suptitle("Feature–Score Correlations by Evaluator Model  (* p < 0.05, uncorrected)\n"
+                 r"$\it{Note:}$ Gemini 2.0 Flash has no evaluations for Claude Sonnet 4.6, "
+                 r"Gemini 3.5 Flash, GPT-5 (model deprecated before those writers existed)",
+                 fontsize=fs + 6)
     fig.tight_layout(rect=[0.05, 0, 0.97, 0.96])
     fig.savefig(OUT_PATH, dpi=150, bbox_inches="tight")
     plt.close(fig)
