@@ -18,6 +18,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats as sst
+from sklearn.linear_model import RidgeCV
 
 from aggregate_plots import (
     WRITER_COLORS, MODEL_DISPLAY, DISPLAY_COLORS,
@@ -69,11 +70,12 @@ FEATURE_GROUPS_MAP = {col: grp for col, _, grp in FEATURE_GROUPS}
 
 def fit_regressions(merged, eval_type):
     """
-    For each evaluator: OLS(Score ~ standardised_features + job_dummies).
-    Features are standardised globally (same scale across evaluators).
+    For each evaluator: Ridge(Score_res ~ std_features_res), where _res means
+    within-job demeaned (partials out job fixed effects without including job
+    dummies in the Ridge penalty).  RidgeCV picks alpha via leave-one-out CV.
 
     Returns:
-      coef_df    : DataFrame (raw evaluator names × FEATURE_COLS), OLS β
+      coef_df    : DataFrame (raw evaluator names × FEATURE_COLS), Ridge β
       feat_means : Series used to standardise writer profiles consistently
       feat_stds  : Series used to standardise writer profiles consistently
     """
@@ -83,23 +85,26 @@ def fit_regressions(merged, eval_type):
     feat_stds  = sub[FEATURE_COLS].std().replace(0, 1)
     sub[FEATURE_COLS] = (sub[FEATURE_COLS] - feat_means) / feat_stds
 
+    alphas = np.logspace(-2, 3, 40)
     coef_rows = {}
+
     for evaluator in UNIQUE_EVALUATORS:
-        ev = sub[sub["Evaluator"] == evaluator].dropna(subset=FEATURE_COLS + ["Score"])
+        ev = sub[sub["Evaluator"] == evaluator].dropna(
+            subset=FEATURE_COLS + ["Score"]).copy()
         if len(ev) < 30:
             coef_rows[evaluator] = {c: np.nan for c in FEATURE_COLS}
             continue
 
-        job_dummies = pd.get_dummies(ev["Job_ID"], drop_first=True).astype(float)
-        X = np.column_stack([
-            ev[FEATURE_COLS].values,
-            job_dummies.reindex(ev.index).fillna(0).values,
-            np.ones(len(ev)),
-        ])
+        # partial out job fixed effects via within-job demeaning
+        for col in FEATURE_COLS + ["Score"]:
+            ev[col] = ev[col] - ev.groupby("Job_ID")[col].transform("mean")
+
+        X = ev[FEATURE_COLS].values
         y = ev["Score"].values
 
-        coeffs, _, _, _ = np.linalg.lstsq(X, y, rcond=None)
-        coef_rows[evaluator] = dict(zip(FEATURE_COLS, coeffs[:len(FEATURE_COLS)]))
+        ridge = RidgeCV(alphas=alphas, fit_intercept=False)
+        ridge.fit(X, y)
+        coef_rows[evaluator] = dict(zip(FEATURE_COLS, ridge.coef_))
 
     coef_df = pd.DataFrame(coef_rows).T   # evaluators × features
     return coef_df, feat_means, feat_stds
@@ -184,6 +189,10 @@ def _draw_coef_panel(ax, coef_disp, title, show_ylabels):
     """
     coef_disp : DataFrame (display evaluator names × FEATURE_COLS).
     Transposed to (features × evaluators) for the heatmap.
+
+    Color encodes per-row z-score (which evaluators weight this feature more/less
+    than the average evaluator), so features on very different scales all read
+    clearly. Annotations show the raw OLS β.
     """
     mat = coef_disp[FEATURE_COLS].T.copy()
     mat.index = [FEATURE_LABELS[c] for c in FEATURE_COLS]
@@ -221,15 +230,16 @@ def plot_coef_heatmap(coef_by_type):
     for ax, (eval_type, title) in zip(axes, EVAL_TYPES.items()):
         _draw_coef_panel(ax, coef_by_type[eval_type], title, ax is axes[0])
 
-    sm = plt.cm.ScalarMappable(cmap="RdBu_r", norm=plt.Normalize(vmin=-1.5, vmax=1.5))
+    sm = plt.cm.ScalarMappable(cmap="RdBu_r", norm=plt.Normalize(vmin=-2.5, vmax=2.5))
     sm.set_array([])
     cbar = fig.colorbar(sm, ax=axes, orientation="vertical", fraction=0.015, pad=0.02)
-    cbar.set_label("OLS β  (standardised features)", fontsize=fs + 2)
+    cbar.set_label("Ridge β  (standardised features)", fontsize=fs + 2)
     cbar.ax.tick_params(labelsize=fs)
 
     fig.suptitle(
-        "Feature Weights per Evaluator  —  OLS with Job Fixed Effects\n"
-        "β = change in score per 1 SD increase in feature, controlling for job and other features",
+        "Feature Weights per Evaluator  —  Ridge Regression with Job Fixed Effects\n"
+        "β = change in score per 1 SD increase in feature  |  "
+        "Job effects partialled out via within-job demeaning  |  α chosen by LOO-CV",
         fontsize=fs + 6)
     fig.tight_layout(rect=[0.05, 0, 0.97, 0.96])
     out = os.path.join(OUT_DIR, "regression_coef_heatmap.png")
