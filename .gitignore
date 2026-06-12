@@ -8,6 +8,9 @@ output_eval/*
 !output_eval/master_df.parquet
 !output_eval/competitive_df.parquet
 !output_eval/cl_features.parquet
+!output_eval/master_df_no_gemini2.parquet
+!output_eval/competitive_df_no_gemini2.parquet
+!output_eval/cl_features_no_gemini2.parquet
 
 # Raw compressed data dumps (large CSVs — not committed)
 LLM_CV_output_compressed_06_11/
@@ -16,7 +19,13 @@ LLM_CV_output_compressed_06_11/
 output_cl/
 
 # Generated plots and CSVs (reproducible from scripts)
-output_plots/
+output_plots/*
+!output_plots/paper_plots_v3_no_gemini2
+output_plots/paper_plots_v3_no_gemini2/*
+!output_plots/paper_plots_v3_no_gemini2/*.png
+!output_plots/cl_features_no_gemini2
+output_plots/cl_features_no_gemini2/*
+!output_plots/cl_features_no_gemini2/*.png
 
 # Raw datasets
 raw_datasets/
