@@ -65,66 +65,69 @@ FEATURE_COLS       = [col for col, _, _   in FEATURE_GROUPS]
 FEATURE_LABELS     = {col: lbl for col, lbl, _ in FEATURE_GROUPS}
 FEATURE_GROUPS_MAP = {col: grp for col, _, grp in FEATURE_GROUPS}
 
+COSINE_COLS  = {"job_cosine_sim", "cv_cosine_sim"}
+STYLE_COLS   = [c for c in FEATURE_COLS if c not in COSINE_COLS]
+
 
 # ── regression ────────────────────────────────────────────────────────────────
 
-def fit_regressions(merged, eval_type):
+def fit_regressions(merged, eval_type, feat_cols):
     """
     For each evaluator: Ridge(Score_res ~ std_features_res), where _res means
     within-job demeaned (partials out job fixed effects without including job
     dummies in the Ridge penalty).  RidgeCV picks alpha via leave-one-out CV.
 
     Returns:
-      coef_df    : DataFrame (raw evaluator names × FEATURE_COLS), Ridge β
+      coef_df    : DataFrame (raw evaluator names × feat_cols), Ridge β
       feat_means : Series used to standardise writer profiles consistently
       feat_stds  : Series used to standardise writer profiles consistently
     """
     sub = merged[merged["Eval_Type"] == eval_type].copy()
 
-    feat_means = sub[FEATURE_COLS].mean()
-    feat_stds  = sub[FEATURE_COLS].std().replace(0, 1)
-    sub[FEATURE_COLS] = (sub[FEATURE_COLS] - feat_means) / feat_stds
+    feat_means = sub[feat_cols].mean()
+    feat_stds  = sub[feat_cols].std().replace(0, 1)
+    sub[feat_cols] = (sub[feat_cols] - feat_means) / feat_stds
 
     alphas = np.logspace(-2, 3, 40)
     coef_rows = {}
 
     for evaluator in UNIQUE_EVALUATORS:
         ev = sub[sub["Evaluator"] == evaluator].dropna(
-            subset=FEATURE_COLS + ["Score"]).copy()
+            subset=feat_cols + ["Score"]).copy()
         if len(ev) < 30:
-            coef_rows[evaluator] = {c: np.nan for c in FEATURE_COLS}
+            coef_rows[evaluator] = {c: np.nan for c in feat_cols}
             continue
 
         # partial out job fixed effects via within-job demeaning
-        for col in FEATURE_COLS + ["Score"]:
+        for col in feat_cols + ["Score"]:
             ev[col] = ev[col] - ev.groupby("Job_ID")[col].transform("mean")
 
-        X = ev[FEATURE_COLS].values
+        X = ev[feat_cols].values
         y = ev["Score"].values
 
         ridge = RidgeCV(alphas=alphas, fit_intercept=False)
         ridge.fit(X, y)
-        coef_rows[evaluator] = dict(zip(FEATURE_COLS, ridge.coef_))
+        coef_rows[evaluator] = dict(zip(feat_cols, ridge.coef_))
 
     coef_df = pd.DataFrame(coef_rows).T   # evaluators × features
     return coef_df, feat_means, feat_stds
 
 
-def writer_profiles(feat_df, feat_means, feat_stds):
+def writer_profiles(feat_df, feat_means, feat_stds, feat_cols):
     """Mean standardised feature value per writer."""
-    profiles = feat_df.groupby("Writer")[FEATURE_COLS].mean()
+    profiles = feat_df.groupby("Writer")[feat_cols].mean()
     return (profiles - feat_means) / feat_stds
 
 
-def predicted_pref(coef_df, profiles):
+def predicted_pref(coef_df, profiles, feat_cols):
     """
     Dot product: (n_eval × n_feat) @ (n_feat × n_writer) → (n_eval × n_writer).
     Returns DataFrame with MODEL_DISPLAY names.
     """
     writers    = [w for w in RAW_WRITERS    if w in profiles.index]
     evaluators = [e for e in UNIQUE_EVALUATORS if e in coef_df.index]
-    C = coef_df.loc[evaluators, FEATURE_COLS].values
-    P = profiles.loc[writers,   FEATURE_COLS].values
+    C = coef_df.loc[evaluators, feat_cols].values
+    P = profiles.loc[writers,   feat_cols].values
     pred = C @ P.T
     return pd.DataFrame(pred,
                         index=[MODEL_DISPLAY[e] for e in evaluators],
@@ -146,12 +149,12 @@ def actual_pref(merged, eval_type):
 
 # ── helpers ───────────────────────────────────────────────────────────────────
 
-def _add_group_separators(ax, show_labels):
+def _add_group_separators(ax, show_labels, feat_cols):
     """Horizontal separator lines + italic group labels on a feature-row heatmap."""
-    n = len(FEATURE_COLS)
+    n = len(feat_cols)
     current_group, group_start = None, 0
     for i in range(n + 1):
-        grp = FEATURE_GROUPS_MAP.get(FEATURE_COLS[i]) if i < n else None
+        grp = FEATURE_GROUPS_MAP.get(feat_cols[i]) if i < n else None
         if grp != current_group:
             if i > 0:
                 ax.axhline(i, color="black", linewidth=1.8)
@@ -185,17 +188,13 @@ def _highlight_diagonal(ax, row_labels, col_labels):
 
 # ── Plot 1: regression coefficient heatmap ───────────────────────────────────
 
-def _draw_coef_panel(ax, coef_disp, title, show_ylabels):
+def _draw_coef_panel(ax, coef_disp, title, show_ylabels, feat_cols):
     """
-    coef_disp : DataFrame (display evaluator names × FEATURE_COLS).
+    coef_disp : DataFrame (display evaluator names × feat_cols).
     Transposed to (features × evaluators) for the heatmap.
-
-    Color encodes per-row z-score (which evaluators weight this feature more/less
-    than the average evaluator), so features on very different scales all read
-    clearly. Annotations show the raw OLS β.
     """
-    mat = coef_disp[FEATURE_COLS].T.copy()
-    mat.index = [FEATURE_LABELS[c] for c in FEATURE_COLS]
+    mat = coef_disp[feat_cols].T.copy()
+    mat.index = [FEATURE_LABELS[c] for c in feat_cols]
 
     vals = mat.values[~np.isnan(mat.values)]
     vabs = min(np.abs(vals).max() if len(vals) else 1.0, 1.5)
@@ -222,13 +221,13 @@ def _draw_coef_panel(ax, coef_disp, title, show_ylabels):
         ax.set_ylabel("")
     else:
         ax.set_yticks([])
-    _add_group_separators(ax, show_ylabels)
+    _add_group_separators(ax, show_ylabels, feat_cols)
 
 
-def plot_coef_heatmap(coef_by_type):
+def plot_coef_heatmap(coef_by_type, feat_cols, suffix, title_note):
     fig, axes = plt.subplots(1, 2, figsize=(30, 18))
     for ax, (eval_type, title) in zip(axes, EVAL_TYPES.items()):
-        _draw_coef_panel(ax, coef_by_type[eval_type], title, ax is axes[0])
+        _draw_coef_panel(ax, coef_by_type[eval_type], title, ax is axes[0], feat_cols)
 
     sm = plt.cm.ScalarMappable(cmap="RdBu_r", norm=plt.Normalize(vmin=-2.5, vmax=2.5))
     sm.set_array([])
@@ -237,12 +236,12 @@ def plot_coef_heatmap(coef_by_type):
     cbar.ax.tick_params(labelsize=fs)
 
     fig.suptitle(
-        "Feature Weights per Evaluator  —  Ridge Regression with Job Fixed Effects\n"
+        f"Feature Weights per Evaluator  —  Ridge Regression with Job Fixed Effects{title_note}\n"
         "β = change in score per 1 SD increase in feature  |  "
         "Job effects partialled out via within-job demeaning  |  α chosen by LOO-CV",
         fontsize=fs + 6)
     fig.tight_layout(rect=[0.05, 0, 0.97, 0.96])
-    out = os.path.join(OUT_DIR, "regression_coef_heatmap.png")
+    out = os.path.join(OUT_DIR, f"regression_coef_heatmap{suffix}.png")
     fig.savefig(out, dpi=150, bbox_inches="tight")
     plt.close(fig)
     print(f"  Saved {os.path.basename(out)}")
@@ -277,7 +276,7 @@ def _draw_pref_panel(ax, mat, title):
     _highlight_diagonal(ax, list(mat.index), list(mat.columns))
 
 
-def plot_preference_matrices(pred_by_type, actual_by_type):
+def plot_preference_matrices(pred_by_type, actual_by_type, suffix, title_note):
     fig, axes = plt.subplots(2, 2, figsize=(28, 20))
 
     writer_disp  = [MODEL_DISPLAY[w] for w in RAW_WRITERS]
@@ -296,13 +295,13 @@ def plot_preference_matrices(pred_by_type, actual_by_type):
                          f"Actual score gap — {title}")
 
     fig.suptitle(
-        "Predicted vs Actual Preference Matrix\n"
+        f"Predicted vs Actual Preference Matrix{title_note}\n"
         "Predicted = evaluator feature weights · writer feature profile  "
         "| Actual = mean score, centred per evaluator\n"
         "Black border = self-evaluation  (evaluator model == writer model)",
         fontsize=fs + 5)
     fig.tight_layout(rect=[0, 0, 1, 0.95])
-    out = os.path.join(OUT_DIR, "predicted_preference_matrix.png")
+    out = os.path.join(OUT_DIR, f"predicted_preference_matrix{suffix}.png")
     fig.savefig(out, dpi=150, bbox_inches="tight")
     plt.close(fig)
     print(f"  Saved {os.path.basename(out)}")
@@ -310,7 +309,7 @@ def plot_preference_matrices(pred_by_type, actual_by_type):
 
 # ── Plot 3: predicted vs actual scatter ──────────────────────────────────────
 
-def plot_scatter(pred_by_type, actual_by_type):
+def plot_scatter(pred_by_type, actual_by_type, suffix, title_note):
     fig, axes = plt.subplots(1, 2, figsize=(18, 8))
 
     for ax, (eval_type, title) in zip(axes, EVAL_TYPES.items()):
@@ -354,12 +353,12 @@ def plot_scatter(pred_by_type, actual_by_type):
         ax.legend(fontsize=fs)
 
     fig.suptitle(
-        "Does Feature Alignment Predict Score Gaps?\n"
+        f"Does Feature Alignment Predict Score Gaps?{title_note}\n"
         "Each point = one (evaluator, writer) pair  |  "
         "Red diamonds = self-evaluations",
         fontsize=fs + 6)
     fig.tight_layout()
-    out = os.path.join(OUT_DIR, "predicted_vs_actual_scatter.png")
+    out = os.path.join(OUT_DIR, f"predicted_vs_actual_scatter{suffix}.png")
     fig.savefig(out, dpi=150, bbox_inches="tight")
     plt.close(fig)
     print(f"  Saved {os.path.basename(out)}")
@@ -381,26 +380,35 @@ def main():
     )
     merged = scores.merge(feat_df, on=["Job_ID", "Writer", "CV_Idx"])
 
-    coef_by_type   = {}
-    pred_by_type   = {}
-    actual_by_type = {}
+    variants = [
+        (FEATURE_COLS, "",       ""),
+        (STYLE_COLS,   "_style", "  [style features only — cosine similarities excluded]"),
+    ]
 
-    for eval_type in EVAL_TYPES:
-        print(f"Fitting regressions — {eval_type}...")
-        coef_df, feat_means, feat_stds = fit_regressions(merged, eval_type)
-        profiles = writer_profiles(feat_df, feat_means, feat_stds)
+    for feat_cols, suffix, title_note in variants:
+        print(f"\n── Running {'full' if not suffix else 'style-only'} feature set ──")
 
-        coef_disp = coef_df.copy()
-        coef_disp.index = [MODEL_DISPLAY.get(e, e) for e in coef_df.index]
+        coef_by_type   = {}
+        pred_by_type   = {}
+        actual_by_type = {}
 
-        coef_by_type[eval_type]   = coef_disp
-        pred_by_type[eval_type]   = predicted_pref(coef_df, profiles)
-        actual_by_type[eval_type] = actual_pref(merged, eval_type)
+        for eval_type in EVAL_TYPES:
+            print(f"  Fitting regressions — {eval_type}...")
+            coef_df, feat_means, feat_stds = fit_regressions(merged, eval_type, feat_cols)
+            profiles = writer_profiles(feat_df, feat_means, feat_stds, feat_cols)
 
-    print("Plotting...")
-    plot_coef_heatmap(coef_by_type)
-    plot_preference_matrices(pred_by_type, actual_by_type)
-    plot_scatter(pred_by_type, actual_by_type)
+            coef_disp = coef_df.copy()
+            coef_disp.index = [MODEL_DISPLAY.get(e, e) for e in coef_df.index]
+
+            coef_by_type[eval_type]   = coef_disp
+            pred_by_type[eval_type]   = predicted_pref(coef_df, profiles, feat_cols)
+            actual_by_type[eval_type] = actual_pref(merged, eval_type)
+
+        print("  Plotting...")
+        plot_coef_heatmap(coef_by_type, feat_cols, suffix, title_note)
+        plot_preference_matrices(pred_by_type, actual_by_type, suffix, title_note)
+        plot_scatter(pred_by_type, actual_by_type, suffix, title_note)
+
     print(f"\nAll saved to {OUT_DIR}/")
 
 
