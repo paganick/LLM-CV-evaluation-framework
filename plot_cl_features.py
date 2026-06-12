@@ -19,8 +19,8 @@ from aggregate_plots import WRITER_COLORS, MODEL_DISPLAY, DISPLAY_COLORS, UNIQUE
 sns.set_theme(style="whitegrid")
 plt.rcParams.update({"figure.max_open_warning": 0})
 
-IN_PATH = "output_eval/cl_features.parquet"
-OUT_DIR = "output_plots/cl_features"
+IN_PATH = "output_eval/cl_features_no_gemini2.parquet"
+OUT_DIR = "output_plots/cl_features_no_gemini2"
 fs      = plt.rcParams["font.size"]
 
 FEATURES = [

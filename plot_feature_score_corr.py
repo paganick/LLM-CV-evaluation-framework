@@ -22,9 +22,9 @@ from aggregate_plots import WRITER_COLORS, MODEL_DISPLAY, DISPLAY_COLORS, UNIQUE
 sns.set_theme(style="whitegrid")
 plt.rcParams.update({"figure.max_open_warning": 0})
 
-FEATURES_PATH = "output_eval/cl_features.parquet"
-MASTER_PATH   = "output_eval/master_df.parquet"
-OUT_PATH      = "output_plots/cl_features/feature_score_corr.png"
+FEATURES_PATH = "output_eval/cl_features_no_gemini2.parquet"
+MASTER_PATH   = "output_eval/master_df_no_gemini2.parquet"
+OUT_PATH      = "output_plots/cl_features_no_gemini2/feature_score_corr.png"
 fs            = plt.rcParams["font.size"]
 
 EVAL_TYPES = {

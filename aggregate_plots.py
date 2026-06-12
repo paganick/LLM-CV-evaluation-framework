@@ -33,14 +33,14 @@ COMP_CACHE_PATH = "./output_eval/competitive_df.parquet"
 
 UNIQUE_EVALUATORS = [
     "gpt-4o-mini", "gpt-5-mini", "gpt-5",
-    "gemini-2.0-flash", "gemini-3-flash-preview", "gemini-3.5-flash",
+    "gemini-3-flash-preview", "gemini-3.5-flash",
     "claude-haiku-4-5", "claude-4.6-sonnet",
     "deepseek-chat",
 ]
 
 RAW_WRITERS = [
     "gpt-4o-mini", "gpt-5-mini", "gpt-5",
-    "gemini-2.0-flash", "gemini-3-flash-preview", "gemini-3.5-flash",
+    "gemini-3-flash-preview", "gemini-3.5-flash",
     "claude-haiku-4-5", "claude-4.6-sonnet",
     "deepseek-chat", "deepseek-r1-8b", "llama3.1-8b",
 ]
@@ -60,7 +60,6 @@ WRITER_COLORS = {
     "gpt-4o-mini":            "#1565C0",  # OpenAI – dark blue
     "gpt-5-mini":             "#42A5F5",  # OpenAI – light blue
     "gpt-5":                  "#0D47A1",  # OpenAI – navy
-    "gemini-2.0-flash":       "#1B5E20",  # Google – dark green
     "gemini-3-flash-preview": "#66BB6A",  # Google – medium green
     "gemini-3.5-flash":       "#558B2F",  # Google – olive green
     "claude-haiku-4-5":       "#E65100",  # Anthropic – burnt orange
