@@ -12,6 +12,7 @@ and their companion CSV files in OUT_DIR:
 
 import os
 import re
+import sys
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -23,26 +24,33 @@ from scipy import stats
 # CONFIGURATION
 # ==========================
 BASE_DIR = "./output_eval"
-OUT_DIR  = "./output_plots/paper_plots_v3"
+
+NO_GEMINI2 = "--no-gemini2" in sys.argv
+
+if NO_GEMINI2:
+    OUT_DIR         = "./output_plots/paper_plots_v3_no_gemini2"
+    CACHE_PATH      = "./output_eval/master_df_no_gemini2.parquet"
+    COMP_CACHE_PATH = "./output_eval/competitive_df_no_gemini2.parquet"
+else:
+    OUT_DIR         = "./output_plots/paper_plots_v3"
+    CACHE_PATH      = "./output_eval/master_df.parquet"
+    COMP_CACHE_PATH = "./output_eval/competitive_df.parquet"
 
 TIER_NAME  = "All_CVs"
 TIER_RANGE = (1, 50)
-
-CACHE_PATH      = "./output_eval/master_df.parquet"
-COMP_CACHE_PATH = "./output_eval/competitive_df.parquet"
 
 UNIQUE_EVALUATORS = [
     "gpt-4o-mini", "gpt-5-mini", "gpt-5",
     "gemini-3-flash-preview", "gemini-3.5-flash",
     "claude-haiku-4-5", "claude-4.6-sonnet",
-    "deepseek-chat",
+    "deepseek-v3.2", "deepseek-v4-flash",
 ]
 
 RAW_WRITERS = [
     "gpt-4o-mini", "gpt-5-mini", "gpt-5",
     "gemini-3-flash-preview", "gemini-3.5-flash",
     "claude-haiku-4-5", "claude-4.6-sonnet",
-    "deepseek-chat", "deepseek-r1-8b", "llama3.1-8b",
+    "deepseek-v3.2", "deepseek-v4-flash", "deepseek-r1-8b", "llama3.1-8b",
 ]
 
 MODEL_PAIRS = [f"{e}_{w}" for e in UNIQUE_EVALUATORS for w in RAW_WRITERS]
@@ -64,8 +72,9 @@ WRITER_COLORS = {
     "gemini-3.5-flash":       "#558B2F",  # Google – olive green
     "claude-haiku-4-5":       "#E65100",  # Anthropic – burnt orange
     "claude-4.6-sonnet":      "#BF360C",  # Anthropic – deep red-orange
-    "deepseek-chat":          "#4A148C",  # DeepSeek – dark purple
-    "deepseek-r1-8b":         "#AB47BC",  # DeepSeek – medium purple
+    "deepseek-v3.2":          "#4A148C",  # DeepSeek – dark purple
+    "deepseek-v4-flash":      "#7B1FA2",  # DeepSeek – medium purple
+    "deepseek-r1-8b":         "#AB47BC",  # DeepSeek – light purple
     "llama3.1-8b":            "#5D4037",  # Meta – brown
 }
 
@@ -78,7 +87,8 @@ MODEL_DISPLAY = {
     "gemini-3.5-flash":       "Gemini 3.5 Flash",
     "claude-haiku-4-5":       "Claude Haiku 4.5",
     "claude-4.6-sonnet":      "Claude Sonnet 4.6",
-    "deepseek-chat":          "DeepSeek Chat",
+    "deepseek-v3.2":          "DeepSeek V3.2",
+    "deepseek-v4-flash":      "DeepSeek V4 Flash",
     "deepseek-r1-8b":         "DeepSeek R1 8B",
     "llama3.1-8b":            "Llama 3.1 8B",
 }
