@@ -14,6 +14,8 @@ output_eval/*
 
 # Raw compressed data dumps (large CSVs — not committed)
 LLM_CV_output_compressed_06_11/
+compressed_output_fixed/
+*.zip
 
 # Generated cover letters
 output_cl/
@@ -36,3 +38,4 @@ raw_datasets/
 # Generated description/notes files
 *.tex
 *.txt
+*.md
