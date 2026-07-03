@@ -178,12 +178,14 @@ def _color_yticklabels(ax):
 
 
 def _highlight_diagonal(ax, row_labels, col_labels):
-    """Black border on cells where row label == col label."""
+    """Gold fill + black border on cells where row label == col label."""
     for i, r in enumerate(row_labels):
         if r in col_labels:
             j = list(col_labels).index(r)
             ax.add_patch(plt.Rectangle((j, i), 1, 1,
-                                       fill=False, edgecolor="black", linewidth=2.5))
+                                       facecolor="gold", alpha=0.25, zorder=1))
+            ax.add_patch(plt.Rectangle((j, i), 1, 1,
+                                       fill=False, edgecolor="black", linewidth=2.5, zorder=2))
 
 
 # ── Plot 1: regression coefficient heatmap ───────────────────────────────────
@@ -277,7 +279,7 @@ def _draw_pref_panel(ax, mat, title):
 
 
 def plot_preference_matrices(pred_by_type, actual_by_type, suffix, title_note):
-    fig, axes = plt.subplots(2, 2, figsize=(28, 20))
+    fig, axes = plt.subplots(3, 2, figsize=(28, 30))
 
     writer_disp  = [MODEL_DISPLAY[w] for w in RAW_WRITERS]
     eval_disp    = [MODEL_DISPLAY[e] for e in UNIQUE_EVALUATORS]
@@ -289,18 +291,24 @@ def plot_preference_matrices(pred_by_type, actual_by_type, suffix, title_note):
         writers = [d for d in writer_disp  if d in pred.columns and d in actual.columns]
         evals   = [d for d in eval_disp    if d in pred.index   and d in actual.index]
 
-        _draw_pref_panel(axes[0, col], pred.loc[evals, writers],
-                         f"Predicted — {title}")
-        _draw_pref_panel(axes[1, col], actual.loc[evals, writers],
-                         f"Actual score gap — {title}")
+        pred_sub   = pred.loc[evals, writers]
+        actual_sub = actual.loc[evals, writers]
+        residual   = actual_sub - pred_sub
+
+        _draw_pref_panel(axes[0, col], pred_sub,   f"Predicted — {title}")
+        _draw_pref_panel(axes[1, col], actual_sub, f"Actual score gap — {title}")
+        _draw_pref_panel(axes[2, col], residual,   f"Residual (actual − predicted) — {title}")
 
     fig.suptitle(
         f"Predicted vs Actual Preference Matrix{title_note}\n"
         "Predicted = evaluator feature weights · writer feature profile  "
-        "| Actual = mean score, centred per evaluator\n"
-        "Black border = self-evaluation  (evaluator model == writer model)",
+        "| Actual = mean score, centred per evaluator  "
+        "| Residual = actual − predicted\n"
+        "Gold fill + black border = self-evaluation  |  "
+        "Red residual = actual preference exceeds feature prediction  |  "
+        "Blue residual = features over-predict preference",
         fontsize=fs + 5)
-    fig.tight_layout(rect=[0, 0, 1, 0.95])
+    fig.tight_layout(rect=[0, 0, 1, 0.96])
     out = os.path.join(OUT_DIR, f"predicted_preference_matrix{suffix}.png")
     fig.savefig(out, dpi=150, bbox_inches="tight")
     plt.close(fig)
@@ -343,9 +351,20 @@ def plot_scatter(pred_by_type, actual_by_type, suffix, title_note):
                         textcoords="offset points", xytext=(7, 4),
                         fontsize=fs - 1, color="firebrick", fontweight="bold")
 
-        rho, p = sst.spearmanr(df["pred"], df["actual"])
-        ax.set_title(f"{title}\nSpearman ρ = {rho:.2f}  (p = {p:.3f})",
-                     fontsize=fs + 4)
+        rho, p_sp  = sst.spearmanr(df["pred"], df["actual"])
+        r, _       = sst.pearsonr(df["pred"],  df["actual"])
+        r2         = r ** 2
+
+        # OLS fit line
+        m, b = np.polyfit(df["pred"], df["actual"], 1)
+        x_range = np.linspace(df["pred"].min(), df["pred"].max(), 200)
+        ax.plot(x_range, m * x_range + b, color="navy", linewidth=1.5,
+                linestyle="-", alpha=0.6, zorder=3, label="OLS fit")
+
+        ax.set_title(
+            f"{title}\n"
+            f"Pearson r = {r:.2f}  |  R² = {r2:.2f}  |  Spearman ρ = {rho:.2f}  (p = {p_sp:.3f})",
+            fontsize=fs + 4)
         ax.axhline(0, color="grey", linewidth=0.8, linestyle="--")
         ax.axvline(0, color="grey", linewidth=0.8, linestyle="--")
         ax.set_xlabel("Predicted preference  (feature alignment score)", fontsize=fs + 2)
