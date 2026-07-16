@@ -353,6 +353,63 @@ def plot_between_deviation_standalone(between: pd.DataFrame):
     print("  Saved cl_between_model_deviation.png")
 
 
+STYLE_FEATURE_COLS = [c for c in FEATURE_COLS if FEATURE_GROUP[c] != "Semantic Fit"]
+
+
+def plot_tier_effect_heatmap(tier: pd.DataFrame):
+    """
+    Standalone heatmap of Cohen's d (High-Fit − Moderate-Fit) per writing-style
+    feature x writer. Excludes the Semantic Fit group (job/CV cosine similarity),
+    whose tier effect is near-definitional rather than stylistic.
+    """
+    mat = tier[[FEATURE_LABELS[c] for c in STYLE_FEATURE_COLS]].T.copy()
+    mat["Avg"] = mat.mean(axis=1)
+
+    fig, ax = plt.subplots(figsize=(16, 9))
+    vabs  = 0.5
+    annot = mat.round(2).astype(str)
+    sns.heatmap(mat, annot=annot, fmt="", ax=ax,
+                cmap="RdBu_r", center=0, vmin=-vabs, vmax=vabs,
+                linewidths=0.4, linecolor="lightgrey",
+                annot_kws={"size": fs},
+                cbar_kws={"label": "Cohen's d  (High-Fit − Moderate-Fit)", "shrink": 0.7})
+    ax.set_title(
+        "Do Models Write Differently for Strong vs. Weak Candidates?\n"
+        "Cohen's d per writing-style feature  |  Semantic-fit features excluded (near-definitional)",
+        fontsize=fs + 5, pad=12)
+    ax.set_xlabel("")
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=50, ha="right", fontsize=fs + 1)
+    for tick in ax.get_xticklabels():
+        label = tick.get_text()
+        tick.set_color(DISPLAY_COLORS.get(label, "black"))
+        tick.set_fontweight("bold" if label != "Avg" else "normal")
+        if label == "Avg":
+            tick.set_fontstyle("italic")
+    ax.set_yticklabels(ax.get_yticklabels(), fontsize=fs + 1, rotation=0)
+
+    n_feat_rows = len(STYLE_FEATURE_COLS)
+    current_group, group_start = None, 0
+    for i in range(n_feat_rows + 1):
+        grp = FEATURE_GROUP.get(STYLE_FEATURE_COLS[i]) if i < n_feat_rows else None
+        if grp != current_group:
+            if i > 0:
+                ax.axhline(i, color="black", linewidth=1.5)
+            if current_group is not None:
+                ax.text(-0.6, (group_start + i) / 2, current_group,
+                        ha="right", va="center", fontsize=fs,
+                        color="dimgrey", fontstyle="italic",
+                        transform=ax.transData, clip_on=False)
+            current_group = grp
+            group_start = i
+    ax.axvline(mat.shape[1] - 1, color="black", linewidth=2.5)
+
+    fig.tight_layout(rect=[0.1, 0, 1, 0.95])
+    path = os.path.join(OUT_DIR, "cl_tier_effect_heatmap.png")
+    fig.savefig(path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print("  Saved cl_tier_effect_heatmap.png")
+
+
 def plot_heatmaps(eta2: pd.DataFrame, within_gstd: pd.DataFrame, tier: pd.DataFrame):
     fig, axes = plt.subplots(1, 3, figsize=(42, 14))
 
@@ -533,6 +590,7 @@ def main():
     df["Tier"] = df["CV_Idx"].apply(lambda x: "High-Fit" if x <= 25 else "Moderate-Fit")
 
     plot_heatmaps(eta2, within_gstd, tier)
+    plot_tier_effect_heatmap(tier)
     plot_between_deviation_standalone(between)
     plot_embedding_homogeneity(homogeneity)
     plot_cross_model_similarity(mean_mat, std_mat)
