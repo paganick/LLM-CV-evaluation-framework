@@ -100,14 +100,22 @@ def plot_variance_decomposition(scores):
     n    = len(EVAL_TYPES)
     fig, axes = plt.subplots(1, n, figsize=(8 * n, 5))
 
-    for ax, (et, title) in zip(axes, EVAL_TYPES.items()):
+    # precompute all panels first, so every panel can share one x-axis scale —
+    # bar length is then directly comparable across CV Only / CV + CL / CL
+    # Only, not just the printed numbers
+    panel_data = {}
+    for et, title in EVAL_TYPES.items():
         sub        = scores[scores["Eval_Type"] == et]
         has_writer = sub["Writer"].nunique() > 1
         sets       = predictor_sets(has_writer)
+        panel_data[et] = ([s[0] for s in sets], [r2_ols(sub, s[1]) for s in sets],
+                           [s[2] for s in sets], has_writer)
 
-        labels = [s[0] for s in sets]
-        values = [r2_ols(sub, s[1]) for s in sets]
-        colors = [s[2] for s in sets]
+    global_max = max(v for _, values, _, _ in panel_data.values()
+                      for v in values if not np.isnan(v))
+
+    for ax, (et, title) in zip(axes, EVAL_TYPES.items()):
+        labels, values, colors, has_writer = panel_data[et]
 
         y_pos = list(range(len(labels)))
         ax.barh(y_pos,
@@ -120,8 +128,7 @@ def plot_variance_decomposition(scores):
                         va="center", ha="left",
                         fontsize=fs + 2, fontweight="bold")
 
-        max_r2 = max((v for v in values if not np.isnan(v)), default=0.5)
-        ax.set_xlim(0, max_r2 * 1.3)
+        ax.set_xlim(0, global_max * 1.15)
         ax.set_yticks(y_pos)
         ax.set_yticklabels(labels, fontsize=fs + 2)
         ax.set_xlabel("R²", fontsize=fs + 2)
